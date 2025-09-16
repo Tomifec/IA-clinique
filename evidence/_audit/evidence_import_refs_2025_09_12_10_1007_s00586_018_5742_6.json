@@ -1,0 +1,457 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1007_s00586_018_5742_6.md",
+  "id": "evidence_import_refs_2025_09_12_10_1007_s00586_018_5742_6",
+  "doi": "10.1007/s00586-018-5742-6",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:27.248445Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T21:03:17Z",
+        "timestamp": 1757451797528,
+        "version": "3.37.3"
+      },
+      "reference-count": 20,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "11",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                8,
+                28
+              ]
+            ],
+            "date-time": "2018-08-28T00:00:00Z",
+            "timestamp": 1535414400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100004374",
+          "name": "Medtronic",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100004374",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Eur Spine J"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            11
+          ]
+        ]
+      },
+      "DOI": "10.1007/s00586-018-5742-6",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            8,
+            28
+          ]
+        ],
+        "date-time": "2018-08-28T03:16:48Z",
+        "timestamp": 1535426208000
+      },
+      "page": "2875-2881",
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 91,
+      "title": [
+        "Cost of low back pain: results from a national register study in Sweden"
+      ],
+      "prefix": "10.1007",
+      "volume": "27",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-5382-9013",
+          "authenticated-orcid": false,
+          "given": "Gylfi",
+          "family": "Olafsson",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Emma",
+          "family": "Jonsson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter",
+          "family": "Fritzell",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Olle",
+          "family": "Hägg",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Fredrik",
+          "family": "Borgström",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            8,
+            28
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "5",
+          "key": "5742_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "448",
+          "DOI": "10.1056/NEJMra1201534",
+          "volume": "369",
+          "author": "CJ Murray",
+          "year": "2013",
+          "unstructured": "Murray CJ, Lopez AD (2013) Measuring the global burden of disease. N Engl J Med 369(5):448–457",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "5742_CR2",
+          "unstructured": "Global Burden of Disease study 2015 (2015) GBD Compare Viz Hub. Institute for Health Metric and Evaluation, University of Washington. \n                    https://vizhub.healthdata.org/gbd-compare/embed#settings=10e29822701396f1813ef3213edaa1118aad4e13"
+        },
+        {
+          "key": "5742_CR3",
+          "unstructured": "Social Insurance Agency (Försäkringskassan) (2002) Vad kostar olika sjukdomar? -sjukpenningkostnader fördelade efter sjukskrivningsdiagnos"
+        },
+        {
+          "issue": "6",
+          "key": "5742_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "769",
+          "DOI": "10.1016/j.berh.2010.10.002",
+          "volume": "24",
+          "author": "D Hoy",
+          "year": "2010",
+          "unstructured": "Hoy D et al (2010) The epidemiology of low back pain. Best Pract Res Clin Rheumatol 24(6):769–781",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "5742_CR5",
+          "unstructured": "Statens beredning för medicinsk och social utvärdering (2001) Ont i ryggen, ont i nacken"
+        },
+        {
+          "issue": "5",
+          "key": "5742_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "575",
+          "DOI": "10.1016/j.berh.2013.10.007",
+          "volume": "27",
+          "author": "R Buchbinder",
+          "year": "2013",
+          "unstructured": "Buchbinder R et al (2013) Placing the global burden of low back pain in context. Best Pract Res Clin Rheumatol 27(5):575–589",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "issue": "2",
+          "key": "5742_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "275",
+          "DOI": "10.1080/00016470510030698",
+          "volume": "76",
+          "author": "M Ekman",
+          "year": "2005",
+          "unstructured": "Ekman M, Johnell O, Lidgren L (2005) The economic cost of low back pain in Sweden in 2001. Acta Orthop 76(2):275–284",
+          "journal-title": "Acta Orthop"
+        },
+        {
+          "issue": "1",
+          "key": "5742_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "95",
+          "DOI": "10.1016/S0304-3959(99)00187-6",
+          "volume": "84",
+          "author": "N Maniadakis",
+          "year": "2000",
+          "unstructured": "Maniadakis N, Gray A (2000) The economic burden of back pain in the UK. Pain 84(1):95–103",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "2",
+          "key": "5742_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "79",
+          "DOI": "10.1177/101053950301500202",
+          "volume": "15",
+          "author": "BF Walker",
+          "year": "2003",
+          "unstructured": "Walker BF, Muller R, Grant WD (2003) Low back pain in Australian adults: the economic burden. Asia Pac J Public Health 15(2):79–87",
+          "journal-title": "Asia Pac J Public Health"
+        },
+        {
+          "issue": "Suppl 1",
+          "key": "5742_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "i89",
+          "DOI": "10.1136/ard.2009.117150",
+          "volume": "69",
+          "author": "WB Hout van den",
+          "year": "2010",
+          "unstructured": "van den Hout WB (2010) The value of productivity: human-capital versus friction-cost method. Ann Rheum Dis 69(Suppl 1):i89–i91",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "key": "5742_CR11",
+          "unstructured": "Social Insurance Agency (Försäkringskassan) (2014) Analys av sjukfrånvarons variation. \n                    www.forsakringskassan.se"
+        },
+        {
+          "key": "5742_CR12",
+          "unstructured": "Social Insurance Agency (Försäkringskassan) (2017) Number of sick leave and early retirement days per region and age group 2000. \n                    https://www.forsakringskassan.se/statistik/statistik_och_analys2/Sjuk/sjuk_rehabiliteringspenning"
+        },
+        {
+          "key": "5742_CR13",
+          "unstructured": "Västra Sjukvårdsregionen Samverkansnämnden (2016) Utomlänspriser 2016 För vårdtjänster enligt samverkansavtal om hälso- och sjukvård inom Västra sjukvårdsregionen som gäller från 2016-01-01"
+        },
+        {
+          "key": "5742_CR14",
+          "unstructured": "Hälso- och sjukvårdsförvaltningen Stockholms Läns Landsting (2013) Förfrågningsunderlag enligt LOV Vårdval Ryggkirurgi"
+        },
+        {
+          "key": "5742_CR15",
+          "unstructured": "Statistics Sweden (2015) Average monthly wage. \n                    http://www.statistikdatabasen.scb.se/"
+        },
+        {
+          "key": "5742_CR16",
+          "unstructured": "WHO Collaborating Centre for Drug Statistics Methodology (2017) DDD definition and general considerations"
+        },
+        {
+          "issue": "6",
+          "key": "5742_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "968",
+          "DOI": "10.1136/annrheumdis-2013-204428",
+          "volume": "73",
+          "author": "D Hoy",
+          "year": "2014",
+          "unstructured": "Hoy D et al (2014) The global burden of low back pain: estimates from the Global Burden of Disease 2010 study. Ann Rheum Dis 73(6):968–974",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "key": "5742_CR18",
+          "unstructured": "Social Insurance Agency (Försäkringskassan) (2011) Vad kostar olika sjukdomar i sjukförsäkringen?"
+        },
+        {
+          "issue": "6",
+          "key": "5742_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "2028",
+          "DOI": "10.1002/art.34347",
+          "volume": "64",
+          "author": "D Hoy",
+          "year": "2012",
+          "unstructured": "Hoy D et al (2012) A systematic review of the global prevalence of low back pain. Arthritis Rheum 64(6):2028–2037",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "issue": "4",
+          "key": "5742_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "421",
+          "DOI": "10.1097/01.BRS.0000102681.61791.12",
+          "volume": "29",
+          "author": "P Fritzell",
+          "year": "2004",
+          "unstructured": "Fritzell P et al (2004) Cost-effectiveness of lumbar fusion and nonsurgical treatment for chronic low back pain in the Swedish Lumbar Spine Study: a multicenter, randomized, controlled trial from the Swedish Lumbar Spine Study Group. Spine 29(4):421–434 (discussion Z3)",
+          "journal-title": "Spine"
+        }
+      ],
+      "container-title": [
+        "European Spine Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/article/10.1007/s00586-018-5742-6/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s00586-018-5742-6.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s00586-018-5742-6.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            9,
+            20
+          ]
+        ],
+        "date-time": "2019-09-20T12:45:38Z",
+        "timestamp": 1568983538000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://link.springer.com/10.1007/s00586-018-5742-6"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            8,
+            28
+          ]
+        ]
+      },
+      "references-count": 20,
+      "journal-issue": {
+        "issue": "11",
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              11
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "5742"
+      ],
+      "URL": "https://doi.org/10.1007/s00586-018-5742-6",
+      "relation": {},
+      "ISSN": [
+        "0940-6719",
+        "1432-0932"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0940-6719"
+        },
+        {
+          "type": "electronic",
+          "value": "1432-0932"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            8,
+            28
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "16 March 2018",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "10 August 2018",
+          "order": 2,
+          "name": "revised",
+          "label": "Revised",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "17 August 2018",
+          "order": 3,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "28 August 2018",
+          "order": 4,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Compliance with ethical standards"
+          }
+        },
+        {
+          "value": "None of the authors has any potential conflict of interest.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Conflict of interest"
+          }
+        }
+      ]
+    }
+  }
+}

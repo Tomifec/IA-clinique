@@ -1,0 +1,602 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_s12877_023_04011_z.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_s12877_023_04011_z",
+  "doi": "10.1186/s12877-023-04011-z",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:05.032649Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            16
+          ]
+        ],
+        "date-time": "2025-07-16T13:02:27Z",
+        "timestamp": 1752670947276
+      },
+      "reference-count": 28,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                5,
+                30
+              ]
+            ],
+            "date-time": "2023-05-30T00:00:00Z",
+            "timestamp": 1685404800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                5,
+                30
+              ]
+            ],
+            "date-time": "2023-05-30T00:00:00Z",
+            "timestamp": 1685404800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "BMC Geriatr"
+      ],
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>Although physical performance tests of the lower extremities are used to assess sarcopenia and frailty, little is known about the mechanisms by which the parameters of ground reaction force (GRF) measured during sit-to-stand motion affect the frailty status in older adults. We aimed to examine the association between GRF parameters during sit-to-stand motion and the incidence of frailty in older adults.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>This longitudinal study evaluated 319 outpatients aged ≥ 65 years with cardiometabolic diseases. The GRF parameters were measured using a motor function analyzer, in which the power, speed, and balance scores were calculated. Frailty was diagnosed using the modified version of the Cardiovascular Health Study (mCHS) and the Kihon Checklist (KCL). The i<jats:underline>ndepen</jats:underline>dent associations between scores and frailty indices were assessed using multivariate binomial logistic regression analyses. Cox regression analysis was used to examine whether power and speed scores were associated with the incidence of frailty after adjusting for covariates.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>Logistic regression analyses adjusted for covariates showed that the power and speed scores were associated with frailty according to the mCHS criteria (power: OR = 0.37, 95% CI = 0.22–0.63; speed: OR = 0.64, 95% CI = 0.52–0.79) and KCL criteria (power: OR = 0.40, 95% CI = 0.26–0.62; speed: OR = 0.81, 95% CI = 0.69–0.96) at baseline. Receiver operating characteristic analyses revealed that the area under the curve values of power and speed scores for discriminating mCHS-defined frailty were 0.72 and 0.73. The Cox regression analysis showed that the speed score predicted the incidence of mCHS-defined (HR = 0.45, 95% CI = 0.22–0.92, <jats:italic>P</jats:italic> = 0.029) and KCL-defined (HR = 0.77, 95% CI = 0.60–0.99, <jats:italic>P</jats:italic> = 0.039) frailty, whereas the power score was associated with the incidence of KCL-defined frailty (HR = 0.72, 95% CI = 0.55–0.95, <jats:italic>P</jats:italic> = 0.02) after adjusting for covariates.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>The speed and power scores measured during sit-to-stand motion are predictive of frailty in older adults with cardiometabolic disease. Therefore, the GRF parameters measured during sit-to-stand motion could be an important indicator of frailty. Further studies are necessary to examine whether the GRF parameters can be improved by exercise or whether the changes in these parameters are associated with the improvement of frailty status.</jats:p>\n              </jats:sec>",
+      "DOI": "10.1186/s12877-023-04011-z",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2023,
+            5,
+            30
+          ]
+        ],
+        "date-time": "2023-05-30T15:03:05Z",
+        "timestamp": 1685458985000
+      },
+      "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 4,
+      "title": [
+        "Association between physical performance during sit-to-stand motion and frailty in older adults with cardiometabolic diseases: a cross-sectional, longitudinal study"
+      ],
+      "prefix": "10.1186",
+      "volume": "23",
+      "author": [
+        {
+          "given": "Yuji",
+          "family": "Murao",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Joji",
+          "family": "Ishikawa",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yoshiaki",
+          "family": "Tamura",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Fumino",
+          "family": "Kobayashi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ai",
+          "family": "Iizuka",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ayumi",
+          "family": "Toba",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kazumasa",
+          "family": "Harada",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Atsushi",
+          "family": "Araki",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            5,
+            30
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "4011_CR1",
+          "unstructured": "Cabinet Office. Annual report on the ageing. Society. 2021:6–8. https://www8.cao.go.jp/kourei/english/annualreport/2021/pdf/2021.pdf."
+        },
+        {
+          "key": "4011_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "1365",
+          "DOI": "10.1016/S0140-6736(19)31786-6",
+          "volume": "394",
+          "author": "EO Hoogendijk",
+          "year": "2019",
+          "unstructured": "Hoogendijk EO, Afilalo J, Ensrud KE, Kowal P, Onder G, Fried LP. Frailty: implications for clinical practice and public health. Lancet. 2019;394:1365–75.",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "4011_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "1701",
+          "DOI": "10.1111/j.1532-5415.2012.04099.x",
+          "volume": "60",
+          "author": "RR Kalyani",
+          "year": "2012",
+          "unstructured": "Kalyani RR, Tian J, Xue QL, Walston J, Cappola AR, Fried LP, et al. Hyperglycemia and incidence of frailty and lower extremity mobility limitations in older women. J Am Geriatr Soc. 2012;60:1701–7.",
+          "journal-title": "J Am Geriatr Soc"
+        },
+        {
+          "key": "4011_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "1726",
+          "DOI": "10.1093/eurheartj/ehu197",
+          "volume": "35",
+          "author": "M Singh",
+          "year": "2014",
+          "unstructured": "Singh M, Stewart R, White H. Importance of frailty in patients with cardiovascular disease. Eur Heart J. 2014;35:1726–31.",
+          "journal-title": "Eur Heart J"
+        },
+        {
+          "key": "4011_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "M146",
+          "DOI": "10.1093/gerona/56.3.M146",
+          "volume": "56",
+          "author": "LP Fried",
+          "year": "2001",
+          "unstructured": "Fried LP, Tangen CM, Walston J, Newman AB, Hirsch C, Gottdiener J, et al. Frailty in older adults: evidence for phenotype. J Gerontol A Biol Sci Med Sci. 2001;56:M146–56.",
+          "journal-title": "J Gerontol A Biol Sci Med Sci"
+        },
+        {
+          "key": "4011_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "893",
+          "DOI": "10.1111/ggi.12833",
+          "volume": "16",
+          "author": "PY Sewo Sampaio",
+          "year": "2016",
+          "unstructured": "Sewo Sampaio PY, Sampaio RA, Yamada M, Arai H. Systematic review of the Kihon Checklist: is it a reliable assessment of frailty? Geriatr Gerontol Int. 2016;16:893–902.",
+          "journal-title": "Geriatr Gerontol Int"
+        },
+        {
+          "key": "4011_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "489",
+          "DOI": "10.1503/cmaj.050051",
+          "volume": "173",
+          "author": "K Rockwood",
+          "year": "2005",
+          "unstructured": "Rockwood K, Song X, MacKnight C, Bergman H, Hogan DB, McDowell I, et al. Aglobal clinical measure of fitness and frailty in elderly people. CMAJ. 2005;173:489–95.",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "4011_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "601",
+          "DOI": "10.1007/s12603-012-0084-2",
+          "volume": "16",
+          "author": "JE Morley",
+          "year": "2012",
+          "unstructured": "Morley JE, Malmstrom TK, Miller DK. A simple frailty questionnaire (FRAIL) predicts outcomes in middle aged African Americans. J Nutr Health Aging. 2012;16:601–8.",
+          "journal-title": "J Nutr Health Aging"
+        },
+        {
+          "key": "4011_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "2629",
+          "DOI": "10.1111/ggi.13129",
+          "volume": "17",
+          "author": "S Satake",
+          "year": "2017",
+          "unstructured": "Satake S, Shimada H, Yamada M, Kim H, Yoshida H, Gondo Y, et al. Prevalence of frailty among community-dwellers and outpatients in Japan as defined by the Japanese version of the Cardiovascular Health Study criteria. Geriatr Gerontol Int. 2017;17:2629–34.",
+          "journal-title": "Geriatr Gerontol Int"
+        },
+        {
+          "key": "4011_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "992",
+          "DOI": "10.1111/ggi.14005",
+          "volume": "20",
+          "author": "S Satake",
+          "year": "2020",
+          "unstructured": "Satake S, Arai H. The revised Japanese version of the Cardiovascular Health Study criteria (revised J-CHS criteria). Geriatr Gerontol Int. 2020;20:992–3.",
+          "journal-title": "Geriatr Gerontol Int"
+        },
+        {
+          "key": "4011_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "264",
+          "DOI": "10.1186/s12877-018-0955-4",
+          "volume": "18",
+          "author": "Y Tamura",
+          "year": "2018",
+          "unstructured": "Tamura Y, Ishikawa J, Fujiwara Y, Tanaka M, Kanazawa N, Chiba Y, et al. Prevalence of frailty, cognitive impairment, and sarcopenia in outpatients with cardiometabolic disease in a frailty clinic. BMC Geriatr. 2018;18:264.",
+          "journal-title": "BMC Geriatr"
+        },
+        {
+          "key": "4011_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "148",
+          "DOI": "10.1093/ageing/afu157",
+          "volume": "44",
+          "author": "A Clegg",
+          "year": "2015",
+          "unstructured": "Clegg A, Rogers L, Young J. Diagnostic test accuracy of simple instruments for identifying frailty in community-dwelling older people: a systematic review. Age Ageing. 2015;44:148–52.",
+          "journal-title": "Age Ageing"
+        },
+        {
+          "key": "4011_CR13",
+          "first-page": "693",
+          "volume": "50",
+          "author": "Y Schoon",
+          "year": "2014",
+          "unstructured": "Schoon Y, Bongers K, Van Kempen J, Melis R, Olde RM. Gait speed as a test for monitoring frailty in community-dwelling older people has the highest diagnostic value compared to step length and chair rise time. Eur J Phys Rehabil Med. 2014;50:693–701.",
+          "journal-title": "Eur J Phys Rehabil Med"
+        },
+        {
+          "key": "4011_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "441",
+          "DOI": "10.1093/gerona/gls190",
+          "volume": "68",
+          "author": "GM Savva",
+          "year": "2013",
+          "unstructured": "Savva GM, Donoghue OA, Horgan F, O’Regan C, Cronin H, Kenny RA. Using timed up-and-go to identify frail members of the older population. J Gerontol A Biol Sci Med Sci. 2013;68:441–6.",
+          "journal-title": "J Gerontol A Biol Sci Med Sci"
+        },
+        {
+          "key": "4011_CR15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.archger.2020.104221",
+          "volume": "91",
+          "author": "T Kera",
+          "year": "2020",
+          "unstructured": "Kera T, Kawai H, Takahashi J, Hirano H, Watanabe Y, Fujiwara Y, et al. Association between ground reaction force in sit-to-stand motion and falls in community-dwelling older Japanese individuals. Arch Gerontol Geriatr. 2020;91: 104221.",
+          "journal-title": "Arch Gerontol Geriatr"
+        },
+        {
+          "key": "4011_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "1561",
+          "DOI": "10.1589/jpts.29.1561",
+          "volume": "29",
+          "author": "S Shen",
+          "year": "2017",
+          "unstructured": "Shen S, Abe T, Tsuji T, Fujii K, Ma J, Okura T. The relationship between ground reaction force in sit-to-stand movement and lower extremity function in community-dwelling Japanese older adults using long-term care insurance services. J Phys Ther Sci. 2017;29:1561–6.",
+          "journal-title": "J Phys Ther Sci"
+        },
+        {
+          "key": "4011_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "980",
+          "DOI": "10.1111/ggi.14021",
+          "volume": "20",
+          "author": "K Oba",
+          "year": "2020",
+          "unstructured": "Oba K, Ishikawa J, Tamura Y, Fujita Y, Ito M, Iizuka A, et al. Serum growth differentiation factor 15 level is associated with muscle strength and lower extremity function in older patients with cardiometabolic disease. Geriatr Gerontol Int. 2020;20:980–7.",
+          "journal-title": "Geriatr Gerontol Int"
+        },
+        {
+          "key": "4011_CR18",
+          "first-page": "186",
+          "volume": "12",
+          "author": "M Sugishita",
+          "year": "2010",
+          "unstructured": "Sugishita M, Hemmi I, Iwatsubo T. Japanese version equivalent to original English neuropsychological tests in ADNI-a preliminary report. Japanese J Cogn Neurosci. 2010;12:186–90 ((in Japanese)).",
+          "journal-title": "Japanese J Cogn Neurosci"
+        },
+        {
+          "key": "4011_CR19",
+          "first-page": "91",
+          "volume": "20",
+          "author": "M Sugishita",
+          "year": "2018",
+          "unstructured": "Sugishita M, Koshizuka Y, Sudou S, Sugishita K, Hemmi I, Karasawa H, et al. The validity and reliability of the Japanese Version of the Mini-Mental State Examination (MMSE-J) with the original procedure of the Attention and Calculation Task (2001). J Cogn Neurosci. 2018;20:91–110 ((in Japanese)).",
+          "journal-title": "J Cogn Neurosci"
+        },
+        {
+          "key": "4011_CR20",
+          "first-page": "1339",
+          "volume": "2",
+          "author": "S Katou",
+          "year": "1991",
+          "unstructured": "Katou S, Siogaki H, Onodera A, et al. Development of Hasegawa Dementia Scale Revised (HDS-R). J Geriatr Psychiatry. 1991;2:1339–47 ((in Japanese)).",
+          "journal-title": "J Geriatr Psychiatry"
+        },
+        {
+          "key": "4011_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "300",
+          "DOI": "10.1016/j.jamda.2019.12.012",
+          "volume": "21",
+          "author": "LK Chen",
+          "year": "2020",
+          "unstructured": "Chen LK, Woo J, Assantachai P, Auyeung TW, Chou MY, Iijima K, et al. Asian Working Group for Sarcopenia: 2019 Consensus update on sarcopenia diagnosis and treatment. J Am Med Dir Assoc. 2020;21:300-07.e2.",
+          "journal-title": "J Am Med Dir Assoc"
+        },
+        {
+          "key": "4011_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "709",
+          "DOI": "10.1111/ggi.12543",
+          "volume": "16",
+          "author": "S Satake",
+          "year": "2016",
+          "unstructured": "Satake S, Senda K, Hong YJ, Miura H, Endo H, Sakurai T, et al. Validity of the Kihon Checklist for assessing frailty status. Geriatr Gerontol Int. 2016;16:709–15.",
+          "journal-title": "Geriatr Gerontol Int"
+        },
+        {
+          "key": "4011_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "387",
+          "DOI": "10.7600/jspfsm.60.387",
+          "volume": "60",
+          "author": "T Tsuji",
+          "year": "2011",
+          "unstructured": "Tsuji T, Mitsuishi Y, Tsunoda K, et al. The relationship between ground reaction force in a sit-to-stand movement and physical functioning, history of falls, fear of falling, and mobility limitations in community-dwelling older adults. J Phys Fit Sports Med. 2011;60:387–99 ((in Japanese)).",
+          "journal-title": "J Phys Fit Sports Med"
+        },
+        {
+          "key": "4011_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "257",
+          "DOI": "10.7600/jpfsm.5.257",
+          "volume": "5",
+          "author": "T Abe",
+          "year": "2016",
+          "unstructured": "Abe T, Tsuji T, Soma Y, Shen S, Okura T. Composite variable of lower extremity muscle strength and balance ability for evaluating risks of mobility limitation and falls in community-dwelling older adults. J Phys Fit Sports Med. 2016;5:257–66.",
+          "journal-title": "J Phys Fit Sports Med"
+        },
+        {
+          "key": "4011_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "177",
+          "DOI": "10.1016/j.gaitpost.2022.02.001",
+          "volume": "93",
+          "author": "T Kera",
+          "year": "2022",
+          "unstructured": "Kera T, Kawai H, Takahashi J, Hirano H, Watanabe Y, Fujiwara Y, et al. Development of a screening formula for sarcopenia using ground reaction force during sit-to-stand motion. Gait Posture. 2022;93:177–82.",
+          "journal-title": "Gait Posture"
+        },
+        {
+          "key": "4011_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "51",
+          "DOI": "10.1097/MRR.0000000000000453",
+          "volume": "44",
+          "author": "T Shinohara",
+          "year": "2021",
+          "unstructured": "Shinohara T, Saida K, Miyata K, Usuda S. The balance function is associated with frailty in community-dwelling older women. Int J Rehabil Res. 2021;44:51–6.",
+          "journal-title": "Int J Rehabil Res"
+        },
+        {
+          "key": "4011_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "176",
+          "DOI": "10.1519/JPT.0000000000000147",
+          "volume": "42",
+          "author": "LT Marques",
+          "year": "2019",
+          "unstructured": "Marques LT, Rodrigues NC, Angeluni EO, Dos Santos Pessanha FPA, da Cruz Alves NM, Freire Júnior RC, Ferriolli E, de Abreu DCC. Balance evaluation of prefrail and frail community-dwelling older adults. J Geriatr Phys Ther. 2019;42:176–82.",
+          "journal-title": "J Geriatr Phys Ther"
+        },
+        {
+          "key": "4011_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "11",
+          "DOI": "10.1093/gerona/50A.Special_Issue.11",
+          "volume": "50A",
+          "author": "WJ Evans",
+          "year": "1995",
+          "unstructured": "Evans WJ, Lexell J. Human aging, muscle mass, and fiber type composition. J Gerontol A Biol Sci Med Sci. 1995;50A:11–6.",
+          "journal-title": "J Gerontol A Biol Sci Med Sci"
+        }
+      ],
+      "container-title": [
+        "BMC Geriatrics"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/s12877-023-04011-z.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1186/s12877-023-04011-z/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/s12877-023-04011-z.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            5,
+            30
+          ]
+        ],
+        "date-time": "2023-05-30T15:03:21Z",
+        "timestamp": 1685459001000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-023-04011-z"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            5,
+            30
+          ]
+        ]
+      },
+      "references-count": 28,
+      "journal-issue": {
+        "issue": "1",
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "4011"
+      ],
+      "URL": "https://doi.org/10.1186/s12877-023-04011-z",
+      "relation": {},
+      "ISSN": [
+        "1471-2318"
+      ],
+      "issn-type": [
+        {
+          "value": "1471-2318",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            5,
+            30
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "26 October 2022",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "30 April 2023",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "30 May 2023",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Declarations"
+          }
+        },
+        {
+          "value": "The study was approved by the Ethics Committee of Tokyo Metropolitan Geriatric Hospital (#R15-20) and was conducted according to the principles of the Declaration of Helsinki. Written informed consent was obtained from all participants.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethics approval and consent to participate"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Consent for publication"
+          }
+        },
+        {
+          "value": "The authors declare that they have no competing interests.",
+          "order": 4,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        }
+      ],
+      "article-number": "337"
+    }
+  }
+}

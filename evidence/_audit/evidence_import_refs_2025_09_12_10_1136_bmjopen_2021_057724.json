@@ -1,0 +1,966 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_bmjopen_2021_057724.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_bmjopen_2021_057724",
+  "doi": "10.1136/bmjopen-2021-057724",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:51.777623Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            4
+          ]
+        ],
+        "date-time": "2025-09-04T14:23:33Z",
+        "timestamp": 1756995813396,
+        "version": "3.37.3"
+      },
+      "reference-count": 99,
+      "publisher": "BMJ",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                1,
+                18
+              ]
+            ],
+            "date-time": "2022-01-18T00:00:00Z",
+            "timestamp": 1642464000000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 17,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "BMJ Open"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:sec><jats:title>Objectives</jats:title><jats:p>Neurogenic claudication due to lumbar spinal stenosis (LSS) is a growing health problem in older adults. We updated our previous Cochrane review (2013) to determine the effectiveness of non-operative treatment of LSS with neurogenic claudication.</jats:p></jats:sec><jats:sec><jats:title>Design</jats:title><jats:p>A systematic review.</jats:p></jats:sec><jats:sec><jats:title>Data sources</jats:title><jats:p>CENTRAL, MEDLINE, EMBASE, CINAHL and Index to Chiropractic Literature databases were searched and updated up to 22 July 2020.</jats:p></jats:sec><jats:sec><jats:title>Eligibility criteria</jats:title><jats:p>We only included randomised controlled trials published in English where at least one arm provided data on non-operative treatment and included participants diagnosed with neurogenic claudication with imaging confirmed LSS.</jats:p></jats:sec><jats:sec><jats:title>Data extraction and synthesis</jats:title><jats:p>Two independent reviewers extracted data and assessed risk of bias using the Cochrane Risk of Bias Tool 1. Grading of Recommendations Assessment, Development and Evaluation was used for evidence synthesis.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>Of 15 200 citations screened, 156 were assessed and 23 new trials were identified. There is moderate-quality evidence from three trials that: Manual therapy and exercise provides superior and clinically important short-term improvement in symptoms and function compared with medical care or community-based group exercise; manual therapy, education and exercise delivered using a cognitive-behavioural approach demonstrates superior and clinically important improvements in walking distance in the immediate to long term compared with self-directed home exercises and glucocorticoid plus lidocaine injection is more effective than lidocaine alone in improving statistical, but not clinically important improvements in pain and function in the short term. The remaining 20 new trials demonstrated low-quality or very low-quality evidence for all comparisons and outcomes, like the findings of our original review.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>There is moderate-quality evidence that a multimodal approach which includes manual therapy and exercise, with or without education, is an effective treatment and that epidural steroids are not effective for the management of LSS with neurogenic claudication. All other non-operative interventions provided insufficient quality evidence to make conclusions on their effectiveness.</jats:p></jats:sec><jats:sec><jats:title>PROSPERO registration number</jats:title><jats:p>CRD42020191860.</jats:p></jats:sec>",
+      "DOI": "10.1136/bmjopen-2021-057724",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            19
+          ]
+        ],
+        "date-time": "2022-01-19T15:51:15Z",
+        "timestamp": 1642607475000
+      },
+      "page": "e057724",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 37,
+      "title": [
+        "Non-operative treatment for lumbar spinal stenosis with neurogenic claudication: an updated systematic review"
+      ],
+      "prefix": "10.1136",
+      "volume": "12",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-4417-4961",
+          "authenticated-orcid": false,
+          "given": "Carlo",
+          "family": "Ammendolia",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Corey",
+          "family": "Hofkirchner",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joshua",
+          "family": "Plener",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2818-6949",
+          "authenticated-orcid": false,
+          "given": "André",
+          "family": "Bussières",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michael J",
+          "family": "Schneider",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1210-3106",
+          "authenticated-orcid": false,
+          "given": "James J",
+          "family": "Young",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6138-8510",
+          "authenticated-orcid": false,
+          "given": "Andrea D",
+          "family": "Furlan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kent",
+          "family": "Stuber",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Aksa",
+          "family": "Ahmed",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Carol",
+          "family": "Cancelliere",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Aleisha",
+          "family": "Adeboyejo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joseph",
+          "family": "Ornelas",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            19
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2022011907501729000_12.1.e057724.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-020-06339-1"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMcp0708097"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2474-10-121"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.4",
+          "doi-asserted-by": "crossref",
+          "first-page": "134",
+          "DOI": "10.5312/wjo.v5.i2.134",
+          "article-title": "Pathophysiology, diagnosis and treatment of intermittent claudication in patients with lumbar canal stenosis",
+          "volume": "5",
+          "author": "Kobayashi",
+          "year": "2014",
+          "journal-title": "World J Orthop"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0003-9993(98)90048-X"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2010.05.006"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-019-05987-2"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e318240d57d"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD010712"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijsu.2010.02.007"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e3181b1c99f"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1472-6963-4-38"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0000000000001061"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.14",
+          "first-page": "1",
+          "article-title": "Comparison of effects of standard, isokinetic and unloading exercises in the treatment of lumbar spinal stenosis",
+          "volume": "16",
+          "author": "Oğuz",
+          "year": "2013",
+          "journal-title": "Turk J Phys Med Rehab"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.15",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/1477-5751-13-13",
+          "article-title": "A double-blind, randomized controlled, prospective trial assessing the effectiveness of oral corticoids in the treatment of symptomatic lumbar canal stenosis",
+          "volume": "13",
+          "author": "Rodrigues",
+          "year": "2014",
+          "journal-title": "J Negat Results Biomed"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-200006010-00016"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-003-0581-4"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000241136.98159.8c"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000251014.81875.6d"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0004-9514(07)70040-5"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa070302"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa0707136"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e31819c0a6b"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0269215510367539"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/M14-1420"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.26",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Homayouni K , Naseri M , Zaravar F , et al . Comparison of the effect of aquatic physical therapy and conventional physical therapy in patients with lumbar spinal stenosis (a randomized controlled trial). J Musculoskelet Res 2015;18:1550002. doi:10.1142/S0218957715500025",
+          "DOI": "10.1142/S0218957715500025"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2018.05.014"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.28",
+          "doi-asserted-by": "crossref",
+          "first-page": "1103",
+          "DOI": "10.2147/JPR.S173178",
+          "article-title": "Nonsurgical integrative inpatient treatments for symptomatic lumbar spinal stenosis: a multi-arm randomized controlled pilot trial",
+          "volume": "12",
+          "author": "Kim",
+          "year": "2019",
+          "journal-title": "J Pain Res"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.29",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1038/s41598-019-48736-7",
+          "article-title": "Feasibility of conducting an active exercise prehabilitation program in patients awaiting spinal stenosis surgery: a randomized pilot study",
+          "volume": "9",
+          "author": "Marchand",
+          "year": "2019",
+          "journal-title": "Sci Rep"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2019.04.009"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.31",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1001/jamanetworkopen.2018.6828",
+          "article-title": "Comparative clinical effectiveness of nonsurgical treatment methods in patients with lumbar spinal stenosis: a randomized clinical trial",
+          "volume": "2",
+          "author": "Schneider",
+          "year": "2019",
+          "journal-title": "JAMA Netw Open"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.32",
+          "doi-asserted-by": "crossref",
+          "first-page": "63",
+          "DOI": "10.2106/00004623-198567010-00009",
+          "article-title": "The use of epidural steroids in the treatment of lumbar radicular pain. A prospective, randomized, double-blind study",
+          "volume": "67",
+          "author": "Cuckler",
+          "year": "1985",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.33",
+          "first-page": "181",
+          "article-title": "The value of caudal epidural steroids in the treatment of lumbar neural compression syndromes",
+          "volume": "12",
+          "author": "Zahaar",
+          "year": "1991",
+          "journal-title": "J Neurol Orthop Med Surg"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00002508-199806000-00010"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1533-2500.2011.00518.x"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.36",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.5535/arm.2016.40.1.14",
+          "article-title": "The effect and safety of steroid injection in lumbar spinal stenosis: with or without local anesthetics",
+          "volume": "40",
+          "author": "Song",
+          "year": "2016",
+          "journal-title": "Ann Rehabil Med"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa1313265"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.38",
+          "first-page": "62",
+          "article-title": "Interlaminar epidural steroid injection for degenerative lumbar spinal canal stenosis: does the intervertebral level of performance matter?",
+          "volume": "14",
+          "author": "Milburn",
+          "year": "2014",
+          "journal-title": "Ochsner J"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.39",
+          "first-page": "593",
+          "article-title": "Percutaneous epidural adhesiolysis using inflatable balloon catheter and balloon-less catheter in central lumbar spinal stenosis with neurogenic claudication: a randomized controlled trial",
+          "volume": "21",
+          "author": "Karm",
+          "year": "2018",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.40",
+          "doi-asserted-by": "crossref",
+          "first-page": "797",
+          "DOI": "10.1016/j.apmr.2018.12.035",
+          "article-title": "Effectiveness of physical therapy combined with epidural steroid injection for individuals with lumbar spinal stenosis: a randomized parallel-group trial",
+          "volume": "100",
+          "author": "Hammerich",
+          "year": "2019",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.41",
+          "doi-asserted-by": "crossref",
+          "first-page": "226",
+          "DOI": "10.3344/kjp.2020.33.3.226",
+          "article-title": "Comparison of treatment outcomes in lumbar central stenosis patients treated with epidural steroid injections: interlaminar versus bilateral transforaminal approach",
+          "volume": "33",
+          "author": "Sencan",
+          "year": "2020",
+          "journal-title": "Korean J Pain"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.42",
+          "doi-asserted-by": "crossref",
+          "first-page": "168",
+          "DOI": "10.1080/02688697.2020.1713990",
+          "article-title": "Randomized trial of 3-drug combination for lumbar nerve root epidural injections with a TNF-α inhibitor in treatment of lumbar stenosis",
+          "volume": "34",
+          "author": "Wei",
+          "year": "2020",
+          "journal-title": "Br J Neurosurg"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e31818f924d"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.44",
+          "first-page": "825",
+          "article-title": "Methylcobalamin as an adjuvant medication in conservative treatment of lumbar spinal stenosis",
+          "volume": "83",
+          "author": "Waikakul",
+          "year": "2000",
+          "journal-title": "J Med Assoc Thai"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000261029.29170.e6"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1212/WNL.0000000000001168"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.47",
+          "doi-asserted-by": "crossref",
+          "first-page": "684",
+          "DOI": "10.1097/BRS.0000000000000837",
+          "article-title": "A randomized, double-blind, placebo-controlled crossover trial of oxymorphone hydrochloride and propoxyphene/acetaminophen combination for the treatment of neurogenic claudication associated with lumbar spinal stenosis",
+          "volume": "40",
+          "author": "Markman",
+          "year": "2015",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.48",
+          "doi-asserted-by": "crossref",
+          "first-page": "957",
+          "DOI": "10.1016/j.apmr.2017.01.017",
+          "article-title": "Botulinum toxin treatment for nocturnal calf cramps in patients with lumbar spinal stenosis: a randomized clinical trial",
+          "volume": "98",
+          "author": "Park",
+          "year": "2017",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.49",
+          "doi-asserted-by": "crossref",
+          "first-page": "585",
+          "DOI": "10.1097/00007632-198309000-00004",
+          "article-title": "Calcitonin treatment for neurogenic claudication",
+          "volume": "8",
+          "author": "Porter",
+          "year": "1983",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.50",
+          "doi-asserted-by": "crossref",
+          "first-page": "1061",
+          "DOI": "10.1097/00007632-198809000-00015",
+          "article-title": "Neurogenic claudication and root claudication treated with calcitonin. A double-blind trial",
+          "volume": "13",
+          "author": "Porter",
+          "year": "1988",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF00296769"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000143807.78082.7f"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3349/ymj.2009.50.5.683"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.54",
+          "doi-asserted-by": "crossref",
+          "first-page": "207",
+          "DOI": "10.1007/s00586-006-0154-4",
+          "article-title": "Randomised placebo-controlled trial on the effectiveness of nasal salmon calcitonin in the treatment of lumbar spinal stenosis",
+          "volume": "16",
+          "author": "Tafazal",
+          "year": "2007",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/acupmed-2015-010962"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.56",
+          "doi-asserted-by": "crossref",
+          "first-page": "500",
+          "DOI": "10.1016/j.amjmed.2019.08.038",
+          "article-title": "Acupuncture vs noninsertive sham acupuncture in aging patients with degenerative lumbar spinal stenosis: a randomized controlled trial",
+          "volume": "133",
+          "author": "Qin",
+          "year": "2020",
+          "journal-title": "Am J Med"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.57",
+          "doi-asserted-by": "crossref",
+          "first-page": "23",
+          "DOI": "10.1016/j.jmpt.2018.10.002",
+          "article-title": "Impact of spinal manipulation on lower extremity motor control in lumbar spinal stenosis patients: a small-scale assessor-blind randomized clinical trial",
+          "volume": "42",
+          "author": "Passmore",
+          "year": "2019",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.58",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0000000000000731"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.59",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/spi.2006.5.6.500"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.60",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000166618.42749.d1"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.61",
+          "doi-asserted-by": "crossref",
+          "first-page": "1619",
+          "DOI": "10.1097/BRS.0000000000002682",
+          "article-title": "Long-term results of surgery compared with nonoperative treatment for lumbar degenerative spondylolisthesis in the spine patient outcomes research trial (sport)",
+          "volume": "43",
+          "author": "Abdu",
+          "year": "2018",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.62",
+          "doi-asserted-by": "crossref",
+          "first-page": "1499",
+          "DOI": "10.1016/j.apmr.2017.02.029",
+          "article-title": "Long-Term effects of repeated injections of local anesthetic with or without corticosteroid for lumbar spinal stenosis: a randomized trial",
+          "volume": "98",
+          "author": "Friedly",
+          "year": "2017",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.63",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2012.05.004"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.64",
+          "doi-asserted-by": "crossref",
+          "first-page": "42",
+          "DOI": "10.1097/BRS.0000000000001647",
+          "article-title": "Patient priority weighting of the Roland Morris disability questionnaire does not change results of the lumbar epidural steroid injections for spinal stenosis trial",
+          "volume": "42",
+          "author": "Makris",
+          "year": "2017",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.65",
+          "doi-asserted-by": "crossref",
+          "first-page": "1015",
+          "DOI": "10.1016/j.jpain.2021.03.147",
+          "article-title": "Non-Surgical interventions for lumbar spinal stenosis leading to neurogenic claudication: a clinical practice guideline",
+          "volume": "22",
+          "author": "Bussières",
+          "year": "2021",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.66",
+          "doi-asserted-by": "crossref",
+          "first-page": "2247",
+          "DOI": "10.1016/j.apmr.2021.03.033",
+          "article-title": "Effectiveness of conservative nonpharmacologic therapies for pain, disability, physical capacity, and physical activity behavior in patients with degenerative lumbar spinal stenosis: a systematic review and meta-analysis",
+          "volume": "102",
+          "author": "Jacobi",
+          "year": "2021",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.67",
+          "doi-asserted-by": "crossref",
+          "first-page": "n1581",
+          "DOI": "10.1136/bmj.n1581",
+          "article-title": "Lumbar spinal stenosis",
+          "volume": "61",
+          "author": "Jensen",
+          "year": "2021",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.68",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2012.11.059"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.69",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2522/ptj.20120379"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.70",
+          "first-page": "18",
+          "article-title": "The physical and psychological impact of neurogenic claudication: the patients' perspectives",
+          "volume": "61",
+          "author": "Ammendolia",
+          "year": "2017",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.71",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e3180b9f96e"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.72",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2007.10.037"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.73",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pmrj.2013.05.012"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.74",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/M15-0934"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.75",
+          "first-page": "707",
+          "article-title": "Steroid for epidural injection in spinal stenosis: a systematic review and meta-analysis",
+          "volume": "9",
+          "author": "Liu",
+          "year": "2015",
+          "journal-title": "Drug Des Devel Ther"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.76",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2010.338"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.77",
+          "doi-asserted-by": "crossref",
+          "first-page": "1737",
+          "DOI": "10.1097/BRS.0000000000002207",
+          "article-title": "Trends, complications, and costs for hospital admission and surgery for lumbar spinal stenosis",
+          "volume": "42",
+          "author": "Machado",
+          "year": "2017",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.78",
+          "article-title": "Surgical options for lumbar spinal stenosis",
+          "volume": "11",
+          "author": "Machado",
+          "year": "2016",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.79",
+          "doi-asserted-by": "crossref",
+          "first-page": "E857",
+          "DOI": "10.1097/BRS.0000000000001635",
+          "article-title": "Surgical versus nonsurgical treatment for lumbar spinal stenosis",
+          "volume": "41",
+          "author": "Zaina",
+          "year": "2016",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.80",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.heliyon.2019.e01683",
+          "article-title": "Barriers to participation in a placebo-surgical trial for lumbar spinal stenosis",
+          "volume": "5",
+          "author": "Anderson",
+          "year": "2019",
+          "journal-title": "Heliyon"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.81",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmjopen-2018-024944"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.82",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1503/cmaj.171333"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.83",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/M16-2367"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.84",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pmed.1002369"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.85",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ctim.2013.08.007"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.86",
+          "doi-asserted-by": "crossref",
+          "first-page": "265",
+          "DOI": "10.1016/j.jmpt.2017.12.004",
+          "article-title": "Spinal manipulative therapy and other conservative treatments for low back pain: a guideline from the Canadian chiropractic guideline initiative",
+          "volume": "41",
+          "author": "Bussières",
+          "year": "2018",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.87",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2010.02.005"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.88",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e3181a105fc"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.89",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e31820c97b1"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.90",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2010.1833"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.91",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0956797617723724"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.92",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Carlesso CPS , Smith C , Ammendolia C . Responsiveness of outcome measures in non-surgical patients with lumbar spinal stenosis a secondary analysis from a randomized controlled trial. Spine 2020.",
+          "DOI": "10.1097/BRS.0000000000003920"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.93",
+          "doi-asserted-by": "crossref",
+          "first-page": "450",
+          "DOI": "10.1007/s00586-016-4587-0",
+          "article-title": "A comparison between different outcome measures based on \"meaningful important differences\" in patients with lumbar spinal stenosis",
+          "volume": "26",
+          "author": "Wertli",
+          "year": "2017",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.94",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.berh.2005.03.003"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.95",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/00004623-199072030-00013"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.96",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2006.03.016"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.97",
+          "doi-asserted-by": "crossref",
+          "first-page": "941",
+          "DOI": "10.1016/j.spinee.2017.10.003",
+          "article-title": "Clinical classification criteria for neurogenic claudication caused by lumbar spinal stenosis. The N-CLASS criteria",
+          "volume": "18",
+          "author": "Genevay",
+          "year": "2018",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.98",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/JBJS.H.00913"
+        },
+        {
+          "key": "2022011907501729000_12.1.e057724.99",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e3181e0f04d"
+        }
+      ],
+      "container-title": [
+        "BMJ Open"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2021-057724",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            19
+          ]
+        ],
+        "date-time": "2022-01-19T15:51:48Z",
+        "timestamp": 1642607508000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2021-057724"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            1
+          ]
+        ]
+      },
+      "references-count": 99,
+      "journal-issue": {
+        "issue": "1",
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              1,
+              19
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bmjopen-2021-057724"
+      ],
+      "URL": "https://doi.org/10.1136/bmjopen-2021-057724",
+      "relation": {},
+      "ISSN": [
+        "2044-6055",
+        "2044-6055"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2044-6055"
+        },
+        {
+          "type": "electronic",
+          "value": "2044-6055"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            1
+          ]
+        ]
+      }
+    }
+  }
+}

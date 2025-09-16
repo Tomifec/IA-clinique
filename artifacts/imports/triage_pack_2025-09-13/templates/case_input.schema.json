@@ -1,0 +1,345 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CaseInput.Cervicalgia",
+  "type": "object",
+  "required": [
+    "demographics",
+    "presentation",
+    "exam",
+    "flags",
+    "history"
+  ],
+  "properties": {
+    "demographics": {
+      "type": "object",
+      "required": [
+        "age",
+        "sex"
+      ],
+      "properties": {
+        "age": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 120
+        },
+        "sex": {
+          "type": "string",
+          "enum": [
+            "F",
+            "M",
+            "Other",
+            "Unspecified"
+          ]
+        }
+      }
+    },
+    "presentation": {
+      "type": "object",
+      "required": [
+        "onset",
+        "pain",
+        "distribution"
+      ],
+      "properties": {
+        "onset": {
+          "type": "string",
+          "description": "acute/subacute/chronic with date if known"
+        },
+        "mechanism": {
+          "type": "string",
+          "description": "trauma, insidious, WAD, sports, etc."
+        },
+        "pain": {
+          "type": "object",
+          "required": [
+            "intensity"
+          ],
+          "properties": {
+            "intensity": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 10
+            },
+            "night_pain": {
+              "type": "boolean"
+            },
+            "aggravating": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "relieving": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "distribution": {
+          "type": "string",
+          "description": "neck, shoulder, scapula, arm, dermatomal"
+        },
+        "neuro_symptoms": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "paresthesia",
+              "weakness",
+              "numbness",
+              "gait_imbalance",
+              "hand_clumsiness",
+              "vision_change",
+              "dysarthria",
+              "dysphagia",
+              "drop_attacks",
+              "tinnitus_pulsatile",
+              "vertigo",
+              "headache_sudden"
+            ]
+          }
+        }
+      }
+    },
+    "exam": {
+      "type": "object",
+      "required": [
+        "neuro"
+      ],
+      "properties": {
+        "rom_limit": {
+          "type": "boolean"
+        },
+        "palpation_bone_tenderness": {
+          "type": "boolean"
+        },
+        "spurling": {
+          "type": "string",
+          "enum": [
+            "pos",
+            "neg",
+            "nt"
+          ]
+        },
+        "distraction": {
+          "type": "string",
+          "enum": [
+            "pos",
+            "neg",
+            "nt"
+          ]
+        },
+        "upper_limb_tension_test": {
+          "type": "string",
+          "enum": [
+            "pos",
+            "neg",
+            "nt"
+          ]
+        },
+        "hoffmann": {
+          "type": "string",
+          "enum": [
+            "pos",
+            "neg",
+            "nt"
+          ]
+        },
+        "babinski": {
+          "type": "string",
+          "enum": [
+            "pos",
+            "neg",
+            "nt"
+          ]
+        },
+        "clonus": {
+          "type": "string",
+          "enum": [
+            "pos",
+            "neg",
+            "nt"
+          ]
+        },
+        "gait_ataxia": {
+          "type": "boolean"
+        },
+        "neuro": {
+          "type": "object",
+          "properties": {
+            "motor_deficit": {
+              "type": "boolean"
+            },
+            "sensory_deficit": {
+              "type": "boolean"
+            },
+            "reflex_changes": {
+              "type": "boolean"
+            },
+            "sphincter_disturbance": {
+              "type": "boolean"
+            }
+          }
+        },
+        "vitals": {
+          "type": "object",
+          "properties": {
+            "temp_c": {
+              "type": "number"
+            },
+            "hr_bpm": {
+              "type": "number"
+            },
+            "bp_mmHg": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "flags": {
+      "type": "object",
+      "properties": {
+        "trauma_high_energy": {
+          "type": "boolean"
+        },
+        "osteoporosis_or_age_65plus": {
+          "type": "boolean"
+        },
+        "infection_signs": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "fever",
+              "chills",
+              "meningism",
+              "odynophagia"
+            ]
+          }
+        },
+        "cancer_history": {
+          "type": "boolean"
+        },
+        "unexplained_weight_loss": {
+          "type": "boolean"
+        },
+        "immunosuppression": {
+          "type": "boolean"
+        },
+        "night_pain_nonmechanical": {
+          "type": "boolean"
+        },
+        "myelopathy_signs": {
+          "type": "boolean"
+        },
+        "vascular_redflags": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "sudden_headache",
+              "sudden_neck_pain",
+              "horner",
+              "cranial_nerve_palsy",
+              "tinnitus_pulsatile",
+              "vertigo",
+              "neurologic_deficit_transient"
+            ]
+          }
+        }
+      }
+    },
+    "history": {
+      "type": "object",
+      "properties": {
+        "comorbidities": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "prior_episodes": {
+          "type": "boolean"
+        },
+        "prior_treatments": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "NSAIDs",
+              "acetaminophen",
+              "opioids",
+              "manipulation",
+              "mobilisation",
+              "exercise",
+              "traction",
+              "infiltration"
+            ]
+          }
+        },
+        "response_to_prior_treatments": {
+          "type": "string"
+        },
+        "red_flag_duration_days": {
+          "type": "number"
+        }
+      }
+    },
+    "tests": {
+      "type": "object",
+      "properties": {
+        "imaging": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "type": {
+                "type": "string",
+                "enum": [
+                  "XR",
+                  "CT",
+                  "MRI",
+                  "MRA",
+                  "CTA",
+                  "US"
+                ]
+              },
+              "region": {
+                "type": "string"
+              },
+              "date": {
+                "type": "string"
+              },
+              "findings": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "labs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "value": {
+                "type": "string"
+              },
+              "date": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "emg": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

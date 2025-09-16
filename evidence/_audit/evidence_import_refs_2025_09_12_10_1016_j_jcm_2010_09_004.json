@@ -1,0 +1,361 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jcm_2010_09_004.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jcm_2010_09_004",
+  "doi": "10.1016/j.jcm.2010.09.004",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:36.905553Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            3
+          ]
+        ],
+        "date-time": "2022-04-03T09:43:38Z",
+        "timestamp": 1648979018343
+      },
+      "reference-count": 19,
+      "publisher": "Elsevier BV",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2011,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2011-06-01T00:00:00Z",
+            "timestamp": 1306886400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Journal of Chiropractic Medicine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jcm.2010.09.004",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2011,
+            4,
+            15
+          ]
+        ],
+        "date-time": "2011-04-15T16:01:23Z",
+        "timestamp": 1302883283000
+      },
+      "page": "77-85",
+      "source": "Crossref",
+      "is-referenced-by-count": 6,
+      "title": [
+        "Knowledge, perceptions, and practices of chiropractic interns in the early detection of atypical moles"
+      ],
+      "prefix": "10.1016",
+      "volume": "10",
+      "author": [
+        {
+          "given": "Michael",
+          "family": "Ramcharan",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "suffix": "Jr.",
+          "given": "Marion Willard",
+          "family": "Evans",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Harrison",
+          "family": "Ndetan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jennifer",
+          "family": "Beddard",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jcm.2010.09.004_bb0005",
+          "series-title": "American Cancer Society skin cancer facts sheet",
+          "author": "American Cancer Society",
+          "year": "2009"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.09.004_bb0010",
+          "doi-asserted-by": "crossref",
+          "first-page": "7511",
+          "DOI": "10.1200/jco.2005.23.16_suppl.7511",
+          "article-title": "Three decades of evolving treatment for melanoma: no improvement in survival?",
+          "volume": "23",
+          "author": "Young",
+          "year": "2005",
+          "journal-title": "J Clin Oncol"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.09.004_bb0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "459",
+          "DOI": "10.1634/theoncologist.8-5-459",
+          "article-title": "The melanoma epidemic: res ipsa loquitur",
+          "volume": "8",
+          "author": "Beddingfield",
+          "year": "2003",
+          "journal-title": "Oncologist"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.09.004_bb0020",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1002/cncr.20288",
+          "article-title": "Annual report to the nation on the status of cancer, 1975-2001, with a special feature regarding survival",
+          "volume": "101",
+          "author": "Jemal",
+          "year": "2004",
+          "journal-title": "Cancer"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.09.004_bb0025",
+          "author": "MayoClinic.com"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.09.004_bb0030",
+          "author": "American Academy of Dermatology"
+        },
+        {
+          "issue": "Suppl 61",
+          "key": "10.1016/j.jcm.2010.09.004_bb0035",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1046/j.1365-2133.146.s61.2.x",
+          "article-title": "The epidemiology of skin cancer",
+          "volume": "146",
+          "author": "Diepgen",
+          "year": "2002",
+          "journal-title": "Br J Dermatol"
+        },
+        {
+          "issue": "5, pt 1",
+          "key": "10.1016/j.jcm.2010.09.004_bb0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "748",
+          "DOI": "10.1016/S0190-9622(96)90731-8",
+          "article-title": "Full proceedings from the National Conference to Develop a National Skin Cancer Agenda, American Academy of Dermatology and Centers for Disease Control and Prevention, Washington, D.C., April 8-10, 1995",
+          "volume": "35",
+          "author": "Goldsmith",
+          "year": "1996",
+          "journal-title": "J Am Acad Dermatol"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jcm.2010.09.004_bb0045",
+          "doi-asserted-by": "crossref",
+          "first-page": "555",
+          "DOI": "10.1016/j.jaad.2007.06.032",
+          "article-title": "Screening, early detection, and trends for melanoma: current status (2000-2006) and future directions",
+          "volume": "57",
+          "author": "Geller",
+          "year": "2007",
+          "journal-title": "J Am Acad Dermatol"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.09.004_bb0050",
+          "author": "American Cancer Society"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jcm.2010.09.004_bb0055",
+          "doi-asserted-by": "crossref",
+          "first-page": "728",
+          "DOI": "10.1097/00001648-200011000-00021",
+          "article-title": "The case for a comprehensive national campaign to prevent melanoma and associated mortality",
+          "volume": "11",
+          "author": "Manson",
+          "year": "2000",
+          "journal-title": "Epidemiol"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.09.004_bb0060",
+          "doi-asserted-by": "crossref",
+          "first-page": "123",
+          "DOI": "10.1097/00001622-199903000-00008",
+          "article-title": "The role of screening in the management of skin cancer",
+          "volume": "11",
+          "author": "Wolfe",
+          "year": "1999",
+          "journal-title": "Curr Opin Oncol"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jcm.2010.09.004_bb0065",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1001/archderm.143.1.21",
+          "article-title": "Visual screening for malignant melanoma: a cost-effective analysis",
+          "volume": "143",
+          "author": "Losina",
+          "year": "2007",
+          "journal-title": "Arch Dermatol"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.09.004_bb0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "311",
+          "DOI": "10.1016/S0361-090X(03)00094-1",
+          "article-title": "Development and reliability of a brief skin cancer risk assessment tool",
+          "volume": "27",
+          "author": "Glanz",
+          "year": "2003",
+          "journal-title": "Cancer Detect Prev"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.09.004_bb0075",
+          "doi-asserted-by": "crossref",
+          "first-page": "640",
+          "DOI": "10.1001/jama.281.7.640",
+          "article-title": "Is physician detection associated with thinner melanomas?",
+          "volume": "281",
+          "author": "Epstein",
+          "year": "1999",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.09.004_bb0080",
+          "series-title": "Health promotion and disease prevention in clinical practice",
+          "author": "Wolf",
+          "year": "2008"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.09.004_bb0085",
+          "series-title": "Job analysis of chiropractic: a project report, survey analysis and summary of the practice of chiropractic within the United States—2005",
+          "author": "Christensen",
+          "year": "2005"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.09.004_bb0090",
+          "unstructured": "World Health Organization. Solar ultraviolet radiation: global burden of disease from solar ultraviolet radiation. Environmental burden of disease series, N.13. 2006."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jcm.2010.09.004_bb0095",
+          "first-page": "422",
+          "article-title": "Interventions to prevent skin cancer by reducing exposure to ultraviolet radiation: a systematic review",
+          "volume": "27",
+          "author": "Saraiya",
+          "year": "2004",
+          "journal-title": "Am J Prev Med"
+        }
+      ],
+      "container-title": [
+        "Journal of Chiropractic Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1556370711000320?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1556370711000320?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2018,
+            12,
+            3
+          ]
+        ],
+        "date-time": "2018-12-03T14:23:02Z",
+        "timestamp": 1543846982000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1556370711000320"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2011,
+            6
+          ]
+        ]
+      },
+      "references-count": 19,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2011,
+              6
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1556370711000320"
+      ],
+      "URL": "https://doi.org/10.1016/j.jcm.2010.09.004",
+      "relation": {},
+      "ISSN": [
+        "1556-3707"
+      ],
+      "issn-type": [
+        {
+          "value": "1556-3707",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            6
+          ]
+        ]
+      }
+    }
+  }
+}

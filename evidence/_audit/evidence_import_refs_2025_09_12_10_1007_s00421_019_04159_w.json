@@ -1,0 +1,676 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1007_s00421_019_04159_w.md",
+  "id": "evidence_import_refs_2025_09_12_10_1007_s00421_019_04159_w",
+  "doi": "10.1007/s00421-019-04159-w",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:23.485404Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            21
+          ]
+        ],
+        "date-time": "2025-02-21T03:10:36Z",
+        "timestamp": 1740107436724,
+        "version": "3.37.3"
+      },
+      "reference-count": 39,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                5,
+                10
+              ]
+            ],
+            "date-time": "2019-05-10T00:00:00Z",
+            "timestamp": 1557446400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Eur J Appl Physiol"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1007/s00421-019-04159-w",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            10
+          ]
+        ],
+        "date-time": "2019-05-10T12:54:05Z",
+        "timestamp": 1557492845000
+      },
+      "page": "1691-1700",
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 11,
+      "title": [
+        "The effects of 6 weeks of constant-angle muscle stretching training on flexibility and muscle function in men with limited hamstrings’ flexibility"
+      ],
+      "prefix": "10.1007",
+      "volume": "119",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2013-1652",
+          "authenticated-orcid": false,
+          "given": "Clarissa Müller",
+          "family": "Brusco",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Anthony J.",
+          "family": "Blazevich",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ronei S.",
+          "family": "Pinto",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            10
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "4159_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "950",
+          "DOI": "10.1111/sms.12111",
+          "volume": "24",
+          "author": "R Akagi",
+          "year": "2014",
+          "unstructured": "Akagi R, Takahashi H (2014) Effect of a 5-week static stretching program on hardness of the gastrocnemius muscle. Scand J Med Sci Sports 24:950–957. \n                    https://doi.org/10.1111/sms.12111",
+          "journal-title": "Scand J Med Sci Sports"
+        },
+        {
+          "key": "4159_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "26",
+          "DOI": "10.1016/j.math.2009.05.006",
+          "volume": "15",
+          "author": "CF Aquino",
+          "year": "2010",
+          "unstructured": "Aquino CF, Fonseca ST, Goncalves GG, Silva PL, Ocarino JM, Mancini MC (2010) Stretching versus strength training in lengthened position in subjects with tight hamstring muscles: a randomized controlled trial. Manual Ther 15:26–31. \n                    https://doi.org/10.1016/j.math.2009.05.006",
+          "journal-title": "Manual Ther"
+        },
+        {
+          "key": "4159_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "98",
+          "DOI": "10.1016/j.ptsp.2012.03.013",
+          "volume": "14",
+          "author": "F Ayala",
+          "year": "2013",
+          "unstructured": "Ayala F, Sainz de Baranda P, De Ste Croix M, Santonja F (2013) Comparison of active stretching technique in males with normal and limited hamstring flexibility. Phys Ther Sport 14:98–104. \n                    https://doi.org/10.1016/j.ptsp.2012.03.013",
+          "journal-title": "Phys Ther Sport"
+        },
+        {
+          "key": "4159_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "1090",
+          "DOI": "10.1093/ptj/77.10.1090",
+          "volume": "77",
+          "author": "WD Bandy",
+          "year": "1997",
+          "unstructured": "Bandy WD, Irion JM, Briggler M (1997) The effect of time and frequency of static stretching on flexibility of the hamstring muscles. Phys Ther 77:1090–1096",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "4159_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "241",
+          "DOI": "10.1007/s00421-015-3270-1",
+          "volume": "116",
+          "author": "DG Behm",
+          "year": "2016",
+          "unstructured": "Behm DG, Cavanaugh T, Quigley P, Reid JC, Nardi PS, Marchetti PH (2016) Acute bouts of upper and lower body static and dynamic stretching increase non-local joint range of motion. Eur J Appl Physiol 116:241–249. \n                    https://doi.org/10.1007/s00421-015-3270-1",
+          "journal-title": "Eur J Appl Physiol"
+        },
+        {
+          "key": "4159_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "136",
+          "DOI": "10.1111/j.1600-0838.2009.00926.x",
+          "volume": "20",
+          "author": "M Ben",
+          "year": "2010",
+          "unstructured": "Ben M, Harvey LA (2010) Regular stretch does not increase muscle extensibility: a randomized controlled trial. Scand J Med Sci Sports 20:136–144. \n                    https://doi.org/10.1111/j.1600-0838.2009.00926.x",
+          "journal-title": "Scand J Med Sci Sports"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "unstructured": "Brusco CM et al (2018) The effects of flexibility training on exercise-induced muscle damage in young men with limited hamstrings flexibility. Scand J Med Sci Sports. \n                    https://doi.org/10.1111/sms.13068",
+          "key": "4159_CR8",
+          "DOI": "10.1111/sms.13068"
+        },
+        {
+          "key": "4159_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "452",
+          "DOI": "10.1152/japplphysiol.00204.2014",
+          "volume": "117",
+          "author": "AJ Blazevich",
+          "year": "2014",
+          "unstructured": "Blazevich AJ, Cannavan D, Waugh CM, Miller SC, Thorlund JB, Aagaard P, Kay AD (2014) Range of motion, neuromechanical, and architectural adaptations to plantar flexor stretch training in humans. J Appl Physiol 117:452–462. \n                    https://doi.org/10.1152/japplphysiol.00204.2014",
+          "journal-title": "J Appl Physiol"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "unstructured": "Cabido CE, Bergamini JC, Andrade AG, Lima FV, Menzel HJ, Chagas MH (2014) Acute effect of constant torque and angle stretching on range of motion, muscle passive properties, and stretch discomfort perception. J Strength Condition Res Natl Strength Condition Assoc 28:1050–1057. \n                    https://doi.org/10.1519/jsc.0000000000000241",
+          "key": "4159_CR9",
+          "DOI": "10.1519/jsc.0000000000000241"
+        },
+        {
+          "key": "4159_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "81",
+          "DOI": "10.1034/j.1600-0838.2001.011002081.x",
+          "volume": "11",
+          "author": "SP Chan",
+          "year": "2001",
+          "unstructured": "Chan SP, Hong Y, Robinson PD (2001) Flexibility and passive resistance of the hamstrings of young adults using two different static stretching protocols. Scand J Med Sci Sports 11:81–86",
+          "journal-title": "Scand J Med Sci Sports"
+        },
+        {
+          "key": "4159_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "23",
+          "DOI": "10.1111/cpf.12263",
+          "volume": "37",
+          "author": "A Chaouachi",
+          "year": "2017",
+          "unstructured": "Chaouachi A, Padulo J, Kasmi S, Othmen AB, Chatra M, Behm DG (2017) Unilateral static and dynamic hamstrings stretching increases contralateral hip flexion range of motion. Clin Physiol Funct Imaging 37:23–29. \n                    https://doi.org/10.1111/cpf.12263",
+          "journal-title": "Clin Physiol Funct Imaging"
+        },
+        {
+          "key": "4159_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "491",
+          "DOI": "10.1249/MSS.0b013e3181f315ad",
+          "volume": "43",
+          "author": "CH Chen",
+          "year": "2011",
+          "unstructured": "Chen CH, Nosaka K, Chen HL, Lin MJ, Tseng KW, Chen TC (2011) Effects of flexibility training on eccentric exercise-induced muscle damage. Med Sci Sports Exerc 43:491–500. \n                    https://doi.org/10.1249/MSS.0b013e3181f315ad",
+          "journal-title": "Med Sci Sports Exerc"
+        },
+        {
+          "key": "4159_CR13",
+          "volume-title": "Statistical power analysis for the behavioral sciences",
+          "author": "J Cohen",
+          "year": "1988",
+          "unstructured": "Cohen J (1988) Statistical power analysis for the behavioral sciences, 2nd edn. Erlbaum Associates, New York, NY",
+          "edition": "2"
+        },
+        {
+          "key": "4159_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "276",
+          "DOI": "10.1097/JSM.0b013e3180f60b26",
+          "volume": "17",
+          "author": "GN Ferreira",
+          "year": "2007",
+          "unstructured": "Ferreira GN, Teixeira-Salmela LF, Guimaraes CQ (2007) Gains in flexibility related to measures of muscular performance: impact of flexibility on muscular performance. Clin J Sport Med 17:276–281. \n                    https://doi.org/10.1097/JSM.0b013e3180f60b26",
+          "journal-title": "Clin J Sport Med"
+        },
+        {
+          "key": "4159_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "45",
+          "DOI": "10.1016/S0004-9514(06)70061-7",
+          "volume": "52",
+          "author": "H Folpp",
+          "year": "2006",
+          "unstructured": "Folpp H, Deall S, Harvey LA, Gwinn T (2006) Can apparent increases in muscle extensibility with regular stretch be explained by changes in tolerance to stretch? Aust J Physiother 52:45–50",
+          "journal-title": "Aust J Physiother"
+        },
+        {
+          "key": "4159_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "1737",
+          "DOI": "10.1519/JSC.0000000000000800",
+          "volume": "29",
+          "author": "SR Freitas",
+          "year": "2015",
+          "unstructured": "Freitas SR, Mil-Homens P (2015) Effect of 8-week high-intensity stretching training on biceps femoris architecture. J Strength Condition Res Natl Strength Condition Assoc 29:1737–1740. \n                    https://doi.org/10.1519/jsc.0000000000000800",
+          "journal-title": "J Strength Condition Res Natl Strength Condition Assoc"
+        },
+        {
+          "key": "4159_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "1263",
+          "DOI": "10.1007/s00421-015-3104-1",
+          "volume": "115",
+          "author": "SR Freitas",
+          "year": "2015",
+          "unstructured": "Freitas SR, Andrade RJ, Larcoupaille L, Mil-homens P, Nordez A (2015a) Muscle and joint responses during and after static stretching performed at different intensities. Eur J Appl Physiol 115:1263–1272. \n                    https://doi.org/10.1007/s00421-015-3104-1",
+          "journal-title": "Eur J Appl Physiol"
+        },
+        {
+          "key": "4159_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "478",
+          "DOI": "10.1111/cpf.12186",
+          "volume": "35",
+          "author": "SR Freitas",
+          "year": "2015",
+          "unstructured": "Freitas SR, Vilarinho D, Rocha Vaz J, Bruno PM, Costa PB, Mil-homens P (2015b) Responses to static stretching are dependent on stretch intensity and duration. Clin Physiol Funct Imaging 35:478–484. \n                    https://doi.org/10.1111/cpf.12186",
+          "journal-title": "Clin Physiol Funct Imaging"
+        },
+        {
+          "key": "4159_CR19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/sms.12957",
+          "author": "SR Freitas",
+          "year": "2017",
+          "unstructured": "Freitas SR, Mendes B, Le Sant G, Andrade RJ, Nordez A, Milanovic Z (2017) Can chronic stretching change the muscle-tendon mechanical properties: a review? Scand J Med Sci Sports. \n                    https://doi.org/10.1111/sms.12957",
+          "journal-title": "Scand J Med Sci Sports"
+        },
+        {
+          "key": "4159_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "87",
+          "DOI": "10.1016/S0268-0033(00)00061-9",
+          "volume": "16",
+          "author": "RL Gajdosik",
+          "year": "2001",
+          "unstructured": "Gajdosik RL (2001) Passive extensibility of skeletal muscle: review of the literature with clinical implications. Clin Biomech 16:87–101",
+          "journal-title": "Clin Biomech"
+        },
+        {
+          "key": "4159_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "733",
+          "DOI": "10.1113/jphysiol.1974.sp010463",
+          "volume": "236",
+          "author": "G Goldspink",
+          "year": "1974",
+          "unstructured": "Goldspink G, Tabary C, Tabary JC, Tardieu C, Tardieu G (1974) Effect of denervation on the adaptation of sarcomere number and muscle extensibility to the functional length of the muscle. J Physiol 236:733–742",
+          "journal-title": "J Physiol"
+        },
+        {
+          "key": "4159_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "248",
+          "DOI": "10.1002/mus.10549",
+          "volume": "29",
+          "author": "N Guissard",
+          "year": "2004",
+          "unstructured": "Guissard N, Duchateau J (2004) Effect of static stretch training on neural and mechanical properties of the human plantar-flexor muscles. Muscle Nerve 29:248–255. \n                    https://doi.org/10.1002/mus.10549",
+          "journal-title": "Muscle Nerve"
+        },
+        {
+          "key": "4159_CR23",
+          "doi-asserted-by": "crossref",
+          "first-page": "976",
+          "DOI": "10.1016/0003-9993(94)90675-0",
+          "volume": "75",
+          "author": "JP Halbertsma",
+          "year": "1994",
+          "unstructured": "Halbertsma JP, Goeken LN (1994) Stretching exercises: effect on passive extensibility and stiffness in short hamstrings of healthy subjects. Arch Phys Med Rehabil 75:976–981",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "4159_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "1777",
+          "DOI": "10.1249/MSS.0b013e318215cda9",
+          "volume": "43",
+          "author": "TJ Herda",
+          "year": "2011",
+          "unstructured": "Herda TJ et al (2011) Effects of two modes of static stretching on muscle strength and stiffness. Med Sci Sports Exerc 43:1777–1784. \n                    https://doi.org/10.1249/MSS.0b013e318215cda9",
+          "journal-title": "Med Sci Sports Exerc"
+        },
+        {
+          "key": "4159_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "1649",
+          "DOI": "10.1007/s00421-017-3654-5",
+          "volume": "117",
+          "author": "A Konrad",
+          "year": "2017",
+          "unstructured": "Konrad A, Budini F, Tilp M (2017) Acute effects of constant torque and constant angle stretching on the muscle and tendon tissue properties. Eur J Appl Physiol 117:1649–1656. \n                    https://doi.org/10.1007/s00421-017-3654-5",
+          "journal-title": "Eur J Appl Physiol"
+        },
+        {
+          "key": "4159_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "595",
+          "DOI": "10.1152/japplphysiol.00658.2001",
+          "volume": "92",
+          "author": "K Kubo",
+          "year": "2002",
+          "unstructured": "Kubo K, Kanehisa H, Fukunaga T (2002) Effect of stretching training on the viscoelastic properties of human tendon structures in vivo. J Appl Physiol 92:595–601. \n                    https://doi.org/10.1152/japplphysiol.00658.2001",
+          "journal-title": "J Appl Physiol"
+        },
+        {
+          "key": "4159_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "1000",
+          "DOI": "10.1177/0363546505284238",
+          "volume": "34",
+          "author": "DP LaRoche",
+          "year": "2006",
+          "unstructured": "LaRoche DP, Connolly DA (2006) Effects of stretching on passive muscle tension and response to eccentric exercise. Am J Sports Med 34:1000–1007. \n                    https://doi.org/10.1177/0363546505284238",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "4159_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "55",
+          "DOI": "10.1097/JSM.0000000000000069",
+          "volume": "25",
+          "author": "KM Lima",
+          "year": "2015",
+          "unstructured": "Lima KM, Carneiro SP, Alves Dde S, Peixinho CC, de Oliveira LF (2015) Assessment of muscle architecture of the biceps femoris and vastus lateralis by ultrasound after a chronic stretching program. Clin J Sport Med 25:55–60. \n                    https://doi.org/10.1097/jsm.0000000000000069",
+          "journal-title": "Clin J Sport Med"
+        },
+        {
+          "key": "4159_CR29",
+          "doi-asserted-by": "publisher",
+          "first-page": "65",
+          "DOI": "10.1111/j.1600-0838.1998.tb00171.x",
+          "volume": "8",
+          "author": "SP Magnusson",
+          "year": "1998",
+          "unstructured": "Magnusson SP (1998) Passive properties of human skeletal muscle during stretch maneuvers: a review. Scand J Med Sci Sports 8:65–77",
+          "journal-title": "Scand J Med Sci Sports"
+        },
+        {
+          "key": "4159_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "622",
+          "DOI": "10.1177/036354659602400510",
+          "volume": "24",
+          "author": "SP Magnusson",
+          "year": "1996",
+          "unstructured": "Magnusson SP, Simonsen EB, Aagaard P, Kjaer M (1996a) Biomechanical responses to repeated stretches in human hamstring muscle in vivo. Am J Sports Med 24:622–628",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "issue": "Pt 1",
+          "key": "4159_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "291",
+          "DOI": "10.1113/jphysiol.1996.sp021768",
+          "volume": "497",
+          "author": "SP Magnusson",
+          "year": "1996",
+          "unstructured": "Magnusson SP, Simonsen EB, Aagaard P, Sorensen H, Kjaer M (1996b) A mechanism for altered flexibility in human skeletal muscle. J Physiol 497(Pt 1):291–298",
+          "journal-title": "J Physiol"
+        },
+        {
+          "key": "4159_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "1713",
+          "DOI": "10.1007/s00421-017-3666-1",
+          "volume": "117",
+          "author": "P Muanjai",
+          "year": "2017",
+          "unstructured": "Muanjai P et al (2017) The effects of 4 weeks stretching training to the point of pain on flexibility and muscle tendon unit properties. Eur J Appl Physiol 117:1713–1725. \n                    https://doi.org/10.1007/s00421-017-3666-1",
+          "journal-title": "Eur J Appl Physiol"
+        },
+        {
+          "key": "4159_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "2749",
+          "DOI": "10.1007/s00421-011-2250-3",
+          "volume": "112",
+          "author": "M Nakamura",
+          "year": "2012",
+          "unstructured": "Nakamura M, Ikezoe T, Takeno Y, Ichihashi N (2012) Effects of a 4-week static stretch training program on passive stiffness of human gastrocnemius muscle-tendon unit in vivo. Eur J Appl Physiol 112:2749–2755. \n                    https://doi.org/10.1007/s00421-011-2250-3",
+          "journal-title": "Eur J Appl Physiol"
+        },
+        {
+          "key": "4159_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "1925",
+          "DOI": "10.1007/s40279-017-0703-5",
+          "volume": "47",
+          "author": "A Nordez",
+          "year": "2017",
+          "unstructured": "Nordez A et al (2017) Non-muscular structures can limit the maximal joint range of motion during stretching. Sports Med 47:1925–1929. \n                    https://doi.org/10.1007/s40279-017-0703-5",
+          "journal-title": "Sports Med"
+        },
+        {
+          "key": "4159_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "1944",
+          "DOI": "10.1249/01.MSS.0000145462.36207.20",
+          "volume": "36",
+          "author": "DA Reid",
+          "year": "2004",
+          "unstructured": "Reid DA, McNair PJ (2004) Passive force, angle, and stiffness changes after stretching of hamstring muscles. Med Sci Sports Exerc 36:1944–1948",
+          "journal-title": "Med Sci Sports Exerc"
+        },
+        {
+          "key": "4159_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "55",
+          "DOI": "10.1016/S0006-8993(97)81687-3",
+          "volume": "774",
+          "author": "A Rossi",
+          "year": "1997",
+          "unstructured": "Rossi A, Decchi B (1997) Changes in Ib heteronymous inhibition to soleus motoneurones during cutaneous and muscle nociceptive stimulation in humans. Brain Res 774:55–61",
+          "journal-title": "Brain Res"
+        },
+        {
+          "key": "4159_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "231",
+          "DOI": "10.1113/jphysiol.1972.sp009891",
+          "volume": "224",
+          "author": "JC Tabary",
+          "year": "1972",
+          "unstructured": "Tabary JC, Tabary C, Tardieu C, Tardieu G, Goldspink G (1972) Physiological and structural changes in the cat’s soleus muscle due to immobilization at different lengths by plaster casts. J Physiol 224:231–244",
+          "journal-title": "J Physiol"
+        },
+        {
+          "key": "4159_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "438",
+          "DOI": "10.2522/ptj.20090012",
+          "volume": "90",
+          "author": "CH Weppler",
+          "year": "2010",
+          "unstructured": "Weppler CH, Magnusson SP (2010) Increasing muscle extensibility: a matter of increasing length or modifying sensation? Phys Ther 90:438–449. \n                    https://doi.org/10.2522/ptj.20090012",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "4159_CR39",
+          "doi-asserted-by": "publisher",
+          "first-page": "80",
+          "DOI": "10.2340/16501977-0283",
+          "volume": "41",
+          "author": "J Ylinen",
+          "year": "2009",
+          "unstructured": "Ylinen J, Kankainen T, Kautiainen H, Rezasoltani A, Kuukkanen T, Hakkinen A (2009) Effect of stretching on hamstring muscle compliance. J Rehabil Med 41:80–84. \n                    https://doi.org/10.2340/16501977-0283",
+          "journal-title": "J Rehabil Med"
+        }
+      ],
+      "container-title": [
+        "European Journal of Applied Physiology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s00421-019-04159-w.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1007/s00421-019-04159-w/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s00421-019-04159-w.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            5,
+            8
+          ]
+        ],
+        "date-time": "2020-05-08T19:14:59Z",
+        "timestamp": 1588965299000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://link.springer.com/10.1007/s00421-019-04159-w"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            10
+          ]
+        ]
+      },
+      "references-count": 39,
+      "journal-issue": {
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              8
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "4159"
+      ],
+      "URL": "https://doi.org/10.1007/s00421-019-04159-w",
+      "relation": {},
+      "ISSN": [
+        "1439-6319",
+        "1439-6327"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1439-6319"
+        },
+        {
+          "type": "electronic",
+          "value": "1439-6327"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            10
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "6 March 2019",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "2 May 2019",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "10 May 2019",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Compliance with ethical standards"
+          }
+        },
+        {
+          "value": "The authors declare no conflict of interest.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Conflict of interest"
+          }
+        }
+      ]
+    }
+  }
+}

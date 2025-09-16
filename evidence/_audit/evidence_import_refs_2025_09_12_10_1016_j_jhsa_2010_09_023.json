@@ -1,0 +1,384 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jhsa_2010_09_023.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jhsa_2010_09_023",
+  "doi": "10.1016/j.jhsa.2010.09.023",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:44.071743Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            14
+          ]
+        ],
+        "date-time": "2025-04-14T23:26:13Z",
+        "timestamp": 1744673173546
+      },
+      "reference-count": 15,
+      "publisher": "Elsevier BV",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2011,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2011-01-01T00:00:00Z",
+            "timestamp": 1293840000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "jhandsurg.org",
+          "clinicalkey.jp",
+          "clinicalkey.es",
+          "clinicalkey.com.au",
+          "clinicalkey.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The Journal of Hand Surgery"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jhsa.2010.09.023",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2010,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2010-11-19T09:21:31Z",
+        "timestamp": 1290158491000
+      },
+      "page": "31-36",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 60,
+      "title": [
+        "The Role of the Flexor Carpi Radialis Muscle in Scapholunate Instability"
+      ],
+      "prefix": "10.1016",
+      "volume": "36",
+      "author": [
+        {
+          "given": "G.",
+          "family": "Salvà-Coll",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "M.",
+          "family": "Garcia-Elias",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "M.",
+          "family": "Llusá-Pérez",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "A.",
+          "family": "Rodríguez-Baeza",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jhsa.2010.09.023_bib1",
+          "series-title": "Advances in the biomechanics of the hand and wrist",
+          "first-page": "345",
+          "article-title": "The role of the scapho-trapezial-trapezoidal ligament complex on scaphoid kinematics",
+          "author": "Jantea",
+          "year": "1994"
+        },
+        {
+          "key": "10.1016/j.jhsa.2010.09.023_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "140",
+          "DOI": "10.2302/kjm.51.140",
+          "article-title": "Dynamic carpal stability",
+          "volume": "51",
+          "author": "Linscheid",
+          "year": "2002",
+          "journal-title": "Keio J Med"
+        },
+        {
+          "key": "10.1016/j.jhsa.2010.09.023_bib3",
+          "series-title": "Green's operative hand surgery",
+          "first-page": "535",
+          "article-title": "Carpal instabilities",
+          "author": "Garcia-Elias",
+          "year": "2005"
+        },
+        {
+          "key": "10.1016/j.jhsa.2010.09.023_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "1165",
+          "DOI": "10.1016/S0021-9290(97)00080-8",
+          "article-title": "Axial loading induces rotation of the proximal carpal row bones around unique screw-displacement axes",
+          "volume": "30",
+          "author": "Kobayashi",
+          "year": "1997",
+          "journal-title": "J Biomech"
+        },
+        {
+          "key": "10.1016/j.jhsa.2010.09.023_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "209",
+          "DOI": "10.1016/S0363-5023(81)80072-X",
+          "article-title": "Relative tension and potential excursion of muscles in forearm and hand",
+          "volume": "6",
+          "author": "Brand",
+          "year": "1981",
+          "journal-title": "J Hand Surg"
+        },
+        {
+          "key": "10.1016/j.jhsa.2010.09.023_bib6",
+          "series-title": "Biomechanics of the wrist joint",
+          "first-page": "157",
+          "article-title": "Muscle function",
+          "author": "An",
+          "year": "1991"
+        },
+        {
+          "key": "10.1016/j.jhsa.2010.09.023_bib7",
+          "first-page": "25",
+          "article-title": "Wrist biomechanics",
+          "volume": "41",
+          "author": "Ruby",
+          "year": "1992",
+          "journal-title": "AAOS Instr Course Lect"
+        },
+        {
+          "key": "10.1016/j.jhsa.2010.09.023_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "2",
+          "DOI": "10.1097/00003086-198006000-00003",
+          "article-title": "Functional anatomy of the wrist",
+          "volume": "149",
+          "author": "Kauer",
+          "year": "1980",
+          "journal-title": "Clin Orthop Rel Res"
+        },
+        {
+          "key": "10.1016/j.jhsa.2010.09.023_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "151",
+          "DOI": "10.1016/S0749-0712(21)00087-1",
+          "article-title": "Kinetic analysis of carpal stability during grip",
+          "volume": "13",
+          "author": "Garcia-Elias",
+          "year": "1997",
+          "journal-title": "Hand Clinics"
+        },
+        {
+          "key": "10.1016/j.jhsa.2010.09.023_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "193",
+          "DOI": "10.1016/S0030-5898(20)31310-9",
+          "article-title": "Concepts governing the rotational shift of the intercalated segment of the carpus",
+          "volume": "15",
+          "author": "Weber",
+          "year": "1984",
+          "journal-title": "Orthop Clin North Am"
+        },
+        {
+          "issue": "Suppl 1",
+          "key": "10.1016/j.jhsa.2010.09.023_bib11",
+          "first-page": "1",
+          "article-title": "Wrist",
+          "volume": "84A",
+          "year": "2002",
+          "journal-title": "J Bone Joint Surg"
+        },
+        {
+          "key": "10.1016/j.jhsa.2010.09.023_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "494",
+          "DOI": "10.1302/0301-620X.79B3.0790494",
+          "article-title": "Mechanoreceptors in the palmar wrist ligaments",
+          "volume": "79B",
+          "author": "Petrie",
+          "year": "1997",
+          "journal-title": "J Bone Joint Surg"
+        },
+        {
+          "key": "10.1016/j.jhsa.2010.09.023_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "30",
+          "DOI": "10.1016/j.jhsa.2006.10.005",
+          "article-title": "Immunohistochemical analysis of wrist ligament innervation in relation to their structural composition",
+          "volume": "32A",
+          "author": "Hagert",
+          "year": "2007",
+          "journal-title": "J Hand Surg"
+        },
+        {
+          "key": "10.1016/j.jhsa.2010.09.023_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "466",
+          "DOI": "10.1016/j.jhsa.2007.01.021",
+          "article-title": "Distribution of nerve endings in the human dorsal radiocarpal ligament",
+          "volume": "32A",
+          "author": "Tomita",
+          "year": "2007",
+          "journal-title": "J Hand Surg"
+        },
+        {
+          "key": "10.1016/j.jhsa.2010.09.023_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "642",
+          "DOI": "10.1016/j.jhsa.2008.12.001",
+          "article-title": "Evidence of wrist proprioceptive reflexes elicited after stimulation of the scapholunate interosseous ligament",
+          "volume": "34A",
+          "author": "Hagert",
+          "year": "2009",
+          "journal-title": "J Hand Surg"
+        }
+      ],
+      "container-title": [
+        "The Journal of Hand Surgery"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S036350231001141X?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S036350231001141X?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            26
+          ]
+        ],
+        "date-time": "2024-01-26T12:41:56Z",
+        "timestamp": 1706272916000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S036350231001141X"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2011,
+            1
+          ]
+        ]
+      },
+      "references-count": 15,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2011,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S036350231001141X"
+      ],
+      "URL": "https://doi.org/10.1016/j.jhsa.2010.09.023",
+      "relation": {},
+      "ISSN": [
+        "0363-5023"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0363-5023"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            1
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "The Role of the Flexor Carpi Radialis Muscle in Scapholunate Instability",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "The Journal of Hand Surgery",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jhsa.2010.09.023",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "Copyright © 2011 American Society for Surgery of the Hand. Published by Elsevier Inc. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

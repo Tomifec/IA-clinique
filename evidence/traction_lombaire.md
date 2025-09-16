@@ -1,0 +1,30 @@
+---
+'@context': http://schema.org
+'@type': Evidence
+id: evidence_traction_lombaire
+theme: traction_lombaire
+message_clinique: La traction lombaire, en position allongée, peut apporter un soulagement
+  à court terme de la douleur et de la gêne fonctionnelle lorsqu’elle est ajoutée
+  aux soins kinésithérapiques chez une sciatique aiguë très irritable. Néanmoins,
+  les preuves de qualité élevée manquent et aucun bénéfice prolongé n’est établi;
+  il est recommandé d’interrompre la traction si aucune amélioration nette n’est obtenue
+  après quelques séances.
+doi_url: https://doi.org/10.1093/ptj/pzaa231
+pmid: '33382419'
+sources_snapshot: evidence/_audit/evidence_traction_lombaire.json
+statut: valide
+type_etude: synthese
+publication_date: '2020-12-31'
+last_verified: '2025-09-12'
+retraction_status: ok
+evidence_level:
+  scale: OCEBM
+  value: 1a
+  justification: Revue systématique d'ECR (8 études, résultats à court terme positifs
+    uniquement dans des essais de faible qualité)
+---
+# Traction lombaire
+
+- Pas de routine en lombalgie non spécifique.
+- Option courte (1–2 semaines) si radiculalgie très irritable et réponse clinique favorable observée en séance; arrêter si aucun gain.
+

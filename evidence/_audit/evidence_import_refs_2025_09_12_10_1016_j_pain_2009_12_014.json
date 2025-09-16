@@ -1,0 +1,651 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_pain_2009_12_014.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_pain_2009_12_014",
+  "doi": "10.1016/j.pain.2009.12.014",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:00.063898Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            24
+          ]
+        ],
+        "date-time": "2025-08-24T01:23:21Z",
+        "timestamp": 1755998601772
+      },
+      "reference-count": 42,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2010,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2010-03-01T00:00:00Z",
+            "timestamp": 1267401600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Forschungsförderungsfond Medizin (FFM)"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.pain.2009.12.014",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2010,
+            1,
+            25
+          ]
+        ],
+        "date-time": "2010-01-25T07:04:45Z",
+        "timestamp": 1264403085000
+      },
+      "page": "503-508",
+      "source": "Crossref",
+      "is-referenced-by-count": 87,
+      "title": [
+        "Habituation to pain: Further support for a central component"
+      ],
+      "prefix": "10.1097",
+      "volume": "148",
+      "author": [
+        {
+          "given": "C.",
+          "family": "Rennefeld",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "K.",
+          "family": "Wiech",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "E. D.",
+          "family": "Schoell",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "J.",
+          "family": "Lorenz",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "U.",
+          "family": "Bingel",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "276",
+      "reference": [
+        {
+          "key": "R1-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "223",
+          "DOI": "10.1146/annurev.ne.07.030184.001255",
+          "article-title": "Endogenous opioids: biology and function.",
+          "volume": "7",
+          "author": "Akil",
+          "year": "1984",
+          "journal-title": "Annu Rev Neurosci"
+        },
+        {
+          "key": "R2-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "484",
+          "DOI": "10.1523/JNEUROSCI.19-01-00484.1999",
+          "article-title": "Neuropharmacological dissection of placebo analgesia: expectation-activated opioid systems versus conditioning-activated specific subsystems.",
+          "volume": "19",
+          "author": "Amanzio",
+          "year": "1999",
+          "journal-title": "J Neurosci"
+        },
+        {
+          "key": "R3-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "207",
+          "DOI": "10.1016/S0304-3959(02)00103-3",
+          "article-title": "Naloxone increases pain induced by topical capsaicin in healthy human volunteers.",
+          "volume": "99",
+          "author": "Anderson",
+          "year": "2002",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R4-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "310",
+          "DOI": "10.1093/brain/awf022",
+          "article-title": "Imaging how attention modulates pain in humans using functional MRI.",
+          "volume": "125",
+          "author": "Bantick",
+          "year": "2002",
+          "journal-title": "Brain"
+        },
+        {
+          "key": "R5-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "3639",
+          "DOI": "10.1523/JNEUROSCI.19-09-03639.1999",
+          "article-title": "Somatotopic activation of opioid systems by target-directed expectations of analgesia.",
+          "volume": "19",
+          "author": "Benedetti",
+          "year": "1999",
+          "journal-title": "J Neurosci"
+        },
+        {
+          "key": "R6-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "393",
+          "DOI": "10.1016/j.pain.2008.09.030",
+          "article-title": "Habituation to painful stimulation involves the antinociceptive system - a 1-year follow-up of 10 participants.",
+          "volume": "140",
+          "author": "Bingel",
+          "year": "2008",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R7-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "8",
+          "DOI": "10.1016/j.pain.2005.08.027",
+          "article-title": "Mechanisms of placebo analgesia: rACC recruitment of a subcortical antinociceptive network.",
+          "volume": "120",
+          "author": "Bingel",
+          "year": "2006",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R8-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1016/j.pain.2006.12.005",
+          "article-title": "Habituation to painful stimulation involves the antinociceptive system.",
+          "volume": "131",
+          "author": "Bingel",
+          "year": "2007",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R9-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "2723",
+          "DOI": "10.1152/jn.00249.2003",
+          "article-title": "fMRI measurement of CNS responses to naloxone infusion and subsequent mild noxious thermal stimuli in healthy volunteers.",
+          "volume": "91",
+          "author": "Borras",
+          "year": "2004",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "key": "R10-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "185",
+          "DOI": "10.1016/0304-3959(81)90004-X",
+          "article-title": "Habituation to bearable experimental pain elicited by tooth pulp electrical stimulation.",
+          "volume": "11",
+          "author": "Condes-Lara",
+          "year": "1981",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R11-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "5465",
+          "DOI": "10.1523/JNEUROSCI.5336-07.2008",
+          "article-title": "Blockade of endogenous opioid neurotransmission enhances acquisition of conditioned fear in humans.",
+          "volume": "28",
+          "author": "Eippert",
+          "year": "2008",
+          "journal-title": "J Neurosci"
+        },
+        {
+          "key": "R12-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "533",
+          "DOI": "10.1016/j.neuron.2009.07.014",
+          "article-title": "Activation of the opioidergic descending pain control system underlies placebo analgesia.",
+          "volume": "63",
+          "author": "Eippert",
+          "year": "2009",
+          "journal-title": "Neuron"
+        },
+        {
+          "key": "R14-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "221",
+          "DOI": "10.1016/0304-3959(86)90077-1",
+          "article-title": "Pain perception decrement produced through repeated stimulation.",
+          "volume": "26",
+          "author": "Ernst",
+          "year": "1986",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R15-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1071",
+          "DOI": "10.1136/jnnp.39.11.1071",
+          "article-title": "Method for quantitative estimation of thermal thresholds in patients.",
+          "volume": "39",
+          "author": "Fruhstorfer",
+          "year": "1976",
+          "journal-title": "J Neurol Neurosurg Psychiatry"
+        },
+        {
+          "key": "R16-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "311",
+          "DOI": "10.3109/08990229409028875",
+          "article-title": "Thresholds for the perception of pressure, sharpness, and mechanically evoked cutaneous pain: effects of laterality and repeated testing.",
+          "volume": "11",
+          "author": "Greenspan",
+          "year": "1994",
+          "journal-title": "Somatosens Mot Res"
+        },
+        {
+          "key": "R17-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "301",
+          "DOI": "10.1016/j.pain.2007.04.026",
+          "article-title": "Peripheral and central components of habituation of heat pain perception and evoked potentials in humans.",
+          "volume": "132",
+          "author": "Greffrath",
+          "year": "2007",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R19-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "122",
+          "DOI": "10.1016/S0166-2236(98)01302-2",
+          "article-title": "Does the right side know what the left is doing?",
+          "volume": "22",
+          "author": "Koltzenburg",
+          "year": "1999",
+          "journal-title": "Trends Neurosci"
+        },
+        {
+          "key": "R20-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "757",
+          "DOI": "10.1016/j.jpain.2005.07.002",
+          "article-title": "Activation of naloxone-sensitive and -insensitive inhibitory systems in a human pain model.",
+          "volume": "6",
+          "author": "Koppert",
+          "year": "2005",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "R21-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "287",
+          "DOI": "10.1139/y66-033",
+          "article-title": "Studies on habituation to cold pain.",
+          "volume": "44",
+          "author": "LeBlanc",
+          "year": "1966",
+          "journal-title": "Can J Physiol Pharmacol"
+        },
+        {
+          "key": "R22-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "654",
+          "DOI": "10.1016/S0140-6736(78)92762-9",
+          "article-title": "The mechanism of placebo analgesia.",
+          "volume": "2",
+          "author": "Levine",
+          "year": "1978",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "R23-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "819",
+          "DOI": "10.1038/383819a0",
+          "article-title": "Loss of morphine-induced analgesia, reward effect and withdrawal symptoms in mice lacking the mu-opioid-receptor gene.",
+          "volume": "383",
+          "author": "Matthes",
+          "year": "1996",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "R26-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "355",
+          "DOI": "10.1016/S0301-0082(02)00009-6",
+          "article-title": "Descending control of pain.",
+          "volume": "66",
+          "author": "Millan",
+          "year": "2002",
+          "journal-title": "Prog Neurobiol"
+        },
+        {
+          "key": "R27-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "438",
+          "DOI": "10.1007/BF00231861",
+          "article-title": "Habituation to repeated painful and non-painful cutaneous stimuli: a quantitative psychophysical study.",
+          "volume": "87",
+          "author": "Milne",
+          "year": "1991",
+          "journal-title": "Exp Brain Res"
+        },
+        {
+          "key": "R28-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "368",
+          "DOI": "10.1152/jappl.1959.14.3.368",
+          "article-title": "Temperature thresholds for cutaneous pain.",
+          "volume": "14",
+          "author": "Neisser",
+          "year": "1959",
+          "journal-title": "J Appl Physiol"
+        },
+        {
+          "key": "R29-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "4766",
+          "DOI": "10.1523/JNEUROSCI.23-11-04766.2003",
+          "article-title": "Fatigue and paradoxical enhancement of heat response in C-fiber nociceptors from cross-modal excitation.",
+          "volume": "23",
+          "author": "Peng",
+          "year": "2003",
+          "journal-title": "J Neurosci"
+        },
+        {
+          "key": "R30-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "569",
+          "DOI": "10.1016/S0301-0082(00)00031-9",
+          "article-title": "Cannabinoid receptors and pain.",
+          "volume": "63",
+          "author": "Pertwee",
+          "year": "2001",
+          "journal-title": "Prog Neurobiol"
+        },
+        {
+          "key": "R31-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1737",
+          "DOI": "10.1126/science.1067176",
+          "article-title": "Placebo and opioid analgesia - imaging a shared neuronal network.",
+          "volume": "295",
+          "author": "Petrovic",
+          "year": "2002",
+          "journal-title": "Science"
+        },
+        {
+          "key": "R32-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "968",
+          "DOI": "10.1126/science.277.5328.968",
+          "article-title": "Pain affect encoded in human anterior cingulate but not somatosensory cortex.",
+          "volume": "277",
+          "author": "Rainville",
+          "year": "1997",
+          "journal-title": "Science"
+        },
+        {
+          "key": "R33-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1016/j.ejpain.2005.02.003",
+          "article-title": "Quantitative sensory testing: a comprehensive protocol for clinical trials.",
+          "volume": "10",
+          "author": "Rolke",
+          "year": "2006",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "R34-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.1007/BF00421630",
+          "article-title": "Adaptive modifications of cold pain (authors transl).",
+          "volume": "36",
+          "author": "Strempel",
+          "year": "1976",
+          "journal-title": "Eur J Appl Physiol Occup Physiol"
+        },
+        {
+          "key": "R35-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "63",
+          "DOI": "10.1007/BF00429680",
+          "article-title": "Adaptive modifications of cold pain. III. Communication: short-term experiments with 1-min-intervals (authors transl).",
+          "volume": "39",
+          "author": "Strempel",
+          "year": "1978",
+          "journal-title": "Eur J Appl Physiol Occup Physiol"
+        },
+        {
+          "key": "R36-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "455",
+          "DOI": "10.3109/08990229309028850",
+          "article-title": "Body site variation of heat pain sensitivity.",
+          "volume": "10",
+          "author": "Taylor",
+          "year": "1993",
+          "journal-title": "Somatosens Mot Res"
+        },
+        {
+          "key": "R37-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1082",
+          "DOI": "10.1152/jn.1998.80.3.1082",
+          "article-title": "Myelinated mechanically insensitive afferents from monkey hairy skin: heat-response properties.",
+          "volume": "80",
+          "author": "Treede",
+          "year": "1998",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "key": "R38-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "533",
+          "DOI": "10.1038/nrn1704",
+          "article-title": "Pain and emotion interactions in subregions of the cingulate gyrus.",
+          "volume": "6",
+          "author": "Vogt",
+          "year": "2005",
+          "journal-title": "Nat Rev Neurosci"
+        },
+        {
+          "key": "R39-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1162",
+          "DOI": "10.1126/science.1093065",
+          "article-title": "Placebo-induced changes in FMRI in the anticipation and experience of pain.",
+          "volume": "303",
+          "author": "Wager",
+          "year": "2004",
+          "journal-title": "Science"
+        },
+        {
+          "key": "R40-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "11056",
+          "DOI": "10.1073/pnas.0702413104",
+          "article-title": "Placebo effects on human mu-opioid activity during pain.",
+          "volume": "104",
+          "author": "Wager",
+          "year": "2007",
+          "journal-title": "Proc Natl Acad Sci USA"
+        },
+        {
+          "key": "R41-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "321",
+          "DOI": "10.1113/jphysiol.1976.sp011282",
+          "article-title": "The physiology and anatomy of long ranging afferent fibres within the spinal cord.",
+          "volume": "255",
+          "author": "Wall",
+          "year": "1976",
+          "journal-title": "J Physiol"
+        },
+        {
+          "key": "R42-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "689",
+          "DOI": "10.1126/science.6261330",
+          "article-title": "Stress-induced analgesia in humans: endogenous opioids and naloxone-reversible depression of pain reflexes.",
+          "volume": "212",
+          "author": "Willer",
+          "year": "1981",
+          "journal-title": "Science"
+        },
+        {
+          "key": "R44-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "85",
+          "DOI": "10.1016/0304-3959(90)91055-N",
+          "article-title": "Studies of heat pain sensation in man: perception thresholds, rate of stimulus rise and reaction time.",
+          "volume": "40",
+          "author": "Yarnitsky",
+          "year": "1990",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R45-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "39",
+          "DOI": "10.1016/0022-510X(94)90239-9",
+          "article-title": "Thermal testing: normative data and repeatability for various test algorithms.",
+          "volume": "125",
+          "author": "Yarnitsky",
+          "year": "1994",
+          "journal-title": "J Neurol Sci"
+        },
+        {
+          "key": "R46-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "7754",
+          "DOI": "10.1523/JNEUROSCI.0439-05.2005",
+          "article-title": "Placebo effects mediated by endogenous opioid activity on mu-opioid receptors.",
+          "volume": "25",
+          "author": "Zubieta",
+          "year": "2005",
+          "journal-title": "J Neurosci"
+        },
+        {
+          "key": "R47-23-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "311",
+          "DOI": "10.1126/science.1060952",
+          "article-title": "Regional mu opioid receptor regulation of sensory and affective dimensions of pain.",
+          "volume": "293",
+          "author": "Zubieta",
+          "year": "2001",
+          "journal-title": "Science"
+        }
+      ],
+      "container-title": [
+        "Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.lww.com/10.1016/j.pain.2009.12.014",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            6,
+            16
+          ]
+        ],
+        "date-time": "2021-06-16T04:41:49Z",
+        "timestamp": 1623818509000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.lww.com/00006396-201003000-00023"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2010,
+            3
+          ]
+        ]
+      },
+      "references-count": 42,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1016/j.pain.2009.12.014",
+      "relation": {},
+      "ISSN": [
+        "0304-3959"
+      ],
+      "issn-type": [
+        {
+          "value": "0304-3959",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            3
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1186_s13023_015_0322_x.md",
+  "id": "evidence_import_refs_2025_09_11_10_1186_s13023_015_0322_x",
+  "doi": "10.1186/s13023-015-0322-x",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:57.645981Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            29
+          ]
+        ],
+        "date-time": "2025-08-29T10:21:00Z",
+        "timestamp": 1756462860300
+      },
+      "reference-count": 29,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Orphanet J Rare Dis"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1186/s13023-015-0322-x",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            17
+          ]
+        ],
+        "date-time": "2015-09-17T03:42:38Z",
+        "timestamp": 1442461358000
+      },
+      "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 65,
+      "title": [
+        "Meier-Gorlin syndrome"
+      ],
+      "prefix": "10.1186",
+      "volume": "10",
+      "author": [
+        {
+          "given": "Sonja A.",
+          "family": "de Munnik",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Elisabeth H.",
+          "family": "Hoefsloot",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jolt",
+          "family": "Roukema",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jeroen",
+          "family": "Schoots",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nine VAM",
+          "family": "Knoers",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Han G.",
+          "family": "Brunner",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Andrew P.",
+          "family": "Jackson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ernie MHF",
+          "family": "Bongers",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            17
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "322_CR1",
+          "doi-asserted-by": "crossref",
+          "first-page": "360",
+          "DOI": "10.1038/ng.777",
+          "volume": "43",
+          "author": "DL Guernsey",
+          "year": "2011",
+          "unstructured": "Guernsey DL, Matsuoka M, Jiang H, Evans S, Macgillivray C, Nightingale M, et al. Mutations in origin recognition complex gene ORC4 cause Meier-Gorlin syndrome. Nat Genet. 2011;43:360–4.",
+          "journal-title": "Nat Genet"
+        },
+        {
+          "key": "322_CR2",
+          "doi-asserted-by": "crossref",
+          "first-page": "356",
+          "DOI": "10.1038/ng.775",
+          "volume": "43",
+          "author": "LS Bicknell",
+          "year": "2011",
+          "unstructured": "Bicknell LS, Bongers EM, Leitch A, Brown S, Schoots J, Harley ME, et al. Mutations in the pre-replication complex cause Meier-Gorlin syndrome. Nat Genet. 2011;43:356–9.",
+          "journal-title": "Nat Genet"
+        },
+        {
+          "key": "322_CR3",
+          "doi-asserted-by": "crossref",
+          "first-page": "350",
+          "DOI": "10.1038/ng.776",
+          "volume": "43",
+          "author": "LS Bicknell",
+          "year": "2011",
+          "unstructured": "Bicknell LS, Walker S, Klingseisen A, Stiff T, Leitch A, Kerzendorfer C, et al. Mutations in ORC1, encoding the largest subunit of the origin recognition complex, cause microcephalic primordial dwarfism resembling Meier-Gorlin syndrome. Nat Genet. 2011;43:350–5.",
+          "journal-title": "Nat Genet"
+        },
+        {
+          "key": "322_CR4",
+          "doi-asserted-by": "crossref",
+          "unstructured": "de Munnik SA, Bicknell LS, Aftimos S, Al-Aama JY, Van BY, Bober MB, et al. Meier-Gorlin syndrome genotype-phenotype studies: 35 individuals with pre-replication complex gene mutations and 10 without molecular diagnosis. Eur J Hum Genet. 2012.",
+          "DOI": "10.1038/ejhg.2011.269"
+        },
+        {
+          "key": "322_CR5",
+          "doi-asserted-by": "crossref",
+          "first-page": "607",
+          "DOI": "10.1002/ajmg.a.36906",
+          "volume": "167A",
+          "author": "SA Shalev",
+          "year": "2015",
+          "unstructured": "Shalev SA, Khayat M, Etty DS, Elpeleg O. Further insight into the phenotype associated with a mutation in the ORC6 gene, causing Meier-Gorlin syndrome 3. Am J Med Genet A. 2015;167A:607–11.",
+          "journal-title": "Am J Med Genet A"
+        },
+        {
+          "key": "322_CR6",
+          "doi-asserted-by": "crossref",
+          "first-page": "207",
+          "DOI": "10.1097/00019605-199407000-00004",
+          "volume": "3",
+          "author": "RG Boles",
+          "year": "1994",
+          "unstructured": "Boles RG, Teebi AS, Schwartz D, Harper JF. Further delineation of the ear, patella, short stature syndrome (Meier-Gorlin syndrome). Clin Dysmorphol. 1994;3:207–14.",
+          "journal-title": "Clin Dysmorphol"
+        },
+        {
+          "key": "322_CR7",
+          "doi-asserted-by": "crossref",
+          "first-page": "115",
+          "DOI": "10.1002/ajmg.1452",
+          "volume": "102",
+          "author": "EM Bongers",
+          "year": "2001",
+          "unstructured": "Bongers EM, Opitz JM, Fryer A, Sarda P, Hennekam RC, Hall BD, et al. Meier-Gorlin syndrome: report of eight additional cases and review. Am J Med Genet. 2001;102:115–24.",
+          "journal-title": "Am J Med Genet"
+        },
+        {
+          "key": "322_CR8",
+          "doi-asserted-by": "crossref",
+          "first-page": "447",
+          "DOI": "10.1002/(SICI)1096-8628(19960823)64:3<447::AID-AJMG1>3.0.CO;2-M",
+          "volume": "64",
+          "author": "MS Buebel",
+          "year": "1996",
+          "unstructured": "Buebel MS, Salinas CF, Pai GS, Macpherson RI, Greer MK, Perez-Comas A. A new Seckel-like syndrome of primordial dwarfism. Am J Med Genet. 1996;64:447–52.",
+          "journal-title": "Am J Med Genet"
+        },
+        {
+          "key": "322_CR9",
+          "doi-asserted-by": "crossref",
+          "first-page": "786",
+          "DOI": "10.1136/jmg.28.11.786",
+          "volume": "28",
+          "author": "B Cohen",
+          "year": "1991",
+          "unstructured": "Cohen B, Temple IK, Symons JC, Hall CM, Shaw DG, Bhamra M, et al. Microtia and short stature: a new syndrome. J Med Genet. 1991;28:786–90.",
+          "journal-title": "J Med Genet"
+        },
+        {
+          "key": "322_CR10",
+          "doi-asserted-by": "crossref",
+          "first-page": "48",
+          "DOI": "10.1002/ajmg.10083",
+          "volume": "107",
+          "author": "A Cohen",
+          "year": "2002",
+          "unstructured": "Cohen A, Mulas R, Seri M, Gaiero A, Fichera G, Marini M, et al. Meier-Gorlin syndrome (ear-patella-short stature syndrome) in an Italian patient: clinical evaluation and analysis of possible candidate genes. Am J Med Genet. 2002;107:48–51.",
+          "journal-title": "Am J Med Genet"
+        },
+        {
+          "key": "322_CR11",
+          "doi-asserted-by": "crossref",
+          "first-page": "931",
+          "DOI": "10.1016/j.arth.2004.03.016",
+          "volume": "19",
+          "author": "M Dudkiewicz",
+          "year": "2004",
+          "unstructured": "Dudkiewicz M, Tanzer M. Total knee arthroplasty in Meier-Gorlin syndrome. J Arthroplasty. 2004;19:931–4.",
+          "journal-title": "J Arthroplasty"
+        },
+        {
+          "key": "322_CR12",
+          "doi-asserted-by": "crossref",
+          "first-page": "339",
+          "DOI": "10.1002/ajmg.a.30899",
+          "volume": "137A",
+          "author": "E Faqeih",
+          "year": "2005",
+          "unstructured": "Faqeih E, Sakati N, Teebi AS. Meier-Gorlin (ear-patella-short stature) syndrome: growth hormone deficiency and previously unrecognized findings. Am J Med Genet A. 2005;137A:339–41.",
+          "journal-title": "Am J Med Genet A"
+        },
+        {
+          "key": "322_CR13",
+          "doi-asserted-by": "crossref",
+          "first-page": "338",
+          "DOI": "10.1002/ajmg.10315",
+          "volume": "109",
+          "author": "M Feingold",
+          "year": "2002",
+          "unstructured": "Feingold M. Meier-Gorlin syndrome. Am J Med Genet. 2002;109:338.",
+          "journal-title": "Am J Med Genet"
+        },
+        {
+          "key": "322_CR14",
+          "doi-asserted-by": "crossref",
+          "first-page": "231",
+          "DOI": "10.1097/00019605-199807000-00016",
+          "volume": "7",
+          "author": "JP Fryns",
+          "year": "1998",
+          "unstructured": "Fryns JP. Meier-Gorlin syndrome: the adult phenotype. Clin Dysmorphol. 1998;7:231–2.",
+          "journal-title": "Clin Dysmorphol"
+        },
+        {
+          "key": "322_CR15",
+          "first-page": "39",
+          "volume": "11",
+          "author": "RJ Gorlin",
+          "year": "1975",
+          "unstructured": "Gorlin RJ, Cervenka J, Moller K, Horrobin M, Witkop Jr CJ. Malformation syndromes. A selected miscellany. Birth Defects Orig Artic Ser. 1975;11:39–50.",
+          "journal-title": "Birth Defects Orig Artic Ser"
+        },
+        {
+          "key": "322_CR16",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1002/ajmg.1320290113",
+          "volume": "29",
+          "author": "JA Hurst",
+          "year": "1988",
+          "unstructured": "Hurst JA, Winter RM, Baraitser M. Distinctive syndrome of short stature, craniosynostosis, skeletal changes, and malformed ears. Am J Med Genet. 1988;29:107–15.",
+          "journal-title": "Am J Med Genet"
+        },
+        {
+          "key": "322_CR17",
+          "first-page": "184",
+          "volume": "37",
+          "author": "D Lacombe",
+          "year": "1994",
+          "unstructured": "Lacombe D, Toutain A, Gorlin RJ, Oley CA, Battin J. Clinical identification of a human equivalent to the short ear (se) murine phenotype. Ann Genet. 1994;37:184–91.",
+          "journal-title": "Ann Genet"
+        },
+        {
+          "key": "322_CR18",
+          "doi-asserted-by": "crossref",
+          "first-page": "61",
+          "DOI": "10.1002/(SICI)1096-8628(19990507)84:1<61::AID-AJMG12>3.0.CO;2-6",
+          "volume": "84",
+          "author": "BL Loeys",
+          "year": "1999",
+          "unstructured": "Loeys BL, Lemmerling MM, Van Mol CE, Leroy JG. The Meier-Gorlin syndrome, or ear-patella-short stature syndrome, in sibs. Am J Med Genet. 1999;84:61–7.",
+          "journal-title": "Am J Med Genet"
+        },
+        {
+          "key": "322_CR19",
+          "unstructured": "Meier Z, Poschiavo, Rotschild M. Case of arthrogryposis multiplex congenita with mandibulofacial dysostosis (Franceschetti syndrome). Helv Paediatr Acta. 1959, 14:213–16."
+        },
+        {
+          "key": "322_CR20",
+          "first-page": "167",
+          "volume": "12",
+          "author": "SA Shalev",
+          "year": "2003",
+          "unstructured": "Shalev SA, Hall JG. Another adult with Meier-Gorlin syndrome--insights into the natural history. Clin Dysmorphol. 2003;12:167–9.",
+          "journal-title": "Clin Dysmorphol"
+        },
+        {
+          "key": "322_CR21",
+          "doi-asserted-by": "crossref",
+          "first-page": "719",
+          "DOI": "10.1136/jmg.37.9.719",
+          "volume": "37",
+          "author": "PA Terhal",
+          "year": "2000",
+          "unstructured": "Terhal PA, Ausems MG, van Bever Y, Kate LP, Dijkstra PF, Kuijpers GM. Breast hypoplasia and disproportionate short stature in the ear, patella, short stature syndrome: expansion of the phenotype? J Med Genet. 2000;37:719–21.",
+          "journal-title": "J Med Genet"
+        },
+        {
+          "key": "322_CR22",
+          "first-page": "189",
+          "volume": "25",
+          "author": "LE Martinez-Barrera",
+          "year": "2014",
+          "unstructured": "Martinez-Barrera LE, Garcia-Delgado C, Manzano-Sierra C, Moran-Barroso VF. Left cerebral hemisphere and ventricular system abnormalities in a Mexican Meier Gorlin syndrome patient: widening the clinical spectrum. Genet Couns. 2014;25:189–95.",
+          "journal-title": "Genet Couns"
+        },
+        {
+          "key": "322_CR23",
+          "doi-asserted-by": "crossref",
+          "first-page": "2733",
+          "DOI": "10.1002/ajmg.a.35681",
+          "volume": "158A",
+          "author": "SA Munnik de",
+          "year": "2012",
+          "unstructured": "de Munnik SA, Otten BJ, Schoots J, Bicknell LS, Aftimos S, Al-Aama JY, et al. Meier-Gorlin syndrome: growth and secondary sexual development of a microcephalic primordial dwarfism disorder. Am J Med Genet A. 2012;158A:2733–42.",
+          "journal-title": "Am J Med Genet A"
+        },
+        {
+          "key": "322_CR24",
+          "doi-asserted-by": "crossref",
+          "first-page": "2011",
+          "DOI": "10.1101/gad.169037",
+          "volume": "25",
+          "author": "A Klingseisen",
+          "year": "2011",
+          "unstructured": "Klingseisen A, Jackson AP. Mechanisms and pathways of growth failure in primordial dwarfism. Genes Dev. 2011;25:2011–24.",
+          "journal-title": "Genes Dev"
+        },
+        {
+          "key": "322_CR25",
+          "doi-asserted-by": "crossref",
+          "first-page": "115",
+          "DOI": "10.1038/nature10956",
+          "volume": "484",
+          "author": "AJ Kuo",
+          "year": "2012",
+          "unstructured": "Kuo AJ, Song J, Cheung P, Ishibe-Murakami S, Yamazoe S, Chen JK, et al. The BAH domain of ORC1 links H4K20me2 to DNA replication licensing and Meier-Gorlin syndrome. Nature. 2012;484:115–9.",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "322_CR26",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pgen.1003360",
+          "volume": "9",
+          "author": "T Stiff",
+          "year": "2013",
+          "unstructured": "Stiff T, Alagoz M, Alcantara D, Outwin E, Brunner HG, Bongers EM, et al. Deficiency in origin licensing proteins impairs cilia formation: implications for the aetiology of Meier-Gorlin syndrome. PLoS Genet. 2013;9, e1003360.",
+          "journal-title": "PLoS Genet"
+        },
+        {
+          "key": "322_CR27",
+          "doi-asserted-by": "crossref",
+          "first-page": "1797",
+          "DOI": "10.1101/gad.197178.112",
+          "volume": "26",
+          "author": "M Hossain",
+          "year": "2012",
+          "unstructured": "Hossain M, Stillman B. Meier-Gorlin syndrome mutations disrupt an Orc1 CDK inhibitory domain and cause centrosome reduplication. Genes Dev. 2012;26:1797–810.",
+          "journal-title": "Genes Dev"
+        },
+        {
+          "key": "322_CR28",
+          "doi-asserted-by": "crossref",
+          "first-page": "7",
+          "DOI": "10.1002/ajmg.1320120103",
+          "volume": "12",
+          "author": "F Majewski",
+          "year": "1982",
+          "unstructured": "Majewski F, Goecke T. Studies of microcephalic primordial dwarfism I: approach to a delineation of the Seckel syndrome. Am J Med Genet. 1982;12:7–21.",
+          "journal-title": "Am J Med Genet"
+        },
+        {
+          "key": "322_CR29",
+          "doi-asserted-by": "crossref",
+          "first-page": "302",
+          "DOI": "10.1111/j.1399-0004.2005.00508.x",
+          "volume": "68",
+          "author": "EM Bongers",
+          "year": "2005",
+          "unstructured": "Bongers EM, van Kampen A, van Bokhoven H, Knoers NV. Human syndromes with congenital patellar anomalies and the underlying gene defects. Clin Genet. 2005;68:302–19.",
+          "journal-title": "Clin Genet"
+        }
+      ],
+      "container-title": [
+        "Orphanet Journal of Rare Diseases"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s13023-015-0322-x",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2017,
+            6,
+            23
+          ]
+        ],
+        "date-time": "2017-06-23T19:42:15Z",
+        "timestamp": 1498246935000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://www.ojrd.com/content/10/1/114"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            17
+          ]
+        ]
+      },
+      "references-count": 29,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "322"
+      ],
+      "URL": "https://doi.org/10.1186/s13023-015-0322-x",
+      "relation": {},
+      "ISSN": [
+        "1750-1172"
+      ],
+      "issn-type": [
+        {
+          "value": "1750-1172",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            9,
+            17
+          ]
+        ]
+      },
+      "article-number": "114"
+    }
+  }
+}

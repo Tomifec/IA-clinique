@@ -1,0 +1,640 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_3389_fmed_2024_1433070.md",
+  "id": "evidence_import_refs_2025_09_11_10_3389_fmed_2024_1433070",
+  "doi": "10.3389/fmed.2024.1433070",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:02.463267Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            30
+          ]
+        ],
+        "date-time": "2025-08-30T16:46:48Z",
+        "timestamp": 1756572408039,
+        "version": "3.41.2"
+      },
+      "reference-count": 42,
+      "publisher": "Frontiers Media SA",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                7,
+                10
+              ]
+            ],
+            "date-time": "2024-07-10T00:00:00Z",
+            "timestamp": 1720569600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "frontiersin.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Front. Med."
+      ],
+      "abstract": "<jats:p>Musculoskeletal disorders, especially chronic muscle pain, have a significant impact on public health, affecting millions worldwide. This review examines recent advancements in the diagnosis and management of myofascial pain, with a focus on the refined application of trigger point theory. This theory now incorporates an intricate model that blends biomechanical and neurophysiological mechanisms, essential for understanding the initiation and persistence of pain, and necessitating targeted therapeutic interventions. Utilizing a methodical approach, this paper categorizes muscle pain into three types: Muscle Belly Pain, Origin-Insertion Pain, and Referred Pain, as delineated in the most recent edition of “Myofascial Pain and Dysfunction—The Trigger Point Manual.” Such classification enhances diagnostic precision and therapeutic effectiveness by establishing a specific treatment protocol for each type of pain. The paper discusses the implications of various treatments, such as dry needling and manual therapy, which are informed by empirically derived trigger point charts. These charts are instrumental in pinpointing the exact locations of pain sources and customizing treatment plans. Moreover, this review critically assesses the evolving nature of trigger point charts and champions a holistic approach to pain management. It underscores the necessity of integrating biomechanics, kinesiology, and compensatory mechanisms to provide a comprehensive understanding that allows practitioners to address not only symptomatic pain but also the root causes of musculoskeletal disorders, thereby enhancing long-term patient care outcomes in clinical environments.</jats:p>",
+      "DOI": "10.3389/fmed.2024.1433070",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            10
+          ]
+        ],
+        "date-time": "2024-07-10T05:06:19Z",
+        "timestamp": 1720587979000
+      },
+      "update-policy": "https://doi.org/10.3389/crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 9,
+      "title": [
+        "Advancing musculoskeletal diagnosis and therapy: a comprehensive review of trigger point theory and muscle pain patterns"
+      ],
+      "prefix": "10.3389",
+      "volume": "11",
+      "author": [
+        {
+          "given": "Tianjun",
+          "family": "Zhai",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Fengyan",
+          "family": "Jiang",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yeping",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jie",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Wei",
+          "family": "Feng",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "1965",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            10
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref1",
+          "doi-asserted-by": "publisher",
+          "first-page": "103361",
+          "DOI": "10.1016/j.autrev.2023.103361",
+          "article-title": "Global burden and risk factors of musculoskeletal disorders among adolescents and young adults in 204 countries and territories, 1990-2019",
+          "volume": "22",
+          "author": "Guan",
+          "year": "2023",
+          "journal-title": "Autoimmun Rev"
+        },
+        {
+          "key": "ref2",
+          "doi-asserted-by": "publisher",
+          "first-page": "101944",
+          "DOI": "10.1016/j.berh.2024.101944",
+          "article-title": "Myofascial pain - a major player in musculoskeletal pain",
+          "author": "Lam",
+          "year": "2024",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "publisher",
+          "first-page": "427",
+          "DOI": "10.1016/j.bpa.2020.08.003",
+          "article-title": "Treatment and management of myofascial pain syndrome",
+          "volume": "34",
+          "author": "Urits",
+          "year": "2020",
+          "journal-title": "Best Pract Res Clin Anaesthesiol"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "publisher",
+          "first-page": "469",
+          "DOI": "10.23736/S1973-9087.20.05820-7",
+          "article-title": "Improving characterization and diagnosis quality of myofascial pain syndrome: a systematic review of the clinical and biomarker overlap with delayed onset muscle soreness",
+          "volume": "56",
+          "author": "Vadasz",
+          "year": "2020",
+          "journal-title": "Eur J Phys Rehabil Med"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "publisher",
+          "first-page": "229",
+          "DOI": "10.1016/j.mcna.2006.12.004",
+          "article-title": "Myofascial trigger points",
+          "volume": "91",
+          "author": "Lavelle",
+          "year": "2007",
+          "journal-title": "Med Clin North Am"
+        },
+        {
+          "key": "ref6",
+          "doi-asserted-by": "publisher",
+          "first-page": "142",
+          "DOI": "10.1093/pm/pnx207",
+          "article-title": "International consensus on diagnostic criteria and clinical considerations of myofascial trigger points: a Delphi study",
+          "volume": "19",
+          "author": "Fernández-de-las-Peñas",
+          "year": "2018",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "ref7",
+          "doi-asserted-by": "publisher",
+          "first-page": "8142",
+          "DOI": "10.3390/ijms24098142",
+          "article-title": "A new unified theory of trigger point formation: failure of pre- and post-synaptic feedback control mechanisms",
+          "volume": "24",
+          "author": "Gerwin",
+          "year": "2023",
+          "journal-title": "Int J Mol Sci"
+        },
+        {
+          "key": "ref8",
+          "doi-asserted-by": "publisher",
+          "first-page": "e0263087",
+          "DOI": "10.1371/journal.pone.0263087",
+          "article-title": "Scoping review and interpretation of myofascial pain/fibromyalgia syndrome: An attempt to assemble a medical puzzle",
+          "volume": "17",
+          "author": "Plaut",
+          "year": "2022",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "publisher",
+          "first-page": "1256",
+          "DOI": "10.3390/biom11081256",
+          "article-title": "Chronic pain in the elderly: mechanisms and distinctive features",
+          "volume": "11",
+          "author": "Tinnirello",
+          "year": "2021",
+          "journal-title": "Biomol Ther"
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "publisher",
+          "first-page": "56",
+          "DOI": "10.1007/s11910-021-01138-7",
+          "article-title": "Current understanding of the pathophysiology and approach to tension-type headache",
+          "volume": "21",
+          "author": "Steel",
+          "year": "2021",
+          "journal-title": "Curr Neurol Neurosci Rep"
+        },
+        {
+          "key": "ref11",
+          "doi-asserted-by": "publisher",
+          "first-page": "1283",
+          "DOI": "10.1093/pm/pnab319",
+          "article-title": "Can central sensitization after injury persist as an autonomous pain generator? A comprehensive search for evidence",
+          "volume": "23",
+          "author": "Brazenor",
+          "year": "2022",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "ref12",
+          "doi-asserted-by": "publisher",
+          "first-page": "69",
+          "DOI": "10.1007/s11926-021-01024-8",
+          "article-title": "Re-examining myofascial pain syndrome: toward biomarker development and mechanism-based diagnostic criteria",
+          "volume": "23",
+          "author": "Duarte",
+          "year": "2021",
+          "journal-title": "Curr Rheumatol Rep"
+        },
+        {
+          "key": "ref13",
+          "doi-asserted-by": "publisher",
+          "first-page": "43",
+          "DOI": "10.1007/s11916-020-00877-5",
+          "article-title": "A comprehensive review of the treatment and management of myofascial pain syndrome",
+          "volume": "24",
+          "author": "Galasso",
+          "year": "2020",
+          "journal-title": "Curr Pain Headache Rep"
+        },
+        {
+          "key": "ref14",
+          "doi-asserted-by": "publisher",
+          "first-page": "100",
+          "DOI": "10.14744/agri.2022.87059",
+          "article-title": "The prevalence of scapular dyskinesia in patients with back, neck, and shoulder pain and the effect of this combination on pain and muscle shortness. Sırt, boyun ve omuz ağrısı olan hastalarda skapular diskinezi prevalansı ve bu kombinasyonun ağrı ve kas kısalığı üzerine etkisi",
+          "volume": "34",
+          "author": "Sağlam",
+          "year": "2022",
+          "journal-title": "Agri"
+        },
+        {
+          "key": "ref15",
+          "doi-asserted-by": "publisher",
+          "first-page": "440",
+          "DOI": "10.3390/bioengineering9090440",
+          "article-title": "Differential sensitization of muscle versus fascia in individuals with low Back pain",
+          "volume": "9",
+          "author": "Cozacov",
+          "year": "2022",
+          "journal-title": "Bioengineering (Basel)"
+        },
+        {
+          "key": "ref16",
+          "doi-asserted-by": "publisher",
+          "first-page": "1677",
+          "DOI": "10.2147/JPR.S240376",
+          "article-title": "Effects of trigger point dry needling on neuromuscular performance and pain of individuals affected by patellofemoral pain: a randomized controlled trial",
+          "volume": "13",
+          "author": "Ma",
+          "year": "2020",
+          "journal-title": "J Pain Res"
+        },
+        {
+          "key": "ref17",
+          "doi-asserted-by": "publisher",
+          "first-page": "654",
+          "DOI": "10.1016/j.jseint.2024.01.006",
+          "article-title": "Elbow anatomy in perspective of joint capsule and surrounding aponeuroses: a narrative review",
+          "volume": "8",
+          "author": "Nimura",
+          "year": "2024",
+          "journal-title": "JSES Int"
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1007/174_2023_387",
+          "article-title": "Medial ankle pain",
+          "volume-title": "Imaging of the foot and ankle. Medical radiology",
+          "author": "Sanghvi",
+          "year": "2023"
+        },
+        {
+          "key": "ref19",
+          "doi-asserted-by": "publisher",
+          "first-page": "1277",
+          "DOI": "10.1007/s00402-015-2270-2",
+          "article-title": "Precise risk factors for Osgood-Schlatter disease",
+          "volume": "135",
+          "author": "Nakase",
+          "year": "2015",
+          "journal-title": "Arch Orthop Trauma Surg"
+        },
+        {
+          "key": "ref20",
+          "doi-asserted-by": "publisher",
+          "first-page": "1630",
+          "DOI": "10.1093/pm/pnab114",
+          "article-title": "Is dry needling effective for the Management of Plantar Heel Pain or plantar fasciitis? An updated systematic review and Meta-analysis",
+          "volume": "22",
+          "author": "Llurda-Almuzara",
+          "year": "2021",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "ref21",
+          "doi-asserted-by": "publisher",
+          "first-page": "1280",
+          "DOI": "10.1016/j.semarthrit.2020.08.006",
+          "article-title": "Physical modalities for the conservative treatment of wrist and hand’s tenosynovitis: a systematic review",
+          "volume": "50",
+          "author": "Ferrara",
+          "year": "2020",
+          "journal-title": "Semin Arthritis Rheum"
+        },
+        {
+          "key": "ref22",
+          "doi-asserted-by": "publisher",
+          "first-page": "110624",
+          "DOI": "10.1016/j.mehy.2021.110624",
+          "article-title": "Visceral pain, mechanisms, and implications in musculoskeletal clinical practice",
+          "volume": "153",
+          "author": "Pacheco-Carroza",
+          "year": "2021",
+          "journal-title": "Med Hypotheses"
+        },
+        {
+          "key": "ref23",
+          "doi-asserted-by": "publisher",
+          "first-page": "1104817",
+          "DOI": "10.3389/fneur.2023.1104817",
+          "article-title": "Referred pain: characteristics, possible mechanisms, and clinical management",
+          "volume": "14",
+          "author": "Jin",
+          "year": "2023",
+          "journal-title": "Front Neurol"
+        },
+        {
+          "key": "ref24",
+          "doi-asserted-by": "publisher",
+          "first-page": "235",
+          "DOI": "10.1249/JSR.0000000000000723",
+          "article-title": "Iliopsoas the hidden muscle: anatomy, diagnosis, and treatment",
+          "volume": "19",
+          "author": "Lifshitz",
+          "year": "2020",
+          "journal-title": "Curr Sports Med Rep"
+        },
+        {
+          "key": "ref25",
+          "doi-asserted-by": "publisher",
+          "first-page": "663",
+          "DOI": "10.1002/mus.25535",
+          "article-title": "The thoracic outlet syndromes: part 2. The arterial, venous, neurovascular, and disputed thoracic outlet syndromes",
+          "volume": "56",
+          "author": "Ferrante",
+          "year": "2017",
+          "journal-title": "Muscle Nerve"
+        },
+        {
+          "key": "ref26",
+          "doi-asserted-by": "publisher",
+          "first-page": "82.e1",
+          "DOI": "10.1016/j.jhsa.2021.09.017",
+          "article-title": "Transdeltoid approach to axillary nerve repair: anatomical study and case series",
+          "volume": "48",
+          "author": "Bertelli",
+          "year": "2023",
+          "journal-title": "J Hand Surg Am"
+        },
+        {
+          "key": "ref27",
+          "doi-asserted-by": "publisher",
+          "first-page": "4030622",
+          "DOI": "10.1155/2023/4030622",
+          "article-title": "A potential objective sign of central sensitization: referred pain elicited by manual gluteus Minimus muscle exploration is coincident with pathological autonomic response provoked by noxious stimulation",
+          "volume": "2023",
+          "author": "Skorupska",
+          "year": "2023",
+          "journal-title": "Pain Res Manag"
+        },
+        {
+          "key": "ref28",
+          "doi-asserted-by": "publisher",
+          "first-page": "307",
+          "DOI": "10.1016/j.pmr.2022.01.011",
+          "article-title": "Trigger point injections",
+          "volume": "33",
+          "author": "Appasamy",
+          "year": "2022",
+          "journal-title": "Phys Med Rehabil Clin N Am"
+        },
+        {
+          "key": "ref29",
+          "doi-asserted-by": "publisher",
+          "first-page": "158",
+          "DOI": "10.1080/15360288.2017.1298688",
+          "article-title": "Pathophysiology of trigger points in myofascial pain syndrome",
+          "volume": "31",
+          "author": "Money",
+          "year": "2017",
+          "journal-title": "J Pain Palliat Care Pharmacother"
+        },
+        {
+          "key": "ref30",
+          "doi-asserted-by": "publisher",
+          "first-page": "395",
+          "DOI": "10.1007/s11926-013-0395-2",
+          "article-title": "Myofascial trigger points: peripheral or central phenomenon?",
+          "volume": "16",
+          "author": "Fernández-de-las-Peñas",
+          "year": "2014",
+          "journal-title": "Curr Rheumatol Rep"
+        },
+        {
+          "key": "ref31",
+          "doi-asserted-by": "publisher",
+          "first-page": "133",
+          "DOI": "10.2519/jospt.2017.7096",
+          "article-title": "The effectiveness of trigger point dry needling for musculoskeletal conditions by physical therapists: a systematic review and Meta-analysis",
+          "volume": "47",
+          "author": "Gattie",
+          "year": "2017",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "ref32",
+          "doi-asserted-by": "publisher",
+          "first-page": "1899",
+          "DOI": "10.2147/JPR.S154728",
+          "article-title": "Trigger point dry needling for the treatment of myofascial pain syndrome: current perspectives within a pain neuroscience paradigm",
+          "volume": "12",
+          "author": "Fernández-de-Las-Peñas",
+          "year": "2019",
+          "journal-title": "J Pain Res"
+        },
+        {
+          "key": "ref33",
+          "doi-asserted-by": "publisher",
+          "first-page": "34",
+          "DOI": "10.1186/s12998-022-00441-5",
+          "article-title": "Effect of ischemic compression on myofascial pain syndrome: a systematic review and meta-analysis",
+          "volume": "30",
+          "author": "Lu",
+          "year": "2022",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "key": "ref34",
+          "doi-asserted-by": "publisher",
+          "first-page": "3",
+          "DOI": "10.1177/09645284231207865",
+          "article-title": "Dry needling, trigger point electroacupuncture and motor point electroacupuncture for the treatment of myofascial pain syndrome involving the trapezius: a randomised clinical trial",
+          "volume": "42",
+          "author": "Moro",
+          "year": "2024",
+          "journal-title": "Acupunct Med"
+        },
+        {
+          "key": "ref35",
+          "doi-asserted-by": "publisher",
+          "first-page": "1774",
+          "DOI": "10.1093/pm/pny278",
+          "article-title": "The effect of electric stimulation techniques on pain and tenderness at the myofascial trigger point: a systematic review",
+          "volume": "20",
+          "author": "Ahmed",
+          "year": "2019",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "ref36",
+          "doi-asserted-by": "publisher",
+          "first-page": "2082",
+          "DOI": "10.1016/S0140-6736(21)00393-7",
+          "article-title": "Chronic pain: an update on burden, best practices, and new advances",
+          "volume": "397",
+          "author": "Cohen",
+          "year": "2021",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "ref37",
+          "first-page": "7",
+          "volume-title": "Illustrated treatment of myofascial trigger points",
+          "author": "Yungui",
+          "year": "2012"
+        },
+        {
+          "key": "ref38",
+          "doi-asserted-by": "publisher",
+          "first-page": "1327",
+          "DOI": "10.1177/0269215520937468",
+          "article-title": "Effects of trigger point dry needling on lateral epicondylalgia of musculoskeletal origin: a systematic review and meta-analysis",
+          "volume": "34",
+          "author": "Navarro-Santana",
+          "year": "2020",
+          "journal-title": "Clin Rehabil"
+        },
+        {
+          "key": "ref39",
+          "doi-asserted-by": "publisher",
+          "first-page": "72",
+          "DOI": "10.1186/s12906-015-0587-6",
+          "article-title": "Intensive vasodilatation in the sciatic pain area after dry needling",
+          "volume": "15",
+          "author": "Skorupska",
+          "year": "2015",
+          "journal-title": "BMC Complement Altern Med"
+        },
+        {
+          "key": "ref40",
+          "doi-asserted-by": "publisher",
+          "first-page": "423",
+          "DOI": "10.1007/s11916-012-0290-y",
+          "article-title": "Myofascial low back pain",
+          "volume": "16",
+          "author": "Ramsook",
+          "year": "2012",
+          "journal-title": "Curr Pain Headache Rep"
+        },
+        {
+          "key": "ref41",
+          "doi-asserted-by": "publisher",
+          "first-page": "300",
+          "DOI": "10.4103/ija.IJA_6_19",
+          "article-title": "Assessment of predisposing factors in myofascial pain syndrome and the analgesic effect of trigger point injections - a primary therapeutic interventional clinical trial",
+          "volume": "63",
+          "author": "Parthasarathy",
+          "year": "2019",
+          "journal-title": "Indian J Anaesth"
+        },
+        {
+          "key": "ref42",
+          "doi-asserted-by": "publisher",
+          "first-page": "245",
+          "DOI": "10.3949/ccjm.90a.22019",
+          "article-title": "Central sensitization, chronic pain, and other symptoms: better understanding, better management",
+          "volume": "90",
+          "author": "Volcheck",
+          "year": "2023",
+          "journal-title": "Cleve Clin J Med"
+        }
+      ],
+      "container-title": [
+        "Frontiers in Medicine"
+      ],
+      "original-title": [],
+      "link": [
+        {
+          "URL": "https://www.frontiersin.org/articles/10.3389/fmed.2024.1433070/full",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            10
+          ]
+        ],
+        "date-time": "2024-07-10T05:06:21Z",
+        "timestamp": 1720587981000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.frontiersin.org/articles/10.3389/fmed.2024.1433070/full"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            10
+          ]
+        ]
+      },
+      "references-count": 42,
+      "alternative-id": [
+        "10.3389/fmed.2024.1433070"
+      ],
+      "URL": "https://doi.org/10.3389/fmed.2024.1433070",
+      "relation": {},
+      "ISSN": [
+        "2296-858X"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2296-858X"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            10
+          ]
+        ]
+      },
+      "article-number": "1433070"
+    }
+  }
+}

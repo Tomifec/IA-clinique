@@ -1,0 +1,178 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1136_bmj_l540.md",
+  "id": "evidence_import_refs_2025_09_11_10_1136_bmj_l540",
+  "doi": "10.1136/bmj.l540",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:54.062617Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            29
+          ]
+        ],
+        "date-time": "2022-03-29T20:18:29Z",
+        "timestamp": 1648585109093
+      },
+      "reference-count": 2,
+      "publisher": "BMJ",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                2,
+                3
+              ]
+            ],
+            "date-time": "2019-02-03T00:00:00Z",
+            "timestamp": 1549152000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.bmj.com/company/legal-information/terms-conditions/legal-information/tdm-licencepolicy"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "BMJ"
+      ],
+      "DOI": "10.1136/bmj.l540",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            4
+          ]
+        ],
+        "date-time": "2019-02-04T05:35:10Z",
+        "timestamp": 1549258510000
+      },
+      "page": "l540",
+      "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "Improve scheduling to perform an extra 291 000 elective operations a year, trusts are told"
+      ],
+      "prefix": "10.1136",
+      "author": [
+        {
+          "given": "Jacqui",
+          "family": "Wise",
+          "sequence": "first",
+          "affiliation": []
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            3
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "key20190315143948_ref1",
+          "unstructured": "NHS Improvement. Operating theatres: opportunities to reduce waiting lists. February 2019. https://improvement.nhs.uk/resources/operating-theatres-opportunities-reduce-waiting-lists."
+        },
+        {
+          "key": "key20190315143948_ref2",
+          "unstructured": "NHS England. NHS shared planning guidance. www.england.nhs.uk/operational-planning-and-contracting"
+        }
+      ],
+      "container-title": [
+        "BMJ"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://data.bmj.org/tdm/10.1136/bmj.l540",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.l540",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2020-09-26T01:12:44Z",
+        "timestamp": 1601082764000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.l540"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            3
+          ]
+        ]
+      },
+      "references-count": 2,
+      "alternative-id": [
+        "10.1136/bmj.l540"
+      ],
+      "URL": "https://doi.org/10.1136/bmj.l540",
+      "relation": {},
+      "ISSN": [
+        "0959-8138",
+        "1756-1833"
+      ],
+      "issn-type": [
+        {
+          "value": "0959-8138",
+          "type": "print"
+        },
+        {
+          "value": "1756-1833",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            3
+          ]
+        ]
+      }
+    }
+  }
+}

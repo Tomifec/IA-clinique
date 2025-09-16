@@ -1,0 +1,65 @@
+---
+'@context': http://schema.org
+'@type': Strategie
+id: strategie_exercice_therapeutique
+theme: exercice_therapeutique
+profil: lombalgie persistante ou subaigue; adapter au phenotype
+securite:
+  score: faible
+  stop_rules:
+  - aggravation nette
+  - deficit progressif
+message_clinique: Prioriser l'activité et un renforcement progressif; éviter le repos
+  prolongé. Adapter la charge et monitorer les symptômes.
+liens_evidence:
+- evidence_exercice_therapeutique
+- evidence_import_refs_2025_09_11_10_1002_14651858_cd000335_pub2
+- evidence_import_refs_2025_09_11_10_1002_14651858_cd000963_pub3
+- evidence_import_refs_2025_09_11_10_1002_14651858_cd009790_pub2
+- evidence_import_refs_2025_09_11_10_1002_ejp_70090
+- evidence_import_refs_2025_09_11_10_1002_jor_20415
+- evidence_import_refs_2025_09_11_10_1016_j_jbmt_2011_02_003
+- evidence_import_refs_2025_09_11_10_1016_j_msksp_2024_103132
+- evidence_import_refs_2025_09_11_10_1038_s41598_024_68192_2
+- evidence_import_refs_2025_09_11_10_1056_nejm199502093320602
+- evidence_import_refs_2025_09_11_10_1093_milmed_usae080
+- evidence_import_refs_2025_09_11_10_1093_ptj_pzaa028
+- evidence_import_refs_2025_09_11_10_1093_ptj_pzaa231
+- evidence_import_refs_2025_09_11_10_1097_01_brs_0000146464_23007_2a
+- evidence_import_refs_2025_09_11_10_1136_bjsm_2011_084079
+- evidence_import_refs_2025_09_11_10_1136_bjsm_36_6_392
+- evidence_import_refs_2025_09_11_10_1136_bjsports_2016_096458
+- evidence_import_refs_2025_09_11_10_1136_bjsports_2017_098983
+- evidence_import_refs_2025_09_11_10_1136_bjsports_2018_099198
+- evidence_import_refs_2025_09_11_10_1136_bjsports_2018_099747
+- evidence_import_refs_2025_09_11_10_1136_bmjopen_2023_080646
+- evidence_import_refs_2025_09_11_10_1177_03635465231175151
+- evidence_import_refs_2025_09_11_10_1186_s12891_024_07667_9
+- evidence_import_refs_2025_09_11_10_2519_jospt_2015_5987
+- evidence_import_refs_2025_09_11_10_2519_jospt_2018_0608
+- evidence_import_refs_2025_09_11_10_2519_jospt_2021_0105
+- evidence_import_refs_2025_09_11_10_2519_jospt_2022_10698
+- evidence_import_refs_2025_09_11_10_25259_jassm_26_2024
+- evidence_import_refs_2025_09_11_10_4314_tjpr_v23i5_13
+- evidence_import_refs_2025_09_11_10_52403_ijrr_20240805
+- evidence_import_refs_2025_09_11_10_61919_jhrr_v4i2_1168
+- evidence_exercice_therapeutique_10_1056_nejm199502093320602
+- evidence_exercice_therapeutique_10_15556_ijiim_01_01_001
+- evidence_exercice_therapeutique_10_15556_ijsim_02_02_004
+- evidence_exercice_therapeutique_10_15556_ijsim_03_02_004
+- evidence_exercice_therapeutique_10_33945_sami_pcbr_2019_4_8
+- evidence_exercice_therapeutique_10_47363_jeast_2021_vid_1006
+- evidence_import_refs_2025_09_12_10_1186_s13102_023_00618_2
+sources_snapshot: []
+statut: valide
+test_sentinelle:
+- NRS effort
+mcid:
+  NRS: 2
+  ODI: 10
+protocoles:
+- 2-3x/sem pendant 8-12 semaines, renforcement+controle moteur+aerobie, progression
+  par tolerance
+---
+# Strategie Exercice therapeutique
+

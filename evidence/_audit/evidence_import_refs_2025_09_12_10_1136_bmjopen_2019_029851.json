@@ -1,0 +1,542 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_bmjopen_2019_029851.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_bmjopen_2019_029851",
+  "doi": "10.1136/bmjopen-2019-029851",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:50.052505Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            29
+          ]
+        ],
+        "date-time": "2025-08-29T09:45:20Z",
+        "timestamp": 1756460720689,
+        "version": "3.37.3"
+      },
+      "reference-count": 36,
+      "publisher": "BMJ",
+      "issue": "8",
+      "funder": [
+        {
+          "DOI": "10.13039/501100003321",
+          "name": "Queen's University",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100003321",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100023283",
+          "name": "Ontario Chiropractic Association",
+          "doi-asserted-by": "crossref",
+          "award": [
+            "11401"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100023283",
+              "id-type": "DOI",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "BMJ Open"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2019,
+            7,
+            30
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            8
+          ]
+        ]
+      },
+      "abstract": "<jats:sec><jats:title>Objectives</jats:title><jats:p>There is no current detailed profile of people seeking chiropractic care in Canada. We describe the profiles of chiropractors’ practice and the reasons, nature of the care provided to their patients and extent of interprofessional collaborations in Ontario, Canada.</jats:p></jats:sec><jats:sec><jats:title>Design</jats:title><jats:p>Cross-sectional observational study.</jats:p></jats:sec><jats:sec><jats:title>Setting</jats:title><jats:p>Primary care setting in Ontario, Canada.</jats:p></jats:sec><jats:sec><jats:title>Participants</jats:title><jats:p>We randomly recruited chiropractors from a list of registered chiropractors (n=3978) in active practice in 2015. Of the 135 randomly selected chiropractors, 120 were eligible, 43 participated and 42 completed the study.</jats:p></jats:sec><jats:sec><jats:title>Outcome measures</jats:title><jats:p>Each chiropractor recorded information for up to 100 consecutive patient encounters, documenting patient health profiles, reasons for encounter, diagnoses and care provided. Descriptive statistics summarised chiropractor, patient and encounter characteristics, with analyses accounting for clustering and design effects.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>Chiropractors provided data on 3523 chiropractor-patient encounters. More than 65% of participating chiropractors were male, mean age 44 years and had practised on average 15 years. The typical patient was female (59% of encounters), between 45 and 64 years (43%) and retired (21%) or employed in business and administration (13%). Most (39.4%) referrals were from other patients, with 6.8% from physicians. Approximately 68% of patients paid out of pocket or claimed extended health insurance for care. Most common diagnoses were back (49%, 95% CI 44 to 56) and neck (15%, 95% CI 13 to 18) problems, with few encounters related to maintenance/preventive care (0.86%, 95% CI 0.2 to 3.9) and non-musculoskeletal problems (1.3%, 95% CI 0.7 to 2.3). The most common treatments included spinal manipulation (72%), soft tissue therapy (70%) and mobilisation (35%).</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>This is the most comprehensive profile to date of chiropractic practice in Canada. People who present to Ontario chiropractors are mostly adults with a musculoskeletal condition. Our results can be used by stakeholders to make informed decisions about workforce development, education and healthcare policy related to chiropractic care.</jats:p></jats:sec>",
+      "DOI": "10.1136/bmjopen-2019-029851",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            8,
+            27
+          ]
+        ],
+        "date-time": "2019-08-27T09:15:30Z",
+        "timestamp": 1566897330000
+      },
+      "page": "e029851",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 28,
+      "title": [
+        "Understanding patient profiles and characteristics of current chiropractic practice: a cross-sectional Ontario Chiropractic Observation and Analysis STudy (O-COAST)"
+      ],
+      "prefix": "10.1136",
+      "volume": "9",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6575-2797",
+          "authenticated-orcid": false,
+          "given": "Silvano",
+          "family": "Mior",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Jessica",
+          "family": "Wong",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Deborah",
+          "family": "Sutton",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter J H",
+          "family": "Beliveau",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "André",
+          "family": "Bussières",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sheilah",
+          "family": "Hogg-Johnson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Simon",
+          "family": "French",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            8,
+            26
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2024052013545780000_9.8.e029851.1",
+          "unstructured": "World Federation of Chiropractic . The current status of the chiropractic profession. Report to the world Health organization from the world Federation of chiropractic, 2012. Available: https://www.wfc.org/website/images/wfc/WHO_Submission-Final_Jan2013.pdf [Accessed 23 Feb 2018]."
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Beliveau PJH , Wong JJ , Sutton DA , et al . The chiropractic profession: a scoping review of utilization rates, reasons for seeking care, patient profiles, and care provided. Chiropr Man Therap 2017;25.doi:10.1186/s12998-017-0165-8",
+          "DOI": "10.1186/s12998-017-0165-8"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2105/AJPH.88.5.771"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.4",
+          "doi-asserted-by": "crossref",
+          "first-page": "104",
+          "DOI": "10.1016/j.jmpt.2007.12.007",
+          "article-title": "Economic and resource status of the chiropractic profession in Ontario, Canada: a challenge or an opportunity",
+          "volume": "31",
+          "author": "Mior",
+          "year": "2008",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.5",
+          "first-page": "21",
+          "article-title": "Practice patterns of 692 Ontario chiropractors (2000-2001)",
+          "volume": "49",
+          "author": "Waalen",
+          "year": "2005",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.6",
+          "unstructured": "Mior SA , Soave D . Analysis and reporting of the patient management program database. Toronto: Ontario Chiropractic Association, 2011."
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.7",
+          "unstructured": "College of Chiropractors of Ontario . Protecting the public, guiding the profession, 2016. Available: https://www.cco.on.ca/wp-content/uploads/2017/11/CCO-Annual-Report16-web.pdf [Accessed 23 Feb 2018]."
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.8",
+          "doi-asserted-by": "crossref",
+          "first-page": "687",
+          "DOI": "10.5694/mja12.11851",
+          "article-title": "Chiropractic observation and analysis study (coast): providing an understanding of current chiropractic practice",
+          "volume": "199",
+          "author": "French",
+          "year": "2013",
+          "journal-title": "Med J Aust"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.9",
+          "unstructured": "Britt H , Miller G , Charles J , et al . General practice activity in Australia 2010-11. general practice series no.29. Sydney: Sydney University Press, 2011."
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.10",
+          "first-page": "36",
+          "article-title": "The quality of data on general practice - a discussion of BEACH reliability and validity",
+          "volume": "36",
+          "author": "Britt",
+          "year": "2007",
+          "journal-title": "Aust Fam Physician"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.11",
+          "unstructured": "Britt H , Miller G , Henderson J , et al . General practice activity in Australia 2011-12. general practice series no.31. Sydney: Sydney University Press, 2012."
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.12",
+          "unstructured": "Dillman DA . Mail and Internet surveys: the tailored design method: with new Internet, visual, and mixed-mode guide. 2nd ed. Hoboken, N.J., Chichester: John Wiley & Sons, Inc, 2007."
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.13",
+          "doi-asserted-by": "crossref",
+          "first-page": "34",
+          "DOI": "10.1111/j.1753-6405.1995.tb00294.x",
+          "article-title": "Development of sample size models for national general practice surveys",
+          "volume": "19",
+          "author": "Meza",
+          "year": "1995",
+          "journal-title": "Aust J Public Health"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.14",
+          "doi-asserted-by": "crossref",
+          "first-page": "8",
+          "DOI": "10.14236/jhi.v6i2.203",
+          "article-title": "A measure of the validity of the International classification of primary care in the classification of reasons for encounter",
+          "volume": "6",
+          "author": "Britt",
+          "year": "1997",
+          "journal-title": "Jhi"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.15",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Charity MJ , French SD , Forsdike K , et al . Extending ICPC-2 plus terminology to develop a classification system specific for the study of chiropractic encounters. Chiropr Man Therap 2013;21.doi:10.1186/2045-709X-21-4",
+          "DOI": "10.1186/2045-709X-21-4"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.16",
+          "unstructured": "Classification Committee World Organization of Family Doctors (WICC) . ICPC-2: International classification of primary care. 2nd edn. Oxford: Oxford University Press, 1998."
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.17",
+          "unstructured": "World Health Organization . Who guidelines on basic training and safety in chiropractic. Geneva: WHO, 2005. http://www.who.int/medicines/areas/traditional/Chiro-Guidelines.pdf"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-200202010-00018"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.19",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/1472-6963-6-49",
+          "article-title": "A comparative analysis of chiropractic and general practitioner patients in North America: findings from the joint Canada/United states survey of health, 2002–03",
+          "volume": "6",
+          "author": "Hurwitz",
+          "year": "2006",
+          "journal-title": "BMC Health Serv Res"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.20",
+          "doi-asserted-by": "crossref",
+          "first-page": "556",
+          "DOI": "10.1016/j.jmpt.2012.05.002",
+          "article-title": "Consensus process to develop a best-practice document on the role of chiropractic care in health promotion, disease prevention, and wellness",
+          "volume": "35",
+          "author": "Hawk",
+          "year": "2012",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.21",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Leboeuf-Yde C , Hestbæk L . Maintenance care in chiropractic – what do we know? Chiropr Osteopat 2008;16.doi:10.1186/1746-1340-16-3",
+          "DOI": "10.1186/1746-1340-16-3"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.22",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0203029",
+          "article-title": "The Nordic maintenance care program: effectiveness of chiropractic maintenance care versus symptom-guided treatment for recurrent and persistent low back pain—A pragmatic randomized controlled trial",
+          "volume": "13",
+          "author": "Eklund",
+          "year": "2018",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.23",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Goncalves G , Le Scanff C , Leboeuf-Yde C . Primary prevention in chiropractic practice: a systematic review. Chiropr Man Therap 2017;25.doi:10.1186/s12998-017-0140-4",
+          "DOI": "10.1186/s12998-017-0140-4"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.24",
+          "doi-asserted-by": "crossref",
+          "first-page": "439",
+          "DOI": "10.2105/AJPH.81.4.439",
+          "article-title": "A community-based study of the use of chiropractic services",
+          "volume": "81",
+          "author": "Shekelle",
+          "year": "1991",
+          "journal-title": "Am J Public Health"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.25",
+          "first-page": "155",
+          "article-title": "Canadian chiropractic resources databank (CCRD): a profile of Canadian chiropractors",
+          "volume": "41",
+          "author": "Kopansky-Giles",
+          "year": "1997",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.26",
+          "doi-asserted-by": "crossref",
+          "first-page": "523",
+          "DOI": "10.1016/j.jmpt.2016.08.007",
+          "article-title": "The treatment of neck Pain-Associated disorders and Whiplash-Associated disorders: a clinical practice guideline",
+          "volume": "39",
+          "author": "Bussières",
+          "year": "2016",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.27",
+          "doi-asserted-by": "crossref",
+          "first-page": "E55",
+          "DOI": "10.36076/ppj/2019.22.E55",
+          "article-title": "Manipulation and mobilization for treating chronic nonspecific neck pain: a systematic review and meta-analysis for an appropriateness panel",
+          "volume": "22",
+          "author": "Coulter",
+          "year": "2019",
+          "journal-title": "Pain physician"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.28",
+          "doi-asserted-by": "crossref",
+          "first-page": "201",
+          "DOI": "10.1002/ejp.931",
+          "article-title": "Clinical practice guidelines for the noninvasive management of low back pain: a systematic review by the Ontario protocol for traffic injury management (optima) collaboration",
+          "volume": "21",
+          "author": "Wong",
+          "year": "2017",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.29",
+          "doi-asserted-by": "crossref",
+          "first-page": "265",
+          "DOI": "10.1016/j.jmpt.2017.12.004",
+          "article-title": "Spinal manipulative therapy and other conservative treatments for low back pain: a guideline from the Canadian chiropractic guideline initiative",
+          "volume": "41",
+          "author": "Bussières",
+          "year": "2018",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.30",
+          "first-page": "74",
+          "article-title": "A review of the literature pertaining to the efficacy, safety, educational requirements, uses and usage of mechanical adjusting devices: Part 1 of 2",
+          "volume": "48",
+          "author": "Taylor",
+          "year": "2004",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.31",
+          "first-page": "152",
+          "article-title": "A review of the literature pertaining to the efficacy, safety, educational requirements, uses and usage of mechanical adjusting devices: Part 2 of 2",
+          "volume": "48",
+          "author": "Taylor",
+          "year": "2004",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.32",
+          "doi-asserted-by": "crossref",
+          "first-page": "678",
+          "DOI": "10.3109/13561821003608757",
+          "article-title": "Designing a framework for the delivery of collaborative musculoskeletal care involving chiropractors and physicians in community-based primary care",
+          "volume": "24",
+          "author": "Mior",
+          "year": "2010",
+          "journal-title": "J Interprof Care"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.33",
+          "doi-asserted-by": "crossref",
+          "first-page": "2163",
+          "DOI": "10.1016/S0140-6736(12)61729-2",
+          "article-title": "Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990–2010: a systematic analysis for the global burden of disease study 2010",
+          "volume": "380",
+          "author": "Vos",
+          "year": "2012",
+          "journal-title": "The Lancet"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.34",
+          "doi-asserted-by": "crossref",
+          "first-page": "2356",
+          "DOI": "10.1016/S0140-6736(18)30480-X",
+          "article-title": "What low back pain is and why we need to pay attention",
+          "volume": "391",
+          "author": "Hartvigsen",
+          "year": "2018",
+          "journal-title": "The Lancet"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000194773.10461.9f"
+        },
+        {
+          "key": "2024052013545780000_9.8.e029851.36",
+          "doi-asserted-by": "crossref",
+          "first-page": "2368",
+          "DOI": "10.1016/S0140-6736(18)30489-6",
+          "article-title": "Prevention and treatment of low back pain: evidence, challenges, and promising directions",
+          "volume": "391",
+          "author": "Foster",
+          "year": "2018",
+          "journal-title": "The Lancet"
+        }
+      ],
+      "container-title": [
+        "BMJ Open"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2019-029851",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            20
+          ]
+        ],
+        "date-time": "2024-05-20T20:55:18Z",
+        "timestamp": 1716238518000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2019-029851"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            8
+          ]
+        ]
+      },
+      "references-count": 36,
+      "journal-issue": {
+        "issue": "8",
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              8,
+              26
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              8
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bmjopen-2019-029851"
+      ],
+      "URL": "https://doi.org/10.1136/bmjopen-2019-029851",
+      "relation": {},
+      "ISSN": [
+        "2044-6055",
+        "2044-6055"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2044-6055"
+        },
+        {
+          "type": "electronic",
+          "value": "2044-6055"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            8
+          ]
+        ]
+      }
+    }
+  }
+}

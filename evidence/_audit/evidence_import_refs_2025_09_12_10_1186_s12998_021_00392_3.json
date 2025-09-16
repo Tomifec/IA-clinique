@@ -1,0 +1,644 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_s12998_021_00392_3.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_s12998_021_00392_3",
+  "doi": "10.1186/s12998-021-00392-3",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:12.145935Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            21
+          ]
+        ],
+        "date-time": "2025-02-21T18:19:23Z",
+        "timestamp": 1740161963991,
+        "version": "3.37.3"
+      },
+      "reference-count": 34,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                22
+              ]
+            ],
+            "date-time": "2021-09-22T00:00:00Z",
+            "timestamp": 1632268800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                22
+              ]
+            ],
+            "date-time": "2021-09-22T00:00:00Z",
+            "timestamp": 1632268800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Chiropr Man Therap"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            12
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>In The Netherlands, low back pain patients can consult physicians specialized in musculoskeletal (MSK) medicine. Previous studies have reported on the characteristics of patients consulting MSK physicians, and the treatment options used. There are no studies yet reporting on the course of Low Back Pain (LBP) after treatment by musculoskeletal (MSK) physicians in The Netherlands.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>In an observational cohort study MSK physicians recorded data about all low back pain patients presenting for a first consultation. At baseline they recorded age, gender, type and duration of the main complaint, and concomitant complaints. At the end of treatment they recorded the type of treatment and the number of treatment sessions. Patients were recruited to answer questionnaires at baseline, and at 6-weekly intervals during a follow-up period of six months. Patient questionnaires included information about previous medical consumption, together with PROMs measuring the level of pain and functional status. Latent Class Growth Analysis (LCGA) was used to classify patients into different groups according to their pain trajectories. Baseline variables were evaluated as predictors of a favourable trajectory using logistic regression analyses, and treatment variables were evaluated as possible confounders.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>A total of 1377 patients were recruited, of whom 1117 patients (81%) answered at least one follow-up measurement. LCGA identified three groups of patients with distinct pain trajectories. A first group (N = 226) with high pain levels showed no improvement, a second group (N = 578) with high pain levels showed strong improvement, and a third group (N = 313) with mild pain levels showed moderate improvement. The two groups of patients presenting with high baseline pain scores were compared, and a multivariable model was constructed with possible predictors of a favourable course. Male gender, previous specialist visit, previous pain clinic visit, having work, a shorter duration of the current episode, and a longer time since the complaints first started were predictors of a favourable course. The multivariable model showed a moderate area under the curve (0.68) and a low explained variance (0.09).</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>In low back pain patients treated by musculoskeletal physicians in The Netherlands three different pain trajectories were identified. Baseline variables were of limited value in predicting a favourable course.</jats:p>\n              </jats:sec>",
+      "DOI": "10.1186/s12998-021-00392-3",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            9,
+            22
+          ]
+        ],
+        "date-time": "2021-09-22T09:04:42Z",
+        "timestamp": 1632301482000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 5,
+      "title": [
+        "Pain trajectories and possible predictors of a favourable course of low back pain in patients consulting musculoskeletal physicians in The Netherlands"
+      ],
+      "prefix": "10.1186",
+      "volume": "29",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-2839-7321",
+          "authenticated-orcid": false,
+          "given": "Wouter",
+          "family": "Schuller",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Raymond W.",
+          "family": "Ostelo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Daphne C.",
+          "family": "Rohrich",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Martijn W.",
+          "family": "Heymans",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Henrica C. W.",
+          "family": "de Vet",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            9,
+            22
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "392_CR1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lambeek LC, van Tulder MW, Swinkels IC, Koppes LL, Anema JR, van Mechelen W. The trend in total cost of back pain in The Netherlands in the period 2002 to 2007. Spine (Phila Pa 1976). 2011;36(13):1050–8.",
+          "DOI": "10.1097/BRS.0b013e3181e70488"
+        },
+        {
+          "issue": "14",
+          "key": "392_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "1418",
+          "DOI": "10.1001/jama.2017.3085",
+          "volume": "317",
+          "author": "RA Deyo",
+          "year": "2017",
+          "unstructured": "Deyo RA. The role of spinal manipulation in the treatment of low back pain. JAMA. 2017;317(14):1418–9.",
+          "journal-title": "JAMA"
+        },
+        {
+          "issue": "1",
+          "key": "392_CR3",
+          "first-page": "9",
+          "volume": "40",
+          "author": "KM Dunn",
+          "year": "2004",
+          "unstructured": "Dunn KM, Croft PR. Epidemiology and natural history of low back pain. Eura Medicophys. 2004;40(1):9–13.",
+          "journal-title": "Eura Medicophys"
+        },
+        {
+          "issue": "1",
+          "key": "392_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "13",
+          "DOI": "10.1136/ard.57.1.13",
+          "volume": "57",
+          "author": "HJ van den Hoogen",
+          "year": "1998",
+          "unstructured": "van den Hoogen HJ, Koes BW, van Eijk JT, Bouter LM, Deville W. On the course of low back pain in general practice: a one year follow up study. Ann Rheum Dis. 1998;57(1):13–9.",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "issue": "1",
+          "key": "392_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "5",
+          "DOI": "10.1002/j.1532-2149.2012.00170.x",
+          "volume": "17",
+          "author": "CJ Itz",
+          "year": "2013",
+          "unstructured": "Itz CJ, Geurts JW, van Kleef M, Nelemans P. Clinical course of non-specific low back pain: a systematic review of prospective cohort studies set in primary care. Eur J Pain. 2013;17(1):5–15.",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "392_CR6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Dunn KM, Campbell P, Jordan KP. Long-term trajectories of back pain: cohort study with 7-year follow-up. BMJ Open. 2013;3(12):e003838.",
+          "DOI": "10.1136/bmjopen-2013-003838"
+        },
+        {
+          "key": "392_CR7",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chen Y, Campbell P, Strauss VY, Foster NE, Jordan KP, Dunn KM. Trajectories and predictors of the long-term course of low back pain: cohort study with 5-year follow-up. Pain. 2017.",
+          "DOI": "10.1097/j.pain.0000000000001097"
+        },
+        {
+          "issue": "8",
+          "key": "392_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "754",
+          "DOI": "10.1093/aje/kwj100",
+          "volume": "163",
+          "author": "KM Dunn",
+          "year": "2006",
+          "unstructured": "Dunn KM, Jordan K, Croft PR. Characterizing the course of low back pain: a latent class analysis. Am J Epidemiol. 2006;163(8):754–61.",
+          "journal-title": "Am J Epidemiol"
+        },
+        {
+          "issue": "1",
+          "key": "392_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "172",
+          "DOI": "10.1186/s12874-020-01050-7",
+          "volume": "20",
+          "author": "P Kent",
+          "year": "2020",
+          "unstructured": "Kent P, Cancelliere C, Boyle E, Cassidy JD, Kongsted A. A conceptual framework for prognostic research. BMC Med Res Methodol. 2020;20(1):172.",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "issue": "1",
+          "key": "392_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "103",
+          "DOI": "10.1002/ejp.1094",
+          "volume": "22",
+          "author": "L Ailliet",
+          "year": "2018",
+          "unstructured": "Ailliet L, Rubinstein SM, Hoekstra T, van Tulder MW, de Vet HCW. Long-term trajectories of patients with neck pain and low back pain presenting to chiropractic care: A latent class growth analysis. Eur J Pain. 2018;22(1):103–13.",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "392_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "220",
+          "DOI": "10.1186/s12891-016-1071-2",
+          "volume": "17",
+          "author": "A Kongsted",
+          "year": "2016",
+          "unstructured": "Kongsted A, Kent P, Axen I, Downie AS, Dunn KM. What have we learned from ten years of trajectory research in low back pain? BMC Musculoskelet Disord. 2016;17:220.",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "1",
+          "key": "392_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "512",
+          "DOI": "10.1186/s12891-017-1863-z",
+          "volume": "18",
+          "author": "W Schuller",
+          "year": "2017",
+          "unstructured": "Schuller W, Ostelo R, Rohrich DC, Apeldoorn AT, de Vet HCW. Physicians using spinal manipulative treatment in The Netherlands: a description of their characteristics and their patients. BMC Musculoskelet Disord. 2017;18(1):512.",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "392_CR13",
+          "unstructured": "Lamberts HW, M. (Eds.). International Classification of Primary Care (ICPC). Oxford: Oxford University Press; 1987."
+        },
+        {
+          "issue": "9",
+          "key": "392_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "851",
+          "DOI": "10.1097/01.mlr.0000135827.18610.0d",
+          "volume": "42",
+          "author": "JE Brazier",
+          "year": "2004",
+          "unstructured": "Brazier JE, Roberts J. The estimation of a preference-based measure of health from the SF-12. Med Care. 2004;42(9):851–9.",
+          "journal-title": "Med Care"
+        },
+        {
+          "issue": "1",
+          "key": "392_CR15",
+          "first-page": "11",
+          "volume": "18",
+          "author": "ADP Vendrig",
+          "year": "1998",
+          "unstructured": "Vendrig ADP, Vink I. Nederlandse vertaling en bewerking van de Fear-Avoidance Beliefs Questionnaire. Nederlands tijdschrift voor pijn en pijnbestrijding. 1998;18(1):11–4.",
+          "journal-title": "Nederlands tijdschrift voor pijn en pijnbestrijding"
+        },
+        {
+          "issue": "2",
+          "key": "392_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "157",
+          "DOI": "10.1016/0304-3959(93)90127-B",
+          "volume": "52",
+          "author": "G Waddell",
+          "year": "1993",
+          "unstructured": "Waddell G, Newton M, Henderson I, Somerville D, Main CJ. A fear-avoidance beliefs questionnaire (FABQ) and the role of fear-avoidance beliefs in chronic low back pain and disability. Pain. 1993;52(2):157–68.",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "11",
+          "key": "392_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "1055",
+          "DOI": "10.1016/S0895-4356(98)00097-3",
+          "volume": "51",
+          "author": "NK Aaronson",
+          "year": "1998",
+          "unstructured": "Aaronson NK, Muller M, Cohen PD, Essink-Bot ML, Fekkes M, Sanderman R, et al. Translation, validation, and norming of the Dutch language version of the SF-36 Health Survey in community and chronic disease populations. J Clin Epidemiol. 1998;51(11):1055–68.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "1",
+          "key": "392_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "71",
+          "DOI": "10.1016/0304-3959(95)00149-2",
+          "volume": "65",
+          "author": "AJ Beurskens",
+          "year": "1996",
+          "unstructured": "Beurskens AJ, de Vet HC, Koke AJ. Responsiveness of functional status in low back pain: a comparison of different instruments. Pain. 1996;65(1):71–6.",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "2",
+          "key": "392_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "188",
+          "DOI": "10.1093/jpepsy/jst085",
+          "volume": "39",
+          "author": "KS Berlin",
+          "year": "2014",
+          "unstructured": "Berlin KS, Parra GR, Williams NA. An introduction to latent variable mixture modeling (Part 2): longitudinal latent class growth analysis and growth mixture models. J Pediatr Psychol. 2014;39(2):188–203.",
+          "journal-title": "J Pediatr Psychol"
+        },
+        {
+          "issue": "4",
+          "key": "392_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "535",
+          "DOI": "10.1080/10705510701575396",
+          "volume": "14",
+          "author": "KL Nylund",
+          "year": "2007",
+          "unstructured": "Nylund KL, Asparoutiov T, Muthen BO. Deciding on the number of classes in latent class analysis and growth mixture modeling: a Monte Carlo simulation study. Struct Equ Modeling. 2007;14(4):535–69.",
+          "journal-title": "Struct Equ Modeling"
+        },
+        {
+          "key": "392_CR21",
+          "unstructured": "Muthén L.K. MBO. Mplus User`s Guide. Eighth Edition Los Angeles, CA: Muthén & Muthén"
+        },
+        {
+          "issue": "10",
+          "key": "392_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "1043",
+          "DOI": "10.1080/03610928008827941",
+          "volume": "9",
+          "author": "DW Hosmer",
+          "year": "1980",
+          "unstructured": "Hosmer DW, Lemeshow S. Goodness of fit tests for the multiple logistic regression-model. Commun Stat a-Theor. 1980;9(10):1043–69.",
+          "journal-title": "Commun Stat a-Theor"
+        },
+        {
+          "issue": "3",
+          "key": "392_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "691",
+          "DOI": "10.1093/biomet/78.3.691",
+          "volume": "78",
+          "author": "NJD Nagelkerke",
+          "year": "1991",
+          "unstructured": "Nagelkerke NJD. A note on a general definition of the coefficient of determination. Biometrika. 1991;78(3):691–2.",
+          "journal-title": "Biometrika"
+        },
+        {
+          "key": "392_CR24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-319-19425-7",
+          "volume-title": "Regression modelling strategies",
+          "author": "FE Harrell",
+          "year": "2015",
+          "unstructured": "Harrell FE. Regression modelling strategies. 2nd ed. Switzerland: Springer International Publishing; 2015.",
+          "edition": "2"
+        },
+        {
+          "key": "392_CR25",
+          "unstructured": "Heymans MW. R package psfmi: Predictor Selection Functions for Logistic and Cox regression models in multiply imputed datasets; 0.2.0. 2020 [Available from: https://cran.r-project.org/web/packages/psfmi/index.html."
+        },
+        {
+          "key": "392_CR26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/9780470316696",
+          "volume-title": "Multiple imputation for nonresponse in surveys",
+          "author": "DB Rubin",
+          "year": "1987",
+          "unstructured": "Rubin DB. Multiple imputation for nonresponse in surveys. New York: J. Wiley & Sons; 1987."
+        },
+        {
+          "issue": "1",
+          "key": "392_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "225",
+          "DOI": "10.1097/j.pain.0000000000000351",
+          "volume": "157",
+          "author": "AS Downie",
+          "year": "2016",
+          "unstructured": "Downie AS, Hancock MJ, Rzewuska M, Williams CM, Lin CW, Maher CG. Trajectories of acute low back pain: a latent class growth analysis. Pain. 2016;157(1):225–34.",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "392_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "99",
+          "DOI": "10.1186/1471-2474-12-99",
+          "volume": "12",
+          "author": "I Axen",
+          "year": "2011",
+          "unstructured": "Axen I, Bodin L, Bergstrom G, Halasz L, Lange F, Lovgren PW, et al. Clustering patients on the basis of their individual course of low back pain over a six month period. BMC Musculoskelet Disord. 2011;12:99.",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "392_CR29",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Kongsted A, Kent P, Hestbaek L, Vach W. Patients with low back pain had distinct clinical course patterns that were typically neither complete recovery nor constant pain. A latent class analysis of longitudinal data. Spine J. 2015;15(5):885–94.",
+          "DOI": "10.1016/j.spinee.2015.02.012"
+        },
+        {
+          "issue": "2",
+          "key": "392_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "210",
+          "DOI": "10.2522/ptj.20120416",
+          "volume": "94",
+          "author": "LG Macedo",
+          "year": "2014",
+          "unstructured": "Macedo LG, Maher CG, Latimer J, McAuley JH, Hodges PW, Rogers WT. Nature and determinants of the course of chronic low back pain over a 12-month period: a cluster analysis. Phys Ther. 2014;94(2):210–21.",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "issue": "3",
+          "key": "392_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "451",
+          "DOI": "10.1016/j.pain.2010.05.019",
+          "volume": "150",
+          "author": "O Tamcan",
+          "year": "2010",
+          "unstructured": "Tamcan O, Mannion AF, Eisenring C, Horisberger B, Elfering A, Muller U. The course of chronic and recurrent low back pain in the general population. Pain. 2010;150(3):451–7.",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "392_CR32",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hill JC, Konstantinou K, Egbewale BE, Dunn KM, Lewis M, van der Windt D. Clinical outcomes among low back pain consulters with referred leg pain in primary care. Spine (Phila Pa 1976). 2011;36(25):2168–75.",
+          "DOI": "10.1097/BRS.0b013e31820712bb"
+        },
+        {
+          "issue": "3",
+          "key": "392_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "313",
+          "DOI": "10.1016/j.ejpain.2010.07.008",
+          "volume": "15",
+          "author": "KM Dunn",
+          "year": "2011",
+          "unstructured": "Dunn KM, Jordan KP, Croft PR. Contributions of prognostic factors for poor outcome in primary care low back pain patients. Eur J Pain. 2011;15(3):313–9.",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "issue": "541",
+          "key": "392_CR34",
+          "first-page": "655",
+          "volume": "57",
+          "author": "CD Mallen",
+          "year": "2007",
+          "unstructured": "Mallen CD, Peat G, Thomas E, Dunn KM, Croft PR. Prognostic factors for musculoskeletal pain in primary care: a systematic review. Br J Gen Pract. 2007;57(541):655–61.",
+          "journal-title": "Br J Gen Pract"
+        }
+      ],
+      "container-title": [
+        "Chiropractic &amp; Manual Therapies"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/s12998-021-00392-3.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1186/s12998-021-00392-3/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/s12998-021-00392-3.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            9,
+            22
+          ]
+        ],
+        "date-time": "2021-09-22T09:08:05Z",
+        "timestamp": 1632301685000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://chiromt.biomedcentral.com/articles/10.1186/s12998-021-00392-3"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            9,
+            22
+          ]
+        ]
+      },
+      "references-count": 34,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "392"
+      ],
+      "URL": "https://doi.org/10.1186/s12998-021-00392-3",
+      "relation": {},
+      "ISSN": [
+        "2045-709X"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2045-709X"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            9,
+            22
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "5 May 2021",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "30 August 2021",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "22 September 2021",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Declarations"
+          }
+        },
+        {
+          "value": "Our study procedures were approved by the Medical Ethical Committee (METc) of the VU Medical Centre (2012/414). It was decided that the law regarding research on human subjects (Wet Mensgebonden Onderzoek, WMO) did not apply to our observational study. Although this meant that informed consent was not obligatory, patients were asked for their informed consent which was registered by the treating physician.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethics approval and consent"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Consent for publication"
+          }
+        },
+        {
+          "value": "The authors declare that they have no competing interests.",
+          "order": 4,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        }
+      ],
+      "article-number": "38"
+    }
+  }
+}

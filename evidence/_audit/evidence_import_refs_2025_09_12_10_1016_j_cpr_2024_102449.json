@@ -1,0 +1,1615 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_cpr_2024_102449.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_cpr_2024_102449",
+  "doi": "10.1016/j.cpr.2024.102449",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:35.493906Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            12
+          ]
+        ],
+        "date-time": "2024-11-12T05:13:33Z",
+        "timestamp": 1731388413253,
+        "version": "3.28.0"
+      },
+      "reference-count": 124,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2024-08-01T00:00:00Z",
+            "timestamp": 1722470400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2024-08-01T00:00:00Z",
+            "timestamp": 1722470400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                6,
+                17
+              ]
+            ],
+            "date-time": "2024-06-17T00:00:00Z",
+            "timestamp": 1718582400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Clinical Psychology Review"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.cpr.2024.102449",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            3
+          ]
+        ],
+        "date-time": "2024-06-03T15:55:50Z",
+        "timestamp": 1717430150000
+      },
+      "page": "102449",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "special_numbering": "C",
+      "title": [
+        "The influence of threat on visuospatial perception, affordances, and protective behaviour: A systematic review and meta-analysis"
+      ],
+      "prefix": "10.1016",
+      "volume": "112",
+      "author": [
+        {
+          "given": "Erin",
+          "family": "MacIntyre",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Eleana",
+          "family": "Pinto",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Brendan",
+          "family": "Mouatt",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michael L.",
+          "family": "Henry",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christopher",
+          "family": "Lamb",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Felicity A.",
+          "family": "Braithwaite",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ann",
+          "family": "Meulders",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tasha R.",
+          "family": "Stanton",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "4",
+          "key": "10.1016/j.cpr.2024.102449_bb0005",
+          "doi-asserted-by": "crossref",
+          "first-page": "615",
+          "DOI": "10.1007/s40519-019-00653-4",
+          "article-title": "Evidence for a perceptual mechanism relating body size misperception and eating disorder symptoms",
+          "volume": "24",
+          "author": "Alexi",
+          "year": "2019",
+          "journal-title": "Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0010",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3758/s13423-022-02242-6",
+          "article-title": "Depressive symptoms and affordance perception: The case of perceived reachability boundary",
+          "author": "Bague",
+          "year": "2023",
+          "journal-title": "Psychonomic Bulletin & Review"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bb0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "147",
+          "DOI": "10.1177/0956797609356283",
+          "article-title": "Wishful seeing: More desired objects are seen as closer",
+          "volume": "21",
+          "author": "Balcetis",
+          "year": "2010",
+          "journal-title": "Psychological Science"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0020",
+          "doi-asserted-by": "crossref",
+          "first-page": "917",
+          "DOI": "10.3389/fpsyg.2018.00917",
+          "article-title": "Virtually being Einstein results in an improvement in cognitive task performance and a decrease in age bias",
+          "volume": "9",
+          "author": "Banakou",
+          "year": "2018",
+          "journal-title": "Frontiers in Psychology"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.cpr.2024.102449_bb0025",
+          "doi-asserted-by": "crossref",
+          "first-page": "143",
+          "DOI": "10.1016/j.cct.2003.10.016",
+          "article-title": "Assessment of blinding in clinical trials",
+          "volume": "25",
+          "author": "Bang",
+          "year": "2004",
+          "journal-title": "Controlled Clinical Trials"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.cpr.2024.102449_bb0030",
+          "doi-asserted-by": "crossref",
+          "first-page": "447",
+          "DOI": "10.1007/s00221-016-4782-6",
+          "article-title": "Relative contributions of spatial weighting, explicit knowledge and proprioception to hand localisation during positional ambiguity",
+          "volume": "235",
+          "author": "Bellan",
+          "year": "2017",
+          "journal-title": "Experimental Brain Research"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.cpr.2024.102449_bb0035",
+          "doi-asserted-by": "crossref",
+          "first-page": "1689",
+          "DOI": "10.1007/s00221-015-4242-8",
+          "article-title": "Untangling visual and proprioceptive contributions to hand localisation over time",
+          "volume": "233",
+          "author": "Bellan",
+          "year": "2015",
+          "journal-title": "Experimental Brain Research"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bib541",
+          "doi-asserted-by": "crossref",
+          "first-page": "1053381",
+          "DOI": "10.3389/fpsyg.2022.1053381",
+          "article-title": "The link between emotion regulation and size estimation of spiders pictures among women with fear of spiders",
+          "volume": "13",
+          "author": "Ben-Baruch",
+          "year": "2022",
+          "journal-title": "Frontiers in Psychology"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.cpr.2024.102449_bb0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "1181",
+          "DOI": "10.1016/j.pain.2013.03.002",
+          "article-title": "Evidence for working memory deficits in chronic pain: A systematic review and meta-analysis",
+          "volume": "154",
+          "author": "Berryman",
+          "year": "2013",
+          "journal-title": "PAIN®"
+        },
+        {
+          "year": "2011",
+          "series-title": "Introduction to Meta-analysis",
+          "author": "Borenstein",
+          "key": "10.1016/j.cpr.2024.102449_bb0045"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bb0050",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1002/da.20733",
+          "article-title": "Development of anxiety: The role of threat appraisal and fear learning",
+          "volume": "28",
+          "author": "Britton",
+          "year": "2011",
+          "journal-title": "Depression and Anxiety"
+        },
+        {
+          "year": "2005",
+          "series-title": "Antipredator defenses in birds and mammals",
+          "author": "Caro",
+          "key": "10.1016/j.cpr.2024.102449_bb0055"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0060",
+          "first-page": "1",
+          "article-title": "Fearful object seeing",
+          "author": "de Carvalho",
+          "year": "2021",
+          "journal-title": "Review of Philosophy and Psychology"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.cpr.2024.102449_bb0065",
+          "doi-asserted-by": "crossref",
+          "first-page": "2792",
+          "DOI": "10.1097/j.pain.0000000000002978",
+          "article-title": "Mechanisms of education and graded sensorimotor retraining in people with chronic low back pain: A mediation analysis",
+          "volume": "164",
+          "author": "Cashin",
+          "year": "2023",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.cpr.2024.102449_bb0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "181",
+          "DOI": "10.1017/S0140525X12000477",
+          "article-title": "Whatever next? Predictive brains, situated agents, and the future of cognitive science",
+          "volume": "36",
+          "author": "Clark",
+          "year": "2013",
+          "journal-title": "The Behavioral and Brain Sciences"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0075",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.cpr.2022.102142",
+          "article-title": "Eye tracking evidence of threat-related attentional bias in anxiety- and fear-related disorders: A systematic review and meta-analysis",
+          "volume": "93",
+          "author": "Clauss",
+          "year": "2022",
+          "journal-title": "Clinical Psychology Review"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.cpr.2024.102449_bb0080",
+          "doi-asserted-by": "crossref",
+          "first-page": "381",
+          "DOI": "10.1016/j.janxdis.2008.12.002",
+          "article-title": "Imagery and fear influence height perception",
+          "volume": "23",
+          "author": "Clerkin",
+          "year": "2009",
+          "journal-title": "Journal of Anxiety Disorders"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bb0085",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.1007/s10339-012-0470-z",
+          "article-title": "Embodied perception of reachable space: How do we manage threatening objects?",
+          "volume": "13",
+          "author": "Coello",
+          "year": "2012",
+          "journal-title": "Cognitive Processing"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bb0090",
+          "doi-asserted-by": "crossref",
+          "first-page": "17",
+          "DOI": "10.1016/S0005-7894(77)80116-0",
+          "article-title": "Comparison of self-report and overt-behavioral procedures for assessing acrophobia",
+          "volume": "8",
+          "author": "Cohen",
+          "year": "1977",
+          "journal-title": "Behavior Therapy"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bib543",
+          "doi-asserted-by": "crossref",
+          "first-page": "34",
+          "DOI": "10.1177/0956797612446953",
+          "article-title": "Affective signals of threat increase perceived proximity",
+          "volume": "24",
+          "author": "Cole",
+          "year": "2013",
+          "journal-title": "Psychological science"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bib539",
+          "doi-asserted-by": "crossref",
+          "first-page": "96",
+          "DOI": "10.3389/frobt.2019.00096",
+          "article-title": "Mind the gap: Gap affordance judgments of children, teens, and adults in an immersive virtual environment",
+          "volume": "6",
+          "author": "Creem-Regehr",
+          "year": "2019",
+          "journal-title": "Frontiers in Robotics and AI"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0095",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1007/s11097-023-09896-0",
+          "article-title": "Unpacking an affordance-based model of chronic pain: A video game analogy",
+          "author": "Coninx",
+          "year": "2023",
+          "journal-title": "Phenomenology and the Cognitive Sciences"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.cpr.2024.102449_bb0100",
+          "doi-asserted-by": "crossref",
+          "first-page": "467",
+          "DOI": "10.1177/0959354395054001",
+          "article-title": "Socializing affordances",
+          "volume": "5",
+          "author": "Costall",
+          "year": "1995",
+          "journal-title": "Theory & Psychology"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0105",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.1016/j.brat.2014.04.006",
+          "article-title": "Maximizing exposure therapy: An inhibitory learning approach",
+          "volume": "58",
+          "author": "Craske",
+          "year": "2014",
+          "journal-title": "Behaviour Research and Therapy"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.cpr.2024.102449_bb0110",
+          "first-page": "1",
+          "article-title": "Do individual differences and aging effects in the estimation of geographical slant reflect cognitive or perceptual effects?",
+          "volume": "7",
+          "author": "Dean",
+          "year": "2016",
+          "journal-title": "Iperception"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.cpr.2024.102449_bb0115",
+          "doi-asserted-by": "crossref",
+          "first-page": "271.e271",
+          "DOI": "10.1016/j.jpain.2013.10.016",
+          "article-title": "Influence of experimental pain on the perception of action capabilities and performance of a maximal single-leg hop",
+          "volume": "15",
+          "author": "Deschamps",
+          "year": "2014",
+          "journal-title": "The Journal of Pain"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.cpr.2024.102449_bb0120",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2016-011458",
+          "article-title": "Development of a critical appraisal tool to assess the quality of cross-sectional studies (AXIS)",
+          "volume": "6",
+          "author": "Downes",
+          "year": "2016",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0125",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.jbtep.2018.08.001",
+          "article-title": "Believing is seeing: Changes in visual perception following treatment for height fear",
+          "volume": "62",
+          "author": "Dreyer-Oren",
+          "year": "2019",
+          "journal-title": "Journal of Behavior Therapy and Experimental Psychiatry"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.cpr.2024.102449_bb0130",
+          "doi-asserted-by": "crossref",
+          "first-page": "239",
+          "DOI": "10.1002/da.22353",
+          "article-title": "Updated meta-analysis of classical fear conditioning in the anxiety disorders",
+          "volume": "32",
+          "author": "Duits",
+          "year": "2015",
+          "journal-title": "Depression and Anxiety"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bib546",
+          "doi-asserted-by": "crossref",
+          "first-page": "1879",
+          "DOI": "10.3758/s13414-018-1605-9",
+          "article-title": "Helmets improve estimations of depth and visual angle to safe targets",
+          "volume": "80",
+          "author": "Dumitru",
+          "year": "2018",
+          "journal-title": "Attention, Perception, & Psychophysics"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.cpr.2024.102449_bb0135",
+          "doi-asserted-by": "crossref",
+          "first-page": "964",
+          "DOI": "10.3758/PBR.16.5.964",
+          "article-title": "Who is being deceived? The experimental demands of wearing a backpack",
+          "volume": "16",
+          "author": "Durgin",
+          "year": "2009",
+          "journal-title": "Psychonomic Bulletin & Review"
+        },
+        {
+          "year": "2016",
+          "series-title": "Embodied: The psychology of physical sensation",
+          "author": "Eccleston",
+          "key": "10.1016/j.cpr.2024.102449_bb0140"
+        },
+        {
+          "year": "2014",
+          "series-title": "What you see is not what you get: The influence of approach and escape motivation on visual perception and behavior in spider-fearful individuals",
+          "author": "Farshid",
+          "key": "10.1016/j.cpr.2024.102449_bb0145"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.cpr.2024.102449_bb0150",
+          "doi-asserted-by": "crossref",
+          "first-page": "455",
+          "DOI": "10.1177/1745691613489835",
+          "article-title": "How “paternalistic” is spatial perception? Why wearing a heavy backpack Doesn’t—And Couldn’t —Make hills look steeper",
+          "volume": "8",
+          "author": "Firestone",
+          "year": "2013",
+          "journal-title": "Perspectives on Psychological Science"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.cpr.2024.102449_bb0155",
+          "first-page": "319",
+          "article-title": "Embodied cognition",
+          "volume": "4",
+          "author": "Foglia",
+          "year": "2013",
+          "journal-title": "Wiley Interdisciplinary Reviews: Cognitive Science"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.cpr.2024.102449_bb0160",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1038/nrn2787",
+          "article-title": "The free-energy principle: A unified brain theory?",
+          "volume": "11",
+          "author": "Friston",
+          "year": "2010",
+          "journal-title": "Nature Reviews Neuroscience"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.cpr.2024.102449_bb0165",
+          "doi-asserted-by": "crossref",
+          "first-page": "2020",
+          "DOI": "10.1177/0956797618807166",
+          "article-title": "High level of trait anxiety leads to salience-driven distraction and compensation",
+          "volume": "29",
+          "author": "Gaspar",
+          "year": "2018",
+          "journal-title": "Psychological Science"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.cpr.2024.102449_bb0170",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0158610",
+          "article-title": "Fear similarly alters perceptual estimates of and actions over gaps",
+          "volume": "11",
+          "author": "Geuss",
+          "year": "2016",
+          "journal-title": "PLoS One"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.cpr.2024.102449_bb0175",
+          "first-page": "67",
+          "article-title": "The theory of affordances. Hilldale, USA",
+          "volume": "1",
+          "author": "Gibson",
+          "year": "1977"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0180",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.janxdis.2019.102171",
+          "article-title": "Biased estimations of interpersonal distance in non-clinical social anxiety",
+          "volume": "69",
+          "author": "Givon-Benjio",
+          "year": "2020",
+          "journal-title": "Journal of Anxiety Disorders"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.cpr.2024.102449_bb0185",
+          "doi-asserted-by": "crossref",
+          "first-page": "1243",
+          "DOI": "10.1002/da.23086",
+          "article-title": "Biased distance estimation in social anxiety disorder: A new avenue for understanding avoidance behavior",
+          "volume": "37",
+          "author": "Givon-Benjio",
+          "year": "2020",
+          "journal-title": "Depression and Anxiety"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bb0190",
+          "doi-asserted-by": "crossref",
+          "first-page": "4568",
+          "DOI": "10.1038/s41598-024-55218-y",
+          "article-title": "Perception of interpersonal distance and social distancing before and during COVID-19 pandemic",
+          "volume": "14",
+          "author": "Givon-Benjio",
+          "year": "2024",
+          "journal-title": "Scientific Reports"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.cpr.2024.102449_bib544",
+          "doi-asserted-by": "crossref",
+          "first-page": "1080",
+          "DOI": "10.1037/a0023995",
+          "article-title": "Psychosocial resources, threat, and the perception of distance and height: support for the resources and perception model",
+          "volume": "11",
+          "author": "Harber",
+          "year": "2011",
+          "journal-title": "Emotion"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.cpr.2024.102449_bb0195",
+          "doi-asserted-by": "crossref",
+          "first-page": "385",
+          "DOI": "10.1177/0956797614563339",
+          "article-title": "Bogus visual feedback alters onset of movement-evoked pain in people with neck pain",
+          "volume": "26",
+          "author": "Harvie",
+          "year": "2015",
+          "journal-title": "Psychological Science"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0200",
+          "series-title": "A randomized controlled pilot study examining immediate effects of embodying a virtual reality superhero in people with chronic low back pain",
+          "first-page": "1",
+          "author": "Harvie",
+          "year": "2022"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.cpr.2024.102449_bb0205",
+          "doi-asserted-by": "crossref",
+          "first-page": "889",
+          "DOI": "10.1016/j.jpain.2017.02.430",
+          "article-title": "Classical conditioning differences associated with chronic pain: A systematic review",
+          "volume": "18",
+          "author": "Harvie",
+          "year": "2017",
+          "journal-title": "The Journal of Pain"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0210",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.3389/frvir.2020.00013",
+          "article-title": "Virtual reality body image training for chronic low back pain: A single case report",
+          "volume": "1",
+          "author": "Harvie",
+          "year": "2020",
+          "journal-title": "Frontiers in Virtual Reality"
+        },
+        {
+          "year": "2021",
+          "series-title": "Cochrane handbook for systematic reviews of interventions version 6.2 (updated February 2021)",
+          "author": "Higgins",
+          "key": "10.1016/j.cpr.2024.102449_bb0215"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0220",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.cpr.2020.101894",
+          "article-title": "Anxiety disorders and healthcare utilization: A systematic review",
+          "volume": "81",
+          "author": "Horenstein",
+          "year": "2020",
+          "journal-title": "Clinical Psychology Review"
+        },
+        {
+          "issue": "1662",
+          "key": "10.1016/j.cpr.2024.102449_bib537",
+          "doi-asserted-by": "crossref",
+          "first-page": "1665",
+          "DOI": "10.1098/rspb.2009.0004",
+          "article-title": "Individual differences in distance perception",
+          "volume": "276",
+          "author": "Jackson",
+          "year": "2009",
+          "journal-title": "Proceedings of the Royal Society B: Biological Sciences"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bib540",
+          "doi-asserted-by": "crossref",
+          "first-page": "691",
+          "DOI": "10.3758/BF03208362",
+          "article-title": "The effect of gap depth on the perception of whether a gap is crossable",
+          "volume": "56",
+          "author": "Jiang",
+          "year": "1994",
+          "journal-title": "Perception & Psychophysics"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.cpr.2024.102449_bb0225",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1145/2811266",
+          "article-title": "Big foot: Using the size of a virtual foot to scale gap width",
+          "volume": "12",
+          "author": "Jun",
+          "year": "2015",
+          "journal-title": "ACM Transactions on Applied Perception"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.cpr.2024.102449_bb0230",
+          "doi-asserted-by": "crossref",
+          "first-page": "434",
+          "DOI": "10.1177/2167702620961074",
+          "article-title": "Recoiling from threat: Anxiety is related to heightened suppression of threat, not increased attention to threat",
+          "volume": "9",
+          "author": "Kappenman",
+          "year": "2021",
+          "journal-title": "Clinical Psychological Science"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0235",
+          "doi-asserted-by": "crossref",
+          "first-page": "285",
+          "DOI": "10.1016/j.jbtep.2016.10.001",
+          "article-title": "Biases in attention, interpretation, memory, and associations in children with varying levels of spider fear: Inter-relations and prediction of behavior",
+          "volume": "54",
+          "author": "Klein",
+          "year": "2017",
+          "journal-title": "Journal of Behavior Therapy and Experimental Psychiatry"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0240",
+          "doi-asserted-by": "crossref",
+          "first-page": "101941",
+          "DOI": "10.1016/j.jbtep.2023.101941",
+          "article-title": "Interpretation biases in childhood spider fear: Content-specificity, priming, and avoidance",
+          "volume": "83",
+          "author": "Klein",
+          "year": "2024",
+          "journal-title": "Journal of Behavior Therapy and Experimental Psychiatry"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.cpr.2024.102449_bb0245",
+          "doi-asserted-by": "crossref",
+          "first-page": "269",
+          "DOI": "10.1038/nrn.2018.22",
+          "article-title": "Surviving threats: Neural circuit and computational implications of a new taxonomy of defensive behaviour",
+          "volume": "19",
+          "author": "LeDoux",
+          "year": "2018",
+          "journal-title": "Nature Reviews Neuroscience"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0255",
+          "doi-asserted-by": "crossref",
+          "first-page": "138",
+          "DOI": "10.1016/j.biopsycho.2016.01.009",
+          "article-title": "Itsy bitsy spider?: Valence and self-relevance predict size estimation",
+          "volume": "121",
+          "author": "Leibovich",
+          "year": "2016",
+          "journal-title": "Biological Psychology"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bb0260",
+          "doi-asserted-by": "crossref",
+          "first-page": "130",
+          "DOI": "10.1016/j.beth.2015.10.001",
+          "article-title": "Generalization on the basis of prior experience is predicted by individual differences in working memory",
+          "volume": "47",
+          "author": "Lenaert",
+          "year": "2016",
+          "journal-title": "Behavior Therapy"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.cpr.2024.102449_bb0265",
+          "first-page": "1551",
+          "article-title": "Visual illusions modulate body perception disturbance and pain in complex regional pain syndrome: A randomized trial",
+          "volume": "25",
+          "author": "Lewis",
+          "year": "2021",
+          "journal-title": "European Journal of"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0270",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.janxdis.2021.102456",
+          "article-title": "Mind’s eye: The impact of spider presence and cognitive therapy on size estimation biases in spider phobia",
+          "volume": "83",
+          "author": "Li",
+          "year": "2021",
+          "journal-title": "Journal of Anxiety Disorders"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bb0275",
+          "doi-asserted-by": "crossref",
+          "first-page": "47",
+          "DOI": "10.1176/appi.ajp.2009.09030410",
+          "article-title": "Overgeneralization of conditioned fear as a pathogenic marker of panic disorder",
+          "volume": "167",
+          "author": "Lissek",
+          "year": "2010",
+          "journal-title": "American Journal of Psychiatry"
+        },
+        {
+          "year": "2021",
+          "series-title": "Does who I am and what I feel determine what I see? A meta-analytic systematic review exploring the influence of real and perceived bodily state on spatial perception of the external environment",
+          "author": "MacIntyre",
+          "key": "10.1016/j.cpr.2024.102449_bb0280"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.cpr.2024.102449_bb0285",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1167/jov.21.10.21",
+          "article-title": "Familiar size affects the perceived size and distance of real objects even with binocular vision",
+          "volume": "21",
+          "author": "Maltz",
+          "year": "2021",
+          "journal-title": "Journal of Vision"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.cpr.2024.102449_bb0290",
+          "doi-asserted-by": "crossref",
+          "first-page": "147",
+          "DOI": "10.1016/j.jbtep.2006.12.002",
+          "article-title": "Why social anxiety persists: An experimental investigation of the role of safety behaviours as a maintaining factor",
+          "volume": "39",
+          "author": "McManus",
+          "year": "2008",
+          "journal-title": "Journal of Behavior Therapy and Experimental Psychiatry"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0295",
+          "doi-asserted-by": "crossref",
+          "first-page": "103635",
+          "DOI": "10.1016/j.brat.2020.103635",
+          "article-title": "Fear in the context of pain: Lessons learned from 100 years of fear conditioning research",
+          "volume": "131",
+          "author": "Meulders",
+          "year": "2020",
+          "journal-title": "Behaviour Research and Therapy"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bb0300",
+          "doi-asserted-by": "crossref",
+          "first-page": "79",
+          "DOI": "10.1016/j.jpain.2016.10.004",
+          "article-title": "Extinction of fear generalization: A comparison between fibromyalgia patients and healthy control participants",
+          "volume": "18",
+          "author": "Meulders",
+          "year": "2017",
+          "journal-title": "The Journal of Pain"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.cpr.2024.102449_bb0305",
+          "first-page": "702",
+          "article-title": "High-anxious people generalize costly pain-related avoidance behavior more to novel safe contexts compared to low-anxious people",
+          "volume": "25",
+          "author": "Meulders",
+          "year": "2024",
+          "journal-title": "The Journal of"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0310",
+          "doi-asserted-by": "crossref",
+          "first-page": "42",
+          "DOI": "10.1016/j.appet.2012.12.016",
+          "article-title": "How much should I eat? Estimation of meal portions in anorexia nervosa",
+          "volume": "63",
+          "author": "Milos",
+          "year": "2013",
+          "journal-title": "Appetite"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bb0315",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.1006/cogp.1999.0734",
+          "article-title": "The unity and diversity of executive functions and their contributions to complex “frontal lobe” tasks: A latent variable analysis",
+          "volume": "41",
+          "author": "Miyake",
+          "year": "2000",
+          "journal-title": "Cognitive Psychology"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.cpr.2024.102449_bb0320",
+          "doi-asserted-by": "crossref",
+          "first-page": "488",
+          "DOI": "10.1177/0956797619900336",
+          "article-title": "Action effects on visual perception of distances: A multilevel Bayesian Meta-analysis",
+          "volume": "31",
+          "author": "Molto",
+          "year": "2020",
+          "journal-title": "Psychological Science"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.cpr.2024.102449_bb0325",
+          "doi-asserted-by": "crossref",
+          "first-page": "831",
+          "DOI": "10.1037/bul0000051",
+          "article-title": "Anxiety and working memory capacity: A meta-analysis and narrative review",
+          "volume": "142",
+          "author": "Moran",
+          "year": "2016",
+          "journal-title": "Psychological Bulletin"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.cpr.2024.102449_bb0330",
+          "doi-asserted-by": "crossref",
+          "first-page": "481",
+          "DOI": "10.1016/j.jbtep.2011.05.002",
+          "article-title": "Larger than life: Overestimation of object size is moderated by personal relevance in obsessive–compulsive disorder",
+          "volume": "42",
+          "author": "Moritz",
+          "year": "2011",
+          "journal-title": "Journal of Behavior Therapy and Experimental Psychiatry"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.cpr.2024.102449_bb0335",
+          "doi-asserted-by": "crossref",
+          "first-page": "807",
+          "DOI": "10.1016/j.jpain.2015.05.005",
+          "article-title": "Fifteen years of explaining pain: The past, present, and future",
+          "volume": "16",
+          "author": "Moseley",
+          "year": "2015",
+          "journal-title": "The Journal of Pain"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0340",
+          "article-title": "Teaching patients about pain: The emergence of pain science education, its learning frameworks and delivery strategies",
+          "author": "Moseley",
+          "year": "2023",
+          "journal-title": "The Journal of Pain"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0345",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.7717/peerj.16095",
+          "article-title": "What I see and what I feel: The influence of deceptive visual cues and interoceptive accuracy on affective valence and sense of effort during virtual reality cycling",
+          "volume": "11",
+          "author": "Mouatt",
+          "year": "2023",
+          "journal-title": "PeerJ"
+        },
+        {
+          "issue": "19",
+          "key": "10.1016/j.cpr.2024.102449_bb0350",
+          "doi-asserted-by": "crossref",
+          "first-page": "R804",
+          "DOI": "10.1016/j.cub.2011.08.044",
+          "article-title": "Multisensory disintegration and the disappearing hand trick",
+          "volume": "21",
+          "author": "Newport",
+          "year": "2011",
+          "journal-title": "Current Biology"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.cpr.2024.102449_bib547",
+          "doi-asserted-by": "crossref",
+          "first-page": "608",
+          "DOI": "10.1002/acp.2838",
+          "article-title": "Effects of threat on police officers’ shooting behavior: Anxiety, action specificity, and affective influences on perception",
+          "volume": "26",
+          "author": "Nieuwenhuys",
+          "year": "2012",
+          "journal-title": "Applied Cognitive Psychology"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0355",
+          "doi-asserted-by": "crossref",
+          "first-page": "178",
+          "DOI": "10.1016/j.msksp.2018.07.002",
+          "article-title": "Embodying the illusion of a strong, fit back in people with chronic low back pain. A pilot proof-of-concept study",
+          "volume": "39",
+          "author": "Nishigami",
+          "year": "2019",
+          "journal-title": "Musculoskeletal Science & Practice"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0360",
+          "article-title": "The PRISMA 2020 statement: An updated guideline for reporting systematic reviews",
+          "volume": "372",
+          "author": "Page",
+          "year": "2021",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.cpr.2024.102449_bb0365",
+          "doi-asserted-by": "crossref",
+          "first-page": "1120",
+          "DOI": "10.1037/a0039738",
+          "article-title": "Action-specific influences on perception and postperceptual processes: Present controversies and future directions",
+          "volume": "141",
+          "author": "Philbeck",
+          "year": "2015",
+          "journal-title": "Psychological Bulletin"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.cpr.2024.102449_bb0370",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.1207/s15326969eco1803_1",
+          "article-title": "The role of anxiety in perceiving and realizing affordances",
+          "volume": "18",
+          "author": "Pijpers",
+          "year": "2006",
+          "journal-title": "Ecological Psychology"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.cpr.2024.102449_bb0375",
+          "doi-asserted-by": "crossref",
+          "first-page": "199",
+          "DOI": "10.1177/21677026221101379",
+          "article-title": "Change of threat expectancy as mechanism of exposure-based psychotherapy for anxiety disorders: Evidence from 8,484 exposure exercises of 605 patients",
+          "volume": "11",
+          "author": "Pittig",
+          "year": "2023",
+          "journal-title": "Clinical Psychological Science"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0380",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.msksp.2019.102080",
+          "article-title": "An exploratory investigation into the longevity of pain reduction following multisensory illusions designed to alter body perception",
+          "volume": "45",
+          "author": "Preston",
+          "year": "2020",
+          "journal-title": "Musculoskeletal Science & Practice"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.cpr.2024.102449_bb0385",
+          "doi-asserted-by": "crossref",
+          "first-page": "110",
+          "DOI": "10.1111/j.1745-6916.2006.00008.x",
+          "article-title": "Embodied perception and the economy of action",
+          "volume": "1",
+          "author": "Proffitt",
+          "year": "2006",
+          "journal-title": "Perspectives on Psychological Science"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.cpr.2024.102449_bb0390",
+          "doi-asserted-by": "crossref",
+          "first-page": "341",
+          "DOI": "10.1017/S0140525X99002022",
+          "article-title": "Is vision continuous with cognition? The case for cognitive impenetrability of visual perception",
+          "volume": "22",
+          "author": "Pylyshyn",
+          "year": "1999",
+          "journal-title": "The Behavioral and Brain Sciences"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.cpr.2024.102449_bb0395",
+          "doi-asserted-by": "crossref",
+          "first-page": "364",
+          "DOI": "10.1080/09658211.2017.1338299",
+          "article-title": "Memory dynamics under stress",
+          "volume": "26",
+          "author": "Quaedflieg",
+          "year": "2018",
+          "journal-title": "Memory"
+        },
+        {
+          "author": "R Core Team",
+          "key": "10.1016/j.cpr.2024.102449_bb0400"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.cpr.2024.102449_bb0405",
+          "doi-asserted-by": "crossref",
+          "first-page": "583",
+          "DOI": "10.1016/0005-7967(92)90003-Y",
+          "article-title": "Fearful distortions",
+          "volume": "30",
+          "author": "Rachman",
+          "year": "1992",
+          "journal-title": "Behaviour Research and Therapy"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.cpr.2024.102449_bb0410",
+          "doi-asserted-by": "crossref",
+          "first-page": "341",
+          "DOI": "10.1177/0959354308089789",
+          "article-title": "Special Section: The Skillful Body as a Concernful System of Possible Actions:Phenomena and Neurodynamics",
+          "volume": "18",
+          "author": "Rietveld",
+          "year": "2008",
+          "journal-title": "Theory & Psychology"
+        },
+        {
+          "author": "Rohatgi",
+          "key": "10.1016/j.cpr.2024.102449_bb0415"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.cpr.2024.102449_bb0420",
+          "doi-asserted-by": "crossref",
+          "first-page": "2621",
+          "DOI": "10.1007/s00221-019-05618-8",
+          "article-title": "Embodying their own wheelchair modifies extrapersonal space perception in people with spinal cord injury",
+          "volume": "237",
+          "author": "Scandola",
+          "year": "2019",
+          "journal-title": "Experimental Brain Research"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0425",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ynpai.2023.100117",
+          "article-title": "Intramuscular injection of nerve growth factor as a model of temporomandibular disorder: Nature, time-course, and sex differences characterising the pain experience",
+          "volume": "13",
+          "author": "Schabrun",
+          "year": "2023",
+          "journal-title": "Neurobiology of Pain"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0430",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.cpr.2022.102126",
+          "article-title": "Safety behaviours or safety precautions? The role of subtle avoidance in anxiety disorders in the context of chronic physical illness",
+          "volume": "92",
+          "author": "Sharpe",
+          "year": "2022",
+          "journal-title": "Clinical Psychology Review"
+        },
+        {
+          "issue": "Pt B",
+          "key": "10.1016/j.cpr.2024.102449_bb0435",
+          "doi-asserted-by": "crossref",
+          "first-page": "146",
+          "DOI": "10.1016/j.biopsycho.2016.03.005",
+          "article-title": "Treatment effect on biases in size estimation in spider phobia",
+          "volume": "121",
+          "author": "Shiban",
+          "year": "2016",
+          "journal-title": "Biological Psychology"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0440",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.7717/peerj.5206",
+          "article-title": "Illusory resizing of the painful knee is analgesic in symptomatic knee osteoarthritis",
+          "volume": "6",
+          "author": "Stanton",
+          "year": "2018",
+          "journal-title": "PeerJ"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bib551",
+          "unstructured": "Stefanucci, J.K. (2006). Looking down from high places: The roles of altitude and fear in the perception of height. Doctoral Dissertation, University of Virginia."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.cpr.2024.102449_bb0445",
+          "doi-asserted-by": "crossref",
+          "first-page": "296",
+          "DOI": "10.1111/j.1751-9004.2011.00352.x",
+          "article-title": "Follow your heart: Emotion adaptively influences perception",
+          "volume": "5",
+          "author": "Stefanucci",
+          "year": "2011",
+          "journal-title": "Social and Personality Psychology Compass"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bib550",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1068/p7131",
+          "article-title": "Plunging into the pool of death: Imagining a dangerous outcome influences distance perception",
+          "volume": "41",
+          "author": "Stefanucci",
+          "year": "2012",
+          "journal-title": "Perception"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.cpr.2024.102449_bb0450",
+          "doi-asserted-by": "crossref",
+          "first-page": "424",
+          "DOI": "10.1037/a0013894",
+          "article-title": "The roles of altitude and fear in the perception of height",
+          "volume": "35",
+          "author": "Stefanucci",
+          "year": "2009",
+          "journal-title": "Journal of Experimental Psychology. Human Perception and Performance"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.cpr.2024.102449_bib553",
+          "doi-asserted-by": "crossref",
+          "first-page": "321",
+          "DOI": "10.1068/p5796",
+          "article-title": "Skating down a Steeper Slope: Fear Influences the Perception of Geographical Slant",
+          "volume": "37",
+          "author": "Stefanucci",
+          "year": "2008",
+          "journal-title": "Perception"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bib552",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.1037/a0014797",
+          "article-title": "Don’t look down: emotional arousal elevates height perception",
+          "volume": "138",
+          "author": "Stefanucci",
+          "year": "2009",
+          "journal-title": "Journal of Experimental Psychology: General"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.cpr.2024.102449_bib538",
+          "doi-asserted-by": "crossref",
+          "first-page": "357",
+          "DOI": "10.1080/10407413.2013.842094",
+          "article-title": "On the role of vertical texture cues in height perception",
+          "volume": "25",
+          "author": "Stins",
+          "year": "2013",
+          "journal-title": "Ecological Psychology"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.cpr.2024.102449_bib536",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0092024",
+          "article-title": "Conditions under which arousal does and does not elevate height estimates",
+          "volume": "9",
+          "author": "Storbeck",
+          "year": "2014",
+          "journal-title": "PloS one"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0455",
+          "doi-asserted-by": "crossref",
+          "first-page": "52",
+          "DOI": "10.1016/j.brat.2018.01.002",
+          "article-title": "Individual variation in working memory is associated with fear extinction performance",
+          "volume": "102",
+          "author": "Stout",
+          "year": "2018",
+          "journal-title": "Behaviour Research and Therapy"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bib542",
+          "doi-asserted-by": "crossref",
+          "first-page": "651885",
+          "DOI": "10.3389/fpsyg.2021.651885",
+          "article-title": "The influence of induced emotions on distance and size perception and on the grip scaling during grasping",
+          "volume": "12",
+          "author": "Sun",
+          "year": "2021",
+          "journal-title": "Frontiers in Psychology"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.cpr.2024.102449_bib548",
+          "doi-asserted-by": "crossref",
+          "first-page": "1961",
+          "DOI": "10.1016/j.pain.2013.05.024",
+          "article-title": "Perceptual bias in pain: A switch looks closer when it will relieve pain than when it won’t",
+          "volume": "154",
+          "author": "Tabor",
+          "year": "2013",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bib549",
+          "doi-asserted-by": "crossref",
+          "first-page": "626",
+          "DOI": "10.3389/fpsyg.2015.00626",
+          "article-title": "The close proximity of threat: altered distance perception in the anticipation of pain",
+          "volume": "6",
+          "author": "Tabor",
+          "year": "2015",
+          "journal-title": "Frontiers in Psychology"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.cpr.2024.102449_bb0460",
+          "doi-asserted-by": "crossref",
+          "first-page": "1007",
+          "DOI": "10.1097/j.pain.0000000000000875",
+          "article-title": "Embodied pain-negotiating the boundaries of possible action",
+          "volume": "158",
+          "author": "Tabor",
+          "year": "2017",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.cpr.2024.102449_bb0465",
+          "doi-asserted-by": "crossref",
+          "first-page": "296",
+          "DOI": "10.1037/1528-3542.8.2.296",
+          "article-title": "A new mode of fear expression: Perceptual Bias in height fear",
+          "volume": "8",
+          "author": "Teachman",
+          "year": "2008",
+          "journal-title": "Emotion"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0470",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.neubiorev.2022.104917",
+          "article-title": "Attentional biases in human anxiety",
+          "volume": "142",
+          "author": "Valadez",
+          "year": "2022",
+          "journal-title": "Neuroscience & Biobehavioral Reviews"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.cpr.2024.102449_bb0475",
+          "doi-asserted-by": "crossref",
+          "first-page": "225",
+          "DOI": "10.1177/1745691620950690",
+          "article-title": "Better safe than sorry: A common signature of general vulnerability for psychopathology",
+          "volume": "16",
+          "author": "Van den Bergh",
+          "year": "2021",
+          "journal-title": "Perspectives on Psychological Science"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bb0480",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1038/srep34530",
+          "article-title": "Illusions of having small or large invisible bodies influence visual perception of object size",
+          "volume": "6",
+          "author": "Van Der Hoort",
+          "year": "2016",
+          "journal-title": "Scientific Reports"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0485",
+          "doi-asserted-by": "crossref",
+          "first-page": "1969",
+          "DOI": "10.3389/fpsyg.2016.01969",
+          "article-title": "Foregrounding sociomaterial practice in our understanding of affordances: The skilled intentionality framework",
+          "volume": "7",
+          "author": "Van Dijk",
+          "year": "2017",
+          "journal-title": "Frontiers in Psychology"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.cpr.2024.102449_bb0490",
+          "doi-asserted-by": "crossref",
+          "first-page": "1400",
+          "DOI": "10.1016/j.jpain.2022.03.233",
+          "article-title": "Know your movements: Poorer proprioceptive accuracy is associated with overprotective avoidance behavior",
+          "volume": "23",
+          "author": "Vandael",
+          "year": "2022",
+          "journal-title": "The Journal of Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bb0495",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1186/s12891-021-04955-6",
+          "article-title": "The relationship between psychosocial factors and reported disability: The role of pain self-efficacy",
+          "volume": "23",
+          "author": "Varela",
+          "year": "2022",
+          "journal-title": "BMC Musculoskeletal Disorders"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bb0500",
+          "doi-asserted-by": "crossref",
+          "first-page": "20",
+          "DOI": "10.1016/j.janxdis.2011.08.009",
+          "article-title": "It was as big as my head, I swear! Biased spider size estimation in spider phobia",
+          "volume": "26",
+          "author": "Vasey",
+          "year": "2012",
+          "journal-title": "Journal of Anxiety Disorders"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.cpr.2024.102449_bb0505",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.18637/jss.v036.i03",
+          "article-title": "Conducting meta-analyses in R with the metafor package",
+          "volume": "36",
+          "author": "Viechtbauer",
+          "year": "2010",
+          "journal-title": "Journal of Statistical Software"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.cpr.2024.102449_bb0510",
+          "doi-asserted-by": "crossref",
+          "first-page": "1588",
+          "DOI": "10.1097/j.pain.0000000000000574",
+          "article-title": "The fear-avoidance model of pain",
+          "volume": "157",
+          "author": "Vlaeyen",
+          "year": "2016",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bb0515",
+          "first-page": "231",
+          "article-title": "Quantifying test-retest reliability using the intraclass correlation coefficient and the SEM",
+          "volume": "19",
+          "author": "Weir",
+          "year": "2005",
+          "journal-title": "The Journal of Strength & Conditioning Research"
+        },
+        {
+          "year": "2008",
+          "series-title": "Psychosocial Resources Moderate Threat Perception",
+          "author": "Yeung",
+          "key": "10.1016/j.cpr.2024.102449_bib545"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.cpr.2024.102449_bb0520",
+          "doi-asserted-by": "crossref",
+          "first-page": "601",
+          "DOI": "10.1016/j.cub.2020.11.035",
+          "article-title": "Human responses to visually evoked threat",
+          "volume": "31",
+          "author": "Yilmaz Balban",
+          "year": "2021",
+          "journal-title": "Current Biology"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.cpr.2024.102449_bb0525",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.3758/s13423-020-01780-1",
+          "article-title": "Perceptual variability: Implications for learning and generalization",
+          "volume": "28",
+          "author": "Zaman",
+          "year": "2021",
+          "journal-title": "Psychonomic Bulletin & Review"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0530",
+          "doi-asserted-by": "crossref",
+          "first-page": "118",
+          "DOI": "10.1016/j.neubiorev.2015.01.009",
+          "article-title": "Associative fear learning and perceptual discrimination: A perceptual pathway in the development of chronic pain",
+          "volume": "51",
+          "author": "Zaman",
+          "year": "2015",
+          "journal-title": "Neuroscience and Biobehavioral Reviews"
+        },
+        {
+          "key": "10.1016/j.cpr.2024.102449_bb0535",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.appet.2021.105858",
+          "article-title": "The perception of food size and food shape in anorexia nervosa",
+          "volume": "169",
+          "author": "Zitron-Emanuel",
+          "year": "2022",
+          "journal-title": "Appetite"
+        }
+      ],
+      "container-title": [
+        "Clinical Psychology Review"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0272735824000709?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0272735824000709?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            11
+          ]
+        ],
+        "date-time": "2024-11-11T15:38:13Z",
+        "timestamp": 1731339493000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0272735824000709"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            8
+          ]
+        ]
+      },
+      "references-count": 124,
+      "alternative-id": [
+        "S0272735824000709"
+      ],
+      "URL": "https://doi.org/10.1016/j.cpr.2024.102449",
+      "relation": {},
+      "ISSN": [
+        "0272-7358"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0272-7358"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            8
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "The influence of threat on visuospatial perception, affordances, and protective behaviour: A systematic review and meta-analysis",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Clinical Psychology Review",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.cpr.2024.102449",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2024 The Authors. Published by Elsevier Ltd.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "102449"
+    }
+  }
+}

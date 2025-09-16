@@ -1,0 +1,634 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_1471_2296_6_29.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_1471_2296_6_29",
+  "doi": "10.1186/1471-2296-6-29",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:04.200979Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            2
+          ]
+        ],
+        "date-time": "2025-09-02T10:37:43Z",
+        "timestamp": 1756809463212
+      },
+      "reference-count": 35,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2005,
+                7,
+                14
+              ]
+            ],
+            "date-time": "2005-07-14T00:00:00Z",
+            "timestamp": 1121299200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/2.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2005,
+                7,
+                14
+              ]
+            ],
+            "date-time": "2005-07-14T00:00:00Z",
+            "timestamp": 1121299200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/2.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "BMC Fam Pract"
+      ],
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                        <jats:title>Background</jats:title>\n                        <jats:p>Patients with low back pain are frequently encountered in primary care. Although a specific diagnosis cannot be made for most patients, it is likely that sub-groups exist within the larger entity of nonspecific low back pain. One sub-group that has been identified is patients who respond rapidly to spinal manipulation. The purpose of this study was to examine the association between two factors (duration and distribution of symptoms) and prognosis following a spinal manipulation intervention.</jats:p>\n                     </jats:sec><jats:sec>\n                        <jats:title>Methods</jats:title>\n                        <jats:p>Data were taken from two previously published studies. Patients with low back pain underwent a standardized examination, including assessment of duration of the current symptoms in days, and the distal-most distribution of symptoms. Based on prior research, patients with symptoms of &lt;16 days duration and no symptoms distal to the knee were considered to have a good prognosis following manipulation. All patients underwent up to two sessions of spinal manipulation treatment and a range of motion exercise. Oswestry disability scores were recorded before and after treatment. If ≥ 50% improvement on the Oswestry was achieved, the intervention was considered a success. Sensitivity, specificity, and positive likelihood ratio were calculated for the association of the two criteria with the outcome of the treatment.</jats:p>\n                     </jats:sec><jats:sec>\n                        <jats:title>Results</jats:title>\n                        <jats:p>141 patients (49% female, mean age = 35.5 (± 11.1) years) participated. Mean pre- and post-treatment Oswestry scores were 41.9 (± 10.9) and 24.1 (± 14.2) respectively. Sixty-three subjects (45%) had successful treatment outcomes. The sensitivity of the two criteria was 0.56 (95% CI: 0.43, 0.67), specificity was 0.92 (95% CI: 0.84, 0.96), and the positive likelihood ratio was 7.2 (95% CI: 3.2, 16.1).</jats:p>\n                     </jats:sec><jats:sec>\n                        <jats:title>Conclusion</jats:title>\n                        <jats:p>The results of this study demonstrate that two factors; symptom duration of less than 16 days, and no symptoms extending distal to the knee, were associated with a good outcome with spinal manipulation.</jats:p>\n                     </jats:sec>",
+      "DOI": "10.1186/1471-2296-6-29",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2005,
+            7,
+            15
+          ]
+        ],
+        "date-time": "2005-07-15T18:13:51Z",
+        "timestamp": 1121451231000
+      },
+      "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 92,
+      "title": [
+        "Pragmatic application of a clinical prediction rule in primary care to identify patients with low back pain with a good prognosis following a brief spinal manipulation intervention"
+      ],
+      "prefix": "10.1186",
+      "volume": "6",
+      "author": [
+        {
+          "given": "Julie M",
+          "family": "Fritz",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "John D",
+          "family": "Childs",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Timothy W",
+          "family": "Flynn",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2005,
+            7,
+            14
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "108_CR1",
+          "doi-asserted-by": "crossref",
+          "first-page": "263",
+          "DOI": "10.1016/S0030-5898(20)31652-7",
+          "volume": "22",
+          "author": "JW Frymoyer",
+          "year": "1991",
+          "unstructured": "Frymoyer JW, Cats-Baril W: An overview of the incidence and cost of low back pain. Orthop Clin North Am. 1991, 22: 263-271.",
+          "journal-title": "Orthop Clin North Am"
+        },
+        {
+          "key": "108_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "760",
+          "DOI": "10.1001/jama.1992.03490060092030",
+          "volume": "268",
+          "author": "RA Deyo",
+          "year": "1992",
+          "unstructured": "Deyo RA, Rainville J, Kent DL: What can the history and physical examination tell us about low back pain?. JAMA. 1992, 268: 760-765. 10.1001/jama.268.6.760.",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "108_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "791",
+          "DOI": "10.1097/00007632-199504000-00010",
+          "volume": "20",
+          "author": "L Abenhaim",
+          "year": "1995",
+          "unstructured": "Abenhaim L, Rossignol M, Gobeille D, Bonvalot Y, Fines P, Scott S: The prognostic consequences in the making of the initial medical diagnosis of work-related back injuries. Spine. 1995, 20: 791-795.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR4",
+          "doi-asserted-by": "crossref",
+          "first-page": "149",
+          "DOI": "10.1007/s00586-002-0508-5",
+          "volume": "12",
+          "author": "L Hestbaek",
+          "year": "2003",
+          "unstructured": "Hestbaek L, Leboeuf-Yde C, Manniche C: Low back pain: what is the long-term course? A review of studies of general patient populations. Eur Spine J. 2003, 12: 149-165.",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "108_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "1022",
+          "DOI": "10.1097/00007632-200405010-00015",
+          "volume": "29",
+          "author": "P Kent",
+          "year": "2004",
+          "unstructured": "Kent P, Keating JL: Do primary-care clinicians think that nonspecific low back pain is one condition?. Spine. 2004, 29: 1022-1031. 10.1097/00007632-200405010-00015.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "69",
+          "DOI": "10.1056/NEJM199407143310201",
+          "volume": "331",
+          "author": "MC Jensen",
+          "year": "1994",
+          "unstructured": "Jensen MC, Brant-Zawadzki MN, Obuchowski N, Modic MT, Malkasian D, Ross JS: Magnetic resonance imaging of the lumbar spine in people without back pain. New England Journal of Medicine. 1994, 331: 69-73. 10.1056/NEJM199407143310201.",
+          "journal-title": "New England Journal of Medicine"
+        },
+        {
+          "key": "108_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "2880",
+          "DOI": "10.1097/00007632-199612150-00019",
+          "volume": "21",
+          "author": "JM Borkan",
+          "year": "1996",
+          "unstructured": "Borkan JM, Cherkin DC: An agenda for primary care research on low back pain. Spine. 1996, 21: 2880-2884. 10.1097/00007632-199612150-00019.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR8",
+          "first-page": "470",
+          "volume": "75",
+          "author": "A Delitto",
+          "year": "1995",
+          "unstructured": "Delitto A, Erhard RE, Bowling RW: A treatment-based classification approach to low back syndrome: identifying and staging patients for conservative management. PhysTher. 1995, 75: 470-485. discussion 485-9",
+          "journal-title": "PhysTher"
+        },
+        {
+          "key": "108_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "877",
+          "DOI": "10.1097/00007632-199704150-00010",
+          "volume": "22",
+          "author": "C Leboeuf-Yde",
+          "year": "1997",
+          "unstructured": "Leboeuf-Yde C, Lauritsen JM, Lauritzen T: Why has the search for causes of low back pain largely been nonconclusive?. Spine. 1997, 22: 877-881. 10.1097/00007632-199704150-00010.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "2826",
+          "DOI": "10.1097/00007632-199612150-00003",
+          "volume": "21",
+          "author": "RA Deyo",
+          "year": "1996",
+          "unstructured": "Deyo RA, Phillips WR: Low back pain. A primary care challenge. Spine. 1996, 21: 2826-2832. 10.1097/00007632-199612150-00003.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "1992",
+          "DOI": "10.1097/00007632-199809150-00016",
+          "volume": "23",
+          "author": "JM Borkan",
+          "year": "1998",
+          "unstructured": "Borkan JM, Koes B, Reis S, Cherkin DC: A report from the second international forum for primary care research on low back pain: reexamining priorities. Spine. 1998, 23: 1992-1996. 10.1097/00007632-199809150-00016.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "2014",
+          "DOI": "10.1097/00007632-199809150-00019",
+          "volume": "23",
+          "author": "LM Bouter",
+          "year": "1998",
+          "unstructured": "Bouter LM, van Tulder MW, Koes BW: Methodologic issues in low back pain research in primary care. Spine. 1998, 23: 2014-2020. 10.1097/00007632-199809150-00019.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "871",
+          "DOI": "10.7326/0003-4819-138-11-200306030-00008",
+          "volume": "138",
+          "author": "WJ Assendelft",
+          "year": "2003",
+          "unstructured": "Assendelft WJ, Morton SC, Yu EI, Suttorp MJ, Shekelle PG: Spinal manipulative therapy for low back pain: a meta-analysis of effectiveness relative to other therapies. Ann Intern Med. 2003, 138 : 871-881.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "108_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "2504",
+          "DOI": "10.1097/00007632-200111150-00022",
+          "volume": "26",
+          "author": "BW Koes",
+          "year": "2001",
+          "unstructured": "Koes BW, van Tulder MW, Ostelo R, Burton AK, Waddell G: Clinical guidelines for the management of low back pain in primary care: an international comparison. Spine. 2001, 26: 2504-2513. 10.1097/00007632-200111150-00022.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "590",
+          "DOI": "10.7326/0003-4819-117-7-590",
+          "volume": "117",
+          "author": "PG Shekelle",
+          "year": "1992",
+          "unstructured": "Shekelle PG, Adams AH, Chassin MR, Hurwitz EL, Brook RH: Spinal manipulation for low-back pain. Ann Intern Med. 1992, 117: 590-598.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "108_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "2835",
+          "DOI": "10.1097/00007632-200212150-00021",
+          "volume": "27",
+          "author": "T Flynn",
+          "year": "2002",
+          "unstructured": "Flynn T, Fritz J, Whitman J, al : A clinical prediction rule for classifying patients with low back pain who demonstrate short term improvement with spinal manipulation. Spine. 2002, 27 : 2835-2843. 10.1097/00007632-200212150-00021.",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "12",
+          "key": "108_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "920",
+          "DOI": "10.7326/0003-4819-141-12-200412210-00008",
+          "volume": "141",
+          "author": "JD Childs",
+          "year": "2004",
+          "unstructured": "Childs JD, Fritz JM, Flynn TW, Irrgang JJ, Johnson KK, Majkowski GR, Delitto A: Validation of a clinical prediction rule to identify patients with low back pain likely to benefit from spinal manipulation: a validation study. Ann Intern Med. 2004, 141 (12): 920-928.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "108_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "157",
+          "DOI": "10.1016/0304-3959(93)90127-B",
+          "volume": "52",
+          "author": "G Waddell",
+          "year": "1993",
+          "unstructured": "Waddell G, Newton M, Henderson I, Somerville D, Main CJ: A Fear-Avoidance Beliefs Questionnaire (FABQ) and the role of fear-avoidance beliefs in chronic low back pain and disability. Pain. 1993, 52: 157-168. 10.1016/0304-3959(93)90127-B.",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "108_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "41",
+          "DOI": "10.1097/00007632-199301000-00008",
+          "volume": "18",
+          "author": "NH Mann",
+          "year": "1993",
+          "unstructured": "Mann NH, Brown MD, Hertz DB, Enger I, Tompkins J: Initial-impression diagnosis using low-back pain patient pain drawings. Spine. 1993, 18: 41-53.",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "11",
+          "key": "108_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "1331",
+          "DOI": "10.1097/01.brs.0000164099.92112.29",
+          "volume": "30",
+          "author": "JD Childs",
+          "year": "2005",
+          "unstructured": "Childs JD, Piva SR, Fritz JM: Responsiveness of the numeric pain rating scale in patients with low back pain. Spine. 2005, 30 (11): 1331-1334. 10.1097/01.brs.0000164099.92112.29.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR21",
+          "first-page": "271",
+          "volume": "66",
+          "author": "JC Fairbank",
+          "year": "1980",
+          "unstructured": "Fairbank JC, Couper J, Davies JB, O'Brien JP: The Oswestry low back pain disability questionnaire. Physiotherapy. 1980, 66: 271-273.",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "108_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "2003",
+          "DOI": "10.1097/00007632-199809150-00018",
+          "volume": "23",
+          "author": "RA Deyo",
+          "year": "1998",
+          "unstructured": "Deyo RA, Battie M, Beurskens AJ, Bombardier C, Croft P, Koes B, Malmivaara A, Roland M, Von Korff M, Waddell G: Outcome measures for low back pain research. A proposal for standardized use. Spine. 1998, 23: 2003-2013. 10.1097/00007632-199809150-00018.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "1017",
+          "DOI": "10.1097/00007632-199505000-00008",
+          "volume": "20",
+          "author": "AJ Beurskens",
+          "year": "1995",
+          "unstructured": "Beurskens AJ, de Vet HC, Koke AJ, van der Heijden GJ, Knipschild PG: Measuring the functional status of patients with low back pain. Assessment of the quality of four disease-specific questionnaire. Spine. 1995, 20: 1017-1028.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR24",
+          "doi-asserted-by": "crossref",
+          "first-page": "776",
+          "DOI": "10.1093/ptj/81.2.776",
+          "volume": "81",
+          "author": "JM Fritz",
+          "year": "2001",
+          "unstructured": "Fritz JM, Irrgang JJ: A Comparison of a Modified Oswestry Disability Questionnaire and the Quebec Back Pain Disability Scale. Phys Ther. 2001, 81: 776-788.",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "108_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "2412",
+          "DOI": "10.1097/00007632-199312000-00008",
+          "volume": "18",
+          "author": "M Werneke",
+          "year": "1993",
+          "unstructured": "Werneke M, Harris DE, Lichter RL: Clinical effectiveness of behavioral signs for screening chronic low-back pain patients in a work-oriented physical rehabilitation program. Spine. 1993, 18: 2412-2418.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "2638",
+          "DOI": "10.1001/jama.1992.03480190080037",
+          "volume": "267",
+          "author": "DL Sackett",
+          "year": "1992",
+          "unstructured": "Sackett DL: A primer on the precision and accuracy of the clinical examination. JAMA. 1992, 267: 2638-2644. 10.1001/jama.267.19.2638.",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "108_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "911",
+          "DOI": "10.7326/0003-4819-134-9_Part_2-200105011-00016",
+          "volume": "134",
+          "author": "M Von Korff",
+          "year": "2001",
+          "unstructured": "Von Korff M, Moore JC: Stepped care for back pain: activating approaches for primary care. Ann Intern Med. 2001, 134: 911-917.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "108_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "2918",
+          "DOI": "10.1097/00007632-199612150-00025",
+          "volume": "21",
+          "author": "JW Frank",
+          "year": "1996",
+          "unstructured": "Frank JW, Brooker AS, DeMaio SE, Kerr MS, Maetzel A, Shannon HS, Sullivan TJ, Norman RW, Wells RP: Disability resulting from occupational low back pain. Part II: What do we know about secondary prevention? A review of the scientific evidence on prevention after disability begins. Spine. 1996, 21: 2918-2929. 10.1097/00007632-199612150-00025.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR29",
+          "doi-asserted-by": "publisher",
+          "first-page": "1363",
+          "DOI": "10.1097/00007632-200307010-00003",
+          "volume": "28",
+          "author": "JM Fritz",
+          "year": "2003",
+          "unstructured": "Fritz JM, Delitto A, Erhard RE: Comparison of a classification-based approach to physical therapy and therapy based on clinical practice guidelines for patients with acute low back pain: a randomized clinical trial. Spine. 2003, 28 : 1363-1372. 10.1097/00007632-200307010-00003.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "722",
+          "DOI": "10.1097/00007632-200304010-00019",
+          "volume": "28",
+          "author": "R Hiebert",
+          "year": "2003",
+          "unstructured": "Hiebert R, Skovron ML, Nordin M, Crane M: Work restrictions and outcome of nonspecific low back pain. Spine. 2003, 28: 722-728. 10.1097/00007632-200304010-00019.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "1110",
+          "DOI": "10.1097/00043764-199812000-00011",
+          "volume": "40",
+          "author": "L Hashemi",
+          "year": "1998",
+          "unstructured": "Hashemi L, Webster BS, Clancy EA: Trends in disability duration and cost of workers' compensation low back pain claims (1988-1996). J Occup Environ Med. 1998, 40: 1110-1119. 10.1097/00043764-199812000-00011.",
+          "journal-title": "J Occup Environ Med"
+        },
+        {
+          "key": "108_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "898",
+          "DOI": "10.7326/0003-4819-138-11-200306030-00011",
+          "volume": "138",
+          "author": "DC Cherkin",
+          "year": "2003",
+          "unstructured": "Cherkin DC, Sherman KJ, Deyo RA, Shekelle PG: A review of the evidence for the effectiveness, safety, and cost of acupuncture, massage therapy, and spinal manipulation for back pain. Ann Intern Med. 2003, 138: 898-921.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "108_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "E243",
+          "DOI": "10.1097/00007632-200106010-00004",
+          "volume": "26",
+          "author": "JA Hides",
+          "year": "2001",
+          "unstructured": "Hides JA, Jull GA, Richardson CA: Long term effects of specific stabilizing exercises for first-episode low back pain. Spine. 2001, 26: E243-E248. 10.1097/00007632-200106010-00004.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "1452",
+          "DOI": "10.1097/01.BRS.0000129024.95630.57",
+          "volume": "29",
+          "author": "JK Ross",
+          "year": "2004",
+          "unstructured": "Ross JK, Bereznick DE, McGill SM: Determining cavitation location during lumbar and thoracic spinal manipulaiton. Is spinal manipulation accurate and specific?. Spine. 2004, 29: 1452-1457. 10.1097/01.BRS.0000129024.95630.57.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "108_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "e2",
+          "DOI": "10.1016/j.jmpt.2003.12.014",
+          "volume": "27",
+          "author": "R Beffa",
+          "year": "2004",
+          "unstructured": "Beffa R, Matthews R: Does the adjustment cavitate the targeted joint? An investigation into the location of cavitation sounds. J Manipulative Physiol Ther. 2004, 27: e2-10.1016/j.jmpt.2003.12.014.",
+          "journal-title": "J Manipulative Physiol Ther"
+        }
+      ],
+      "container-title": [
+        "BMC Family Practice"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/1471-2296-6-29.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1186/1471-2296-6-29/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/1471-2296-6-29",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/1471-2296-6-29.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            10,
+            7
+          ]
+        ],
+        "date-time": "2024-10-07T12:37:05Z",
+        "timestamp": 1728304625000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bmcfampract.biomedcentral.com/articles/10.1186/1471-2296-6-29"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2005,
+            7,
+            14
+          ]
+        ]
+      },
+      "references-count": 35,
+      "journal-issue": {
+        "issue": "1",
+        "published-online": {
+          "date-parts": [
+            [
+              2005,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "108"
+      ],
+      "URL": "https://doi.org/10.1186/1471-2296-6-29",
+      "relation": {},
+      "ISSN": [
+        "1471-2296"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1471-2296"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2005,
+            7,
+            14
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "10 September 2004",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "14 July 2005",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "14 July 2005",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        }
+      ],
+      "article-number": "29"
+    }
+  }
+}

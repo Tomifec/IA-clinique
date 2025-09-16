@@ -1,0 +1,1843 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_bjpt_2022_100395.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_bjpt_2022_100395",
+  "doi": "10.1016/j.bjpt.2022.100395",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:34.406981Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            3
+          ]
+        ],
+        "date-time": "2025-09-03T10:41:48Z",
+        "timestamp": 1756896108835,
+        "version": "3.40.5"
+      },
+      "reference-count": 131,
+      "publisher": "Elsevier BV",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2022-03-01T00:00:00Z",
+            "timestamp": 1646092800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Brazilian Journal of Physical Therapy"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.bjpt.2022.100395",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            2,
+            20
+          ]
+        ],
+        "date-time": "2022-02-20T12:45:27Z",
+        "timestamp": 1645361127000
+      },
+      "page": "100395",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 38,
+      "title": [
+        "International physical therapists consensus on clinical descriptors for diagnosing rotator cuff related shoulder pain: A Delphi study"
+      ],
+      "prefix": "10.1016",
+      "volume": "26",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-7582-5822",
+          "authenticated-orcid": false,
+          "given": "Néstor",
+          "family": "Requejo-Salinas",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Jeremy",
+          "family": "Lewis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9469-0732",
+          "authenticated-orcid": false,
+          "given": "Lori A",
+          "family": "Michener",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Roy",
+          "family": "La Touche",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8365-7264",
+          "authenticated-orcid": false,
+          "given": "Rubén",
+          "family": "Fernández-Matías",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Juan",
+          "family": "Tercero-Lucas",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Paula Rezende",
+          "family": "Camargo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3203-506X",
+          "authenticated-orcid": false,
+          "given": "Marcus",
+          "family": "Bateman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9128-9684",
+          "authenticated-orcid": false,
+          "given": "Filip",
+          "family": "Struyf",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2853-9940",
+          "authenticated-orcid": false,
+          "given": "Jean-Sébastien",
+          "family": "Roy",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Anju",
+          "family": "Jaggi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9868-417X",
+          "authenticated-orcid": false,
+          "given": "Timothy",
+          "family": "Uhl",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8807-7093",
+          "authenticated-orcid": false,
+          "given": "Leanne",
+          "family": "Bisset",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2396-2419",
+          "authenticated-orcid": false,
+          "given": "Craig A.",
+          "family": "Wassinger",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Robert",
+          "family": "Donatelli",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8703-8356",
+          "authenticated-orcid": false,
+          "given": "Melina Nevoeiro",
+          "family": "Haik",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Enrique",
+          "family": "Lluch-Girbés",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "11",
+          "key": "10.1016/j.bjpt.2022.100395_bib0001",
+          "doi-asserted-by": "crossref",
+          "first-page": "649",
+          "DOI": "10.1136/ard.57.11.649",
+          "article-title": "Estimating the burden of musculoskeletal disorders in the community: the comparative prevalence of symptoms at different anatomical sites, and the relation to social deprivation",
+          "volume": "57",
+          "author": "Urwin",
+          "year": "1998",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.bjpt.2022.100395_bib0002",
+          "doi-asserted-by": "crossref",
+          "first-page": "959",
+          "DOI": "10.1136/ard.54.12.959",
+          "article-title": "Shoulder disorders in general practice: incidence, patient characteristics, and management",
+          "volume": "54",
+          "author": "Van Der Windt",
+          "year": "1995",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0003",
+          "doi-asserted-by": "crossref",
+          "first-page": "118",
+          "DOI": "10.1136/ard.2003.019349",
+          "article-title": "Incidence and prevalence of complaints of the neck and upper extremity in general practice",
+          "volume": "64",
+          "author": "Bot",
+          "year": "2005",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0004",
+          "doi-asserted-by": "crossref",
+          "first-page": "150",
+          "DOI": "10.3109/03009742.2011.605390",
+          "article-title": "Incidence, prevalence, and consultation rates of shoulder complaints in general practice",
+          "volume": "41",
+          "author": "Greving",
+          "year": "2012",
+          "journal-title": "Scand J Rheumatol"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0005",
+          "doi-asserted-by": "crossref",
+          "first-page": "73",
+          "DOI": "10.1080/03009740310004667",
+          "article-title": "Prevalence and incidence of shoulder pain in the general population; a systematic review",
+          "volume": "33",
+          "author": "Luime",
+          "year": "2004",
+          "journal-title": "Scand J Rheumatol"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.bjpt.2022.100395_bib0006",
+          "doi-asserted-by": "crossref",
+          "first-page": "326",
+          "DOI": "10.1093/rheumatology/26.5.326",
+          "article-title": "Industrial rheumatology and the shoulder",
+          "volume": "26",
+          "author": "Anderson",
+          "year": "1987",
+          "journal-title": "Rheumatology"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.bjpt.2022.100395_bib0007",
+          "doi-asserted-by": "crossref",
+          "first-page": "437",
+          "DOI": "10.1016/S0950-3579(89)80003-2",
+          "article-title": "Epidemiology of shoulder problems",
+          "volume": "3",
+          "author": "Bjelle",
+          "year": "1989",
+          "journal-title": "Baillieres Clin Rheumatol"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0008",
+          "doi-asserted-by": "crossref",
+          "first-page": "119",
+          "DOI": "10.1186/1471-2474-12-119",
+          "article-title": "A prospective study of shoulder pain in primary care: prevalence of imaged pathology and response to guided diagnostic blocks",
+          "volume": "12",
+          "author": "Cadogan",
+          "year": "2011",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.bjpt.2022.100395_bib0009",
+          "doi-asserted-by": "crossref",
+          "first-page": "1699",
+          "DOI": "10.1016/j.jse.2019.04.001",
+          "article-title": "Bilateral magnetic resonance imaging findings in individuals with unilateral shoulder pain",
+          "volume": "28",
+          "author": "Barreto",
+          "year": "2019",
+          "journal-title": "J Shoulder Elb Surg"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0010",
+          "doi-asserted-by": "crossref",
+          "first-page": "40",
+          "DOI": "10.2106/00004623-197254010-00003",
+          "article-title": "Anterior acromioplasty for the chronic impingement syndrome in the shoulder: a preliminary report",
+          "volume": "54",
+          "author": "Neer",
+          "year": "1972",
+          "journal-title": "J Bone Jt Surg Am"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0011",
+          "doi-asserted-by": "crossref",
+          "first-page": "k2860",
+          "DOI": "10.1136/bmj.k2860",
+          "article-title": "Subacromial decompression versus diagnostic arthroscopy for shoulder impingement: randomised, placebo surgery controlled clinical trial",
+          "volume": "362",
+          "author": "Paavola",
+          "year": "2018",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.bjpt.2022.100395_bib0012",
+          "doi-asserted-by": "crossref",
+          "first-page": "799",
+          "DOI": "10.1302/0301-620X.99B6.BJJ-2016-0569.R1",
+          "article-title": "Arthroscopic decompression not recommended in the treatment of rotator cuff tendinopathy: a final review of a randomised controlled trial at a minimum follow-up of ten years",
+          "volume": "99-B",
+          "author": "Ketola",
+          "year": "2017",
+          "journal-title": "Bone Joint J"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0013",
+          "doi-asserted-by": "crossref",
+          "first-page": "57",
+          "DOI": "10.1016/j.math.2016.03.009",
+          "article-title": "Rotator cuff related shoulder pain: assessment, management and uncertainties",
+          "volume": "23",
+          "author": "Lewis",
+          "year": "2016",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0014",
+          "doi-asserted-by": "crossref",
+          "first-page": "1827",
+          "DOI": "10.2106/JBJS.J.01748",
+          "article-title": "Published evidence relevant to the diagnosis of impingement syndrome of the shoulder",
+          "volume": "93",
+          "author": "Papadonikolakis",
+          "year": "2011",
+          "journal-title": "J Bone Jt Surg Am"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.bjpt.2022.100395_bib0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "314",
+          "DOI": "10.3109/17453674.2014.920991",
+          "article-title": "Guideline for diagnosis and treatment of subacromial pain syndrome",
+          "volume": "85",
+          "author": "Diercks",
+          "year": "2014",
+          "journal-title": "Acta Orthop"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0016",
+          "doi-asserted-by": "crossref",
+          "first-page": "ITC1",
+          "DOI": "10.7326/AITC201501060",
+          "article-title": "Rotator cuff disease",
+          "volume": "162",
+          "author": "Whittle",
+          "year": "2015",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.bjpt.2022.100395_bib0017",
+          "doi-asserted-by": "crossref",
+          "first-page": "401",
+          "DOI": "10.2519/jospt.2021.10375",
+          "article-title": "Diagnostic labels for rotator cuff disease can increase People’s perceived need for shoulder surgery: an online randomized controlled trial",
+          "volume": "51",
+          "author": "Zadro",
+          "year": "2021",
+          "journal-title": "J Orthop Sport Phys Ther"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0018",
+          "doi-asserted-by": "crossref",
+          "first-page": "24",
+          "DOI": "10.1016/j.msksp.2017.10.008",
+          "article-title": "Subacromial impingement syndrome – what does this mean to and for the patient? A qualitative study",
+          "volume": "33",
+          "author": "Cuff",
+          "year": "2018",
+          "journal-title": "Musculoskelet Sci Pract"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0019",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjsem-2019-000544",
+          "article-title": "Is there an association between metabolic syndrome and rotator cuff related shoulder pain? A systematic review",
+          "volume": "5",
+          "author": "Burne",
+          "year": "2019",
+          "journal-title": "BMJ Open Sport Exerc Med"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.bjpt.2022.100395_bib0020",
+          "doi-asserted-by": "crossref",
+          "first-page": "791",
+          "DOI": "10.2522/ptj.20140156",
+          "article-title": "Staged approach for rehabilitation classification: shoulder disorders (STAR-Shoulder)",
+          "volume": "95",
+          "author": "McClure",
+          "year": "2015",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.bjpt.2022.100395_bib0021",
+          "doi-asserted-by": "crossref",
+          "first-page": "A1",
+          "DOI": "10.2519/jospt.2013.0302",
+          "article-title": "Shoulder pain and mobility deficits: adhesive capsulitis: clinical practice guidelines linked to the international classification of functioning, disability, and health from the orthopaedic section of the american physical therapy association",
+          "volume": "43",
+          "author": "Kelley",
+          "year": "2013",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.bjpt.2022.100395_bib0022",
+          "doi-asserted-by": "crossref",
+          "first-page": "105",
+          "DOI": "10.2519/jospt.2004.34.3.105",
+          "article-title": "Diagnostic classification and orthopaedic physical therapy practice: what we can learn from medicine",
+          "volume": "34",
+          "author": "Zimny",
+          "year": "2004",
+          "journal-title": "J Orthop Sport Phys Ther"
+        },
+        {
+          "issue": "17",
+          "key": "10.1016/j.bjpt.2022.100395_bib0023",
+          "doi-asserted-by": "crossref",
+          "first-page": "1095",
+          "DOI": "10.1136/bjsports-2012-091492",
+          "article-title": "Why does my shoulder hurt? A review of the neuroanatomical and biochemical basis of shoulder pain",
+          "volume": "47",
+          "author": "Dean",
+          "year": "2013",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "issue": "14",
+          "key": "10.1016/j.bjpt.2022.100395_bib0024",
+          "doi-asserted-by": "crossref",
+          "first-page": "964",
+          "DOI": "10.1136/bjsports-2012-091066",
+          "article-title": "Which physical examination tests provide clinicians with the most value when examining the shoulder? Update of a systematic review with meta-analysis of individual tests",
+          "volume": "46",
+          "author": "Hegedus",
+          "year": "2012",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0025",
+          "doi-asserted-by": "crossref",
+          "first-page": "41",
+          "DOI": "10.1186/s12891-017-1400-0",
+          "article-title": "Physical examination tests of the shoulder: a systematic review and meta-analysis of diagnostic test performance",
+          "volume": "18",
+          "author": "Gismervik",
+          "year": "2017",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.bjpt.2022.100395_bib0026",
+          "doi-asserted-by": "crossref",
+          "first-page": "222",
+          "DOI": "10.2519/jospt.2020.0606",
+          "article-title": "It is time to put special tests for rotator cuff–related shoulder pain out to pasture",
+          "volume": "50",
+          "author": "Salamh",
+          "year": "2020",
+          "journal-title": "J Orthop Sport Phys Ther"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.bjpt.2022.100395_bib0027",
+          "doi-asserted-by": "crossref",
+          "first-page": "222",
+          "DOI": "10.2519/jospt.2020.0606",
+          "article-title": "It is time to put special tests for rotator cuff–related shoulder pain out to pasture",
+          "volume": "50",
+          "author": "Salamh",
+          "year": "2020",
+          "journal-title": "J Orthop Sport Phys Ther"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.bjpt.2022.100395_bib0028",
+          "doi-asserted-by": "crossref",
+          "first-page": "863",
+          "DOI": "10.1111/1756-185X.12476",
+          "article-title": "Prevalence of abnormalities on shoulder MRI in symptomatic and asymptomatic older adults",
+          "volume": "17",
+          "author": "Gill",
+          "year": "2014",
+          "journal-title": "Int J Rheum Dis"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.bjpt.2022.100395_bib0029",
+          "doi-asserted-by": "crossref",
+          "first-page": "1169",
+          "DOI": "10.1002/acr.23554",
+          "article-title": "What imaging-detected pathologies are associated with shoulder symptoms and their persistence? A systematic literature review",
+          "volume": "70",
+          "author": "Tran",
+          "year": "2018",
+          "journal-title": "Arthritis Care Res."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0030",
+          "doi-asserted-by": "crossref",
+          "first-page": "8",
+          "DOI": "10.1016/j.jor.2013.01.008",
+          "article-title": "Prevalence of symptomatic and asymptomatic rotator cuff tears in the general population: from mass-screening in one village",
+          "volume": "10",
+          "author": "Minagawa",
+          "year": "2013",
+          "journal-title": "J Orthop"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0031",
+          "doi-asserted-by": "crossref",
+          "first-page": "90",
+          "DOI": "10.1179/2042618612Y.0000000027",
+          "article-title": "A regional interdependence model of musculoskeletal dysfunction: research, mechanisms, and clinical implications",
+          "volume": "21",
+          "author": "Sueki",
+          "year": "2013",
+          "journal-title": "J Man Manip Ther"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0032",
+          "doi-asserted-by": "crossref",
+          "first-page": "31",
+          "DOI": "10.1177/1758573216663201",
+          "article-title": "Shoulder impingement syndrome: a systematic review of clinical trial participant selection criteria",
+          "volume": "9",
+          "author": "Watts",
+          "year": "2017",
+          "journal-title": "Shoulder Elb"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.bjpt.2022.100395_bib0033",
+          "doi-asserted-by": "crossref",
+          "first-page": "837",
+          "DOI": "10.1001/jama.2013.276187",
+          "article-title": "Does this patient with shoulder pain have rotator cuff disease? The rational clinical examination systematic review",
+          "volume": "310",
+          "author": "Hermans",
+          "year": "2013",
+          "journal-title": "JAMA - J Am Med Assoc"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0034",
+          "first-page": "87",
+          "article-title": "Physiotherapists’ recommendations for examination and treatment of rotator cuff related shoulder pain: a consensus exercise",
+          "volume": "40",
+          "author": "Littlewood",
+          "year": "2019",
+          "journal-title": "Physiother Pract Res"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0035",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1016/j.ptsp.2012.04.002",
+          "article-title": "A suggested model for physical examination and conservative treatment of athletic pubalgia",
+          "volume": "14",
+          "author": "Hegedus",
+          "year": "2013",
+          "journal-title": "Phys Ther Sport"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.bjpt.2022.100395_bib0036",
+          "doi-asserted-by": "crossref",
+          "first-page": "1975",
+          "DOI": "10.1007/s00167-017-4484-z",
+          "article-title": "Important clinical descriptors to include in the examination and assessment of patients with femoroacetabular impingement syndrome: an international and multi-disciplinary Delphi survey",
+          "volume": "25",
+          "author": "Reiman",
+          "year": "2017",
+          "journal-title": "Knee Surgery, Sport Traumatol Arthrosc"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.bjpt.2022.100395_bib0037",
+          "doi-asserted-by": "crossref",
+          "first-page": "408",
+          "DOI": "10.1016/S0016-3287(69)80025-X",
+          "article-title": "An experimental study of group opinion: the Delphi method",
+          "volume": "1",
+          "author": "Dalkey",
+          "year": "1969",
+          "journal-title": "Futures"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0038",
+          "first-page": "99",
+          "article-title": "Seeking consensus through the use of the Delphi technique in health sciences research",
+          "volume": "42",
+          "author": "Falzarano",
+          "year": "2013",
+          "journal-title": "J Allied Health"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0039",
+          "doi-asserted-by": "crossref",
+          "first-page": "205",
+          "DOI": "10.1111/j.1365-2648.2006.03716.x",
+          "article-title": "Consulting the oracle: ten lessons from using the Delphi technique in nursing research",
+          "volume": "53",
+          "author": "Keeney",
+          "year": "2006",
+          "journal-title": "J Adv Nurs"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.bjpt.2022.100395_bib0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "1008",
+          "DOI": "10.1046/j.1365-2648.2000.t01-1-01567.x",
+          "article-title": "Research guidelines for the Delphi survey technique",
+          "volume": "32",
+          "author": "Hasson",
+          "year": "2000",
+          "journal-title": "J Adv Nurs"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.bjpt.2022.100395_bib0041",
+          "first-page": "655",
+          "article-title": "How to use the nominal group and Delphi techniques",
+          "volume": "38",
+          "author": "McMillan",
+          "year": "2016",
+          "journal-title": "Int J Clin Pharm"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0042",
+          "doi-asserted-by": "crossref",
+          "first-page": "349",
+          "DOI": "10.1016/j.arthro.2017.11.022",
+          "article-title": "Expert Opinion Is Necessary: delphi Panel Methodology Facilitates a Scientific Approach to Consensus",
+          "volume": "34",
+          "author": "Hohmann",
+          "year": "2018",
+          "journal-title": "Arthrosc - J Arthrosc Relat Surg"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.bjpt.2022.100395_bib0043",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0216961",
+          "article-title": "The effectiveness of surgical vs conservative interventions on pain and function in patients with shoulder impingement syndrome. A systematic review and meta-analysis",
+          "volume": "14",
+          "author": "Nazari",
+          "year": "2019",
+          "journal-title": "PLoS ONE"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0044",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.1136/emj.19.2.155",
+          "article-title": "Delphi type methodology to develop consensus on the future design of EMS systems in the United Kingdom",
+          "volume": "19",
+          "author": "Hassan",
+          "year": "2002",
+          "journal-title": "Emerg Med J"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0045",
+          "doi-asserted-by": "crossref",
+          "first-page": "191",
+          "DOI": "10.1016/j.evalprogplan.2008.02.005",
+          "article-title": "Methodological and conceptual issues confronting a cross-country Delphi study of educational program evaluation",
+          "volume": "31",
+          "author": "Hung",
+          "year": "2008",
+          "journal-title": "Eval Program Plann"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0046",
+          "doi-asserted-by": "crossref",
+          "first-page": "37",
+          "DOI": "10.7748/nr2012.01.19.2.37.c8907",
+          "article-title": "Delphi research: issues raised by a pilot study",
+          "volume": "19",
+          "author": "Clibbens",
+          "year": "2012",
+          "journal-title": "Nurse Res"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0047",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1016/j.im.2003.11.002",
+          "article-title": "The Delphi method as a research tool: an example, design considerations and applications",
+          "volume": "42",
+          "author": "Okoli",
+          "year": "2004",
+          "journal-title": "Inf Manag"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0048",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.1177/0013164485451012",
+          "article-title": "Three coefficients for analyzing the reliability and validity of ratings",
+          "volume": "45",
+          "author": "Aiken",
+          "year": "1985",
+          "journal-title": "Educ Psychol Meas"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.bjpt.2022.100395_bib0049",
+          "doi-asserted-by": "crossref",
+          "first-page": "376",
+          "DOI": "10.1046/j.1365-2648.2003.02537.x",
+          "article-title": "The Delphi technique: myths and realities",
+          "volume": "41",
+          "author": "Powell",
+          "year": "2003",
+          "journal-title": "J Adv Nurs"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.bjpt.2022.100395_bib0050",
+          "doi-asserted-by": "crossref",
+          "first-page": "458",
+          "DOI": "10.1287/mnsc.9.3.458",
+          "article-title": "An experimental application of the Delphi method to the use of experts",
+          "volume": "9",
+          "author": "Dalkey",
+          "year": "1963",
+          "journal-title": "Manage Sci"
+        },
+        {
+          "year": "1975",
+          "series-title": "DelphiMethod: Techniques and Applications",
+          "author": "Linstone",
+          "key": "10.1016/j.bjpt.2022.100395_bib0051"
+        },
+        {
+          "year": "1975",
+          "series-title": "Group Techniques for Program Planning: A Guide to Nominal Group and Delphi Processes",
+          "author": "Delbecq",
+          "key": "10.1016/j.bjpt.2022.100395_bib0052"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0053",
+          "series-title": "Handbook of Futures Research",
+          "first-page": "271",
+          "article-title": "The Delphi technique",
+          "author": "Linstone",
+          "year": "1978"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0054",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.2466/pr0.1993.73.1.35",
+          "article-title": "Comprehensiveness of Strategic Planning: the Importance of Heterogeneity of a Top Team",
+          "volume": "73",
+          "author": "Bantel",
+          "year": "1993",
+          "journal-title": "Psychol Rep"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0055",
+          "doi-asserted-by": "crossref",
+          "first-page": "59",
+          "DOI": "10.7748/nr2006.10.14.1.59.c6010",
+          "article-title": "How expert are the experts? An exploration of the concept of “expert” within Delphi panel techniques",
+          "volume": "14",
+          "author": "Baker",
+          "year": "2006",
+          "journal-title": "Nurse Res"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0056",
+          "doi-asserted-by": "crossref",
+          "first-page": "486",
+          "DOI": "10.1136/bmj.2.5969.486",
+          "article-title": "Relative contributions of history-taking, physical examination, and laboratory investigation to diagnosis and management of medical outpatients",
+          "volume": "31",
+          "author": "Hampton",
+          "year": "1975",
+          "journal-title": "Br Med J"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0057",
+          "first-page": "163",
+          "article-title": "Contributions of the history, physical examination, and laboratory investigation in making medical diagnoses",
+          "volume": "156",
+          "author": "Peterson",
+          "year": "1992",
+          "journal-title": "West J Med"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.bjpt.2022.100395_bib0058",
+          "doi-asserted-by": "crossref",
+          "first-page": "923",
+          "DOI": "10.2519/jospt.2015.5941",
+          "article-title": "Rotator cuff tendinopathy: navigating the diagnosis-management conundrum",
+          "volume": "45",
+          "author": "Lewis",
+          "year": "2015",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.bjpt.2022.100395_bib0059",
+          "doi-asserted-by": "crossref",
+          "first-page": "186",
+          "DOI": "10.1097/JES.0b013e3182a4e6d5",
+          "article-title": "How tendons buffer energy dissipation by muscle",
+          "volume": "41",
+          "author": "Roberts",
+          "year": "2013",
+          "journal-title": "Exerc Sport Sci Rev"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0060",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.1007/s40279-013-0096-z",
+          "article-title": "The pain of tendinopathy: physiological or pathophysiological?",
+          "volume": "44",
+          "author": "Rio",
+          "year": "2014",
+          "journal-title": "Sport Med"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.bjpt.2022.100395_bib0061",
+          "doi-asserted-by": "crossref",
+          "first-page": "436",
+          "DOI": "10.5271/sjweh.3285",
+          "article-title": "Risk factors for incidence of rotator cuff syndrome in a large working population",
+          "volume": "38",
+          "author": "Bodin",
+          "year": "2012",
+          "journal-title": "Scand J Work Environ Heal"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.bjpt.2022.100395_bib0062",
+          "doi-asserted-by": "crossref",
+          "first-page": "605",
+          "DOI": "10.1002/ajim.22002",
+          "article-title": "Comparison of risk factors for shoulder pain and rotator cuff syndrome in the working population",
+          "volume": "55",
+          "author": "Bodin",
+          "year": "2012",
+          "journal-title": "Am J Ind Med"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.bjpt.2022.100395_bib0063",
+          "doi-asserted-by": "crossref",
+          "first-page": "502",
+          "DOI": "10.5271/sjweh.3179",
+          "article-title": "Personal, biomechanical, and psychosocial risk factors for rotator cuff syndrome in a working population",
+          "volume": "37",
+          "author": "Roquelaure",
+          "year": "2011",
+          "journal-title": "Scand J Work Environ Heal"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0064",
+          "doi-asserted-by": "crossref",
+          "first-page": "370",
+          "DOI": "10.1148/radiol.2017170481",
+          "article-title": "Shoulder injuries in the overhead-throwing athlete: epidemiology, mechanisms of injury, and imaging findings",
+          "volume": "286",
+          "author": "Lin",
+          "year": "2018",
+          "journal-title": "Radiology"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.bjpt.2022.100395_bib0065",
+          "doi-asserted-by": "crossref",
+          "first-page": "675",
+          "DOI": "10.1016/j.csm.2012.07.005",
+          "article-title": "Rotator cuff tears in overhead athletes",
+          "volume": "31",
+          "author": "Economopoulos",
+          "year": "2012",
+          "journal-title": "Clin Sports Med"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.bjpt.2022.100395_bib0066",
+          "doi-asserted-by": "crossref",
+          "first-page": "627",
+          "DOI": "10.2340/16501977-2598",
+          "article-title": "Risk factors for rotator cuff tendinopathy: a systematic review and meta-analysis",
+          "volume": "51",
+          "author": "Leong",
+          "year": "2019",
+          "journal-title": "J Rehabil Med"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.bjpt.2022.100395_bib0067",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0213824",
+          "article-title": "Could long-term overhead load in painters be associated with rotator cuff lesions? A pilot study",
+          "volume": "14",
+          "author": "Loew",
+          "year": "2019",
+          "journal-title": "PLoS ONE"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.bjpt.2022.100395_bib0068",
+          "doi-asserted-by": "crossref",
+          "first-page": "189",
+          "DOI": "10.5271/sjweh.2895",
+          "article-title": "Associations between work-related factors and specific disorders of the shoulder–a systematic review of the literature",
+          "volume": "36",
+          "author": "van Rijn",
+          "year": "2010",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.bjpt.2022.100395_bib0069",
+          "doi-asserted-by": "crossref",
+          "first-page": "3314",
+          "DOI": "10.1002/art.20495",
+          "article-title": "Work above shoulder level and degenerative alterations of the rotator cuff tendons: a magnetic resonance imaging study",
+          "volume": "50",
+          "author": "Svendsen",
+          "year": "2004",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.bjpt.2022.100395_bib0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "352",
+          "DOI": "10.1016/S1058-2746(98)90022-2",
+          "article-title": "The pattern of pain produced by irritation of the acromioclavicular joint and the subacromial space",
+          "volume": "7",
+          "author": "Gerber",
+          "year": "1998",
+          "journal-title": "J Shoulder Elb Surg"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.bjpt.2022.100395_bib0071",
+          "first-page": "353",
+          "article-title": "Pain mapping for common shoulder disorders",
+          "volume": "40",
+          "author": "Funk",
+          "year": "2011",
+          "journal-title": "Am J Orthop (Belle Mead NJ)"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0072",
+          "doi-asserted-by": "crossref",
+          "first-page": "167",
+          "DOI": "10.1515/sjpain-2019-0055",
+          "article-title": "Experimental shoulder pain models do not validly replicate the clinical experience of shoulder pain",
+          "volume": "20",
+          "author": "Ford",
+          "year": "2019",
+          "journal-title": "Scand J Pain"
+        },
+        {
+          "issue": "13",
+          "key": "10.1016/j.bjpt.2022.100395_bib0073",
+          "doi-asserted-by": "crossref",
+          "first-page": "e108",
+          "DOI": "10.2106/JBJS.M.01011",
+          "article-title": "Melatonin plays a role as a mediator of nocturnal pain in patients with shoulder disorders",
+          "volume": "96",
+          "author": "Ha",
+          "year": "2014",
+          "journal-title": "J Bone Jt Surg - Am"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.bjpt.2022.100395_bib0074",
+          "doi-asserted-by": "crossref",
+          "first-page": "1452",
+          "DOI": "10.1016/j.jse.2015.02.013",
+          "article-title": "Sleep quality and nocturnal pain in patients with shoulder disorders",
+          "volume": "24",
+          "author": "Mulligan",
+          "year": "2015",
+          "journal-title": "J Shoulder Elb Surg"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0075",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.1186/s12891-015-0545-y",
+          "article-title": "What is the role of lifestyle behaviour change associated with non-communicable disease risk in managing musculoskeletal health conditions with special reference to chronic pain?",
+          "volume": "16",
+          "author": "Dean",
+          "year": "2015",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0076",
+          "doi-asserted-by": "crossref",
+          "first-page": "609",
+          "DOI": "10.1186/s12891-019-3002-5",
+          "article-title": "Association between lifestyle and musculoskeletal pain: cross-sectional study among 10,000 adults from the general working population",
+          "volume": "20",
+          "author": "Kirsch Micheletti",
+          "year": "2019",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0077",
+          "doi-asserted-by": "crossref",
+          "first-page": "25",
+          "DOI": "10.1155/2004/949187",
+          "article-title": "The effect of sleep deprivation on pain",
+          "volume": "9",
+          "author": "Kundermann",
+          "year": "2004",
+          "journal-title": "Pain Res Manag"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0078",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1007/s40279-014-0147-0",
+          "article-title": "Sleep in elite athletes and nutritional interventions to enhance sleep",
+          "volume": "44",
+          "author": "Halson",
+          "year": "2014",
+          "journal-title": "Sports Med"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.bjpt.2022.100395_bib0079",
+          "doi-asserted-by": "crossref",
+          "first-page": "215",
+          "DOI": "10.5435/JAAOS-D-16-00547",
+          "article-title": "Sleep quality in patients with rotator cuff disease",
+          "volume": "26",
+          "author": "Khazzam",
+          "year": "2018",
+          "journal-title": "J Am Acad Orthop Surg"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0080",
+          "doi-asserted-by": "crossref",
+          "first-page": "222",
+          "DOI": "10.1016/j.jse.2012.04.001",
+          "article-title": "Is shoulder pain for three months or longer correlated with depression, anxiety, and sleep disturbance?",
+          "volume": "22",
+          "author": "Cho",
+          "year": "2013",
+          "journal-title": "J Shoulder Elb Surg"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.bjpt.2022.100395_bib0081",
+          "doi-asserted-by": "crossref",
+          "first-page": "1534",
+          "DOI": "10.1007/s11999-009-0781-2",
+          "article-title": "Cigarette smoking increases the risk for rotator cuff tears",
+          "volume": "468",
+          "author": "Baumgarten",
+          "year": "2010",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.bjpt.2022.100395_bib0082",
+          "doi-asserted-by": "crossref",
+          "first-page": "1598",
+          "DOI": "10.1016/j.arthro.2015.01.026",
+          "article-title": "Smoking predisposes to rotator cuff pathology and shoulder dysfunction: a systematic review",
+          "volume": "31",
+          "author": "Bishop",
+          "year": "2015",
+          "journal-title": "Arthrosc - J Arthrosc Relat Surg"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.bjpt.2022.100395_bib0083",
+          "doi-asserted-by": "crossref",
+          "first-page": "1669",
+          "DOI": "10.1016/j.jse.2014.03.016",
+          "article-title": "The association between body fat and rotator cuff tear: the influence on rotator cuff tear sizes",
+          "volume": "23",
+          "author": "Gumina",
+          "year": "2014",
+          "journal-title": "J Shoulder Elb Surg"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0084",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.3109/17453674.2015.1119599",
+          "article-title": "Association between alcohol consumption and rotator cuff tear",
+          "volume": "87",
+          "author": "Passaretti",
+          "year": "2015",
+          "journal-title": "Acta Orthop"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0085",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1186/1471-2474-11-165",
+          "article-title": "Lifestyle and metabolic factors in relation to shoulder pain and rotator cuff tendinitis: a population-based study",
+          "volume": "11",
+          "author": "Rechardt",
+          "year": "2010",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.bjpt.2022.100395_bib0086",
+          "doi-asserted-by": "crossref",
+          "first-page": "1633",
+          "DOI": "10.1111/j.1532-5415.2000.tb03875.x",
+          "article-title": "Returning to the bedside: using the history and physical examination to identify rotator cuff tears",
+          "volume": "48",
+          "author": "Litaker",
+          "year": "2000",
+          "journal-title": "J Am Geriatr Soc"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.bjpt.2022.100395_bib0087",
+          "doi-asserted-by": "crossref",
+          "first-page": "1834",
+          "DOI": "10.1016/j.jse.2015.05.031",
+          "article-title": "Rotator cuff tears in young patients: a different disease than rotator cuff tears in elderly patients",
+          "volume": "24",
+          "author": "Lazarides",
+          "year": "2015",
+          "journal-title": "J Shoulder Elb Surg"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.bjpt.2022.100395_bib0088",
+          "doi-asserted-by": "crossref",
+          "first-page": "277",
+          "DOI": "10.1055/s-0035-1549321",
+          "article-title": "Microinstability and internal impingement of the shoulder",
+          "volume": "19",
+          "author": "Mistry",
+          "year": "2015",
+          "journal-title": "Semin Musculoskelet Radiol"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.bjpt.2022.100395_bib0089",
+          "doi-asserted-by": "crossref",
+          "first-page": "697",
+          "DOI": "10.1016/j.csm.2013.07.006",
+          "article-title": "Microinstability and internal impingement in overhead athletes",
+          "volume": "32",
+          "author": "Chambers",
+          "year": "2013",
+          "journal-title": "Clin Sports Med"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.bjpt.2022.100395_bib0090",
+          "first-page": "824",
+          "article-title": "A cadaveric model of the throwing shoulder: a possible etiology of superior labrum anterior-to-posterior lesions",
+          "volume": "87",
+          "author": "Grossman",
+          "year": "2005",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.bjpt.2022.100395_bib0091",
+          "doi-asserted-by": "crossref",
+          "first-page": "1997",
+          "DOI": "10.1016/j.jse.2016.04.005",
+          "article-title": "Neuralgic amyotrophy is not the most common neurologic disorder of the shoulder: a 78-month prospective study of 60 neurologic shoulder patients in a specialist shoulder clinic",
+          "volume": "25",
+          "author": "Clarke",
+          "year": "2016",
+          "journal-title": "J Shoulder Elb Surg"
+        },
+        {
+          "issue": "SUPPL. 11",
+          "key": "10.1016/j.bjpt.2022.100395_bib0092",
+          "doi-asserted-by": "crossref",
+          "first-page": "174",
+          "DOI": "10.1002/acr.20630",
+          "article-title": "Measures of adult shoulder function: disabilities of the arm, shoulder, and hand questionnaire (DASH) and its short version (QuickDASH), shoulder pain and disability index (SPADI), American shoulder and elbow surgeons (ASES) Society standardized shoulder",
+          "volume": "63",
+          "author": "Angst",
+          "year": "2011",
+          "journal-title": "Arthritis Care Res"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0093",
+          "doi-asserted-by": "crossref",
+          "first-page": "103",
+          "DOI": "10.3109/09638288.2015.1027004",
+          "article-title": "Psychometric properties of self-reported questionnaires for the evaluation of symptoms and functional limitations in individuals with rotator cuff disorders: a systematic review",
+          "volume": "38",
+          "author": "St-Pierre",
+          "year": "2016",
+          "journal-title": "Disabil Rehabil"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0094",
+          "doi-asserted-by": "crossref",
+          "first-page": "26",
+          "DOI": "10.1186/1471-2474-7-26",
+          "article-title": "Cross-sectional and longitudinal construct validity of two rotator cuff disease-specific outcome measures",
+          "volume": "7",
+          "author": "Razmjou",
+          "year": "2006",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0095",
+          "doi-asserted-by": "crossref",
+          "first-page": "S48",
+          "DOI": "10.5435/JAAOS-D-16-00631",
+          "article-title": "Implementation of patient-reported outcome measures in total knee arthroplasty",
+          "volume": "25",
+          "author": "Ayers",
+          "year": "2017",
+          "journal-title": "J Am Acad Orthop Surg"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0096",
+          "doi-asserted-by": "crossref",
+          "first-page": "399",
+          "DOI": "10.1016/j.jhsa.2014.06.122",
+          "article-title": "Management of rotator cuff tears",
+          "volume": "40",
+          "author": "Schmidt",
+          "year": "2015",
+          "journal-title": "J Hand Surg Am"
+        },
+        {
+          "issue": "17",
+          "key": "10.1016/j.bjpt.2022.100395_bib0097",
+          "doi-asserted-by": "crossref",
+          "first-page": "e774",
+          "DOI": "10.5435/JAAOS-D-19-00455",
+          "article-title": "Usage Trends of Patient-reported Outcome Measures in Shoulder Literature",
+          "volume": "28",
+          "author": "Mosher",
+          "year": "2019",
+          "journal-title": "J Am Acad Orthop Surg"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.bjpt.2022.100395_bib0098",
+          "doi-asserted-by": "crossref",
+          "first-page": "564",
+          "DOI": "10.1055/s-0038-1672193",
+          "article-title": "Musculoskeletal Imaging: current Practice and Future Directions",
+          "volume": "22",
+          "author": "Farrell",
+          "year": "2018",
+          "journal-title": "Semin Musculoskelet Radiol"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.bjpt.2022.100395_bib0099",
+          "doi-asserted-by": "crossref",
+          "first-page": "585",
+          "DOI": "10.1016/j.ejim.2015.06.018",
+          "article-title": "Effect of routine diagnostic imaging for patients with musculoskeletal disorders: a meta-analysis",
+          "volume": "26",
+          "author": "Karel",
+          "year": "2015",
+          "journal-title": "Eur J Intern Med"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.bjpt.2022.100395_bib0100",
+          "doi-asserted-by": "crossref",
+          "first-page": "525",
+          "DOI": "10.2214/AJR.17.18085",
+          "article-title": "Imaging evaluation of nonacute shoulder pain",
+          "volume": "209",
+          "author": "Tuite",
+          "year": "2017",
+          "journal-title": "Am J Roentgenol"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0101",
+          "article-title": "Magnetic resonance imaging, magnetic resonance arthrography and ultrasonography for assessing rotator cuff tears in people with shoulder pain for whom surgery is being considered",
+          "volume": "9",
+          "author": "Lenza",
+          "year": "2013",
+          "journal-title": "Cochrane database Syst Rev"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.bjpt.2022.100395_bib0102",
+          "doi-asserted-by": "crossref",
+          "first-page": "1701",
+          "DOI": "10.2214/AJR.08.1241",
+          "article-title": "Accuracy of MRI, MR arthrography, and ultrasound in the diagnosis of rotator cuff tears: a meta-analysis",
+          "volume": "192",
+          "author": "De Jesus",
+          "year": "2009",
+          "journal-title": "Am J Roentgenol"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.bjpt.2022.100395_bib0103",
+          "doi-asserted-by": "crossref",
+          "first-page": "1719",
+          "DOI": "10.1007/s00402-017-2799-3",
+          "article-title": "Limited diagnostic accuracy of magnetic resonance imaging and clinical tests for detecting partial-thickness tears of the rotator cuff",
+          "volume": "137",
+          "author": "Brockmeyer",
+          "year": "2017",
+          "journal-title": "Arch Orthop Trauma Surg"
+        },
+        {
+          "issue": "20",
+          "key": "10.1016/j.bjpt.2022.100395_bib0104",
+          "doi-asserted-by": "crossref",
+          "first-page": "1316",
+          "DOI": "10.1136/bjsports-2014-094148",
+          "article-title": "Diagnostic accuracy of ultrasonography, MRI and MR arthrography in the characterisation of rotator cuff disorders: a systematic review and meta-analysis",
+          "volume": "49",
+          "author": "Roy",
+          "year": "2015",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.bjpt.2022.100395_bib0105",
+          "doi-asserted-by": "crossref",
+          "first-page": "W713",
+          "DOI": "10.2214/AJR.11.6971",
+          "article-title": "Ultrasound of the shoulder: asymptomatic findings in men",
+          "volume": "197",
+          "author": "Girish",
+          "year": "2011",
+          "journal-title": "Am J Roentgenol"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0106",
+          "doi-asserted-by": "crossref",
+          "first-page": "153",
+          "DOI": "10.1016/j.csm.2015.08.010",
+          "article-title": "Proximal biceps tendon and rotator cuff tears",
+          "volume": "35",
+          "author": "Virk",
+          "year": "2016",
+          "journal-title": "Clin Sports Med"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0107",
+          "doi-asserted-by": "crossref",
+          "first-page": "101",
+          "DOI": "10.1016/j.physio.2011.08.002",
+          "article-title": "Exercise for rotator cuff tendinopathy: a systematic review",
+          "volume": "98",
+          "author": "Littlewood",
+          "year": "2012",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0108",
+          "doi-asserted-by": "crossref",
+          "first-page": "95",
+          "DOI": "10.1097/MRR.0000000000000113",
+          "article-title": "Therapeutic Exercise for rotator cuff tendinopathy: a systematic review of contextual factors and prescription parameters",
+          "volume": "38",
+          "author": "Littlewood",
+          "year": "2015",
+          "journal-title": "Int J Rehabil Res"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.bjpt.2022.100395_bib0109",
+          "doi-asserted-by": "crossref",
+          "first-page": "256",
+          "DOI": "10.1111/sae.12028",
+          "article-title": "Epidemiology of rotator cuff tendinopathy: a systematic review",
+          "volume": "5",
+          "author": "Littlewood",
+          "year": "2013",
+          "journal-title": "Shoulder Elb"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0110",
+          "doi-asserted-by": "crossref",
+          "first-page": "225",
+          "DOI": "10.1007/s00421-014-3059-7",
+          "article-title": "Influence of shoulder pain on muscle function: implications for the assessment and therapy of shoulder disorders",
+          "volume": "115",
+          "author": "Struyf",
+          "year": "2015",
+          "journal-title": "Eur J Appl Physiol"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0111",
+          "doi-asserted-by": "crossref",
+          "first-page": "79",
+          "DOI": "10.3944/AOTT.2011.2425",
+          "article-title": "The relationship of muscle strength and pain in subacromial impingement syndrome",
+          "volume": "45",
+          "author": "Çelik",
+          "year": "2011",
+          "journal-title": "Acta Orthop Traumatol Turc"
+        },
+        {
+          "key": "10.1016/j.bjpt.2022.100395_bib0112",
+          "doi-asserted-by": "crossref",
+          "first-page": "45",
+          "DOI": "10.1186/1471-2474-11-45",
+          "article-title": "The impact of subacromial impingement syndrome on muscle activity patterns of the shoulder complex: a systematic review of electromyographic studies",
+          "volume": "11",
+          "author": "Chester",
+          "year": "2010",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.bjpt.2022.100395_bib0113",
+          "doi-asserted-by": "crossref",
+          "first-page": "433",
+          "DOI": "10.1123/jab.2015-0185",
+          "article-title": "Normalization to maximal voluntary contraction is influenced by subacromial pain",
+          "volume": "32",
+          "author": "Ettinger",
+          "year": "2016",
+          "journal-title": "J Appl Biomech"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.bjpt.2022.100395_bib0114",
+          "doi-asserted-by": "crossref",
+          "first-page": "1615",
+          "DOI": "10.1152/jn.00147.2013",
+          "article-title": "Reorganization of muscle synergies during multidirectional reaching in the horizontal plane with experimental muscle pain",
+          "volume": "111",
+          "author": "Muceli",
+          "year": "2014",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0115",
+          "doi-asserted-by": "crossref",
+          "first-page": "23",
+          "DOI": "10.3109/10582452.2013.763393",
+          "article-title": "Evaluation of shoulder rotational strength in patients with subacromial impingement syndrome using a computerized isokinetic dynamometer",
+          "volume": "21",
+          "author": "Dulgeroglu",
+          "year": "2013",
+          "journal-title": "J Musculoskelet Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0116",
+          "doi-asserted-by": "crossref",
+          "first-page": "302",
+          "DOI": "10.1186/s12891-017-1667-1",
+          "article-title": "Glenohumeral and scapulothoracic strength impairments exists in patients with subacromial impingement, but these are not reflected in the shoulder pain and disability index",
+          "volume": "18",
+          "author": "Clausen",
+          "year": "2017",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.bjpt.2022.100395_bib0117",
+          "doi-asserted-by": "crossref",
+          "first-page": "333",
+          "DOI": "10.1590/S1413-78522011000600002",
+          "article-title": "Rotator cuff strength in subjects with shoulder impingement syndrome compared with the asymptomatic side",
+          "volume": "19",
+          "author": "Marcondes",
+          "year": "2011",
+          "journal-title": "Acta Ortopédica Bras"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.bjpt.2022.100395_bib0118",
+          "doi-asserted-by": "crossref",
+          "first-page": "893",
+          "DOI": "10.1016/j.jse.2008.05.043",
+          "article-title": "Shoulder rotator strength in patients with stage I-II subacromial impingement: relationship to pain, disability, and quality of life",
+          "volume": "17",
+          "author": "Erol",
+          "year": "2008",
+          "journal-title": "J Shoulder Elb Surg"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.bjpt.2022.100395_bib0119",
+          "article-title": "Physical tests for shoulder impingements and local lesions of bursa, tendon or labrum that may accompany impingement",
+          "volume": "2013",
+          "author": "Hanchard",
+          "year": "2013",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0120",
+          "doi-asserted-by": "crossref",
+          "first-page": "149",
+          "DOI": "10.1177/0269215509346103",
+          "article-title": "The value of physical tests for subacromial impingement syndrome: a study of diagnostic accuracy",
+          "volume": "24",
+          "author": "Kelly",
+          "year": "2010",
+          "journal-title": "Clin Rehabil"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0121",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1016/j.jbspin.2008.04.015",
+          "article-title": "Contribution of clinical tests to the diagnosis of rotator cuff disease: a systematic literature review",
+          "volume": "76",
+          "author": "Beaudreuil",
+          "year": "2009",
+          "journal-title": "Jt Bone Spine"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.bjpt.2022.100395_bib0122",
+          "doi-asserted-by": "crossref",
+          "first-page": "1063",
+          "DOI": "10.1097/JOM.0000000000001430",
+          "article-title": "Reliability of common provocative tests for shoulder tendinitis",
+          "volume": "60",
+          "author": "Doxey",
+          "year": "2018",
+          "journal-title": "J Occup Environ Med"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.bjpt.2022.100395_bib0123",
+          "doi-asserted-by": "crossref",
+          "first-page": "211",
+          "DOI": "10.1007/s11517-013-1074-1",
+          "article-title": "Shoulder impingement revisited: evolution of diagnostic understanding in orthopedic surgery and physical therapy",
+          "volume": "52",
+          "author": "Braman",
+          "year": "2014",
+          "journal-title": "Med Biol Eng Comput"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0124",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.1016/j.ptsp.2014.08.001",
+          "article-title": "Combining orthopedic special tests to improve diagnosis of shoulder pathology",
+          "volume": "16",
+          "author": "Hegedus",
+          "year": "2015",
+          "journal-title": "Phys Ther Sport"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.bjpt.2022.100395_bib0125",
+          "doi-asserted-by": "crossref",
+          "first-page": "1053",
+          "DOI": "10.1016/j.apmr.2019.11.011",
+          "article-title": "Psychometric properties of performance-based functional tests in patients with shoulder pathologies: a systematic review and meta-analysis",
+          "volume": "101",
+          "author": "Nazari",
+          "year": "2020",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.bjpt.2022.100395_bib0126",
+          "doi-asserted-by": "crossref",
+          "first-page": "545",
+          "DOI": "10.1136/bjsports-2015-095198",
+          "article-title": "Clinician-friendly physical performance tests in athletes part 3: a systematic review of measurement properties and correlations to injury for tests in the upper extremity",
+          "volume": "50",
+          "author": "Tarara",
+          "year": "2016",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.bjpt.2022.100395_bib0127",
+          "doi-asserted-by": "crossref",
+          "first-page": "791",
+          "DOI": "10.2522/ptj.20140156",
+          "article-title": "Staged approach for rehabilitation classification: shoulder disorders (STAR-Shoulder)",
+          "volume": "95",
+          "author": "McClure",
+          "year": "2015",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.bjpt.2022.100395_bib0128",
+          "doi-asserted-by": "crossref",
+          "first-page": "259",
+          "DOI": "10.1136/bjsm.2008.052183",
+          "article-title": "Rotator cuff tendinopathy/subacromial impingement syndrome: is it time for a new method of assessment?",
+          "volume": "43",
+          "author": "Lewis",
+          "year": "2009",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.bjpt.2022.100395_bib0129",
+          "doi-asserted-by": "crossref",
+          "first-page": "305",
+          "DOI": "10.1177/1758573218798023",
+          "article-title": "Screening of the cervical spine in subacromial shoulder pain: a systematic review",
+          "volume": "11",
+          "author": "Walker",
+          "year": "2019",
+          "journal-title": "Shoulder Elb"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.bjpt.2022.100395_bib0130",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1016/j.ptsp.2013.11.001",
+          "article-title": "New concepts in restoring shoulder elevation in a stiff and painful shoulder patient",
+          "volume": "15",
+          "author": "Donatelli",
+          "year": "2014",
+          "journal-title": "Phys Ther Sport"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.bjpt.2022.100395_bib0131",
+          "doi-asserted-by": "crossref",
+          "first-page": "74",
+          "DOI": "10.1179/106698110X12640740712734",
+          "article-title": "Thoracic outlet syndrome: a controversial clinical condition. Part 1: anatomy, and clinical examination/diagnosis",
+          "volume": "18",
+          "author": "Hooper",
+          "year": "2010",
+          "journal-title": "J Man Manip Ther"
+        }
+      ],
+      "container-title": [
+        "Brazilian Journal of Physical Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1413355522000065?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1413355522000065?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            17
+          ]
+        ],
+        "date-time": "2023-11-17T20:16:49Z",
+        "timestamp": 1700252209000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1413355522000065"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            3
+          ]
+        ]
+      },
+      "references-count": 131,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              3
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1413355522000065"
+      ],
+      "URL": "https://doi.org/10.1016/j.bjpt.2022.100395",
+      "relation": {},
+      "ISSN": [
+        "1413-3555"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1413-3555"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            3
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "International physical therapists consensus on clinical descriptors for diagnosing rotator cuff related shoulder pain: A Delphi study",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Brazilian Journal of Physical Therapy",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.bjpt.2022.100395",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2022 Associação Brasileira de Pesquisa e Pós-Graduação em Fisioterapia. Published by Elsevier España, S.L.U. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "100395"
+    }
+  }
+}

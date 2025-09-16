@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "profil": {
+      "type": "string"
+    },
+    "securite": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "score": {
+          "type": "string",
+          "enum": [
+            "faible",
+            "modéré",
+            "élevé",
+            "modere"
+          ]
+        },
+        "stop_rules": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "score"
+      ]
+    },
+    "test_sentinelle": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "mcid": {
+      "type": "object",
+      "additionalProperties": true
+    },
+    "protocoles": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "liens_evidence": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "statut": {
+      "type": "string",
+      "enum": [
+        "brouillon",
+        "valide"
+      ]
+    }
+  },
+  "required": [
+    "id",
+    "profil",
+    "securite",
+    "test_sentinelle",
+    "liens_evidence",
+    "statut"
+  ]
+}

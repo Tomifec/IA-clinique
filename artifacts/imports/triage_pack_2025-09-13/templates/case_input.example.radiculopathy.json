@@ -1,0 +1,60 @@
+{
+  "demographics": {
+    "age": 42,
+    "sex": "F"
+  },
+  "presentation": {
+    "onset": "subacute (3 weeks)",
+    "mechanism": "insidious",
+    "pain": {
+      "intensity": 7,
+      "night_pain": false,
+      "aggravating": [
+        "extension",
+        "rotation right"
+      ],
+      "relieving": [
+        "arm abduction"
+      ]
+    },
+    "distribution": "neck + right scapula/arm (C6 dermatome)",
+    "neuro_symptoms": [
+      "paresthesia"
+    ]
+  },
+  "exam": {
+    "rom_limit": true,
+    "spurling": "pos",
+    "distraction": "pos",
+    "upper_limb_tension_test": "pos",
+    "hoffmann": "neg",
+    "babinski": "neg",
+    "clonus": "neg",
+    "gait_ataxia": false,
+    "neuro": {
+      "motor_deficit": false,
+      "sensory_deficit": true,
+      "reflex_changes": true,
+      "sphincter_disturbance": false
+    },
+    "vitals": {
+      "temp_c": 36.8,
+      "hr_bpm": 72,
+      "bp_mmHg": "118/74"
+    }
+  },
+  "flags": {
+    "myelopathy_signs": false,
+    "vascular_redflags": [],
+    "infection_signs": [],
+    "trauma_high_energy": false
+  },
+  "history": {
+    "prior_treatments": [
+      "NSAIDs",
+      "exercise"
+    ],
+    "response_to_prior_treatments": "partial"
+  },
+  "tests": {}
+}

@@ -1,0 +1,579 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1093_ptj_pzaa028.md",
+  "id": "evidence_import_refs_2025_09_11_10_1093_ptj_pzaa028",
+  "doi": "10.1093/ptj/pzaa028",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:47.158707Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            30
+          ]
+        ],
+        "date-time": "2025-05-30T04:29:48Z",
+        "timestamp": 1748579388848,
+        "version": "3.37.3"
+      },
+      "reference-count": 28,
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "6",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                3,
+                4
+              ]
+            ],
+            "date-time": "2020-03-04T00:00:00Z",
+            "timestamp": 1583280000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100000002",
+          "name": "National Institutes of Health",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100000002",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            6,
+            23
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Background</jats:title><jats:p>Physical therapy and surgery are viable treatment options for nonarthritic hip disease (NAHD). Interdisciplinary collaboration can help patients make informed treatment decisions. Understanding how each provider can contribute is a critical first step in developing collaborative evaluation efforts.</jats:p></jats:sec><jats:sec><jats:title>Objective</jats:title><jats:p>The objective of this study was to describe the current evaluation of NAHD by both physical therapists and physicians, and evaluate national use of expert-recommended evaluation guidelines.</jats:p></jats:sec><jats:sec><jats:title>Design</jats:title><jats:p>A national survey study distributed in the United States was implemented to accomplish the objective.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>A survey was distributed to 25,027 potential physical therapist and physician respondents. Respondents detailed their evaluation content for patients with NAHD across the following domains: patient-reported outcomes, patient history, special tests, movement assessment, clinical tests, and imaging. Respondents ranked importance of each domain using a 5-point Likert scale (not important, slightly important, important, very important, or extremely important). Odds ratios (ORs [95% CIs]) were calculated to identify the odds that physical therapists, compared with physicians, would report each evaluation domain as at least very important. Fisher exact tests were performed to identify statistically significant ORs.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>Nine hundred and fourteen participants (3.6%) completed the survey. Physical therapists were more likely to indicate movement assessment (OR: 4.23 [2.99–6.02]) and patient-reported outcomes (OR: 2.56 [1.67–3.99]) as at least very important for determining a diagnosis and plan of care. Physical therapists had lower odds of rating imaging (OR: 0.09 [0.06–0.14]) and special tests (OR: 0.72 [0.53–0.98]) as at least very important compared with physicians.</jats:p></jats:sec><jats:sec><jats:title>Limitations</jats:title><jats:p>This survey study did not include many orthopedic surgeons and thus, primarily represents evaluation practices of physical therapists and nonsurgical physicians.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>Physical therapists were more likely to consider movement assessment very important for the evaluation of patients with NAHD, whereas physicians were more likely to consider imaging and special testing very important.</jats:p></jats:sec>",
+      "DOI": "10.1093/ptj/pzaa028",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2020,
+            2,
+            17
+          ]
+        ],
+        "date-time": "2020-02-17T20:12:55Z",
+        "timestamp": 1581970375000
+      },
+      "page": "917-932",
+      "source": "Crossref",
+      "is-referenced-by-count": 6,
+      "title": [
+        "Physical Therapists and Physicians Evaluate Nonarthritic Hip Disease Differently: Results From a National Survey"
+      ],
+      "prefix": "10.1093",
+      "volume": "100",
+      "author": [
+        {
+          "given": "Lindsey",
+          "family": "Brown-Taylor",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "DPT, PhD, Informatics, Decision-Enhancement, and Analytic Sciences (IDEAS) Center of Innovation , Veterans Affairs, 500 Foothill Dr, Building 2, Room 2C10A, Salt Lake City, UT, 84148 (USA)"
+            }
+          ]
+        },
+        {
+          "given": "Andrew",
+          "family": "Lynch",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physical Therapy, School of Health and Rehabilitation Sciences, University of Pittsburgh , Pittsburgh, Pennsylvania"
+            }
+          ]
+        },
+        {
+          "given": "Randi",
+          "family": "Foraker",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Informatics, Washington University in St. Louis School of Medicine , St Louis, Missouri"
+            }
+          ]
+        },
+        {
+          "given": "Marcie",
+          "family": "Harris-Hayes",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "DPT, MS, Program in Physical Therapy and Department of Orthopaedic Surgery , Washington University in St. Louis School of Medicine"
+            }
+          ]
+        },
+        {
+          "given": "Bryant",
+          "family": "Walrod",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sports Medicine Research Institute, The Ohio State University Wexner Medical Center , Columbus, Ohio; and Department of Family Medicine, The Ohio State University"
+            }
+          ]
+        },
+        {
+          "given": "W Kelton",
+          "family": "Vasileff",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sports Medicine Research Institute, The Ohio State University Wexner Medical Center; and Department of Orthopaedics , The Ohio State University"
+            }
+          ]
+        },
+        {
+          "given": "Kathryn",
+          "family": "Glaws",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "DPT, Sports Medicine Research Institute , The Ohio State University Wexner Medical Center"
+            }
+          ]
+        },
+        {
+          "given": "Stephanie",
+          "family": "Di Stasi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sports Medicine Research Institute , The Ohio State University Wexner Medical Center; and Division of Physical Therapy, School of Health and Rehabilitation Sciences, The Ohio State University"
+            }
+          ]
+        }
+      ],
+      "member": "286",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            3,
+            4
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2023011802200077500_ref1",
+          "doi-asserted-by": "crossref",
+          "first-page": "A1",
+          "DOI": "10.2519/jospt.2014.0302",
+          "article-title": "Non-arthritic hip joint pain",
+          "volume": "44",
+          "author": "Enseki",
+          "year": "2014",
+          "journal-title": "J Orthop Sport Phys Ther."
+        },
+        {
+          "key": "2023011802200077500_ref2",
+          "first-page": "17",
+          "article-title": "Imaging for nonarthritic hip pathology",
+          "volume": "46",
+          "author": "Lewis",
+          "year": "2017",
+          "journal-title": "Am J Orthop (Belle Mead NJ)."
+        },
+        {
+          "key": "2023011802200077500_ref3",
+          "first-page": "404",
+          "article-title": "Treatment algorithm for patients with non-arthritic hip pain, suspect for an intraarticular pathology",
+          "volume": "2016;10",
+          "author": "Jørgensen",
+          "journal-title": "Open Orthop J."
+        },
+        {
+          "key": "2023011802200077500_ref4",
+          "doi-asserted-by": "crossref",
+          "first-page": "276",
+          "DOI": "10.4085/1062-6050-33-18",
+          "article-title": "Evidence for reliability and validity of functional performance testing in the evaluation of nonarthritic hip pain",
+          "volume": "54",
+          "author": "McGovern",
+          "year": "2019",
+          "journal-title": "J Athl Train."
+        },
+        {
+          "key": "2023011802200077500_ref5",
+          "doi-asserted-by": "crossref",
+          "first-page": "135",
+          "DOI": "10.26603/ijspt20190135",
+          "article-title": "Non-operative management of individuals with non-arthritic hip pain: a literature review",
+          "volume": "14",
+          "author": "McGovern",
+          "year": "2019",
+          "journal-title": "Int J Sport Phys Ther."
+        },
+        {
+          "key": "2023011802200077500_ref6",
+          "doi-asserted-by": "crossref",
+          "first-page": "526",
+          "DOI": "10.26603/ijspt20180526",
+          "article-title": "Evidence-based procedures for performing the single leg squat and step-down tests in evaluation of non-arthritic hip pain: a literature review",
+          "volume": "13",
+          "author": "McGovern",
+          "year": "2018",
+          "journal-title": "Int J Sport Phys Ther."
+        },
+        {
+          "key": "2023011802200077500_ref7",
+          "doi-asserted-by": "crossref",
+          "first-page": "220",
+          "DOI": "10.1093/jhps/hny013",
+          "article-title": "Efficacy of a non-image-guided diagnostic hip injection in patients with clinical and radiographic evidence of intra-articular hip pathology",
+          "volume": "5",
+          "author": "Kraeutler",
+          "year": "2018",
+          "journal-title": "J Hip Preserv Surg."
+        },
+        {
+          "key": "2023011802200077500_ref8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1605",
+          "DOI": "10.1136/bjsports-2016-096936",
+          "article-title": "Surgical criteria for femoroacetabular impingement syndrome: a scoping review",
+          "volume": "51",
+          "author": "Peters",
+          "year": "2017",
+          "journal-title": "Br J Sport Med."
+        },
+        {
+          "key": "2023011802200077500_ref9",
+          "doi-asserted-by": "crossref",
+          "first-page": "1169",
+          "DOI": "10.1136/bjsports-2016-096743",
+          "article-title": "The Warwick agreement on femoroacetabular impingement syndrome (FAI syndrome): an international consensus statement",
+          "volume": "50",
+          "author": "Griffin",
+          "year": "2016",
+          "journal-title": "Br J Sport Med."
+        },
+        {
+          "key": "2023011802200077500_ref10",
+          "doi-asserted-by": "crossref",
+          "first-page": "1975",
+          "DOI": "10.1007/s00167-017-4484-z",
+          "article-title": "Important clinical descriptors to include in the examination and assessment of patients with femoroacetabular impingement syndrome: an international and multi-disciplinary Delphi survey",
+          "volume": "25",
+          "author": "Reiman",
+          "year": "2017",
+          "journal-title": "Knee Surg Sport Traumatol Arthrosc."
+        },
+        {
+          "key": "2023011802200077500_ref11",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.5435/JAAOS-D-18-00041",
+          "article-title": "Best practice guidelines for hip arthroscopy in femoroacetabular impingement: results of a Delphi process",
+          "author": "Lynch",
+          "year": "2020",
+          "journal-title": "J Am Acad Orthop Surg."
+        },
+        {
+          "key": "2023011802200077500_ref12",
+          "doi-asserted-by": "crossref",
+          "first-page": "750",
+          "DOI": "10.1016/j.arth.2016.09.004",
+          "article-title": "Trends in utilization and outcomes of hip arthroscopy in the United States between 2005 and 2013",
+          "volume": "32",
+          "author": "Maradit Kremers",
+          "year": "2017",
+          "journal-title": "J Arthroplasty."
+        },
+        {
+          "key": "2023011802200077500_ref13",
+          "first-page": "140",
+          "article-title": "Trends in hip arthroscopy utilization in the United States",
+          "volume": "2013;28",
+          "author": "Bozic",
+          "journal-title": "J Arthroplasty."
+        },
+        {
+          "key": "2023011802200077500_ref14",
+          "doi-asserted-by": "crossref",
+          "first-page": "2225",
+          "DOI": "10.1016/S0140-6736(18)31202-9",
+          "article-title": "Hip arthroscopy versus best conservative care for the treatment of femoroacetabular impingement syndrome (UK FASHIoN): a multicentre randomised controlled trial",
+          "volume": "391",
+          "author": "Griffin",
+          "year": "2018",
+          "journal-title": "Lancet."
+        },
+        {
+          "key": "2023011802200077500_ref15",
+          "doi-asserted-by": "crossref",
+          "first-page": "1306",
+          "DOI": "10.1177/0363546517751912",
+          "article-title": "Arthroscopic surgery or physical therapy for patients with femoroacetabular impingement syndrome: a randomized controlled trial with 2-year follow-up",
+          "volume": "46",
+          "author": "Mansell",
+          "year": "2018",
+          "journal-title": "Am J Sports Med."
+        },
+        {
+          "key": "2023011802200077500_ref16",
+          "doi-asserted-by": "crossref",
+          "first-page": "2325967115592844",
+          "DOI": "10.1177/2325967115592844",
+          "article-title": "Feasibility of a randomized clinical trial for treatment of femoroacetabular impingement of the hip",
+          "volume": "3",
+          "author": "Boye",
+          "year": "2015",
+          "journal-title": "Orthop J Sports Med."
+        },
+        {
+          "key": "2023011802200077500_ref17",
+          "doi-asserted-by": "crossref",
+          "first-page": "25",
+          "DOI": "10.1177/0272989X9501500105",
+          "article-title": "Validation of a decisional conflict scale",
+          "volume": "15",
+          "author": "O’Connor",
+          "year": "1995",
+          "journal-title": "Med Decis Making."
+        },
+        {
+          "key": "2023011802200077500_ref18",
+          "doi-asserted-by": "crossref",
+          "first-page": "844",
+          "DOI": "10.1016/j.arthro.2017.09.044",
+          "article-title": "Sex-dependent differences in preoperative, radiographic, and intraoperative characteristics of patients undergoing hip arthroscopy: results from the multicenter arthroscopic study of the hip group",
+          "volume": "34",
+          "author": "Salvo",
+          "year": "2018",
+          "journal-title": "Arthroscopy."
+        },
+        {
+          "key": "2023011802200077500_ref19"
+        },
+        {
+          "key": "2023011802200077500_ref20",
+          "doi-asserted-by": "crossref",
+          "first-page": "377",
+          "DOI": "10.1016/j.jbi.2008.08.010",
+          "article-title": "Research electronic data capture (REDCap)—a metadata-driven methodology and workflow process for providing translational research informatics support",
+          "volume": "42",
+          "author": "Harris",
+          "year": "2009",
+          "journal-title": "J Biomed Inform."
+        },
+        {
+          "key": "2023011802200077500_ref21",
+          "doi-asserted-by": "crossref",
+          "first-page": "1295",
+          "DOI": "10.1001/jama.2014.10186",
+          "article-title": "The connection between evidence-based medicine and shared decision making",
+          "volume": "312",
+          "author": "Hoffmann",
+          "year": "2014",
+          "journal-title": "JAMA."
+        },
+        {
+          "key": "2023011802200077500_ref22",
+          "doi-asserted-by": "crossref",
+          "first-page": "405",
+          "DOI": "10.1177/0194599815620558",
+          "article-title": "Shared decision making and choice for elective surgical care",
+          "volume": "154",
+          "author": "Boss",
+          "year": "2016",
+          "journal-title": "Otolaryngol Head Neck Surg."
+        },
+        {
+          "key": "2023011802200077500_ref23",
+          "doi-asserted-by": "crossref",
+          "first-page": "2325967115601030",
+          "DOI": "10.1177/2325967115601030",
+          "article-title": "Utility of intra-articular hip injections for femoroacetabular impingement: a systematic review",
+          "volume": "3",
+          "author": "Khan",
+          "year": "2015",
+          "journal-title": "Orthop J Sports Med."
+        },
+        {
+          "key": "2023011802200077500_ref24",
+          "doi-asserted-by": "crossref",
+          "first-page": "801",
+          "DOI": "10.1007/s00167-014-2883-y",
+          "article-title": "Pre-operative intra-articular hip injection as a predictor of short-term outcome following arthroscopic management of femoroacetabular impingement",
+          "volume": "22",
+          "author": "Ayeni",
+          "year": "2014",
+          "journal-title": "Knee Surg Sport Traumatol Arthrosc."
+        },
+        {
+          "key": "2023011802200077500_ref25",
+          "doi-asserted-by": "crossref",
+          "first-page": "1545",
+          "DOI": "10.1136/bjsports-2014-093707",
+          "article-title": "Patient reported outcome measures (PROMs) have arrived in sports and exercise medicine: why do they matter?",
+          "volume": "49",
+          "author": "Davis",
+          "year": "2015",
+          "journal-title": "Br J Sport Med."
+        },
+        {
+          "key": "2023011802200077500_ref26",
+          "doi-asserted-by": "crossref",
+          "first-page": "c186",
+          "DOI": "10.1136/bmj.c186",
+          "article-title": "The routine use of patient reported outcome measures in healthcare settings",
+          "volume": "340",
+          "author": "Dawson",
+          "year": "2010",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "2023011802200077500_ref27",
+          "doi-asserted-by": "crossref",
+          "first-page": "96",
+          "DOI": "10.1186/s40814-018-0289-1",
+          "article-title": "An alternative approach to implementing patient-reported outcome measures",
+          "volume": "4",
+          "author": "Gibbons",
+          "year": "2018",
+          "journal-title": "Pilot Feasibility Stud."
+        },
+        {
+          "key": "2023011802200077500_ref28",
+          "doi-asserted-by": "crossref",
+          "first-page": "254",
+          "DOI": "10.1097/BPO.0000000000000816",
+          "article-title": "Perioperative interdisciplinary intervention contributes to improved outcomes of adolescents treated with hip preservation surgery",
+          "volume": "38",
+          "author": "Richard",
+          "year": "2018",
+          "journal-title": "J Pediatr Orthop."
+        }
+      ],
+      "container-title": [
+        "Physical Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://academic.oup.com/ptj/advance-article-pdf/doi/10.1093/ptj/pzaa028/33383568/pzaa028.pdf",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://academic.oup.com/ptj/article-pdf/100/6/917/48746970/ptj_100_6_917.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://academic.oup.com/ptj/article-pdf/100/6/917/48746970/ptj_100_6_917.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            27
+          ]
+        ],
+        "date-time": "2023-09-27T01:05:29Z",
+        "timestamp": 1695776729000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://academic.oup.com/ptj/article/100/6/917/5775773"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2020,
+            3,
+            4
+          ]
+        ]
+      },
+      "references-count": 28,
+      "journal-issue": {
+        "issue": "6",
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              23
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1093/ptj/pzaa028",
+      "relation": {},
+      "ISSN": [
+        "0031-9023",
+        "1538-6724"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0031-9023"
+        },
+        {
+          "type": "electronic",
+          "value": "1538-6724"
+        }
+      ],
+      "subject": [],
+      "published-other": {
+        "date-parts": [
+          [
+            2020,
+            6
+          ]
+        ]
+      },
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            3,
+            4
+          ]
+        ]
+      }
+    }
+  }
+}

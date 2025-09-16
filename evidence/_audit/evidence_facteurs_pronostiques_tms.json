@@ -1,0 +1,838 @@
+{
+  "file": "evidence\\facteurs_pronostiques_tms.md",
+  "id": "evidence_facteurs_pronostiques_tms",
+  "doi": "10.3917/gmp.pr1.0012",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:09:18.341635Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            24
+          ]
+        ],
+        "date-time": "2025-06-24T09:27:12Z",
+        "timestamp": 1750757232092,
+        "version": "3.30.1"
+      },
+      "reference-count": 72,
+      "publisher": "CAIRN",
+      "issue": "5",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "abstract": "<jats:p>Les pouvoirs publics souhaitent tirer parti des perspectives offertes par le numérique en santé pour améliorer l’information et la prise en charge des patients tout en luttant contre les inégalités de santé dans les territoires. Cependant, en France, si au cours des quinze dernières années, cette transformation digitale du secteur de la santé s’est particulièrement développée, elle a aussi connu des résultats très variables et parfois encore assez décevants. Pour notamment renforcer et accélérer cette transformation digitale, de nombreux travaux ont décrit en détail les modalités et facteurs favorisant l’adoption et l’appropriation des outils et services numériques en santé. En revanche, beaucoup moins de travaux ont porté leur attention sur la phase de diffusion aux utilisateurs de ces outils et services alors qu’elle détermine significativement leur adoption et appropriation. Pour combler ce manque, à partir de la théorie de la diffusion des innovations, nous proposons d’analyser les modalités de diffusion à ses utilisateurs de l’outil « Mon espace santé » proposé et mis en œuvre par la Caisse nationale d’assurance maladie en France. À partir d’une participation observante au sein des équipes chargées de la diffusion de cet outil, nous décrivons les éléments de diffusion de cette innovation digitale (système social, innovation, canaux de communication, temps). Les résultats de cette analyse nous permettent, dans un premier temps, sur le plan théorique, de proposer un premier cadre d’analyse de la diffusion des innovations digitales en santé. L’application de ce cadre d’analyse nous autorise ensuite une caractérisation des modalités de diffusion de l’innovation digitale en santé « centrée sur l’usager » aux côtés de celles relatives à sa conception déjà très illustrées dans la littérature. Ces modalités sont décrites à travers les principales composantes de la diffusion de « Mon espace santé » (différents rôles de l’usager, canaux de communication utilisés et étapes de diffusion) et trois de ses principes directeurs (usager-acteur, État-plateforme, déploiement incitatif centré sur l’usager). Sur le plan pratique, ces composantes et principes de diffusion représentent autant de pistes d’amélioration de la diffusion des innovations digitales en santé dans le secteur public.</jats:p>",
+      "DOI": "10.3917/gmp.pr1.0012",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            4
+          ]
+        ],
+        "date-time": "2024-04-04T14:14:20Z",
+        "timestamp": 1712240060000
+      },
+      "page": "1f-21",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "La diffusion des outils et services e-santé auprès de leurs utilisateurs : l’exemple de « Mon espace santé » en France"
+      ],
+      "prefix": "10.3917",
+      "volume": "Pub. anticipées",
+      "author": [
+        {
+          "given": "Said",
+          "family": "Hayar",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Laurent",
+          "family": "Mériade",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "2273",
+      "published-online": {
+        "date-parts": [
+          [
+            2050,
+            4,
+            21
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "rb1",
+          "isbn-type": "print",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4135/9781412984973",
+          "volume-title": "Membership Roles in Field Research",
+          "author": "Adler Patricia",
+          "year": "1987",
+          "ISBN": "https://id.crossref.org/isbn/9780803925786",
+          "journal-title": ""
+        },
+        {
+          "key": "rb2",
+          "unstructured": "Akrich, M. (1991). L’analyse socio-technique. Dans D. Vinck, Gestion de la recherche. Bruxelles, De Boeck, pp. 339-353."
+        },
+        {
+          "key": "rb3",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Alcouffe, S. (2004). La diffusion et l’adoption des innovations managériales en comptabilité et contrôle de gestion : le cas de l’AFC en France. [Thèse de Doctorat, HEC Paris].",
+          "DOI": "10.3917/cca.093.0007"
+        },
+        {
+          "key": "rb4",
+          "doi-asserted-by": "publisher",
+          "first-page": "782-783",
+          "DOI": "10.1056/NEJMp1200070",
+          "article-title": "Defining “Patient-Centered Medicine”",
+          "volume": "366",
+          "author": "Bardes Charles L.",
+          "year": "2012",
+          "journal-title": "New England Journal of Medicine",
+          "ISSN": "https://id.crossref.org/issn/0028-4793",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb5",
+          "doi-asserted-by": "publisher",
+          "first-page": "null",
+          "DOI": "10.3389/fpsyg.2015.02013",
+          "article-title": "eHealth for Patient Engagement: A Systematic Review",
+          "volume": "6",
+          "author": "Barello Serena",
+          "year": "2016",
+          "journal-title": "Frontiers in Psychology",
+          "ISSN": "https://id.crossref.org/issn/1664-1078",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb6",
+          "doi-asserted-by": "publisher",
+          "first-page": "61",
+          "DOI": "10.2307/2393551",
+          "article-title": "The Alignment of Technology and Structure through Roles and Networks",
+          "volume": "35",
+          "author": "Barley Stephen R.",
+          "year": "1990",
+          "journal-title": "Administrative Science Quarterly",
+          "ISSN": "https://id.crossref.org/issn/0001-8392",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb7",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bastian, M. (2022). « Mon espace santé » : Quid novi sub socle ?. La Revue des droits de l’homme, mai 2022.",
+          "DOI": "10.4000/revdh.14658"
+        },
+        {
+          "key": "rb8",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bejean, M. ; Kletz, F. ; Moisdon, J.-C. (2018). Création de valeur organisationnelle et technologies de l’information à l’hôpital : le cas du dossier patient informatisé. Gestion et Management Public, 6(2), pp. 9-24.",
+          "DOI": "10.3917/gmp.064.0009"
+        },
+        {
+          "key": "rb9",
+          "doi-asserted-by": "publisher",
+          "first-page": "64-78",
+          "DOI": "10.1016/j.dss.2010.07.003",
+          "article-title": "A user-centered approach for the design and implementation of KDD-based DSS: A case study in the healthcare domain",
+          "volume": "50",
+          "author": "Ben Ayed Mounir",
+          "year": "2010",
+          "journal-title": "Decision Support Systems",
+          "ISSN": "https://id.crossref.org/issn/0167-9236",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb10",
+          "doi-asserted-by": "publisher",
+          "first-page": "75-82",
+          "DOI": "10.1089/tmj.2012.0328",
+          "article-title": "The Impact of Mobile Health Interventions on Chronic Disease Outcomes in Developing Countries: A Systematic Review",
+          "volume": "20",
+          "author": "Beratarrechea Andrea",
+          "year": "2014",
+          "journal-title": "Telemedicine and e-Health",
+          "ISSN": "https://id.crossref.org/issn/1530-5627",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb11",
+          "unstructured": "Beuve, J. ; Cristofini, O. ; Gimenez, J. ; Porcher, S. (2021). La transformation digitale du secteur public : atteindre les promesses et éviter les désillusions. Policy Paper 5, Chaire Economie des Partenariats Public-Privé, IAE Paris."
+        },
+        {
+          "key": "rb12",
+          "unstructured": "Babinet, O. ; Isnard Bagnis, C. (2020). La e-santé : QUÈSACO ?. Presses de l’EHES, « Débats Santé Social », pp. 21-33."
+        },
+        {
+          "key": "rb13",
+          "doi-asserted-by": "publisher",
+          "first-page": "60-66",
+          "DOI": "10.1089/tmj.2011.0076",
+          "article-title": "The Diffusion of Telehealth in Rural American Indian Communities: A Retrospective Survey of Key Stakeholders",
+          "volume": "18",
+          "author": "Brooks Elizabeth",
+          "year": "2012",
+          "journal-title": "Telemedicine and e-Health",
+          "ISSN": "https://id.crossref.org/issn/1530-5627",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb14",
+          "unstructured": "Chevallier, J. (2019). Les Nudges dans la modernisation de l’action publique. En ligne [URL : https://hal.archives-ouvertes.fr/hal-02056338]."
+        },
+        {
+          "key": "rb15",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chokshi, S.K. ; Mann, D.M. (2018). Innovating from within : a process model for user-centered digital development in academic medical centers. JMIR Human Factors, en ligne [URL : https://doi.org/10.2196/11048].",
+          "DOI": "10.2196/preprints.11048"
+        },
+        {
+          "key": "rb16",
+          "unstructured": "CNAM (2021). Dossier d’information : Réussir Ensemble Mon espace santé, 29 avril."
+        },
+        {
+          "key": "rb17",
+          "unstructured": "CNAM (2022a). Lettre-Réseau, LR-DDGOS-15/2022, 24 février."
+        },
+        {
+          "key": "rb18",
+          "unstructured": "CNAM (2022b). Support COPIL – Mon espace santé, novembre."
+        },
+        {
+          "key": "rb20",
+          "unstructured": "Cour des Comptes (2018). Rapport public annuel, tome 2. Les services publics numériques en santé. Paris."
+        },
+        {
+          "key": "rb19",
+          "unstructured": "Cour des Comptes (2013). Rapport public annuel 2013, tome 2. Les téléservices publics de santé : un pilotage toujours insuffisant. La Documentation française, février, pp. 163-188, en ligne [URL : www.ccomptes.fr]."
+        },
+        {
+          "key": "rb22",
+          "doi-asserted-by": "publisher",
+          "first-page": "982-1003",
+          "DOI": "10.1287/mnsc.35.8.982",
+          "article-title": "User Acceptance of Computer Technology: A Comparison of Two Theoretical Models",
+          "volume": "35",
+          "author": "Davis Fred D.",
+          "year": "1989",
+          "journal-title": "Management Science",
+          "ISSN": "https://id.crossref.org/issn/0025-1909",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb23",
+          "unstructured": "De Bovis-Vlahovic, C. ; Chapuis, S.M. (2016). Everett Mitchell Rogers-Cultiver la diffusion des innovations. Éditions EMS."
+        },
+        {
+          "key": "rb24",
+          "doi-asserted-by": "publisher",
+          "first-page": "335-344",
+          "DOI": "10.2147/JMDH.S103881",
+          "article-title": "Adoption of e-health technology by physicians: a scoping review",
+          "volume": "Volume 9",
+          "author": "de Grood Chloe",
+          "year": "2016",
+          "journal-title": "Journal of Multidisciplinary Healthcare",
+          "ISSN": "https://id.crossref.org/issn/1178-2390",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb25",
+          "doi-asserted-by": "publisher",
+          "first-page": "159-176",
+          "DOI": "10.1093/ppmgov/gvy001",
+          "article-title": "The Diffusion and Adoption of Public Sector Innovations: A Meta-Synthesis of the Literature",
+          "volume": "1",
+          "author": "de Vries Hanna",
+          "year": "2018",
+          "journal-title": "Perspectives on Public Management and Governance",
+          "ISSN": "https://id.crossref.org/issn/2398-4910",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb26",
+          "unstructured": "Dubreuil, M. (2019). E-santé : décryptage des pratiques et des enjeux.Observatoire régional de Santé, Île-de-France."
+        },
+        {
+          "key": "rb27",
+          "doi-asserted-by": "publisher",
+          "first-page": "9-37",
+          "DOI": "10.3917/sim.171.0009",
+          "article-title": "L’e-santé rend-elle la démocratie sanitaire pleinement performative ?",
+          "volume": "Volume 22",
+          "author": "Dumez Hervé",
+          "year": "2017",
+          "journal-title": "Systèmes d'information & management",
+          "ISSN": "https://id.crossref.org/issn/1260-4984",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb28",
+          "doi-asserted-by": "publisher",
+          "first-page": "104547",
+          "DOI": "10.1016/j.ijmedinf.2021.104547",
+          "article-title": "User-centered requirements engineering to manage the fuzzy front-end of open innovation in e-health: A study on support systems for seniors’ physical activity",
+          "volume": "154",
+          "author": "Ehn Maria",
+          "year": "2021",
+          "journal-title": "International Journal of Medical Informatics",
+          "ISSN": "https://id.crossref.org/issn/1386-5056",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb29",
+          "doi-asserted-by": "publisher",
+          "first-page": "135-136",
+          "DOI": "10.3917/jgem.174.0135",
+          "article-title": "La e-santé : menaces ou opportunités pour les organisations de santé ?",
+          "volume": "Vol. 35",
+          "author": "Franchistéguy-Couloume Isabelle",
+          "year": "2018",
+          "journal-title": "Journal de gestion et d'économie médicales",
+          "ISSN": "https://id.crossref.org/issn/2262-5305",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb30",
+          "doi-asserted-by": "publisher",
+          "first-page": "a1786-a1786",
+          "DOI": "10.1136/bmj.a1786",
+          "article-title": "Introduction of shared electronic records: multi-site case study using diffusion of innovation theory",
+          "volume": "337",
+          "author": "Greenhalgh T.",
+          "year": "2008",
+          "journal-title": "BMJ",
+          "ISSN": "https://id.crossref.org/issn/0959-8138",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb31",
+          "doi-asserted-by": "publisher",
+          "first-page": "127-141",
+          "DOI": "10.1016/j.anclin.2017.10.009",
+          "article-title": "Diffusing Innovation and Best Practice in Health Care",
+          "volume": "36",
+          "author": "Greilich Philip E.",
+          "year": "2018",
+          "journal-title": "Anesthesiology Clinics",
+          "ISSN": "https://id.crossref.org/issn/1932-2275",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb32",
+          "doi-asserted-by": "publisher",
+          "first-page": "null",
+          "DOI": "10.1186/1472-6963-13-19",
+          "article-title": "Implementation factors and their effect on e-Health service adoption in rural communities: a systematic literature review",
+          "volume": "13",
+          "author": "Hage Eveline",
+          "year": "2013",
+          "journal-title": "BMC Health Services Research",
+          "ISSN": "https://id.crossref.org/issn/1472-6963",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb33",
+          "isbn-type": "print",
+          "doi-asserted-by": "publisher",
+          "first-page": "1-7",
+          "DOI": "10.1109/IC2IE50715.2020.9274623",
+          "article-title": "User-Centered Design of e-Learning User Interfaces: A Survey of the Practices",
+          "author": "Hasani Lintang Matahari",
+          "year": "2020",
+          "ISBN": "https://id.crossref.org/isbn/9781728182452",
+          "journal-title": "2020 3rd International Conference on Computer and Informatics Engineering (IC2IE)"
+        },
+        {
+          "key": "rb34",
+          "unstructured": "Hashim, N.H. ; Jones, M.L. (2007).Activity Theory : A Framework For Qualitative Analysis. 100."
+        },
+        {
+          "key": "rb35",
+          "doi-asserted-by": "publisher",
+          "first-page": "null",
+          "DOI": "10.1186/1741-7015-12-37",
+          "article-title": "Personalized medicine: risk prediction, targeted therapies and mobile health technology",
+          "volume": "12",
+          "author": "Hayes Daniel F",
+          "year": "2014",
+          "journal-title": "BMC Medicine",
+          "ISSN": "https://id.crossref.org/issn/1741-7015",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb36",
+          "doi-asserted-by": "publisher",
+          "first-page": "e18500",
+          "DOI": "10.2196/18500",
+          "article-title": "Theories Informing eHealth Implementation: Systematic Review and Typology Classification",
+          "volume": "23",
+          "author": "Heinsch Milena",
+          "year": "2021",
+          "journal-title": "Journal of Medical Internet Research",
+          "ISSN": "https://id.crossref.org/issn/1438-8871",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb37",
+          "isbn-type": "print",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4135/9781412985376",
+          "volume-title": "Participant Observation",
+          "author": "Jorgensen Danny",
+          "year": "1989",
+          "ISBN": "https://id.crossref.org/isbn/9780803928770",
+          "journal-title": ""
+        },
+        {
+          "key": "rb38",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Kaptelinin, V. ; Nardi, B. (2017)Activity Theory as a Framework for Human-Technology Interaction Research.25, pp. 1-3.",
+          "DOI": "10.1080/10749039.2017.1393089"
+        },
+        {
+          "key": "rb39",
+          "doi-asserted-by": "publisher",
+          "first-page": "205520761987142",
+          "DOI": "10.1177/2055207619871425",
+          "article-title": "Factors influencing adoption of eHealth technologies in Ghana",
+          "volume": "5",
+          "author": "Kesse-Tachi Agyenna",
+          "year": "2019",
+          "journal-title": "DIGITAL HEALTH",
+          "ISSN": "https://id.crossref.org/issn/2055-2076",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb40",
+          "unstructured": "Kline, S. ; Rosenberg, N. (1986). An overview of innovation. Dans R. Landau ; N. Rosemberg (eds),The positive Sum Strategy : Harnessing Technology for Economic Growth. Washington DC : National AcademicPress."
+        },
+        {
+          "key": "rb41",
+          "doi-asserted-by": "publisher",
+          "first-page": "13",
+          "DOI": "10.7202/1084620ar",
+          "article-title": "La participation observante en sciences de la gestion : plaidoyer pour une utilisation accrue",
+          "volume": "32",
+          "author": "Lalonde Jean-François",
+          "year": "2013",
+          "journal-title": "Recherches qualitatives",
+          "ISSN": "https://id.crossref.org/issn/1715-8702",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb42",
+          "doi-asserted-by": "publisher",
+          "first-page": "601-614",
+          "DOI": "10.1353/aiq.2000.0020",
+          "article-title": "Authoritative Texts, Collaborative Ethnography, and Native American Studies",
+          "volume": "24",
+          "author": "Lassiter Luke E.",
+          "year": "2000",
+          "journal-title": "The American Indian Quarterly",
+          "ISSN": "https://id.crossref.org/issn/1534-1828",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb43",
+          "doi-asserted-by": "publisher",
+          "first-page": "48-67",
+          "DOI": "10.3138/cjpe.43101",
+          "article-title": "Évaluation du processus d’implantation de l’approche axée sur les forces, en s’appuyant sur la théorie de la diffusion de l’innovation",
+          "volume": "34",
+          "author": "Leblanc Line",
+          "year": "2019",
+          "journal-title": "Canadian Journal of Program Evaluation",
+          "ISSN": "https://id.crossref.org/issn/0834-1516",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb44",
+          "doi-asserted-by": "publisher",
+          "first-page": "231-238",
+          "DOI": "10.1016/j.apnr.2004.09.001",
+          "article-title": "Nurses’ adoption of technology: Application of Rogers’ innovation-diffusion model",
+          "volume": "17",
+          "author": "Lee Ting-Ting",
+          "year": "2004",
+          "journal-title": "Applied Nursing Research",
+          "ISSN": "https://id.crossref.org/issn/0897-1897",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb45",
+          "doi-asserted-by": "publisher",
+          "first-page": "121195",
+          "DOI": "10.1016/j.techfore.2021.121195",
+          "article-title": "Smart territories and IoT adoption by local authorities: A question of trust, efficiency, and relationship with the citizen-user-taxpayer.",
+          "volume": "174",
+          "author": "Leroux Erick",
+          "year": "2022",
+          "journal-title": "Technological Forecasting and Social Change",
+          "ISSN": "https://id.crossref.org/issn/0040-1625",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb46",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lin, C.P. ; Guirguis-Blake, J. ; Keppel, G.A. ; Dobie, S. ; Osborn, J. ; Cole, A.M.et al., (2015). Using the diffusion of innovations theory to assess socio-technical factors in planning the implementation of an electronic health record alert across multiple primary care clinics.J Innov Health Inform ; 23(1), pp. 450-458.",
+          "DOI": "10.14236/jhi.v23i1.157"
+        },
+        {
+          "key": "rb47",
+          "doi-asserted-by": "publisher",
+          "first-page": "3",
+          "DOI": "10.1001/jamapsychiatry.2018.3060",
+          "article-title": "User-Centered Redesign of Evidence-Based Psychosocial Interventions to Enhance Implementation—Hospitable Soil or Better Seeds?",
+          "volume": "76",
+          "author": "Lyon Aaron R.",
+          "year": "2019",
+          "journal-title": "JAMA Psychiatry",
+          "ISSN": "https://id.crossref.org/issn/2168-622X",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb48",
+          "unstructured": "Lux, G. (2013).Adoption et usage (s) des outils de gestion par les directeurs d’établissement et services médico-sociaux : état des lieux et facteurs explicatifs. [Thèse de Doctorat, Université Rennes 1]."
+        },
+        {
+          "key": "rb49",
+          "doi-asserted-by": "publisher",
+          "first-page": "null",
+          "DOI": "10.1038/s41746-019-0088-y",
+          "article-title": "Building digital innovation capacity at a large academic medical center",
+          "volume": "2",
+          "author": "Mann Devin M.",
+          "year": "2019",
+          "journal-title": "npj Digital Medicine",
+          "ISSN": "https://id.crossref.org/issn/2398-6352",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb50",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Mériade, L. (2018). Financement et territorialisation des établissements de santé français : une relation dissymétrique.Revue d’économie financière, 132, pp. 197-214, en ligne [URL : https://doi.org/10.3917/ecofi.132.0197].",
+          "DOI": "10.3917/ecofi.132.0197"
+        },
+        {
+          "key": "rb51",
+          "doi-asserted-by": "publisher",
+          "first-page": "13-42",
+          "DOI": "10.3917/mav.108.0013",
+          "article-title": "L’hybridation des instruments de gestion. L’exemple du pilotage de la performance universitaire en France",
+          "volume": "N° 108",
+          "author": "Mériade Laurent",
+          "year": "2019",
+          "journal-title": "Management & Avenir",
+          "ISSN": "https://id.crossref.org/issn/1768-5958",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb52",
+          "doi-asserted-by": "publisher",
+          "first-page": "706-725",
+          "DOI": "10.1108/JOSM-04-2015-0136",
+          "article-title": "Service appropriation: how do customers make the service their own?",
+          "volume": "26",
+          "author": "Mifsud Matthieu",
+          "year": "2015",
+          "journal-title": "Journal of Service Management",
+          "ISSN": "https://id.crossref.org/issn/1757-5818",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb53",
+          "doi-asserted-by": "publisher",
+          "first-page": "8-20",
+          "DOI": "10.1016/j.ijmedinf.2016.05.006",
+          "article-title": "Service providers’ experiences of using a telehealth network 12 months after digitisation of a large Australian rural mental health service",
+          "volume": "94",
+          "author": "Newman Lareen",
+          "year": "2016",
+          "journal-title": "International Journal of Medical Informatics",
+          "ISSN": "https://id.crossref.org/issn/1386-5056",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb55",
+          "doi-asserted-by": "crossref",
+          "unstructured": "O’Reilly, T. (2011). Governance as a Platform.Innovations : Technology, Governance, Globalization, 6(1), pp. 13-40.",
+          "DOI": "10.1162/INOV_a_00056"
+        },
+        {
+          "key": "rb56",
+          "doi-asserted-by": "publisher",
+          "first-page": "404-428",
+          "DOI": "10.1287/orsc.11.4.404.14600",
+          "article-title": "Using Technology and Constituting Structures: A Practice Lens for Studying Technology in Organizations",
+          "volume": "11",
+          "author": "Orlikowski Wanda J.",
+          "year": "2000",
+          "journal-title": "Organization Science",
+          "ISSN": "https://id.crossref.org/issn/1047-7039",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb57",
+          "doi-asserted-by": "publisher",
+          "first-page": "236-249",
+          "DOI": "10.1093/inthealth/ihab035",
+          "article-title": "Assessing E-Health adoption readiness using diffusion of innovation theory and the role mediated by each adopter's category in a Mauritian context",
+          "volume": "14",
+          "author": "Putteeraj Manish",
+          "year": "2022",
+          "journal-title": "International Health",
+          "ISSN": "https://id.crossref.org/issn/1876-3413",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb58",
+          "unstructured": "Rizoulieres, R. (2016). E-santé : la médecine à l’ère du numérique.Science & Santé, 29, janvier-février 2016."
+        },
+        {
+          "key": "rb59",
+          "doi-asserted-by": "publisher",
+          "first-page": "324-328",
+          "DOI": "10.1016/S1070-3241(16)30155-9",
+          "article-title": "Lessons for Guidelines from the Diffusion of Innovations",
+          "volume": "21",
+          "author": "Rogers Everett M.",
+          "year": "1995",
+          "journal-title": "The Joint Commission Journal on Quality Improvement",
+          "ISSN": "https://id.crossref.org/issn/1070-3241",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb60",
+          "unstructured": "Rogers, E.M. (2003).Diffusion of innovations. Toronto, Free Press (5th ed.)."
+        },
+        {
+          "key": "rb63",
+          "doi-asserted-by": "publisher",
+          "first-page": "e006773-e006773",
+          "DOI": "10.1136/bmjopen-2014-006773",
+          "article-title": "Exploring the challenges of implementing e-health: a protocol for an update of a systematic review of reviews",
+          "volume": "5",
+          "author": "Ross J.",
+          "year": "2015",
+          "journal-title": "BMJ Open",
+          "ISSN": "https://id.crossref.org/issn/2044-6055",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb64",
+          "doi-asserted-by": "publisher",
+          "first-page": "S58-S64",
+          "DOI": "10.1007/s11606-006-0276-8",
+          "article-title": "Strategies for promoting organizational and practice change by advancing implementation research",
+          "volume": "21",
+          "author": "Rubenstein Lisa V.",
+          "year": "2006",
+          "journal-title": "Journal of General Internal Medicine",
+          "ISSN": "https://id.crossref.org/issn/0884-8734",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb65",
+          "unstructured": "Safon, M.O. (2021).Loi Ségur visant à améliorer le système de santé par la confiance et la simplification. Synthèse documentaire, Irdes."
+        },
+        {
+          "key": "rb66",
+          "doi-asserted-by": "publisher",
+          "first-page": "123-144",
+          "DOI": "10.3917/maorg.038.0123",
+          "article-title": "La e-santé et le patient 2.0 : la colonisation démocratique !",
+          "volume": "n° 38",
+          "author": "Sebai Jihane",
+          "year": "2020",
+          "journal-title": "Marché et organisations",
+          "ISSN": "https://id.crossref.org/issn/1953-6119",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb67",
+          "doi-asserted-by": "publisher",
+          "first-page": "e11032",
+          "DOI": "10.2196/11032",
+          "article-title": "New Integrated Model Approach to Understand the Factors That Drive Electronic Health Record Portal Adoption: Cross-Sectional National Survey",
+          "volume": "20",
+          "author": "Tavares Jorge",
+          "year": "2018",
+          "journal-title": "Journal of Medical Internet Research",
+          "ISSN": "https://id.crossref.org/issn/1438-8871",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb68",
+          "doi-asserted-by": "publisher",
+          "first-page": "765-771",
+          "DOI": "10.1176/appi.ps.201100430",
+          "article-title": "Advances in Fidelity Measurement for Mental Health Services Research: Four Measures",
+          "volume": "63",
+          "author": "Teague Gregory B.",
+          "year": "2012",
+          "journal-title": "Psychiatric Services",
+          "ISSN": "https://id.crossref.org/issn/1075-2730",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb70",
+          "doi-asserted-by": "publisher",
+          "first-page": "null",
+          "DOI": "10.3389/fpsyg.2015.02052",
+          "article-title": "Being Present in Action: A Theoretical Model About the “Interlocking” Between Intentions and Environmental Affordances",
+          "volume": "6",
+          "author": "Triberti Stefano",
+          "year": "2016",
+          "journal-title": "Frontiers in Psychology",
+          "ISSN": "https://id.crossref.org/issn/1664-1078",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb71",
+          "doi-asserted-by": "publisher",
+          "first-page": "81-92",
+          "DOI": "10.1016/j.healthpol.2003.09.007",
+          "article-title": "Adoption of innovations by specialised nurses: personal, work and organisational characteristics",
+          "volume": "68",
+          "author": "van der Weide Marian",
+          "year": "2004",
+          "journal-title": "Health Policy",
+          "ISSN": "https://id.crossref.org/issn/0168-8510",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb72",
+          "doi-asserted-by": "publisher",
+          "first-page": "null",
+          "DOI": "10.1038/s41746-018-0053-1",
+          "article-title": "Agile research to complement agile development: a proposal for an mHealth research lifecycle",
+          "volume": "1",
+          "author": "Wilson Kumanan",
+          "year": "2018",
+          "journal-title": "npj Digital Medicine",
+          "ISSN": "https://id.crossref.org/issn/2398-6352",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb73",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Woodward, A. ; Fyfe, M. ; Handuleh, J.et al.(2014). Diffusion of e-health innovations in « post-conflict » settings : a qualitative study on the personal experiences of health workers.Hum Resour Health, 12, p. 22, en ligne [URL : https://doi.org/10.1186/1478-4491-12-22].",
+          "DOI": "10.1186/1478-4491-12-22"
+        },
+        {
+          "key": "rb74",
+          "doi-asserted-by": "publisher",
+          "first-page": "null",
+          "DOI": "10.1186/s12913-015-0726-2",
+          "article-title": "Using diffusion of innovation theory to understand the factors impacting patient acceptance and use of consumer e-health innovations: a case study in a primary care clinic",
+          "volume": "15",
+          "author": "Zhang Xiaojun",
+          "year": "2015",
+          "journal-title": "BMC Health Services Research",
+          "ISSN": "https://id.crossref.org/issn/1472-6963",
+          "issn-type": "print"
+        },
+        {
+          "key": "rb61",
+          "unstructured": "Rogers, E.M. ; Singhal, A. ; Quinlan, M.M. (2014). Diffusion of innovations.An integrated approach to communication theory and research, Routledge, pp. 432-448."
+        },
+        {
+          "key": "rb62",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Rosenberg, N. (1982).Inside the black box : technology and economics. Cambridge : Cambridge University Press.",
+          "DOI": "10.1017/CBO9780511611940"
+        },
+        {
+          "key": "rb69",
+          "unstructured": "Topol, E.J. (2012).The creative destruction of medicine : How the digital revolution will create better health care. New York, Basic Books."
+        }
+      ],
+      "container-title": [
+        "Gestion et management public"
+      ],
+      "original-title": [],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            3
+          ]
+        ],
+        "date-time": "2024-05-03T08:21:01Z",
+        "timestamp": 1714724461000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.cairn.info/revue-gestion-et-management-public-2024-5-page-1f.htm?ref=doi"
+        }
+      },
+      "subtitle": [
+        ""
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2050,
+            4,
+            21
+          ]
+        ]
+      },
+      "references-count": 72,
+      "journal-issue": {
+        "issue": "5",
+        "published-online": {
+          "date-parts": [
+            [
+              2050,
+              4,
+              21
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.3917/gmp.pr1.0012",
+      "relation": {},
+      "ISSN": [
+        "2116-8865"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2116-8865"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2050,
+            4,
+            21
+          ]
+        ]
+      }
+    }
+  }
+}

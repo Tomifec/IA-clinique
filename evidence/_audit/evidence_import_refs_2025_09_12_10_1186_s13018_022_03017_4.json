@@ -1,0 +1,836 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_s13018_022_03017_4.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_s13018_022_03017_4",
+  "doi": "10.1186/s13018-022-03017-4",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:14.002191Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            10
+          ]
+        ],
+        "date-time": "2025-09-10T22:48:02Z",
+        "timestamp": 1757544482112
+      },
+      "reference-count": 48,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                3,
+                3
+              ]
+            ],
+            "date-time": "2022-03-03T00:00:00Z",
+            "timestamp": 1646265600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                3,
+                3
+              ]
+            ],
+            "date-time": "2022-03-03T00:00:00Z",
+            "timestamp": 1646265600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "J Orthop Surg Res"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>Frozen shoulder (FS) is a common progressive disorder that causes restricted motion and refractory pain undermining quality of life. Intra-articular hyaluronic acid (HA) injection is a widely adopted conservative therapy relieving symptomatic FS, whereas the effect of which were contradictory and unclear in current literatures. The aim of the present study is to investigate whether intra-articular HA administration facilitates symptomatic pain relief and functional improvements in patients diagnosed with shoulder FS.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>The PubMed, Embase, Cochrane Library electronic databases and Google scholar were searched, from inception to 15th Jan 2022. Randomized controlled trials (RCTs) comparing intra-articular HA administration with any other non-surgical treatment in patients with FS were included. Risk of bias was evaluated using the Cochrane risk-of-bias tool and meta-analyses were undertaken to pool the data of visual analog scale for pain, range of motion (ROM) in external rotation, abduction, and flexion, as well as Shoulder Pain and Disability Index (SPADI), Constant score and American Shoulder and Elbow Surgeons (ASES).</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>The present study included 7 RCTs involving 504 patients. The results provided no support for superior pain control in patients undergoing HA injection compared with any other treatment (<jats:italic>p</jats:italic> = 0.75). Furthermore, HA group failed to exert superior improvements to other treatments in ROM concerning abduction (<jats:italic>p</jats:italic> = 0.69) and flexion (<jats:italic>p</jats:italic> = 0.33). However, HA injection was observed to facilitate functional recovery in external rotation (<jats:italic>p</jats:italic> = 0.003). In addition, the pooled data showed a significant higher SPADI score in control group than in HA group (<jats:italic>p</jats:italic> = 0.01), while no statistical significance between two groups was observed in Constant score (<jats:italic>p</jats:italic> = 0.36) and ASES (<jats:italic>p</jats:italic> = 0.76).</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>The current meta-analysis suggested that HA is a beneficial treatment procedure in improving the ROM of the shoulder for patients with FS, whereas the effect in relieving pain may be equal to the existing therapy. In conclusion, Intra-articular HA injection is recommended for FS patients.</jats:p>\n              </jats:sec>",
+      "DOI": "10.1186/s13018-022-03017-4",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            3
+          ]
+        ],
+        "date-time": "2022-03-03T13:05:54Z",
+        "timestamp": 1646312754000
+      },
+      "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 18,
+      "title": [
+        "The Effect of Intra-articular Injection of Hyaluronic Acid in Frozen Shoulder: a Systematic Review and Meta-analysis of Randomized Controlled Trials"
+      ],
+      "prefix": "10.1186",
+      "volume": "17",
+      "author": [
+        {
+          "given": "BeiNi",
+          "family": "Mao",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Run",
+          "family": "Peng",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Zhong",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "KaiBo",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jian",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "WeiLi",
+          "family": "Fu",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            3
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "3017_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "59",
+          "DOI": "10.1097/00003086-198710000-00008",
+          "volume": "223",
+          "author": "RJ Neviaser",
+          "year": "1987",
+          "unstructured": "Neviaser RJ, Neviaser TJ. The frozen shoulder. Diagnosis and management. Clin Orthop Relat Res. 1987;223:59–64.",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "issue": "7530",
+          "key": "3017_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "1453",
+          "DOI": "10.1136/bmj.331.7530.1453",
+          "volume": "331",
+          "author": "R Dias",
+          "year": "2005",
+          "unstructured": "Dias R, Cutts S, Massoud S. Frozen shoulder. BMJ. 2005;331(7530):1453–6. https://doi.org/10.1136/bmj.331.7530.1453.",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "4",
+          "key": "3017_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "276",
+          "DOI": "10.11138/mltj/2015.5.4.276",
+          "volume": "5",
+          "author": "TA Kwaees",
+          "year": "2015",
+          "unstructured": "Kwaees TA, Charalambous CP. Rates of surgery for frozen shoulder: an experience in England. Muscles Ligaments Tendons J. 2015;5(4):276–9. https://doi.org/10.11138/mltj/2015.5.4.276.",
+          "journal-title": "Muscles Ligaments Tendons J"
+        },
+        {
+          "issue": "12",
+          "key": "3017_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "e544",
+          "DOI": "10.5435/jaaos-d-17-00606",
+          "volume": "27",
+          "author": "LH Redler",
+          "year": "2019",
+          "unstructured": "Redler LH, Dennis ER. Treatment of adhesive capsulitis of the shoulder. J Am Acad Orthop Surg. 2019;27(12):e544–54. https://doi.org/10.5435/jaaos-d-17-00606.",
+          "journal-title": "J Am Acad Orthop Surg"
+        },
+        {
+          "issue": "4",
+          "key": "3017_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "193",
+          "DOI": "10.3109/03009747509165255",
+          "volume": "4",
+          "author": "B Reeves",
+          "year": "1975",
+          "unstructured": "Reeves B. The natural history of the frozen shoulder syndrome. Scand J Rheumatol. 1975;4(4):193–6. https://doi.org/10.3109/03009747509165255.",
+          "journal-title": "Scand J Rheumatol"
+        },
+        {
+          "key": "3017_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "65",
+          "DOI": "10.2174/1874325001711010065",
+          "volume": "11",
+          "author": "D Georgiannos",
+          "year": "2017",
+          "unstructured": "Georgiannos D, Markopoulos G, Devetzi E, Bisbinas I. Adhesive capsulitis of the shoulder. Is there consensus regarding the treatment? A Comprehensive Review. Open Orthop J. 2017;11:65–76. https://doi.org/10.2174/1874325001711010065.",
+          "journal-title": "Open Orthop J."
+        },
+        {
+          "issue": "4",
+          "key": "3017_CR7",
+          "first-page": "417",
+          "volume": "83",
+          "author": "A Ewald",
+          "year": "2011",
+          "unstructured": "Ewald A. Adhesive capsulitis: a review. Am Fam Physician. 2011;83(4):417–22.",
+          "journal-title": "Am Fam Physician"
+        },
+        {
+          "issue": "1",
+          "key": "3017_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "111",
+          "DOI": "10.1093/bmb/ldy025",
+          "volume": "127",
+          "author": "UG Longo",
+          "year": "2018",
+          "unstructured": "Longo UG, Ciuffreda M, Locher J, Buchmann S, Maffulli N, Denaro V. The effectiveness of conservative and surgical treatment for shoulder stiffness: a systematic review of current literature. Br Med Bull. 2018;127(1):111–43. https://doi.org/10.1093/bmb/ldy025.",
+          "journal-title": "Br Med Bull"
+        },
+        {
+          "issue": "4",
+          "key": "3017_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "420",
+          "DOI": "10.32098/mltj.04.2014.05",
+          "volume": "4",
+          "author": "TA Kwaees",
+          "year": "2014",
+          "unstructured": "Kwaees TA, Charalambous CP. Surgical and non-surgical treatment of frozen shoulder. Survey on surgeons treatment preferences. Muscles Ligaments Tendons J. 2014;4(4):420–4.",
+          "journal-title": "Muscles Ligaments Tendons J"
+        },
+        {
+          "issue": "1",
+          "key": "3017_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "24",
+          "DOI": "10.32098/mltj.01.2020.04",
+          "volume": "10",
+          "author": "E Cavalleri",
+          "year": "2020",
+          "unstructured": "Cavalleri E, Servadio A, Berardi A, Tofani M, Galeoto G. The effectiveness of physiotherapy in idiopathic or primary frozen shoulder: a systematic review and meta-analysis. Muscles Ligaments Tendons J. 2020;10(1):24–39. https://doi.org/10.32098/mltj.01.2020.04.",
+          "journal-title": "Muscles Ligaments Tendons J"
+        },
+        {
+          "key": "3017_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "285",
+          "DOI": "10.1097/00003086-199304000-00042",
+          "volume": "289",
+          "author": "H Iwata",
+          "year": "1993",
+          "unstructured": "Iwata H. Pharmacologic and clinical aspects of intraarticular injection of hyaluronate. Clin Orthop Relat Res. 1993;289:285–91.",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "issue": "9",
+          "key": "3017_CR12",
+          "first-page": "1579",
+          "volume": "23",
+          "author": "A Lussier",
+          "year": "1996",
+          "unstructured": "Lussier A, Cividino AA, McFarlane CA, Olszynski WP, Potashner WJ, De Médicis R. Viscosupplementation with hylan for the treatment of osteoarthritis: findings from clinical practice in Canada. J Rheumatol. 1996;23(9):1579–85.",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "issue": "5",
+          "key": "3017_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "946",
+          "DOI": "10.1016/0149-2918(95)80072-7",
+          "volume": "17",
+          "author": "M Itokazu",
+          "year": "1995",
+          "unstructured": "Itokazu M, Matsunaga T. Clinical evaluation of high-molecular-weight sodium hyaluronate for the treatment of patients with periarthritis of the shoulder. Clin Ther. 1995;17(5):946–55. https://doi.org/10.1016/0149-2918(95)80072-7.",
+          "journal-title": "Clin Ther"
+        },
+        {
+          "issue": "5",
+          "key": "3017_CR14",
+          "first-page": "521",
+          "volume": "10",
+          "author": "G Leardini",
+          "year": "1988",
+          "unstructured": "Leardini G, Perbellini A, Franceschini M, Mattara L. Intra-articular injections of hyaluronic acid in the treatment of painful shoulder. Clin Ther. 1988;10(5):521–6.",
+          "journal-title": "Clin Ther"
+        },
+        {
+          "issue": "4",
+          "key": "3017_CR15",
+          "first-page": "125",
+          "volume": "20",
+          "author": "G Rovetta",
+          "year": "1998",
+          "unstructured": "Rovetta G, Monteforte P. Intraarticular injection of sodium hyaluronate plus steroid versus steroid in adhesive capsulitis of the shoulder. Int J Tissue React. 1998;20(4):125–30.",
+          "journal-title": "Int J Tissue React"
+        },
+        {
+          "issue": "12",
+          "key": "3017_CR16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jamanetworkopen.2020.29581",
+          "volume": "3",
+          "author": "D Challoumas",
+          "year": "2020",
+          "unstructured": "Challoumas D, Biddle M, McLean M, Millar NL. Comparison of treatments for frozen shoulder: a systematic review and meta-analysis. JAMA Netw Open. 2020;3(12): e2029581. https://doi.org/10.1001/jamanetworkopen.2020.29581.",
+          "journal-title": "JAMA Netw Open"
+        },
+        {
+          "key": "3017_CR17",
+          "unstructured": "Higgins JPTGS. Cochrane handbook for systematic reviews of interventions (Version 5.1.0) 2011."
+        },
+        {
+          "key": "3017_CR18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.b2535",
+          "volume": "339",
+          "author": "D Moher",
+          "year": "2009",
+          "unstructured": "Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. BMJ. 2009;339: b2535. https://doi.org/10.1136/bmj.b2535.",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "3017_CR19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.d5928",
+          "volume": "343",
+          "author": "JP Higgins",
+          "year": "2011",
+          "unstructured": "Higgins JP, Altman DG, Gøtzsche PC, Jüni P, Moher D, Oxman AD, et al. The Cochrane Collaboration’s tool for assessing risk of bias in randomised trials. BMJ. 2011;343: d5928. https://doi.org/10.1136/bmj.d5928.",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "4",
+          "key": "3017_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "913",
+          "DOI": "10.3233/bmr-160641",
+          "volume": "30",
+          "author": "KH Kim",
+          "year": "2017",
+          "unstructured": "Kim KH, Suh JW, Oh KY. The effect of intra-articular hyaluronate and tramadol injection on patients with adhesive capsulitis of the shoulder. J Back Musculoskelet Rehabil. 2017;30(4):913–20. https://doi.org/10.3233/bmr-160641.",
+          "journal-title": "J Back Musculoskelet Rehabil"
+        },
+        {
+          "issue": "5",
+          "key": "3017_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "970",
+          "DOI": "10.2106/jbjs.f.01116",
+          "volume": "90",
+          "author": "T Blaine",
+          "year": "2008",
+          "unstructured": "Blaine T, Moskowitz R, Udell J, Skyhar M, Levin R, Friedlander J, et al. Treatment of persistent shoulder pain with sodium hyaluronate: a randomized, controlled trial. A multicenter study. J Bone Joint Surg Am. 2008;90(5):970–9. https://doi.org/10.2106/jbjs.f.01116.",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "issue": "2",
+          "key": "3017_CR22",
+          "first-page": "235",
+          "volume": "26",
+          "author": "K Tamai",
+          "year": "1999",
+          "unstructured": "Tamai K, Yamato M, Hamada J, Mashitori H, Saotome K. Response of frozen shoulder to intraarticular corticosteroid and hyaluronate: a quantitative assessment with dynamic magnetic resonance imaging. Dokkyo J Med Sci. 1999;26(2):235–41.",
+          "journal-title": "Dokkyo J Med Sci"
+        },
+        {
+          "key": "3017_CR23",
+          "first-page": "26",
+          "volume": "1",
+          "author": "SL Yadav",
+          "year": "2016",
+          "unstructured": "Yadav SL. Role of intra-articular hyaluronic acid in management of periarthritis shoulder. Pain Pract. 2016;1:26–7.",
+          "journal-title": "Pain Pract"
+        },
+        {
+          "issue": "7",
+          "key": "3017_CR24",
+          "first-page": "876",
+          "volume": "41",
+          "author": "E Fabbro",
+          "year": "2012",
+          "unstructured": "Fabbro E, Lacelli F, Ferrero G, Orlandi D, Sconfienza LM, Serafini G. Ultrasound-guided treatment of adhesive capsulitis (frozen shoulder) with intraarticular injection of mepivacaine and steroid VS hyaluronic acid (HA). Skeletal Radiol. 2012;41(7):876.",
+          "journal-title": "Skeletal Radiol"
+        },
+        {
+          "issue": "3",
+          "key": "3017_CR25",
+          "first-page": "953",
+          "volume": "32",
+          "author": "M Akhtar",
+          "year": "2019",
+          "unstructured": "Akhtar M, Nadeem RDA, Shah Gillani SF, Cheema OI, Nadeem MR. Comparison of intra articular NSAID (ketorolac) injection versus hyaluronic acid injection for the mean decrease of pain score (according to UCLA shoulder rating scale) in the management of adhesive capsulitis. Pak J Pharm Sci. 2019;32(3):953–6.",
+          "journal-title": "Pak J Pharm Sci"
+        },
+        {
+          "issue": "10",
+          "key": "3017_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "e860",
+          "DOI": "10.3928/01477447-20140924-51",
+          "volume": "37",
+          "author": "TK Lim",
+          "year": "2014",
+          "unstructured": "Lim TK, Koh KH, Shon MS, Lee SW, Park YE, Yoo JC. Intra-articular injection of hyaluronate versus corticosteroid in adhesive capsulitis. Orthopedics. 2014;37(10):e860–5. https://doi.org/10.3928/01477447-20140924-51.",
+          "journal-title": "Orthopedics"
+        },
+        {
+          "issue": "2",
+          "key": "3017_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "264",
+          "DOI": "10.1016/j.apmr.2012.10.002",
+          "volume": "94",
+          "author": "KD Park",
+          "year": "2013",
+          "unstructured": "Park KD, Nam HS, Lee JK, Kim YJ, Park Y. Treatment effects of ultrasound-guided capsular distension with hyaluronic acid in adhesive capsulitis of the shoulder. Arch Phys Med Rehabil. 2013;94(2):264–70. https://doi.org/10.1016/j.apmr.2012.10.002.",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "issue": "6",
+          "key": "3017_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "957",
+          "DOI": "10.1016/j.apmr.2012.01.021",
+          "volume": "93",
+          "author": "LF Hsieh",
+          "year": "2012",
+          "unstructured": "Hsieh LF, Hsu WC, Lin YJ, Chang HL, Chen CC, Huang V. Addition of intra-articular hyaluronate injection to physical therapy program produces no extra benefits in patients with adhesive capsulitis of the shoulder: a randomized controlled trial. Arch Phys Med Rehabil. 2012;93(6):957–64. https://doi.org/10.1016/j.apmr.2012.01.021.",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "issue": "6",
+          "key": "3017_CR29",
+          "doi-asserted-by": "publisher",
+          "first-page": "536",
+          "DOI": "10.1007/s00296-005-0022-2",
+          "volume": "26",
+          "author": "M Calis",
+          "year": "2006",
+          "unstructured": "Calis M, Demir H, Ulker S, Kirnap M, Duygulu F, Calis HT. Is intraarticular sodium hyaluronate injection an alternative treatment in patients with adhesive capsulitis? Rheumatol Int. 2006;26(6):536–40. https://doi.org/10.1007/s00296-005-0022-2.",
+          "journal-title": "Rheumatol Int"
+        },
+        {
+          "issue": "6",
+          "key": "3017_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "1091",
+          "DOI": "10.1016/j.jseint.2021.07.017",
+          "volume": "5",
+          "author": "SH Oh",
+          "year": "2021",
+          "unstructured": "Oh SH, Sung WS, Oh SH, Jo CH. Comparative analysis of intra-articular injection of steroid and/or sodium hyaluronate in adhesive capsulitis: prospective, double-blind, randomized, placebo-controlled study. JSES Int. 2021;5(6):1091–104. https://doi.org/10.1016/j.jseint.2021.07.017.",
+          "journal-title": "JSES Int"
+        },
+        {
+          "issue": "9",
+          "key": "3017_CR31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmjopen-2013-003452",
+          "volume": "3",
+          "author": "S Jones",
+          "year": "2013",
+          "unstructured": "Jones S, Hanchard N, Hamilton S, Rangan A. A qualitative study of patients’ perceptions and priorities when living with primary frozen shoulder. BMJ Open. 2013;3(9): e003452. https://doi.org/10.1136/bmjopen-2013-003452.",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "issue": "5",
+          "key": "3017_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "499",
+          "DOI": "10.1016/j.jse.2004.03.002",
+          "volume": "13",
+          "author": "RL Diercks",
+          "year": "2004",
+          "unstructured": "Diercks RL, Stevens M. Gentle thawing of the frozen shoulder: a prospective study of supervised neglect versus intensive physical therapy in seventy-seven patients with frozen shoulder syndrome followed up for two years. J Shoulder Elbow Surg. 2004;13(5):499–502. https://doi.org/10.1016/j.jse.2004.03.002.",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "issue": "1",
+          "key": "3017_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "40",
+          "DOI": "10.1016/j.physio.2016.05.009",
+          "volume": "103",
+          "author": "CK Wong",
+          "year": "2017",
+          "unstructured": "Wong CK, Levine WN, Deo K, Kesting RS, Mercer EA, Schram GA, et al. Natural history of frozen shoulder: fact or fiction? A systematic review. Physiotherapy. 2017;103(1):40–7. https://doi.org/10.1016/j.physio.2016.05.009.",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "issue": "7",
+          "key": "3017_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "1383",
+          "DOI": "10.1016/j.apmr.2017.08.471",
+          "volume": "99",
+          "author": "MT Lin",
+          "year": "2018",
+          "unstructured": "Lin MT, Hsiao MY, Tu YK, Wang TG. Comparative efficacy of intra-articular steroid injection and distension in patients with frozen shoulder: a systematic review and network meta-analysis. Arch Phys Med Rehabil. 2018;99(7):1383-94.e6. https://doi.org/10.1016/j.apmr.2017.08.471.",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "3017_CR35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD005328.pub2",
+          "volume": "2",
+          "author": "N Bellamy",
+          "year": "2006",
+          "unstructured": "Bellamy N, Campbell J, Robinson V, Gee T, Bourne R, Wells G. Intraarticular corticosteroid for treatment of osteoarthritis of the knee. Cochrane Database Syst Rev. 2006;2: Cd005328. https://doi.org/10.1002/14651858.CD005328.pub2.",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "6",
+          "key": "3017_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "631",
+          "DOI": "10.2174/138161210790883859",
+          "volume": "16",
+          "author": "M Abate",
+          "year": "2010",
+          "unstructured": "Abate M, Pulcini D, Di Iorio A, Schiavone C. Viscosupplementation with intra-articular hyaluronic acid for treatment of osteoarthritis in the elderly. Curr Pharm Des. 2010;16(6):631–40. https://doi.org/10.2174/138161210790883859.",
+          "journal-title": "Curr Pharm Des"
+        },
+        {
+          "issue": "4",
+          "key": "3017_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "259",
+          "DOI": "10.1016/j.pmrj.2010.02.010",
+          "volume": "2",
+          "author": "VA Brander",
+          "year": "2010",
+          "unstructured": "Brander VA, Gomberawalla A, Chambers M, Bowen M, Nuber G. Efficacy and safety of hylan G-F 20 for symptomatic glenohumeral osteoarthritis: a prospective, pilot study. PM R. 2010;2(4):259–67. https://doi.org/10.1016/j.pmrj.2010.02.010.",
+          "journal-title": "PM R"
+        },
+        {
+          "key": "3017_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "87",
+          "DOI": "10.2147/jpr.s4732",
+          "volume": "2",
+          "author": "AH Conduah",
+          "year": "2009",
+          "unstructured": "Conduah AH, Baker CL, Baker CL. Managing joint pain in osteoarthritis: safety and efficacy of hylan G-F 20. J Pain Res. 2009;2:87–98. https://doi.org/10.2147/jpr.s4732.",
+          "journal-title": "J Pain Res"
+        },
+        {
+          "issue": "4",
+          "key": "3017_CR39",
+          "doi-asserted-by": "publisher",
+          "first-page": "347",
+          "DOI": "10.1007/s10067-009-1357-y",
+          "volume": "29",
+          "author": "GS Habib",
+          "year": "2010",
+          "unstructured": "Habib GS, Saliba W, Nashashibi M. Local effects of intra-articular corticosteroids. Clin Rheumatol. 2010;29(4):347–56. https://doi.org/10.1007/s10067-009-1357-y.",
+          "journal-title": "Clin Rheumatol"
+        },
+        {
+          "issue": "7",
+          "key": "3017_CR40",
+          "doi-asserted-by": "publisher",
+          "first-page": "633",
+          "DOI": "10.2165/00002018-200528070-00005",
+          "volume": "28",
+          "author": "I Blanco",
+          "year": "2005",
+          "unstructured": "Blanco I, Krähenbühl S, Schlienger RG. Corticosteroid-associated tendinopathies: an analysis of the published literature and spontaneous pharmacovigilance data. Drug Saf. 2005;28(7):633–43. https://doi.org/10.2165/00002018-200528070-00005.",
+          "journal-title": "Drug Saf"
+        },
+        {
+          "issue": "5",
+          "key": "3017_CR41",
+          "first-page": "885",
+          "volume": "20",
+          "author": "JR Parikh",
+          "year": "1993",
+          "unstructured": "Parikh JR, Houpt JB, Jacobs S, Fernandes BJ. Charcot’s arthropathy of the shoulder following intraarticular corticosteroid injections. J Rheumatol. 1993;20(5):885–7.",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "issue": "4",
+          "key": "3017_CR42",
+          "doi-asserted-by": "publisher",
+          "first-page": "440",
+          "DOI": "10.1016/0049-0172(82)90030-0",
+          "volume": "11",
+          "author": "TE Rizk",
+          "year": "1982",
+          "unstructured": "Rizk TE, Pinals RS. Frozen shoulder. Semin Arthritis Rheum. 1982;11(4):440–52. https://doi.org/10.1016/0049-0172(82)90030-0.",
+          "journal-title": "Semin Arthritis Rheum"
+        },
+        {
+          "issue": "4",
+          "key": "3017_CR43",
+          "doi-asserted-by": "publisher",
+          "first-page": "143",
+          "DOI": "10.1002/art.1790040403",
+          "volume": "4",
+          "author": "KE Roach",
+          "year": "1991",
+          "unstructured": "Roach KE, Budiman-Mak E, Songsiridej N, Lertratanakul Y. Development of a shoulder pain and disability index. Arthritis Care Res. 1991;4(4):143–9.",
+          "journal-title": "Arthritis Care Res"
+        },
+        {
+          "issue": "4 Suppl 2",
+          "key": "3017_CR44",
+          "first-page": "23",
+          "volume": "31",
+          "author": "R Papalia",
+          "year": "2017",
+          "unstructured": "Papalia R, Tecame A, Vadala G, Russo F, Perna M, Papalia G, et al. The use of hyaluronic acid in the treatment of shoulder capsulitis: a systematic review. J Biol Regul Homeost Agents. 2017;31(4 Suppl 2):23–32.",
+          "journal-title": "J Biol Regul Homeost Agents"
+        },
+        {
+          "key": "3017_CR45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1155/2015/314120",
+          "volume": "2015",
+          "author": "LC Lee",
+          "year": "2015",
+          "unstructured": "Lee LC, Lieu FK, Lee HL, Tung TH. Effectiveness of hyaluronic acid administration in treating adhesive capsulitis of the shoulder: a systematic review of randomized controlled trials. Biomed Res Int. 2015;2015: 314120. https://doi.org/10.1155/2015/314120.",
+          "journal-title": "Biomed Res Int"
+        },
+        {
+          "issue": "2",
+          "key": "3017_CR46",
+          "doi-asserted-by": "publisher",
+          "first-page": "31",
+          "DOI": "10.4103/0973-6042.83194",
+          "volume": "5",
+          "author": "JD Harris",
+          "year": "2011",
+          "unstructured": "Harris JD, Griesser MJ, Copelan A, Jones GL. Treatment of adhesive capsulitis with intra-articular hyaluronate: a systematic review. Int J Shoulder Surg. 2011;5(2):31–7. https://doi.org/10.4103/0973-6042.83194.",
+          "journal-title": "Int J Shoulder Surg"
+        },
+        {
+          "key": "3017_CR47",
+          "first-page": "19",
+          "volume": "39",
+          "author": "JP Pelletier",
+          "year": "1993",
+          "unstructured": "Pelletier JP, Martel-Pelletier J. The pathophysiology of osteoarthritis and the implication of the use of hyaluronan and hylan as therapeutic agents in viscosupplementation. J Rheumatol Suppl. 1993;39:19–24.",
+          "journal-title": "J Rheumatol Suppl"
+        },
+        {
+          "issue": "8",
+          "key": "3017_CR48",
+          "doi-asserted-by": "publisher",
+          "first-page": "642",
+          "DOI": "10.1016/j.joca.2004.04.010",
+          "volume": "12",
+          "author": "RD Altman",
+          "year": "2004",
+          "unstructured": "Altman RD, Akermark C, Beaulieu AD, Schnitzer T. Efficacy and safety of a single intra-articular injection of non-animal stabilized hyaluronic acid (NASHA) in patients with osteoarthritis of the knee. Osteoarthritis Cartilage. 2004;12(8):642–9. https://doi.org/10.1016/j.joca.2004.04.010.",
+          "journal-title": "Osteoarthritis Cartilage"
+        }
+      ],
+      "container-title": [
+        "Journal of Orthopaedic Surgery and Research"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/s13018-022-03017-4.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1186/s13018-022-03017-4/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/s13018-022-03017-4.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            3
+          ]
+        ],
+        "date-time": "2022-03-03T13:16:46Z",
+        "timestamp": 1646313406000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://josr-online.biomedcentral.com/articles/10.1186/s13018-022-03017-4"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            3
+          ]
+        ]
+      },
+      "references-count": 48,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "3017"
+      ],
+      "URL": "https://doi.org/10.1186/s13018-022-03017-4",
+      "relation": {},
+      "ISSN": [
+        "1749-799X"
+      ],
+      "issn-type": [
+        {
+          "value": "1749-799X",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            3
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "16 January 2022",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "16 February 2022",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "3 March 2022",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Declarations"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethics approval and consent to participate"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Consent for publication"
+          }
+        },
+        {
+          "value": "The authors have no conflicts of interest to declare.",
+          "order": 4,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        }
+      ],
+      "article-number": "128"
+    }
+  }
+}

@@ -1,0 +1,1385 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1097_brs_0b013e3181644ae8.md",
+  "id": "evidence_import_refs_2025_09_12_10_1097_brs_0b013e3181644ae8",
+  "doi": "10.1097/BRS.0b013e3181644ae8",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:31.860943Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2025-09-08T06:17:46Z",
+        "timestamp": 1757312266595
+      },
+      "reference-count": 121,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "Supplement",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Spine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            2
+          ]
+        ]
+      },
+      "DOI": "10.1097/brs.0b013e3181644ae8",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2009,
+            3,
+            5
+          ]
+        ],
+        "date-time": "2009-03-05T06:45:51Z",
+        "timestamp": 1236235551000
+      },
+      "page": "S101-S122",
+      "source": "Crossref",
+      "is-referenced-by-count": 152,
+      "title": [
+        "Assessment of Neck Pain and Its Associated Disorders"
+      ],
+      "prefix": "10.1097",
+      "volume": "33",
+      "author": [
+        {
+          "given": "Margareta",
+          "family": "Nordin",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Eugene J.",
+          "family": "Carragee",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sheilah",
+          "family": "Hogg-Johnson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Shira Schecter",
+          "family": "Weiner",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Eric L.",
+          "family": "Hurwitz",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Paul M.",
+          "family": "Peloso",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jaime",
+          "family": "Guzman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gabrielle",
+          "family": "van der Velde",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Linda J.",
+          "family": "Carroll",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lena W.",
+          "family": "Holm",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Pierre",
+          "family": "Côté",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "J David",
+          "family": "Cassidy",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Scott",
+          "family": "Haldeman",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "276",
+      "reference": [
+        {
+          "key": "R1-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "S14",
+          "DOI": "10.1097/BRS.0b013e3181643efb",
+          "volume": "33",
+          "author": "Guzman",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R2-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "S33",
+          "DOI": "10.1097/BRS.0b013e3181644b06",
+          "volume": "33",
+          "author": "Carroll",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R3-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1552",
+          "DOI": "10.1136/bmj.308.6943.1552",
+          "volume": "308",
+          "author": "Altman",
+          "year": "1994",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "R4-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "389",
+          "DOI": "10.1001/jama.1994.03510290071040",
+          "volume": "271",
+          "author": "Jaeschke",
+          "year": "1994",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "R5-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "539",
+          "DOI": "10.1136/bmj.324.7336.539",
+          "volume": "324",
+          "author": "Sackett",
+          "year": "2002",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "R6-15-20160304",
+          "first-page": "1091",
+          "volume": "28",
+          "author": "Haas",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R7-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1S",
+          "DOI": "10.1097/00007632-199504151-00001",
+          "volume": "20",
+          "author": "Spitzer",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R8-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "307",
+          "DOI": "10.1007/s00586-006-0225-6",
+          "volume": "16",
+          "author": "Rubinstein",
+          "year": "2007",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "R9-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "256",
+          "DOI": "10.1016/j.math.2005.04.008",
+          "volume": "10",
+          "author": "van Trijffel",
+          "year": "2005",
+          "journal-title": "Manual Therapy"
+        },
+        {
+          "key": "R10-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "902",
+          "DOI": "10.1097/01.TA.0000162138.36519.2A",
+          "volume": "58",
+          "author": "Holmes",
+          "year": "2005",
+          "journal-title": "J Trauma Injury Infect Crit Care"
+        },
+        {
+          "key": "R11-15-20160304",
+          "first-page": "55",
+          "author": "Moskovich",
+          "year": "1997"
+        },
+        {
+          "key": "R12-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "S198",
+          "DOI": "10.1097/BRS.0b013e31816960c9",
+          "volume": "33",
+          "author": "Guzman",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R13-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1016/j.jemermed.2004.08.016",
+          "volume": "28",
+          "author": "Kerr",
+          "year": "2005",
+          "journal-title": "J Emerg Med"
+        },
+        {
+          "key": "R14-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2510",
+          "DOI": "10.1056/NEJMoa031375",
+          "volume": "349",
+          "author": "Stiell",
+          "year": "2003",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "R15-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1841",
+          "DOI": "10.1001/jama.286.15.1841",
+          "volume": "286",
+          "author": "Steill",
+          "year": "2001",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "R16-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "278",
+          "DOI": "10.1097/00063110-200512000-00006",
+          "volume": "12",
+          "author": "Dearden",
+          "year": "2005",
+          "journal-title": "Eur J Emerg Med"
+        },
+        {
+          "key": "R17-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "507",
+          "DOI": "10.1016/j.annemergmed.2003.10.036",
+          "volume": "43",
+          "author": "Dickinson",
+          "year": "2004",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "key": "R18-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1396",
+          "DOI": "10.1097/01.ta.0000196006.26551.ce",
+          "volume": "59",
+          "author": "Heffernan",
+          "year": "2005",
+          "journal-title": "J Trauma Injury Infect Crit Care"
+        },
+        {
+          "key": "R19-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1454",
+          "DOI": "10.1016/S0196-0644(05)80059-9",
+          "volume": "21",
+          "author": "Hoffman",
+          "year": "1992",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "key": "R20-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "94",
+          "DOI": "10.1056/NEJM200007133430203",
+          "volume": "343",
+          "author": "Hoffman",
+          "year": "2000",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "R21-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "22",
+          "DOI": "10.1067/mem.2001.116499",
+          "volume": "38",
+          "author": "Panacek",
+          "year": "2001",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "key": "R22-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "8",
+          "DOI": "10.1067/mem.2001.116810",
+          "volume": "38",
+          "author": "Pollack",
+          "year": "2001",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "key": "R23-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "287",
+          "DOI": "10.1067/mem.2002.125708",
+          "volume": "40",
+          "author": "Touger",
+          "year": "2002",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "key": "R24-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "117",
+          "DOI": "10.1148/radiology.212.1.r99jl08117",
+          "volume": "212",
+          "author": "Blackmore",
+          "year": "1999",
+          "journal-title": "Radiology"
+        },
+        {
+          "key": "R25-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "658",
+          "DOI": "10.1097/01.TA.0000088120.99247.4A",
+          "volume": "55",
+          "author": "Diaz",
+          "year": "2003",
+          "journal-title": "J Trauma Injury Infect Crit Care"
+        },
+        {
+          "key": "R26-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1121",
+          "DOI": "10.1097/01.ta.0000188632.79060.ba",
+          "volume": "59",
+          "author": "Gale",
+          "year": "2005",
+          "journal-title": "J Trauma Injury Infect Crit Care"
+        },
+        {
+          "key": "R27-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "222",
+          "DOI": "10.1097/01.TA.0000083332.93868.E2",
+          "volume": "55",
+          "author": "Griffen",
+          "year": "2003",
+          "journal-title": "J Trauma Injury Infect Crit Care"
+        },
+        {
+          "key": "R28-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2388",
+          "DOI": "10.2106/JBJS.E.00208",
+          "volume": "87",
+          "author": "McCulloch",
+          "year": "2005",
+          "journal-title": "J Bone Joint Surg Am Vol"
+        },
+        {
+          "key": "R29-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "538",
+          "DOI": "10.1016/S0196-0644(83)80293-5",
+          "volume": "12",
+          "author": "Streitwieser",
+          "year": "1983",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "key": "R30-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "40",
+          "DOI": "10.1177/230949900401200109",
+          "volume": "12",
+          "author": "Suzuki",
+          "year": "2004",
+          "journal-title": "J Orthopaedic Surg"
+        },
+        {
+          "key": "R31-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "203",
+          "DOI": "10.1016/0736-4679(88)90327-7",
+          "volume": "6",
+          "author": "Neifeld",
+          "year": "1988",
+          "journal-title": "J Emerg Med"
+        },
+        {
+          "key": "R32-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "952",
+          "DOI": "10.1097/00005373-199712000-00015",
+          "volume": "43",
+          "author": "Zabel",
+          "year": "1997",
+          "journal-title": "J Trauma Injury Infect Crit Care"
+        },
+        {
+          "key": "R33-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "133",
+          "DOI": "10.1046/j.1442-2026.2003.00345.x",
+          "volume": "15",
+          "author": "Browne",
+          "year": "2003",
+          "journal-title": "Emerg Med"
+        },
+        {
+          "key": "R34-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "270",
+          "DOI": "10.1016/S0196-0644(87)80171-3",
+          "volume": "16",
+          "author": "Jaffe",
+          "year": "1987",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "key": "R35-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1617",
+          "DOI": "10.2214/ajr.174.6.1741617",
+          "volume": "174",
+          "author": "Dwek",
+          "year": "2000",
+          "journal-title": "AJR"
+        },
+        {
+          "key": "R36-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1059",
+          "DOI": "10.1259/0007-1285-60-719-1059",
+          "volume": "60",
+          "author": "Annis",
+          "year": "1987",
+          "journal-title": "Br J Radiol"
+        },
+        {
+          "key": "R37-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "123",
+          "DOI": "10.1016/j.annemergmed.2005.02.004",
+          "volume": "46",
+          "author": "Domeier",
+          "year": "2005",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "key": "R39-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "760",
+          "DOI": "10.1001/jama.1992.03490060092030",
+          "volume": "268",
+          "author": "Deyo",
+          "year": "1992",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "R41-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "527",
+          "DOI": "10.1136/bmj.39127.608299.80",
+          "volume": "334",
+          "author": "Binder",
+          "year": "2007",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "R42-15-20160304",
+          "first-page": "516",
+          "volume": "20",
+          "author": "Strender",
+          "year": "1997",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R43-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "423",
+          "DOI": "10.1002/(SICI)1097-0274(200004)37:4<423::AID-AJIM12>3.0.CO;2-W",
+          "volume": "37",
+          "author": "Salerno",
+          "year": "2000",
+          "journal-title": "Am J Ind Med"
+        },
+        {
+          "key": "R44-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1526",
+          "DOI": "10.1093/ptj/67.10.1526",
+          "volume": "67",
+          "author": "Viikari-Juntura",
+          "year": "1987",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "R45-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "84",
+          "DOI": "10.1016/j.jmpt.2003.12.002",
+          "volume": "27",
+          "author": "Pool",
+          "year": "2004",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R46-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "97",
+          "DOI": "10.1054/math.2000.0234",
+          "volume": "5",
+          "author": "Smedmark",
+          "year": "2000",
+          "journal-title": "Manual Therapy"
+        },
+        {
+          "key": "R47-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "473",
+          "DOI": "10.1016/j.ejpain.2003.11.005",
+          "volume": "8",
+          "author": "Ylinen",
+          "year": "2004",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "R48-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "62",
+          "DOI": "10.1016/S0003-9993(00)90223-5",
+          "volume": "81",
+          "author": "Hanten",
+          "year": "2000",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "R49-15-20160304",
+          "first-page": "59",
+          "volume": "6",
+          "author": "Hoving",
+          "year": "2005",
+          "journal-title": "BMC"
+        },
+        {
+          "key": "R50-15-20160304",
+          "first-page": "468",
+          "volume": "20",
+          "author": "Jordan",
+          "year": "1997",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R51-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.2519/jospt.2000.30.1.13",
+          "volume": "30",
+          "author": "Olson",
+          "year": "2000",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "R52-15-20160304",
+          "first-page": "231",
+          "volume": "19",
+          "author": "Osterbauer",
+          "year": "1996",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R53-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "82",
+          "DOI": "10.1054/math.2000.0232",
+          "volume": "5",
+          "author": "Petersen",
+          "year": "2000",
+          "journal-title": "Manual Therapy"
+        },
+        {
+          "key": "R54-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "235",
+          "DOI": "10.1007/s00414-004-0462-3",
+          "volume": "118",
+          "author": "Puglisi",
+          "year": "2004",
+          "journal-title": "Int J Legal Med"
+        },
+        {
+          "key": "R55-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "52",
+          "DOI": "10.1097/00007632-200301010-00014",
+          "volume": "28",
+          "author": "Wainner",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R56-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "36",
+          "DOI": "10.1097/00007632-200101010-00008",
+          "volume": "26",
+          "author": "Hartling",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R57-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1501",
+          "DOI": "10.1097/00007632-199707010-00015",
+          "volume": "22",
+          "author": "Hagen",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R58-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1473",
+          "DOI": "10.1016/0895-4356(95)00061-5",
+          "volume": "48",
+          "author": "Toomingas",
+          "year": "1995",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "R59-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "490",
+          "DOI": "10.1016/S0003-9993(03)00619-1",
+          "volume": "85",
+          "author": "Kristjansson",
+          "year": "2004",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "R60-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "257",
+          "DOI": "10.1007/s004210000292",
+          "volume": "83",
+          "author": "Larsson",
+          "year": "2000",
+          "journal-title": "Eur J Appl Physiol"
+        },
+        {
+          "key": "R61-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "801",
+          "DOI": "10.1080/09638280400020615",
+          "volume": "27",
+          "author": "Kumbhare",
+          "year": "2005",
+          "journal-title": "Disabil Rehabil"
+        },
+        {
+          "key": "R62-15-20160304",
+          "first-page": "75",
+          "volume": "21",
+          "author": "Hains",
+          "year": "1998",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R63-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "689",
+          "DOI": "10.1002/ajim.4700240605",
+          "volume": "24",
+          "author": "Andersen",
+          "year": "1993",
+          "journal-title": "Am J Ind Med"
+        },
+        {
+          "key": "R64-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.2340/1650197727131136",
+          "volume": "27",
+          "author": "Sandmark",
+          "year": "1995",
+          "journal-title": "Scand J Rehabil Med"
+        },
+        {
+          "key": "R65-15-20160304",
+          "first-page": "174",
+          "volume": "97",
+          "author": "Hsueh",
+          "year": "1998",
+          "journal-title": "J Formos Med Assoc"
+        },
+        {
+          "key": "R66-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "253",
+          "DOI": "10.1097/00007632-198903000-00003",
+          "volume": "14",
+          "author": "Viikari-Juntura",
+          "year": "1989",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R67-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.1080/16501970306117",
+          "volume": "35",
+          "author": "Ljungquist",
+          "year": "2003",
+          "journal-title": "J Rehabil Med"
+        },
+        {
+          "key": "R68-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "170",
+          "DOI": "10.1016/S0003-9993(00)90136-9",
+          "volume": "81",
+          "author": "Sobel",
+          "year": "2000",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "R69-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "272",
+          "DOI": "10.1023/A:1010931309088",
+          "volume": "21",
+          "author": "Kivioja",
+          "year": "2001",
+          "journal-title": "J Clin Immunol"
+        },
+        {
+          "key": "R70-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "898",
+          "DOI": "10.1212/01.WNL.0000058546.16985.11",
+          "volume": "60",
+          "author": "Shy",
+          "year": "2003",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "R71-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "339",
+          "DOI": "10.1080/00140130119649",
+          "volume": "44",
+          "author": "Westgaard",
+          "year": "2001",
+          "journal-title": "Ergonomics"
+        },
+        {
+          "key": "R72-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "595",
+          "DOI": "10.1097/00007632-199603010-00012",
+          "volume": "21",
+          "author": "Carlson",
+          "year": "1996",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R73-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "319",
+          "DOI": "10.1016/S0304-3959(01)00272-X",
+          "volume": "92",
+          "author": "Keidel",
+          "year": "2001",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R74-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "171",
+          "DOI": "10.1212/WNL.55.2.171",
+          "volume": "55",
+          "author": "Pullman",
+          "year": "2000",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "R75-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "775",
+          "DOI": "10.1016/S0020-1383(98)00184-3",
+          "volume": "29",
+          "author": "Matsumoto",
+          "year": "1998",
+          "journal-title": "Injury"
+        },
+        {
+          "key": "R76-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "S44",
+          "DOI": "10.1097/00004424-198501002-00011",
+          "volume": "20",
+          "author": "Shaw",
+          "year": "1985",
+          "journal-title": "Invest Radiol"
+        },
+        {
+          "key": "R77-15-20160304",
+          "first-page": "766",
+          "volume": "24",
+          "author": "Stafira",
+          "year": "2003",
+          "journal-title": "AJNR Am J Neuroradiol"
+        },
+        {
+          "key": "R78-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "311",
+          "DOI": "10.1097/00007632-199602010-00010",
+          "volume": "21",
+          "author": "Schellhas",
+          "year": "1996",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R79-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "381",
+          "DOI": "10.1016/j.spinee.2004.11.012",
+          "volume": "5",
+          "author": "Slipman",
+          "year": "2005",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R80-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1373",
+          "DOI": "10.1097/00007632-200006010-00009",
+          "volume": "25",
+          "author": "Carragee",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R81-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1081",
+          "DOI": "10.2106/00004623-199072070-00019",
+          "volume": "72",
+          "author": "Walsh",
+          "year": "1990",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "R82-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.1302/0301-620X.80B1.7929",
+          "volume": "80",
+          "author": "Matsumoto",
+          "year": "1998",
+          "journal-title": "J Bone Joint Surg Br Vol"
+        },
+        {
+          "key": "R83-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "560",
+          "DOI": "10.1067/mmt.2001.118981",
+          "volume": "24",
+          "author": "Cooley",
+          "year": "2001",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R84-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "617",
+          "DOI": "10.1007/s00234-002-0799-6",
+          "volume": "44",
+          "author": "Krakenes",
+          "year": "2002",
+          "journal-title": "Neuroradiology"
+        },
+        {
+          "key": "R85-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "585",
+          "DOI": "10.1007/s00234-003-1036-7",
+          "volume": "45",
+          "author": "Krakenes",
+          "year": "2003",
+          "journal-title": "Neuroradiology"
+        },
+        {
+          "key": "R86-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "637",
+          "DOI": "10.1080/02841850312331287739",
+          "volume": "44",
+          "author": "Krakenes",
+          "year": "2003",
+          "journal-title": "Acta Radiol"
+        },
+        {
+          "key": "R87-15-20160304",
+          "first-page": "127",
+          "volume": "13",
+          "author": "Ross",
+          "year": "1992",
+          "journal-title": "AJNR Am J Neuroradiol"
+        },
+        {
+          "key": "R88-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2468",
+          "DOI": "10.1097/00007632-199811150-00024",
+          "volume": "23",
+          "author": "Humphreys",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R89-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "199",
+          "DOI": "10.1007/s005860050157",
+          "volume": "8",
+          "author": "Sengupta",
+          "year": "1999",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "R90-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1178",
+          "DOI": "10.2106/00004623-199072080-00008",
+          "volume": "72",
+          "author": "Boden",
+          "year": "1990",
+          "journal-title": "J Bone Joint Surg Am Vol"
+        },
+        {
+          "key": "R91-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.1007/BF00599196",
+          "volume": "36",
+          "author": "Lehto",
+          "year": "1994",
+          "journal-title": "Neuroradiology"
+        },
+        {
+          "key": "R92-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "358",
+          "DOI": "10.1007/s00586-001-0370-x",
+          "volume": "11",
+          "author": "Siivola",
+          "year": "2002",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "R93-15-20160304",
+          "first-page": "692",
+          "volume": "64",
+          "author": "Hamalainen",
+          "year": "1993",
+          "journal-title": "Aviat Space Environ Med"
+        },
+        {
+          "key": "R94-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "331",
+          "DOI": "10.1016/S0020-1383(97)00027-2",
+          "volume": "28",
+          "author": "Borchgrevink",
+          "year": "1997",
+          "journal-title": "Injury"
+        },
+        {
+          "key": "R95-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "842",
+          "DOI": "10.1046/j.1468-2982.2003.00605.x",
+          "volume": "23",
+          "author": "Coskun",
+          "year": "2003",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "R96-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "124",
+          "DOI": "10.1097/00002508-199306000-00007",
+          "volume": "9",
+          "author": "Barnsley",
+          "year": "1993",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "R97-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "20",
+          "DOI": "10.1097/00007632-199501000-00004",
+          "volume": "20",
+          "author": "Barnsley",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R98-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "610",
+          "DOI": "10.1097/00007632-198813060-00003",
+          "volume": "13",
+          "author": "Bogduk",
+          "year": "1988",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R99-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "208",
+          "DOI": "10.1097/00002508-199509000-00008",
+          "volume": "11",
+          "author": "Lord",
+          "year": "1995",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "R100-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "99",
+          "DOI": "10.1016/0304-3959(93)90189-V",
+          "volume": "55",
+          "author": "Barnsley",
+          "year": "1993",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R101-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "261",
+          "DOI": "10.1016/S0304-3959(01)00360-8",
+          "volume": "94",
+          "author": "Williams",
+          "year": "2001",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R102-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "26",
+          "DOI": "10.1016/j.jmpt.2003.11.003",
+          "volume": "27",
+          "author": "Hurst",
+          "year": "2004",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R103-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2116",
+          "DOI": "10.1097/00007632-200210010-00007",
+          "volume": "27",
+          "author": "Bendebba",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R104-15-20160304",
+          "first-page": "505",
+          "volume": "&NA;",
+          "author": "Chiu",
+          "year": "2003",
+          "journal-title": "Clin Rehabil"
+        },
+        {
+          "key": "R105-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "273",
+          "DOI": "10.1016/S0304-3959(02)00406-2",
+          "volume": "102",
+          "author": "Hoving",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R106-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1294",
+          "DOI": "10.1089/neu.2005.22.1294",
+          "volume": "22",
+          "author": "Kaale",
+          "year": "2005",
+          "journal-title": "J Neurotrauma"
+        },
+        {
+          "key": "R107-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "951",
+          "DOI": "10.1093/ptj/78.9.951",
+          "volume": "78",
+          "author": "Riddle",
+          "year": "1998",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "R108-15-20160304",
+          "first-page": "317",
+          "volume": "71",
+          "author": "Wlodyka-Demaille",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R109-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "959",
+          "DOI": "10.1080/09638280410001696755",
+          "volume": "26",
+          "author": "Bicer",
+          "year": "2004",
+          "journal-title": "Disabil Rehabil"
+        },
+        {
+          "key": "R110-15-20160304",
+          "first-page": "41",
+          "volume": "19",
+          "author": "Gonzalez",
+          "year": "2001",
+          "journal-title": "Clin Exp Rheumatol"
+        },
+        {
+          "key": "R111-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "263",
+          "DOI": "10.1097/01.BRS.0000107238.15526.4C",
+          "volume": "29",
+          "author": "Pinfold",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R112-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1153",
+          "DOI": "10.1111/j.1553-2712.2001.tb01132.x",
+          "volume": "8",
+          "author": "Bijur",
+          "year": "2001",
+          "journal-title": "Acad Emerg Med"
+        },
+        {
+          "key": "R113-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "45",
+          "DOI": "10.1016/0304-3959(83)90126-4",
+          "volume": "17",
+          "author": "Price",
+          "year": "1983",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R114-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "176",
+          "DOI": "10.1016/j.pain.2005.09.033",
+          "volume": "119",
+          "author": "Fejer",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R115-15-20160304",
+          "first-page": "520",
+          "volume": "21",
+          "author": "Jordan",
+          "year": "1998",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R116-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1884",
+          "DOI": "10.1097/00007632-200109010-00013",
+          "volume": "26",
+          "author": "Chiu",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R118-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "S74",
+          "DOI": "10.1097/BRS.0b013e31815e39c8",
+          "volume": "33",
+          "author": "Carroll",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R119-15-20160304",
+          "first-page": "S82",
+          "volume": "33",
+          "author": "Carroll",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R120-15-20160304",
+          "first-page": "S92",
+          "volume": "33",
+          "author": "Carroll",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R121-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "41",
+          "DOI": "10.1136/bmj.326.7379.41",
+          "volume": "326",
+          "author": "Bossuyt",
+          "year": "2003",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "R122-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1136/bmj.315.7099.1",
+          "volume": "315",
+          "author": "Greenhalgh",
+          "year": "1997",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "R123-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "645",
+          "DOI": "10.1001/jama.1995.03530080061042",
+          "volume": "274",
+          "author": "Reid",
+          "year": "1995",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "R124-15-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "393",
+          "DOI": "10.1148/radiol.2312030767",
+          "volume": "231",
+          "author": "Lee",
+          "year": "2004",
+          "journal-title": "Radiology"
+        }
+      ],
+      "container-title": [
+        "Spine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://journals.lww.com/00007632-200802151-00015",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            5,
+            24
+          ]
+        ],
+        "date-time": "2023-05-24T07:24:45Z",
+        "timestamp": 1684913085000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://journals.lww.com/00007632-200802151-00015"
+        }
+      },
+      "subtitle": [
+        "Results of the Bone and Joint Decade 2000–2010 Task Force on Neck Pain and Its Associated Disorders"
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2008,
+            2
+          ]
+        ]
+      },
+      "references-count": 121,
+      "journal-issue": {
+        "issue": "Supplement"
+      },
+      "URL": "https://doi.org/10.1097/brs.0b013e3181644ae8",
+      "relation": {},
+      "ISSN": [
+        "0362-2436"
+      ],
+      "issn-type": [
+        {
+          "value": "0362-2436",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2008,
+            2
+          ]
+        ]
+      }
+    }
+  }
+}

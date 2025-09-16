@@ -1,0 +1,41 @@
+[
+  {
+    "file": "evidence\\evidence_import_refs_2025_09_13_10_1016_j_berh_2011_01_019.md",
+    "ok": true,
+    "errors": [],
+    "changes": {
+      "sources_snapshot": {
+        "from": null,
+        "to": "_audit\\evidence_import_refs_2025_09_13_10_1016_j_berh_2011_01_019.json"
+      }
+    },
+    "wrote": true,
+    "snapshot": "evidence\\_audit\\evidence_import_refs_2025_09_13_10_1016_j_berh_2011_01_019.json"
+  },
+  {
+    "file": "evidence\\evidence_import_refs_2025_09_13_10_1136_bmj_b3883.md",
+    "ok": true,
+    "errors": [],
+    "changes": {
+      "sources_snapshot": {
+        "from": null,
+        "to": "_audit\\evidence_import_refs_2025_09_13_10_1136_bmj_b3883.json"
+      }
+    },
+    "wrote": true,
+    "snapshot": "evidence\\_audit\\evidence_import_refs_2025_09_13_10_1136_bmj_b3883.json"
+  },
+  {
+    "file": "evidence\\evidence_import_refs_2025_09_13_10_2522_ptj_20080283.md",
+    "ok": true,
+    "errors": [],
+    "changes": {
+      "sources_snapshot": {
+        "from": null,
+        "to": "_audit\\evidence_import_refs_2025_09_13_10_2522_ptj_20080283.json"
+      }
+    },
+    "wrote": true,
+    "snapshot": "evidence\\_audit\\evidence_import_refs_2025_09_13_10_2522_ptj_20080283.json"
+  }
+]

@@ -1,0 +1,387 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_pain_2006_05_013.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_pain_2006_05_013",
+  "doi": "10.1016/j.pain.2006.05.013",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:59.334866Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            23
+          ]
+        ],
+        "date-time": "2025-07-23T12:06:13Z",
+        "timestamp": 1753272373469
+      },
+      "reference-count": 19,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "1",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2006,
+            11
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.pain.2006.05.013",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2006,
+            6,
+            15
+          ]
+        ],
+        "date-time": "2006-06-15T13:22:19Z",
+        "timestamp": 1150377739000
+      },
+      "page": "98-106",
+      "source": "Crossref",
+      "is-referenced-by-count": 138,
+      "title": [
+        "Acupuncture for patients with chronic neck pain"
+      ],
+      "prefix": "10.1097",
+      "volume": "125",
+      "author": [
+        {
+          "given": "Claudia M.",
+          "family": "Witt",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Susanne",
+          "family": "Jena",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Benno",
+          "family": "Brinkhaus",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bodo",
+          "family": "Liecker",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Karl",
+          "family": "Wegscheider",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stefan N.",
+          "family": "Willich",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "276",
+      "reference": [
+        {
+          "key": "R1-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1291",
+          "DOI": "10.1136/bmj.313.7068.1291",
+          "article-title": "Conservative management of mechanical neck pain: systematic overview and meta-analysis.",
+          "volume": "313",
+          "author": "Aker",
+          "year": "1996",
+          "journal-title": "Br Med J"
+        },
+        {
+          "key": "R2-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "629",
+          "DOI": "10.1016/S0304-3959(98)00268-1",
+          "article-title": "Cost-of-illness of neck pain in The Netherlands in 1996.",
+          "volume": "80",
+          "author": "Borghouts",
+          "year": "1999",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R5-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "326",
+          "DOI": "10.1142/S0192415X81000433",
+          "article-title": "The acupuncture treatment of neck pain: a randomized controlled study.",
+          "volume": "9",
+          "author": "Coan",
+          "year": "1981",
+          "journal-title": "Am J Chin Med"
+        },
+        {
+          "key": "R6-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1887",
+          "DOI": "10.1056/NEJM200006223422507",
+          "article-title": "Randomized, controlled trials, observational studies, and the hierarchy of research designs.",
+          "volume": "342",
+          "author": "Concato",
+          "year": "2000",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "R7-13-20210112",
+          "first-page": "150",
+          "article-title": "Problems of randomized studies in complementary medicine demonstrated in a study on mistletoe treatment of patients with breast cancer.",
+          "volume": "11",
+          "author": "Gerhard",
+          "year": "2004",
+          "journal-title": "Forsch Komplementarmed Klass Naturheilkd"
+        },
+        {
+          "key": "R9-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1501",
+          "DOI": "10.1097/00007632-199707010-00015",
+          "article-title": "Relationship between subjective neck disorders and cervical spine mobility and motion-related pain in male machine operators.",
+          "volume": "22",
+          "author": "Hagen",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R10-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "299",
+          "DOI": "10.1016/j.pain.2004.01.018",
+          "article-title": "Effect of acupuncture treatment on chronic neck and shoulder pain in sedentary female workers: a 6-month and 3-year follow-up study.",
+          "volume": "109",
+          "author": "He",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R11-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "83",
+          "DOI": "10.1016/S0304-3959(02)00062-3",
+          "article-title": "Immediate effects of dry needling and acupuncture at distant points in chronic neck pain: results of a randomized, double-blind, sham-controlled crossover trial.",
+          "volume": "99",
+          "author": "Irnich",
+          "year": "2002",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R12-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1574",
+          "DOI": "10.1136/bmj.322.7302.1574",
+          "article-title": "Randomised trial of acupuncture compared with conventional massage and sham laser acupuncture for treatment of chronic neck pain.",
+          "volume": "322",
+          "author": "Irnich",
+          "year": "2001",
+          "journal-title": "Br Med J"
+        },
+        {
+          "key": "R13-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "347",
+          "DOI": "10.1053/eujp.2000.0190",
+          "article-title": "Do epidemiological results replicate? The prevalence and health-economic consequences of neck and back pain in the general population.",
+          "volume": "4",
+          "author": "Linton",
+          "year": "2000",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "R15-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "486",
+          "DOI": "10.1136/bmj.323.7311.486",
+          "article-title": "The York acupuncture safety study: prospective survey of 34 000 treatments by traditional acupuncturists.",
+          "volume": "323",
+          "author": "MacPherson",
+          "year": "2001",
+          "journal-title": "Br Med J"
+        },
+        {
+          "key": "R16-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "217",
+          "DOI": "10.1016/S0965-2299(02)00082-1",
+          "article-title": "Relief of chronic neck and shoulder pain by manual acupuncture to tender points - a sham-controlled randomized trial.",
+          "volume": "10",
+          "author": "Nabeta",
+          "year": "2002",
+          "journal-title": "Complement Ther Med"
+        },
+        {
+          "key": "R17-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "119",
+          "DOI": "10.1016/S0304-3959(00)00234-7",
+          "article-title": "Teasing apart quality and validity in systematic reviews: an example from acupuncture trials in chronic neck and back pain.",
+          "volume": "86",
+          "author": "Smith",
+          "year": "2000",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R18-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1290",
+          "DOI": "10.1097/00007632-199907010-00004",
+          "article-title": "Development of the Neck Pain and Disability Scale. Item analysis, face, and criterion-related validity.",
+          "volume": "24",
+          "author": "Wheeler",
+          "year": "1999",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R19-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "485",
+          "DOI": "10.1136/bmj.323.7311.485",
+          "article-title": "Adverse events following acupuncture: prospective survey of 32 000 consultations with doctors and physiotherapists.",
+          "volume": "323",
+          "author": "White",
+          "year": "2001",
+          "journal-title": "Br Med J"
+        },
+        {
+          "key": "R20-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "143",
+          "DOI": "10.1093/rheumatology/38.2.143",
+          "article-title": "A systematic review of randomized controlled trials of acupuncture for neck pain.",
+          "volume": "38",
+          "author": "White",
+          "year": "1999",
+          "journal-title": "Rheumatology (Oxford)"
+        },
+        {
+          "key": "R21-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "911",
+          "DOI": "10.7326/0003-4819-141-12-200412210-00007",
+          "article-title": "Acupuncture versus placebo for the treatment of chronic mechanical neck pain: a randomized, controlled trial.",
+          "volume": "141",
+          "author": "White",
+          "year": "2004",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "R22-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "747",
+          "DOI": "10.1136/bmj.38033.896505.EB",
+          "article-title": "Cost effectiveness analysis of a randomised trial of acupuncture for chronic headache in primary care.",
+          "volume": "328",
+          "author": "Wonderling",
+          "year": "2004",
+          "journal-title": "Br Med J"
+        },
+        {
+          "key": "R23-13-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1142/S0192415X02000028",
+          "article-title": "A controlled trial on acupuncture for chronic neck pain.",
+          "volume": "30",
+          "author": "Zhu",
+          "year": "2002",
+          "journal-title": "Am J Chin Med"
+        }
+      ],
+      "container-title": [
+        "Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://journals.lww.com/00006396-200611000-00013",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            8
+          ]
+        ],
+        "date-time": "2021-04-08T22:43:29Z",
+        "timestamp": 1617921809000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.lww.com/00006396-200611000-00013"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2006,
+            11
+          ]
+        ]
+      },
+      "references-count": 19,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2006
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1016/j.pain.2006.05.013",
+      "relation": {
+        "has-review": [
+          {
+            "id-type": "doi",
+            "id": "10.3410/f.1048198.500114",
+            "asserted-by": "object"
+          }
+        ]
+      },
+      "ISSN": [
+        "0304-3959"
+      ],
+      "issn-type": [
+        {
+          "value": "0304-3959",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2006,
+            11
+          ]
+        ]
+      }
+    }
+  }
+}

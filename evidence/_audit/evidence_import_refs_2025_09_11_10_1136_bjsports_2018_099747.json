@@ -1,0 +1,577 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1136_bjsports_2018_099747.md",
+  "id": "evidence_import_refs_2025_09_11_10_1136_bjsports_2018_099747",
+  "doi": "10.1136/bjsports-2018-099747",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:52.032335Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            10
+          ]
+        ],
+        "date-time": "2025-09-10T21:59:12Z",
+        "timestamp": 1757541552821,
+        "version": "3.41.2"
+      },
+      "reference-count": 49,
+      "publisher": "BMJ",
+      "issue": "2",
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Br J Sports Med"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            20
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>To determine the effectiveness of conservative treatment (CT) on pain and function in patients with patellar tendinopathy (PT) compared with minimal intervention (MI) or other invasive intervention, or in addition to decline eccentric squat.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Searches were performed in MEDLINE, Embase, Cochrane, PEDro, SPORTDiscus, CINAHL and AMED databases. All randomised trials that evaluated CT (any intervention not involving invasive procedures or medication) in individuals with PT were included. Two reviewers screened studies, extracted data and assessed risk of bias of all included studies. Where suitable, meta-analyses were conducted; we assessed certainty of the evidence using GRADE methodology.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>When compared with MI, CT did not improve pain (weighted mean difference (WMD) −2.6, 95% CI −6.5 to 1.2) or function (WMD 1.8, 95% CI −2.4 to 6.1) in the short-term (up to 3 months) follow-up. When compared with invasive intervention, CT did not improve pain (WMD 0.7, 95% CI −0.1 to 1.4) or function (WMD −6.6, 95% CI −13.3 to 0.2) in the short-term follow-up. No overall effects were found for combined CT (when a conservative intervention was added to decline eccentric squat) on pain (WMD −0.5, 95% CI −1.4 to 0.4) or function (WMD −2.3, 95 % –9.1 to 4.6) at short-term follow-up. Single studies showed an effect on pain with iontophoresis at short-term follow-up (d = 2.42) or dry needling at medium/long-term follow-up (d = 1.17) and function with exercise intervention at medium/long-term follow-up (over 3 months) (d = 0.83).</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Summary/Conclusion</jats:title>\n                  <jats:p>Our estimates of treatment effect have only low to very low certainty evidence to support them. This field of sports medicine/sports physiotherapy urgently needs larger, high-quality studies with pain and function among the potential primary outcomes.</jats:p>\n               </jats:sec>",
+      "DOI": "10.1136/bjsports-2018-099747",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            6,
+            6
+          ]
+        ],
+        "date-time": "2019-06-06T17:25:14Z",
+        "timestamp": 1559841914000
+      },
+      "page": "87-93",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 30,
+      "title": [
+        "How strong is the evidence that conservative treatment reduces pain and improves function in individuals with patellar tendinopathy? A systematic review of randomised controlled trials including GRADE recommendations"
+      ],
+      "prefix": "10.1136",
+      "volume": "54",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4495-1807",
+          "authenticated-orcid": false,
+          "given": "Luciana De Michelis",
+          "family": "Mendonça",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Physical Therapy Department, Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM), Diamantina, Minas Gerais, Brazil"
+            },
+            {
+              "name": "Programa de Pós Graduação em Reabilitação e Desempenho Funcional, Universidade Federal dos Vales do Jequitinhonha e Mucuri, Diamantina, Brazil"
+            }
+          ]
+        },
+        {
+          "given": "Hércules R",
+          "family": "Leite",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Physical Therapy Department, Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM), Diamantina, Minas Gerais, Brazil"
+            },
+            {
+              "name": "Programa de Pós Graduação em Reabilitação e Desempenho Funcional, Universidade Federal dos Vales do Jequitinhonha e Mucuri, Diamantina, Brazil"
+            }
+          ]
+        },
+        {
+          "given": "Johannes",
+          "family": "Zwerver",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Sport and Exercise Medicine, University of Groningen, Groningen, The Netherlands"
+            }
+          ]
+        },
+        {
+          "given": "Nicholas",
+          "family": "Henschke",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Public Health - Sydney Medical School, University of Sydney, Sydney, New South Wales, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Guilherme",
+          "family": "Branco",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Programa de Pós Graduação em Reabilitação e Desempenho Funcional, Universidade Federal dos Vales do Jequitinhonha e Mucuri, Diamantina, Brazil"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8658-3774",
+          "authenticated-orcid": false,
+          "given": "Vinicius Cunha",
+          "family": "Oliveira",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Physical Therapy Department, Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM), Diamantina, Minas Gerais, Brazil"
+            },
+            {
+              "name": "Programa de Pós Graduação em Reabilitação e Desempenho Funcional, Universidade Federal dos Vales do Jequitinhonha e Mucuri, Diamantina, Brazil"
+            }
+          ]
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            6,
+            6
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2025080112501635000_54.2.87.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546511413370"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.2",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.3233/BMR-2011-0274",
+          "article-title": "The impact of physically demanding work of basketball and volleyball players on the risk for patellar tendinopathy and on work limitations",
+          "volume": "24",
+          "author": "van der Worp",
+          "year": "2011",
+          "journal-title": "BMR"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546504270454"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2014-093593"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.5",
+          "doi-asserted-by": "crossref",
+          "first-page": "607",
+          "DOI": "10.1111/j.1600-0838.2011.01430.x",
+          "article-title": "Training volume and body composition as risk factors for developing jumper's knee among young elite volleyball players",
+          "volume": "23",
+          "author": "Visnes",
+          "year": "2013",
+          "journal-title": "Scand J Med Sci Sports"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00042752-199804000-00001"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1034/j.1600-0838.2001.110602.x"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.8",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Visnes H , Tegnander A , Bahr R . Ultrasound characteristics of the Patellar and quadri-ceps tendons among young elite athletes. Scand J Med Sci Sports 2014;24.",
+          "DOI": "10.1111/sms.12191"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2012-092078"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.10",
+          "doi-asserted-by": "crossref",
+          "first-page": "887",
+          "DOI": "10.2519/jospt.2015.5987",
+          "article-title": "Patellar tendinopathy: clinical diagnosis, load management, and advice for challenging case presentations",
+          "volume": "45",
+          "author": "Malliaras",
+          "year": "2015",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nrrheum.2010.43"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.12",
+          "doi-asserted-by": "crossref",
+          "first-page": "122",
+          "DOI": "10.1016/j.jphys.2014.06.022",
+          "article-title": "Physiotherapy management of Patellar tendinopathy (jumper's knee)",
+          "volume": "60",
+          "author": "Rudavsky",
+          "year": "2014",
+          "journal-title": "Journal of Physiotherapy"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.13",
+          "first-page": "41",
+          "article-title": "Metabolic activity and collagen turnover in human tendon in response to physical activity",
+          "volume": "5",
+          "author": "Kjaer",
+          "year": "2005",
+          "journal-title": "J Musculoskelet Neuronal Interact"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1249/JSR.0b013e31822d4016"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.15",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Drew BT , Smith TO , Littlewood C , et al . eg,collagen/ ma-trix) explain the response to therapeutic exercises in tendinopathy: a systematic review. Br J Sports Med 2012;8.",
+          "DOI": "10.1136/bjsports-2012-091285"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.16",
+          "first-page": "1632",
+          "article-title": "Treatment of patellar tendinopathy—a systematic review of randomized controlled trials. Knee surgery, sports, traumatology",
+          "volume": "20",
+          "author": "Larsson",
+          "year": "2012",
+          "journal-title": "Arthroscopy"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40279-014-0231-5"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.18",
+          "first-page": "409",
+          "article-title": "Does eccentric exercise reduce pain and improve strength in physically active adults with symptomatic lower extremity tendinosis? A systematic review",
+          "volume": "42",
+          "author": "Wasielewski",
+          "year": "2007",
+          "journal-title": "Journal of Athletic Training"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546514531911"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00167-012-2057-8"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546506298109"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.22",
+          "first-page": "1",
+          "article-title": "Nonsurgical Treatments of Patellar Tendinopathy: Multiple Injections of Platelet-Rich Plasma Are a Suitable Option : A Systematic Review and Meta-analysis",
+          "volume": "1",
+          "author": "Andriolo",
+          "year": "2018",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.23",
+          "doi-asserted-by": "crossref",
+          "first-page": "1165",
+          "DOI": "10.4085/1062-6050-50.11.04",
+          "article-title": "Wireless versus wired iontophoresis for treating patellar tendinopathy: a randomized clinical trial",
+          "volume": "50",
+          "author": "Rigby",
+          "year": "2015",
+          "journal-title": "Journal of Athletic Training"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.24",
+          "doi-asserted-by": "crossref",
+          "first-page": "89",
+          "DOI": "10.1097/JSM.0000000000000332",
+          "article-title": "Effectiveness of shockwave treatment combined with eccentric training for patellar tendinopathy: a double-blinded randomized study",
+          "volume": "27",
+          "author": "Thijs",
+          "year": "2017",
+          "journal-title": "Clin J Sport Med"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546513518416"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1600-0838.2009.00949.x"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.27",
+          "doi-asserted-by": "crossref",
+          "first-page": "59",
+          "DOI": "10.2217/1745509X.2.1.59",
+          "article-title": "Is there a role for topical nonsteroidal anti-inflammatory drugs in the treatment of tendonitis?",
+          "volume": "2",
+          "author": "Chen",
+          "year": "2006",
+          "journal-title": "Aging Health"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.28",
+          "unstructured": "Hartvig P , Vikne J , Gudmundsen J . Does laser treatment help in tendinitis? Tidsskr Nor Laegeforen 1989;109."
+        },
+        {
+          "key": "2025080112501635000_54.2.87.29",
+          "unstructured": "Higgins JP , Green S . Cochrane handbook for systematic reviews of interventions, Version 5.1.0 [update March 2011]. The Cochrane Collaboration, 2011. Available: http://handbook.cochrane.org/ [Accessed 03 Aug 2016]."
+        },
+        {
+          "key": "2025080112501635000_54.2.87.30",
+          "unstructured": "Valentine JC , Cooper H . Effect size substantive interpretation guidelines: issues in the interpretation of effect sizes. Washington, DC: What Works Clearinghouse, 2003."
+        },
+        {
+          "key": "2025080112501635000_54.2.87.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/a0038047"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.39489.470347.AD"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1503/cmaj.060410"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546513475345"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.35",
+          "unstructured": "Taunton J , Taunton KM , Khan KM . Treatment of Patellar tendinopathy with extracorporeal shock wave therapy. BCMJ 2003;45."
+        },
+        {
+          "key": "2025080112501635000_54.2.87.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2012-091115"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/rheumatology/kem384"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546510395492"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.39",
+          "first-page": "1",
+          "article-title": "Comparison of the effect of 5 different treatment options for managing patellar tendinopathy: a secondary analysis",
+          "volume": "0",
+          "author": "van Rijn",
+          "year": "2017",
+          "journal-title": "Clin J Sport Med"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.40",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1007/s12306-014-0340-1",
+          "article-title": "Platelet-rich plasma: evidence for the treatment of patellar and Achilles tendinopathy--a systematic review",
+          "volume": "99",
+          "author": "Di Matteo",
+          "year": "2015",
+          "journal-title": "Musculoskelet Surg"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsm.2010.079822"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsm.2010.078824"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1191/0269215504cr757oa"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.44",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Cook JL . Ten treatments to avoid in patients with lower limb tendon pain. Br J Sports Med 2018;23.",
+          "DOI": "10.1136/bjsports-2018-099045"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.45",
+          "doi-asserted-by": "crossref",
+          "first-page": "232",
+          "DOI": "10.2519/jospt.2017.6994",
+          "article-title": "Dry Needling versus cortisone injection in the treatment of greater trochanteric pain syndrome: a Noninferiority randomized clinical trial",
+          "volume": "47",
+          "author": "Brennan",
+          "year": "2017",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1096/fj.01-0015hyp"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.47",
+          "unstructured": "Lee WC , GY N , Zhang ZJ , et al . Changes on tendon stiffness and clinical outcomes in athletes are associated with patellar tendinopathy after eccentric exercise. Clin J Sport Med 2017;19."
+        },
+        {
+          "key": "2025080112501635000_54.2.87.48",
+          "doi-asserted-by": "crossref",
+          "first-page": "2517",
+          "DOI": "10.1249/MSS.0000000000001369",
+          "article-title": "Effects of altering trunk position during Landings on patellar tendon force and pain",
+          "volume": "49",
+          "author": "Scattone-Silva",
+          "year": "2017",
+          "journal-title": "Medicine & Science in Sports & Exercise"
+        },
+        {
+          "key": "2025080112501635000_54.2.87.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.blo.0000195927.81845.46"
+        }
+      ],
+      "container-title": [
+        "British Journal of Sports Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bjsports-2018-099747",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2025-08-01T19:50:26Z",
+        "timestamp": 1754077826000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bjsm.bmj.com/lookup/doi/10.1136/bjsports-2018-099747"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            6,
+            6
+          ]
+        ]
+      },
+      "references-count": 49,
+      "journal-issue": {
+        "issue": "2",
+        "published-online": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              3
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bjsports-2018-099747"
+      ],
+      "URL": "https://doi.org/10.1136/bjsports-2018-099747",
+      "relation": {},
+      "ISSN": [
+        "0306-3674",
+        "1473-0480"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0306-3674"
+        },
+        {
+          "type": "electronic",
+          "value": "1473-0480"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            6,
+            6
+          ]
+        ]
+      }
+    }
+  }
+}

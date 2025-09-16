@@ -1,0 +1,173 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TriageOutput.Cervicalgia",
+  "type": "object",
+  "required": [
+    "decision",
+    "actions",
+    "follow_up",
+    "citations"
+  ],
+  "properties": {
+    "decision": {
+      "type": "string",
+      "enum": [
+        "URGENT_EMERGENCY",
+        "RAPID_SPECIALIST",
+        "CONSERVATIVE_MANAGEMENT",
+        "CONTRAINDICATION_ACTION",
+        "SURGICAL_OPINION"
+      ]
+    },
+    "priority_hours": {
+      "type": "number",
+      "description": "If emergency, target transfer/ED time window"
+    },
+    "actions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": [
+              "IMMOBILIZE",
+              "SEND_ED",
+              "ORDER_IMAGING",
+              "ORDER_LABS",
+              "REFER_SPECIALIST",
+              "INIT_CONSERVATIVE",
+              "RESTRICT_MANIP",
+              "ADVISE"
+            ]
+          },
+          "details": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "conservative_plan": {
+      "type": "object",
+      "properties": {
+        "exercise": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "manual_therapy": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "mobilisation",
+              "manipulation_thoracic",
+              "manipulation_cervical_low_risk",
+              "traction_selected",
+              "neurodynamic"
+            ]
+          }
+        },
+        "pharmacology": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "NSAIDs",
+              "acetaminophen"
+            ]
+          }
+        },
+        "dosage_frequency": {
+          "type": "string"
+        }
+      }
+    },
+    "imaging_recommendations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "modality": {
+            "type": "string",
+            "enum": [
+              "CT",
+              "MRI",
+              "CTA",
+              "MRA",
+              "XR",
+              "US"
+            ]
+          },
+          "indication": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "referral": {
+      "type": "object",
+      "properties": {
+        "specialty": {
+          "type": "string",
+          "enum": [
+            "neurology",
+            "neurosurgery",
+            "orthopedics",
+            "rheumatology",
+            "vascular",
+            "emergency"
+          ]
+        },
+        "timeframe": {
+          "type": "string",
+          "enum": [
+            "now",
+            "24-48h",
+            "1-2w",
+            "routine"
+          ]
+        }
+      }
+    },
+    "safety_warnings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "follow_up": {
+      "type": "string",
+      "description": "e.g., re-evaluate in 2–6 weeks or sooner if deterioration"
+    },
+    "citations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "file",
+          "loc"
+        ],
+        "properties": {
+          "file": {
+            "type": "string"
+          },
+          "loc": {
+            "type": "string"
+          },
+          "theme": {
+            "type": "string"
+          },
+          "note": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "explainability": {
+      "type": "string",
+      "description": "brief rationale (rules triggered + evidence used)"
+    }
+  }
+}

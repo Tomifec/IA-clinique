@@ -1,0 +1,4533 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_s0140_6736_16_31460_x.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_s0140_6736_16_31460_x",
+  "doi": "10.1016/S0140-6736(16)31460-X",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:10.693458Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T13:48:10Z",
+        "timestamp": 1757684890491
+      },
+      "reference-count": 60,
+      "publisher": "Elsevier BV",
+      "issue": "10053",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2016-10-01T00:00:00Z",
+            "timestamp": 1475280000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                9,
+                30
+              ]
+            ],
+            "date-time": "2016-09-30T00:00:00Z",
+            "timestamp": 1475193600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "clinicalkey.com.au",
+          "clinicalkey.es",
+          "clinicalkey.com",
+          "em-consulte.com",
+          "thelancet.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The Lancet"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1016/s0140-6736(16)31460-x",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2016,
+            10,
+            7
+          ]
+        ],
+        "date-time": "2016-10-07T00:15:27Z",
+        "timestamp": 1475799327000
+      },
+      "page": "1603-1658",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1605,
+      "title": [
+        "Global, regional, and national disability-adjusted life-years (DALYs) for 315 diseases and injuries and healthy life expectancy (HALE), 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015"
+      ],
+      "prefix": "10.1016",
+      "volume": "388",
+      "author": [
+        {
+          "given": "Nicholas J",
+          "family": "Kassebaum",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Megha",
+          "family": "Arora",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ryan M",
+          "family": "Barber",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Zulfiqar A",
+          "family": "Bhutta",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jonathan",
+          "family": "Brown",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Austin",
+          "family": "Carter",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Daniel C",
+          "family": "Casey",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Fiona J",
+          "family": "Charlson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Matthew M",
+          "family": "Coates",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Megan",
+          "family": "Coggeshall",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Leslie",
+          "family": "Cornaby",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lalit",
+          "family": "Dandona",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Daniel J",
+          "family": "Dicker",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Holly E",
+          "family": "Erskine",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alize J",
+          "family": "Ferrari",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christina",
+          "family": "Fitzmaurice",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kyle",
+          "family": "Foreman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mohammad H",
+          "family": "Forouzanfar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nancy",
+          "family": "Fullman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter W",
+          "family": "Gething",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ellen M",
+          "family": "Goldberg",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nicholas",
+          "family": "Graetz",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Juanita A",
+          "family": "Haagsma",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Simon I",
+          "family": "Hay",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Catherine O",
+          "family": "Johnson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Laura",
+          "family": "Kemmer",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ibrahim A",
+          "family": "Khalil",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yohannes",
+          "family": "Kinfu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michael J",
+          "family": "Kutz",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hmwe H",
+          "family": "Kyu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Janni",
+          "family": "Leung",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Xiaofeng",
+          "family": "Liang",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stephen S",
+          "family": "Lim",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rafael",
+          "family": "Lozano",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "George A",
+          "family": "Mensah",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joe",
+          "family": "Mikesell",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ali H",
+          "family": "Mokdad",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Meghan D",
+          "family": "Mooney",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mohsen",
+          "family": "Naghavi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Grant",
+          "family": "Nguyen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Elaine",
+          "family": "Nsoesie",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "David M",
+          "family": "Pigott",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christine",
+          "family": "Pinho",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Zane",
+          "family": "Rankin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nikolas",
+          "family": "Reinig",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joshua A",
+          "family": "Salomon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Logan",
+          "family": "Sandar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alison",
+          "family": "Smith",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Reed J D",
+          "family": "Sorensen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jeffrey",
+          "family": "Stanaway",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Caitlyn",
+          "family": "Steiner",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stephanie",
+          "family": "Teeple",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Chris",
+          "family": "Troeger",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Thomas",
+          "family": "Truelsen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Amelia",
+          "family": "VanderZanden",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joseph A",
+          "family": "Wagner",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Valentine",
+          "family": "Wanga",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Harvey A",
+          "family": "Whiteford",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Maigeng",
+          "family": "Zhou",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Leo",
+          "family": "Zoeckler",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Amanuel Alemu",
+          "family": "Abajobir",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kalkidan Hassen",
+          "family": "Abate",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Cristiana",
+          "family": "Abbafati",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kaja M",
+          "family": "Abbas",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Foad",
+          "family": "Abd-Allah",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Biju",
+          "family": "Abraham",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ibrahim",
+          "family": "Abubakar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Laith J",
+          "family": "Abu-Raddad",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Niveen M E",
+          "family": "Abu-Rmeileh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tom",
+          "family": "Achoki",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ilana N",
+          "family": "Ackerman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Akindele Olupelumi",
+          "family": "Adebiyi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Isaac Akinkunmi",
+          "family": "Adedeji",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "José C",
+          "family": "Adsuar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kossivi Agbelenko",
+          "family": "Afanvi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ashkan",
+          "family": "Afshin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Emilie Elisabet",
+          "family": "Agardh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Arnav",
+          "family": "Agarwal",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sanjay Kumar",
+          "family": "Agarwal",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Muktar Beshir",
+          "family": "Ahmed",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Aliasghar Ahmad",
+          "family": "Kiadaliri",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hamid",
+          "family": "Ahmadieh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nadia",
+          "family": "Akseer",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ziyad",
+          "family": "Al-Aly",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Khurshid",
+          "family": "Alam",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Noore K M",
+          "family": "Alam",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Saleh Fahed",
+          "family": "Aldhahri",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Miguel Angel",
+          "family": "Alegretti",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alicia V",
+          "family": "Aleman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Zewdie Aderaw",
+          "family": "Alemu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lily T",
+          "family": "Alexander",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Raghib",
+          "family": "Ali",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ala'a",
+          "family": "Alkerwi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "François",
+          "family": "Alla",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter",
+          "family": "Allebeck",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christine",
+          "family": "Allen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ubai",
+          "family": "Alsharif",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Khalid A",
+          "family": "Altirkawi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Elena Alvarez",
+          "family": "Martin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nelson",
+          "family": "Alvis-Guzman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Azmeraw T",
+          "family": "Amare",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alemayehu",
+          "family": "Amberbir",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Adeladza Kofi",
+          "family": "Amegah",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Heresh",
+          "family": "Amini",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Walid",
+          "family": "Ammar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stephen Marc",
+          "family": "Amrock",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gregory M",
+          "family": "Anderson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Benjamin O",
+          "family": "Anderson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Carl Abelardo T",
+          "family": "Antonio",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Palwasha",
+          "family": "Anwari",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Johan",
+          "family": "Ärnlöv",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Valentina S Arsic",
+          "family": "Arsenijevic",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Al",
+          "family": "Artaman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hamid",
+          "family": "Asayesh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rana Jawad",
+          "family": "Asghar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Euripide Frinel G Arthur",
+          "family": "Avokpaho",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ashish",
+          "family": "Awasthi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Beatriz Paulina Ayala",
+          "family": "Quintanilla",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter",
+          "family": "Azzopardi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Umar",
+          "family": "Bacha",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alaa",
+          "family": "Badawi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kalpana",
+          "family": "Balakrishnan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Amitava",
+          "family": "Banerjee",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Aleksandra",
+          "family": "Barac",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Suzanne L",
+          "family": "Barker-Collo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Till",
+          "family": "Bärnighausen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lars",
+          "family": "Barregard",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lope H",
+          "family": "Barrero",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sanjay",
+          "family": "Basu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tigist Assefa",
+          "family": "Bayou",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Justin",
+          "family": "Beardsley",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Neeraj",
+          "family": "Bedi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ettore",
+          "family": "Beghi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Brent",
+          "family": "Bell",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michelle L",
+          "family": "Bell",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Corina",
+          "family": "Benjet",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Derrick A",
+          "family": "Bennett",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Isabela M",
+          "family": "Bensenor",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Adugnaw",
+          "family": "Berhane",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Eduardo",
+          "family": "Bernabé",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Balem Demtsu",
+          "family": "Betsu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Addisu Shunu",
+          "family": "Beyene",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Neeraj",
+          "family": "Bhala",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Anil",
+          "family": "Bhansali",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Samir",
+          "family": "Bhatt",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sibhatu",
+          "family": "Biadgilign",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kelly",
+          "family": "Bienhoff",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Boris",
+          "family": "Bikbov",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Aref A Bin",
+          "family": "Abdulhak",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stan",
+          "family": "Biryukov",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Donal",
+          "family": "Bisanzio",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Espen",
+          "family": "Bjertness",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jed D",
+          "family": "Blore",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rohan",
+          "family": "Borschmann",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Soufiane",
+          "family": "Boufous",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rupert R A",
+          "family": "Bourne",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michael",
+          "family": "Brainin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alexandra",
+          "family": "Brazinova",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nicholas J K",
+          "family": "Breitborde",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Traolach S",
+          "family": "Brugha",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rachelle",
+          "family": "Buchbinder",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Geoffrey Colin",
+          "family": "Buckle",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Zahid A",
+          "family": "Butt",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bianca",
+          "family": "Calabria",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ismael Ricardo",
+          "family": "Campos-Nonato",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Julio Cesar",
+          "family": "Campuzano",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hélène",
+          "family": "Carabin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jonathan R",
+          "family": "Carapetis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rosario",
+          "family": "Cárdenas",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Juan Jesus",
+          "family": "Carrero",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Carlos A",
+          "family": "Castañeda-Orjuela",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jacqueline Castillo",
+          "family": "Rivas",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ferrán",
+          "family": "Catalá-López",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Fiorella",
+          "family": "Cavalleri",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jung-Chen",
+          "family": "Chang",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peggy Pei-Chia",
+          "family": "Chiang",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mirriam",
+          "family": "Chibalabala",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Chioma Ezinne",
+          "family": "Chibueze",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Vesper Hichilombwe",
+          "family": "Chisumpa",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jee-Young Jasmine",
+          "family": "Choi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lincoln",
+          "family": "Choudhury",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hanne",
+          "family": "Christensen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Liliana G",
+          "family": "Ciobanu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Valentina",
+          "family": "Colistro",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mercedes",
+          "family": "Colomar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Samantha M",
+          "family": "Colquhoun",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Monica",
+          "family": "Cortinovis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "John A",
+          "family": "Crump",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Albertino",
+          "family": "Damasceno",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rakhi",
+          "family": "Dandona",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Paul I",
+          "family": "Dargan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "José",
+          "family": "das Neves",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gail",
+          "family": "Davey",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Adrian C",
+          "family": "Davis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Diego De",
+          "family": "Leo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Louisa",
+          "family": "Degenhardt",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Liana C Del",
+          "family": "Gobbo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sarah",
+          "family": "Derrett",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Don C Des",
+          "family": "Jarlais",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gabrielle A",
+          "family": "deVeber",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Samath D",
+          "family": "Dharmaratne",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Preet K",
+          "family": "Dhillon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Eric L",
+          "family": "Ding",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kerrie E",
+          "family": "Doyle",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tim R",
+          "family": "Driscoll",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Leilei",
+          "family": "Duan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Manisha",
+          "family": "Dubey",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bruce Bartholow",
+          "family": "Duncan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hedyeh",
+          "family": "Ebrahimi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Richard G",
+          "family": "Ellenbogen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Iqbal",
+          "family": "Elyazar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Aman Yesuf",
+          "family": "Endries",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sergey Petrovich",
+          "family": "Ermakov",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Babak",
+          "family": "Eshrati",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alireza",
+          "family": "Esteghamati",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kara",
+          "family": "Estep",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Saman",
+          "family": "Fahimi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Talha A",
+          "family": "Farid",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Carla Sofia e Sa",
+          "family": "Farinha",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "André",
+          "family": "Faro",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Maryam S",
+          "family": "Farvid",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Farshad",
+          "family": "Farzadfar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Valery L",
+          "family": "Feigin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Seyed-Mohammad",
+          "family": "Fereshtehnejad",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jefferson G",
+          "family": "Fernandes",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joao C",
+          "family": "Fernandes",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Florian",
+          "family": "Fischer",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joseph R A",
+          "family": "Fitchett",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nataliya",
+          "family": "Foigt",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "F Gerry R",
+          "family": "Fowkes",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Richard C",
+          "family": "Franklin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joseph",
+          "family": "Friedman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joseph",
+          "family": "Frostad",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Thomas",
+          "family": "Fürst",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Neal D",
+          "family": "Futran",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Belinda",
+          "family": "Gabbe",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Fortuné Gbètoho",
+          "family": "Gankpé",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alberto L",
+          "family": "Garcia-Basteiro",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tsegaye Tewelde",
+          "family": "Gebrehiwot",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Amanuel Tesfay",
+          "family": "Gebremedhin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Johanna M",
+          "family": "Geleijnse",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Katherine B",
+          "family": "Gibney",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Richard F",
+          "family": "Gillum",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ibrahim Abdelmageem Mohamed",
+          "family": "Ginawi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ababi Zergaw",
+          "family": "Giref",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Maurice",
+          "family": "Giroud",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Melkamu Dedefo",
+          "family": "Gishu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Giorgia",
+          "family": "Giussani",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "William W",
+          "family": "Godwin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hector",
+          "family": "Gomez-Dantes",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Philimon",
+          "family": "Gona",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Amador",
+          "family": "Goodridge",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sameer Vali",
+          "family": "Gopalani",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Carolyn C",
+          "family": "Gotay",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Atsushi",
+          "family": "Goto",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hebe N",
+          "family": "Gouda",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Harish",
+          "family": "Gugnani",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yuming",
+          "family": "Guo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rahul",
+          "family": "Gupta",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rajeev",
+          "family": "Gupta",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Vipin",
+          "family": "Gupta",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Reyna A",
+          "family": "Gutiérrez",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nima",
+          "family": "Hafezi-Nejad",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Demewoz",
+          "family": "Haile",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alemayehu Desalegne",
+          "family": "Hailu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gessessew Bugssa",
+          "family": "Hailu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yara A",
+          "family": "Halasa",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Randah Ribhi",
+          "family": "Hamadeh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Samer",
+          "family": "Hamidi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mouhanad",
+          "family": "Hammami",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alexis J",
+          "family": "Handal",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Graeme J",
+          "family": "Hankey",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hilda L",
+          "family": "Harb",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sivadasanpillai",
+          "family": "Harikrishnan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Josep Maria",
+          "family": "Haro",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mohammad Sadegh",
+          "family": "Hassanvand",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tahir Ahmed",
+          "family": "Hassen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rasmus",
+          "family": "Havmoeller",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Roderick J",
+          "family": "Hay",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mohammad T",
+          "family": "Hedayati",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ileana Beatriz",
+          "family": "Heredia-Pi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Pouria",
+          "family": "Heydarpour",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hans W",
+          "family": "Hoek",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Daniel J",
+          "family": "Hoffman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Masako",
+          "family": "Horino",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nobuyuki",
+          "family": "Horita",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "H Dean",
+          "family": "Hosgood",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Damian G",
+          "family": "Hoy",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mohamed",
+          "family": "Hsairi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hsiang",
+          "family": "Huang",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "John J",
+          "family": "Huang",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kim Moesgaard",
+          "family": "Iburg",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bulat T",
+          "family": "Idrisov",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kaire",
+          "family": "Innos",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Manami",
+          "family": "Inoue",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kathryn H",
+          "family": "Jacobsen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alejandra",
+          "family": "Jauregui",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Achala Upendra",
+          "family": "Jayatilleke",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Panniyammakal",
+          "family": "Jeemon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Vivekanand",
+          "family": "Jha",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Guohong",
+          "family": "Jiang",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ying",
+          "family": "Jiang",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tariku",
+          "family": "Jibat",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Aida",
+          "family": "Jimenez-Corona",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ye",
+          "family": "Jin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jost B",
+          "family": "Jonas",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Zubair",
+          "family": "Kabir",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Dan K",
+          "family": "Kajungu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yogeshwar",
+          "family": "Kalkonde",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ritul",
+          "family": "Kamal",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Haidong",
+          "family": "Kan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Amit",
+          "family": "Kandel",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "André",
+          "family": "Karch",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Corine Kakizi",
+          "family": "Karema",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Chante",
+          "family": "Karimkhani",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Amir",
+          "family": "Kasaeian",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Marzieh",
+          "family": "Katibeh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Anil",
+          "family": "Kaul",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Norito",
+          "family": "Kawakami",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Dhruv S",
+          "family": "Kazi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter Njenga",
+          "family": "Keiyoro",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Andrew Haddon",
+          "family": "Kemp",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Andre Pascal",
+          "family": "Kengne",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Andre",
+          "family": "Keren",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Chandrasekharan Nair",
+          "family": "Kesavachandran",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yousef Saleh",
+          "family": "Khader",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Abdur Rahman",
+          "family": "Khan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ejaz Ahmad",
+          "family": "Khan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Young-Ho",
+          "family": "Khang",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tawfik Ahmed Muthafer",
+          "family": "Khoja",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jagdish",
+          "family": "Khubchandani",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christian",
+          "family": "Kieling",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Cho-il",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Daniel",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yun Jin",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Niranjan",
+          "family": "Kissoon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Miia",
+          "family": "Kivipelto",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Luke D",
+          "family": "Knibbs",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ann Kristin",
+          "family": "Knudsen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yoshihiro",
+          "family": "Kokubo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Dhaval",
+          "family": "Kolte",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jacek A",
+          "family": "Kopec",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Parvaiz A",
+          "family": "Koul",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ai",
+          "family": "Koyanagi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Barthelemy Kuate",
+          "family": "Defo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ricardo S",
+          "family": "Kuchenbecker",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Burcu Kucuk",
+          "family": "Bicer",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ernst J",
+          "family": "Kuipers",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "G Anil",
+          "family": "Kumar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gene F",
+          "family": "Kwan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ratilal",
+          "family": "Lalloo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tea",
+          "family": "Lallukka",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Anders",
+          "family": "Larsson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Asma Abdul",
+          "family": "Latif",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Pablo M",
+          "family": "Lavados",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alicia Elena Beatriz",
+          "family": "Lawrynowicz",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Janet L",
+          "family": "Leasher",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "James",
+          "family": "Leigh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ricky",
+          "family": "Leung",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yichong",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yongmei",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Steven E",
+          "family": "Lipshultz",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Patrick Y",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yang",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Belinda K",
+          "family": "Lloyd",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Giancarlo",
+          "family": "Logroscino",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Katharine J",
+          "family": "Looker",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Paulo A",
+          "family": "Lotufo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Robyn M",
+          "family": "Lucas",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Raimundas",
+          "family": "Lunevicius",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ronan A",
+          "family": "Lyons",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hassan Magdy Abd El",
+          "family": "Razek",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mahdi",
+          "family": "Mahdavi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Marek",
+          "family": "Majdan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Azeem",
+          "family": "Majeed",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Reza",
+          "family": "Malekzadeh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Deborah Carvalho",
+          "family": "Malta",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Wagner",
+          "family": "Marcenes",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jose",
+          "family": "Martinez-Raga",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Felix",
+          "family": "Masiye",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Amanda J",
+          "family": "Mason-Jones",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Richard",
+          "family": "Matzopoulos",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bongani M",
+          "family": "Mayosi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "John J",
+          "family": "McGrath",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Martin",
+          "family": "McKee",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter A",
+          "family": "Meaney",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alem",
+          "family": "Mehari",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yohannes Adama",
+          "family": "Melaku",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter",
+          "family": "Memiah",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ziad A",
+          "family": "Memish",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Walter",
+          "family": "Mendoza",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Atte",
+          "family": "Meretoja",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tuomo J",
+          "family": "Meretoja",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yonatan Moges",
+          "family": "Mesfin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Francis Apolinary",
+          "family": "Mhimbira",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Anoushka",
+          "family": "Millear",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ted R",
+          "family": "Miller",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Edward J",
+          "family": "Mills",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mojde",
+          "family": "Mirarefin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Erkin M",
+          "family": "Mirrakhimov",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Philip B",
+          "family": "Mitchell",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Charles N",
+          "family": "Mock",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Karzan Abdulmuhsin",
+          "family": "Mohammad",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alireza",
+          "family": "Mohammadi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Shafiu",
+          "family": "Mohammed",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lorenzo",
+          "family": "Monasta",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Julio Cesar Montañez",
+          "family": "Hernandez",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Marcella",
+          "family": "Montico",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Maziar",
+          "family": "Moradi-Lakeh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rintaro",
+          "family": "Mori",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ulrich O",
+          "family": "Mueller",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "John Everett",
+          "family": "Mumford",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michele E",
+          "family": "Murdoch",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gudlavalleti Venkata Satyanarayana",
+          "family": "Murthy",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jean B",
+          "family": "Nachega",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Aliya",
+          "family": "Naheed",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Luigi",
+          "family": "Naldi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Vinay",
+          "family": "Nangia",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "John N",
+          "family": "Newton",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Marie",
+          "family": "Ng",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Frida Namnyak",
+          "family": "Ngalesoni",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Quyen Le",
+          "family": "Nguyen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Muhammad Imran",
+          "family": "Nisar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Patrick Martial Nkamedjie",
+          "family": "Pete",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joan M",
+          "family": "Nolla",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ole F",
+          "family": "Norheim",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rosana E",
+          "family": "Norman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bo",
+          "family": "Norrving",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Carla Makhlouf",
+          "family": "Obermeyer",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Felix Akpojene",
+          "family": "Ogbo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "In-Hwan",
+          "family": "Oh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Olanrewaju",
+          "family": "Oladimeji",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Pedro R",
+          "family": "Olivares",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bolajoko Olubukunola",
+          "family": "Olusanya",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jacob Olusegun",
+          "family": "Olusanya",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Eyal",
+          "family": "Oren",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alberto",
+          "family": "Ortiz",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Erika",
+          "family": "Ota",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Abayomi Samuel",
+          "family": "Oyekale",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mahesh",
+          "family": "PA",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Eun-Kee",
+          "family": "Park",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mahboubeh",
+          "family": "Parsaeian",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Scott B",
+          "family": "Patten",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "George C",
+          "family": "Patton",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "João Mário",
+          "family": "Pedro",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "David M",
+          "family": "Pereira",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Norberto",
+          "family": "Perico",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Konrad",
+          "family": "Pesudovs",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Max",
+          "family": "Petzold",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michael Robert",
+          "family": "Phillips",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Frédéric B",
+          "family": "Piel",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Julian David",
+          "family": "Pillay",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Farhad",
+          "family": "Pishgar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Dietrich",
+          "family": "Plass",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Suzanne",
+          "family": "Polinder",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Svetlana",
+          "family": "Popova",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Richie G",
+          "family": "Poulton",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Farshad",
+          "family": "Pourmalek",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Noela M",
+          "family": "Prasad",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mostafa",
+          "family": "Qorbani",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rynaz H S",
+          "family": "Rabiee",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Amir",
+          "family": "Radfar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Anwar",
+          "family": "Rafay",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kazem",
+          "family": "Rahimi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Vafa",
+          "family": "Rahimi-Movaghar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mahfuzar",
+          "family": "Rahman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mohammad Hifz Ur",
+          "family": "Rahman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sajjad Ur",
+          "family": "Rahman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Dheeraj",
+          "family": "Rai",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rajesh Kumar",
+          "family": "Rai",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sasa",
+          "family": "Rajsic",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Murugesan",
+          "family": "Raju",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Usha",
+          "family": "Ram",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kavitha",
+          "family": "Ranganathan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Amany H",
+          "family": "Refaat",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Marissa B",
+          "family": "Reitsma",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Giuseppe",
+          "family": "Remuzzi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Serge",
+          "family": "Resnikoff",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alex",
+          "family": "Reynolds",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Antonio L",
+          "family": "Ribeiro",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stefano",
+          "family": "Ricci",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hirbo Shore",
+          "family": "Roba",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "David",
+          "family": "Rojas-Rueda",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Luca",
+          "family": "Ronfani",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gholamreza",
+          "family": "Roshandel",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gregory A",
+          "family": "Roth",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ambuj",
+          "family": "Roy",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ben Benasco",
+          "family": "Sackey",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rajesh",
+          "family": "Sagar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Juan R",
+          "family": "Sanabria",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Maria Dolores",
+          "family": "Sanchez-Niño",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Itamar S",
+          "family": "Santos",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "João Vasco",
+          "family": "Santos",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rodrigo",
+          "family": "Sarmiento-Suarez",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Benn",
+          "family": "Sartorius",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Maheswar",
+          "family": "Satpathy",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Miloje",
+          "family": "Savic",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Monika",
+          "family": "Sawhney",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Maria Inês",
+          "family": "Schmidt",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ione J C",
+          "family": "Schneider",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Aletta E",
+          "family": "Schutte",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "David C",
+          "family": "Schwebel",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Soraya",
+          "family": "Seedat",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sadaf G",
+          "family": "Sepanlou",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Edson E",
+          "family": "Servan-Mori",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Saeid",
+          "family": "Shahraz",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Masood Ali",
+          "family": "Shaikh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rajesh",
+          "family": "Sharma",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jun",
+          "family": "She",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sara",
+          "family": "Sheikhbahaei",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jiabin",
+          "family": "Shen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kevin N",
+          "family": "Sheth",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kenji",
+          "family": "Shibuya",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mika",
+          "family": "Shigematsu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Min-Jeong",
+          "family": "Shin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rahman",
+          "family": "Shiri",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Inga Dora",
+          "family": "Sigfusdottir",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Diego Augusto Santos",
+          "family": "Silva",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jonathan I",
+          "family": "Silverberg",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Edgar P",
+          "family": "Simard",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Abhishek",
+          "family": "Singh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jasvinder A",
+          "family": "Singh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Prashant Kumar",
+          "family": "Singh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Vegard",
+          "family": "Skirbekk",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jens Christoffer",
+          "family": "Skogen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michael",
+          "family": "Soljak",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kjetil",
+          "family": "Søreide",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Reed J D",
+          "family": "Sorensen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Chandrashekhar T",
+          "family": "Sreeramareddy",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Vasiliki",
+          "family": "Stathopoulou",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nicholas",
+          "family": "Steel",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Dan J",
+          "family": "Stein",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Murray B",
+          "family": "Stein",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Timothy J",
+          "family": "Steiner",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lars Jacob",
+          "family": "Stovner",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Saverio",
+          "family": "Stranges",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Konstantinos",
+          "family": "Stroumpoulis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bruno F",
+          "family": "Sunguya",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Patrick J",
+          "family": "Sur",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Soumya",
+          "family": "Swaminathan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bryan L",
+          "family": "Sykes",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Cassandra E I",
+          "family": "Szoeke",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rafael",
+          "family": "Tabarés-Seisdedos",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nikhil",
+          "family": "Tandon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "David",
+          "family": "Tanne",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mohammad",
+          "family": "Tavakkoli",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bineyam",
+          "family": "Taye",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hugh R",
+          "family": "Taylor",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Braden J Te",
+          "family": "Ao",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Teketo Kassaw",
+          "family": "Tegegne",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Dejen Yemane",
+          "family": "Tekle",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Abdullah Sulieman",
+          "family": "Terkawi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gizachew Assefa",
+          "family": "Tessema",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "J S",
+          "family": "Thakur",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alan J",
+          "family": "Thomson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Andrew L",
+          "family": "Thorne-Lyman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Amanda G",
+          "family": "Thrift",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "George D",
+          "family": "Thurston",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ruoyan",
+          "family": "Tobe-Gai",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Marcello",
+          "family": "Tonelli",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Roman",
+          "family": "Topor-Madry",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Fotis",
+          "family": "Topouzis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bach Xuan",
+          "family": "Tran",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Thomas",
+          "family": "Truelsen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Zacharie Tsala",
+          "family": "Dimbuene",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Miltiadis",
+          "family": "Tsilimbaris",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Abera Kenay",
+          "family": "Tura",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Emin Murat",
+          "family": "Tuzcu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stefanos",
+          "family": "Tyrovolas",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kingsley N",
+          "family": "Ukwaja",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Eduardo A",
+          "family": "Undurraga",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Chigozie Jesse",
+          "family": "Uneke",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Olalekan A",
+          "family": "Uthman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Coen H",
+          "family": "van Gool",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jim",
+          "family": "van Os",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tommi",
+          "family": "Vasankari",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ana Maria Nogales",
+          "family": "Vasconcelos",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Narayanaswamy",
+          "family": "Venketasubramanian",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Francesco S",
+          "family": "Violante",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Vasiliy Victorovich",
+          "family": "Vlassov",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stein Emil",
+          "family": "Vollset",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gregory R",
+          "family": "Wagner",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mitchell T",
+          "family": "Wallin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Linhong",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Scott",
+          "family": "Weichenthal",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Elisabete",
+          "family": "Weiderpass",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Robert G",
+          "family": "Weintraub",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Andrea",
+          "family": "Werdecker",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ronny",
+          "family": "Westerman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tissa",
+          "family": "Wijeratne",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "James D",
+          "family": "Wilkinson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hywel C",
+          "family": "Williams",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Charles Shey",
+          "family": "Wiysonge",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Solomon Meseret",
+          "family": "Woldeyohannes",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Charles D A",
+          "family": "Wolfe",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sungho",
+          "family": "Won",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gelin",
+          "family": "Xu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ajit Kumar",
+          "family": "Yadav",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bereket",
+          "family": "Yakob",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lijing L",
+          "family": "Yan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yuichiro",
+          "family": "Yano",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mehdi",
+          "family": "Yaseri",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Pengpeng",
+          "family": "Ye",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Paul",
+          "family": "Yip",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Naohiro",
+          "family": "Yonemoto",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Seok-Jun",
+          "family": "Yoon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mustafa Z",
+          "family": "Younis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Chuanhua",
+          "family": "Yu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Zoubida",
+          "family": "Zaidi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Maysaa El Sayed",
+          "family": "Zaki",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Hajo",
+          "family": "Zeeb",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sanjay",
+          "family": "Zodpey",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "David",
+          "family": "Zonies",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Liesl Joanna",
+          "family": "Zuhlke",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Theo",
+          "family": "Vos",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alan D",
+          "family": "Lopez",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christopher J L",
+          "family": "Murray",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "1314",
+          "DOI": "10.1016/S0140-6736(15)00382-7",
+          "article-title": "Choosing indicators for the health-related SDG targets",
+          "volume": "386",
+          "author": "Murray",
+          "year": "2015",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "1390",
+          "DOI": "10.1056/NEJMp1510082",
+          "article-title": "Shifting to Sustainable Development Goals—Implications for global health",
+          "volume": "373",
+          "author": "Murray",
+          "year": "2015",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "320",
+          "DOI": "10.1038/534320a",
+          "article-title": "Policy: Map the interactions between Sustainable Development Goals",
+          "volume": "534",
+          "author": "Nilsson",
+          "year": "2016",
+          "journal-title": "Nature News"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib6",
+          "series-title": "Summary Measures in Population Health: Concepts, Ethics, Measurement, and Applications",
+          "author": "Murray",
+          "year": "2002"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "347",
+          "DOI": "10.2307/4594169",
+          "article-title": "A single index of mortality and morbidity",
+          "volume": "86",
+          "author": "Sullivan",
+          "year": "1971",
+          "journal-title": "HSMHA Health Rep"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1685",
+          "DOI": "10.1016/S0140-6736(00)04824-8",
+          "article-title": "Healthy life expectancy in 191 countries, 1999",
+          "volume": "357",
+          "author": "Mathers",
+          "year": "2001",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "2197",
+          "DOI": "10.1016/S0140-6736(12)61689-4",
+          "article-title": "Disability-adjusted life years (DALYs) for 291 diseases and injuries in 21 regions, 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010",
+          "volume": "380",
+          "author": "Murray",
+          "year": "2012",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "2145",
+          "DOI": "10.1016/S0140-6736(15)61340-X",
+          "article-title": "Global, regional, and national disability-adjusted life years (DALYs) for 306 diseases and injuries and healthy life expectancy (HALE) for 188 countries, 1990–2013: quantifying the epidemiological transition",
+          "volume": "386",
+          "author": "Murray",
+          "year": "2015",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib11",
+          "first-page": "429",
+          "article-title": "Quantifying the burden of disease: the technical basis for disability-adjusted life years",
+          "volume": "72",
+          "author": "Murray",
+          "year": "1994",
+          "journal-title": "Bull World Health Organ"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "1459",
+          "DOI": "10.1016/S0140-6736(16)31012-1",
+          "article-title": "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global Burden of Disease Study 2015",
+          "volume": "388",
+          "year": "2016",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib13",
+          "series-title": "WHO methods and data sources for global burden of disease estimates 2000–2011",
+          "year": "2013"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib14",
+          "series-title": "WHO methods and data sources for life tables 1990–2015",
+          "year": "2016"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib16",
+          "series-title": "WHO methods and data sources for country-level causes of death 2000–2012",
+          "year": "2014"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib19",
+          "series-title": "Health at a Glance: Europe 2012",
+          "year": "2012"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1545",
+          "DOI": "10.1016/S0140-6736(16)31678-6",
+          "article-title": "Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries during 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015",
+          "volume": "388",
+          "year": "2016",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "2063",
+          "DOI": "10.1016/S0140-6736(12)61899-6",
+          "article-title": "GBD 2010: design, definitions, and metrics",
+          "volume": "380",
+          "author": "Murray",
+          "year": "2012",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib22",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/S0140-6736(16)30388-9",
+          "article-title": "Guidelines for Accurate and Transparent Health Estimates Reporting: the GATHER statement",
+          "author": "Stevens",
+          "year": "2016",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1002056",
+          "DOI": "10.1371/journal.pmed.1002056",
+          "article-title": "Guidelines for Accurate and Transparent Health Estimates Reporting: the GATHER statement",
+          "volume": "13",
+          "author": "Stevens",
+          "year": "2016",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "712",
+          "DOI": "10.1016/S1473-3099(16)00026-8",
+          "article-title": "The global burden of dengue: an analysis from the Global Burden of Disease Study 2013",
+          "volume": "16",
+          "author": "Stanaway",
+          "year": "2016",
+          "journal-title": "Lancet Infect Dis"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "2129",
+          "DOI": "10.1016/S0140-6736(12)61680-8",
+          "article-title": "Common values in assessing health outcomes from disease and injury: disability weights measurement study for the Global Burden of Disease Study 2010",
+          "volume": "380",
+          "author": "Salomon",
+          "year": "2012",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "e712",
+          "DOI": "10.1016/S2214-109X(15)00069-8",
+          "article-title": "Disability weights for the Global Burden of Disease 2013 study",
+          "volume": "3",
+          "author": "Salomon",
+          "year": "2015",
+          "journal-title": "Lancet Glob Health"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "2144",
+          "DOI": "10.1016/S0140-6736(12)61690-0",
+          "article-title": "Healthy life expectancy for 187 countries, 1990–2010: a systematic analysis for the Global Burden Disease Study 2010",
+          "volume": "380",
+          "author": "Salomon",
+          "year": "2012",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "584",
+          "DOI": "10.1056/NEJMc1414992",
+          "article-title": "West African Ebola epidemic after one year— slowing but not yet under control",
+          "volume": "372",
+          "year": "2015",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "801",
+          "DOI": "10.1111/j.1468-0009.2005.00401.x",
+          "article-title": "The compression of morbidity",
+          "volume": "83",
+          "author": "Fries",
+          "year": "2005",
+          "journal-title": "Milbank Q"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "134",
+          "DOI": "10.1016/j.jalz.2008.01.001",
+          "article-title": "Trends in the prevalence and mortality of cognitive impairment in the United States: is there evidence of a compression of cognitive morbidity?",
+          "volume": "4",
+          "author": "Langa",
+          "year": "2008",
+          "journal-title": "Alzheimers Dement"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "686",
+          "DOI": "10.1016/S2213-8587(16)30090-0",
+          "article-title": "Compression of disability between two birth cohorts of US adults with diabetes, 1992–2012: a prospective longitudinal analysis",
+          "volume": "4",
+          "author": "Bardenheier",
+          "year": "2016",
+          "journal-title": "Lancet Diabetes Endocrinol"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "1323",
+          "DOI": "10.4054/DemRes.2008.19.35",
+          "article-title": "An integrated approach to cause-of-death analysis: cause-deleted life tables and decompositions of life expectancy",
+          "volume": "19",
+          "author": "Beltran-Sanchez",
+          "year": "2008",
+          "journal-title": "Demogr Res"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "408",
+          "DOI": "10.1093/gerona/62.4.408",
+          "article-title": "The burden of diseases on disability-free life expectancy in later life",
+          "volume": "62",
+          "author": "Jagger",
+          "year": "2007",
+          "journal-title": "J Gerontol A Biol Sci Med Sci"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "1056",
+          "DOI": "10.1093/ije/dyr009",
+          "article-title": "Trends in activity limitations: the Dutch older population between 1990 and 2007",
+          "volume": "40",
+          "author": "van Gool",
+          "year": "2011",
+          "journal-title": "Int J Epidemiol"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "191",
+          "DOI": "10.1017/S000305540400108X",
+          "article-title": "Enhancing the validity and cross-cultural comparability of measurement in survey research",
+          "volume": "98",
+          "author": "King",
+          "year": "2004",
+          "journal-title": "Am Polit Sci Rev"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "258",
+          "DOI": "10.1136/bmj.37963.691632.44",
+          "article-title": "Comparability of self rated health: cross sectional multi-country survey using anchoring vignettes",
+          "volume": "328",
+          "author": "Salomon",
+          "year": "2004",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib38",
+          "series-title": "Statistical Models for Enhancing Cross-Population Comparability",
+          "author": "Tandon",
+          "year": "2002"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "1068",
+          "DOI": "10.1093/ije/dyr069",
+          "article-title": "Commentary: Trends in activity limitation",
+          "volume": "40",
+          "author": "Bowling",
+          "year": "2011",
+          "journal-title": "Int J Epidemiol"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "1898",
+          "DOI": "10.1016/S0140-6736(13)62105-4",
+          "article-title": "Global health 2035: a world converging within a generation",
+          "volume": "382",
+          "author": "Jamison",
+          "year": "2013",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib41",
+          "first-page": "1815",
+          "article-title": "Measuring the health-related Sustainable Development Goals in 188 countries: a baseline analysis from the Global Burden of Disease Study 2015",
+          "volume": "388",
+          "year": "2016",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "61",
+          "DOI": "10.1007/s11205-009-9566-y",
+          "article-title": "‘Healthy’ Human Development Indices",
+          "volume": "99",
+          "author": "Engineer",
+          "year": "2009",
+          "journal-title": "Soc Indic Res"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "e16837",
+          "DOI": "10.1371/journal.pone.0016837",
+          "article-title": "NIH disease funding levels and burden of disease",
+          "volume": "6",
+          "author": "Gillum",
+          "year": "2011",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "h117",
+          "DOI": "10.1136/bmj.h117",
+          "article-title": "Association between randomised trial evidence and global burden of disease: cross sectional study (Epidemiological Study of Randomized Trials—ESORT)",
+          "volume": "350",
+          "author": "Emdin",
+          "year": "2015",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib46",
+          "doi-asserted-by": "crossref",
+          "first-page": "34",
+          "DOI": "10.1186/1478-7954-8-34",
+          "article-title": "Does the development of new medicinal products in the European Union address global and regional health concerns?",
+          "volume": "8",
+          "author": "Álvarez-Martín",
+          "year": "2010",
+          "journal-title": "Popul Health Metr"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib48",
+          "doi-asserted-by": "crossref",
+          "first-page": "156",
+          "DOI": "10.1016/S0140-6736(13)62229-1",
+          "article-title": "How to increase value and reduce waste when research priorities are set",
+          "volume": "383",
+          "author": "Chalmers",
+          "year": "2014",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib49",
+          "first-page": "1661",
+          "article-title": "Global, regional, and national comparative risk assessment of 79 behavioural, environmental and occupational, and metabolic risks or clusters of risks, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015",
+          "volume": "388",
+          "year": "2016",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib50",
+          "first-page": "651",
+          "article-title": "Prevalence of back pain among fulltime United States workers",
+          "volume": "46",
+          "author": "Leigh",
+          "year": "1989",
+          "journal-title": "Br J Ind Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib51",
+          "doi-asserted-by": "crossref",
+          "first-page": "79",
+          "DOI": "10.1023/A:1007448402954",
+          "article-title": "Socioeconomic variation in back and joint pain in Finland",
+          "volume": "14",
+          "author": "Leino-Arjas",
+          "year": "1998",
+          "journal-title": "Eur J Epidemiol"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "124",
+          "DOI": "10.1093/occmed/51.2.124",
+          "article-title": "Occupational health guidelines for the management of low back pain at work: evidence review",
+          "volume": "51",
+          "author": "Waddell",
+          "year": "2001",
+          "journal-title": "Occup Med (Lond)"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib53",
+          "first-page": "411",
+          "article-title": "Advances in the epidemiology of injuries as a basis for public policy",
+          "volume": "95",
+          "author": "Haddon",
+          "year": "1980",
+          "journal-title": "Public Health Rep"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib54",
+          "article-title": "Mortality in Canadian trauma systems: a multicenter cohort Study",
+          "author": "Moore",
+          "year": "2016",
+          "journal-title": "Ann Surg"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib55",
+          "first-page": "93",
+          "article-title": "Assessment and availability of trauma care services in a district hospital of south India: a field observational study",
+          "volume": "4",
+          "author": "Uthkarsh",
+          "year": "2016",
+          "journal-title": "Bull Emerg Trauma"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib56",
+          "doi-asserted-by": "crossref",
+          "first-page": "923",
+          "DOI": "10.1016/S0140-6736(00)02689-1",
+          "article-title": "Traumatic brain injury",
+          "volume": "356",
+          "author": "Ghajar",
+          "year": "2000",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib57",
+          "doi-asserted-by": "crossref",
+          "first-page": "951",
+          "DOI": "10.1007/s00134-007-0592-4",
+          "article-title": "Results from the International Conference of Experts on Intra-abdominal Hypertension and Abdominal Compartment Syndrome. II. Recommendations",
+          "volume": "33",
+          "author": "Cheatham",
+          "year": "2007",
+          "journal-title": "Intensive Care Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib58",
+          "first-page": "763",
+          "article-title": "Prehospital spine immobilization for penetrating trauma—review and recommendations from the Prehospital Trauma Life Support Executive Committee",
+          "volume": "71",
+          "author": "Stuke",
+          "year": "2011",
+          "journal-title": "J Trauma"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib59",
+          "doi-asserted-by": "crossref",
+          "first-page": "784",
+          "DOI": "10.1007/s00268-015-3308-x",
+          "article-title": "Associations with perioperative mortality rate at a major referral hospital in Rwanda",
+          "volume": "40",
+          "author": "Rickard",
+          "year": "2015",
+          "journal-title": "World J Surg"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib60",
+          "doi-asserted-by": "crossref",
+          "first-page": "e79840",
+          "DOI": "10.1371/journal.pone.0079840",
+          "article-title": "Trauma-related mortality among adults in rural western Kenya: characterising deaths using data from a Health and Demographic Surveillance System",
+          "volume": "8",
+          "author": "Odhiambo",
+          "year": "2013",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib61",
+          "doi-asserted-by": "crossref",
+          "first-page": "167",
+          "DOI": "10.1186/1471-2334-14-167",
+          "article-title": "Climate change and dengue: a critical and systematic review of quantitative modelling approaches",
+          "volume": "14",
+          "author": "Naish",
+          "year": "2014",
+          "journal-title": "BMC Infect Dis"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib62",
+          "first-page": "1727",
+          "article-title": "Global, regional, national, and selected subnational levels of stillbirths, neonatal, infant, and under-5 mortality, 1980–2015: a systematic analysis for the Global Burden of Disease Study 2015",
+          "volume": "388",
+          "year": "2016",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib63",
+          "first-page": "1777",
+          "article-title": "Maternal mortality 1990 to 2015: a systematic analysis of the Global Burden of Disease 2015 Study",
+          "volume": "388",
+          "year": "2016",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib64",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1080/0032472032000097083",
+          "article-title": "Modified logit life table system: principles, empirical validation, and application",
+          "volume": "57",
+          "author": "Murray",
+          "year": "2003",
+          "journal-title": "Popul Stud"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib65",
+          "doi-asserted-by": "crossref",
+          "first-page": "2071",
+          "DOI": "10.1016/S0140-6736(12)61719-X",
+          "article-title": "Age-specific and sex-specific mortality in 187 countries, 1970–2010: a systematic analysis for the Global Burden of Disease Study 2010",
+          "volume": "380",
+          "author": "Wang",
+          "year": "2012",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib66",
+          "doi-asserted-by": "crossref",
+          "first-page": "117",
+          "DOI": "10.1016/S0140-6736(14)61682-2",
+          "article-title": "Global, regional, and national age-sex specific all-cause and cause-specific mortality for 240 causes of death, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",
+          "volume": "385",
+          "year": "2015",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib67",
+          "series-title": "Disability weights for diseases in the Netherlands",
+          "author": "Stouthard",
+          "year": "1997"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)31460-X_bib68",
+          "series-title": "World Population Prospects: The 2012 Revision, Key Findings and Advance Tables. Working Paper number ESA/P/WP.227",
+          "year": "2013"
+        }
+      ],
+      "container-title": [
+        "The Lancet"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S014067361631460X?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S014067361631460X?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            16
+          ]
+        ],
+        "date-time": "2022-11-16T18:31:32Z",
+        "timestamp": 1668623492000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S014067361631460X"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            10
+          ]
+        ]
+      },
+      "references-count": 60,
+      "journal-issue": {
+        "issue": "10053",
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              10
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S014067361631460X"
+      ],
+      "URL": "https://doi.org/10.1016/s0140-6736(16)31460-x",
+      "relation": {
+        "has-review": [
+          {
+            "id-type": "doi",
+            "id": "10.3410/f.726827339.793524296",
+            "asserted-by": "object"
+          }
+        ]
+      },
+      "ISSN": [
+        "0140-6736"
+      ],
+      "issn-type": [
+        {
+          "value": "0140-6736",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            10
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Global, regional, and national disability-adjusted life-years (DALYs) for 315 diseases and injuries and healthy life expectancy (HALE), 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "The Lancet",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/S0140-6736(16)31460-X",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "https://doi.org/10.1016/S0140-6736(16)31790-1",
+          "name": "associatedlink",
+          "label": "CrossRef DOI link to the associated document"
+        },
+        {
+          "value": "https://doi.org/10.1016/S0140-6736(16)31743-3",
+          "name": "associatedlink",
+          "label": "CrossRef DOI link to the associated document"
+        },
+        {
+          "value": "https://doi.org/10.1016/S0140-6736(16)31744-5",
+          "name": "associatedlink",
+          "label": "CrossRef DOI link to the associated document"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2016 The Author(s). Published by Elsevier Ltd.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

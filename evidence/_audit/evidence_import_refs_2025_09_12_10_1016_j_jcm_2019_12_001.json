@@ -1,0 +1,672 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jcm_2019_12_001.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jcm_2019_12_001",
+  "doi": "10.1016/j.jcm.2019.12.001",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:42.163898Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            21
+          ]
+        ],
+        "date-time": "2025-04-21T21:27:29Z",
+        "timestamp": 1745270849547
+      },
+      "reference-count": 40,
+      "publisher": "Elsevier BV",
+      "issue": "4",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2019-12-01T00:00:00Z",
+            "timestamp": 1575158400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journalchiromed.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Chiropractic Medicine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jcm.2019.12.001",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2020,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2020-08-01T15:51:39Z",
+        "timestamp": 1596297099000
+      },
+      "page": "243-252",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 6,
+      "title": [
+        "The Impact of Soft Tissue Techniques in the Management of Migraine Headache: A Randomized Controlled Trial"
+      ],
+      "prefix": "10.1016",
+      "volume": "18",
+      "author": [
+        {
+          "given": "Tahere",
+          "family": "Rezaeian",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Zahra",
+          "family": "Mosallanezhad",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mohammad Reza",
+          "family": "Nourbakhsh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mehdi",
+          "family": "Ahmadi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mehdi",
+          "family": "Nourozi",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jcm.2019.12.001_bib0001",
+          "unstructured": "World Health Organization. Headache Disorders. Available at: https://www.who.int/es/news-room/fact-sheets/detail/headache-disorders. Accessed April 10, 2020."
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.jcm.2019.12.001_bib0002",
+          "doi-asserted-by": "crossref",
+          "first-page": "629",
+          "DOI": "10.1177/0333102413485658",
+          "article-title": "The international classification of headache disorders (beta version)",
+          "volume": "33",
+          "year": "2013",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jcm.2019.12.001_bib0003",
+          "doi-asserted-by": "crossref",
+          "first-page": "189",
+          "DOI": "10.1007/s10072-011-0535-2",
+          "article-title": "A longitudinal evaluation of changes in disability and quality of life in a sample of women with migraine",
+          "volume": "32",
+          "author": "Raggi",
+          "year": "2011",
+          "journal-title": "Neurol Sci"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jcm.2019.12.001_bib0004",
+          "doi-asserted-by": "crossref",
+          "first-page": "454",
+          "DOI": "10.1016/S1474-4422(13)70067-X",
+          "article-title": "Magnetic resonance angiography of intracranial and extracranial arteries in patients with spontaneous migraine without aura: a cross-sectional study",
+          "volume": "12",
+          "author": "Amin",
+          "year": "2013",
+          "journal-title": "Lancet Neurol"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jcm.2019.12.001_bib0005",
+          "doi-asserted-by": "crossref",
+          "first-page": "679",
+          "DOI": "10.1016/S1474-4422(09)70090-0",
+          "article-title": "Origin of pain in migraine: evidence for peripheral sensitisation",
+          "volume": "8",
+          "author": "Olesen",
+          "year": "2009",
+          "journal-title": "Lancet Neurol"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jcm.2019.12.001_bib0006",
+          "doi-asserted-by": "crossref",
+          "first-page": "244",
+          "DOI": "10.1111/j.1468-1331.2006.01181.x",
+          "article-title": "Trigger point evaluation in migrainepatients: an indication of peripheral sensitization linked to migraine predisposition",
+          "volume": "13",
+          "author": "Calandre",
+          "year": "2006",
+          "journal-title": "Eur J Neurol"
+        },
+        {
+          "key": "10.1016/j.jcm.2019.12.001_bib0007",
+          "series-title": "Myofascial Pain and Dysfunction: The Trigger Point Manual, Vol. 2: The Lower Extremities",
+          "author": "Simons",
+          "year": "1999"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jcm.2019.12.001_bib0008",
+          "doi-asserted-by": "crossref",
+          "first-page": "569",
+          "DOI": "10.1016/j.jbmt.2014.01.006",
+          "article-title": "Upper cervical mobility, posture and myofascial trigger points in subjects with episodic migraine: case-control study",
+          "volume": "18",
+          "author": "Tali",
+          "year": "2014",
+          "journal-title": "J Bodyw Mov Ther"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.jcm.2019.12.001_bib0009",
+          "doi-asserted-by": "crossref",
+          "first-page": "1061",
+          "DOI": "10.1111/j.1468-2982.2006.01162.x",
+          "article-title": "Myofascial trigger points, neck mobility and forward head posture in unilateral migraine",
+          "volume": "26",
+          "author": "Fernández-de-las-Peñas",
+          "year": "2006",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.jcm.2019.12.001_bib0010",
+          "doi-asserted-by": "crossref",
+          "first-page": "869",
+          "DOI": "10.1016/j.jpain.2007.06.002",
+          "article-title": "Contribution of myofascial trigger points to migraine symptoms",
+          "volume": "8",
+          "author": "Giamberardino",
+          "year": "2007",
+          "journal-title": "J Pain"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jcm.2019.12.001_bib0011",
+          "doi-asserted-by": "crossref",
+          "first-page": "214",
+          "DOI": "10.1016/S0254-6272(17)30047-X",
+          "article-title": "Effects of feet reflexology versus segmental massage in reducing pain and its intensity, frequency and duration of the attacks in females with migraine: a pilot study",
+          "volume": "37",
+          "author": "Kobza",
+          "year": "2017",
+          "journal-title": "J Tradit Chin Med"
+        },
+        {
+          "key": "10.1016/j.jcm.2019.12.001_bib0012",
+          "series-title": "Behavioral and Physical Treatments for Migraine Headache",
+          "author": "Goslin",
+          "year": "1999"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jcm.2019.12.001_bib0013",
+          "doi-asserted-by": "crossref",
+          "first-page": "474",
+          "DOI": "10.1177/0333102415597889",
+          "article-title": "Efficacy of interventions used by physiotherapists for patients with headache and migraine—systematic review and meta-analysis",
+          "volume": "36",
+          "author": "Luedtke",
+          "year": "2016",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jcm.2019.12.001_bib0014",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1007/s10194-011-0296-6",
+          "article-title": "Manual therapies for migraine: a systematic review",
+          "volume": "12",
+          "author": "Chaibi",
+          "year": "2011",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jcm.2019.12.001_bib0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "403",
+          "DOI": "10.1016/j.jmpt.2013.05.022",
+          "article-title": "Manual treatment for cervicogenic headache and active trigger point in the sternocleidomastoid muscle: a pilot randomized clinical trial",
+          "volume": "36",
+          "author": "Bodes-Pardo",
+          "year": "2013",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jcm.2019.12.001_bib0016",
+          "doi-asserted-by": "crossref",
+          "first-page": "654",
+          "DOI": "10.1111/j.1526-4610.2007.00789.x",
+          "article-title": "Effectiveness of yoga therapy in the treatment of migraine without aura: a randomized controlled trial",
+          "volume": "47",
+          "author": "John",
+          "year": "2007",
+          "journal-title": "Headache"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.jcm.2019.12.001_bib0017",
+          "doi-asserted-by": "crossref",
+          "first-page": "1099",
+          "DOI": "10.1089/acm.2018.0048",
+          "article-title": "Effect of soft tissue techniques on headache impact, disability, and quality of life in migraine sufferers: a pilot study",
+          "volume": "24",
+          "author": "Espí-López",
+          "year": "2018",
+          "journal-title": "J Altern Complement Med"
+        },
+        {
+          "key": "10.1016/j.jcm.2019.12.001_bib0018",
+          "series-title": "Clinical Application of Neuromuscular Techniques, Vol. 1: The Upper Body",
+          "author": "Chaitow",
+          "year": "2008"
+        },
+        {
+          "key": "10.1016/j.jcm.2019.12.001_bib0019",
+          "series-title": "Myofascial Pain and Dysfunction: The Trigger Point Manual, Vol. 1: Upper Half of the Body",
+          "author": "Simons",
+          "year": "1999"
+        },
+        {
+          "key": "10.1016/j.jcm.2019.12.001_bib0020",
+          "series-title": "Greenman's Principles of Manual Medicine",
+          "author": "DeStefano",
+          "year": "2011"
+        },
+        {
+          "issue": "2-3",
+          "key": "10.1016/j.jcm.2019.12.001_bib0021",
+          "doi-asserted-by": "crossref",
+          "first-page": "42",
+          "DOI": "10.1016/j.ijosm.2007.08.002",
+          "article-title": "The effects of high-velocity, low-amplitude manipulation and muscle energy technique on suboccipital tenderness",
+          "volume": "10",
+          "author": "Hamilton",
+          "year": "2007",
+          "journal-title": "Int J Osteopath Med"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jcm.2019.12.001_bib0022",
+          "doi-asserted-by": "crossref",
+          "first-page": "933",
+          "DOI": "10.1016/j.jbmt.2017.01.001",
+          "article-title": "Effect of ischemic compression for cervicogenic headache and elastic behavior of active trigger point in the sternocleidomastoid muscle using ultrasound imaging",
+          "volume": "21",
+          "author": "Jafari",
+          "year": "2017",
+          "journal-title": "J Bodyw Mov Ther"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jcm.2019.12.001_bib0023",
+          "doi-asserted-by": "crossref",
+          "first-page": "211",
+          "DOI": "10.1016/j.apmr.2016.08.466",
+          "article-title": "Effectiveness of a treatment involving soft tissue techniques and/or neural mobilization techniques in the management of tension-type headache: a randomized controlled trial",
+          "volume": "98",
+          "author": "Ferragut-Garcías",
+          "year": "2017",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jcm.2019.12.001_bib0024",
+          "doi-asserted-by": "crossref",
+          "first-page": "33",
+          "DOI": "10.1111/j.1526-4610.2010.01800.x",
+          "article-title": "for Amitriptyline Versus Placebo Study Group. Amitriptyline in the prophylactic treatment of migraine and chronic daily headache",
+          "volume": "51",
+          "author": "Couch",
+          "year": "2011",
+          "journal-title": "Headache"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jcm.2019.12.001_bib0025",
+          "doi-asserted-by": "crossref",
+          "first-page": "160",
+          "DOI": "10.1093/ptj/78.2.160",
+          "article-title": "Reliability of clinical pressure-pain algometric measurements obtained on consecutive days",
+          "volume": "78",
+          "author": "Nussbaum",
+          "year": "1998",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jcm.2019.12.001_bib0026",
+          "doi-asserted-by": "crossref",
+          "first-page": "397",
+          "DOI": "10.1097/PHM.0b013e31804a554d",
+          "article-title": "Dry needling to a key myofascial trigger point may reduce the irritability of satellite MTrPs",
+          "volume": "86",
+          "author": "Hsieh",
+          "year": "2007",
+          "journal-title": "Am J Phys Med Rehabil"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jcm.2019.12.001_bib0027",
+          "doi-asserted-by": "crossref",
+          "first-page": "837",
+          "DOI": "10.1212/WNL.44.5.837",
+          "article-title": "The Henry Ford Hospital Headache Disability Inventory (HDI)",
+          "volume": "44",
+          "author": "Jacobson",
+          "year": "1994",
+          "journal-title": "Neurology"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jcm.2019.12.001_bib0028",
+          "doi-asserted-by": "crossref",
+          "first-page": "893",
+          "DOI": "10.2466/pr0.103.3.893-898",
+          "article-title": "Effects of cognitive-behavioral group therapy on recurrent headaches in Iranian culture",
+          "volume": "103",
+          "author": "Mohammadi",
+          "year": "2008",
+          "journal-title": "Psychol Rep"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jcm.2019.12.001_bib0029",
+          "doi-asserted-by": "crossref",
+          "first-page": "866",
+          "DOI": "10.1016/j.apmr.2015.12.006",
+          "article-title": "Additional effects of a physical therapy protocol on headache frequency, pressure pain threshold, and improvement perception in patients with migraine and associated neck pain: A randomized controlled trial",
+          "volume": "97",
+          "author": "Bevilaqua-Grossi",
+          "year": "2016",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jcm.2019.12.001_bib0030",
+          "doi-asserted-by": "crossref",
+          "first-page": "576",
+          "DOI": "10.1016/j.jbmt.2014.01.001",
+          "article-title": "Treatment of tension-type headache with articulatory and suboccipital soft tissue therapy: a double-blind, randomized, placebo-controlled clinical trial",
+          "volume": "18",
+          "author": "Espí-López",
+          "year": "2014",
+          "journal-title": "J Bodyw Mov Ther"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.jcm.2019.12.001_bib0031",
+          "doi-asserted-by": "crossref",
+          "first-page": "997",
+          "DOI": "10.1093/ptj/80.10.997",
+          "article-title": "Effectiveness of a home program of ischemic pressure followed by sustained stretch for treatment of myofascial trigger points",
+          "volume": "80",
+          "author": "Hanten",
+          "year": "2000",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jcm.2019.12.001_bib0032",
+          "doi-asserted-by": "crossref",
+          "first-page": "157",
+          "DOI": "10.3233/NRE-151248",
+          "article-title": "Migraine responds better to a combination of medical therapy and trigger point management than routine medical therapy alone",
+          "volume": "37",
+          "author": "Ghanbari",
+          "year": "2015",
+          "journal-title": "NeuroRehabilitation"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jcm.2019.12.001_bib0033",
+          "doi-asserted-by": "crossref",
+          "first-page": "835",
+          "DOI": "10.1016/j.ctim.2014.09.001",
+          "article-title": "Short-term effects of acupuncture and stretching on myofascial trigger point pain of the neck: a blinded, placebo-controlled RCT",
+          "volume": "22",
+          "author": "Wilke",
+          "year": "2014",
+          "journal-title": "Complement Ther Med"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.jcm.2019.12.001_bib0034",
+          "first-page": "2372",
+          "article-title": "Comparison of efficacy of myofascial release and positional release therapy in tension type headache",
+          "volume": "2",
+          "author": "Singh",
+          "year": "2014",
+          "journal-title": "J Med Sci Clin Res"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jcm.2019.12.001_bib0035",
+          "doi-asserted-by": "crossref",
+          "first-page": "300",
+          "DOI": "10.1016/j.jmpt.2013.04.008",
+          "article-title": "Short-and medium-term effects of manual therapy on cervical active range of motion and pressure pain sensitivity in latent myofascial pain of the upper trapezius muscle: a randomized controlled trial",
+          "volume": "36",
+          "author": "Oliveira-Campelo",
+          "year": "2013",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jcm.2019.12.001_bib0036",
+          "doi-asserted-by": "crossref",
+          "first-page": "133",
+          "DOI": "10.1097/PHM.0b013e3181a5b1bc",
+          "article-title": "Remote effects of dry needling on the irritability of the myofascial trigger point in the upper trapezius muscle",
+          "volume": "89",
+          "author": "Tsai",
+          "year": "2010",
+          "journal-title": "Am J Phys Med Rehabil"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jcm.2019.12.001_bib0037",
+          "doi-asserted-by": "crossref",
+          "first-page": "157",
+          "DOI": "10.1016/j.apmr.2007.11.016",
+          "article-title": "New views of myofascial trigger points: etiology and diagnosis",
+          "volume": "89",
+          "author": "Simons",
+          "year": "2008",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jcm.2019.12.001_bib0038",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.1054/jbmt.2002.0271",
+          "article-title": "Understanding effective treatments of myofascial trigger points",
+          "volume": "6",
+          "author": "Simons",
+          "year": "2002",
+          "journal-title": "J Bodyw Mov Ther"
+        },
+        {
+          "issue": "3a",
+          "key": "10.1016/j.jcm.2019.12.001_bib0039",
+          "doi-asserted-by": "crossref",
+          "first-page": "599",
+          "DOI": "10.1590/S0004-282X2007000400010",
+          "article-title": "Massaging over the greater occipital nerve reduces the intensity of migraine attacks: evidence for inhibitory trigemino-cervical convergence mechanisms",
+          "volume": "65",
+          "author": "Piovesan",
+          "year": "2007",
+          "journal-title": "Arq Neuropsiquiatr"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jcm.2019.12.001_bib0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.1097/BRS.0000000000001655",
+          "article-title": "A systematic review of the soft-tissue connections between neck muscles and dura mater: the myodural bridge",
+          "volume": "42",
+          "author": "Palomeque-del-Cerro",
+          "year": "2017",
+          "journal-title": "Spine (Phila Pa 1976)"
+        }
+      ],
+      "container-title": [
+        "Journal of Chiropractic Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1556370720300122?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1556370720300122?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            9,
+            3
+          ]
+        ],
+        "date-time": "2020-09-03T22:16:14Z",
+        "timestamp": 1599171374000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1556370720300122"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            12
+          ]
+        ]
+      },
+      "references-count": 40,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1556370720300122"
+      ],
+      "URL": "https://doi.org/10.1016/j.jcm.2019.12.001",
+      "relation": {},
+      "ISSN": [
+        "1556-3707"
+      ],
+      "issn-type": [
+        {
+          "value": "1556-3707",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            12
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "The Impact of Soft Tissue Techniques in the Management of Migraine Headache: A Randomized Controlled Trial",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Journal of Chiropractic Medicine",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jcm.2019.12.001",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2020 by National University of Health Sciences.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

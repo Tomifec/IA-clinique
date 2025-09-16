@@ -1,0 +1,851 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_bjsports_2018_099878.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_bjsports_2018_099878",
+  "doi": "10.1136/bjsports-2018-099878",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:44.373801Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T12:53:32Z",
+        "timestamp": 1757681612141,
+        "version": "3.41.2"
+      },
+      "reference-count": 89,
+      "publisher": "BMJ",
+      "issue": "2",
+      "funder": [
+        {
+          "DOI": "10.13039/501100000925",
+          "name": "National Health and Medical Research Council",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100000925",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Br J Sports Med"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            8
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:sec>\n                  <jats:title>Objectives</jats:title>\n                  <jats:p>To identify common recommendations for high-quality care for the most common musculoskeletal (MSK) pain sites encountered by clinicians in emergency and primary care (spinal (lumbar, thoracic and cervical), hip/knee (including osteoarthritis [OA] and shoulder) from contemporary, high-quality clinical practice guidelines (CPGs).</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Design</jats:title>\n                  <jats:p>Systematic review, critical appraisal and narrative synthesis of MSK pain CPG recommendations.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Eligibility criteria</jats:title>\n                  <jats:p>Included MSK pain CPGs were written in English, rated as high quality, published from 2011, focused on adults and described development processes. Excluded CPGs were for: traumatic MSK pain, single modalities (eg, surgery), traditional healing/medicine, specific disease processes (eg, inflammatory arthropathies) or those that required payment.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Data sources</jats:title>\n                  <jats:p>Four scientific databases (MEDLINE, Embase, CINAHL and Physiotherapy Evidence Database) and four guideline repositories.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>6232 records were identified, 44 CPGs were appraised and 11 were rated as high quality (low back pain: 4, OA: 4, neck: 2 and shoulder: 1). We identified 11 recommendations for MSK pain care: ensure care is patient centred, screen for red flag conditions, assess psychosocial factors, use imaging selectively, undertake a physical examination, monitor patient progress, provide education/information, address physical activity/exercise, use manual therapy only as an adjunct to other treatments, offer high-quality non-surgical care prior to surgery and try to keep patients at work.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>These 11 recommendations guide healthcare consumers, clinicians, researchers and policy makers to manage MSK pain. This should improve the quality of care of MSK pain.</jats:p>\n               </jats:sec>",
+      "DOI": "10.1136/bjsports-2018-099878",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            3,
+            2
+          ]
+        ],
+        "date-time": "2019-03-02T17:24:18Z",
+        "timestamp": 1551547458000
+      },
+      "page": "79-86",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 697,
+      "title": [
+        "What does best practice care for musculoskeletal pain look like? Eleven consistent recommendations from high-quality clinical practice guidelines: systematic review"
+      ],
+      "prefix": "10.1136",
+      "volume": "54",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6901-2569",
+          "authenticated-orcid": false,
+          "given": "Ivan",
+          "family": "Lin",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "WA Centre for Rural Health, University of Western Australia, Geraldton, Western Australia, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Louise",
+          "family": "Wiles",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for Population Health Research, University of South Australia Division of Health Sciences, Adelaide, South Australia, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Rob",
+          "family": "Waller",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Physiotherapy and Exercise Science, Curtin University, Perth, Western Australia, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Roger",
+          "family": "Goucke",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Pain Management Centre, Sir Charles Gardner Hospital, Perth, Western Australia, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Yusuf",
+          "family": "Nagree",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for Clinical Research in Emergency Medicine, Harry Perkins Institute of Medical Research, Perth, Western Australia, Australia"
+            },
+            {
+              "name": "Emergency Department, Fiona Stanley Hospital, Murdoch, Western Australia, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Michael",
+          "family": "Gibberd",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Emergency Department, Geraldton Hospital, Geraldton, Western Australia, Australia"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7786-4128",
+          "authenticated-orcid": false,
+          "given": "Leon",
+          "family": "Straker",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Physiotherapy and Curtin Health Innovation Research Institute, Curtin University, Bentley, Western Australia, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Chris G",
+          "family": "Maher",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Public Health, Sydney Medical School, The University of Sydney, Sydney, New South Wales, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Peter P B",
+          "family": "O’Sullivan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy, Curtin University, Perth, Western Australia, Australia"
+            }
+          ]
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            3,
+            2
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2025080113073136000_54.2.79.1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1211",
+          "DOI": "10.1016/S0140-6736(17)32154-2",
+          "article-title": "Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016",
+          "volume": "390",
+          "author": "Vos",
+          "year": "2017",
+          "journal-title": "The Lancet"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(18)30488-4"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1748-5908-7-60"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.4",
+          "unstructured": "IOM (Institute of Medicine). Clinical practice guidelines we can trust. Washington (DC): National Academies Press, 2011."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.5",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1186/s12913-015-0830-3",
+          "article-title": "Implications of early and guideline adherent physical therapy for low back pain on utilization and costs",
+          "volume": "15",
+          "author": "Childs",
+          "year": "2015",
+          "journal-title": "BMC Health Serv Res"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2522/ptj.20090173"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/ACI.0b013e32832b4651"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5694/mja10.11130"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.9",
+          "doi-asserted-by": "crossref",
+          "first-page": "29",
+          "DOI": "10.5694/j.1326-5377.2011.tb03184.x",
+          "article-title": "Clinical practice guidelines: the need for greater transparency in formulating recommendations",
+          "volume": "195",
+          "author": "Scott",
+          "year": "2011",
+          "journal-title": "Med J Aust"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2017-098375"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.11",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0178621",
+          "article-title": "Effective treatment options for musculoskeletal pain in primary care: a systematic overview of current evidence",
+          "volume": "12",
+          "author": "Babatunde",
+          "year": "2017",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.12",
+          "doi-asserted-by": "crossref",
+          "first-page": "1217",
+          "DOI": "10.1002/acr.21665",
+          "article-title": "Identifying generic predictors of outcome in patients presenting to primary care with nonspinal musculoskeletal pain",
+          "volume": "64",
+          "author": "Henschke",
+          "year": "2012",
+          "journal-title": "Arthritis Care Res"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/annrheumdis-2013-204680"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1503/cmaj.091716"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1503/cmaj.091714"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.16",
+          "unstructured": "AGREE Enterprise. AGREE: advancing the science of practice guidelines: Canadian Institutes of Health Research. 2014 http://www.agreetrust.org/ (Accessed 29 Mar 2016)."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037//1040-3590.6.4.284"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e3181b4d50d"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.19",
+          "unstructured": "Rosman A , Ismail A , Zain M , et al . Management of osteoarthritis. 2nd edn. Putrajaya, Malaysia: Ministry of Health Malaysia, 2013."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.20",
+          "unstructured": "Philippine Academy of Rehabilitation Medicine. Low back pain management guideline. Quezon City, Philippines: Philippine Academy of Rehabilitation Medicine (PARM), 2012."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.21",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jevsevar DS , Brown GA , Jones DL , et al . Treatment of osteoarthritis of the knee: evidence-based guideline - second edition. Rosemont, IL: American Academy of Orthopaedic Surgeons, 2013.",
+          "DOI": "10.5435/00124635-201309020-00008"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.joca.2014.01.003"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/annrheumdis-2012-202745"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.24",
+          "unstructured": "National Institute for Health and Clinical Excellence (NICE). Osteoarthritis: care and management (CG177). London: National Institute for Health and Clinical Excellence, 2014."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.25",
+          "unstructured": "National Institute for Health and Clinical Excellence (NICE). Low back pain and sciatica in over 16s: assessment and management (NG59). London: National Institute for Health and Clinical Excellence, 2016."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.26",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.jmpt.2015.10.006",
+          "article-title": "Clinical practice guideline: chiropractic care for low back pain",
+          "volume": "39",
+          "author": "Globe",
+          "year": "2016",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.27",
+          "doi-asserted-by": "crossref",
+          "first-page": "2000",
+          "DOI": "10.1007/s00586-016-4467-7",
+          "article-title": "Management of neck pain and associated disorders: a clinical practice guideline from the Ontario Protocol for Traffic Injury Management (OPTIMa) Collaboration",
+          "volume": "25",
+          "author": "Côté",
+          "year": "2016",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.28",
+          "unstructured": "Hopman K , Krahe L , Lukersmith S , et al . Clinical practice guidelines for the management of rotator cuff syndrome in the workplace. Port Macquarie (Australia): University of New South Wales, 2013:80."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.29",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Van Wambeke P , Desomer A , Ailiet L , et al . Low back pain and radicular pain: assessment and management. KCE Report 2017:287.",
+          "DOI": "10.57598/R287S"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.30",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Stochkendahl MJ , Kjaer P , Hartvigsen J , et al . National Clinical Guidelines for non-surgical treatment of patients with recent onset low back pain or lumbar radiculopathy. Eur Spine J 2018;27.doi:10.1007/s00586-017-5099-2",
+          "DOI": "10.1007/s00586-017-5099-2"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.31",
+          "doi-asserted-by": "crossref",
+          "first-page": "523",
+          "DOI": "10.1016/j.jmpt.2016.08.007",
+          "article-title": "The treatment of neck pain-associated disorders and whiplash-associated disorders: a clinical practice guideline",
+          "volume": "39",
+          "author": "Bussières",
+          "year": "2016",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(11)60937-9"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e3181f8f775"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5694/mja12.10510"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.35",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0061243",
+          "article-title": "General practitioner management of shoulder pain in comparison with rheumatologist expectation of care and best evidence: an Australian national survey",
+          "volume": "8",
+          "author": "Buchbinder",
+          "year": "2013",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/archinternmed.2009.507"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/qhc.11.4.358"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2016-096154"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsm.37.2.149"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2015.5841"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2015.5829"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2015.13043"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.43",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2016-011278",
+          "article-title": "OPAL: a randomised, placebo-controlled trial of opioid analgesia for the reduction of pain severity in people with acute spinal pain. Trial protocol",
+          "volume": "6",
+          "author": "Lin",
+          "year": "2016",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2016.1464"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.45",
+          "unstructured": "Department of Veterans Affairs. VA/DoD clinical practice guideline for opioid therapy for chronic pain: Version. 2017."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.46",
+          "doi-asserted-by": "crossref",
+          "first-page": "18",
+          "DOI": "10.1111/1742-6723.12907",
+          "article-title": "Review article: Best practice management of low back pain in the emergency department (part 1 of the musculoskeletal injuries rapid review series)",
+          "volume": "30",
+          "author": "Strudwick",
+          "year": "2018",
+          "journal-title": "Emerg Med Australas"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.47",
+          "doi-asserted-by": "crossref",
+          "first-page": "279",
+          "DOI": "10.1111/1742-6723.12903",
+          "article-title": "Managing non-serious low back pain in the emergency department: time for a change?",
+          "volume": "30",
+          "author": "Machado",
+          "year": "2018",
+          "journal-title": "Emerg Med Australas"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.48",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1007/s11657-016-0260-9",
+          "article-title": "Quality assessment of osteoporosis clinical practice guidelines for physical activity and safe movement: an AGREE II appraisal",
+          "volume": "11",
+          "author": "Armstrong",
+          "year": "2016",
+          "journal-title": "Arch Osteoporos"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2011.03.017"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2214/AJR.11.6971"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.51",
+          "doi-asserted-by": "crossref",
+          "first-page": "489",
+          "DOI": "10.1007/s11999-015-4514-4",
+          "article-title": "Arthroscopy for knee osteoarthritis has not decreased after a clinical trial",
+          "volume": "474",
+          "author": "Adelani",
+          "year": "2016",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/JBJS.M.00364"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.53",
+          "doi-asserted-by": "crossref",
+          "first-page": "799",
+          "DOI": "10.1302/0301-620X.99B6.BJJ-2016-0569.R1",
+          "article-title": "Arthroscopic decompression not recommended in the treatment of rotator cuff tendinopathy: a final review of a randomised controlled trial at a minimum follow-up of ten years",
+          "volume": "99-B",
+          "author": "Ketola",
+          "year": "2017",
+          "journal-title": "Bone Joint J"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.54",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Beard DJ , Rees JL , Cook JA , et al . Arthroscopic subacromial decompression for subacromial shoulder pain (CSAW): a multicentre, pragmatic, parallel group, placebo-controlled, three-group, randomised surgical trial. The Lancet 2017.doi:https://doi.org/10.1016/S0140-6736(17)32457-1",
+          "DOI": "10.1016/S0140-6736(17)32457-1"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.55",
+          "doi-asserted-by": "crossref",
+          "first-page": "958",
+          "DOI": "10.1001/jamainternmed.2016.1251",
+          "article-title": "Efficacy, tolerability, and dose-dependent effects of opioid analgesics for low back pain: a systematic review and meta-analysis",
+          "volume": "176",
+          "author": "Abdel Shaheed",
+          "year": "2016",
+          "journal-title": "JAMA Intern Med"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.56",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e318145a731"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2013.09.009"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.58",
+          "unstructured": "American Academy of Orthopaedic Surgeons. Management of osteoarthritis of the hip: evidence-based clinical practice guideline. Rosemont, Illinois, 2017."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.59",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/acr.21596"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.60",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.semarthrit.2014.05.014"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.61",
+          "doi-asserted-by": "crossref",
+          "first-page": "S3",
+          "DOI": "10.1016/j.semarthrit.2015.11.010",
+          "article-title": "A consensus statement on the European Society for Clinical and Economic Aspects of Osteoporosis and Osteoarthritis (ESCEO) algorithm for the management of knee osteoarthritis-from evidence-based medicine to the real-life setting",
+          "volume": "45",
+          "author": "Bruyère",
+          "year": "2016",
+          "journal-title": "Semin Arthritis Rheum"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.62",
+          "first-page": "268",
+          "article-title": "Physiotherapy in hip and knee osteoarthritis: development of a practice guideline concerning initial assessment, treatment and evaluation",
+          "volume": "36",
+          "author": "Peter",
+          "year": "2011",
+          "journal-title": "Acta Reumatol Port"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.63",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2522/ptj.20100104"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.64",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0269215515606198"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.65",
+          "unstructured": "Goodman F , Kaiser L , Kelley C , et al . VA/DoD clinical practice guideline for the non-surgical management of hip and knee osteoarthritis: Department of Veterans Affairs, Department of Defense, 2014:126."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.66",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/M16-2367"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.67",
+          "unstructured": "Chou R , Deyo R , Friedly J , et al . Noninvasive treatments for low back pain. Portland, OR: Agency for Healthcare Research and Quality, AHRQ, 2016."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.68",
+          "doi-asserted-by": "crossref",
+          "first-page": "A1",
+          "DOI": "10.2519/jospt.2012.42.4.A1",
+          "article-title": "Low Back Pain: clinical practice guidelines linked to the international classification of functioning, disability, and health from the orthopaedic section of the American Physical Therapy Association",
+          "volume": "42",
+          "author": "Delitto",
+          "year": "2012",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.69",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/bja/aet172"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.70",
+          "unstructured": "Cheng L , Lau K , Lam W , et al . Evidence-based guideline on prevention and management of low back pain in working population in primary care. The Hong Kong Practitioner 2012;34."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.71",
+          "unstructured": "State of Colorado Department of Labor and Employment: Division of Worker’s Compensation. Low back pain: medical treatment guidelines. Denver, Colorado, 2014:112."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.72",
+          "unstructured": "Goertz M , Thorson D , Bonsell J , et al . Adult acute and subacute low back pain: Institute for Clinical Systems Improvement Updated, 2012."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.73",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2013.08.003"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.74",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2012.11.059"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.75",
+          "doi-asserted-by": "crossref",
+          "first-page": "439",
+          "DOI": "10.1016/j.spinee.2015.11.055",
+          "article-title": "Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of degenerative lumbar spondylolisthesis",
+          "volume": "16",
+          "author": "Matz",
+          "year": "2016",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.76",
+          "unstructured": "Toward Optimized Practice (TOP) Program. Evidence-informed primary care management of low back pain: clinical practice guidelines. 3rd edn. Alberta, Canada: Institute of Health Economics, 2015:49."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.77",
+          "unstructured": "State of Colorado Department of Labor and Employment: Division of Worker’s Compensation. Shoulder injury: medical treatment guidelines. Denver, Colorado, 2015:164."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.78",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3109/17453674.2014.920991"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.79",
+          "doi-asserted-by": "crossref",
+          "first-page": "56",
+          "DOI": "10.1186/s12874-016-0165-8",
+          "article-title": "Using the modified Delphi method to establish clinical consensus for the diagnosis and treatment of patients with rotator cuff pathology",
+          "volume": "16",
+          "author": "Eubank",
+          "year": "2016",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.80",
+          "doi-asserted-by": "crossref",
+          "first-page": "227",
+          "DOI": "10.32098/mltj.04.2015.01",
+          "article-title": "I.S.Mu.L.T - Rotator cuff tears guidelines",
+          "volume": "5",
+          "author": "Oliva",
+          "year": "2015",
+          "journal-title": "Muscles Ligaments Tendons J"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.81",
+          "unstructured": "Washington State Department of Labor and Industries. Shoulder conditions: diagnosis and treatment guideline. Washington, 2013:28."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.82",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmpt.2013.08.010"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.83",
+          "unstructured": "State of Colorado Department of Labor and Employment: Division of Worker’s Compensation. Cervical spine injury: medical treatment guidelines. Denver, Colorado, 2014:96."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.84",
+          "first-page": "36",
+          "article-title": "The Italian Society of Physical and Rehabilitation Medicine (SIMFER) recommendations for neck pain",
+          "volume": "35",
+          "author": "Monticone",
+          "year": "2013",
+          "journal-title": "G Ital Med Lav Ergon"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.85",
+          "unstructured": "Hegmann K , Travis R , Andersson GB , et al . Cervical and thoracic spine disorders. Elk Grove Village, Illinois, USA: American College of Occupational and Environmental Medicine (ACOEM., 2016:1–711."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.86",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2014-093637"
+        },
+        {
+          "key": "2025080113073136000_54.2.79.87",
+          "unstructured": "Braddock E , Greenlee J , Hammer R , et al . Manual medicine guidelines for musculoskeletal injuries. Sonora (CA): Academy for Chiropractic Education, 2013:70."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.88",
+          "unstructured": "State of Colorado Department of Labor and Employment: Division of Worker’s Compensation. Lower extremity injury: medical treatment guidelines. Denver, Colorado, 2016:264."
+        },
+        {
+          "key": "2025080113073136000_54.2.79.89",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1748-5908-7-82"
+        }
+      ],
+      "container-title": [
+        "British Journal of Sports Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bjsports-2018-099878",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2025-08-01T20:07:44Z",
+        "timestamp": 1754078864000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bjsm.bmj.com/lookup/doi/10.1136/bjsports-2018-099878"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            3,
+            2
+          ]
+        ]
+      },
+      "references-count": 89,
+      "journal-issue": {
+        "issue": "2",
+        "published-online": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              3
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bjsports-2018-099878"
+      ],
+      "URL": "https://doi.org/10.1136/bjsports-2018-099878",
+      "relation": {},
+      "ISSN": [
+        "0306-3674",
+        "1473-0480"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0306-3674"
+        },
+        {
+          "type": "electronic",
+          "value": "1473-0480"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            3,
+            2
+          ]
+        ]
+      }
+    }
+  }
+}

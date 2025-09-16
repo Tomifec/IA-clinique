@@ -1,0 +1,699 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_bjsports_2024_109380.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_bjsports_2024_109380",
+  "doi": "10.1136/bjsports-2024-109380",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:45.606861Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            27
+          ]
+        ],
+        "date-time": "2025-08-27T00:15:25Z",
+        "timestamp": 1756253725512,
+        "version": "3.44.0"
+      },
+      "reference-count": 49,
+      "publisher": "BMJ",
+      "issue": "17",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                7,
+                7
+              ]
+            ],
+            "date-time": "2025-07-07T00:00:00Z",
+            "timestamp": 1751846400000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100008368",
+          "name": "Danish Rheumatism Association",
+          "doi-asserted-by": "crossref",
+          "award": [
+            "R160-A5157"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100008368",
+              "id-type": "DOI",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100002739",
+          "name": "Aarhus University Research Foundation",
+          "doi-asserted-by": "crossref",
+          "award": [
+            "AUFF-E-2015-FLS-9-9"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100002739",
+              "id-type": "DOI",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Br J Sports Med"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            11
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            9
+          ]
+        ]
+      },
+      "abstract": "<jats:sec>\n                  <jats:title>Objectives</jats:title>\n                  <jats:p>We explored whether a spike in running distance during a single session or over 1 week, compared with the preceding period, was associated with increased risk of running-related overuse injury.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Adult runners were recruited for an 18-month cohort study. Three training-related exposures were defined based on a relative change in running distance, using data collected via Garmin devices: (1) session-specific running distance relative to the longest distance run in the past 30 days; (2) 1-week period relative to the preceding 3 weeks using the acute:chronic workload ratio (ACWR); (3) 1-week period using a week-to-week ratio. Runners were categorised into one of four time-varying states: (1) regression, or up to 10% increase (reference); (2) ‘small spike’ between &gt;10% and 30% increase; (3) ‘moderate spike’ between &gt;30% and 100% increase; and (4) ‘large spike’ &gt;100% increase. Outcome was self-reported overuse running-related injury. A multistate Cox regression model was used to estimate adjusted hazard rate ratios (HRR).</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Among 5205 runners (mean age 45.8 years, SD=10.4; 22% female), a total of 1820 (35%) sustained a running-related injury during 588 071 sessions. Significantly increased rates were identified for small spikes (HRR=1.64 (95% CI: 1.31 to 2.05, p=0.01)), moderate spikes (HRR=1.52 (95% CI: 1.16 to 2.00, p&lt;0.01)) and large spikes (HRR=2.28 (95% CI: 1.50 to 3.48, p&lt;0.01)) in single-session running distance. A negative dose-response relationship was observed for the ACWR. No relationship was identified for the week-to-week ratio.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>A significant increase in the rate of running-related overuse injury was found when the distance of a single running session exceeded 10% of the longest run undertaken in the last 30 days.</jats:p>\n               </jats:sec>",
+      "DOI": "10.1136/bjsports-2024-109380",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            7
+          ]
+        ],
+        "date-time": "2025-07-07T08:30:13Z",
+        "timestamp": 1751877013000
+      },
+      "page": "1203-1210",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "How much running is too much? Identifying high-risk running sessions in a 5200-person cohort study"
+      ],
+      "prefix": "10.1136",
+      "volume": "59",
+      "author": [
+        {
+          "given": "Jesper",
+          "family": "Schuster Brandt Frandsen",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Big Data Centre for Environment and Health, Aarhus University, Aarhus, Denmark"
+            }
+          ]
+        },
+        {
+          "given": "Adam",
+          "family": "Hulme",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Southern Queensland Rural Health, Faculty of Health, Medicine and Behavioural Sciences, The University of Queensland, Brisbane, Queensland, Australia"
+            },
+            {
+              "name": "Thompson Institute, University of the Sunshine Coast, Sunshine Coast, Queensland, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Erik Thorlund",
+          "family": "Parner",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Public Health, Aarhus University, Aarhus, Denmark"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7514-0399",
+          "authenticated-orcid": false,
+          "given": "Merete",
+          "family": "Møller",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Sports Science and Clinical Biomechanics, The Faculty of Health Sciences, University of Southern Denmark, Odense, Denmark"
+            },
+            {
+              "name": "Oslo Sports Trauma Research Center, Department of Sports Medicine, Norwegian School of Sport Sciences, Oslo, Norway"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1450-4114",
+          "authenticated-orcid": false,
+          "given": "Ida",
+          "family": "Lindman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "General Practice/Family Medicine, School of Public Health and Community Medicine, Institute of Medicine, Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden"
+            },
+            {
+              "name": "Research, Education, Development and Innovation, Primary Health Care, Region Västra Götaland, Gothenburg, Sweden"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3949-0425",
+          "authenticated-orcid": false,
+          "given": "Josefin",
+          "family": "Abrahamson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Orthopaedic Research Unit, Sahlgrenska University Hospital, Gothenburg, Sweden"
+            },
+            {
+              "name": "Department of Health and Rehabilitation, University of Gothenburg Institute of Neuroscience and Physiology, Gothenburg, Sweden"
+            }
+          ]
+        },
+        {
+          "given": "Nina",
+          "family": "Sjørup Simonsen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Public Health, Aarhus University, Aarhus, Denmark"
+            },
+            {
+              "name": "Research Unit for General Practice, Aarhus, Denmark"
+            }
+          ]
+        },
+        {
+          "given": "Julie",
+          "family": "Sandell Jacobsen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Public Health, Aarhus University, Aarhus, Denmark"
+            },
+            {
+              "name": "Research Unit for General Practice, Aarhus, Denmark"
+            },
+            {
+              "name": "Research Centre for Care and Rehabilitation, Faculty of Health and Society, VIA University College, Aarhus, Denmark"
+            }
+          ]
+        },
+        {
+          "given": "Daniel",
+          "family": "Ramskov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy, University College of Northern Denmark, Aalborg, Denmark"
+            }
+          ]
+        },
+        {
+          "given": "Sebastian",
+          "family": "Skejø",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Public Health, Aarhus University, Aarhus, Denmark"
+            },
+            {
+              "name": "Research Unit for General Practice, Aarhus, Denmark"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6601-5630",
+          "authenticated-orcid": false,
+          "given": "Laurent",
+          "family": "Malisoux",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Precision Health, Luxembourg Institute of Health, Strassen, Luxembourg"
+            }
+          ]
+        },
+        {
+          "given": "Michael Lejbach",
+          "family": "Bertelsen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Public Health, Aarhus University, Aarhus, Denmark"
+            },
+            {
+              "name": "Department of Sports Science and Clinical Biomechanics, The Faculty of Health Sciences, University of Southern Denmark, Odense, Denmark"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5757-1806",
+          "authenticated-orcid": false,
+          "given": "Rasmus Oestergaard",
+          "family": "Nielsen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Public Health, Aarhus University, Aarhus, Denmark"
+            },
+            {
+              "name": "Research Unit for General Practice, Aarhus, Denmark"
+            }
+          ]
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            7
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2025082607201863000_59.17.1203.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40279-015-0359-y"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1012690213509807"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.3",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Scheerder J , Breedveld K , Borgers J . Running across Europe: the rise and size of one of the largest sport markets. Springer, 2015.",
+          "DOI": "10.1057/9781137446374"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.4",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0181167",
+          "article-title": "Who uses running apps and sports watches? Determinants and consumer profiles of event runners’ usage of running-related smartphone applications and sports watches",
+          "volume": "12",
+          "author": "Janssen",
+          "year": "2017",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40279-020-01412-7"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40279-015-0333-8"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jsams.2018.06.003"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1249/MSS.0000000000002227"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.9",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3390/ijerph17176046",
+          "article-title": "Runner’s Perceptions of Reasons to Quit Running: Influence of Gender, Age and Running-Related Characteristics",
+          "volume": "17",
+          "author": "Menheere",
+          "year": "2020",
+          "journal-title": "Int J Environ Res Public Health"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2014.5710"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.11",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0273401",
+          "article-title": "Going their own way-male recreational runners and running-related injuries: A qualitative thematic analysis",
+          "volume": "17",
+          "author": "Peterson",
+          "year": "2022",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1123/jsr.2021-0364"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/sms.12883"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jsams.2014.07.014"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2016-096581"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546507307505"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.26603/ijspt20180931"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2014.5164"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2015-095788"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2014.0506"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1123/IJSPP.2017-0208"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/josptopen.2024.0075"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.23",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2019-032627",
+          "article-title": "The Garmin-RUNSAFE Running Health Study on the aetiology of running-related injuries: rationale and design of an 18-month prospective cohort study including runners worldwide",
+          "volume": "9",
+          "author": "Nielsen",
+          "year": "2019",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2020-103651"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1519/JSC.0000000000001244"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1519/JSC.0b013e3182711e3c"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.27",
+          "first-page": "1101",
+          "article-title": "Preventing running injuries. Practical approach for family doctors",
+          "volume": "49",
+          "author": "Taunton",
+          "year": "2003",
+          "journal-title": "Can Fam Physician Med Fam Can"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1055/a-0955-5589"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2012-091524"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2015.5741"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40279-016-0636-4"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.32",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.1016/j.jshs.2020.06.006",
+          "article-title": "Risk factors for overuse injuries in short- and long-distance running: A systematic review",
+          "volume": "10",
+          "author": "van Poppel",
+          "year": "2021",
+          "journal-title": "J Sport Health Sci"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.33",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0114937",
+          "article-title": "Injuries in runners; a systematic review on risk factors and sex differences",
+          "volume": "10",
+          "author": "van der Worp",
+          "year": "2015",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/aje/kwk052"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2018-099408"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2018-100000"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2016.6510"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.38",
+          "doi-asserted-by": "crossref",
+          "first-page": "51",
+          "DOI": "10.2147/OAJSM.S231405",
+          "article-title": "The Relationship Between Acute: Chronic Workload Ratios and Injury Risk in Sports: A Systematic Review",
+          "volume": "11",
+          "author": "Maupin",
+          "year": "2020",
+          "journal-title": "Open Access J Sports Med"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40279-021-01483-0"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.40",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Joachim MR , Heiderscheit BC , Kliethermes SA . Week-to-week changes in training were not prospectively associated with injuries among Wisconsin high school cross-country runners. Inj Prev 2024;ip–2024. doi:10.1136/ip-2024-045233",
+          "DOI": "10.1136/ip-2024-045233"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.41",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjsem-2017-000333",
+          "article-title": "Run Clever - No difference in risk of injury when comparing progression in running volume and running intensity in recreational runners: A randomised trial",
+          "volume": "4",
+          "author": "Ramskov",
+          "year": "2018",
+          "journal-title": "BMJ Open Sport Exerc Med"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jsams.2018.09.001"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2022-105670"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/sms.13725"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/ejsc.12123"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/15438627.2018.1492399"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.47",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s13102-022-00472-8",
+          "article-title": "Feasibility and usability of GPS data in exploring associations between training load and running-related knee injuries in recreational runners",
+          "volume": "14",
+          "author": "Cloosterman",
+          "year": "2022",
+          "journal-title": "BMC Sports Sci Med Rehabil"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2018-100245"
+        },
+        {
+          "key": "2025082607201863000_59.17.1203.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2022.21383"
+        }
+      ],
+      "container-title": [
+        "British Journal of Sports Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bjsports-2024-109380",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            26
+          ]
+        ],
+        "date-time": "2025-08-26T14:21:03Z",
+        "timestamp": 1756218063000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bjsm.bmj.com/lookup/doi/10.1136/bjsports-2024-109380"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            7
+          ]
+        ]
+      },
+      "references-count": 49,
+      "journal-issue": {
+        "issue": "17",
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              26
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bjsports-2024-109380"
+      ],
+      "URL": "https://doi.org/10.1136/bjsports-2024-109380",
+      "relation": {},
+      "ISSN": [
+        "0306-3674",
+        "1473-0480"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0306-3674"
+        },
+        {
+          "type": "electronic",
+          "value": "1473-0480"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            7
+          ]
+        ]
+      }
+    }
+  }
+}

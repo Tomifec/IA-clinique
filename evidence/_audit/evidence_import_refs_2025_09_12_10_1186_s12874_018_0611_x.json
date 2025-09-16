@@ -1,0 +1,840 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_s12874_018_0611_x.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_s12874_018_0611_x",
+  "doi": "10.1186/s12874-018-0611-x",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:08.062534Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T13:19:11Z",
+        "timestamp": 1757683151770,
+        "version": "3.37.3"
+      },
+      "reference-count": 50,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                11,
+                19
+              ]
+            ],
+            "date-time": "2018-11-19T00:00:00Z",
+            "timestamp": 1542585600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "BMC Med Res Methodol"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1186/s12874-018-0611-x",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            11,
+            19
+          ]
+        ],
+        "date-time": "2018-11-19T09:33:39Z",
+        "timestamp": 1542620019000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 7137,
+      "title": [
+        "Systematic review or scoping review? Guidance for authors when choosing between a systematic or scoping review approach"
+      ],
+      "prefix": "10.1186",
+      "volume": "18",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7091-5842",
+          "authenticated-orcid": false,
+          "given": "Zachary",
+          "family": "Munn",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Micah D. J.",
+          "family": "Peters",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Cindy",
+          "family": "Stern",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Catalin",
+          "family": "Tufanaru",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alexa",
+          "family": "McArthur",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Edoardo",
+          "family": "Aromataris",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            11,
+            19
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "9",
+          "key": "611_CR1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pmed.1000326",
+          "volume": "7",
+          "author": "H Bastian",
+          "year": "2010",
+          "unstructured": "Bastian H, Glasziou P, Chalmers I. Seventy-five trials and eleven systematic reviews a day: how will we ever keep up? PLoS Med. 2010;7(9):e1000326.",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "issue": "1",
+          "key": "611_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "12",
+          "DOI": "10.1177/0163278702025001003",
+          "volume": "25",
+          "author": "I Chalmers",
+          "year": "2002",
+          "unstructured": "Chalmers I, Hedges LV, Cooper H. A brief history of research synthesis. Eval Health Prof. 2002;25(1):12–37.",
+          "journal-title": "Eval Health Prof"
+        },
+        {
+          "issue": "3",
+          "key": "611_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "117",
+          "DOI": "10.1097/XEB.0000000000000053",
+          "volume": "13",
+          "author": "Z Jordan",
+          "year": "2015",
+          "unstructured": "Jordan Z, Munn Z, Aromataris E, Lockwood C. Now that we're here, where are we? The JBI approach to evidence-based healthcare 20 years on. Int J Evid Based Healthc. 2015;13(3):117–20.",
+          "journal-title": "Int J Evid Based Healthc."
+        },
+        {
+          "issue": "1",
+          "key": "611_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "5",
+          "DOI": "10.1186/s12874-017-0468-4",
+          "volume": "18",
+          "author": "Z Munn",
+          "year": "2018",
+          "unstructured": "Munn Z, Stern C, Aromataris E, Lockwood C, Jordan Z. What kind of systematic review should I conduct? A proposed typology and guidance for systematic reviewers in the medical and health sciences. BMC Med Res Methodol. 2018;18(1):5.",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "issue": "1",
+          "key": "611_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "19",
+          "DOI": "10.1080/1364557032000119616",
+          "volume": "8",
+          "author": "H Arksey",
+          "year": "2005",
+          "unstructured": "Arksey H, O'Malley L. Scoping studies: towards a methodological framework. Int J Soc Res Methodol. 2005;8(1):19–32.",
+          "journal-title": "Int J Soc Res Methodol"
+        },
+        {
+          "issue": "3",
+          "key": "611_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "141",
+          "DOI": "10.1097/XEB.0000000000000050",
+          "volume": "13",
+          "author": "MD Peters",
+          "year": "2015",
+          "unstructured": "Peters MD, Godfrey CM, Khalil H, McInerney P, Parker D, Soares CB. Guidance for conducting systematic scoping reviews. Int J Evid Based Healthc. 2015;13(3):141–6.",
+          "journal-title": "Int J Evid Based Healthc"
+        },
+        {
+          "issue": "1",
+          "key": "611_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1186/1748-5908-5-69",
+          "volume": "5",
+          "author": "D Levac",
+          "year": "2010",
+          "unstructured": "Levac D, Colquhoun H, O'Brien KK. Scoping studies: advancing the methodology. Implement Sci. 2010;5(1):1.",
+          "journal-title": "Implement Sci"
+        },
+        {
+          "issue": "12",
+          "key": "611_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "1291",
+          "DOI": "10.1016/j.jclinepi.2014.03.013",
+          "volume": "67",
+          "author": "HL Colquhoun",
+          "year": "2014",
+          "unstructured": "Colquhoun HL, Levac D, O'Brien KK, et al. Scoping reviews: time for clarity in definition, methods, and reporting. J Clin Epidemiol. 2014;67(12):1291–4.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "4",
+          "key": "611_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "371",
+          "DOI": "10.1002/jrsm.1123",
+          "volume": "5",
+          "author": "MT Pham",
+          "year": "2014",
+          "unstructured": "Pham MT, Rajić A, Greig JD, Sargeant JM, Papadopoulos A, McEwen SA. A scoping review of scoping reviews: advancing the approach and enhancing the consistency. Res Synth Methods. 2014;5(4):371–85.",
+          "journal-title": "Res Synth Methods"
+        },
+        {
+          "key": "611_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "15",
+          "DOI": "10.1186/s12874-016-0116-4",
+          "volume": "16",
+          "author": "AC Tricco",
+          "year": "2016",
+          "unstructured": "Tricco AC, Lillie E, Zarin W, et al. A scoping review on the conduct and reporting of scoping reviews. BMC Med Res Methodol. 2016;16:15.",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "611_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "45",
+          "DOI": "10.1111/j.1479-6988.2004.00008.x",
+          "volume": "2",
+          "author": "A Pearson",
+          "year": "2004",
+          "unstructured": "Pearson A. Balancing the evidence: incorporating the synthesis of qualitative data into systematic reviews. JBI Reports. 2004;2:45–64.",
+          "journal-title": "JBI Reports"
+        },
+        {
+          "issue": "3",
+          "key": "611_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "53",
+          "DOI": "10.1097/01.NAJ.0000444496.24228.2c",
+          "volume": "114",
+          "author": "E Aromataris",
+          "year": "2014",
+          "unstructured": "Aromataris E, Pearson A. The systematic review: an overview. AJN The American Journal of Nursing. 2014;114(3):53–8.",
+          "journal-title": "AJN The American Journal of Nursing"
+        },
+        {
+          "key": "611_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "b2700",
+          "DOI": "10.1136/bmj.b2700",
+          "volume": "339",
+          "author": "A Liberati",
+          "year": "2009",
+          "unstructured": "Liberati A, Altman DG, Tetzlaff J, et al. The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate healthcare interventions: explanation and elaboration. BMJ (Clinical research ed). 2009;339:b2700.",
+          "journal-title": "BMJ (Clinical research ed)"
+        },
+        {
+          "key": "611_CR14",
+          "unstructured": "Higgins J, Green S, eds. Cochrane handbook for systematic reviews of interventions. Version 5.1.0 [updated March 2011]. ed: The Cochrane Collaboration 2011."
+        },
+        {
+          "key": "611_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "108",
+          "DOI": "10.1186/1471-2288-14-108",
+          "volume": "14",
+          "author": "Z Munn",
+          "year": "2014",
+          "unstructured": "Munn Z, Porritt K, Lockwood C, Aromataris E, Pearson A. Establishing confidence in the output of qualitative research synthesis: the ConQual approach. BMC Med Res Methodol. 2014;14:108.",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "611_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "792519",
+          "DOI": "10.1155/2012/792519",
+          "volume": "2012",
+          "author": "A Pearson",
+          "year": "2012",
+          "unstructured": "Pearson A, Jordan Z, Munn Z. Translational science and evidence-based healthcare: a clarification and reconceptualization of how knowledge is generated and used in healthcare. Nursing research and practice. 2012;2012:792519.",
+          "journal-title": "Nursing research and practice"
+        },
+        {
+          "key": "611_CR17",
+          "unstructured": "Steinberg E, Greenfield S, Mancher M, Wolman DM, Graham R. Clinical practice guidelines we can trust. Institute of Medicine. Washington, DC: National Academies Press; 2011."
+        },
+        {
+          "key": "611_CR18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/2046-4053-1-28",
+          "volume": "1",
+          "author": "D Gough",
+          "year": "2012",
+          "unstructured": "Gough D, Thomas J, Oliver S. Clarifying differences between review designs and methods. Systematic Reviews. 2012;1:28.",
+          "journal-title": "Systematic Reviews"
+        },
+        {
+          "issue": "2",
+          "key": "611_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "91",
+          "DOI": "10.1111/j.1471-1842.2009.00848.x",
+          "volume": "26",
+          "author": "MJ Grant",
+          "year": "2009",
+          "unstructured": "Grant MJ, Booth A. A typology of reviews: an analysis of 14 review types and associated methodologies. Health Inf Libr J. 2009;26(2):91–108.",
+          "journal-title": "Health Inf Libr J"
+        },
+        {
+          "issue": "1",
+          "key": "611_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "11",
+          "DOI": "10.1016/j.jclinepi.2009.11.007",
+          "volume": "64",
+          "author": "AC Tricco",
+          "year": "2011",
+          "unstructured": "Tricco AC, Tetzlaff J, Moher D. The art and science of knowledge synthesis. J Clin Epidemiol. 2011;64(1):11–20.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "1",
+          "key": "611_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "147",
+          "DOI": "10.1093/pubmed/fdr015",
+          "volume": "33",
+          "author": "R Armstrong",
+          "year": "2011",
+          "unstructured": "Armstrong R, Hall BJ, Doyle J, Waters E. ‘Scoping the scope’ of a cochrane review. J Public Health. 2011;33(1):147–50.",
+          "journal-title": "J Public Health"
+        },
+        {
+          "issue": "1",
+          "key": "611_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1186/1478-4505-6-7",
+          "volume": "6",
+          "author": "S Anderson",
+          "year": "2008",
+          "unstructured": "Anderson S, Allen P, Peckham S, Goodwin N. Asking the right questions: scoping studies in the commissioning of research on the organisation and delivery of health services. Health Research Policy and Systems. 2008;6(1):1.",
+          "journal-title": "Health Research Policy and Systems"
+        },
+        {
+          "issue": "8",
+          "key": "611_CR23",
+          "first-page": "207",
+          "volume": "3",
+          "author": "A Pearson",
+          "year": "2005",
+          "unstructured": "Pearson A, Wiechula R, Court A, Lockwood C. The JBI model of evidence-based healthcare. International Journal of Evidence-Based Healthcare. 2005;3(8):207–15.",
+          "journal-title": "International Journal of Evidence-Based Healthcare"
+        },
+        {
+          "key": "611_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "92",
+          "DOI": "10.1186/1471-2288-11-92",
+          "volume": "11",
+          "author": "P Bragge",
+          "year": "2011",
+          "unstructured": "Bragge P, Clavisi O, Turner T, Tavender E, Collie A, Gruen RL. The global evidence mapping initiative: scoping research in broad topic areas. BMC Med Res Methodol. 2011;11:92.",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "issue": "1",
+          "key": "611_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "131",
+          "DOI": "10.1111/j.1468-0009.2011.00622.x",
+          "volume": "89",
+          "author": "D Chambers",
+          "year": "2011",
+          "unstructured": "Chambers D, Wilson PM, Thompson CA, Hanbury A, Farley K, Light K. Maximizing the impact of systematic reviews in health care decision making: a systematic scoping review of knowledge-translation resources. Milbank Q. 2011;89(1):131–56.",
+          "journal-title": "Milbank Q"
+        },
+        {
+          "key": "611_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "542",
+          "DOI": "10.1186/1471-2458-12-542",
+          "volume": "12",
+          "author": "K Challen",
+          "year": "2012",
+          "unstructured": "Challen K, Lee AC, Booth A, Gardois P, Woods HB, Goodacre SW. Where is the evidence for emergency planning: a scoping review. BMC Public Health. 2012;12:542.",
+          "journal-title": "BMC Public Health"
+        },
+        {
+          "issue": "1",
+          "key": "611_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.15256/joc.2012.2.15",
+          "volume": "2",
+          "author": "AK Schaink",
+          "year": "2012",
+          "unstructured": "Schaink AK, Kuluski K, Lyons RF, et al. A scoping review and thematic classification of patient complexity: offering a unifying framework. Journal of comorbidity. 2012;2(1):1–9.",
+          "journal-title": "Journal of comorbidity"
+        },
+        {
+          "issue": "3",
+          "key": "611_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "366",
+          "DOI": "10.1111/apa.13672",
+          "volume": "106",
+          "author": "Delaney Hines",
+          "year": "2016",
+          "unstructured": "Hines D, Modi N, Lee SK, Isayama T, Sjörs G, Gagliardi L, Lehtonen L, Vento M, Kusuda S, Bassler D, Mori R. Scoping review shows wide variation in the definitions of bronchopulmonary dysplasia in preterm infants and calls for a consensus. Acta Paediatr. 2017;106(3):366–74.",
+          "journal-title": "Acta Paediatrica"
+        },
+        {
+          "issue": "2",
+          "key": "611_CR29",
+          "doi-asserted-by": "publisher",
+          "first-page": "159",
+          "DOI": "10.3109/17453674.2014.972890",
+          "volume": "86",
+          "author": "SA Callary",
+          "year": "2015",
+          "unstructured": "Callary SA, Solomon LB, Holubowycz OT, Campbell DG, Munn Z, Howie DW. Wear of highly crosslinked polyethylene acetabular components. Acta Orthop. 2015;86(2):159–68.",
+          "journal-title": "Acta Orthop"
+        },
+        {
+          "issue": "1",
+          "key": "611_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "163",
+          "DOI": "10.1186/s12939-016-0450-5",
+          "volume": "15",
+          "author": "C Davy",
+          "year": "2016",
+          "unstructured": "Davy C, Harfield S, McArthur A, Munn Z, Brown A. Access to primary health care services for indigenous peoples: a framework synthesis. Int J Equity Health. 2016;15(1):163.",
+          "journal-title": "Int J Equity Health"
+        },
+        {
+          "issue": "11",
+          "key": "611_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "43",
+          "DOI": "10.11124/jbisrir-2015-2474",
+          "volume": "13",
+          "author": "S Harfield",
+          "year": "2015",
+          "unstructured": "Harfield S, Davy C, Kite E, et al. Characteristics of indigenous primary health care models of service delivery: a scoping review protocol. JBI Database System Rev Implement Rep. 2015;13(11):43–51.",
+          "journal-title": "JBI Database System Rev Implement Rep"
+        },
+        {
+          "issue": "1",
+          "key": "611_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "12",
+          "DOI": "10.1186/s12992-018-0332-2",
+          "volume": "14",
+          "author": "SG Harfield",
+          "year": "2018",
+          "unstructured": "Harfield SG, Davy C, McArthur A, Munn Z, Brown A, Brown N. Characteristics of indigenous primary health care service delivery models: a systematic scoping review. Glob Health. 2018;14(1):12.",
+          "journal-title": "Glob Health"
+        },
+        {
+          "key": "611_CR33",
+          "unstructured": "Peters MDJ LC, Munn Z, Moola S, Mishra RK (2015) , Protocol. Adelaide: the Joanna Briggs Institute UoA. What are people’s views and experiences of delivering and participating in microfinance interventions? A systematic review of qualitative evidence from South Asia."
+        },
+        {
+          "key": "611_CR34",
+          "unstructured": "Peters MDJ LC, Munn Z, Moola S, Mishra RK People’s views and experiences of participating in microfinance interventions: A systematic review of qualitative evidence. London: EPPI-Centre: social science research unit, UCL Institute of education, University College London; 2016."
+        },
+        {
+          "issue": "2",
+          "key": "611_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "160",
+          "DOI": "10.1080/14427591.2014.986512",
+          "volume": "22",
+          "author": "P Wagman",
+          "year": "2015",
+          "unstructured": "Wagman P, Håkansson C, Jonsson H. Occupational balance: a scoping review of current research and identified knowledge gaps. J Occup Sci. 2015;22(2):160–9.",
+          "journal-title": "J Occup Sci"
+        },
+        {
+          "issue": "2",
+          "key": "611_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.11124/jbisrir-2016-2838",
+          "volume": "14",
+          "author": "MD Peters",
+          "year": "2016",
+          "unstructured": "Peters MD. In no uncertain terms: the importance of a defined objective in scoping reviews. JBI Database System Rev Implement Rep. 2016;14(2):1–4.",
+          "journal-title": "JBI Database System Rev Implement Rep"
+        },
+        {
+          "issue": "6",
+          "key": "611_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "1025",
+          "DOI": "10.1111/j.1365-2753.2008.01112.x",
+          "volume": "16",
+          "author": "SE Hetrick",
+          "year": "2010",
+          "unstructured": "Hetrick SE, Parker AG, Callahan P, Purcell R. Evidence mapping: illustrating an emerging methodology to improve evidence-based practice in youth mental health. J Eval Clin Pract. 2010;16(6):1025–30.",
+          "journal-title": "J Eval Clin Pract"
+        },
+        {
+          "issue": "1",
+          "key": "611_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1186/s13643-016-0204-x",
+          "volume": "5",
+          "author": "IM Miake-Lye",
+          "year": "2016",
+          "unstructured": "Miake-Lye IM, Hempel S, Shanman R, Shekelle PG. What is an evidence map? A systematic review of published evidence maps and their definitions, methods, and products. Systematic reviews. 2016;5(1):1.",
+          "journal-title": "Systematic reviews"
+        },
+        {
+          "issue": "6",
+          "key": "611_CR39",
+          "doi-asserted-by": "publisher",
+          "first-page": "1207",
+          "DOI": "10.1111/jan.12280",
+          "volume": "70",
+          "author": "P Draper",
+          "year": "2014",
+          "unstructured": "Draper P. A critique of concept analysis. J Adv Nurs. 2014;70(6):1207–8.",
+          "journal-title": "J Adv Nurs"
+        },
+        {
+          "issue": "3",
+          "key": "611_CR40",
+          "doi-asserted-by": "publisher",
+          "first-page": "354",
+          "DOI": "10.1111/j.1365-2648.1991.tb01660.x",
+          "volume": "16",
+          "author": "CH Gibson",
+          "year": "1991",
+          "unstructured": "Gibson CH. A concept analysis of empowerment. J Adv Nurs. 1991;16(3):354–61.",
+          "journal-title": "J Adv Nurs"
+        },
+        {
+          "issue": "1",
+          "key": "611_CR41",
+          "doi-asserted-by": "publisher",
+          "first-page": "32",
+          "DOI": "10.1046/j.1365-2648.1993.18010032.x",
+          "volume": "18",
+          "author": "GA Meeberg",
+          "year": "1993",
+          "unstructured": "Meeberg GA. Quality of life: a concept analysis. J Adv Nurs. 1993;18(1):32–8.",
+          "journal-title": "J Adv Nurs"
+        },
+        {
+          "issue": "5",
+          "key": "611_CR42",
+          "doi-asserted-by": "publisher",
+          "first-page": "519",
+          "DOI": "10.1016/0020-7489(96)00004-1",
+          "volume": "33",
+          "author": "E Ream",
+          "year": "1996",
+          "unstructured": "Ream E, Richardson A. Fatigue: a concept analysis. Int J Nurs Stud. 1996;33(5):519–29.",
+          "journal-title": "Int J Nurs Stud"
+        },
+        {
+          "key": "611_CR43",
+          "doi-asserted-by": "publisher",
+          "first-page": "224",
+          "DOI": "10.1186/s12916-015-0465-6",
+          "volume": "13",
+          "author": "AC Tricco",
+          "year": "2015",
+          "unstructured": "Tricco AC, Antony J, Zarin W, et al. A scoping review of rapid review methods. BMC Med. 2015;13:224.",
+          "journal-title": "BMC Med"
+        },
+        {
+          "key": "611_CR44",
+          "doi-asserted-by": "publisher",
+          "first-page": "56",
+          "DOI": "10.1186/1748-5908-5-56",
+          "volume": "5",
+          "author": "R Ganann",
+          "year": "2010",
+          "unstructured": "Ganann R, Ciliska D, Thomas H. Expediting systematic reviews: methods and implications of rapid reviews. Implement Sci. 2010;5:56.",
+          "journal-title": "Implement Sci"
+        },
+        {
+          "issue": "4",
+          "key": "611_CR45",
+          "doi-asserted-by": "publisher",
+          "first-page": "397",
+          "DOI": "10.1111/j.1744-1609.2012.00290.x",
+          "volume": "10",
+          "author": "J Harker",
+          "year": "2012",
+          "unstructured": "Harker J, Kleijnen J. What is a rapid review? A methodological exploration of rapid reviews in health technology assessments. Int J Evid Based Healthc. 2012;10(4):397–410.",
+          "journal-title": "Int J Evid Based Healthc"
+        },
+        {
+          "key": "611_CR46",
+          "doi-asserted-by": "publisher",
+          "first-page": "10",
+          "DOI": "10.1186/2046-4053-1-10",
+          "volume": "1",
+          "author": "S Khangura",
+          "year": "2012",
+          "unstructured": "Khangura S, Konnyu K, Cushman R, Grimshaw J, Moher D. Evidence summaries: the evolution of a rapid review approach. Syst Rev. 2012;1:10.",
+          "journal-title": "Syst Rev"
+        },
+        {
+          "issue": "3",
+          "key": "611_CR47",
+          "doi-asserted-by": "publisher",
+          "first-page": "131",
+          "DOI": "10.1111/wvn.12094",
+          "volume": "12",
+          "author": "Z Munn",
+          "year": "2015",
+          "unstructured": "Munn Z, Lockwood C, Moola S. The development and use of evidence summaries for point of care information systems: a streamlined rapid review approach. Worldviews Evid-Based Nurs. 2015;12(3):131–8.",
+          "journal-title": "Worldviews Evid-Based Nurs"
+        },
+        {
+          "issue": "7",
+          "key": "611_CR48",
+          "doi-asserted-by": "publisher",
+          "first-page": "467",
+          "DOI": "10.7326/M18-0850",
+          "volume": "169",
+          "author": "AC Tricco",
+          "year": "2018",
+          "unstructured": "Tricco AC, Lillie E, Zarin W, et al. PRISMA extension for scoping reviews (PRISMA-ScR): checklist and explanation. Ann Intern Med. 2018;169(7):467–73.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "611_CR49",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Munn Z, Aromataris E, Tufanaru C, Stern C, Porritt K, Farrow J, Lockwood C, Stephenson M, Moola S, Lizarondo L, McArthur A. The development of software to support multiple systematic review types: the Joanna Briggs institute system for the unified management, assessment and review of information (JBI SUMARI). Int J Evid Based Healthc. 2018. (in press)",
+          "DOI": "10.1097/XEB.0000000000000152"
+        },
+        {
+          "issue": "5",
+          "key": "611_CR50",
+          "doi-asserted-by": "publisher",
+          "first-page": "401",
+          "DOI": "10.1111/wvn.12314",
+          "volume": "15",
+          "author": "C Stern",
+          "year": "2018",
+          "unstructured": "Stern C, Munn Z, Porritt K, et al. An international educational training course for conducting systematic reviews in health care: the Joanna Briggs Institute's comprehensive systematic review training program. Worldviews Evid-Based Nurs. 2018;15(5):401–8.",
+          "journal-title": "Worldviews Evid-Based Nurs"
+        }
+      ],
+      "container-title": [
+        "BMC Medical Research Methodology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s12874-018-0611-x.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1186/s12874-018-0611-x/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s12874-018-0611-x.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            11,
+            18
+          ]
+        ],
+        "date-time": "2019-11-18T19:09:45Z",
+        "timestamp": 1574104185000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-018-0611-x"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            11,
+            19
+          ]
+        ]
+      },
+      "references-count": 50,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "611"
+      ],
+      "URL": "https://doi.org/10.1186/s12874-018-0611-x",
+      "relation": {},
+      "ISSN": [
+        "1471-2288"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1471-2288"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            11,
+            19
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "21 February 2018",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "6 November 2018",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "19 November 2018",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethics approval and consent to participate"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Consent for publication"
+          }
+        },
+        {
+          "value": "All the authors are members of the Joanna Briggs Institute, an evidence-based healthcare research institute which provides formal guidance regarding evidence synthesis, transfer and implementation. Zachary Munn is a member of the editorial board of this journal. The authors have no other competing interests to declare.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        },
+        {
+          "value": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+          "order": 4,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Publisher’s Note"
+          }
+        }
+      ],
+      "article-number": "143"
+    }
+  }
+}

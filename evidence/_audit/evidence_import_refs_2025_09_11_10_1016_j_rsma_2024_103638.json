@@ -1,0 +1,1441 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1016_j_rsma_2024_103638.md",
+  "id": "evidence_import_refs_2025_09_11_10_1016_j_rsma_2024_103638",
+  "doi": "10.1016/j.rsma.2024.103638",
+  "pmid": "39915132",
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:54.258220Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            16
+          ]
+        ],
+        "date-time": "2024-08-16T21:40:23Z",
+        "timestamp": 1723844423736
+      },
+      "reference-count": 95,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2024-12-01T00:00:00Z",
+            "timestamp": 1733011200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2024-12-01T00:00:00Z",
+            "timestamp": 1733011200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2024-12-01T00:00:00Z",
+            "timestamp": 1733011200000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2024-12-01T00:00:00Z",
+            "timestamp": 1733011200000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2024-12-01T00:00:00Z",
+            "timestamp": 1733011200000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2024-12-01T00:00:00Z",
+            "timestamp": 1733011200000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2024-12-01T00:00:00Z",
+            "timestamp": 1733011200000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Regional Studies in Marine Science"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.rsma.2024.103638",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            13
+          ]
+        ],
+        "date-time": "2024-06-13T17:59:39Z",
+        "timestamp": 1718301579000
+      },
+      "page": "103638",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "special_numbering": "C",
+      "title": [
+        "Using piles for wave reduction and coastal protection: A review"
+      ],
+      "prefix": "10.1016",
+      "volume": "77",
+      "author": [
+        {
+          "given": "Cherdvong",
+          "family": "Saengsupavanich",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Vinsensia",
+          "family": "Ferren",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ikha",
+          "family": "Magdalena",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Effi Helmy",
+          "family": "Ariffin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sarinya",
+          "family": "Sanitwong-Na-Ayutthaya",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "4",
+          "key": "10.1016/j.rsma.2024.103638_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "360",
+          "DOI": "10.3390/oceans4040025",
+          "article-title": "Oceanic environmental impact in seaports",
+          "volume": "4",
+          "author": "Agarwala",
+          "year": "2023",
+          "journal-title": "Oceans"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.rsma.2024.103638_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "991",
+          "DOI": "10.1007/s11273-015-9441-3",
+          "article-title": "Dyke design, floodplain restoration and mangrove co-management as parts of an area coastal protection strategy for the mud coasts of the Mekong Delta, Vietnam",
+          "volume": "23",
+          "author": "Albers",
+          "year": "2015",
+          "journal-title": "Wetl. Ecol. Manag."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.rsma.2024.103638_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "991",
+          "DOI": "10.1007/s11273-015-9441-3",
+          "article-title": "Dyke design, floodplain restoration and mangrove co-management as parts of an area coastal protection strategy for the mud coasts of the Mekong Delta, Vietnam",
+          "volume": "23",
+          "author": "Albers",
+          "year": "2015",
+          "journal-title": "Wetl. Ecol. Manag."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.rsma.2024.103638_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.3390/fluids7010014",
+          "article-title": "Numerical study of bamboo breakwater for wave reduction",
+          "volume": "7",
+          "author": "Armono",
+          "year": "2021",
+          "journal-title": "Fluids"
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib5",
+          "first-page": "313",
+          "article-title": "Wave transmission on submerged breakwaters made of hollow hemispherical shape artificial reefs",
+          "author": "Armono",
+          "year": "2003",
+          "journal-title": "Can. Coast. Conf."
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.rsma.2024.103638_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "709",
+          "DOI": "10.1111/j.1467-789X.2011.00892.x",
+          "article-title": "Motivational interviewing to improve weight loss in overweight and/or obese patients: a systematic review and meta-analysis of randomized controlled trials",
+          "volume": "12",
+          "author": "Armstrong",
+          "year": "2011",
+          "journal-title": "Obes. Rev."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.3354/meps09364",
+          "article-title": "Windows of opportunity: thresholds to mangrove seedling establishment on tidal flats",
+          "volume": "440",
+          "author": "Balke",
+          "year": "2011",
+          "journal-title": "Mar. Ecol. Prog. Ser."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.rsma.2024.103638_bib8",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1038/s41598-022-24842-x",
+          "article-title": "Effectiveness of grey and green engineered solutions for protecting the low-lying muddy coast of the Chao Phraya Delta, Thailand",
+          "volume": "12",
+          "author": "Charoenlerkthawin",
+          "year": "2022",
+          "journal-title": "Sci. Rep."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.rsma.2024.103638_bib9",
+          "article-title": "Monitoring of nature-based solution for stabilizing eroded muddy coastline of the Chao Phraya Delta, Thailand",
+          "volume": "1226",
+          "author": "Charoenlerkthawin",
+          "year": "2023",
+          "journal-title": "IOP Conf. Ser.: Earth Environ. Sci."
+        },
+        {
+          "year": "2005",
+          "series-title": "Protective values of mangrove and coral ecosystems: A review of methods and evidence",
+          "author": "Chong",
+          "key": "10.1016/j.rsma.2024.103638_bib10"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.rsma.2024.103638_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "1910",
+          "DOI": "10.3390/w12071910",
+          "article-title": "Experimental assessment of the flow resistance of coastal wooden fences",
+          "volume": "12",
+          "author": "Dao",
+          "year": "2020",
+          "journal-title": "Water"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.rsma.2024.103638_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "1317",
+          "DOI": "10.2112/JCOASTRES-D-18-00015.1",
+          "article-title": "Wave damping due to wooden fences along mangrove coasts",
+          "volume": "34",
+          "author": "Dao",
+          "year": "2018",
+          "journal-title": "J. Coast. Res."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.rsma.2024.103638_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1317",
+          "DOI": "10.2112/JCOASTRES-D-18-00015.1",
+          "article-title": "Wave damping due to wooden fences along mangrove coasts",
+          "volume": "34",
+          "author": "Dao",
+          "year": "2018",
+          "journal-title": "J. Coast. Res."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib14",
+          "unstructured": "DMCR. (2012). Study, Survey and Analysis of the Effectiveness and Social Impact of Coastal Erosion Protection Measures in Thailand (Technical Report). Department of Marine and Coastal Resources (DMCR), Bangkok, Thailand."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.rsma.2024.103638_bib15",
+          "article-title": "Wave energy dissipation using perforated and non perforated piles",
+          "volume": "31",
+          "author": "Feizbahr",
+          "year": "2018",
+          "journal-title": "Int. J. Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib16",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.oceaneng.2020.107667",
+          "article-title": "Numerical study of solitary waves past slotted breakwaters with a single row of vertical piles: Wave processes and flow behavior",
+          "volume": "211",
+          "author": "Frantzis",
+          "year": "2020",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib17",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.oceaneng.2020.107667",
+          "article-title": "Numerical study of solitary waves past slotted breakwaters with a single row of vertical piles: wave processes and flow behavior",
+          "volume": "211",
+          "author": "Frantzis",
+          "year": "2020",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib18",
+          "unstructured": "Fröhle, P., Zemlys, P., Davuliene, L., Gulbinskas, S.Numerical simulation of sediment transport as one basis for the assessment of coastal protection measures in Palanga, Lithuania. Best Practices in the Coastal Environment. Proceedings of the 7th International Conference on Coastal and Port Engineering in Developing Countries (PIANCCOPEDEC VII), on CD-ROM, PIANC.2008."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.rsma.2024.103638_bib19",
+          "article-title": "PRISMA2020: an R package and Shiny app for producing PRISMA 2020-compliant flow diagrams, with interactivity for optimised digital transparency and Open Synthesis",
+          "volume": "18",
+          "author": "Haddaway",
+          "year": "2022",
+          "journal-title": "Campbell Syst. Rev."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib20",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.oceaneng.2022.110897",
+          "article-title": "Potential flow theory-based analytical and numerical modelling of porous and perforated breakwaters: a review",
+          "volume": "249",
+          "author": "Han",
+          "year": "2022",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.rsma.2024.103638_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1080/05785634.1966.11924676",
+          "article-title": "Hydraulic research on the closely spaced pile breakwater",
+          "volume": "9",
+          "author": "Hayashi",
+          "year": "1966",
+          "journal-title": "Coast. Eng. Jpn."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib22",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.oceaneng.2020.107149",
+          "article-title": "Experimental modeling of wave load on a pile-supported wharf with pile breakwater",
+          "volume": "201",
+          "author": "Huang",
+          "year": "2020",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "issue": "11–12",
+          "key": "10.1016/j.rsma.2024.103638_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "1584",
+          "DOI": "10.1016/j.oceaneng.2006.11.002",
+          "article-title": "Wave interaction with one or two rows of closely spaced rectangular cylinders",
+          "volume": "34",
+          "author": "Huang",
+          "year": "2007",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.rsma.2024.103638_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "103",
+          "DOI": "10.1007/s13131-022-2117-y",
+          "article-title": "Dramatical hydro-sedimentary changes induced by bamboo fences over mangrove tidal flat of the largest delta in Beibu Gulf, southwestern China",
+          "volume": "42",
+          "author": "Huang",
+          "year": "2023",
+          "journal-title": "Acta Oceanol. Sin."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.rsma.2024.103638_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "103",
+          "DOI": "10.1007/s13131-022-2117-y",
+          "article-title": "Dramatical hydro-sedimentary changes induced by bamboo fences over mangrove tidal flat of the largest delta in Beibu Gulf, southwestern China",
+          "volume": "42",
+          "author": "Huang",
+          "year": "2023",
+          "journal-title": "Acta Oceanol. Sin."
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.rsma.2024.103638_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "1031",
+          "DOI": "10.1016/j.oceaneng.2011.03.002",
+          "article-title": "Hydraulic performance and wave loadings of perforated/slotted coastal structures: a review",
+          "volume": "38",
+          "author": "Huang",
+          "year": "2011",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.rsma.2024.103638_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "530",
+          "DOI": "10.1016/j.ijnaoe.2018.09.007",
+          "article-title": "Numerical investigation of solitary wave interaction with a row of vertical slotted piles on a sloping beach",
+          "volume": "11",
+          "author": "Jiang",
+          "year": "2019",
+          "journal-title": "Int. J. Nav. Archit. Ocean Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "36",
+          "DOI": "10.1016/j.oceaneng.2014.03.016",
+          "article-title": "Hydraulic characteristics of pile-supported L-shaped bars used as a screen breakwater",
+          "volume": "83",
+          "author": "Koraim",
+          "year": "2014",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.1016/j.coastaleng.2013.11.006",
+          "article-title": "Hydrodynamic performance of double rows of piles suspending horizontal c shaped bars",
+          "volume": "84",
+          "author": "Koraim",
+          "year": "2014",
+          "journal-title": "Coast. Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib30",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ocecoaman.2022.106301",
+          "article-title": "Evaluation of coastal protection strategies and proposing multiple lines of defense under climate change in the Mekong Delta for sustainable shoreline protection",
+          "volume": "228",
+          "author": "Le Xuan",
+          "year": "2022",
+          "journal-title": "Ocean Coast. Manag."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib31",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ocecoaman.2022.106301",
+          "article-title": "Evaluation of coastal protection strategies and proposing multiple lines of defense under climate change in the Mekong Delta for sustainable shoreline protection",
+          "volume": "228",
+          "author": "Le Xuan",
+          "year": "2022",
+          "journal-title": "Ocean Coast. Manag."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib32",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ocecoaman.2022.106301",
+          "article-title": "Evaluation of coastal protection strategies and proposing multiple lines of defense under climate change in the Mekong Delta for sustainable shoreline protection",
+          "volume": "228",
+          "author": "Le Xuan",
+          "year": "2022",
+          "journal-title": "Ocean Coast. Manag."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.rsma.2024.103638_bib33",
+          "first-page": "207",
+          "article-title": "Interaction of wind waves and porous coastal structures",
+          "volume": "122",
+          "author": "Losada",
+          "year": "1996",
+          "journal-title": "J. Waterw. Port. Coast. Ocean Eng."
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.rsma.2024.103638_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "4798",
+          "DOI": "10.3390/su13094798",
+          "article-title": "Using fine-grained sediment and wave attenuation as a new measure for evaluating the efficacy of offshore breakwaters in stabilizing an eroded muddy coast: insights from Ca Mau, the Mekong Delta of Vietnam",
+          "volume": "13",
+          "author": "Luom",
+          "year": "2021",
+          "journal-title": "Sustainability"
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib35",
+          "series-title": "APAC 2019",
+          "first-page": "1413",
+          "article-title": "Porosity Effects on Wave Transmission Through a Bamboo Fence",
+          "author": "Mai",
+          "year": "2020"
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib36",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/fmars.2021.756597",
+          "article-title": "Bamboo fences as a nature-based measure for coastal wetland protection in Vietnam",
+          "volume": "8",
+          "author": "Mai Van",
+          "year": "2021",
+          "journal-title": "Front. Mar. Sci."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib37",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/fmars.2021.756597",
+          "article-title": "Bamboo fences as a nature-based measure for coastal wetland protection in Vietnam",
+          "volume": "8",
+          "author": "Mai Van",
+          "year": "2021",
+          "journal-title": "Front. Mar. Sci."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.rsma.2024.103638_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "335",
+          "DOI": "10.1061/(ASCE)0733-950X(1995)121:6(335)",
+          "article-title": "Wave transmission by suspended pipe breakwater",
+          "volume": "121",
+          "author": "Mani",
+          "year": "1995",
+          "journal-title": "J. Waterw., Port., Coast., Ocean Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib39",
+          "unstructured": "MMAF. (2012). Oceanography condition in coastal of Sayung sub-district, district of Demak province of central Java. LGF Team in Demak, Ministry of Marine Affairs and Fisheries (MMAF), Republic of Indonesia ."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib40",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.oceaneng.2020.107942",
+          "article-title": "Investigation on hydrodynamic performance of an environmentally friendly pile breakwater",
+          "volume": "217",
+          "author": "Mojtahedi",
+          "year": "2020",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.rsma.2024.103638_bib41",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.33175/mtr.2024.270227",
+          "article-title": "Assessment of water quality and heavy metal contamination in ballast water: implications for marine ecosystems and human health",
+          "volume": "6",
+          "author": "Onyena",
+          "year": "2024",
+          "journal-title": "Marit. Technol. Res."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.rsma.2024.103638_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "417",
+          "DOI": "10.4306/pi.2015.12.3.417",
+          "article-title": "Why systematic review rather than narrative review?",
+          "volume": "12",
+          "author": "Pae",
+          "year": "2015",
+          "journal-title": "Psychiatry Investig."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "n160",
+          "DOI": "10.1136/bmj.n160",
+          "article-title": "PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews",
+          "author": "Page",
+          "year": "2021",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "253",
+          "DOI": "10.1142/S0578563400000122",
+          "article-title": "Scattering of irregular waves by vertical cylinders",
+          "volume": "42",
+          "author": "Park",
+          "year": "2000",
+          "journal-title": "Coast. Eng. J."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib45",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.oceaneng.2023.115777",
+          "article-title": "Numerical simulation of the interaction between waves and pile breakwater with horizontal slotted plates",
+          "volume": "287",
+          "author": "Peng",
+          "year": "2023",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "year": "2006",
+          "series-title": "Systematic Reviews in the Social Sciences",
+          "author": "Petticrew",
+          "key": "10.1016/j.rsma.2024.103638_bib46"
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib47",
+          "doi-asserted-by": "crossref",
+          "first-page": "900",
+          "DOI": "10.1016/j.marpolbul.2019.07.055",
+          "article-title": "Well-intentioned, but poorly implemented: debris from coastal bamboo fences triggered mangrove decline in Thailand",
+          "volume": "146",
+          "author": "Pranchai",
+          "year": "2019",
+          "journal-title": "Mar. Pollut. Bull."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib48",
+          "doi-asserted-by": "crossref",
+          "first-page": "900",
+          "DOI": "10.1016/j.marpolbul.2019.07.055",
+          "article-title": "Well-intentioned, but poorly implemented: debris from coastal bamboo fences triggered mangrove decline in Thailand",
+          "volume": "146",
+          "author": "Pranchai",
+          "year": "2019",
+          "journal-title": "Mar. Pollut. Bull."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.rsma.2024.103638_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "22",
+          "DOI": "10.1080/09715010.1999.10514640",
+          "article-title": "Laboratory investigation on wave reflection characteristics of suspended perforated pipe breakwater",
+          "volume": "5",
+          "author": "Rao",
+          "year": "1999",
+          "journal-title": "ISH J. Hydraul. Eng."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.rsma.2024.103638_bib50",
+          "doi-asserted-by": "crossref",
+          "first-page": "23",
+          "DOI": "10.1080/09715010.2001.10514686",
+          "article-title": "Laboratory investigation on wave transmission through suspended perforated pipes",
+          "volume": "7",
+          "author": "Rao",
+          "year": "2001",
+          "journal-title": "ISH J. Hydraul. Eng."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.rsma.2024.103638_bib51",
+          "doi-asserted-by": "crossref",
+          "first-page": "1817",
+          "DOI": "10.1007/s12665-011-1407-z",
+          "article-title": "Constraints influencing stakeholder participation in collective environmental management",
+          "volume": "66",
+          "author": "Saengsupavanich",
+          "year": "2012",
+          "journal-title": "Environ. Earth Sci."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.1016/j.ocecoaman.2013.02.002",
+          "article-title": "Erosion protection options of a muddy coastline in Thailand: stakeholders’ shared responsibilities",
+          "volume": "83",
+          "author": "Saengsupavanich",
+          "year": "2013",
+          "journal-title": "Ocean Coast. Manag."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.rsma.2024.103638_bib53",
+          "first-page": "39",
+          "article-title": "Enhancing water circulation in a river port",
+          "volume": "22",
+          "author": "Saengsupavanich",
+          "year": "2019",
+          "journal-title": "J. Appl. Sci. Eng."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.rsma.2024.103638_bib54",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.1007/s11852-020-00729-9",
+          "article-title": "Which eroding site is more urgent for the government?: a reflection from coastal communities",
+          "volume": "24",
+          "author": "Saengsupavanich",
+          "year": "2020",
+          "journal-title": "J. Coast. Conserv."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.rsma.2024.103638_bib55",
+          "article-title": "Successful coastal protection by step concrete revetments in Thailand",
+          "volume": "1072",
+          "author": "Saengsupavanich",
+          "year": "2022",
+          "journal-title": "IOP Conf. Ser.: Earth Environ. Sci."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.rsma.2024.103638_bib56",
+          "doi-asserted-by": "crossref",
+          "first-page": "303",
+          "DOI": "10.1080/23249676.2022.2110529",
+          "article-title": "The 2021-procedure for coastal protection by revetments in Thailand",
+          "volume": "11",
+          "author": "Saengsupavanich",
+          "year": "2023",
+          "journal-title": "J. Appl. Water Eng. Res."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.rsma.2024.103638_bib57",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1007/s44218-023-00030-w",
+          "article-title": "Current challenges in coastal erosion management for southern Asian regions: examples from Thailand, Malaysia, and Sri Lanka",
+          "volume": "6",
+          "author": "Saengsupavanich",
+          "year": "2023",
+          "journal-title": "Anthr. Coasts"
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib58",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.oceaneng.2021.109395",
+          "article-title": "Performance characteristics of a conical pile head breakwater: an experimental study",
+          "volume": "235",
+          "author": "Sathyanarayana",
+          "year": "2021",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "issue": "24",
+          "key": "10.1016/j.rsma.2024.103638_bib59",
+          "doi-asserted-by": "crossref",
+          "first-page": "4087",
+          "DOI": "10.3390/w14244087",
+          "article-title": "Numerical modelling of an innovative conical pile head breakwater",
+          "volume": "14",
+          "author": "Sathyanarayana",
+          "year": "2022",
+          "journal-title": "Water"
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib60",
+          "series-title": "Coastal Disasters and Climate Change in Vietnam",
+          "first-page": "107",
+          "article-title": "Area coastal protection and the use of bamboo breakwaters in the Mekong delta",
+          "author": "Schmitt",
+          "year": "2014"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.rsma.2024.103638_bib61",
+          "doi-asserted-by": "crossref",
+          "first-page": "545",
+          "DOI": "10.1007/s11852-013-0253-4",
+          "article-title": "Site-specific and integrated adaptation to climate change in the coastal mangrove zone of Soc Trang Province, Viet Nam",
+          "volume": "17",
+          "author": "Schmitt",
+          "year": "2013",
+          "journal-title": "J. Coast. Conserv."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.rsma.2024.103638_bib62",
+          "doi-asserted-by": "crossref",
+          "first-page": "545",
+          "DOI": "10.1007/s11852-013-0253-4",
+          "article-title": "Site-specific and integrated adaptation to climate change in the coastal mangrove zone of Soc Trang Province, Viet Nam",
+          "volume": "17",
+          "author": "Schmitt",
+          "year": "2013",
+          "journal-title": "J. Coast. Conserv."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.rsma.2024.103638_bib63",
+          "doi-asserted-by": "crossref",
+          "first-page": "545",
+          "DOI": "10.1007/s11852-013-0253-4",
+          "article-title": "Site-specific and integrated adaptation to climate change in the coastal mangrove zone of Soc Trang Province, Viet Nam",
+          "volume": "17",
+          "author": "Schmitt",
+          "year": "2013",
+          "journal-title": "J. Coast. Conserv."
+        },
+        {
+          "issue": "20",
+          "key": "10.1016/j.rsma.2024.103638_bib64",
+          "doi-asserted-by": "crossref",
+          "first-page": "25035",
+          "DOI": "10.1007/s11356-021-13559-5",
+          "article-title": "Particulates induced lung inflammation and its consequences in the development of restrictive and obstructive lung diseases: a systematic review",
+          "volume": "28",
+          "author": "Shamsollahi",
+          "year": "2021",
+          "journal-title": "Environ. Sci. Pollut. Res."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.rsma.2024.103638_bib65",
+          "doi-asserted-by": "crossref",
+          "first-page": "366",
+          "DOI": "10.1080/00221680509500132",
+          "article-title": "SPH simulation of solitary wave interaction with a curtain-type breakwater",
+          "volume": "43",
+          "author": "Shao",
+          "year": "2005",
+          "journal-title": "J. Hydraul. Res."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib66",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/fmars.2023.1165048",
+          "article-title": "Coastal wave-energy attenuation by artificial wooden fences deployed for mangrove restoration: an experimental study",
+          "volume": "10",
+          "author": "Shu",
+          "year": "2023",
+          "journal-title": "Front. Mar. Sci."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib67",
+          "doi-asserted-by": "crossref",
+          "first-page": "25",
+          "DOI": "10.1016/j.oceaneng.2018.02.050",
+          "article-title": "Estimation of friction coefficient for double walled permeable vertical breakwater",
+          "volume": "156",
+          "author": "Somervell",
+          "year": "2018",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.rsma.2024.103638_bib68",
+          "doi-asserted-by": "crossref",
+          "first-page": "246",
+          "DOI": "10.12911/22998993/144559",
+          "article-title": "Analysis of structural and non-structural disaster mitigation due to erosion in the Timbulsloko Village, Demak – Central Java",
+          "volume": "23",
+          "author": "Sugianto",
+          "year": "2022",
+          "journal-title": "J. Ecol. Eng."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.rsma.2024.103638_bib69",
+          "doi-asserted-by": "crossref",
+          "first-page": "246",
+          "DOI": "10.12911/22998993/144559",
+          "article-title": "Analysis of structural and non-structural disaster mitigation due to erosion in the Timbulsloko Village, Demak – Central Java",
+          "volume": "23",
+          "author": "Sugianto",
+          "year": "2022",
+          "journal-title": "J. Ecol. Eng."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.rsma.2024.103638_bib70",
+          "doi-asserted-by": "crossref",
+          "first-page": "83",
+          "DOI": "10.1061/(ASCE)0733-950X(2006)132:2(83)",
+          "article-title": "Hydrodynamic characteristics of pile-supported vertical wall breakwaters",
+          "volume": "132",
+          "author": "Suh",
+          "year": "2006",
+          "journal-title": "J. Waterw. Port. Coast. Ocean Eng."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.rsma.2024.103638_bib71",
+          "doi-asserted-by": "crossref",
+          "first-page": "22",
+          "DOI": "10.1061/(ASCE)0733-950X(2003)129:1(22)",
+          "article-title": "Hydrodynamic performance characteristics of quadrant front-face pile-supported breakwater",
+          "volume": "129",
+          "author": "Sundar",
+          "year": "2003",
+          "journal-title": "J. Waterw. Port. Coast. Ocean Eng."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.rsma.2024.103638_bib72",
+          "first-page": "96",
+          "article-title": "Mangrove restoration with environment friendly permeable breakwater",
+          "volume": "19",
+          "author": "Suripin",
+          "year": "2017",
+          "journal-title": "Asian J. Microbiol., Biotechnol. Environ. Sci."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib73",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.oceaneng.2020.107989",
+          "article-title": "Laboratory investigation on hydraulic performance of enlarged pile head breakwater",
+          "volume": "217",
+          "author": "Suvarna",
+          "year": "2020",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib74",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.oceaneng.2020.107989",
+          "article-title": "Laboratory investigation on hydraulic performance of enlarged pile head breakwater",
+          "volume": "217",
+          "author": "Suvarna",
+          "year": "2020",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib75",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.oceaneng.2021.110089",
+          "article-title": "Hydraulic performance of perforated enlarged pile head breakwaters through laboratory investigation",
+          "volume": "241",
+          "author": "Suvarna",
+          "year": "2021",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.rsma.2024.103638_bib76",
+          "doi-asserted-by": "crossref",
+          "first-page": "31",
+          "DOI": "10.1007/s11852-020-00749-5",
+          "article-title": "Do wooden pile breakwaters work for community-based coastal protection?",
+          "volume": "24",
+          "author": "Takagi",
+          "year": "2020",
+          "journal-title": "J. Coast. Conserv."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib77",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.apor.2020.102259",
+          "article-title": "Monsoon wave transmission at bamboo fences protecting mangroves in the lower mekong delta",
+          "volume": "101",
+          "author": "Thieu Quang",
+          "year": "2020",
+          "journal-title": "Appl. Ocean Res."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib78",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.apor.2020.102259",
+          "article-title": "Monsoon wave transmission at bamboo fences protecting mangroves in the lower mekong delta",
+          "volume": "101",
+          "author": "Thieu Quang",
+          "year": "2020",
+          "journal-title": "Appl. Ocean Res."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib79",
+          "doi-asserted-by": "crossref",
+          "first-page": "148",
+          "DOI": "10.1016/j.apor.2018.04.018",
+          "article-title": "Numerical study of pile group effect on wave-induced seabed response",
+          "volume": "76",
+          "author": "Tong",
+          "year": "2018",
+          "journal-title": "Appl. Ocean Res."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib80",
+          "doi-asserted-by": "crossref",
+          "first-page": "148",
+          "DOI": "10.1016/j.apor.2018.04.018",
+          "article-title": "Numerical study of pile group effect on wave-induced seabed response",
+          "volume": "76",
+          "author": "Tong",
+          "year": "2018",
+          "journal-title": "Appl. Ocean Res."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib81",
+          "doi-asserted-by": "crossref",
+          "first-page": "256",
+          "DOI": "10.1016/j.ecoleng.2015.04.031",
+          "article-title": "Using Melaleuca fences as soft coastal engineering for mangrove restoration in Kien Giang, Vietnam",
+          "volume": "81",
+          "author": "Van Cuong",
+          "year": "2015",
+          "journal-title": "Ecol. Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib82",
+          "doi-asserted-by": "crossref",
+          "first-page": "256",
+          "DOI": "10.1016/j.ecoleng.2015.04.031",
+          "article-title": "Using Melaleuca fences as soft coastal engineering for mangrove restoration in Kien Giang, Vietnam",
+          "volume": "81",
+          "author": "Van Cuong",
+          "year": "2015",
+          "journal-title": "Ecol. Eng."
+        },
+        {
+          "issue": "13",
+          "key": "10.1016/j.rsma.2024.103638_bib83",
+          "doi-asserted-by": "crossref",
+          "first-page": "106",
+          "DOI": "10.9753/icce.v13.106",
+          "article-title": "Wave reflection and transmission for pile arrays",
+          "author": "Van Weele",
+          "year": "1972",
+          "journal-title": "Coast. Eng. Proc."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib84",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ecoleng.2020.106078",
+          "article-title": "Managing erosion of mangrove-mud coasts with permeable dams – lessons learned",
+          "volume": "158",
+          "author": "Winterwerp",
+          "year": "2020",
+          "journal-title": "Ecol. Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib85",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ecoleng.2020.106078",
+          "article-title": "Managing erosion of mangrove-mud coasts with permeable dams – lessons learned",
+          "volume": "158",
+          "author": "Winterwerp",
+          "year": "2020",
+          "journal-title": "Ecol. Eng."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.rsma.2024.103638_bib86",
+          "doi-asserted-by": "crossref",
+          "first-page": "515",
+          "DOI": "10.1007/s13157-013-0409-x",
+          "article-title": "Defining eco-morphodynamic requirements for rehabilitating eroding mangrove-mud coasts",
+          "volume": "33",
+          "author": "Winterwerp",
+          "year": "2013",
+          "journal-title": "Wetlands"
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib87",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.oceaneng.2022.110875",
+          "article-title": "Analytical study on the dynamic responses of a sheet-pile groin subjected to transient lateral impulses",
+          "volume": "249",
+          "author": "Wu",
+          "year": "2022",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib88",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wu, T., Zhang, Y., Sun, H., Galindo, R., Wu, W., & Cai, Y. (2023). Dynamic response of sheet3pile groin under tidal bore considering pile3pile mutual interaction and hydrodynamic pressure. Soil Dynamics and Earthquake Engineering, 164, 107568. https://doi.org/10.1016/j.soildyn.2022.107568.",
+          "DOI": "10.1016/j.soildyn.2022.107568"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.rsma.2024.103638_bib89",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.1007/s13344-020-0002-z",
+          "article-title": "A numerical investigation of the reduction of solitary wave runup by a row of vertical slotted piles",
+          "volume": "34",
+          "author": "Yao",
+          "year": "2020",
+          "journal-title": "China Ocean Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib90",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.oceaneng.2021.109381",
+          "article-title": "Flow pattern and hydrodynamic parameters of pile breakwater under solitary wave using OpenFOAM",
+          "volume": "235",
+          "author": "Yin",
+          "year": "2021",
+          "journal-title": "Ocean Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib91",
+          "article-title": "Near-shore evolution model for Palanga area: feasibility study of beach erosion management",
+          "volume": "57",
+          "author": "Zemlys",
+          "year": "2007",
+          "journal-title": "Geologija"
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib92",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ecoleng.2023.107133",
+          "article-title": "Nature-based solutions to mitigate early marsh-edge erosion in a coastal wetland",
+          "volume": "198",
+          "author": "Zhou",
+          "year": "2024",
+          "journal-title": "Ecol. Eng."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.rsma.2024.103638_bib93",
+          "doi-asserted-by": "crossref",
+          "first-page": "446",
+          "DOI": "10.1016/j.coastaleng.2011.01.003",
+          "article-title": "Hydrodynamic characteristics of a single-row pile breakwater",
+          "volume": "58",
+          "author": "Zhu",
+          "year": "2011",
+          "journal-title": "Coast. Eng."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.rsma.2024.103638_bib94",
+          "doi-asserted-by": "crossref",
+          "first-page": "323",
+          "DOI": "10.1007/s13344-013-0028-6",
+          "article-title": "Full wave solution for hydrodynamic behaviors of pile breakwater",
+          "volume": "27",
+          "author": "Zhu",
+          "year": "2013",
+          "journal-title": "China Ocean Eng."
+        },
+        {
+          "key": "10.1016/j.rsma.2024.103638_bib95",
+          "doi-asserted-by": "crossref",
+          "first-page": "1009",
+          "DOI": "10.1016/j.proeng.2015.08.393",
+          "article-title": "Numerical Modeling of Wave Interaction with Double Curtain-wall Breakwater",
+          "volume": "116",
+          "author": "Zhu",
+          "year": "2015",
+          "journal-title": "Procedia Eng."
+        }
+      ],
+      "container-title": [
+        "Regional Studies in Marine Science"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2352485524002718?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2352485524002718?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            16
+          ]
+        ],
+        "date-time": "2024-08-16T21:14:44Z",
+        "timestamp": 1723842884000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2352485524002718"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            12
+          ]
+        ]
+      },
+      "references-count": 95,
+      "alternative-id": [
+        "S2352485524002718"
+      ],
+      "URL": "https://doi.org/10.1016/j.rsma.2024.103638",
+      "relation": {},
+      "ISSN": [
+        "2352-4855"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2352-4855"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            12
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Using piles for wave reduction and coastal protection: A review",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Regional Studies in Marine Science",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.rsma.2024.103638",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "103638"
+    },
+    "pubmed_summary": {
+      "uid": "39915132",
+      "pubdate": "2025 Mar 1",
+      "epubdate": "2025 Feb 5",
+      "source": "Environ Res",
+      "authors": [
+        {
+          "name": "Christina B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thanigaimani K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sudhakaran R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohan S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arumugam N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Almansour AI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mahalingam SM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mahalingam SM",
+      "title": "Retraction notice to \"Pyto-Architechture of Ag, Au and Ag-Au bi-metallic nanoparticles using waste orange peel extract for enable carcinogenic Congo red dye degradation\" [Environ. Res. 242 (2024) 117625].",
+      "sorttitle": "retraction notice to pyto architechture of ag au and ag au bi metallic nanoparticles using waste orange peel extract for enable carcinogenic congo red dye degradation environ res 242 2024 117625",
+      "volume": "268",
+      "issue": "",
+      "pages": "120991",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147621",
+      "issn": "0013-9351",
+      "essn": "1096-0953",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39915132"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.envres.2025.120991"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0013-9351(25)00242-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/02/07 00:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/02/07 00:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/02/06 21:57"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Environ Res. 2024 Feb 1;242:117625. doi: 10.1016/j.envres.2023.117625.",
+          "reftype": "Retraction of",
+          "pmid": 38007079,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Environmental research",
+      "elocationid": "doi: 10.1016/j.envres.2025.120991",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/03/01 00:00",
+      "sortfirstauthor": "Christina B",
+      "vernaculartitle": ""
+    }
+  }
+}

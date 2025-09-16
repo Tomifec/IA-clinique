@@ -1,0 +1,1657 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_neurol_2021_07_006.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_neurol_2021_07_006",
+  "doi": "10.1016/j.neurol.2021.07.006",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:57.588696Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            31
+          ]
+        ],
+        "date-time": "2025-08-31T10:28:04Z",
+        "timestamp": 1756636084090,
+        "version": "3.40.5"
+      },
+      "reference-count": 122,
+      "publisher": "Elsevier BV",
+      "issue": "7",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2021-09-01T00:00:00Z",
+            "timestamp": 1630454400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2021-09-01T00:00:00Z",
+            "timestamp": 1630454400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2021-09-01T00:00:00Z",
+            "timestamp": 1630454400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2021-09-01T00:00:00Z",
+            "timestamp": 1630454400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2021-09-01T00:00:00Z",
+            "timestamp": 1630454400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2021-09-01T00:00:00Z",
+            "timestamp": 1630454400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Revue Neurologique"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.neurol.2021.07.006",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            7,
+            30
+          ]
+        ],
+        "date-time": "2021-07-30T11:43:48Z",
+        "timestamp": 1627645428000
+      },
+      "page": "734-752",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 47,
+      "title": [
+        "Revised guidelines of the French headache society for the diagnosis and management of migraine in adults. Part 2: Pharmacological treatment"
+      ],
+      "prefix": "10.1016",
+      "volume": "177",
+      "author": [
+        {
+          "given": "A.",
+          "family": "Ducros",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "S.",
+          "family": "de Gaalon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9076-763X",
+          "authenticated-orcid": false,
+          "given": "C.",
+          "family": "Roos",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "A.",
+          "family": "Donnet",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "P.",
+          "family": "Giraud",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "E.",
+          "family": "Guégan-Massardier",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6717-9234",
+          "authenticated-orcid": false,
+          "given": "M.",
+          "family": "Lantéri-Minet",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "C.",
+          "family": "Lucas",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "J.",
+          "family": "Mawet",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "X.",
+          "family": "Moisset",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "D.",
+          "family": "Valade",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "G.",
+          "family": "Demarquay",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0620",
+          "article-title": "Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 1: diagnosis and assessment",
+          "author": "Demarquay",
+          "year": "2021",
+          "journal-title": "Rev Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0625",
+          "article-title": "Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 3: non-pharmacological treatment",
+          "author": "Demarquay",
+          "year": "2021",
+          "journal-title": "Rev Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0630",
+          "doi-asserted-by": "crossref",
+          "first-page": "3486",
+          "DOI": "10.1001/archinte.160.22.3486",
+          "article-title": "Efficacy and safety of acetaminophen in the treatment of migraine: results of a randomized, double-blind, placebo-controlled, population-based study",
+          "volume": "160",
+          "author": "Lipton",
+          "year": "2000",
+          "journal-title": "Arch Intern Med"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0635",
+          "doi-asserted-by": "crossref",
+          "first-page": "819",
+          "DOI": "10.1111/j.1526-4610.2010.01638.x",
+          "article-title": "A randomized, placebo-controlled trial of acetaminophen for treatment of migraine headache",
+          "volume": "50",
+          "author": "Prior",
+          "year": "2010",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0640",
+          "doi-asserted-by": "crossref",
+          "first-page": "669",
+          "DOI": "10.1007/s10194-012-0484-z",
+          "article-title": "Comparison of tolerability and efficacy of a combination of paracetamol + caffeine and sumatriptan in the treatment of migraine attack: a randomized, double-blind, double-dummy, crossover study",
+          "volume": "13",
+          "author": "Pini",
+          "year": "2012",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0645",
+          "doi-asserted-by": "crossref",
+          "first-page": "973",
+          "DOI": "10.1111/j.1526-4610.2005.05177.x",
+          "article-title": "Acetaminophen, aspirin, and caffeine versus sumatriptan succinate in the early treatment of migraine: results from the ASSET trial",
+          "volume": "45",
+          "author": "Goldstein",
+          "year": "2005",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0650",
+          "first-page": "CD008040",
+          "article-title": "Paracetamol (acetaminophen) with or without an antiemetic for acute migraine headaches in adults",
+          "author": "Derry",
+          "year": "2013",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0655",
+          "doi-asserted-by": "crossref",
+          "first-page": "1660",
+          "DOI": "10.1212/WNL.58.11.1660",
+          "article-title": "Efficacy of oral ketoprofen in acute migraine: a double-blind randomized clinical trial",
+          "volume": "58",
+          "author": "Dib",
+          "year": "2002",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0660",
+          "doi-asserted-by": "crossref",
+          "first-page": "808",
+          "DOI": "10.1111/j.1526-4610.2010.01635.x",
+          "article-title": "Meta-analysis of the efficacy and safety of naproxen sodium in the acute treatment of migraine",
+          "volume": "50",
+          "author": "Suthisisang",
+          "year": "2010",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0665",
+          "first-page": "CD008783",
+          "article-title": "Diclofenac with or without an antiemetic for acute migraine headaches in adults",
+          "author": "Derry",
+          "year": "2013",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0670",
+          "doi-asserted-by": "crossref",
+          "first-page": "1782",
+          "DOI": "10.1345/aph.1K121",
+          "article-title": "Efficacy of low-dose ibuprofen in acute migraine treatment: systematic review and meta-analysis",
+          "volume": "41",
+          "author": "Suthisisang",
+          "year": "2007",
+          "journal-title": "Ann Pharmacother"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0675",
+          "doi-asserted-by": "crossref",
+          "first-page": "56",
+          "DOI": "10.5694/j.1326-5377.1968.tb27465.x",
+          "article-title": "Indomethacin in migraine",
+          "volume": "1",
+          "author": "Anthony",
+          "year": "1968",
+          "journal-title": "Med J Aust"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0680",
+          "first-page": "CD008041",
+          "article-title": "Aspirin with or without an antiemetic for acute migraine headaches in adults",
+          "author": "Kirthi",
+          "year": "2013",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0685",
+          "doi-asserted-by": "crossref",
+          "first-page": "891",
+          "DOI": "10.1016/S1474-4422(19)30146-2",
+          "article-title": "Pathophysiology, prevention, and treatment of medication overuse headache",
+          "volume": "18",
+          "author": "Diener",
+          "year": "2019",
+          "journal-title": "Lancet Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0690",
+          "doi-asserted-by": "crossref",
+          "first-page": "591",
+          "DOI": "10.1080/14737175.2020.1770084",
+          "article-title": "Medication overuse headache: an overview of clinical aspects, mechanisms, and treatments",
+          "volume": "20",
+          "author": "Krymchantowski",
+          "year": "2020",
+          "journal-title": "Expert Rev Neurother"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.neurol.2021.07.006_bib0695",
+          "doi-asserted-by": "crossref",
+          "first-page": "2259",
+          "DOI": "10.3390/nu12082259",
+          "article-title": "The ambiguous role of caffeine in migraine headache: from trigger to treatment",
+          "volume": "12",
+          "author": "Nowaczewska",
+          "year": "2020",
+          "journal-title": "Nutrients"
+        },
+        {
+          "issue": "Suppl. 4",
+          "key": "10.1016/j.neurol.2021.07.006_bib0700",
+          "doi-asserted-by": "crossref",
+          "first-page": "221",
+          "DOI": "10.1111/head.12601",
+          "article-title": "Triptans in the acute treatment of migraine: a systematic review and network meta-analysis",
+          "volume": "55",
+          "author": "Cameron",
+          "year": "2015",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0705",
+          "doi-asserted-by": "crossref",
+          "first-page": "258",
+          "DOI": "10.1177/0333102413508661",
+          "article-title": "Comparative efficacy of triptans for the abortive treatment of migraine: a multiple treatment comparison meta-analysis",
+          "volume": "34",
+          "author": "Thorlund",
+          "year": "2014",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0710",
+          "doi-asserted-by": "crossref",
+          "first-page": "1668",
+          "DOI": "10.1016/S0140-6736(01)06711-3",
+          "article-title": "Oral triptans (serotonin 5-HT(1B/1D) agonists) in acute migraine treatment: a meta-analysis of 53 trials",
+          "volume": "358",
+          "author": "Ferrari",
+          "year": "2001",
+          "journal-title": "Lancet Lond Engl"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0715",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.1016/j.neurol.2012.07.022",
+          "article-title": "[Guidelines for the diagnosis and management of migraine in adults and children]",
+          "volume": "169",
+          "author": "Lanteri-Minet",
+          "year": "2013",
+          "journal-title": "Rev Neurol (Paris)"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0720",
+          "first-page": "CD009108",
+          "article-title": "Sumatriptan (all routes of administration) for acute migraine attacks in adults – overview of Cochrane reviews",
+          "author": "Derry",
+          "year": "2014",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0725",
+          "doi-asserted-by": "crossref",
+          "first-page": "4765",
+          "DOI": "10.1007/s12325-020-01494-9",
+          "article-title": "Evaluation of patients with insufficient efficacy and/or tolerability to triptans for the acute treatment of migraine: a systematic literature review",
+          "volume": "37",
+          "author": "Leroux",
+          "year": "2020",
+          "journal-title": "Adv Ther"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0730",
+          "first-page": "CD008541",
+          "article-title": "Sumatriptan plus naproxen for the treatment of acute migraine attacks in adults",
+          "volume": "4",
+          "author": "Law",
+          "year": "2016",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0735",
+          "doi-asserted-by": "crossref",
+          "first-page": "891",
+          "DOI": "10.1177/0333102413480756",
+          "article-title": "Triptan nonresponders: do they exist and who are they?",
+          "volume": "33",
+          "author": "Viana",
+          "year": "2013",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0740",
+          "doi-asserted-by": "crossref",
+          "first-page": "633",
+          "DOI": "10.1046/j.1468-2982.2002.00404.x",
+          "article-title": "Triptans (serotonin, 5-HT1B/1D agonists) in migraine: detailed results and methods of a meta-analysis of 53 trials",
+          "volume": "22",
+          "author": "Ferrari",
+          "year": "2002",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0745",
+          "doi-asserted-by": "crossref",
+          "first-page": "1300",
+          "DOI": "10.1111/head.12154",
+          "article-title": "Examination of unmet treatment needs among persons with episodic migraine: results of the American Migraine Prevalence and Prevention (AMPP) Study",
+          "volume": "53",
+          "author": "Lipton",
+          "year": "2013",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0750",
+          "doi-asserted-by": "crossref",
+          "first-page": "162",
+          "DOI": "10.1212/WNL.0000000000011216",
+          "article-title": "Sex differences in response to triptans: a systematic review and meta-analysis",
+          "volume": "96",
+          "author": "van Casteren",
+          "year": "2021",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0755",
+          "doi-asserted-by": "crossref",
+          "first-page": "96",
+          "DOI": "10.1186/s10194-019-1046-4",
+          "article-title": "Differences in treatment response between migraine with aura and migraine without aura: lessons from clinical practice and RCTs",
+          "volume": "20",
+          "author": "Hansen",
+          "year": "2019",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0760",
+          "doi-asserted-by": "crossref",
+          "first-page": "57",
+          "DOI": "10.1186/s10194-018-0899-2",
+          "article-title": "Aids to management of headache disorders in primary care (2nd edition): on behalf of the European Headache Federation and Lifting The Burden: the Global Campaign against Headache",
+          "volume": "20",
+          "author": "Steiner",
+          "year": "2019",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0765",
+          "doi-asserted-by": "crossref",
+          "first-page": "331",
+          "DOI": "10.1016/j.ajem.2014.11.013",
+          "article-title": "Critical reappraisal of intravenous metoclopramide in migraine attack: a systematic review and meta-analysis",
+          "volume": "33",
+          "author": "Eken",
+          "year": "2015",
+          "journal-title": "Am J Emerg Med"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0770",
+          "doi-asserted-by": "crossref",
+          "first-page": "682",
+          "DOI": "10.1111/head.13527",
+          "article-title": "The efficacy and safety of prochlorperazine in patients with acute migraine: a systematic review and meta-analysis",
+          "volume": "59",
+          "author": "Golikhatir",
+          "year": "2019",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0775",
+          "doi-asserted-by": "crossref",
+          "first-page": "887",
+          "DOI": "10.1177/0333102416653233",
+          "article-title": "A phase IIb randomized, double-blind, placebo-controlled trial of ubrogepant for the acute treatment of migraine",
+          "volume": "36",
+          "author": "Voss",
+          "year": "2016",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0780",
+          "doi-asserted-by": "crossref",
+          "first-page": "1887",
+          "DOI": "10.1001/jama.2019.16711",
+          "article-title": "Effect of ubrogepant vs. placebo on pain and the most bothersome associated symptom in the acute treatment of migraine: the ACHIEVE II Randomized Clinical Trial",
+          "volume": "322",
+          "author": "Lipton",
+          "year": "2019",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0785",
+          "doi-asserted-by": "crossref",
+          "first-page": "737",
+          "DOI": "10.1016/S0140-6736(19)31606-X",
+          "article-title": "Efficacy, safety, and tolerability of rimegepant orally disintegrating tablet for the acute treatment of migraine: a randomised, phase 3, double-blind, placebo-controlled trial",
+          "volume": "394",
+          "author": "Croop",
+          "year": "2019",
+          "journal-title": "Lancet Lond Engl"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0790",
+          "doi-asserted-by": "crossref",
+          "first-page": "113",
+          "DOI": "10.1111/head.13444",
+          "article-title": "The emperor's new gepants: are the effects of the new oral CGRP antagonists clinically meaningful?",
+          "volume": "59",
+          "author": "Tfelt-Hansen",
+          "year": "2019",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0795",
+          "doi-asserted-by": "crossref",
+          "first-page": "54",
+          "DOI": "10.1186/s10194-019-1007-y",
+          "article-title": "The need for new acutely acting antimigraine drugs: moving safely outside acute medication overuse",
+          "volume": "20",
+          "author": "van Hoogstraten",
+          "year": "2019",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0800",
+          "doi-asserted-by": "crossref",
+          "first-page": "e2222",
+          "DOI": "10.1212/WNL.0000000000006641",
+          "article-title": "Lasmiditan is an effective acute treatment for migraine: a phase 3 randomized study",
+          "volume": "91",
+          "author": "Kuca",
+          "year": "2018",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0805",
+          "doi-asserted-by": "crossref",
+          "first-page": "1894",
+          "DOI": "10.1093/brain/awz134",
+          "article-title": "Phase 3 randomized, placebo-controlled, double-blind study of lasmiditan for acute treatment of migraine",
+          "volume": "142",
+          "author": "Goadsby",
+          "year": "2019",
+          "journal-title": "Brain J Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0810",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.1177/0333102419889350",
+          "article-title": "Lasmiditan for the acute treatment of migraine: subgroup analyses by prior response to triptans",
+          "volume": "40",
+          "author": "Knievel",
+          "year": "2020",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0815",
+          "doi-asserted-by": "crossref",
+          "first-page": "495",
+          "DOI": "10.1002/jcph.1543",
+          "article-title": "Abuse potential of lasmiditan: a phase 1 randomized, placebo- and alprazolam-controlled crossover study",
+          "volume": "60",
+          "author": "Wilbraham",
+          "year": "2020",
+          "journal-title": "J Clin Pharmacol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0820",
+          "doi-asserted-by": "crossref",
+          "first-page": "e0130733",
+          "DOI": "10.1371/journal.pone.0130733",
+          "article-title": "A comparative effectiveness meta-analysis of drugs for the prophylaxis of migraine headache",
+          "volume": "10",
+          "author": "Jackson",
+          "year": "2015",
+          "journal-title": "PloS One"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0825",
+          "doi-asserted-by": "crossref",
+          "first-page": "e0212785",
+          "DOI": "10.1371/journal.pone.0212785",
+          "article-title": "Beta-blockers for the prevention of headache in adults, a systematic review and meta-analysis",
+          "volume": "14",
+          "author": "Jackson",
+          "year": "2019",
+          "journal-title": "PloS One"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0830",
+          "doi-asserted-by": "crossref",
+          "first-page": "523",
+          "DOI": "10.1177/0333102413515348",
+          "article-title": "A comparative study of candesartan versus propranolol for migraine prophylaxis: a randomised, triple-blind, placebo-controlled, double crossover study",
+          "volume": "34",
+          "author": "Stovner",
+          "year": "2014",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0835",
+          "doi-asserted-by": "crossref",
+          "first-page": "65",
+          "DOI": "10.1001/jama.289.1.65",
+          "article-title": "Prophylactic treatment of migraine with an angiotensin II receptor blocker: a randomized controlled trial",
+          "volume": "289",
+          "author": "Tronvik",
+          "year": "2003",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0840",
+          "doi-asserted-by": "crossref",
+          "first-page": "921",
+          "DOI": "10.1111/j.1468-2982.2008.01825.x",
+          "article-title": "Telmisartan in migraine prophylaxis: a randomized, placebo-controlled trial",
+          "volume": "29",
+          "author": "Diener",
+          "year": "2009",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0845",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.1136/bmj.322.7277.19",
+          "article-title": "Prophylactic treatment of migraine with angiotensin converting enzyme inhibitor (lisinopril): randomised, placebo-controlled, crossover study",
+          "volume": "322",
+          "author": "Schrader",
+          "year": "2001",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0850",
+          "doi-asserted-by": "crossref",
+          "first-page": "762",
+          "DOI": "10.1097/j.pain.0000000000001456",
+          "article-title": "Flunarizine as prophylaxis for episodic migraine: a systematic review with meta-analysis",
+          "volume": "160",
+          "author": "Stubberud",
+          "year": "2019",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0855",
+          "doi-asserted-by": "crossref",
+          "first-page": "476",
+          "DOI": "10.1111/ane.12626",
+          "article-title": "Flunarizine versus topiramate for chronic migraine prophylaxis: a randomized trial",
+          "volume": "135",
+          "author": "Lai",
+          "year": "2017",
+          "journal-title": "Acta Neurol Scand"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0860",
+          "doi-asserted-by": "crossref",
+          "first-page": "1495",
+          "DOI": "10.3389/fphar.2019.01495",
+          "article-title": "Flunarizine induced Parkinsonism in migraine group: a nationwide population-based study",
+          "volume": "10",
+          "author": "Lin",
+          "year": "2019",
+          "journal-title": "Front Pharmacol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0865",
+          "doi-asserted-by": "crossref",
+          "first-page": "455",
+          "DOI": "10.1038/nrneurol.2016.93",
+          "article-title": "Chronic migraine: risk factors, mechanisms and treatment",
+          "volume": "12",
+          "author": "May",
+          "year": "2016",
+          "journal-title": "Nat Rev Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0870",
+          "doi-asserted-by": "crossref",
+          "first-page": "162",
+          "DOI": "10.1016/j.neurol.2013.09.006",
+          "article-title": "[Management of chronic daily headache in migraine patients: medication overuse headache and chronic migraine. French guidelines (French Headache Society, French Private Neurologists Association, French Pain Society)]",
+          "volume": "170",
+          "author": "Lantéri-Minet",
+          "year": "2014",
+          "journal-title": "Rev Neurol (Paris)"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0875",
+          "doi-asserted-by": "crossref",
+          "first-page": "37",
+          "DOI": "10.1007/s10194-008-0002-5",
+          "article-title": "The effect of sodium valproate on chronic daily headache and its subgroups",
+          "volume": "9",
+          "author": "Yurekli",
+          "year": "2008",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0880",
+          "doi-asserted-by": "crossref",
+          "first-page": "55",
+          "DOI": "10.2174/1574884712666170329094419",
+          "article-title": "Levetiracetam in compare to sodium valproate for prophylaxis in chronic migraine headache: a randomized double-blind clinical trial",
+          "volume": "12",
+          "author": "Kashipazha",
+          "year": "2017",
+          "journal-title": "Curr Clin Pharmacol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0885",
+          "doi-asserted-by": "crossref",
+          "first-page": "755",
+          "DOI": "10.1016/j.jfma.2020.08.020",
+          "article-title": "Efficacy of levetiracetam for migraine prophylaxis: a systematic review and meta-analysis",
+          "volume": "120",
+          "author": "Yen",
+          "year": "2020",
+          "journal-title": "J Formos Med Assoc Taiwan Yi Zhi"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0890",
+          "doi-asserted-by": "crossref",
+          "first-page": "1187",
+          "DOI": "10.1111/head.13615",
+          "article-title": "Lamotrigine in the prevention of migraine with aura: a narrative review",
+          "volume": "59",
+          "author": "Buch",
+          "year": "2019",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0895",
+          "doi-asserted-by": "crossref",
+          "first-page": "684",
+          "DOI": "10.1136/jnnp.36.4.684",
+          "article-title": "Amitriptyline in migraine prophylaxis. Changes in pattern of attacks during a controlled clinical trial",
+          "volume": "36",
+          "author": "Gomersall",
+          "year": "1973",
+          "journal-title": "J Neurol Neurosurg Psychiatry"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0900",
+          "doi-asserted-by": "crossref",
+          "first-page": "121",
+          "DOI": "10.1212/WNL.26.2.121",
+          "article-title": "Amitriptyline in the prophylaxis of migraine. Effectiveness and relationship of antimigraine and antidepressant effects",
+          "volume": "26",
+          "author": "Couch",
+          "year": "1976",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0905",
+          "doi-asserted-by": "crossref",
+          "first-page": "695",
+          "DOI": "10.1001/archneur.1979.00500470065013",
+          "article-title": "Amitriptyline in migraine prophylaxis",
+          "volume": "36",
+          "author": "Couch",
+          "year": "1979",
+          "journal-title": "Arch Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0910",
+          "doi-asserted-by": "crossref",
+          "first-page": "c5222",
+          "DOI": "10.1136/bmj.c5222",
+          "article-title": "Tricyclic antidepressants and headaches: systematic review and meta-analysis",
+          "volume": "341",
+          "author": "Jackson",
+          "year": "2010",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0915",
+          "doi-asserted-by": "crossref",
+          "first-page": "486",
+          "DOI": "10.1001/archneur.1987.00520170016015",
+          "article-title": "Migraine prophylaxis. A comparison of propranolol and amitriptyline",
+          "volume": "44",
+          "author": "Ziegler",
+          "year": "1987",
+          "journal-title": "Arch Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0920",
+          "doi-asserted-by": "crossref",
+          "first-page": "542",
+          "DOI": "10.1016/j.clinthera.2009.03.020",
+          "article-title": "Topiramate versus amitriptyline in migraine prevention: a 26-week, multicenter, randomized, double-blind, double-dummy, parallel-group non-inferiority trial in adult migraineurs",
+          "volume": "31",
+          "author": "Dodick",
+          "year": "2009",
+          "journal-title": "Clin Ther"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0925",
+          "doi-asserted-by": "crossref",
+          "first-page": "463",
+          "DOI": "10.1016/j.clineuro.2010.02.004",
+          "article-title": "Botulinum toxin type A versus amitriptyline for the treatment of chronic daily migraine",
+          "volume": "112",
+          "author": "Magalhães",
+          "year": "2010",
+          "journal-title": "Clin Neurol Neurosurg"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0930",
+          "doi-asserted-by": "crossref",
+          "first-page": "101",
+          "DOI": "10.1111/j.1526-4610.1992.hed3202101.x",
+          "article-title": "Fluoxetine prophylaxis of migraine",
+          "volume": "32",
+          "author": "Adly",
+          "year": "1992",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0935",
+          "doi-asserted-by": "crossref",
+          "first-page": "716",
+          "DOI": "10.1046/j.1526-4610.1999.3910716.x",
+          "article-title": "Fluoxetine for migraine prophylaxis: a double-blind trial",
+          "volume": "39",
+          "author": "d’Amato",
+          "year": "1999",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0940",
+          "doi-asserted-by": "crossref",
+          "first-page": "497",
+          "DOI": "10.1111/j.1526-4610.1994.hed3409497.x",
+          "article-title": "Double-blind trial of fluoxetine: chronic daily headache and migraine",
+          "volume": "34",
+          "author": "Saper",
+          "year": "1994",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0945",
+          "doi-asserted-by": "crossref",
+          "first-page": "283",
+          "DOI": "10.1046/j.1468-2982.1998.1805283.x",
+          "article-title": "S-fluoxetine in the prophylaxis of migraine: a phase II double-blind randomized placebo-controlled study",
+          "volume": "18",
+          "author": "Steiner",
+          "year": "1998",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0950",
+          "doi-asserted-by": "crossref",
+          "first-page": "144",
+          "DOI": "10.1111/j.1526-4610.2005.05029.x",
+          "article-title": "The efficacy and safety of venlafaxine in the prophylaxis of migraine",
+          "volume": "45",
+          "author": "Ozyalcin",
+          "year": "2005",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0955",
+          "doi-asserted-by": "crossref",
+          "first-page": "44",
+          "DOI": "10.1016/j.clineuro.2004.03.004",
+          "article-title": "Venlafaxine versus amitriptyline in the prophylactic treatment of migraine: randomized, double-blind, crossover study",
+          "volume": "107",
+          "author": "Bulut",
+          "year": "2004",
+          "journal-title": "Clin Neurol Neurosurg"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0960",
+          "first-page": "CD011681",
+          "article-title": "Selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs) for the prevention of tension-type headache in adults",
+          "author": "Banzi",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0965",
+          "doi-asserted-by": "crossref",
+          "first-page": "323",
+          "DOI": "10.1136/rapm-2019-101207",
+          "article-title": "Serotonin-norepinephrine reuptake inhibitors for the prevention of migraine and vestibular migraine: a systematic review and meta-analysis",
+          "volume": "45",
+          "author": "Wang",
+          "year": "2020",
+          "journal-title": "Reg Anesth Pain Med"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0970",
+          "first-page": "1106",
+          "article-title": "[Pharmaco-epidemiological study on the prophylactic treatment of migraine. National inquiry on attitude to prescription practices by primary care physicians and neurologists in France]",
+          "volume": "156",
+          "author": "Lantéri-Minet",
+          "year": "2000",
+          "journal-title": "Rev Neurol (Paris)"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0975",
+          "first-page": "CD011616",
+          "article-title": "Botulinum toxins for the prevention of migraine in adults",
+          "volume": "6",
+          "author": "Herd",
+          "year": "2018",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0980",
+          "doi-asserted-by": "crossref",
+          "first-page": "793",
+          "DOI": "10.1177/0333102410364676",
+          "article-title": "OnabotulinumtoxinA for treatment of chronic migraine: results from the double-blind, randomized, placebo-controlled phase of the PREEMPT 1 trial",
+          "volume": "30",
+          "author": "Aurora",
+          "year": "2010",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0985",
+          "doi-asserted-by": "crossref",
+          "first-page": "804",
+          "DOI": "10.1177/0333102410364677",
+          "article-title": "OnabotulinumtoxinA for treatment of chronic migraine: results from the double-blind, randomized, placebo-controlled phase of the PREEMPT 2 trial",
+          "volume": "30",
+          "author": "Diener",
+          "year": "2010",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0990",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1186/s10194-018-0840-8",
+          "article-title": "Long-term study of the efficacy and safety of OnabotulinumtoxinA for the prevention of chronic migraine: COMPEL study",
+          "volume": "19",
+          "author": "Blumenfeld",
+          "year": "2018",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib0995",
+          "doi-asserted-by": "crossref",
+          "first-page": "1013",
+          "DOI": "10.1007/s40264-019-00824-3",
+          "article-title": "Long-term safety and tolerability of onabotulinumtoxinA treatment in patients with chronic migraine: results of the COMPEL Study",
+          "volume": "42",
+          "author": "Winner",
+          "year": "2019",
+          "journal-title": "Drug Saf"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1000",
+          "doi-asserted-by": "crossref",
+          "first-page": "338",
+          "DOI": "10.1038/s41582-018-0003-1",
+          "article-title": "CGRP as the target of new migraine therapies – successful translation from bench to clinic",
+          "volume": "14",
+          "author": "Edvinsson",
+          "year": "2018",
+          "journal-title": "Nat Rev Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1005",
+          "doi-asserted-by": "crossref",
+          "first-page": "1765",
+          "DOI": "10.1016/S0140-6736(19)32504-8",
+          "article-title": "Targeting calcitonin gene-related peptide: a new era in migraine therapy",
+          "volume": "394",
+          "author": "Charles",
+          "year": "2019",
+          "journal-title": "Lancet Lond Engl"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.neurol.2021.07.006_bib1010",
+          "doi-asserted-by": "crossref",
+          "first-page": "788",
+          "DOI": "10.1016/j.neurol.2020.04.027",
+          "article-title": "Monoclonal antibodies blocking CGRP transmission: an update on their added value in migraine prevention",
+          "volume": "176",
+          "author": "Schoenen",
+          "year": "2020",
+          "journal-title": "Rev Neurol (Paris)"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1015",
+          "doi-asserted-by": "crossref",
+          "first-page": "57",
+          "DOI": "10.1186/s12883-020-01633-3",
+          "article-title": "Efficacy and safety of calcitonin-gene-related peptide binding monoclonal antibodies for the preventive treatment of episodic migraine – an updated systematic review and meta-analysis",
+          "volume": "20",
+          "author": "Deng",
+          "year": "2020",
+          "journal-title": "BMC Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1020",
+          "unstructured": "Clinicaltrials.gov. Head-to-head study of erenumab against topiramate in patients with episodic and chronic migraine (HER-MES). NCT03828539 n.d."
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1025",
+          "doi-asserted-by": "crossref",
+          "first-page": "2280",
+          "DOI": "10.1016/S0140-6736(18)32534-0",
+          "article-title": "Efficacy and tolerability of erenumab in patients with episodic migraine in whom two-to-four previous preventive treatments were unsuccessful: a randomised, double-blind, placebo-controlled, phase 3b study",
+          "volume": "392",
+          "author": "Reuter",
+          "year": "2018",
+          "journal-title": "Lancet Lond Engl"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1030",
+          "doi-asserted-by": "crossref",
+          "first-page": "1030",
+          "DOI": "10.1016/S0140-6736(19)31946-4",
+          "article-title": "Fremanezumab versus placebo for migraine prevention in patients with documented failure to up to four migraine preventive medication classes (FOCUS): a randomised, double-blind, placebo-controlled, phase 3b trial",
+          "volume": "394",
+          "author": "Ferrari",
+          "year": "2019",
+          "journal-title": "Lancet Lond Engl"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1035",
+          "doi-asserted-by": "crossref",
+          "first-page": "814",
+          "DOI": "10.1016/S1474-4422(20)30279-9",
+          "article-title": "Safety and efficacy of galcanezumab in patients for whom previous migraine preventive medication from two to four categories had failed (CONQUER): a multicentre, randomised, double-blind, placebo-controlled, phase 3b trial",
+          "volume": "19",
+          "author": "Mulleners",
+          "year": "2020",
+          "journal-title": "Lancet Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1160",
+          "doi-asserted-by": "crossref",
+          "first-page": "e013372",
+          "DOI": "10.1136/bmjopen-2016-013372",
+          "article-title": "Antidepressant use during pregnancy and the risk of major congenital malformations in a cohort of depressed pregnant women: an updated analysis of the Quebec Pregnancy Cohort",
+          "volume": "7",
+          "author": "Bérard",
+          "year": "2017",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1165",
+          "doi-asserted-by": "crossref",
+          "first-page": "738",
+          "DOI": "10.1097/OGX.0000000000000738",
+          "article-title": "Associations between migraine and adverse pregnancy outcomes: systematic review and meta-analysis",
+          "volume": "74",
+          "author": "Aukes",
+          "year": "2019",
+          "journal-title": "Obstet Gynecol Surv"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1040",
+          "doi-asserted-by": "crossref",
+          "first-page": "27",
+          "DOI": "10.1186/s10194-019-0979-y",
+          "article-title": "CGRP and migraine from a cardiovascular point of view: what do we expect from blocking CGRP?",
+          "volume": "20",
+          "author": "Favoni",
+          "year": "2019",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1045",
+          "article-title": "Safety profile of erenumab, galcanezumab and fremanezumab in pregnancy and lactation: analysis of the WHO pharmacovigilance database",
+          "author": "Noseda",
+          "year": "2021",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1050",
+          "doi-asserted-by": "crossref",
+          "first-page": "225",
+          "DOI": "10.1177/0333102417737779",
+          "article-title": "Complete detoxification is the most effective treatment of medication overuse headache: a randomized controlled open-label trial",
+          "volume": "38",
+          "author": "Carlsen",
+          "year": "2018",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1055",
+          "doi-asserted-by": "crossref",
+          "first-page": "1296",
+          "DOI": "10.1212/WNL.0000000000004371",
+          "article-title": "Medication overuse headache: an entrenched idea in need of scrutiny",
+          "volume": "89",
+          "author": "Scher",
+          "year": "2017",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1060",
+          "doi-asserted-by": "crossref",
+          "first-page": "1102",
+          "DOI": "10.1111/ene.14268",
+          "article-title": "European Academy of Neurology guideline on the management of medication overuse headache",
+          "volume": "27",
+          "author": "Diener",
+          "year": "2020",
+          "journal-title": "Eur J Neurol"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.neurol.2021.07.006_bib1065",
+          "doi-asserted-by": "crossref",
+          "first-page": "1069",
+          "DOI": "10.1001/jamaneurol.2020.1179",
+          "article-title": "Comparison of 3 treatment strategies for medication overuse headache: a randomized clinical trial",
+          "volume": "77",
+          "author": "Carlsen",
+          "year": "2020",
+          "journal-title": "JAMA Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1070",
+          "doi-asserted-by": "crossref",
+          "first-page": "129",
+          "DOI": "10.1111/j.1468-1331.2010.03094.x",
+          "article-title": "Reduction in medication overuse headache after short information. The Akershus study of chronic headache",
+          "volume": "18",
+          "author": "Grande",
+          "year": "2011",
+          "journal-title": "Eur J Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1075",
+          "doi-asserted-by": "crossref",
+          "first-page": "197",
+          "DOI": "10.1046/j.1468-2982.2003.00480.x",
+          "article-title": "Course of migraine during pregnancy and postpartum: a prospective study",
+          "volume": "23",
+          "author": "Sances",
+          "year": "2003",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1080",
+          "doi-asserted-by": "crossref",
+          "first-page": "443",
+          "DOI": "10.1007/s10194-011-0329-1",
+          "article-title": "Headache and migraine during pregnancy and puerperium: the MIGRA-study",
+          "volume": "12",
+          "author": "Kvisvik",
+          "year": "2011",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1085",
+          "doi-asserted-by": "crossref",
+          "first-page": "248",
+          "DOI": "10.1016/j.ejogrb.2019.07.021",
+          "article-title": "Review of migraine incidence and management in obstetrics and gynaecology",
+          "volume": "240",
+          "author": "Tanos",
+          "year": "2019",
+          "journal-title": "Eur J Obstet Gynecol Reprod Biol"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.neurol.2021.07.006_bib1090",
+          "doi-asserted-by": "crossref",
+          "first-page": "195",
+          "DOI": "10.1016/j.neurol.2020.05.012",
+          "article-title": "Headaches during pregnancy",
+          "volume": "177",
+          "author": "de Gaalon",
+          "year": "2020",
+          "journal-title": "Rev Neurol (Paris)"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1095",
+          "doi-asserted-by": "crossref",
+          "first-page": "106",
+          "DOI": "10.1186/s10194-017-0816-0",
+          "article-title": "Headache and pregnancy: a systematic review",
+          "volume": "18",
+          "author": "Negro",
+          "year": "2017",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1100",
+          "doi-asserted-by": "crossref",
+          "first-page": "759",
+          "DOI": "10.1007/s10654-013-9831-x",
+          "article-title": "Triptan safety during pregnancy: a Norwegian population registry study",
+          "volume": "28",
+          "author": "Nezvalová-Henriksen",
+          "year": "2013",
+          "journal-title": "Eur J Epidemiol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1105",
+          "doi-asserted-by": "crossref",
+          "first-page": "1158",
+          "DOI": "10.1111/head.12375",
+          "article-title": "Final results from the 16-year sumatriptan, naratriptan, and treximet pregnancy registry",
+          "volume": "54",
+          "author": "Ephross",
+          "year": "2014",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1110",
+          "doi-asserted-by": "crossref",
+          "first-page": "490",
+          "DOI": "10.1111/head.12500",
+          "article-title": "Pregnancy outcome following prenatal exposure to triptan medications: a meta-analysis",
+          "volume": "55",
+          "author": "Marchenko",
+          "year": "2015",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1115",
+          "doi-asserted-by": "crossref",
+          "first-page": "1081",
+          "DOI": "10.1177/0333102417724152",
+          "article-title": "Pregnancy outcome after antimigraine triptan use: a prospective observational cohort study",
+          "volume": "38",
+          "author": "Spielmann",
+          "year": "2018",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1120",
+          "doi-asserted-by": "crossref",
+          "first-page": "247",
+          "DOI": "10.1111/ppe.12461",
+          "article-title": "Prenatal triptan exposure and neurodevelopmental outcomes in 5-year-old children: follow-up from the Norwegian Mother and Child Cohort Study",
+          "volume": "32",
+          "author": "Harris G-ME",
+          "year": "2018",
+          "journal-title": "Paediatr Perinat Epidemiol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1125",
+          "doi-asserted-by": "crossref",
+          "first-page": "11",
+          "DOI": "10.1111/head.14041",
+          "article-title": "Management of primary headaches during pregnancy, postpartum, and breastfeeding: a systematic review",
+          "volume": "61",
+          "author": "Saldanha",
+          "year": "2021",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1130",
+          "unstructured": "Centre de référence des agents tératogènes; 2020. https://www.lecrat.fr. n.d."
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1135",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ajog.2018.06.002",
+          "article-title": "Use of nonsteroidal anti-inflammatory drugs during pregnancy and the risk of miscarriage",
+          "volume": "219",
+          "author": "Li",
+          "year": "2018",
+          "journal-title": "Am J Obstet Gynecol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1140",
+          "doi-asserted-by": "crossref",
+          "first-page": "32",
+          "DOI": "10.1016/j.reprotox.2018.05.003",
+          "article-title": "No evidence of adverse pregnancy outcome after exposure to ibuprofen in the first trimester – Evaluation of the national Embryotox cohort",
+          "volume": "79",
+          "author": "Dathe",
+          "year": "2018",
+          "journal-title": "Reprod Toxicol Elmsford N"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1145",
+          "doi-asserted-by": "crossref",
+          "first-page": "415",
+          "DOI": "10.1007/s40264-017-0627-x",
+          "article-title": "Beta-blocker use in pregnancy and risk of specific congenital anomalies: a European case-malformed control study",
+          "volume": "41",
+          "author": "Bergman",
+          "year": "2018",
+          "journal-title": "Drug Saf"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1150",
+          "doi-asserted-by": "crossref",
+          "first-page": "665",
+          "DOI": "10.7326/M18-0338",
+          "article-title": "β-blocker use in pregnancy and the risk for congenital malformations: an international cohort study",
+          "volume": "169",
+          "author": "Bateman",
+          "year": "2018",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1155",
+          "doi-asserted-by": "crossref",
+          "first-page": "806",
+          "DOI": "10.1111/bcp.14561",
+          "article-title": "Risk of congenital malformations in offspring of women using β-blockers during early pregnancy: an updated meta-analysis of observational studies",
+          "volume": "87",
+          "author": "Wu",
+          "year": "2021",
+          "journal-title": "Br J Clin Pharmacol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1170",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1177/0333102417738202",
+          "article-title": "The International Classification of Headache Disorders, 3rd edition",
+          "volume": "38",
+          "author": "Headache Classification Committee of the International Headache Society (IHS)",
+          "year": "2018",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1180",
+          "doi-asserted-by": "crossref",
+          "first-page": "200",
+          "DOI": "10.1111/head.13665",
+          "article-title": "Epidemiology and treatment of menstrual migraine and migraine during pregnancy and lactation: a narrative review",
+          "volume": "60",
+          "author": "Burch",
+          "year": "2020",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1185",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/S1474-4422(20)30482-8",
+          "article-title": "Menstrual migraine: a distinct disorder needing greater recognition",
+          "author": "Vetvik",
+          "year": "2021",
+          "journal-title": "Lancet Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1190",
+          "doi-asserted-by": "crossref",
+          "first-page": "194",
+          "DOI": "10.1111/head.12978",
+          "article-title": "Menstrual migraine and treatment options: review",
+          "volume": "57",
+          "author": "Maasumi",
+          "year": "2017",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1195",
+          "doi-asserted-by": "crossref",
+          "first-page": "705",
+          "DOI": "10.1111/j.1526-4610.1990.hed3011705.x",
+          "article-title": "Naproxen sodium in menstrual migraine prophylaxis: a double-blind placebo-controlled study",
+          "volume": "30",
+          "author": "Sances",
+          "year": "1990",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1200",
+          "doi-asserted-by": "crossref",
+          "first-page": "24",
+          "DOI": "10.1016/j.maturitas.2020.07.005",
+          "article-title": "Menstrual and perimenopausal migraine: a narrative review",
+          "volume": "142",
+          "author": "MacGregor",
+          "year": "2020",
+          "journal-title": "Maturitas"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1205",
+          "doi-asserted-by": "crossref",
+          "first-page": "7",
+          "DOI": "10.1186/1129-2377-14-7",
+          "article-title": "Triptans in prevention of menstrual migraine: a systematic review with meta-analysis",
+          "volume": "14",
+          "author": "Hu",
+          "year": "2013",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1210",
+          "doi-asserted-by": "crossref",
+          "first-page": "76",
+          "DOI": "10.1186/s10194-018-0896-5",
+          "article-title": "Effect of exogenous estrogens and progestogens on the course of migraine during reproductive age: a consensus statement by the European Headache Federation (EHF) and the European Society of Contraception and Reproductive Health (ESCRH)",
+          "volume": "19",
+          "author": "Sacco",
+          "year": "2018",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1215",
+          "doi-asserted-by": "crossref",
+          "first-page": "108",
+          "DOI": "10.1186/s10194-017-0815-1",
+          "article-title": "Hormonal contraceptives and risk of ischemic stroke in women with migraine: a consensus statement from the European Headache Federation (EHF) and the European Society of Contraception and Reproductive Health (ESC)",
+          "volume": "18",
+          "author": "Sacco",
+          "year": "2017",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1220",
+          "doi-asserted-by": "crossref",
+          "first-page": "843",
+          "DOI": "10.1111/head.13796",
+          "article-title": "Migraine and ischemic stroke in women. A narrative review",
+          "volume": "60",
+          "author": "Tietjen",
+          "year": "2020",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1225",
+          "doi-asserted-by": "crossref",
+          "first-page": "313",
+          "DOI": "10.1080/14737175.2020.1730816",
+          "article-title": "Migraine, low-dose combined hormonal contraceptives, and ischemic stroke in young women: a systematic review and suggestions for future research",
+          "volume": "20",
+          "author": "Ornello",
+          "year": "2020",
+          "journal-title": "Expert Rev Neurother"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.006_bib1230",
+          "doi-asserted-by": "crossref",
+          "first-page": "11",
+          "DOI": "10.1177/2053369117731172",
+          "article-title": "Migraine, menopause and hormone replacement therapy",
+          "volume": "24",
+          "author": "MacGregor",
+          "year": "2018",
+          "journal-title": "Post Reprod Health"
+        }
+      ],
+      "container-title": [
+        "Revue Neurologique"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0035378721006172?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0035378721006172?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            30
+          ]
+        ],
+        "date-time": "2022-12-30T16:59:00Z",
+        "timestamp": 1672419540000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0035378721006172"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            9
+          ]
+        ]
+      },
+      "references-count": 122,
+      "journal-issue": {
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0035378721006172"
+      ],
+      "URL": "https://doi.org/10.1016/j.neurol.2021.07.006",
+      "relation": {},
+      "ISSN": [
+        "0035-3787"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0035-3787"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            9
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Revised guidelines of the French headache society for the diagnosis and management of migraine in adults. Part 2: Pharmacological treatment",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Revue Neurologique",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.neurol.2021.07.006",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2021 Published by Elsevier Masson SAS.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

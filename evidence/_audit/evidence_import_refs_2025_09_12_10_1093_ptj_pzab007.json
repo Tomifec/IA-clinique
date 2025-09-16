@@ -1,0 +1,908 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1093_ptj_pzab007.md",
+  "id": "evidence_import_refs_2025_09_12_10_1093_ptj_pzab007",
+  "doi": "10.1093/ptj/pzab007",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:26.021821Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            27
+          ]
+        ],
+        "date-time": "2025-08-27T16:03:12Z",
+        "timestamp": 1756310592265,
+        "version": "3.41.2"
+      },
+      "reference-count": 56,
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                1,
+                13
+              ]
+            ],
+            "date-time": "2021-01-13T00:00:00Z",
+            "timestamp": 1610496000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100001801",
+          "name": "University of Western Australia",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100001801",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100001063",
+          "name": "Raine Medical Research Foundation",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100001063",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "name": "Telethon Kids Institute"
+        },
+        {
+          "DOI": "10.13039/501100001069",
+          "name": "Women and Infants Research Foundation",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100001069",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100001797",
+          "name": "Curtin University",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100001797",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "name": "The University of Notre Dame Australia and Edith Cowan University"
+        },
+        {
+          "name": "National and Medical Research Council",
+          "award": [
+            "353514",
+            "323200",
+            "1027449",
+            "1044840",
+            "102185"
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            3,
+            3
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>The purpose of this study was to determine whether sagittal neck sitting posture subgroup membership in late adolescence was a risk factor for persistent neck pain (PNP) in young adults.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>There were 686 participants enrolled in the Raine Study at the 17- and 22-year follow-ups. At 17 years of age, posture was measured by photographs, and 4 subgroups of sitting neck posture were determined by cluster analysis. Height and weight were measured, and exercise frequency, depression, and PNP were assessed by questionnaire. At 22 years of age, participants answered questions about neck pain and occupation type. Logistic regression examined if neck posture subgroups at 17 years of age were a risk factor for PNP at 22 years of age, taking into account other factors.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Female sex (odds ratio [OR] = 1.75, 95% CI = 1.16–2.65) and PNP at 17 years of age (OR = 3.78, 95% CI = 2.57–5.57) were associated with PNP at 22 years of age. In females, neck posture subgroup at 17 years of age was a risk factor for PNP at 22 years of age. Compared with the upright subgroup, both the slumped thorax/forward head subgroup groups and the intermediate subgroup had decreased odds for PNP at 22 years of age (OR = 0.24, 95% CI = 0.08–0.76; OR = 0.38, 95% CI = 0.15–0.99, respectively). No association was found in males.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>After taking into account PNP at 17 years, sitting neck posture at 17 was not a risk factor for PNP at 22 years of age in males, whereas in females, more relaxed postures (slumped thorax/forward head and Intermediate postures) were protective of neck pain compared with upright posture.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Impact</jats:title>\n                  <jats:p>Females in late adolescence who sat in slumped thorax/forward head or intermediate posture rather than upright sitting posture had a lower risk of PNP as a young adult. The practice of generic public health messages to sit up straight to prevent neck pain needs rethinking.</jats:p>\n               </jats:sec>",
+      "DOI": "10.1093/ptj/pzab007",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            10
+          ]
+        ],
+        "date-time": "2021-01-10T06:50:52Z",
+        "timestamp": 1610261452000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 14,
+      "title": [
+        "Is Neck Posture Subgroup in Late Adolescence a Risk Factor for Persistent Neck Pain in Young Adults? A Prospective Study"
+      ],
+      "prefix": "10.1093",
+      "volume": "101",
+      "author": [
+        {
+          "given": "Karen V",
+          "family": "Richards",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Physiotherapy and Exercise Science, Curtin University, Perth , Western Australia"
+            },
+            {
+              "name": "Physiotherapy Department , Midland Public Hospital, Western Australia"
+            },
+            {
+              "name": "Physiotherapy Department, Fiona Stanley Hospital Murdoch , Western Australia"
+            }
+          ]
+        },
+        {
+          "given": "Darren J",
+          "family": "Beales",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Physiotherapy and Exercise Science, Curtin University, Perth , Western Australia"
+            },
+            {
+              "name": "Pain Options, South Perth , Western Australia"
+            }
+          ]
+        },
+        {
+          "given": "Anne L",
+          "family": "Smith",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Physiotherapy and Exercise Science, Curtin University, Perth , Western Australia"
+            },
+            {
+              "name": "The Raine Study, Crawley , Western Australia"
+            }
+          ]
+        },
+        {
+          "given": "Peter B",
+          "family": "O’Sullivan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Physiotherapy and Exercise Science, Curtin University, Perth , Western Australia"
+            },
+            {
+              "name": "Body Logic Physiotherapy, Shenton Park , Western Australia"
+            }
+          ]
+        },
+        {
+          "given": "Leon M",
+          "family": "Straker",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Physiotherapy and Exercise Science, Curtin University, Perth , Western Australia"
+            },
+            {
+              "name": "The Raine Study, Crawley , Western Australia"
+            }
+          ]
+        }
+      ],
+      "member": "286",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            13
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2023011707063402700_ref1",
+          "doi-asserted-by": "crossref",
+          "first-page": "743",
+          "DOI": "10.1016/S0140-6736(15)60692-4",
+          "article-title": "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990-2013: a systematic analysis for the global burden of disease study 2013",
+          "volume": "386",
+          "author": "Global Burden of Disease Study Collaborators",
+          "year": "2015",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "2023011707063402700_ref2",
+          "doi-asserted-by": "crossref",
+          "first-page": "316",
+          "DOI": "10.1016/j.pain.2007.09.012",
+          "article-title": "Non-specific neck pain in schoolchildren: prognosis and risk factors for occurrence and persistence. A 4-year follow-up study",
+          "volume": "137",
+          "author": "Ståhl",
+          "year": "2008",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2023011707063402700_ref3",
+          "doi-asserted-by": "crossref",
+          "first-page": "S46",
+          "DOI": "10.1016/j.jmpt.2008.11.010",
+          "article-title": "The burden and determinants of neck pain in the general population: results of the bone and joint decade 2000-2010 task force on neck pain and its associated disorders",
+          "volume": "32",
+          "author": "Hogg-Johnson",
+          "year": "2009",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2023011707063402700_ref4",
+          "doi-asserted-by": "crossref",
+          "first-page": "317",
+          "DOI": "10.1016/S0304-3959(01)00334-7",
+          "article-title": "Risk factors for neck pain: a longitudinal study in the general population",
+          "volume": "93",
+          "author": "Croft",
+          "year": "2001",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2023011707063402700_ref5",
+          "doi-asserted-by": "crossref",
+          "first-page": "1662",
+          "DOI": "10.1097/01.BRS.0000133644.29390.43",
+          "article-title": "Predictive factors for neck and shoulder pain: a longitudinal study in young adults",
+          "volume": "29",
+          "author": "Siivola",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2023011707063402700_ref6",
+          "doi-asserted-by": "crossref",
+          "first-page": "267",
+          "DOI": "10.1016/j.pain.2004.09.004",
+          "article-title": "The annual incidence and course of neck pain in the general population: a population-based cohort study",
+          "volume": "112",
+          "author": "Côté",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2023011707063402700_ref7",
+          "doi-asserted-by": "crossref",
+          "first-page": "25",
+          "DOI": "10.2519/jospt.1996.24.1.25",
+          "article-title": "Neck and shoulder symptoms and leisure time activities in high school students",
+          "volume": "24",
+          "author": "Niemi",
+          "year": "1996",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2023011707063402700_ref8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1033",
+          "DOI": "10.1007/s00586-005-0978-3",
+          "article-title": "Predictors of neck pain: a cohort study of children followed up from the age of 11 to 22 years",
+          "volume": "14",
+          "author": "Poussa",
+          "year": "2005",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "2023011707063402700_ref9",
+          "doi-asserted-by": "crossref",
+          "first-page": "45",
+          "DOI": "10.1016/j.pain.2004.01.008",
+          "article-title": "The anatomical pattern and determinants of pain in the neck and upper limbs: an epidemiologic study",
+          "volume": "109",
+          "author": "Walker-Bone",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2023011707063402700_ref10",
+          "doi-asserted-by": "crossref",
+          "first-page": "366",
+          "DOI": "10.1016/j.jadohealth.2014.02.016",
+          "article-title": "Adolescent neck and shoulder pain--the association with depression, physical activity, screen-based activities, and use of health care services",
+          "volume": "55",
+          "author": "Myrtveit",
+          "year": "2014",
+          "journal-title": "J Adolesc Health"
+        },
+        {
+          "key": "2023011707063402700_ref11",
+          "doi-asserted-by": "crossref",
+          "first-page": "260",
+          "DOI": "10.1016/j.ypmed.2004.11.006",
+          "article-title": "The effect of physical activity in leisure time on neck and upper limb symptoms",
+          "volume": "41",
+          "author": "Heuvel",
+          "year": "2005",
+          "journal-title": "Prev Med"
+        },
+        {
+          "key": "2023011707063402700_ref12",
+          "doi-asserted-by": "crossref",
+          "first-page": "S70",
+          "DOI": "10.1016/j.jmpt.2008.11.012",
+          "article-title": "The burden and determinants of neck pain in workers: results of the Bone and Joint Decade 2000-2010 Task Force on Neck Pain and Its Associated Disorders",
+          "volume": "32",
+          "author": "Côté",
+          "year": "2009",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2023011707063402700_ref13",
+          "doi-asserted-by": "crossref",
+          "first-page": "309",
+          "DOI": "10.24171/j.phrp.2018.9.6.04",
+          "article-title": "Neck pain in adults with forward head posture: effects of craniovertebral angle and cervical range of motion",
+          "volume": "9",
+          "author": "Kim",
+          "year": "2018",
+          "journal-title": "Osong Public Health Res Perspect"
+        },
+        {
+          "key": "2023011707063402700_ref14",
+          "first-page": "4",
+          "article-title": "Relief dos and don'ts for that nagging neck pain. Adjusting your position and posture can help",
+          "volume": "39",
+          "author": "No authors",
+          "year": "2014",
+          "journal-title": "Harv Health Lett"
+        },
+        {
+          "key": "2023011707063402700_ref15",
+          "doi-asserted-by": "crossref",
+          "first-page": "344",
+          "DOI": "10.2519/jospt.2003.33.6.344",
+          "article-title": "The association between psychological distress and musculoskeletal symptoms experienced by Chinese high school students",
+          "volume": "33",
+          "author": "Cho",
+          "year": "2003",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "volume-title": "Muscles Testing and Function. 4th ed",
+          "year": "1993",
+          "author": "Kendall",
+          "key": "2023011707063402700_ref16"
+        },
+        {
+          "key": "2023011707063402700_ref17",
+          "doi-asserted-by": "crossref",
+          "first-page": "187",
+          "DOI": "10.1016/j.jmpt.2005.02.015",
+          "article-title": "Determining the relationship between cervical lordosis and neck complaints",
+          "volume": "28",
+          "author": "McAviney",
+          "year": "2005",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2023011707063402700_ref18",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1016/S0004-9514(08)70046-1",
+          "article-title": "Sitting spinal posture in adolescents differs between genders, but is not clearly related to neck/shoulder pain: an observational study",
+          "volume": "54",
+          "author": "Straker",
+          "year": "2008",
+          "journal-title": "Aust J Physiother"
+        },
+        {
+          "key": "2023011707063402700_ref19",
+          "doi-asserted-by": "crossref",
+          "first-page": "12",
+          "DOI": "10.1179/174328810X12647087218631",
+          "article-title": "Studies comparing surrogate measures for head posture in individuals with and without neck pain",
+          "volume": "15",
+          "author": "Silva",
+          "year": "2010",
+          "journal-title": "Phys Ther Rev"
+        },
+        {
+          "key": "2023011707063402700_ref20",
+          "doi-asserted-by": "crossref",
+          "first-page": "690",
+          "DOI": "10.1016/j.jmpt.2008.10.004",
+          "article-title": "Spinal curves and health: a systematic critical review of the epidemiological literature dealing with associations between sagittal spinal curves and health",
+          "volume": "31",
+          "author": "Christensen",
+          "year": "2008",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2023011707063402700_ref21",
+          "first-page": "10",
+          "article-title": "A systematic review with meta-analysis on functional changes associated with neck pain in adolescents",
+          "volume": "10",
+          "author": "Andias",
+          "year": "2019",
+          "journal-title": "Musculoskeletal Care"
+        },
+        {
+          "key": "2023011707063402700_ref22",
+          "doi-asserted-by": "crossref",
+          "first-page": "562",
+          "DOI": "10.1007/s12178-019-09594-y",
+          "article-title": "The relationship between forward head posture and neck pain: a systematic review and meta-analysis",
+          "volume": "12",
+          "author": "Mahmoud",
+          "year": "2019",
+          "journal-title": "Curr Rev Musculoskelet Med"
+        },
+        {
+          "key": "2023011707063402700_ref23",
+          "doi-asserted-by": "crossref",
+          "first-page": "669",
+          "DOI": "10.1016/j.apmr.2008.10.018",
+          "article-title": "Head posture and neck pain of chronic nontraumatic origin: a comparison between patients and pain-free persons",
+          "volume": "90",
+          "author": "Silva",
+          "year": "2009",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "2023011707063402700_ref24",
+          "doi-asserted-by": "crossref",
+          "first-page": "877",
+          "DOI": "10.1016/0003-9993(91)90003-2",
+          "article-title": "Assessment of total head excursion and resting head posture",
+          "volume": "72",
+          "author": "Hanten",
+          "year": "1991",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "2023011707063402700_ref25",
+          "doi-asserted-by": "crossref",
+          "first-page": "1576",
+          "DOI": "10.2522/ptj.20150660",
+          "article-title": "Neck posture clusters and their association with biopsychosocial factors and neck pain in Australian adolescents",
+          "volume": "96",
+          "author": "Richards",
+          "year": "2016",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2023011707063402700_ref26",
+          "doi-asserted-by": "crossref",
+          "first-page": "200",
+          "DOI": "10.1136/oem.58.3.200",
+          "article-title": "Are neck flexion, neck rotation, and sitting at work risk factors for neck pain? Results of a prospective cohort study",
+          "volume": "58",
+          "author": "Ariëns",
+          "year": "2001",
+          "journal-title": "Occup Environ Med"
+        },
+        {
+          "key": "2023011707063402700_ref27",
+          "doi-asserted-by": "crossref",
+          "first-page": "647",
+          "DOI": "10.1016/j.math.2009.02.005",
+          "article-title": "The association between postural alignment and psychosocial factors to upper quadrant pain in high school students: a prospective study",
+          "volume": "14",
+          "author": "Brink",
+          "year": "2009",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "2023011707063402700_ref28",
+          "doi-asserted-by": "crossref",
+          "first-page": "743",
+          "DOI": "10.1136/bmj.325.7367.743",
+          "article-title": "Back, neck, and shoulder pain in Finnish adolescents: national cross sectional surveys",
+          "volume": "325",
+          "author": "Hakala",
+          "year": "2002",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "2023011707063402700_ref29",
+          "first-page": "1384",
+          "article-title": "Cohort profile: the Western Australian Pregnancy Cohort (Raine) Study-generation 2",
+          "volume": "46",
+          "author": "Straker",
+          "year": "2017",
+          "journal-title": "Int J Epidemiol"
+        },
+        {
+          "key": "2023011707063402700_ref30",
+          "doi-asserted-by": "crossref",
+          "first-page": "294",
+          "DOI": "10.1186/s12891-015-0765-1",
+          "article-title": "Musculoskeletal pain is associated with restless legs syndrome in young adults",
+          "volume": "16",
+          "author": "Hoogwout",
+          "year": "2015",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "2023011707063402700_ref31",
+          "doi-asserted-by": "crossref",
+          "first-page": "509",
+          "DOI": "10.1016/j.jmpt.2008.08.005",
+          "article-title": "Measurement of cervical posture in the sagittal plane",
+          "volume": "31",
+          "author": "Grimmer-Somers",
+          "year": "2008",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2023011707063402700_ref32",
+          "doi-asserted-by": "crossref",
+          "first-page": "490",
+          "DOI": "10.1016/j.math.2010.05.002",
+          "article-title": "Reliability and validity of head posture assessment by observation and a four-category scale",
+          "volume": "15",
+          "author": "Silva",
+          "year": "2010",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "2023011707063402700_ref33",
+          "doi-asserted-by": "crossref",
+          "first-page": "233",
+          "DOI": "10.1016/0003-6870(87)90010-X",
+          "article-title": "Standardised Nordic questionnaires for the analysis of musculoskeletal symptoms",
+          "volume": "18",
+          "author": "Kuorinka",
+          "year": "1987",
+          "journal-title": "Appl Ergon"
+        },
+        {
+          "volume-title": "Beck Youth Inventories Of Emotional And Social Impairment",
+          "year": "2001",
+          "author": "Beck",
+          "key": "2023011707063402700_ref34"
+        },
+        {
+          "volume-title": "Children's Depression Inventory Manual",
+          "year": "1992",
+          "author": "Kovacs",
+          "key": "2023011707063402700_ref35"
+        },
+        {
+          "key": "2023011707063402700_ref36",
+          "volume-title": "Handbook of Psychological Assessment",
+          "author": "Groth-Marnat",
+          "year": "2009",
+          "edition": "5th"
+        },
+        {
+          "year": "2019",
+          "author": "Australian Government Department of Health",
+          "key": "2023011707063402700_ref37"
+        },
+        {
+          "key": "2023011707063402700_ref38",
+          "doi-asserted-by": "crossref",
+          "first-page": "168",
+          "DOI": "10.1093/ije/31.1.168",
+          "article-title": "Validity and repeatability of the EPIC-Norfolk Physical Activity Questionnaire",
+          "volume": "31",
+          "author": "Wareham",
+          "year": "2002",
+          "journal-title": "Int J Epidemiol"
+        },
+        {
+          "key": "2023011707063402700_ref39",
+          "doi-asserted-by": "crossref",
+          "first-page": "820",
+          "DOI": "10.1016/j.math.2015.03.015",
+          "article-title": "The relationship between sitting posture and seated-related upper quadrant musculoskeletal pain in computing South African adolescents: a prospective study",
+          "volume": "20",
+          "author": "Brink",
+          "year": "2015",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "2023011707063402700_ref40",
+          "doi-asserted-by": "crossref",
+          "first-page": "634",
+          "DOI": "10.1177/003335490712200511",
+          "article-title": "Computer use and habitual spinal posture in Australian adolescents",
+          "volume": "122",
+          "author": "Straker",
+          "year": "2007",
+          "journal-title": "Public Health Rep"
+        },
+        {
+          "key": "2023011707063402700_ref41",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/14651858.CD008160.pub2",
+          "article-title": "Workplace interventions for neck pain in workers",
+          "author": "Aas",
+          "year": "2011",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "2023011707063402700_ref42",
+          "doi-asserted-by": "crossref",
+          "first-page": "287",
+          "DOI": "10.2147/JPR.S22281",
+          "article-title": "Poor sitting posture and heavy schoolbag as contributors to musculoskeletal pain in children: an ergonomic school education intervention program",
+          "volume": "4",
+          "author": "Syazwan",
+          "year": "2011",
+          "journal-title": "J Pain Res"
+        },
+        {
+          "key": "2023011707063402700_ref43",
+          "doi-asserted-by": "crossref",
+          "first-page": "1965",
+          "DOI": "10.1097/01.brs.0000228722.12968.d2",
+          "article-title": "Effects of a two-school-year multifactorial back education program in elementary schoolchildren",
+          "volume": "31",
+          "author": "Geldhof",
+          "year": "2006",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2023011707063402700_ref44",
+          "doi-asserted-by": "crossref",
+          "first-page": "752",
+          "DOI": "10.2519/jospt.2017.7464",
+          "article-title": "Low back pain with impact at 17 years of age is predicted by early adolescent risk factors from multiple domains: analysis of the Western Australian Pregnancy Cohort (Raine) Study",
+          "volume": "47",
+          "author": "Smith",
+          "year": "2017",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2023011707063402700_ref45",
+          "doi-asserted-by": "crossref",
+          "first-page": "877",
+          "DOI": "10.1097/AJP.0000000000000478",
+          "article-title": "Multidimensional prognostic modelling in people with chronic axial low back pain",
+          "volume": "33",
+          "author": "Rabey",
+          "year": "2017",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "2023011707063402700_ref46",
+          "doi-asserted-by": "crossref",
+          "first-page": "355",
+          "DOI": "10.1186/s13075-015-0875-z",
+          "article-title": "A low cortisol response to stress is associated with musculoskeletal pain combined with increased pain sensitivity in young adults: a longitudinal cohort study",
+          "volume": "17",
+          "author": "Paananen",
+          "year": "2015",
+          "journal-title": "Arthritis Res Ther"
+        },
+        {
+          "key": "2023011707063402700_ref47",
+          "doi-asserted-by": "crossref",
+          "first-page": "164",
+          "DOI": "10.1177/14034948000280030401",
+          "article-title": "Neck or shoulder pain and low back pain in Finnish adolescents",
+          "volume": "28",
+          "author": "Vikat",
+          "year": "2000",
+          "journal-title": "Scand J Public Health"
+        },
+        {
+          "key": "2023011707063402700_ref48",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.1016/j.pain.2013.07.039",
+          "article-title": "Deconstructing sex differences in pain sensitivity",
+          "volume": "155",
+          "author": "Hashmi",
+          "year": "2014",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2023011707063402700_ref49",
+          "first-page": "102",
+          "article-title": "An overview of ethnic and gender differences in pain sensation",
+          "author": "Kvachadze",
+          "year": "2015",
+          "journal-title": "Georgian Med"
+        },
+        {
+          "key": "2023011707063402700_ref50",
+          "doi-asserted-by": "crossref",
+          "first-page": "179",
+          "DOI": "10.1080/00140139.2010.544765",
+          "article-title": "Changes in mechanical load and extensor muscle activity in the cervico-thoracic spine induced by sitting posture modification",
+          "volume": "54",
+          "author": "Edmondston",
+          "year": "2011",
+          "journal-title": "Ergonomics"
+        },
+        {
+          "key": "2023011707063402700_ref51",
+          "doi-asserted-by": "crossref",
+          "first-page": "24",
+          "DOI": "10.1016/j.msksp.2018.11.004",
+          "article-title": "Physiotherapist perceptions of optimal sitting and standing posture",
+          "volume": "39",
+          "author": "Korakakis",
+          "year": "2019",
+          "journal-title": "Musculoskelet Sci Pract"
+        },
+        {
+          "key": "2023011707063402700_ref52",
+          "doi-asserted-by": "crossref",
+          "first-page": "54",
+          "DOI": "10.1016/j.math.2009.06.002",
+          "article-title": "The influence of different sitting postures on head/neck posture and muscle activity",
+          "volume": "15",
+          "author": "Caneiro",
+          "year": "2010",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "2023011707063402700_ref53",
+          "doi-asserted-by": "crossref",
+          "first-page": "754",
+          "DOI": "10.1097/AJP.0b013e3181e0174f",
+          "article-title": "Update on the relation between pain and movement: consequences for clinical practice",
+          "volume": "26",
+          "author": "Cote",
+          "year": "2010",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "2023011707063402700_ref54",
+          "first-page": "19",
+          "article-title": "Physiotherapist-delivered stress inoculation training integrated with exercise versus physiotherapy exercise alone for acute whiplash-associated disorder (StressModex): a randomised controlled trial of a combined psychological/physical intervention",
+          "volume": "19",
+          "author": "Sterling",
+          "year": "2019",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "2023011707063402700_ref55",
+          "doi-asserted-by": "crossref",
+          "first-page": "243",
+          "DOI": "10.1016/j.math.2012.10.012",
+          "article-title": "Validity of surface markers placement on the cervical spine for craniocervical posture assessment",
+          "volume": "18",
+          "author": "Gadotti",
+          "year": "2013",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "2023011707063402700_ref56",
+          "doi-asserted-by": "crossref",
+          "first-page": "161",
+          "DOI": "10.1016/j.apergo.2015.09.006",
+          "article-title": "Thoracic and lumbar posture behaviour in sitting tasks and standing: progressing the biomechanics from observations to measurements",
+          "volume": "53",
+          "author": "Claus",
+          "year": "2016",
+          "journal-title": "Appl Ergon"
+        }
+      ],
+      "container-title": [
+        "Physical Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://academic.oup.com/ptj/advance-article-pdf/doi/10.1093/ptj/pzab007/35711539/pzab007.pdf",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://academic.oup.com/ptj/article-pdf/101/3/pzab007/48727565/pzab007.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://academic.oup.com/ptj/article-pdf/101/3/pzab007/48727565/pzab007.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            17
+          ]
+        ],
+        "date-time": "2023-01-17T07:07:50Z",
+        "timestamp": 1673939270000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://academic.oup.com/ptj/article/doi/10.1093/ptj/pzab007/6094842"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            13
+          ]
+        ]
+      },
+      "references-count": 56,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              3
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1093/ptj/pzab007",
+      "relation": {},
+      "ISSN": [
+        "0031-9023",
+        "1538-6724"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0031-9023"
+        },
+        {
+          "type": "electronic",
+          "value": "1538-6724"
+        }
+      ],
+      "subject": [],
+      "published-other": {
+        "date-parts": [
+          [
+            2021,
+            3,
+            1
+          ]
+        ]
+      },
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            13
+          ]
+        ]
+      },
+      "article-number": "pzab007"
+    }
+  }
+}

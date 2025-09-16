@@ -1,0 +1,867 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jpain_2024_02_002.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jpain_2024_02_002",
+  "doi": "10.1016/j.jpain.2024.02.002",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:54.948130Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            7
+          ]
+        ],
+        "date-time": "2025-08-07T20:43:47Z",
+        "timestamp": 1754599427701,
+        "version": "3.41.0"
+      },
+      "reference-count": 58,
+      "publisher": "Elsevier BV",
+      "issue": "7",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2024-07-01T00:00:00Z",
+            "timestamp": 1719792000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2024-07-01T00:00:00Z",
+            "timestamp": 1719792000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2025-07-01T00:00:00Z",
+            "timestamp": 1751328000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 365,
+          "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100001773",
+          "name": "UNSW Sydney",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100001773",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.com",
+          "clinicalkey.com.au",
+          "clinicalkey.es",
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "jpain.org",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The Journal of Pain"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jpain.2024.02.002",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            7
+          ]
+        ],
+        "date-time": "2024-02-07T09:27:32Z",
+        "timestamp": 1707298052000
+      },
+      "page": "104488",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 2,
+      "title": [
+        "A Qualitative Study Identifying Barriers and Enablers to Exercise Adherence in People with Chronic Low Back Pain. “It’s a personal journey”"
+      ],
+      "prefix": "10.1016",
+      "volume": "25",
+      "author": [
+        {
+          "given": "Yannick L.",
+          "family": "Gilanyi",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Rodrigo R.N.",
+          "family": "Rizzo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9817-5372",
+          "authenticated-orcid": false,
+          "given": "Saurab",
+          "family": "Sharma",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Martjie",
+          "family": "Venter",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "James H.",
+          "family": "McAuley",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Matthew D.",
+          "family": "Jones",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "316",
+          "DOI": "10.1016/S2665-9913(23)00098-X",
+          "article-title": "Global, regional, and national burden of low back pain, 1990-2020, its attributable risk factors, and projections to 2050: a systematic analysis of the Global Burden of Disease Study 2021",
+          "volume": "5",
+          "author": "Ferreira",
+          "year": "2023",
+          "journal-title": "Lancet Rheumatol"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "2356",
+          "DOI": "10.1016/S0140-6736(18)30480-X",
+          "article-title": "What low back pain is and why we need to pay attention",
+          "volume": "391",
+          "author": "Hartvigsen",
+          "year": "2018",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "8",
+          "DOI": "10.1016/j.spinee.2007.10.005",
+          "article-title": "A systematic review of low back pain cost of illness studies in the United States and internationally",
+          "volume": "8",
+          "author": "Dagenais",
+          "year": "2008",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "2791",
+          "DOI": "10.1007/s00586-018-5673-2",
+          "article-title": "Clinical practice guidelines for the management of non-specific low back pain in primary care: an updated overview",
+          "volume": "27",
+          "author": "Oliveira",
+          "year": "2018",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib5",
+          "first-page": "1465",
+          "article-title": "Exercise therapy for chronic low back pain",
+          "author": "Hayden",
+          "year": "2021",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "475",
+          "DOI": "10.1016/S0003-9993(98)90059-4",
+          "article-title": "Combined exercise and motivation program: effect on the compliance and level of disability of patients with chronic low back pain: a randomized controlled trial",
+          "volume": "79",
+          "author": "Friedrich",
+          "year": "1998",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib7",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/fspor.2021.685845",
+          "article-title": "Learning from human responses to deconditioning environments: improved understanding of the \"Use It or Lose It\" principle",
+          "volume": "3",
+          "author": "Hart",
+          "year": "2021",
+          "journal-title": "Front Sports Act Living"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1940",
+          "DOI": "10.1016/j.spinee.2013.08.027",
+          "article-title": "Individual and intervention-related factors associated with adherence to home exercise in chronic low back pain: a systematic review",
+          "volume": "13",
+          "author": "Beinart",
+          "year": "2013",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "299",
+          "DOI": "10.1080/21679169.2019.1617777",
+          "article-title": "Adherence to a home exercise programme following a clinical programme for non-acute non-specific low back pain: an exploratory study",
+          "volume": "22",
+          "author": "L’Heureux",
+          "year": "2020",
+          "journal-title": "Eur J Physiother"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "924",
+          "DOI": "10.12968/bjon.2016.25.16.924",
+          "article-title": "Using health psychology to help patients: theories of behaviour change",
+          "volume": "25",
+          "author": "Barley",
+          "year": "2016",
+          "journal-title": "Br J Nurs"
+        },
+        {
+          "year": "2013",
+          "series-title": "Successful Qualitative Research: A Practical Guide for Beginners",
+          "author": "Braun",
+          "key": "10.1016/j.jpain.2024.02.002_bib11"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1186/1748-5908-8-35",
+          "article-title": "A checklist for identifying determinants of practice: a systematic review and synthesis of frameworks and taxonomies of factors that prevent or enable improvements in healthcare professional practice",
+          "volume": "8",
+          "author": "Flottorp",
+          "year": "2013",
+          "journal-title": "Implement Sci"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1268",
+          "DOI": "10.1136/bjsports-2014-094015",
+          "article-title": "Older people's perspectives on participation in physical activity: a systematic review and thematic synthesis of qualitative literature",
+          "volume": "49",
+          "author": "Franco",
+          "year": "2015",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "227",
+          "DOI": "10.1186/s12889-016-2882-7",
+          "article-title": "Adherence to exercise referral schemes by participants—what do providers and commissioners need to know? A systematic review of barriers and facilitators",
+          "volume": "16",
+          "author": "Morgan",
+          "year": "2016",
+          "journal-title": "BMC Public Health"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "897",
+          "DOI": "10.1186/s12891-022-05847-z",
+          "article-title": "Barriers and facilitators to physical activity in people with an inflammatory joint disease: a mixed methods study",
+          "volume": "23",
+          "author": "Bell",
+          "year": "2022",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib16",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0201095",
+          "article-title": "Barriers and enablers to walking in individuals with intermittent claudication: a systematic review to conceptualize a relevant and patient-centered program",
+          "volume": "13",
+          "author": "Abaraogu",
+          "year": "2018",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "995",
+          "DOI": "10.1097/AJP.0000000000000044",
+          "article-title": "What are patient beliefs and perceptions about exercise for nonspecific chronic low back pain?: A systematic review of qualitative studies",
+          "volume": "30",
+          "author": "Slade",
+          "year": "2014",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1016/j.rehab.2016.01.009",
+          "article-title": "Barriers to home-based exercise program adherence with chronic low back pain: patient expectations regarding new technologies",
+          "volume": "59",
+          "author": "Palazzo",
+          "year": "2016",
+          "journal-title": "Ann Phys Rehabil Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib19",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0179826",
+          "article-title": "Facilitators and barriers to physical activity in people with chronic low back pain: a qualitative study",
+          "volume": "12",
+          "author": "Boutevillain",
+          "year": "2017",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "349",
+          "DOI": "10.1093/intqhc/mzm042",
+          "article-title": "Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups",
+          "volume": "19",
+          "author": "Tong",
+          "year": "2007",
+          "journal-title": "Int J Qual Health Care"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1080/14767430.2022.2076776",
+          "article-title": "A critical realist approach to thematic analysis: producing causal explanations",
+          "volume": "21",
+          "author": "Fryer",
+          "year": "2022",
+          "journal-title": "J Crit Realism"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "430",
+          "DOI": "10.1001/jama.2022.9930",
+          "article-title": "Effect of graded sensorimotor retraining on pain intensity in patients with chronic low back pain: a randomized clinical trial",
+          "volume": "328",
+          "author": "Bagg",
+          "year": "2022",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "522",
+          "DOI": "10.1093/fampra/13.6.522",
+          "article-title": "Sampling for qualitative research",
+          "volume": "13",
+          "author": "Marshall",
+          "year": "1996",
+          "journal-title": "Fam Pract"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "736",
+          "DOI": "10.1016/S0140-6736(16)30970-9",
+          "article-title": "Non-specific low back pain",
+          "volume": "389",
+          "author": "Maher",
+          "year": "2017",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1016/j.berh.2006.08.004",
+          "article-title": "Low back pain (non-specific)",
+          "volume": "21",
+          "author": "Krismer",
+          "year": "2007",
+          "journal-title": "Best Pract Res Clin Rh"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib26",
+          "first-page": "126",
+          "article-title": "Physical activity, exercise, and physical fitness: definitions and distinctions for health-related research",
+          "volume": "100",
+          "author": "Caspersen",
+          "year": "1985",
+          "journal-title": "Public Health Rep"
+        },
+        {
+          "year": "2010",
+          "series-title": "A Naturalistic Study of Exercise Adherence Among a Community based Sample at a Fitness Facility",
+          "author": "Johnson",
+          "key": "10.1016/j.jpain.2024.02.002_bib27"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "38",
+          "DOI": "10.4278/0890-1171-12.1.38",
+          "article-title": "The transtheoretical model of health behavior change",
+          "volume": "12",
+          "author": "Prochaska",
+          "year": "1997",
+          "journal-title": "Am J Health Promot"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "201",
+          "DOI": "10.1080/2159676X.2019.1704846",
+          "article-title": "To saturate or not to saturate? Questioning data saturation as a useful concept for thematic analysis and sample-size rationales",
+          "volume": "13",
+          "author": "Braun",
+          "year": "2021",
+          "journal-title": "Qual Res Sport Exerc Health"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib30",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jbi.2019.103208",
+          "article-title": "The REDCap consortium: building an international community of software platform partners",
+          "volume": "95",
+          "author": "Harris",
+          "year": "2019",
+          "journal-title": "J Biomed Inform"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib31",
+          "unstructured": "Zoom Video Communications, Inc. Zoom Meetings. Version 5.10.6. San Jose, CA. 2016. https://zoom.us/."
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib32",
+          "unstructured": "QSR International. NVivo. Version 12. Burlington, MA. 1995. https://lumivero.com/."
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1191/1478088706qp063oa",
+          "article-title": "Using thematic analysis in psychology",
+          "volume": "3",
+          "author": "Braun",
+          "year": "2006",
+          "journal-title": "Qual Res Psychol"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1186/s13012-017-0605-9",
+          "article-title": "A guide to using the Theoretical Domains Framework of behaviour change to investigate implementation problems",
+          "volume": "12",
+          "author": "Atkins",
+          "year": "2017",
+          "journal-title": "Implement Sci"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "186",
+          "DOI": "10.1111/medu.14010",
+          "article-title": "When I say … quantification in qualitative research",
+          "volume": "54",
+          "author": "Monrouxe",
+          "year": "2020",
+          "journal-title": "Med Educ"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib36",
+          "first-page": "44",
+          "article-title": "Doing a thematic analysis: a practical, step-by-step guide for learning and teaching scholars",
+          "volume": "9",
+          "author": "Maguire",
+          "year": "2017",
+          "journal-title": "All Ireland J Higher Educ"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "527",
+          "DOI": "10.1017/S1049096519002233",
+          "article-title": "Toward active reflexivity: positionality and practice in the production of knowledge",
+          "volume": "53",
+          "author": "Soedirgo",
+          "year": "2020",
+          "journal-title": "Polit Sci Polit"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib38",
+          "series-title": "The International Encyclopedia of Communication Research Methods",
+          "first-page": "1",
+          "article-title": "Negative case analysis",
+          "author": "Hanson",
+          "year": "2017"
+        },
+        {
+          "year": "2017",
+          "series-title": "The SAGE Encyclopedia of Communication Research Methods",
+          "author": "Allen",
+          "key": "10.1016/j.jpain.2024.02.002_bib39"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib40",
+          "unstructured": "American College of Sports M, Riebe D, Ehrman JK, Liguori G, Magal M: ACSM's Guidelines for Exercise Testing and Prescription, Wolters Kluwer, 2018."
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "507",
+          "DOI": "10.1186/1471-2458-11-507",
+          "article-title": "Why some do but most don't. Barriers and enablers to engaging low-income groups in physical activity programmes: a mixed methods study",
+          "volume": "11",
+          "author": "Withall",
+          "year": "2011",
+          "journal-title": "BMC Public Health"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "92",
+          "DOI": "10.1016/j.archger.2018.02.010",
+          "article-title": "Barriers and enablers to ongoing exercise for people with chronic health conditions: participants’ perspectives following a randomized controlled trial of two interventions",
+          "volume": "76",
+          "author": "Jansons",
+          "year": "2018",
+          "journal-title": "Arch Gerontol Geriatr"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.1186/1472-6874-14-49",
+          "article-title": "Factors influencing adherence to regular exercise in middle-aged women: a qualitative study to inform clinical practice",
+          "volume": "14",
+          "author": "McArthur",
+          "year": "2014",
+          "journal-title": "BMC Womens Health"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib44",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2017-017042",
+          "article-title": "Barriers and facilitators of physical activity in knee and hip osteoarthritis: a systematic review of qualitative evidence",
+          "volume": "7",
+          "author": "Kanavaki",
+          "year": "2017",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "559",
+          "DOI": "10.1111/1742-6723.13941",
+          "article-title": "Emergency department presentations and associated hospital admissions for low back pain in Australia",
+          "volume": "34",
+          "author": "Anderson",
+          "year": "2022",
+          "journal-title": "Emerg Med Australas"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib46",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2022-069517",
+          "article-title": "Global prevalence of hospital admissions for low back pain: a systematic review with meta-analysis",
+          "volume": "13",
+          "author": "Melman",
+          "year": "2023",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "year": "2003",
+          "series-title": "Adherence to Long-Term Therapies: Evidence for Action",
+          "author": "Sabaté",
+          "key": "10.1016/j.jpain.2024.02.002_bib47"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib48",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3390/ijerph17186878",
+          "article-title": "Physical activity change during COVID-19 confinement",
+          "volume": "17",
+          "author": "Castañeda-Babarro",
+          "year": "2020",
+          "journal-title": "Int J Environ Res Public Health"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib49",
+          "article-title": "One year of COVID-19 pandemic in Italy: effect of Sedentary Behavior on Physical Activity Levels and Musculoskeletal Pain among University Students",
+          "volume": "18",
+          "author": "Roggio",
+          "year": "2021",
+          "journal-title": "Int J Envion Res Public Health"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib50",
+          "doi-asserted-by": "crossref",
+          "first-page": "746",
+          "DOI": "10.1111/sms.12951",
+          "article-title": "Longitudinal associations between exercise identity and exercise motivation: a multilevel growth curve model approach",
+          "volume": "28",
+          "author": "Ntoumanis",
+          "year": "2018",
+          "journal-title": "Scand J Med Sci Sport"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib51",
+          "article-title": "Factors associated with exercise adherence to prevent or treat neck and low back pain: a systematic review",
+          "volume": "52",
+          "author": "Areerak",
+          "year": "2021",
+          "journal-title": "Musculoskelet Sci Pract"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1177/1525822X16639015",
+          "article-title": "How many focus groups are enough? Building an evidence base for nonprobability sample sizes",
+          "volume": "29",
+          "author": "Guest",
+          "year": "2016",
+          "journal-title": "Field Methods"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib53",
+          "doi-asserted-by": "crossref",
+          "first-page": "222",
+          "DOI": "10.1136/bjsports-2023-107598",
+          "article-title": "Contexts, behavioural mechanisms and outcomes to optimise therapeutic exercise prescription for persistent low back pain: a realist review",
+          "volume": "58",
+          "author": "Wood",
+          "year": "2024",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib54",
+          "doi-asserted-by": "crossref",
+          "first-page": "265",
+          "DOI": "10.1348/135910709X461752",
+          "article-title": "What is the best way to change self-efficacy to promote lifestyle and recreational physical activity? A systematic review with meta-analysis",
+          "volume": "15",
+          "author": "Ashford",
+          "year": "2010",
+          "journal-title": "Br J Health Psychol"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib55",
+          "doi-asserted-by": "crossref",
+          "first-page": "418",
+          "DOI": "10.2519/jospt.2020.9319",
+          "article-title": "Which interventions enhance pain self-efficacy in people with chronic musculoskeletal pain? A systematic review with meta-analysis of randomized controlled trials, including over 12,000 participants",
+          "volume": "50",
+          "author": "Martinez-Calderon",
+          "year": "2020",
+          "journal-title": "J Orthopaed Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib56",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jpsychores.2022.111126",
+          "article-title": "Effect of integrated exercise therapy and psychosocial interventions on self-efficacy in patients with chronic low back pain: a systematic review",
+          "volume": "165",
+          "author": "Vorensky",
+          "year": "2023",
+          "journal-title": "J Psychosom Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib57",
+          "doi-asserted-by": "crossref",
+          "first-page": "747",
+          "DOI": "10.1177/003151259407800313",
+          "article-title": "Development of an exercise identity scale",
+          "volume": "78",
+          "author": "Anderson",
+          "year": "1994",
+          "journal-title": "Percept Motor Skill"
+        },
+        {
+          "key": "10.1016/j.jpain.2024.02.002_bib58",
+          "doi-asserted-by": "crossref",
+          "first-page": "191",
+          "DOI": "10.1037/0033-295X.84.2.191",
+          "article-title": "Self-efficacy: toward a unifying theory of behavioral change",
+          "volume": "84",
+          "author": "Bandura",
+          "year": "1977",
+          "journal-title": "Psychol Rev"
+        }
+      ],
+      "container-title": [
+        "The Journal of Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1526590024003699?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1526590024003699?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2025-07-01T12:03:38Z",
+        "timestamp": 1751371418000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1526590024003699"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            7
+          ]
+        ]
+      },
+      "references-count": 58,
+      "journal-issue": {
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              7
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1526590024003699"
+      ],
+      "URL": "https://doi.org/10.1016/j.jpain.2024.02.002",
+      "relation": {},
+      "ISSN": [
+        "1526-5900"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1526-5900"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            7
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "A Qualitative Study Identifying Barriers and Enablers to Exercise Adherence in People with Chronic Low Back Pain. “It’s a personal journey”",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "The Journal of Pain",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jpain.2024.02.002",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2024 © Published by Elsevier Inc. on behalf of United States Association for the Study of Pain, Inc All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "104488"
+    }
+  }
+}

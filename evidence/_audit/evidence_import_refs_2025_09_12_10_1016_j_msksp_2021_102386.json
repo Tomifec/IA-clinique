@@ -1,0 +1,884 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_msksp_2021_102386.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_msksp_2021_102386",
+  "doi": "10.1016/j.msksp.2021.102386",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:08.023887Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2025-09-08T05:54:48Z",
+        "timestamp": 1757310888077
+      },
+      "reference-count": 57,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2021-08-01T00:00:00Z",
+            "timestamp": 1627776000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                4,
+                29
+              ]
+            ],
+            "date-time": "2021-04-29T00:00:00Z",
+            "timestamp": 1619654400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "clinicalkey.com.au",
+          "clinicalkey.fr",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.msksp.2021.102386",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            30
+          ]
+        ],
+        "date-time": "2021-04-30T17:20:21Z",
+        "timestamp": 1619803221000
+      },
+      "page": "102386",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 19,
+      "special_numbering": "C",
+      "title": [
+        "Effectiveness of a manual therapy protocol based on articulatory techniques in migraine patients. A randomized controlled trial"
+      ],
+      "prefix": "10.1016",
+      "volume": "54",
+      "author": [
+        {
+          "given": "Elena",
+          "family": "Muñoz-Gómez",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Marta",
+          "family": "Inglés",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Pilar",
+          "family": "Serra-Añó",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gemma V.",
+          "family": "Espí-López",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2021.102386_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "67",
+          "DOI": "10.1177/0333102415580099",
+          "article-title": "Quality of life in primary headache disorders: a review",
+          "volume": "36",
+          "author": "Abu Bakar",
+          "year": "2016",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.msksp.2021.102386_bib2",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/1529-0131(200108)45:4<384::AID-ART352>3.0.CO;2-0",
+          "volume": "45",
+          "author": "Angst",
+          "year": "2001",
+          "journal-title": "Arthritis Rheum."
+        },
+        {
+          "key": "10.1016/j.msksp.2021.102386_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "447",
+          "DOI": "10.1016/B978-0-444-62627-1.00025-1",
+          "article-title": "Headache and migraine: a leading cause of absenteeism",
+          "volume": "131",
+          "author": "Baigi",
+          "year": "2015",
+          "journal-title": "Handb. Clin. Neurol."
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.msksp.2021.102386_bib4",
+          "first-page": "670",
+          "article-title": "Guideline for primary care management of headache in adults",
+          "volume": "61",
+          "author": "Becker",
+          "year": "2015",
+          "journal-title": "Can. Fam. Physician"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2021.102386_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "531",
+          "DOI": "10.1016/j.math.2008.09.001",
+          "article-title": "The mechanisms of manual therapy in the treatment of musculoskeletal pain: a comprehensive model",
+          "volume": "14",
+          "author": "Bialosky",
+          "year": "2009",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2021.102386_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "8",
+          "DOI": "10.2519/jospt.2018.7476",
+          "article-title": "Unraveling the mechanisms of manual therapy: modeling an approach",
+          "volume": "48",
+          "author": "Bialosky",
+          "year": "2018",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.msksp.2021.102386_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "1622",
+          "DOI": "10.1177/0333102418789072",
+          "article-title": "Migraine-related disability, impact, and health-related quality of life among patients with episodic migraine receiving preventive treatment with erenumab",
+          "volume": "38",
+          "author": "Buse",
+          "year": "2018",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.msksp.2021.102386_bib8",
+          "first-page": "1161",
+          "article-title": "Pharmacogenetic considerations for migraine therapies",
+          "volume": "14",
+          "author": "Capi",
+          "year": "2018",
+          "journal-title": "Expet Opin. Drug Metabol. Toxicol."
+        },
+        {
+          "key": "10.1016/j.msksp.2021.102386_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "148285",
+          "DOI": "10.1155/2015/148285",
+          "article-title": "Effects of the fourth ventricle compression in the regulation of the autonomic nervous system: a randomized control trial",
+          "volume": "2015",
+          "author": "Cardoso-de-Mello-E-Mello-Ribeiro",
+          "year": "2015",
+          "journal-title": "Evid Based Complement Alternat Med"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2021.102386_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "149",
+          "DOI": "10.1016/j.ctim.2015.01.011",
+          "article-title": "Clinical effectiveness of osteopathic treatment in chronic migraine: 3-Armed randomized controlled trial",
+          "volume": "23",
+          "author": "Cerritelli",
+          "year": "2015",
+          "journal-title": "Compl. Ther. Med."
+        },
+        {
+          "key": "10.1016/j.msksp.2021.102386_bib11",
+          "first-page": "1",
+          "article-title": "A risk-benefit assessment strategy to exclude cervical artery dissection in spinal manual-therapy: a comprehensive review",
+          "volume": "19",
+          "author": "Chaibi",
+          "year": "2019",
+          "journal-title": "Ann. Med."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2021.102386_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1007/s10194-011-0296-6",
+          "article-title": "Manual therapies for migraine: a systematic review",
+          "volume": "12",
+          "author": "Chaibi",
+          "year": "2011",
+          "journal-title": "J. Headache Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2021.102386_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "143",
+          "DOI": "10.1111/ene.13166",
+          "article-title": "Chiropractic spinal manipulative therapy for migraine: a three-armed, single-blinded, placebo, randomized controlled trial",
+          "volume": "24",
+          "author": "Chaibi",
+          "year": "2017",
+          "journal-title": "Eur. J. Neurol."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2021.102386_bib14",
+          "first-page": "159",
+          "article-title": "The validity of the extension-rotation test as a clinical screening procedure before neck manipulation: a secondary analysis",
+          "volume": "19",
+          "author": "Côté",
+          "year": "1996",
+          "journal-title": "J. Manip. Physiol. Ther."
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.msksp.2021.102386_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "382",
+          "DOI": "10.12968/ijtr.2018.25.8.382",
+          "article-title": "Assessing the feasibility of mobilisation of C0-C3 cervical segments to reduce headache in migraneurs",
+          "volume": "25",
+          "author": "Davidson",
+          "year": "2018",
+          "journal-title": "Int. J. Ther. Rehabil."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2021.102386_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "687",
+          "DOI": "10.1177/0333102419828967",
+          "article-title": "Guidelines of the international headache society for controlled trials of acute treatment of migraine attacks in adults: fourth edition",
+          "volume": "39",
+          "author": "Diener",
+          "year": "2019",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2021.102386_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "51",
+          "DOI": "10.1186/s10194-019-0988-x",
+          "article-title": "Understanding the nature of psychiatric comorbidity in migraine: a systematic review focused on interactions and treatment implications",
+          "volume": "20",
+          "author": "Dresler",
+          "year": "2019",
+          "journal-title": "J. Headache Pain"
+        },
+        {
+          "key": "10.1016/j.msksp.2021.102386_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "64",
+          "DOI": "10.1186/s12891-016-0912-3",
+          "article-title": "Upper cervical and upper thoracic manipulation versus mobilization and exercise in patients with cervicogenic headache: a multi-center randomized clinical trial",
+          "volume": "17",
+          "author": "Dunning",
+          "year": "2016",
+          "journal-title": "BMC Muscoskel. Disord."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2021.102386_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "105",
+          "DOI": "10.1016/j.jpain.2007.09.005",
+          "article-title": "Interpreting the clinical importance of treatment outcomes in chronic pain clinical trials: IMMPACT recommendations",
+          "volume": "9",
+          "author": "Dworkin",
+          "year": "2008",
+          "journal-title": "J. Pain"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2021.102386_bib20",
+          "first-page": "641",
+          "article-title": "Effect of manual therapy techniques on headache disability in patients with tension-type headache. Randomized controlled trial",
+          "volume": "50",
+          "author": "Espí-López",
+          "year": "2014",
+          "journal-title": "Eur. J. Phys. Rehabil. Med."
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.msksp.2021.102386_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "1099",
+          "DOI": "10.1089/acm.2018.0048",
+          "article-title": "Effect of soft tissue techniques on headache impact, disability, and quality of life in migraine sufferers: a pilot study",
+          "volume": "24",
+          "author": "Espí-López",
+          "year": "2018",
+          "journal-title": "J. Alternative Compl. Med."
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.msksp.2021.102386_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "78",
+          "DOI": "10.1007/s11916-019-0815-8",
+          "article-title": "Manual therapy and quality of life in people with headache: systematic review and meta-analysis of randomized controlled trials",
+          "volume": "23",
+          "author": "Falsiroli-Maistrello",
+          "year": "2019",
+          "journal-title": "Curr. Pain Headache Rep."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2021.102386_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "109",
+          "DOI": "10.1097/AJP.0000000000000387",
+          "article-title": "Myofascial trigger points and migraine-related disability in women with episodic and chronic migraine",
+          "volume": "33",
+          "author": "Ferracini",
+          "year": "2017",
+          "journal-title": "Clin. J. Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2021.102386_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.23736/S1973-9087.17.04568-3",
+          "article-title": "Does myofascial and trigger point treatment reduce pain and analgesic intake in patients undergoing onabotulinumtoxin A injection due to chronic intractable migraine?",
+          "volume": "54",
+          "author": "Gandolfi",
+          "year": "2018",
+          "journal-title": "Eur. J. Phys. Rehabil. Med."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2021.102386_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "137",
+          "DOI": "10.11607/ofph.1912",
+          "article-title": "Effects of a physical therapy protocol in patients with chronic migraine and temporomandibular disorders: a randomized, single-blinded, clinical trial",
+          "volume": "32",
+          "author": "Garrigós-Pedrón",
+          "year": "2018",
+          "journal-title": "J Oral Facial Pain Headache"
+        },
+        {
+          "key": "10.1016/j.msksp.2021.102386_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "1211",
+          "DOI": "10.1016/S0140-6736(17)32154-2",
+          "volume": "390",
+          "author": "Gbd 2016",
+          "year": "2017",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2021.102386_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "215",
+          "DOI": "10.1016/S0004-9514(14)60330-5",
+          "article-title": "Techniques used by manipulative physiotherapists in the management of headaches",
+          "volume": "46",
+          "author": "Grant",
+          "year": "2000",
+          "journal-title": "Aust. J. Physiother."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2021.102386_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1177/0333102417738202",
+          "article-title": "The international classification of headache disorders, 3rd edition",
+          "volume": "38",
+          "year": "2018",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2021.102386_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "220",
+          "DOI": "10.1016/j.math.2009.12.004",
+          "article-title": "Barriers to treatment adherence in physiotherapy outpatient clinics: a systematic review",
+          "volume": "15",
+          "author": "Jack",
+          "year": "2010",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2021.102386_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "40",
+          "DOI": "10.1038/sj.sc.3100747",
+          "article-title": "Preliminary investigation of the lateral postural stability of spinal cord-injured individuals subjected to dynamic perturbations",
+          "volume": "37",
+          "author": "Kamper",
+          "year": "1999",
+          "journal-title": "Spinal Cord"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2021.102386_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "394",
+          "DOI": "10.1111/j.1468-2982.2007.01303.x",
+          "article-title": "The triggers or precipitants of the acute migraine attack",
+          "volume": "27",
+          "author": "Kelman",
+          "year": "2007",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2021.102386_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "41",
+          "DOI": "10.1186/s10194-019-0993-0",
+          "article-title": "A narrative review on the burden of migraine: when the burden is the impact on people's life",
+          "volume": "20",
+          "author": "Leonardi",
+          "year": "2019",
+          "journal-title": "J. Headache Pain"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2021.102386_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "474",
+          "DOI": "10.1177/0333102415597889",
+          "article-title": "Efficacy of interventions used by physiotherapists for patients with headache and migraine-systematic review and meta-analysis",
+          "volume": "36",
+          "author": "Luedtke",
+          "year": "2016",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.msksp.2021.102386_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "86",
+          "DOI": "10.1016/j.ctim.2016.01.008",
+          "article-title": "Manual therapy for tension-type headache related to quality of work life and work presenteeism: secondary analysis of a randomized controlled trial",
+          "volume": "25",
+          "author": "Monzani",
+          "year": "2016",
+          "journal-title": "Compl. Ther. Med."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.msksp.2021.102386_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "1202",
+          "DOI": "10.1097/j.pain.0000000000001231",
+          "article-title": "Quantitative sensory testing in patients with migraine: a systematic review and meta-analysis",
+          "volume": "159",
+          "author": "Nahman-Averbuch",
+          "year": "2018",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.msksp.2021.102386_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "2485",
+          "DOI": "10.1093/pm/pnx130",
+          "article-title": "The number of active but not latent trigger points associated with widespread pressure pain hypersensitivity in women with episodic migraines",
+          "volume": "18",
+          "author": "Palacios-Ceña",
+          "year": "2017",
+          "journal-title": "Pain Med."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2021.102386_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "1188",
+          "DOI": "10.1177/0333102417727535",
+          "article-title": "Perceived triggers of primary headache disorders: a meta-analysis",
+          "volume": "38",
+          "author": "Pellegrino",
+          "year": "2018",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2021.102386_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "1117",
+          "DOI": "10.1002/ejp.1378",
+          "article-title": "Patients' Global Impression of Change in the management of peripheral neuropathic pain: clinical relevance and correlations in daily practice",
+          "volume": "23",
+          "author": "Perrot",
+          "year": "2019",
+          "journal-title": "Eur. J. Pain"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.msksp.2021.102386_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "532",
+          "DOI": "10.1111/head.13501",
+          "article-title": "The impact of spinal manipulation on migraine pain and disability: a systematic review and meta-analysis",
+          "volume": "59",
+          "author": "Rist",
+          "year": "2019",
+          "journal-title": "Headache"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2021.102386_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "387",
+          "DOI": "10.1016/j.math.2007.12.007",
+          "article-title": "Paradigm shift in manual therapy? Evidence for a central nervous system component in the response to passive cervical joint mobilisation",
+          "volume": "13",
+          "author": "Schmid",
+          "year": "2008",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2021.102386_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "g1416",
+          "DOI": "10.1136/bmj.g1416",
+          "article-title": "Chronic migraine",
+          "volume": "348",
+          "author": "Schwedt",
+          "year": "2014",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2021.102386_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "309",
+          "DOI": "10.1097/WCO.0000000000000309",
+          "article-title": "Understanding migraine and psychiatric comorbidity",
+          "volume": "29",
+          "author": "Seng",
+          "year": "2016",
+          "journal-title": "Curr. Opin. Neurol."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2021.102386_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "17",
+          "DOI": "10.1186/s10194-018-0846-2",
+          "article-title": "Migraine is first cause of disability in under 50s: will health politicians now take notice?",
+          "volume": "19",
+          "author": "Steiner",
+          "year": "2018",
+          "journal-title": "J. Headache Pain"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2021.102386_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "988",
+          "DOI": "10.1212/WNL.53.5.988",
+          "article-title": "An international study to assess reliability of the Migraine Disability Assessment (MIDAS) score",
+          "volume": "22",
+          "author": "Stewart",
+          "year": "1999",
+          "journal-title": "Neurology"
+        },
+        {
+          "issue": "Suppl. 1",
+          "key": "10.1016/j.msksp.2021.102386_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "S20",
+          "DOI": "10.1212/WNL.56.suppl_1.S20",
+          "article-title": "Development and testing of the migraine disability assessment (MIDAS) questionnaire to assess headache-related disability",
+          "volume": "56",
+          "author": "Stewart",
+          "year": "2001",
+          "journal-title": "Neurology"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2021.102386_bib46",
+          "doi-asserted-by": "crossref",
+          "first-page": "549",
+          "DOI": "10.1093/ptj/pzz007",
+          "article-title": "Which examination tests detect differences in cervical musculoskeletal impairments in people with migraine? A systematic review and meta-analysis",
+          "volume": "99",
+          "author": "Szikszay",
+          "year": "2019",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2021.102386_bib47",
+          "author": "Thalheimer"
+        },
+        {
+          "key": "10.1016/j.msksp.2021.102386_bib48",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Uthaikhup S, Assapun J, Watcharasaksilp K, Jull G. Effectiveness of physiotherapy for seniors with recurrent headaches associated with neck pain and dysfunction: a randomized controlled trial. Spine J. https://doi.org/10.1016/j.spinee.2016.08.008.",
+          "DOI": "10.1016/j.spinee.2016.08.008"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2021.102386_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "316",
+          "DOI": "10.1016/j.semerg.2012.10.006",
+          "article-title": "Chronic migraine and work: occupational risks and prevention",
+          "volume": "39",
+          "author": "Vicente-Herrero",
+          "year": "2013",
+          "journal-title": "Semergen"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2021.102386_bib50",
+          "doi-asserted-by": "crossref",
+          "first-page": "135",
+          "DOI": "10.1157/13074369",
+          "article-title": "El Cuestionario de Salud SF-36 español: una década de experiencia y nuevos desarrollos",
+          "volume": "19",
+          "author": "Vilagut",
+          "year": "2005",
+          "journal-title": "Gac. Sanit."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2021.102386_bib51",
+          "doi-asserted-by": "crossref",
+          "first-page": "225",
+          "DOI": "10.1089/acm.2009.0673",
+          "article-title": "Efficacy of osteopathic manipulative treatment of female patients with migraine: results of a randomized controlled trial",
+          "volume": "17",
+          "author": "Voigt",
+          "year": "2011",
+          "journal-title": "J. Alternative Compl. Med."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2021.102386_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "153",
+          "DOI": "10.1016/j.math.2006.06.004",
+          "article-title": "Neurodynamic responses in children with migraine or cervicogenic headache versus a control group. A comparative study",
+          "volume": "12",
+          "author": "von Piekartz",
+          "year": "2007",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2021.102386_bib53",
+          "doi-asserted-by": "crossref",
+          "first-page": "250",
+          "DOI": "10.1016/j.math.2014.09.001",
+          "article-title": "Analgesic effects of manual therapy in patients with musculoskeletal pain: a systematic review",
+          "volume": "20",
+          "author": "Voogt",
+          "year": "2015",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "2–3",
+          "key": "10.1016/j.msksp.2021.102386_bib54",
+          "doi-asserted-by": "crossref",
+          "first-page": "285",
+          "DOI": "10.1016/S0304-3959(00)00380-8",
+          "article-title": "Quality of life differs among headache diagnoses: analysis of SF-36 survey in 901 headache patients",
+          "volume": "89",
+          "author": "Wang",
+          "year": "2001",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.msksp.2021.102386_bib55",
+          "doi-asserted-by": "crossref",
+          "first-page": "473",
+          "DOI": "10.1097/00005650-199206000-00002",
+          "article-title": "The MOS 36-item short form health survey (SF-36)",
+          "volume": "30",
+          "author": "Ware",
+          "year": "1992",
+          "journal-title": "Med Care"
+        },
+        {
+          "key": "10.1016/j.msksp.2021.102386_bib56",
+          "doi-asserted-by": "crossref",
+          "first-page": "307",
+          "DOI": "10.1016/j.jns.2016.11.071",
+          "article-title": "Migraine affects 1 in 10 people worldwide featuring recent rise: a systematic review and meta-analysis of community-based studies involving 6 million participants",
+          "volume": "372",
+          "author": "Woldeamanuel",
+          "year": "2017",
+          "journal-title": "J. Neurol. Sci."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2021.102386_bib57",
+          "doi-asserted-by": "crossref",
+          "first-page": "503",
+          "DOI": "10.1177/0333102419883355",
+          "article-title": "Predictors of episodic migraine transformation to chronic migraine: a systematic review and meta-analysis of observational cohort studies",
+          "volume": "40",
+          "author": "Xu",
+          "year": "2020",
+          "journal-title": "Cephalalgia"
+        }
+      ],
+      "container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781221000709?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781221000709?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            26
+          ]
+        ],
+        "date-time": "2022-12-26T03:45:13Z",
+        "timestamp": 1672026313000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2468781221000709"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            8
+          ]
+        ]
+      },
+      "references-count": 57,
+      "alternative-id": [
+        "S2468781221000709"
+      ],
+      "URL": "https://doi.org/10.1016/j.msksp.2021.102386",
+      "relation": {},
+      "ISSN": [
+        "2468-7812"
+      ],
+      "issn-type": [
+        {
+          "value": "2468-7812",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            8
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Effectiveness of a manual therapy protocol based on articulatory techniques in migraine patients. A randomized controlled trial",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Musculoskeletal Science and Practice",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.msksp.2021.102386",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2021 The Author(s). Published by Elsevier Ltd.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "102386"
+    }
+  }
+}

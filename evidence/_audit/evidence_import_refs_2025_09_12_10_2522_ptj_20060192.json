@@ -1,0 +1,920 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_2522_ptj_20060192.md",
+  "id": "evidence_import_refs_2025_09_12_10_2522_ptj_20060192",
+  "doi": "10.2522/ptj.20060192",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:42.440660Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T22:03:31Z",
+        "timestamp": 1757455411058
+      },
+      "reference-count": 69,
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "5",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            5,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:sec>\n                  <jats:title>Background and Purpose</jats:title>\n                  <jats:p>Neck pain frequently is managed by physical therapists. The development of classification methods for matching interventions to subgroups of patients may improve clinical outcomes. The purpose of this study was to describe a proposed classification system for patients with neck pain by examining data for consecutive patients receiving physical therapy interventions.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Subjects and Methods</jats:title>\n                  <jats:p>Standardized methods for collecting baseline and intervention data were used for all patients receiving physical therapy interventions for neck pain over 1 year. Outcome variables were the Neck Disability Index (NDI), numeric pain rating, and number of visits. Treatment was provided at the discretion of the physical therapist. After the completion of treatment, each patient was classified by use of baseline variables. The interventions received by the patient were categorized as being matched or not matched to the classification. Outcomes for patients who received matched interventions were compared with those for patients who received nonmatched interventions. The interrater reliability of the classification algorithm was examined with a subset of 50 patients.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>A total of 274 patients were included in this study (74% women; age [X̄±SD]=44.4±16.0 years). The most common classification was centralization (34.7%); next were exercise and conditioning (32.8%) and mobility (17.5%). The interrater reliability for classification decisions was high (kappa=.95, 95% confidence interval [CI]=0.87–1.0). A total of 113 patients (41.2%) received interventions matched to the classification. Receiving matched interventions was associated with greater improvements in the NDI (mean difference=5.6 points, 95% CI=2.6–8.6) and in pain ratings (mean difference=0.74 point, 95% CI=0.21–1.3) than receiving nonmatched interventions.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Discussion and Conclusion</jats:title>\n                  <jats:p>The development of classification methods for patients with neck pain may improve the outcomes of physical therapy intervention. This study was done to examine a previously proposed classification system for patients receiving physical therapy interventions for neck pain. Receiving interventions matched to the classification system was associated with better outcomes than receiving nonmatched interventions. Although the design of this study prohibited drawing conclusions about the effectiveness of the system, the results suggest that further research on the system may be warranted.</jats:p>\n               </jats:sec>",
+      "DOI": "10.2522/ptj.20060192",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2007,
+            3,
+            20
+          ]
+        ],
+        "date-time": "2007-03-20T20:08:41Z",
+        "timestamp": 1174421321000
+      },
+      "page": "513-524",
+      "source": "Crossref",
+      "is-referenced-by-count": 111,
+      "title": [
+        "Preliminary Examination of a Proposed Treatment-Based Classification System for Patients Receiving Physical Therapy Interventions for Neck Pain"
+      ],
+      "prefix": "10.1093",
+      "volume": "87",
+      "author": [
+        {
+          "given": "Julie M",
+          "family": "Fritz",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "JM Fritz, PT, PhD, ATC, is Associate Professor, Division of Physical Therapy, University of Utah, and Clinical Outcomes Research Scientist, Intermountain Health Care, 520 Wakara Way, Salt Lake City, UT 84108 (USA)"
+            }
+          ]
+        },
+        {
+          "given": "Gerard P",
+          "family": "Brennan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "GP Brennan, PT, PhD, is Director for Clinical Quality and Outcomes, Rehabilitation Agency, Intermountain Health Care"
+            }
+          ]
+        }
+      ],
+      "member": "286",
+      "reference": [
+        {
+          "key": "2019123111481632300_R1",
+          "doi-asserted-by": "crossref",
+          "first-page": "267",
+          "DOI": "10.1016/j.pain.2004.09.004",
+          "article-title": "The annual incidence and course of neck pain in the general population: a population-based cohort study",
+          "volume": "112",
+          "author": "Cote",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2019123111481632300_R2",
+          "doi-asserted-by": "crossref",
+          "first-page": "118",
+          "DOI": "10.1136/ard.2003.019349",
+          "article-title": "Incidence and prevalence of complaints of the neck and upper extremity in general practice",
+          "volume": "64",
+          "author": "Bot",
+          "year": "2005",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "key": "2019123111481632300_R3",
+          "doi-asserted-by": "crossref",
+          "first-page": "219",
+          "DOI": "10.2519/jospt.1998.27.3.219",
+          "article-title": "Physical therapy and health-related outcomes for patients with common orthopaedic diagnoses",
+          "volume": "27",
+          "author": "Di Fabio",
+          "year": "1998",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R4",
+          "doi-asserted-by": "crossref",
+          "first-page": "930",
+          "DOI": "10.1093/ptj/76.9.930",
+          "article-title": "Physical therapy and health outcomes in patients with spinal impairments",
+          "volume": "76",
+          "author": "Jette",
+          "year": "1996",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R5",
+          "doi-asserted-by": "crossref",
+          "first-page": "145",
+          "DOI": "10.1093/ptj/77.2.145",
+          "article-title": "Physical therapy treatment choices for musculoskeletal impairments",
+          "volume": "77",
+          "author": "Jette",
+          "year": "1997",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R6",
+          "doi-asserted-by": "crossref",
+          "first-page": "1346",
+          "DOI": "10.1016/S0003-9993(97)90308-7",
+          "article-title": "Professional uncertainty and treatment choices by physical therapists",
+          "volume": "78",
+          "author": "Jette",
+          "year": "1997",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "2019123111481632300_R7",
+          "doi-asserted-by": "crossref",
+          "first-page": "961",
+          "DOI": "10.1136/bmj.325.7370.961",
+          "article-title": "Unwarranted variations in healthcare delivery: implications for academic medical centres",
+          "volume": "325",
+          "author": "Wennberg",
+          "year": "2002",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "2019123111481632300_R8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1992",
+          "DOI": "10.1097/00007632-199809150-00016",
+          "article-title": "A report from the second international forum for primary care research on low back pain: reexamining priorities",
+          "volume": "23",
+          "author": "Borkan",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R9",
+          "doi-asserted-by": "crossref",
+          "first-page": "470",
+          "DOI": "10.1093/ptj/75.6.470",
+          "article-title": "A treatment-based classification approach to low back syndrome: identifying and staging patients for conservative management",
+          "volume": "75",
+          "author": "Delitto",
+          "year": "1995",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R10",
+          "doi-asserted-by": "crossref",
+          "first-page": "632",
+          "DOI": "10.1097/00007632-198709000-00002",
+          "article-title": "1987 Volvo award in clinical sciences: a new clinical model for the treatment of low-back pain",
+          "volume": "12",
+          "author": "Waddell",
+          "year": "1987",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R11",
+          "doi-asserted-by": "crossref",
+          "first-page": "1109",
+          "DOI": "10.1097/00007632-200005010-00012",
+          "article-title": "The factors associated with neck pain and its related disability in the Saskatchewan population",
+          "volume": "25",
+          "author": "Cote",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R12",
+          "doi-asserted-by": "crossref",
+          "first-page": "409",
+          "DOI": "10.1016/j.ejrad.2004.11.003",
+          "article-title": "Prevalence of annular tears and disc herniations on MR images of the cervical spine in symptom free volunteers",
+          "volume": "55",
+          "author": "Ernst",
+          "year": "2005",
+          "journal-title": "Eur J Radiol"
+        },
+        {
+          "key": "2019123111481632300_R13",
+          "doi-asserted-by": "crossref",
+          "first-page": "83",
+          "DOI": "10.1148/radiology.164.1.3588931",
+          "article-title": "Asymptomatic degenerative disk disease and spondylosis of the cervical spine",
+          "volume": "164",
+          "author": "Teresi",
+          "year": "1987",
+          "journal-title": "Radiology"
+        },
+        {
+          "key": "2019123111481632300_R14",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/S0304-3959(98)00058-X",
+          "article-title": "The clinical course and prognostic factors of non-specific neck pain: a systematic review",
+          "volume": "77",
+          "author": "Borghouts",
+          "year": "1998",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2019123111481632300_R15",
+          "doi-asserted-by": "crossref",
+          "first-page": "106",
+          "DOI": "10.1097/00007632-200001010-00018",
+          "article-title": "The use of a classification approach to identify subgroups of patients with acute low back pain: inter-rater reliability and short-term treatment outcomes",
+          "volume": "25",
+          "author": "Fritz",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "suppl",
+          "key": "2019123111481632300_R16",
+          "first-page": "16",
+          "article-title": "Scientific approach to the assessment and management of activity-related spinal disorders: a monograph for clinicians—diagnosis of the problem (the problem of diagnosis)",
+          "volume": "12",
+          "author": "Spitzer",
+          "year": "1987",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R17",
+          "doi-asserted-by": "crossref",
+          "first-page": "243",
+          "DOI": "10.1093/ptj/84.3.243",
+          "article-title": "Categorizing patients with occupational low back pain by use of the Quebec Task Force classification system versus pain pattern classification procedures: discriminant and predictive validity",
+          "volume": "84",
+          "author": "Werneke",
+          "year": "2004",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R18",
+          "doi-asserted-by": "crossref",
+          "first-page": "623",
+          "DOI": "10.1097/01.brs.0000202807.72292.a8",
+          "article-title": "Identifying sub-groups of patients with “non-specific” low back pain: results of a randomized clinical trial",
+          "volume": "31",
+          "author": "Brennan",
+          "year": "2006",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R19",
+          "doi-asserted-by": "crossref",
+          "first-page": "920",
+          "DOI": "10.7326/0003-4819-141-12-200412210-00008",
+          "article-title": "Validation of a clinical prediction rule to identify patients with low back pain likely to benefit from spinal manipulation",
+          "volume": "141",
+          "author": "Childs",
+          "year": "2004",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "2019123111481632300_R20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1363",
+          "DOI": "10.1097/01.BRS.0000067115.61673.FF",
+          "article-title": "Comparison of a classification-based approach to physical therapy and therapy based on clinical practice guidelines for patients with acute low back pain: a randomized clinical trial",
+          "volume": "28",
+          "author": "Fritz",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R21",
+          "doi-asserted-by": "crossref",
+          "first-page": "2593",
+          "DOI": "10.1097/01.brs.0000146464.23007.2a",
+          "article-title": "Does it matter which exercise",
+          "volume": "29",
+          "author": "Long",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R22",
+          "doi-asserted-by": "crossref",
+          "first-page": "686",
+          "DOI": "10.2519/jospt.2004.34.11.686",
+          "article-title": "Proposal of a classification system for patients with neck pain",
+          "volume": "34",
+          "author": "Childs",
+          "year": "2004",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R23",
+          "doi-asserted-by": "crossref",
+          "first-page": "203",
+          "DOI": "10.1097/01.PHM.0000052700.48757.CF",
+          "article-title": "Effectiveness of physical therapy for patients with neck pain: an individualized approach using a clinical decision-making algorithm",
+          "volume": "82",
+          "author": "Wang",
+          "year": "2003",
+          "journal-title": "Am J Phys Med Rehabil"
+        },
+        {
+          "key": "2019123111481632300_R24",
+          "doi-asserted-by": "crossref",
+          "first-page": "676",
+          "DOI": "10.1097/00007632-199904010-00012",
+          "article-title": "A descriptive study of the centralization phenomenon: a prospective analysis",
+          "volume": "24",
+          "author": "Werneke",
+          "year": "1999",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R25",
+          "doi-asserted-by": "crossref",
+          "first-page": "1541",
+          "DOI": "10.1097/01.BRS.0000131218.35875.ED",
+          "article-title": "A Cochrane review of manipulation and mobilization for mechanical neck disorders",
+          "volume": "29",
+          "author": "Gross",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R26",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.2522/ptj.20060155",
+          "article-title": "Development of a clinical prediction rule for guiding treatment of a subgroup of patients with neck pain: use of thoracic spine manipulation, exercise, and patient education",
+          "volume": "87",
+          "author": "Cleland",
+          "year": "2007",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R27",
+          "doi-asserted-by": "crossref",
+          "first-page": "713",
+          "DOI": "10.7326/0003-4819-136-10-200205210-00006",
+          "article-title": "Manual therapy, physical therapy, or continued care by a general practitioner for patients with neck pain: a randomized, controlled trial",
+          "volume": "136",
+          "author": "Hoving",
+          "year": "2002",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "2019123111481632300_R28",
+          "first-page": "211",
+          "article-title": "A randomized clinical trial of manual therapy and physiotherapy for persistent back and neck complaints: subgroup analysis and relationship between outcome measures",
+          "volume": "16",
+          "author": "Koes",
+          "year": "1993",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2019123111481632300_R29",
+          "doi-asserted-by": "crossref",
+          "first-page": "306",
+          "DOI": "10.1016/j.math.2005.08.009",
+          "article-title": "Predictors for the immediate responders to cervical manipulation in patients with neck pain",
+          "volume": "11",
+          "author": "Tseng",
+          "year": "2006",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "2019123111481632300_R30",
+          "doi-asserted-by": "crossref",
+          "first-page": "758",
+          "DOI": "10.1097/00007632-200104010-00012",
+          "article-title": "Centralization phenomenon as a prognostic factor for chronic low back pain and disability",
+          "volume": "26",
+          "author": "Werneke",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R31",
+          "doi-asserted-by": "crossref",
+          "first-page": "161",
+          "DOI": "10.1097/00007632-200301150-00012",
+          "article-title": "Discriminant validity and relative precision for classifying patients with nonspecific neck and back pain by anatomic pain patterns",
+          "volume": "28",
+          "author": "Werneke",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R32",
+          "doi-asserted-by": "crossref",
+          "first-page": "788",
+          "DOI": "10.1097/00007632-200104010-00020",
+          "article-title": "A randomized clinical trial of exercise and spinal manipulation for patients with chronic neck pain",
+          "volume": "26",
+          "author": "Bronfort",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R33",
+          "doi-asserted-by": "crossref",
+          "first-page": "850",
+          "DOI": "10.1191/0269215505cr920oa",
+          "article-title": "A randomized clinical trial of TENS and exercise for patients with chronic neck pain",
+          "volume": "19",
+          "author": "Chiu",
+          "year": "2005",
+          "journal-title": "Clin Rehabil"
+        },
+        {
+          "key": "2019123111481632300_R34",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.1054/math.2002.0480",
+          "article-title": "Evidence for exercise therapy in mechanical neck disorders",
+          "volume": "8",
+          "author": "Sarig-Bahat",
+          "year": "2003",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "2019123111481632300_R35",
+          "doi-asserted-by": "crossref",
+          "first-page": "1021",
+          "DOI": "10.1097/00007632-200004150-00018",
+          "article-title": "Active treatment of chronic neck pain: a prospective randomized intervention",
+          "volume": "25",
+          "author": "Taimela",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R36",
+          "doi-asserted-by": "crossref",
+          "first-page": "2509",
+          "DOI": "10.1001/jama.289.19.2509",
+          "article-title": "Active neck muscle training in the treatment of chronic neck pain in women: a randomized controlled trial",
+          "volume": "289",
+          "author": "Ylinen",
+          "year": "2003",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "2019123111481632300_R37",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1155/2005/503704",
+          "article-title": "Treatment of whiplash-associated disorders, part I: non-invasive interventions",
+          "volume": "10",
+          "author": "Conlin",
+          "year": "2005",
+          "journal-title": "Pain Res Manag"
+        },
+        {
+          "key": "2019123111481632300_R38",
+          "doi-asserted-by": "crossref",
+          "first-page": "1006",
+          "DOI": "10.1136/bmj.299.6706.1006",
+          "article-title": "Early mobilisation and outcome in acute sprains of the neck",
+          "volume": "299",
+          "author": "McKinney",
+          "year": "1989",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "2019123111481632300_R39",
+          "doi-asserted-by": "crossref",
+          "first-page": "1782",
+          "DOI": "10.1097/00007632-200007150-00008",
+          "article-title": "Early intervention in whiplash-associated disorders: a comparison of two treatment protocols",
+          "volume": "25",
+          "author": "Rosenfeld",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R40",
+          "doi-asserted-by": "crossref",
+          "first-page": "462",
+          "DOI": "10.1007/s10194-005-0250-6",
+          "article-title": "Concepts leading to the definition of the term cervicogenic headache: a historical overview",
+          "volume": "6",
+          "author": "Antonaci",
+          "year": "2005",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "2019123111481632300_R41",
+          "doi-asserted-by": "crossref",
+          "first-page": "1835",
+          "DOI": "10.1097/00007632-200209010-00004",
+          "article-title": "A randomized controlled trial of exercise and manipulative therapy for cervicogenic headache",
+          "volume": "27",
+          "author": "Jull",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R42",
+          "doi-asserted-by": "crossref",
+          "first-page": "217",
+          "DOI": "10.1016/0304-3959(94)90097-3",
+          "article-title": "A comparison of pain measurement characteristics of mechanical visual analogue and simple numerical rating scales",
+          "volume": "56",
+          "author": "Price",
+          "year": "1994",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2019123111481632300_R43",
+          "first-page": "409",
+          "article-title": "The Neck Disability Index: a study of reliability and validity",
+          "volume": "14",
+          "author": "Vernon",
+          "year": "1991",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2019123111481632300_R44",
+          "doi-asserted-by": "crossref",
+          "first-page": "515",
+          "DOI": "10.1097/00007632-200203010-00012",
+          "article-title": "Standard scales for measurement of functional outcome for cervical pain or dysfunction: a systematic review",
+          "volume": "27",
+          "author": "Pietrobon",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R45",
+          "first-page": "75",
+          "article-title": "Psychometric properties of the neck disability index",
+          "volume": "21",
+          "author": "Hairns",
+          "year": "1998",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2019123111481632300_R46",
+          "doi-asserted-by": "crossref",
+          "first-page": "951",
+          "DOI": "10.1093/ptj/78.9.951",
+          "article-title": "Use of generic versus region-specific functional status measures on patients with cervical spine disorders",
+          "volume": "78",
+          "author": "Riddle",
+          "year": "1998",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R47",
+          "doi-asserted-by": "crossref",
+          "first-page": "331",
+          "DOI": "10.2519/jospt.1998.27.5.331",
+          "article-title": "The patient-specific functional scale: validation of its use in persons with neck dysfunction",
+          "volume": "27",
+          "author": "Westaway",
+          "year": "1998",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R48",
+          "doi-asserted-by": "crossref",
+          "first-page": "1290",
+          "DOI": "10.1097/00007632-199907010-00004",
+          "article-title": "Development of the Neck Pain and Disability Scale: item analysis, face, and criterion-related validity",
+          "volume": "24",
+          "author": "Wheeler",
+          "year": "1999",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R49",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1016/j.math.2004.08.005",
+          "article-title": "Immediate effects of thoracic manipulation in patients with neck pain: a randomized clinical trial",
+          "volume": "10",
+          "author": "Cleland",
+          "year": "2005",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "2019123111481632300_R50",
+          "doi-asserted-by": "crossref",
+          "first-page": "701",
+          "DOI": "10.2519/jospt.2004.34.11.701",
+          "article-title": "Intermittent cervical traction and thoracic manipulation for management of mild cervical compressive myelopathy attributed to cervical herniated disc: a case series",
+          "volume": "34",
+          "author": "Browder",
+          "year": "2004",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R51",
+          "doi-asserted-by": "crossref",
+          "first-page": "207",
+          "DOI": "10.2519/jospt.2001.31.4.207",
+          "article-title": "Clinical outcome from mechanical intermittent cervical traction for the treatment of cervical radiculopathy: a case series",
+          "volume": "31",
+          "author": "Moeti",
+          "year": "2001",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R52",
+          "doi-asserted-by": "crossref",
+          "first-page": "1877",
+          "DOI": "10.1097/00007632-199608150-00008",
+          "article-title": "Nonoperative management of herniated cervical intervertebral disc with radiculopathy",
+          "volume": "21",
+          "author": "Saal",
+          "year": "1996",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R53",
+          "doi-asserted-by": "crossref",
+          "first-page": "4",
+          "DOI": "10.2519/jospt.2000.30.1.4",
+          "article-title": "Neck retractions, cervical root decompression, and radicular pain",
+          "volume": "30",
+          "author": "Abdulwahab",
+          "year": "2000",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R54",
+          "doi-asserted-by": "crossref",
+          "first-page": "879",
+          "DOI": "10.1191/0269215504cr828oa",
+          "article-title": "The effect of cervical traction combined with conventional therapy on grip strength on patients with cervical radiculopathy",
+          "volume": "18",
+          "author": "Joghataei",
+          "year": "2004",
+          "journal-title": "Clin Rehabil"
+        },
+        {
+          "key": "2019123111481632300_R55",
+          "doi-asserted-by": "crossref",
+          "first-page": "2383",
+          "DOI": "10.1097/00007632-200211010-00013",
+          "article-title": "Two-year follow-up of a randomized clinical trial of spinal manipulation and two types of exercise for patients with chronic neck pain",
+          "volume": "27",
+          "author": "Evans",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R56",
+          "doi-asserted-by": "crossref",
+          "first-page": "475",
+          "DOI": "10.1136/bmj.327.7413.475",
+          "article-title": "Effectiveness of dynamic muscle training, relaxation training, or ordinary activity for chronic neck pain: randomised controlled trial",
+          "volume": "327",
+          "author": "Viljanen",
+          "year": "2003",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "2019123111481632300_R57",
+          "doi-asserted-by": "crossref",
+          "first-page": "738",
+          "DOI": "10.1111/j.1526-4610.2005.05141.x",
+          "article-title": "Physical treatments for headache: a structured review",
+          "volume": "45",
+          "author": "Biondi",
+          "year": "2005",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "2019123111481632300_R58",
+          "doi-asserted-by": "crossref",
+          "first-page": "1109",
+          "DOI": "10.1093/ptj/76.10.1109",
+          "article-title": "Health status measures: strategies and analytic methods for assessing change scores",
+          "volume": "76",
+          "author": "Stratford",
+          "year": "1996",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R59",
+          "first-page": "872",
+          "article-title": "Management of back and neck pain: who seeks care from physical therapists",
+          "volume": "85",
+          "author": "Freburger",
+          "year": "2005",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R60",
+          "doi-asserted-by": "crossref",
+          "first-page": "E459",
+          "DOI": "10.1097/01.brs.0000174279.44855.02",
+          "article-title": "Predictors of outcome in neck and shoulder symptoms: a cohort study in general practice",
+          "volume": "30",
+          "author": "Bot",
+          "year": "2005",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123111481632300_R61",
+          "doi-asserted-by": "crossref",
+          "first-page": "75",
+          "DOI": "10.1136/bmj.38286.493206.82",
+          "article-title": "Randomised trial of a brief physiotherapy intervention compared with usual physiotherapy for neck pain patients: outcomes and patients’ preference",
+          "volume": "330",
+          "author": "Klaber Moffett",
+          "year": "2005",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "2019123111481632300_R62",
+          "doi-asserted-by": "crossref",
+          "first-page": "289",
+          "DOI": "10.1016/j.spinee.2005.11.002",
+          "article-title": "Does the evidence for spinal manipulation translate into better outcomes in routine clinical care for patients with occupational low back pain",
+          "volume": "6",
+          "author": "Fritz",
+          "year": "2006",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "2019123111481632300_R63",
+          "doi-asserted-by": "crossref",
+          "first-page": "639",
+          "DOI": "10.1016/j.pain.2004.05.002",
+          "article-title": "Prognostic factors for neck pain in general practice",
+          "volume": "110",
+          "author": "Hoving",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2019123111481632300_R64",
+          "first-page": "1701",
+          "article-title": "Philadelphia Panel evidence-based clinical practice guidelines on selected rehabilitation interventions for neck pain",
+          "volume": "81",
+          "year": "2001",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2019123111481632300_R65",
+          "doi-asserted-by": "crossref",
+          "first-page": "1872",
+          "DOI": "10.2106/00004623-200210000-00021",
+          "article-title": "Neck pain, cervical radiculopathy, and cervical myelopathy: pathophysiology, natural history, and clinical evaluation",
+          "volume": "84",
+          "author": "Rao",
+          "year": "2002",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "2019123111481632300_R66",
+          "doi-asserted-by": "crossref",
+          "first-page": "443",
+          "DOI": "10.1016/j.jmpt.2005.06.011",
+          "article-title": "A systematic review of conservative treatments for acute neck pain not due to whiplash",
+          "volume": "28",
+          "author": "Vernon",
+          "year": "2005",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2019123111481632300_R67",
+          "doi-asserted-by": "crossref",
+          "first-page": "408",
+          "DOI": "10.1001/jama.1995.03520290060030",
+          "article-title": "Empirical evidence of bias: dimensions of methodological quality associated with estimates of treatment effects in controlled trials",
+          "volume": "273",
+          "author": "Schulz",
+          "year": "1995",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "2019123111481632300_R68",
+          "doi-asserted-by": "crossref",
+          "first-page": "758",
+          "DOI": "10.1016/j.injury.2005.01.006",
+          "article-title": "The fluctuation in recovery following whiplash injury 7",
+          "volume": "36",
+          "author": "Tomlinson",
+          "year": "2005",
+          "journal-title": "Injury"
+        },
+        {
+          "key": "2019123111481632300_R69",
+          "doi-asserted-by": "crossref",
+          "first-page": "312",
+          "DOI": "10.1016/j.jmpt.2005.04.009",
+          "article-title": "Does clinician treatment choice improve the outcomes of manual therapy for nonspecific low back pain? A meta-analysis",
+          "volume": "28",
+          "author": "Kent",
+          "year": "2005",
+          "journal-title": "J Manipulative Physiol Ther"
+        }
+      ],
+      "container-title": [
+        "Physical Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://academic.oup.com/ptj/article-pdf/87/5/513/31669324/ptj0513.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "http://academic.oup.com/ptj/article-pdf/87/5/513/31669324/ptj0513.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            12,
+            31
+          ]
+        ],
+        "date-time": "2019-12-31T11:48:32Z",
+        "timestamp": 1577792912000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://academic.oup.com/ptj/article/87/5/513/2742165"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2007,
+            5,
+            1
+          ]
+        ]
+      },
+      "references-count": 69,
+      "journal-issue": {
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2007,
+              5,
+              1
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.2522/ptj.20060192",
+      "relation": {},
+      "ISSN": [
+        "0031-9023",
+        "1538-6724"
+      ],
+      "issn-type": [
+        {
+          "value": "0031-9023",
+          "type": "print"
+        },
+        {
+          "value": "1538-6724",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2007,
+            5,
+            1
+          ]
+        ]
+      }
+    }
+  }
+}

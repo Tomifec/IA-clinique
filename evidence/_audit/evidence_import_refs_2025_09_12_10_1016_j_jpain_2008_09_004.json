@@ -1,0 +1,597 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jpain_2008_09_004.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jpain_2008_09_004",
+  "doi": "10.1016/j.jpain.2008.09.004",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:45.765308Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            16
+          ]
+        ],
+        "date-time": "2025-07-16T13:45:03Z",
+        "timestamp": 1752673503859
+      },
+      "reference-count": 33,
+      "publisher": "Elsevier BV",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2009,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2009-03-01T00:00:00Z",
+            "timestamp": 1235865600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                9,
+                11
+              ]
+            ],
+            "date-time": "2023-09-11T00:00:00Z",
+            "timestamp": 1694390400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 5307,
+          "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "clinicalkey.es",
+          "clinicalkey.com.au",
+          "clinicalkey.com",
+          "jpain.org",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The Journal of Pain"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jpain.2008.09.004",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2008,
+            12,
+            14
+          ]
+        ],
+        "date-time": "2008-12-14T09:41:09Z",
+        "timestamp": 1229247669000
+      },
+      "page": "293-299",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 71,
+      "title": [
+        "Psychologic Influence on Experimental Pain Sensitivity and Clinical Pain Intensity for Patients with Shoulder Pain"
+      ],
+      "prefix": "10.1016",
+      "volume": "10",
+      "author": [
+        {
+          "given": "Steven Z.",
+          "family": "George",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Adam T.",
+          "family": "Hirsh",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "273",
+          "DOI": "10.1016/j.ejpain.2003.09.005",
+          "article-title": "The Fear of Pain questionnaire: Factor structure in samples of young, middle-aged and elderly European people",
+          "volume": "8",
+          "author": "Albaret",
+          "year": "2004",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "311",
+          "DOI": "10.1016/j.jpain.2007.11.005",
+          "article-title": "Catastrophizing and pain-coping in young adults: Associations with depressive symptoms and headache pain",
+          "volume": "9",
+          "author": "Buenaver",
+          "year": "2008",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "722",
+          "DOI": "10.1097/00007632-199503150-00014",
+          "article-title": "Psychosocial predictors of outcome in acute and subchronic low back trouble",
+          "volume": "20",
+          "author": "Burton",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "267",
+          "DOI": "10.1016/0304-3959(96)03131-4",
+          "article-title": "Dimensions of the impact of cancer pain in a four country sample: New information from multidimensional scaling",
+          "volume": "67",
+          "author": "Cleeland",
+          "year": "1996",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib5",
+          "first-page": "129",
+          "article-title": "Pain assessment: Global use of the Brief Pain Inventory",
+          "volume": "23",
+          "author": "Cleeland",
+          "year": "1994",
+          "journal-title": "Ann Acad Med Singapore"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "361",
+          "DOI": "10.1023/B:JOBM.0000042410.34535.64",
+          "article-title": "Testing factorial validity and gender invariance of the pain catastrophizing scale",
+          "volume": "27",
+          "author": "D'Eon",
+          "year": "2004",
+          "journal-title": "J Behav Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "31",
+          "DOI": "10.1016/S0005-7894(05)80306-5",
+          "article-title": "Differences in cognitive coping strategies among pain sensitive and pain tolerant individuals on the cold pressor test",
+          "volume": "23",
+          "author": "Geisser",
+          "year": "1992",
+          "journal-title": "Behav Ther"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "457",
+          "DOI": "10.1016/j.ejpain.2005.06.007",
+          "article-title": "Fear of pain, not pain catastrophizing, predicts acute pain intensity, but neither factor predicts tolerance or blood pressure reactivity: An experimental investigation in pain-free individuals",
+          "volume": "10",
+          "author": "George",
+          "year": "2006",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "354",
+          "DOI": "10.2519/jospt.2006.2270",
+          "article-title": "Sex differences in predictors of outcome in physical therapy intervention for acute low back pain",
+          "volume": "36",
+          "author": "George",
+          "year": "2006",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "2",
+          "DOI": "10.1016/j.jpain.2006.05.009",
+          "article-title": "Sex and pain-related psychological variables are associated with thermal pain sensitivity for patients with chronic low back pain",
+          "volume": "8",
+          "author": "George",
+          "year": "2007",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "439",
+          "DOI": "10.1097/01.ajp.0000135236.12705.2d",
+          "article-title": "The roles of pain catastrophizing and anxiety in the prediction of postoperative pain intensity: a prospective study",
+          "volume": "21",
+          "author": "Granot",
+          "year": "2005",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "806",
+          "DOI": "10.1016/j.jpain.2008.03.012",
+          "article-title": "Fear of pain, pain catastrophizing, and acute pain perception: Relative prediction and timing of assessment",
+          "volume": "9",
+          "author": "Hirsh",
+          "year": "2008",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "51",
+          "DOI": "10.1016/0304-3959(89)90152-8",
+          "article-title": "Coping with rheumatoid arthritis pain: Catastrophizing as a maladaptive strategy",
+          "volume": "37",
+          "author": "Keefe",
+          "year": "1989",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "325",
+          "DOI": "10.1016/S0304-3959(00)00296-7",
+          "article-title": "The relationship of gender to pain, pain behavior, and disability in osteoarthritis patients: The role of catastrophizing",
+          "volume": "87",
+          "author": "Keefe",
+          "year": "2000",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1007/s10865-006-9085-0",
+          "article-title": "The fear-avoidance model of musculoskeletal pain: Current state of scientific evidence",
+          "volume": "30",
+          "author": "Leeuw",
+          "year": "2007",
+          "journal-title": "J Behav Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "389",
+          "DOI": "10.1023/A:1018782831217",
+          "article-title": "Development of the Fear of Pain Questionnaire–III",
+          "volume": "21",
+          "author": "McNeil",
+          "year": "1998",
+          "journal-title": "J Behav Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.1023/A:1014884704974",
+          "article-title": "The Fear of Pain Questionnaire-III: Further reliability and validity with nonclinical samples",
+          "volume": "25",
+          "author": "Osman",
+          "year": "2002",
+          "journal-title": "J Behav Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "1028",
+          "DOI": "10.1093/aje/kwf136",
+          "article-title": "Pain catastrophizing and kinesiophobia: Predictors of chronic low back pain",
+          "volume": "156",
+          "author": "Picavet",
+          "year": "2002",
+          "journal-title": "Am J Epidemiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "265",
+          "DOI": "10.3109/08990229209144776",
+          "article-title": "A psychophysical comparison of sensory and affective responses to four modalities of experimental pain",
+          "volume": "9",
+          "author": "Rainville",
+          "year": "1992",
+          "journal-title": "Somatosens Mot Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "181",
+          "DOI": "10.1016/S0304-3959(97)00199-1",
+          "article-title": "Sex differences in the perception of noxious experimental stimuli: A meta-analysis",
+          "volume": "74",
+          "author": "Riley",
+          "year": "1998",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "284",
+          "DOI": "10.1016/S1526-5900(03)00559-5",
+          "article-title": "Altering gender role expectations: Effects on pain tolerance, pain threshold, and pain ratings",
+          "volume": "4",
+          "author": "Robinson",
+          "year": "2003",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "413",
+          "DOI": "10.1023/A:1026282210848",
+          "article-title": "Sex differences in clinical pain: A multisample study",
+          "volume": "5",
+          "author": "Robinson",
+          "year": "1998",
+          "journal-title": "J Clin Psychol Med Settings"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "33",
+          "DOI": "10.1016/0304-3959(83)90125-2",
+          "article-title": "The use of coping strategies in chronic low back pain patients: Relationship to patient characteristics and current adjustment",
+          "volume": "17",
+          "author": "Rosenstiel",
+          "year": "1983",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "257",
+          "DOI": "10.1016/j.ejpain.2004.07.005",
+          "article-title": "The causal status of pain catastrophizing: An experimental test with healthy participants",
+          "volume": "9",
+          "author": "Severeijns",
+          "year": "2005",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "R245",
+          "DOI": "10.1152/ajpregu.00920.2005",
+          "article-title": "Does experimental pain response vary across the menstrual cycle? A methodological review",
+          "volume": "291",
+          "author": "Sherman",
+          "year": "2006",
+          "journal-title": "Am J Physiol Regul Integr Comp Physiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "253",
+          "DOI": "10.1016/S0304-3959(98)00097-9",
+          "article-title": "Catastrophizing, pain, and disability in patients with soft-tissue injuries",
+          "volume": "77",
+          "author": "Sullivan",
+          "year": "1998",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "524",
+          "DOI": "10.1037/1040-3590.7.4.524",
+          "article-title": "The Pain Catastrophizing Scale: Development and validation",
+          "volume": "7",
+          "author": "Sullivan",
+          "year": "1995",
+          "journal-title": "Psychol Assess"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "121",
+          "DOI": "10.1023/A:1005459110063",
+          "article-title": "Gender differences in pain and pain behavior: The role of catastrophizing",
+          "volume": "24",
+          "author": "Sullivan",
+          "year": "2000",
+          "journal-title": "Cogn Ther Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "133",
+          "DOI": "10.1016/j.jpain.2003.12.005",
+          "article-title": "Validation of the Brief Pain Inventory for chronic nonmalignant pain",
+          "volume": "5",
+          "author": "Tan",
+          "year": "2004",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "139",
+          "DOI": "10.1016/S0304-3959(99)00041-X",
+          "article-title": "Does sex make a difference in the prescription of treatments and the adaptation to chronic pain by cancer and non-cancer patients?",
+          "volume": "82",
+          "author": "Turk",
+          "year": "1999",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "319",
+          "DOI": "10.1016/S0304-3959(01)00463-8",
+          "article-title": "A confirmatory factor analysis of the Pain Catastrophizing Scale: Invariant factor structure across clinical and non-clinical populations",
+          "volume": "96",
+          "author": "Van Damme",
+          "year": "2002",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "761",
+          "DOI": "10.1016/S0005-7967(03)00195-5",
+          "article-title": "Adjustment to chronic low back pain: The relative influence of fear-avoidance beliefs, catastrophizing, and appraisals of control",
+          "volume": "42",
+          "author": "Woby",
+          "year": "2004",
+          "journal-title": "Behav Res Ther"
+        },
+        {
+          "key": "10.1016/j.jpain.2008.09.004_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "201",
+          "DOI": "10.1016/j.ejpain.2003.08.002",
+          "article-title": "Are changes in fear-avoidance beliefs, catastrophizing, and appraisals of control, predictive of changes in chronic low back pain and disability?",
+          "volume": "8",
+          "author": "Woby",
+          "year": "2004",
+          "journal-title": "Eur J Pain"
+        }
+      ],
+      "container-title": [
+        "The Journal of Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1526590008007426?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1526590008007426?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            16
+          ]
+        ],
+        "date-time": "2023-09-16T18:19:39Z",
+        "timestamp": 1694888379000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1526590008007426"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2009,
+            3
+          ]
+        ]
+      },
+      "references-count": 33,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              3
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1526590008007426"
+      ],
+      "URL": "https://doi.org/10.1016/j.jpain.2008.09.004",
+      "relation": {},
+      "ISSN": [
+        "1526-5900"
+      ],
+      "issn-type": [
+        {
+          "value": "1526-5900",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2009,
+            3
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Psychologic Influence on Experimental Pain Sensitivity and Clinical Pain Intensity for Patients with Shoulder Pain",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "The Journal of Pain",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jpain.2008.09.004",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "Copyright © 2009 American Pain Society. Published by Elsevier Inc. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_apmr_2015_10_009.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_apmr_2015_10_009",
+  "doi": "10.1016/j.apmr.2015.10.009",
+  "pmid": "39915132",
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:32.687808Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            2
+          ]
+        ],
+        "date-time": "2022-04-02T05:05:53Z",
+        "timestamp": 1648875953048
+      },
+      "reference-count": 0,
+      "publisher": "Elsevier BV",
+      "issue": "12",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2015-12-01T00:00:00Z",
+            "timestamp": 1448928000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Archives of Physical Medicine and Rehabilitation"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.apmr.2015.10.009",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2015,
+            11,
+            22
+          ]
+        ],
+        "date-time": "2015-11-22T09:30:17Z",
+        "timestamp": 1448184617000
+      },
+      "page": "e7",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "WITHDRAWN"
+      ],
+      "prefix": "10.1016",
+      "volume": "96",
+      "member": "78",
+      "container-title": [
+        "Archives of Physical Medicine and Rehabilitation"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0003999315012538?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0003999315012538?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2018,
+            9,
+            17
+          ]
+        ],
+        "date-time": "2018-09-17T14:22:24Z",
+        "timestamp": 1537194144000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0003999315012538"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2015,
+            12
+          ]
+        ]
+      },
+      "references-count": 0,
+      "journal-issue": {
+        "issue": "12",
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0003999315012538"
+      ],
+      "URL": "https://doi.org/10.1016/j.apmr.2015.10.009",
+      "relation": {},
+      "ISSN": [
+        "0003-9993"
+      ],
+      "issn-type": [
+        {
+          "value": "0003-9993",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            12
+          ]
+        ]
+      }
+    },
+    "pubmed_summary": {
+      "uid": "39915132",
+      "pubdate": "2025 Mar 1",
+      "epubdate": "2025 Feb 5",
+      "source": "Environ Res",
+      "authors": [
+        {
+          "name": "Christina B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thanigaimani K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sudhakaran R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohan S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arumugam N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Almansour AI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mahalingam SM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mahalingam SM",
+      "title": "Retraction notice to \"Pyto-Architechture of Ag, Au and Ag-Au bi-metallic nanoparticles using waste orange peel extract for enable carcinogenic Congo red dye degradation\" [Environ. Res. 242 (2024) 117625].",
+      "sorttitle": "retraction notice to pyto architechture of ag au and ag au bi metallic nanoparticles using waste orange peel extract for enable carcinogenic congo red dye degradation environ res 242 2024 117625",
+      "volume": "268",
+      "issue": "",
+      "pages": "120991",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147621",
+      "issn": "0013-9351",
+      "essn": "1096-0953",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39915132"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.envres.2025.120991"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0013-9351(25)00242-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/02/07 00:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/02/07 00:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/02/06 21:57"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Environ Res. 2024 Feb 1;242:117625. doi: 10.1016/j.envres.2023.117625.",
+          "reftype": "Retraction of",
+          "pmid": 38007079,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Environmental research",
+      "elocationid": "doi: 10.1016/j.envres.2025.120991",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/03/01 00:00",
+      "sortfirstauthor": "Christina B",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_7759_cureus_25664.md",
+  "id": "evidence_import_refs_2025_09_12_10_7759_cureus_25664",
+  "doi": "10.7759/cureus.25664",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:09:01.302026Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            10
+          ]
+        ],
+        "date-time": "2024-02-10T00:24:22Z",
+        "timestamp": 1707524662869
+      },
+      "reference-count": 26,
+      "publisher": "Springer Science and Business Media LLC",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            6,
+            4
+          ]
+        ]
+      },
+      "DOI": "10.7759/cureus.25664",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            6,
+            5
+          ]
+        ],
+        "date-time": "2022-06-05T06:03:25Z",
+        "timestamp": 1654409005000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 2,
+      "title": [
+        "Insights and Strategies to Revive Brachytherapy Using Social Media: A Google Trends Analysis"
+      ],
+      "prefix": "10.7759",
+      "author": [
+        {
+          "given": "Kaidi",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Gary",
+          "family": "Lewis",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "reference": [
+        {
+          "key": "ref1",
+          "article-title": "Perez & Brady's principles and practice of radiation oncology sixth edition",
+          "author": "Halperin EC",
+          "year": "2018",
+          "unstructured": "Halperin EC, Wazer DE, Perez CA, Brady LW. Perez &amp; Brady's principles and practice of radiation oncology sixth edition. Wolters Kluwer Health/Lippincott Williams &amp; Wilkins, Philadelphia, PA; 2018."
+        },
+        {
+          "key": "ref2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nrurol.2017.76",
+          "article-title": "Evolution of brachytherapy for prostate cancer",
+          "volume": "14",
+          "author": "Zaorsky NG",
+          "year": "2017",
+          "unstructured": "Zaorsky NG, Davis BJ, Nguyen PL, et al.. Evolution of brachytherapy for prostate cancer. Nat Rev Urol. 2017, 14:415-39. 10.1038/nrurol.2017.76",
+          "journal-title": "Nat Rev Urol"
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10147-017-1155-5",
+          "article-title": "Brachytherapy in the treatment of breast cancer",
+          "volume": "22",
+          "author": "Deng X",
+          "year": "2017",
+          "unstructured": "Deng X, Wu H, Gao F, Su Y, Li Q, Liu S, Cai J. Brachytherapy in the treatment of breast cancer. Int J Clin Oncol. 2017, 22:641-50. 10.1007/s10147-017-1155-5",
+          "journal-title": "Int J Clin Oncol"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijrobp.2013.05.033",
+          "article-title": "Trends in the utilization of brachytherapy in cervical cancer in the United States",
+          "volume": "87",
+          "author": "Han K",
+          "year": "2013",
+          "unstructured": "Han K, Milosevic M, Fyles A, Pintilie M, Viswanathan AN. Trends in the utilization of brachytherapy in cervical cancer in the United States. Int J Radiat Oncol Biol Phys. 2013, 87:111-9. 10.1016/j.ijrobp.2013.05.033",
+          "journal-title": "Int J Radiat Oncol Biol Phys"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/d41586-019-03275-z",
+          "article-title": "The declining art of brachytherapy",
+          "volume": "574",
+          "author": "Eisenstein M",
+          "year": "2019",
+          "unstructured": "Eisenstein M. The declining art of brachytherapy. Nature. 2019, 574:S81. 10.1038/d41586-019-03275-z",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "ref6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.radonc.2020.09.025",
+          "article-title": "Challenges influencing the utilization of prostate brachytherapy in the United States",
+          "volume": "154",
+          "author": "Odei B",
+          "year": "2021",
+          "unstructured": "Odei B, Bae S, Diaz DA. Challenges influencing the utilization of prostate brachytherapy in the United States. Radiother Oncol. 2021, 154:123-4. 10.1016/j.radonc.2020.09.025",
+          "journal-title": "Radiother Oncol"
+        },
+        {
+          "key": "ref7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.semradonc.2019.08.007",
+          "article-title": "The cost-effectiveness and value proposition of brachytherapy",
+          "volume": "30",
+          "author": "Vu CC",
+          "year": "2020",
+          "unstructured": "Vu CC, Jawad MS, Krauss DJ. The cost-effectiveness and value proposition of brachytherapy. Semin Radiat Oncol. 2020, 30:87-93. 10.1016/j.semradonc.2019.08.007",
+          "journal-title": "Semin Radiat Oncol"
+        },
+        {
+          "key": "ref8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1200/JCO.2014.59.8128",
+          "article-title": "Brachytherapy: where has it gone?",
+          "volume": "33",
+          "author": "Petereit DG",
+          "year": "2015",
+          "unstructured": "Petereit DG, Frank SJ, Viswanathan AN, Erickson B, Eifel P, Nguyen PL, Wazer DE. Brachytherapy: where has it gone?. J Clin Oncol. 2015, 33:980-2. 10.1200/JCO.2014.59.8128",
+          "journal-title": "J Clin Oncol"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.amjsurg.2020.10.020",
+          "article-title": "#ILookLikeASurgeon: or do I? The local and global impact of a hashtag",
+          "volume": "221",
+          "author": "Ansari H",
+          "year": "2021",
+          "unstructured": "Ansari H, Pitt SC. #ILookLikeASurgeon: or do I? The local and global impact of a hashtag. Am J Surg. 2021, 221:908-9. 10.1016/j.amjsurg.2020.10.020",
+          "journal-title": "Am J Surg"
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.adro.2019.01.003",
+          "article-title": "#WomenWhoCurie: leveraging social media to promote women in radiation oncology",
+          "volume": "4",
+          "author": "Albert AA",
+          "year": "2019",
+          "unstructured": "Albert AA, Knoll MA, Doke K, et al.. #WomenWhoCurie: leveraging social media to promote women in radiation oncology. Adv Radiat Oncol. 2019, 4:218-25. 10.1016/j.adro.2019.01.003",
+          "journal-title": "Adv Radiat Oncol"
+        },
+        {
+          "key": "ref11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1200/EDBK_180077",
+          "article-title": "Social media for networking, professional development, and patient engagement",
+          "volume": "37",
+          "author": "Markham MJ",
+          "year": "2017",
+          "unstructured": "Markham MJ, Gentile D, Graham DL. Social media for networking, professional development, and patient engagement. Am Soc Clin Oncol Educ Book. 2017, 37:782-7. 10.1200/EDBK_180077",
+          "journal-title": "Am Soc Clin Oncol Educ Book"
+        },
+        {
+          "key": "ref12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1200/JOP.18.00367",
+          "article-title": "Patients with cancer and social media: harness benefits, avoid drawbacks",
+          "author": "Gentile D",
+          "year": "2018",
+          "unstructured": "Gentile D, Markham MJ, Eaton T. Patients with cancer and social media: harness benefits, avoid drawbacks. J Oncol Pract. 2018, JOP1800367. 10.1200/JOP.18.00367",
+          "journal-title": "J Oncol Pract"
+        },
+        {
+          "key": "ref13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.brachy.2020.07.003",
+          "article-title": "#ThisIsBrachytherapy: increasing awareness of brachytherapy",
+          "volume": "20",
+          "author": "Kahn JM",
+          "year": "2021",
+          "unstructured": "Kahn JM, Campbell SR, Albert AA, Knoll MA, Shah C. #ThisIsBrachytherapy: increasing awareness of brachytherapy. Brachytherapy. 2021, 20:232-6. 10.1016/j.brachy.2020.07.003",
+          "journal-title": "Brachytherapy"
+        },
+        {
+          "key": "ref14",
+          "unstructured": "American Cancer Society. Cancer facts and figures. (2020). https://www.cancer.org/content/dam/cancer-org/research/cancer-facts-and-statistics/annual-cancer-facts-and-figures/20...."
+        },
+        {
+          "key": "ref15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/gim.2014.141",
+          "article-title": "Celebrity disclosures and information seeking: the case of Angelina Jolie",
+          "volume": "17",
+          "author": "Juthe RH",
+          "year": "2014",
+          "unstructured": "Juthe RH, Zaharchuk A, Wang C. Celebrity disclosures and information seeking: the case of Angelina Jolie. Genet Med. 2014, 17:545-53. 10.1038/gim.2014.141",
+          "journal-title": "Genet Med"
+        },
+        {
+          "key": "ref16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s13058-014-0442-6",
+          "article-title": "The Angelina Jolie effect: how high celebrity profile can have a major impact on provision of cancer related services",
+          "volume": "16",
+          "author": "Evans DG",
+          "year": "2014",
+          "unstructured": "Evans DG, Barwell J, Eccles DM, et al.. The Angelina Jolie effect: how high celebrity profile can have a major impact on provision of cancer related services. Breast Cancer Res. 2014, 16:442. 10.1186/s13058-014-0442-6",
+          "journal-title": "Breast Cancer Res"
+        },
+        {
+          "key": "ref17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.i6357",
+          "article-title": "Do celebrity endorsements matter? Observational study of BRCA gene testing and mastectomy rates after Angelina Jolie's New York Times editorial",
+          "volume": "355",
+          "author": "Desai S",
+          "year": "2016",
+          "unstructured": "Desai S, Jena AB. Do celebrity endorsements matter? Observational study of BRCA gene testing and mastectomy rates after Angelina Jolie's New York Times editorial. BMJ. 2016, 355:i6357. 10.1136/bmj.i6357",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1159/000506458",
+          "article-title": "What can Twitter tell us about skin cancer communication and prevention on social media?",
+          "volume": "236",
+          "author": "Silva CV",
+          "year": "2020",
+          "unstructured": "Silva CV, Jayasinghe D, Janda M. What can Twitter tell us about skin cancer communication and prevention on social media?. Dermatology. 2020, 236:81-9. 10.1159/000506458",
+          "journal-title": "Dermatology"
+        },
+        {
+          "key": "ref19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.chb.2018.12.024",
+          "article-title": "What makes cancer information viral on social media?",
+          "volume": "93",
+          "author": "Wang X",
+          "year": "2019",
+          "unstructured": "Wang X, Chen L, Shi J, Peng TQ. What makes cancer information viral on social media?. Comput Hum Behav. 2019, 93:149-56. 10.1016/j.chb.2018.12.024",
+          "journal-title": "Comput Hum Behav"
+        },
+        {
+          "key": "ref20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.brachy.2018.07.015",
+          "article-title": "Twitter and brachytherapy: an analysis of \"tweets\" over six years by patients and health care professionals",
+          "volume": "17",
+          "author": "Thomas J",
+          "year": "2018",
+          "unstructured": "Thomas J, Prabhu AV, Heron DE, Beriwal S. Twitter and brachytherapy: an analysis of \"tweets\" over six years by patients and health care professionals. Brachytherapy. 2018, 17:1004-10. 10.1016/j.brachy.2018.07.015",
+          "journal-title": "Brachytherapy"
+        },
+        {
+          "key": "ref21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.inat.2018.05.005",
+          "article-title": "Patient perception of gamma knife stereotactic radiosurgery through twitter and instagram",
+          "volume": "13",
+          "author": "Jacobs R",
+          "year": "2018",
+          "unstructured": "Jacobs R, Prabhub AV, MonacoIIIa EA, Tonettia D, Agarwal N. Patient perception of gamma knife stereotactic radiosurgery through twitter and instagram. Interdiscip Neurosurg. 2018, 13:138-40. 10.1016/j.inat.2018.05.005",
+          "journal-title": "Interdiscip Neurosurg"
+        },
+        {
+          "key": "ref22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3332/ecancer.2020.1154",
+          "article-title": "The impact of monthly campaigns and other high-profile media coverage on public interest in 13 malignancies: a Google Trends analysis",
+          "volume": "14",
+          "author": "Cohen SA",
+          "year": "2020",
+          "unstructured": "Cohen SA, Cohen LE, Tijerina JD. The impact of monthly campaigns and other high-profile media coverage on public interest in 13 malignancies: a Google Trends analysis. Ecancermedicalscience. 2020, 14:1154. 10.3332/ecancer.2020.1154",
+          "journal-title": "Ecancermedicalscience"
+        },
+        {
+          "key": "ref23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2407-11-442",
+          "article-title": "The effect of breast cancer awareness month on internet search activity - a comparison with awareness campaigns for lung and prostate cancer",
+          "volume": "11",
+          "author": "Glynn RW",
+          "year": "2011",
+          "unstructured": "Glynn RW, Kelly JC, Coffey N, Sweeney KJ, Kerin MJ. The effect of breast cancer awareness month on internet search activity - a comparison with awareness campaigns for lung and prostate cancer. BMC Cancer. 2011, 11:442. 10.1186/1471-2407-11-442",
+          "journal-title": "BMC Cancer"
+        },
+        {
+          "key": "ref24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pec.2013.06.020",
+          "article-title": "Patients' and health professionals' use of social media in health care: motives, barriers and expectations",
+          "volume": "92",
+          "author": "Antheunis ML",
+          "year": "2013",
+          "unstructured": "Antheunis ML, Tates K, Nieboer TE. Patients' and health professionals' use of social media in health care: motives, barriers and expectations. Patient Educ Couns. 2013, 92:426-31. 10.1016/j.pec.2013.06.020",
+          "journal-title": "Patient Educ Couns"
+        },
+        {
+          "key": "ref25",
+          "unstructured": "FAQ about Google Trends data. (2021). https.//support.google.com/trends/answer/4365533."
+        },
+        {
+          "key": "ref26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00464-020-07413-x",
+          "article-title": "Has National Colorectal Cancer Awareness Month increased endoscopy screening rates and public interest in colorectal cancer?",
+          "volume": "35",
+          "author": "Pantel HJ",
+          "year": "2021",
+          "unstructured": "Pantel HJ, Kleiman DA, Kuhnen AH, Marcello PW, Stafford C, Ricciardi R. Has National Colorectal Cancer Awareness Month increased endoscopy screening rates and public interest in colorectal cancer?. Surg Endosc. 2021, 35:398-405. 10.1007/s00464-020-07413-x",
+          "journal-title": "Surg Endosc"
+        }
+      ],
+      "container-title": [
+        "Cureus"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.cureus.com/articles/96744-insights-and-strategies-to-revive-brachytherapy-using-social-media-a-google-trends-analysis",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            9
+          ]
+        ],
+        "date-time": "2024-02-09T19:44:29Z",
+        "timestamp": 1707507869000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.cureus.com/articles/96744-insights-and-strategies-to-revive-brachytherapy-using-social-media-a-google-trends-analysis"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            6,
+            4
+          ]
+        ]
+      },
+      "references-count": 26,
+      "URL": "https://doi.org/10.7759/cureus.25664",
+      "relation": {},
+      "ISSN": [
+        "2168-8184"
+      ],
+      "issn-type": [
+        {
+          "value": "2168-8184",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            6,
+            4
+          ]
+        ]
+      }
+    }
+  }
+}

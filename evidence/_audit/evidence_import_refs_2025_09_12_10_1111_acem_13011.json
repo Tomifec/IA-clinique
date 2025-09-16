@@ -1,0 +1,256 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1111_acem_13011.md",
+  "id": "evidence_import_refs_2025_09_12_10_1111_acem_13011",
+  "doi": "10.1111/acem.13011",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:35.988358Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            15
+          ]
+        ],
+        "date-time": "2024-09-15T18:30:28Z",
+        "timestamp": 1726425028427
+      },
+      "reference-count": 5,
+      "publisher": "Wiley",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                8,
+                4
+              ]
+            ],
+            "date-time": "2016-08-04T00:00:00Z",
+            "timestamp": 1470268800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 3,
+          "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Academic Emergency Medicine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1111/acem.13011",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2016,
+            5,
+            10
+          ]
+        ],
+        "date-time": "2016-05-10T15:36:37Z",
+        "timestamp": 1462894597000
+      },
+      "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 5,
+      "title": [
+        "Techniques for Improving Video Laryngoscopy With a Hyperangulated Blade"
+      ],
+      "prefix": "10.1111",
+      "volume": "23",
+      "author": [
+        {
+          "given": "Michael P.",
+          "family": "Phelan",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Cleveland Clinic Emergency Services Institute Cleveland OH"
+            }
+          ]
+        },
+        {
+          "given": "Jatin",
+          "family": "Dhimar",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Emergency Medicine Combined MetroHealth Medical Center Cleveland OH"
+            },
+            {
+              "name": "Cleveland Clinic Emergency Medicine Residency Cleveland OH"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "published-online": {
+        "date-parts": [
+          [
+            2016,
+            8,
+            4
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_2_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ajem.2015.05.003"
+        },
+        {
+          "key": "e_1_2_2_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.annemergmed.2010.05.035"
+        },
+        {
+          "key": "e_1_2_2_4_1",
+          "unstructured": "LevitanRM.Tips for Using a Hyperangulated Video Laryngoscope. ACEPNow December 15 2015. Available at:www.acepnow.com/article/tips-for-using-a-hyperangulated-video-laryngoscope/2/. Accessed Mar 4 2016."
+        },
+        {
+          "key": "e_1_2_2_5_1",
+          "first-page": "139",
+          "volume-title": "Manual of Emergency Airway Management",
+          "author": "Sakles JC",
+          "year": "2012"
+        },
+        {
+          "key": "e_1_2_2_6_1",
+          "first-page": "62",
+          "volume-title": "Roberts & Hedges' Clinical Procedures in Emergency Medicine",
+          "author": "Reardon RF",
+          "year": "2014"
+        }
+      ],
+      "container-title": [
+        "Academic Emergency Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Facem.13011",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/acem.13011",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2023-09-26T19:19:09Z",
+        "timestamp": 1695755949000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://onlinelibrary.wiley.com/doi/10.1111/acem.13011"
+        }
+      },
+      "subtitle": [],
+      "editor": [
+        {
+          "given": "Scott",
+          "family": "Joing",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            8
+          ]
+        ]
+      },
+      "references-count": 5,
+      "journal-issue": {
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              8
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1111/acem.13011"
+      ],
+      "URL": "https://doi.org/10.1111/acem.13011",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "1069-6563",
+        "1553-2712"
+      ],
+      "issn-type": [
+        {
+          "value": "1069-6563",
+          "type": "print"
+        },
+        {
+          "value": "1553-2712",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            8
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2016-08-04",
+          "order": 2,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,763 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_2144_fsoa_2020_0145.md",
+  "id": "evidence_import_refs_2025_09_12_10_2144_fsoa_2020_0145",
+  "doi": "10.2144/fsoa-2020-0145",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:26.114331Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            11
+          ]
+        ],
+        "date-time": "2025-09-11T06:57:21Z",
+        "timestamp": 1757573841698,
+        "version": "3.41.2"
+      },
+      "reference-count": 85,
+      "publisher": "Informa UK Limited",
+      "issue": "10",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                10,
+                30
+              ]
+            ],
+            "date-time": "2020-10-30T00:00:00Z",
+            "timestamp": 1604016000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "www.tandfonline.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Future Sci. OA"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.2144/fsoa-2020-0145",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            30
+          ]
+        ],
+        "date-time": "2020-10-30T15:17:30Z",
+        "timestamp": 1604071050000
+      },
+      "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+      "source": "Crossref",
+      "is-referenced-by-count": 29,
+      "title": [
+        "Frozen Shoulder: Overview of Clinical Presentation and Review of the Current Evidence Base for Management Strategies"
+      ],
+      "prefix": "10.1080",
+      "volume": "6",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2549-9691",
+          "authenticated-orcid": false,
+          "given": "Akshay",
+          "family": "Date",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedics, Basildon &amp; Thurrock University Hospital, Nethermayne, Basildon, Essex, SS16 5NL, UK"
+            }
+          ]
+        },
+        {
+          "given": "Luthfur",
+          "family": "Rahman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedics, Chelsea &amp; Westminster Hospital, 369 Fulham Rd, Chelsea, London, SW10 9NH, UK"
+            }
+          ]
+        }
+      ],
+      "member": "301",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            30
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_3_3_3_1",
+          "volume-title": "Archives Générales de Médecine, Novembre 1872",
+          "author": "Duplay S",
+          "year": "1872",
+          "unstructured": "DuplayS. De la péri-arthrite scapulo-humérale et des raideurs de l'épaule qui en sont la conséquence.. In: Archives Générales de Médecine, Novembre 1872 (Edition originale). Jean-Pierre Aubert (1872). www.abebooks.com/first-edition/p%C3%A9ri-arthrite-scapulo-hum%C3%A9rale-raideurs-l%C3%A9paule-cons%C3%A9quence-Archives/22693949881/bd"
+        },
+        {
+          "key": "e_1_3_3_4_1",
+          "volume-title": "The Shoulder Rupture of the Supraspinatus Tendon and Other Lesions in or about the Subacromial Bursa.",
+          "author": "Codman E",
+          "year": "1934",
+          "unstructured": "CodmanE. The Shoulder Rupture of the Supraspinatus Tendon and Other Lesions in or about the Subacromial Bursa.T. Todd Company printers, MA, USA (1934). https://archive.org/details/b29812161"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_3_3_5_1",
+          "first-page": "211",
+          "article-title": "Adhesive capsulitis of the shoulder: a study of the pathological findings in periarthritis of the shoulder",
+          "volume": "27",
+          "author": "Neviaser JS",
+          "year": "2020",
+          "unstructured": "NeviaserJS. Adhesive capsulitis of the shoulder: a study of the pathological findings in periarthritis of the shoulder. J. Bone Joint Surg.27(2), 211–222 (2020).",
+          "journal-title": "J. Bone Joint Surg."
+        },
+        {
+          "key": "e_1_3_3_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jse.2010.07.008"
+        },
+        {
+          "key": "e_1_3_3_7_1",
+          "first-page": "w20188",
+          "article-title": "A large-scale assessment of the healthcare burden of adhesive capsulitis of the shoulder joint",
+          "volume": "150",
+          "author": "Bouaicha S",
+          "year": "2020",
+          "unstructured": "BouaichaS , WieserK , KriechlingP , Scholz-OdermattSM. A large-scale assessment of the healthcare burden of adhesive capsulitis of the shoulder joint. Swiss Med. Wkly150, w20188 (2020).",
+          "journal-title": "Swiss Med. Wkly"
+        },
+        {
+          "key": "e_1_3_3_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3109/ort.1969.40.suppl-119.01"
+        },
+        {
+          "key": "e_1_3_3_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S1058-2746(09)80135-3"
+        },
+        {
+          "key": "e_1_3_3_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/rheumatology/27.1.62"
+        },
+        {
+          "key": "e_1_3_3_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1067/mse.2001.112883"
+        },
+        {
+          "key": "e_1_3_3_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ard.37.2.135"
+        },
+        {
+          "key": "e_1_3_3_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1302/0301-620X.89B7.19097"
+        },
+        {
+          "key": "e_1_3_3_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jor.1100150316"
+        },
+        {
+          "key": "e_1_3_3_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0215301"
+        },
+        {
+          "key": "e_1_3_3_16_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00003086-200003000-00012"
+        },
+        {
+          "issue": "3",
+          "key": "e_1_3_3_17_1",
+          "first-page": "239",
+          "article-title": "Pathophysiology of adhesive capsulitis of shoulder and the physiological effects of hyaluronan",
+          "volume": "15",
+          "author": "Yuan X",
+          "year": "2017",
+          "unstructured": "YuanX , ZhangZ , LiJ. Pathophysiology of adhesive capsulitis of shoulder and the physiological effects of hyaluronan. Eur. J. Inflamm.15(3), 239–243 (2017).",
+          "journal-title": "Eur. J. Inflamm."
+        },
+        {
+          "key": "e_1_3_3_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ard.43.3.365"
+        },
+        {
+          "key": "e_1_3_3_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1148/radiol.2332031219"
+        },
+        {
+          "key": "e_1_3_3_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s002560100326"
+        },
+        {
+          "key": "e_1_3_3_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2174/1874325001711010065"
+        },
+        {
+          "key": "e_1_3_3_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2340/16501977-0146"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_3_3_23_1",
+          "first-page": "29",
+          "article-title": "Adhesive capsulitis (frozen shoulder): a new approach to its management",
+          "volume": "64",
+          "author": "Rizk TE",
+          "year": "1983",
+          "unstructured": "RizkTE , ChristopherRP , PinalsRS , HigginsAC , FrixR.Adhesive capsulitis (frozen shoulder): a new approach to its management. Arch. Phys. Med. Rehabil.64(1), 29–33 (1983).",
+          "journal-title": "Arch. Phys. Med. Rehabil."
+        },
+        {
+          "key": "e_1_3_3_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.11622/smedj.2017107"
+        },
+        {
+          "key": "e_1_3_3_25_1",
+          "first-page": "81",
+          "article-title": "Management of the frozen shoulder",
+          "volume": "6",
+          "author": "van der Zwaal P",
+          "year": "2014",
+          "unstructured": "vander Zwaal P , vande Laar S. Management of the frozen shoulder. Orthop. Res. Rev.6, 81 (2014).",
+          "journal-title": "Orthop. Res. Rev."
+        },
+        {
+          "key": "e_1_3_3_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.11622/smedj.2017107"
+        },
+        {
+          "key": "e_1_3_3_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/00004623-200010000-00005"
+        },
+        {
+          "key": "e_1_3_3_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/ptj/86.3.355"
+        },
+        {
+          "key": "e_1_3_3_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0031-9406(05)60847-4"
+        },
+        {
+          "key": "e_1_3_3_30_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ard.43.3.353"
+        },
+        {
+          "key": "e_1_3_3_31_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/art.10954"
+        },
+        {
+          "key": "e_1_3_3_32_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0895-4356(94)00170-U"
+        },
+        {
+          "key": "e_1_3_3_33_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/rheumatology/21.1.51"
+        },
+        {
+          "key": "e_1_3_3_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/rheumatology/20.1.54"
+        },
+        {
+          "key": "e_1_3_3_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ard.2003.018218"
+        },
+        {
+          "key": "e_1_3_3_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/rheumatology/25.3.288"
+        },
+        {
+          "issue": "512",
+          "key": "e_1_3_3_37_1",
+          "first-page": "224",
+          "article-title": "Corticosteroid injections for painful shoulder: a meta-analysis",
+          "volume": "55",
+          "author": "Arroll B",
+          "year": "2005",
+          "unstructured": "ArrollB , Goodyear-SmithF. Corticosteroid injections for painful shoulder: a meta-analysis. Br. J. Gen. Pract.55(512), 224–228 (2005).",
+          "journal-title": "Br. J. Gen. Pract."
+        },
+        {
+          "key": "e_1_3_3_38_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jse.2009.06.013"
+        },
+        {
+          "key": "e_1_3_3_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/MD.0000000000007529"
+        },
+        {
+          "key": "e_1_3_3_40_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsm.2010.071431"
+        },
+        {
+          "issue": "541",
+          "key": "e_1_3_3_41_1",
+          "first-page": "662",
+          "article-title": "Shoulder adhesive capsulitis: systematic review of randomised trials using multiple corticosteroid injections",
+          "volume": "57",
+          "author": "Shah N",
+          "year": "2007",
+          "unstructured": "ShahN , LewisM. Shoulder adhesive capsulitis: systematic review of randomised trials using multiple corticosteroid injections. Br. J. Gen. Pract.57(541), 662–667 (2007).",
+          "journal-title": "Br. J. Gen. Pract."
+        },
+        {
+          "key": "e_1_3_3_42_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00167-009-1030-7"
+        },
+        {
+          "key": "e_1_3_3_43_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ard.56.1.59"
+        },
+        {
+          "key": "e_1_3_3_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1155/2019/1274790"
+        },
+        {
+          "key": "e_1_3_3_45_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.11622/smedj.2016146"
+        },
+        {
+          "key": "e_1_3_3_46_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/MD.0000000000003469"
+        },
+        {
+          "key": "e_1_3_3_47_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5312/wjo.v9.i9.165"
+        },
+        {
+          "key": "e_1_3_3_48_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1159/000503317"
+        },
+        {
+          "key": "e_1_3_3_49_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00296-005-0022-2"
+        },
+        {
+          "issue": "4",
+          "key": "e_1_3_3_50_1",
+          "first-page": "125",
+          "article-title": "Intraarticular injection of sodium hyaluronate plus steroid versus steroid in adhesive capsulitis of the shoulder",
+          "volume": "20",
+          "author": "Rovetta G",
+          "year": "1998",
+          "unstructured": "RovettaG , MonteforteP. Intraarticular injection of sodium hyaluronate plus steroid versus steroid in adhesive capsulitis of the shoulder. Int. J. Tissue React.20(4), 125–130 (1998).",
+          "journal-title": "Int. J. Tissue React."
+        },
+        {
+          "key": "e_1_3_3_51_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4103/0973-6042.83194"
+        },
+        {
+          "key": "e_1_3_3_52_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00003086-199304000-00042"
+        },
+        {
+          "key": "e_1_3_3_53_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3233/BMR-160641"
+        },
+        {
+          "key": "e_1_3_3_54_1",
+          "first-page": "314120",
+          "article-title": "Effectiveness of hyaluronic acid administration in treating adhesive capsulitis of the shoulder: a systematic review of randomized controlled trials",
+          "volume": "2015",
+          "author": "Lee LC",
+          "year": "2015",
+          "unstructured": "LeeLC , LieuFK , LeeHL , TungTH. Effectiveness of hyaluronic acid administration in treating adhesive capsulitis of the shoulder: a systematic review of randomized controlled trials. Biomed. Res. Int.2015, 314120 (2015).",
+          "journal-title": "Biomed. Res. Int."
+        },
+        {
+          "edition": "4",
+          "volume-title": "Rockwood and Matsen's The Shoulder, 2 Volume Set",
+          "key": "e_1_3_3_55_1",
+          "unstructured": "Rockwood and Matsen's The Shoulder, 2 Volume Set4th Edition. www.elsevier.com/books/rockwood-and-matsen-s-the-shoulder-2-volume-set/matsen/978-1-4160-3427-8"
+        },
+        {
+          "key": "e_1_3_3_56_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1302/0301-620X.89B9.18863"
+        },
+        {
+          "key": "e_1_3_3_57_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/030097498442244"
+        },
+        {
+          "key": "e_1_3_3_58_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2474-9-53"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_3_3_59_1",
+          "first-page": "127",
+          "article-title": "[Adhesive capsulitis of the shoulder: a comparative study of arthrography with intra-articular corticotherapy and with or without capsular distension]",
+          "volume": "43",
+          "author": "Corbeil V",
+          "year": "1992",
+          "unstructured": "CorbeilV , DussaultRG , LeducBE , FleuryJ. [Adhesive capsulitis of the shoulder: a comparative study of arthrography with intra-articular corticotherapy and with or without capsular distension]. Can. Assoc. Radiol. J.43(2), 127–130 (1992).",
+          "journal-title": "Can. Assoc. Radiol. J."
+        },
+        {
+          "issue": "1",
+          "key": "e_1_3_3_60_1",
+          "first-page": "67",
+          "article-title": "Arthrographic distension of the shoulder joint in the management of frozen shoulder",
+          "volume": "14",
+          "author": "Khan AA",
+          "year": "2005",
+          "unstructured": "KhanAA , MowlaA , ShakoorMA , RahmanMR. Arthrographic distension of the shoulder joint in the management of frozen shoulder. Mymensingh Med. J.14(1), 67–70 (2005).",
+          "journal-title": "Mymensingh Med. J."
+        },
+        {
+          "key": "e_1_3_3_61_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-2044.1992.tb02007.x"
+        },
+        {
+          "key": "e_1_3_3_62_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1053/apmr.2002.32472"
+        },
+        {
+          "key": "e_1_3_3_63_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1399-6576.2010.02370.x"
+        },
+        {
+          "issue": "438",
+          "key": "e_1_3_3_64_1",
+          "first-page": "39",
+          "article-title": "Suprascapular nerve block for the treatment of frozen shoulder in primary care: a randomized trial",
+          "volume": "49",
+          "author": "Jones DS",
+          "year": "1999",
+          "unstructured": "JonesDS , ChattopadhyayC. Suprascapular nerve block for the treatment of frozen shoulder in primary care: a randomized trial. Br. J. Gen. Pract.49(438), 39–41 (1999).",
+          "journal-title": "Br. J. Gen. Pract."
+        },
+        {
+          "issue": "6",
+          "key": "e_1_3_3_65_1",
+          "first-page": "1464",
+          "article-title": "Double blind randomized clinical trial examining the efficacy of bupivacaine suprascapular nerve blocks in frozen shoulder",
+          "volume": "27",
+          "author": "Dahan TH",
+          "year": "2000",
+          "unstructured": "DahanTH , FortinL , PelletierM , PetitM , VadeboncoeurR , SuissaS. Double blind randomized clinical trial examining the efficacy of bupivacaine suprascapular nerve blocks in frozen shoulder. J. Rheumatol.27(6), 1464–1469 (2000).",
+          "journal-title": "J. Rheumatol."
+        },
+        {
+          "key": "e_1_3_3_66_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3233/BMR-150322"
+        },
+        {
+          "key": "e_1_3_3_67_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4055/cios.2019.11.3.249"
+        },
+        {
+          "issue": "4",
+          "key": "e_1_3_3_68_1",
+          "first-page": "336",
+          "article-title": "The upper limb: the frozen shoulder",
+          "volume": "25",
+          "author": "Kessel L",
+          "year": "1981",
+          "unstructured": "KesselL , BayleyI , YoungA. The upper limb: the frozen shoulder. Br. J. Hosp. Med.25(4), 336–337 (1981).",
+          "journal-title": "Br. J. Hosp. Med."
+        },
+        {
+          "key": "e_1_3_3_69_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5435/00124635-201109000-00004"
+        },
+        {
+          "key": "e_1_3_3_70_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1258/rsmsmj.54.1.29"
+        },
+        {
+          "key": "e_1_3_3_71_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jse.2007.02.125"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_3_3_72_1",
+          "article-title": "Improvement in shoulder function following manipulation for adhesive capsulitis: how long does it last?",
+          "volume": "88",
+          "author": "Fox A",
+          "year": "2018",
+          "unstructured": "FoxA , BoardT , SrinivasanMS. Improvement in shoulder function following manipulation for adhesive capsulitis: how long does it last?Orthopaed. Proc.88-B(Suppl. 1) (2018).",
+          "journal-title": "Orthopaed. Proc."
+        },
+        {
+          "key": "e_1_3_3_73_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jse.2005.02.012"
+        },
+        {
+          "key": "e_1_3_3_74_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1302/2058-5241.4.180044"
+        },
+        {
+          "key": "e_1_3_3_75_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0030-5898(20)30762-8"
+        },
+        {
+          "issue": "319",
+          "key": "e_1_3_3_76_1",
+          "first-page": "238",
+          "article-title": "The resistant frozen shoulder. Manipulation versus arthroscopic release",
+          "author": "Ogilvie-Harris DJ",
+          "year": "1995",
+          "unstructured": "Ogilvie-HarrisDJ , BiggsDJ , FitsialosDP , MacKayM. The resistant frozen shoulder. Manipulation versus arthroscopic release. Clin. Orthop. Relat. Res. (319), 238–248 (1995).",
+          "journal-title": "Clin. Orthop. Relat. Res."
+        },
+        {
+          "key": "e_1_3_3_77_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jse.2003.11.001"
+        },
+        {
+          "key": "e_1_3_3_78_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00402-009-0900-2"
+        },
+        {
+          "key": "e_1_3_3_79_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jse.2009.08.004"
+        },
+        {
+          "key": "e_1_3_3_80_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0749-8063(00)90046-X"
+        },
+        {
+          "key": "e_1_3_3_81_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.arthro.2008.08.006"
+        },
+        {
+          "key": "e_1_3_3_82_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s001670100194"
+        },
+        {
+          "key": "e_1_3_3_83_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s13018-018-0758-5"
+        },
+        {
+          "key": "e_1_3_3_84_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1067/mse.2001.115986"
+        },
+        {
+          "key": "e_1_3_3_85_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/00004623-198971100-00009"
+        },
+        {
+          "key": "e_1_3_3_86_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1067/mse.2001.115986"
+        },
+        {
+          "key": "e_1_3_3_87_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/00004623-197153070-00006"
+        }
+      ],
+      "container-title": [
+        "Future Science OA"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.2144/fsoa-2020-0145",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            23
+          ]
+        ],
+        "date-time": "2024-06-23T06:46:23Z",
+        "timestamp": 1719125183000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.tandfonline.com/doi/full/10.2144/fsoa-2020-0145"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            30
+          ]
+        ]
+      },
+      "references-count": 85,
+      "journal-issue": {
+        "issue": "10",
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.2144/fsoa-2020-0145"
+      ],
+      "URL": "https://doi.org/10.2144/fsoa-2020-0145",
+      "relation": {},
+      "ISSN": [
+        "2056-5623"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2056-5623"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            30
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+          "order": 1,
+          "name": "peerreview_statement",
+          "label": "Peer Review Statement"
+        },
+        {
+          "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ifso20",
+          "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=ifso20",
+          "order": 2,
+          "name": "aims_and_scope_url",
+          "label": "Aim & Scope"
+        },
+        {
+          "value": "2020-08-28",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2020-10-08",
+          "order": 1,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2020-10-30",
+          "order": 2,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "article-number": "FSO647"
+    }
+  }
+}

@@ -1,0 +1,638 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_3390_jcm13164781.md",
+  "id": "evidence_import_refs_2025_09_12_10_3390_jcm13164781",
+  "doi": "10.3390/jcm13164781",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:51.247871Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            4
+          ]
+        ],
+        "date-time": "2025-09-04T14:23:57Z",
+        "timestamp": 1756995837512,
+        "version": "3.37.3"
+      },
+      "reference-count": 34,
+      "publisher": "MDPI AG",
+      "issue": "16",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                8,
+                14
+              ]
+            ],
+            "date-time": "2024-08-14T00:00:00Z",
+            "timestamp": 1723593600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "JCM"
+      ],
+      "abstract": "<jats:p>Introduction: Vertebral compression fractures (VCFs) pose a considerable healthcare burden and are linked to elevated morbidity and mortality. Despite available anti-osteoporotic treatments (AOTs), guideline adherence is lacking. This study aims to evaluate subsequent hip fracture incidence after index VCF and to elucidate AOT prescribing patterns in VCF patients, further assessing the impact of surgical interventions on these patterns. Materials and Methods: Patients with index VCFs between 2010 and 2021 were identified using the PearlDiver database. Diagnostic and procedural data were recorded using International Classification of Diseases (ICD-9, ICD-10) and Current Procedural Terminology (CPT) codes. Patients under age 50 and follow-up &lt;one year following index VCF were excluded. Patients were categorized based on whether they received AOT within one year, preceding and after index VCF, and were subsequently propensity-matched 1:3 based on age, sex, and Elixhauser Comorbidity Index (ECI) score to compare hip fracture incidence following index VCF. Sub-analysis was performed for operatively managed VCFs (kyphoplasty/vertebroplasty). Statistical tests included Chi-squared for categorical outcomes, and Kruskal–Wallis for continuous measures. Results: Of 637,701 patients, 72.6% were female. The overall subsequent hip fracture incidence was 2.6% at one year and 12.9% for all-time follow-up. Propensity-matched analysis indicated higher subsequent hip fracture rates in patients initiated on AOT post-index VCF (one year: 3.8% vs. 3.5%, p = 0.0013; all-time: 14.3% vs. 13.0%, p &lt; 0.0001). Conclusions: The study reveals an unexpected increase in subsequent hip fractures among patients initiated on AOT post-index VCF, likely due to selection bias. These findings highlight the need for refined osteoporosis-management strategies to improve guideline adherence, thereby mitigating patient morbidity and mortality.</jats:p>",
+      "DOI": "10.3390/jcm13164781",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            14
+          ]
+        ],
+        "date-time": "2024-08-14T10:23:05Z",
+        "timestamp": 1723630985000
+      },
+      "page": "4781",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "Risk of Subsequent Hip Fractures across Varying Treatment Patterns for Index Vertebral Compression Fractures"
+      ],
+      "prefix": "10.3390",
+      "volume": "13",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-8891-0353",
+          "authenticated-orcid": false,
+          "given": "Andy",
+          "family": "Ton",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Keck School of Medicine, The University of Southern California, Los Angeles, CA 90033, USA"
+            }
+          ]
+        },
+        {
+          "given": "Jennifer A.",
+          "family": "Bell",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Keck School of Medicine, The University of Southern California, Los Angeles, CA 90033, USA"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0007-0777-2539",
+          "authenticated-orcid": false,
+          "given": "William J.",
+          "family": "Karakash",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Keck School of Medicine, The University of Southern California, Los Angeles, CA 90033, USA"
+            }
+          ]
+        },
+        {
+          "given": "Thomas D.",
+          "family": "Alter",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Mayo Clinic, Rochester, MN 55905, USA"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6506-8423",
+          "authenticated-orcid": false,
+          "given": "Mary Kate",
+          "family": "Erdman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Keck School of Medicine, The University of Southern California, Los Angeles, CA 90033, USA"
+            },
+            {
+              "name": "Department of Orthopaedic Surgery, University of Chicago Medical Center, Chicago, IL 60612, USA"
+            }
+          ]
+        },
+        {
+          "given": "Hyunwoo Paco",
+          "family": "Kang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Keck School of Medicine, The University of Southern California, Los Angeles, CA 90033, USA"
+            }
+          ]
+        },
+        {
+          "given": "Emily S.",
+          "family": "Mills",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Keck School of Medicine, The University of Southern California, Los Angeles, CA 90033, USA"
+            }
+          ]
+        },
+        {
+          "given": "Jonathan Mina",
+          "family": "Ragheb",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Kaiser Permanente Bernard J. Tyson School of Medicine, Los Angeles, CA 91101, USA"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7987-256X",
+          "authenticated-orcid": false,
+          "given": "Mirbahador",
+          "family": "Athari",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Keck School of Medicine, The University of Southern California, Los Angeles, CA 90033, USA"
+            }
+          ]
+        },
+        {
+          "given": "Jeffrey C.",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Keck School of Medicine, The University of Southern California, Los Angeles, CA 90033, USA"
+            }
+          ]
+        },
+        {
+          "given": "Ram K.",
+          "family": "Alluri",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Keck School of Medicine, The University of Southern California, Los Angeles, CA 90033, USA"
+            }
+          ]
+        },
+        {
+          "given": "Raymond J.",
+          "family": "Hah",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Keck School of Medicine, The University of Southern California, Los Angeles, CA 90033, USA"
+            }
+          ]
+        }
+      ],
+      "member": "1968",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            14
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "S41",
+          "DOI": "10.1097/BOT.0b013e31821ac704",
+          "article-title": "Fragility Fractures: A Global Problem? Introduction",
+          "volume": "25",
+          "author": "Bhandari",
+          "year": "2011",
+          "journal-title": "J. Orthop. Trauma"
+        },
+        {
+          "key": "ref_2",
+          "doi-asserted-by": "crossref",
+          "first-page": "169",
+          "DOI": "10.1016/j.berh.2017.10.001",
+          "article-title": "Fragility Fractures & Their Impact on Older People",
+          "volume": "31",
+          "author": "Wilson",
+          "year": "2017",
+          "journal-title": "Best Pract. Res. Clin. Rheumatol."
+        },
+        {
+          "key": "ref_3",
+          "doi-asserted-by": "crossref",
+          "first-page": "580",
+          "DOI": "10.1097/BCO.0000000000000563",
+          "article-title": "Epidemiology of Fragility Fractures and Fall Prevention in the Elderly: A Systematic Review of the Literature",
+          "volume": "28",
+          "author": "Tsuda",
+          "year": "2017",
+          "journal-title": "Curr. Orthop. Pract."
+        },
+        {
+          "key": "ref_4",
+          "doi-asserted-by": "crossref",
+          "first-page": "669",
+          "DOI": "10.1186/s13018-021-02821-8",
+          "article-title": "Global Prevalence of Osteoporosis among the World Older Adults: A Comprehensive Systematic Review and Meta-Analysis",
+          "volume": "16",
+          "author": "Salari",
+          "year": "2021",
+          "journal-title": "J. Orthop. Surg. Res."
+        },
+        {
+          "doi-asserted-by": "crossref",
+          "unstructured": "Adachi, J.D., Brown, J.P., Schemitsch, E., Tarride, J.-E., Brown, V., Bell, A.D., Reiner, M., Packalen, M., Motsepe-Ditshego, P., and Burke, N. (2021). Fragility Fracture Identifies Patients at Imminent Risk for Subsequent Fracture: Real-World Retrospective Database Study in Ontario, Canada. BMC Musculoskelet. Disord., 22.",
+          "key": "ref_5",
+          "DOI": "10.1186/s12891-021-04051-9"
+        },
+        {
+          "key": "ref_6",
+          "doi-asserted-by": "crossref",
+          "first-page": "e85",
+          "DOI": "10.5435/JAAOS-D-17-00103",
+          "article-title": "Recurrent Fragility Fractures: A Cross-Sectional Analysis",
+          "volume": "27",
+          "author": "Dang",
+          "year": "2019",
+          "journal-title": "J. Am. Acad. Orthop. Surg."
+        },
+        {
+          "key": "ref_7",
+          "first-page": "108",
+          "article-title": "The Orthopaedic Treatment of Fragility Fractures",
+          "volume": "4",
+          "author": "Pietri",
+          "year": "2007",
+          "journal-title": "Clin. Cases Miner. Bone Metab."
+        },
+        {
+          "key": "ref_8",
+          "doi-asserted-by": "crossref",
+          "first-page": "e52",
+          "DOI": "10.2106/JBJS.L.01781",
+          "article-title": "Declining Rates of Osteoporosis Management Following Fragility Fractures in the U.S., 2000 through 2009",
+          "volume": "96",
+          "author": "Balasubramanian",
+          "year": "2014",
+          "journal-title": "J. Bone Jt. Surg. Am."
+        },
+        {
+          "key": "ref_9",
+          "first-page": "e068033",
+          "article-title": "Fracture Risk Reduction and Safety by Osteoporosis Treatment Compared with Placebo or Active Comparator in Postmenopausal Women: Systematic Review, Network Meta-Analysis, and Meta-Regression Analysis of Randomised Clinical Trials",
+          "volume": "381",
+          "author": "Cardoso",
+          "year": "2023",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref_10",
+          "doi-asserted-by": "crossref",
+          "first-page": "191",
+          "DOI": "10.5371/hp.2022.34.4.191",
+          "article-title": "Management of Osteoporosis Medication after Osteoporotic Fracture",
+          "volume": "34",
+          "author": "Oh",
+          "year": "2022",
+          "journal-title": "Hip Pelvis"
+        },
+        {
+          "key": "ref_11",
+          "doi-asserted-by": "crossref",
+          "first-page": "37",
+          "DOI": "10.11005/jbm.2017.24.1.37",
+          "article-title": "The Efficacy of Bisphosphonates for Prevention of Osteoporotic Fracture: An Update Meta-Analysis",
+          "volume": "24",
+          "author": "Byun",
+          "year": "2017",
+          "journal-title": "J. Bone Metab."
+        },
+        {
+          "key": "ref_12",
+          "doi-asserted-by": "crossref",
+          "first-page": "e30023",
+          "DOI": "10.1097/MD.0000000000030023",
+          "article-title": "Analysis of the Most Influential Publications on Vertebral Augmentation for Treating Osteoporotic Vertebral Compression Fracture: A Review",
+          "volume": "101",
+          "author": "Wang",
+          "year": "2022",
+          "journal-title": "Medicine"
+        },
+        {
+          "key": "ref_13",
+          "doi-asserted-by": "crossref",
+          "first-page": "513",
+          "DOI": "10.1001/jama.2009.50",
+          "article-title": "Mortality Risk Associated with Low-Trauma Osteoporotic Fracture and Subsequent Fracture in Men and Women",
+          "volume": "301",
+          "author": "Bliuc",
+          "year": "2009",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "ref_14",
+          "doi-asserted-by": "crossref",
+          "first-page": "S65",
+          "DOI": "10.1016/j.jfma.2023.04.004",
+          "article-title": "Refracture Risk and All-Cause Mortality after Vertebral Fragility Fractures: Anti-Osteoporotic Medications Matter",
+          "volume": "122",
+          "author": "Tai",
+          "year": "2023",
+          "journal-title": "J. Formos. Med. Assoc."
+        },
+        {
+          "doi-asserted-by": "crossref",
+          "unstructured": "van Oostwaard, M. (2018). Osteoporosis and the Nature of Fragility Fracture: An Overview, Springer.",
+          "key": "ref_15",
+          "DOI": "10.1007/978-3-319-76681-2_1"
+        },
+        {
+          "key": "ref_16",
+          "doi-asserted-by": "crossref",
+          "first-page": "12S",
+          "DOI": "10.1016/S0002-9343(97)90022-X",
+          "article-title": "The Crippling Consequences of Fractures and Their Impact on Quality of Life",
+          "volume": "103",
+          "author": "Cooper",
+          "year": "1997",
+          "journal-title": "Am. J. Med."
+        },
+        {
+          "key": "ref_17",
+          "doi-asserted-by": "crossref",
+          "first-page": "2049",
+          "DOI": "10.1007/s00198-021-05900-y",
+          "article-title": "The Clinician’s Guide to Prevention and Treatment of Osteoporosis",
+          "volume": "33",
+          "author": "LeBoff",
+          "year": "2022",
+          "journal-title": "Osteoporos. Int."
+        },
+        {
+          "unstructured": "(2024, August 04). Definition of Human Subjects Research, Available online: https://grants.nih.gov/policy/humansubjects/research.htm.",
+          "key": "ref_18"
+        },
+        {
+          "unstructured": "European Prospective Osteoporosis Study (EPOS) Group, Felsenberg, D., Silman, A.J., Lunt, M., Armbrecht, G., Ismail, A.A., Finn, J.D., Cockerill, W.C., Banzer, D., and Benevolenskaya, L.I. (2002). Incidence of Vertebral Fracture in Europe: Results from the European Prospective Osteoporosis Study (EPOS). J. Bone Miner. Res., 17, 716–724.",
+          "key": "ref_19"
+        },
+        {
+          "key": "ref_20",
+          "doi-asserted-by": "crossref",
+          "first-page": "815",
+          "DOI": "10.1016/j.amjmed.2022.02.035",
+          "article-title": "Diagnosis and Management of Vertebral Compression Fracture",
+          "volume": "135",
+          "author": "Alsoof",
+          "year": "2022",
+          "journal-title": "Am. J. Med."
+        },
+        {
+          "key": "ref_21",
+          "doi-asserted-by": "crossref",
+          "first-page": "998",
+          "DOI": "10.1016/j.spinee.2012.08.024",
+          "article-title": "Comparative Analysis of Clinical Outcomes in Patients with Osteoporotic Vertebral Compression Fractures (OVCFs): Conservative Treatment versus Balloon Kyphoplasty",
+          "volume": "12",
+          "author": "Lee",
+          "year": "2012",
+          "journal-title": "Spine J."
+        },
+        {
+          "key": "ref_22",
+          "first-page": "e542",
+          "article-title": "Conservative Management of Osteoporotic Vertebral Fractures: A Prospective Study of Thirty Patients",
+          "volume": "8",
+          "author": "Shah",
+          "year": "2016",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref_23",
+          "doi-asserted-by": "crossref",
+          "first-page": "2955",
+          "DOI": "10.1007/s00198-017-4137-6",
+          "article-title": "Value and Potential Limitations of Vertebral Fracture Assessment (VFA) Compared to Conventional Spine Radiography: Experience from a Fracture Liaison Service (FLS) and a Meta-Analysis",
+          "volume": "28",
+          "author": "Malgo",
+          "year": "2017",
+          "journal-title": "Osteoporos. Int."
+        },
+        {
+          "key": "ref_24",
+          "doi-asserted-by": "crossref",
+          "first-page": "E519",
+          "DOI": "10.36076/ppj.2013/16/E519",
+          "article-title": "Criteria for the Appropriate Treatment of Osteoporotic Vertebral Compression Fractures",
+          "volume": "16",
+          "author": "Anselmetti",
+          "year": "2013",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "key": "ref_25",
+          "doi-asserted-by": "crossref",
+          "first-page": "1236",
+          "DOI": "10.1093/gerona/glt092",
+          "article-title": "Epidemiology of Fracture Risk with Advancing Age",
+          "volume": "68",
+          "author": "Ensrud",
+          "year": "2013",
+          "journal-title": "J. Gerontol. A Biol. Sci. Med. Sci."
+        },
+        {
+          "key": "ref_26",
+          "doi-asserted-by": "crossref",
+          "first-page": "873",
+          "DOI": "10.1007/s00198-015-3443-0",
+          "article-title": "Evidence of Effectiveness of a Fracture Liaison Service to Reduce the Re-Fracture Rate",
+          "volume": "27",
+          "author": "Nakayama",
+          "year": "2016",
+          "journal-title": "Osteoporos. Int."
+        },
+        {
+          "key": "ref_27",
+          "doi-asserted-by": "crossref",
+          "first-page": "236",
+          "DOI": "10.1093/ageing/afv204",
+          "article-title": "REFReSH study group Clinical Effectiveness of Orthogeriatric and Fracture Liaison Service Models of Care for Hip Fracture Patients: Population-Based Longitudinal Study",
+          "volume": "45",
+          "author": "Hawley",
+          "year": "2016",
+          "journal-title": "Age Ageing"
+        },
+        {
+          "key": "ref_28",
+          "doi-asserted-by": "crossref",
+          "first-page": "S39",
+          "DOI": "10.1016/S0020-1383(11)70011-0",
+          "article-title": "Impact of Guideline Implementation by a Fracture Nurse on Subsequent Fractures and Mortality in Patients Presenting with Non-Vertebral Fractures",
+          "volume": "42",
+          "author": "Huntjens",
+          "year": "2011",
+          "journal-title": "Injury"
+        },
+        {
+          "key": "ref_29",
+          "doi-asserted-by": "crossref",
+          "first-page": "538",
+          "DOI": "10.1016/j.spinee.2019.10.020",
+          "article-title": "Declining Trend in Osteoporosis Management and Screening Following Vertebral Compression Fractures—A National Analysis of Commercial Insurance and Medicare Advantage Beneficiaries",
+          "volume": "20",
+          "author": "Malik",
+          "year": "2020",
+          "journal-title": "Spine J."
+        },
+        {
+          "key": "ref_30",
+          "doi-asserted-by": "crossref",
+          "first-page": "30S",
+          "DOI": "10.1016/S0002-9343(97)90025-5",
+          "article-title": "Clinical Consequences of Vertebral Fractures",
+          "volume": "103",
+          "author": "Ross",
+          "year": "1997",
+          "journal-title": "Am. J. Med."
+        },
+        {
+          "key": "ref_31",
+          "doi-asserted-by": "crossref",
+          "first-page": "399",
+          "DOI": "10.4329/wjr.v2.i10.399",
+          "article-title": "Incidental Vertebral Compression Fractures in Imaging Studies: Lessons Not Learned by Radiologists",
+          "volume": "2",
+          "author": "Bartalena",
+          "year": "2010",
+          "journal-title": "World J. Radiol."
+        },
+        {
+          "key": "ref_32",
+          "doi-asserted-by": "crossref",
+          "first-page": "756",
+          "DOI": "10.1016/j.spinee.2008.01.013",
+          "article-title": "Osteoporosis and Vertebral Compression Fractures-Continued Missed Opportunities",
+          "volume": "8",
+          "author": "Freedman",
+          "year": "2008",
+          "journal-title": "Spine J."
+        },
+        {
+          "key": "ref_33",
+          "doi-asserted-by": "crossref",
+          "first-page": "1263",
+          "DOI": "10.1111/j.1532-5415.2004.52354.x",
+          "article-title": "Prevalence and Outcomes of Low Mobility in Hospitalized Older Patients",
+          "volume": "52",
+          "author": "Brown",
+          "year": "2004",
+          "journal-title": "J. Am. Geriatr. Soc."
+        },
+        {
+          "key": "ref_34",
+          "first-page": "263",
+          "article-title": "Nonpharmacological Prevention of Osteoporotic Fractures",
+          "volume": "2",
+          "author": "Kessenich",
+          "year": "2007",
+          "journal-title": "Clin. Interv. Aging"
+        }
+      ],
+      "container-title": [
+        "Journal of Clinical Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.mdpi.com/2077-0383/13/16/4781/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            14
+          ]
+        ],
+        "date-time": "2024-08-14T11:14:15Z",
+        "timestamp": 1723634055000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.mdpi.com/2077-0383/13/16/4781"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            14
+          ]
+        ]
+      },
+      "references-count": 34,
+      "journal-issue": {
+        "issue": "16",
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              8
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "jcm13164781"
+      ],
+      "URL": "https://doi.org/10.3390/jcm13164781",
+      "relation": {},
+      "ISSN": [
+        "2077-0383"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2077-0383"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            14
+          ]
+        ]
+      }
+    }
+  }
+}

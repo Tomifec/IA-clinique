@@ -1,0 +1,51 @@
+{
+  "demographics": {
+    "age": 34,
+    "sex": "M"
+  },
+  "presentation": {
+    "onset": "acute (6 hours)",
+    "mechanism": "spontaneous, recent minor neck movement",
+    "pain": {
+      "intensity": 8,
+      "night_pain": true
+    },
+    "distribution": "sudden unilateral neck pain + severe headache",
+    "neuro_symptoms": [
+      "tinnitus_pulsatile",
+      "vertigo"
+    ]
+  },
+  "exam": {
+    "rom_limit": true,
+    "palpation_bone_tenderness": false,
+    "hoffmann": "neg",
+    "babinski": "neg",
+    "clonus": "neg",
+    "gait_ataxia": false,
+    "neuro": {
+      "motor_deficit": false,
+      "sensory_deficit": false,
+      "reflex_changes": false,
+      "sphincter_disturbance": false
+    },
+    "vitals": {
+      "temp_c": 36.9,
+      "hr_bpm": 80,
+      "bp_mmHg": "122/78"
+    }
+  },
+  "flags": {
+    "vascular_redflags": [
+      "sudden_headache",
+      "tinnitus_pulsatile"
+    ],
+    "myelopathy_signs": false,
+    "infection_signs": [],
+    "trauma_high_energy": false
+  },
+  "history": {
+    "prior_treatments": []
+  },
+  "tests": {}
+}

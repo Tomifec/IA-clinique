@@ -1,0 +1,434 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_7759_cureus_47512.md",
+  "id": "evidence_import_refs_2025_09_12_10_7759_cureus_47512",
+  "doi": "10.7759/cureus.47512",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:09:02.859874Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            10
+          ]
+        ],
+        "date-time": "2024-02-10T00:35:35Z",
+        "timestamp": 1707525335733
+      },
+      "reference-count": 24,
+      "publisher": "Springer Science and Business Media LLC",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            23
+          ]
+        ]
+      },
+      "DOI": "10.7759/cureus.47512",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2023-10-23T12:10:16Z",
+        "timestamp": 1698063016000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "A Comparative Analysis Between Conservative Treatment, Arthroscopic Repair, and Biceps Tenodesis in Superior Labral Anterior-Posterior (SLAP) Lesions"
+      ],
+      "prefix": "10.7759",
+      "author": [
+        {
+          "given": "Evgeniy Nikolaevich",
+          "family": "Goncharov",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Oleg Aleksandrovich",
+          "family": "Koval",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Eduard Nikolaevich",
+          "family": "Bezuglov",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Aleksandr Aleksandrovich",
+          "family": "Vetoshkin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nikolay Gavriilovich",
+          "family": "Goncharov",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Manuel de Jesus Encarnacion",
+          "family": "Ramirez",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Oganesyan Sergey",
+          "family": "Khachaturovich",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nicola",
+          "family": "Montemurro",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "reference": [
+        {
+          "key": "ref1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/JSA.0b013e3182471f03",
+          "article-title": "Anatomic and biomechanical fundamentals of the thrower shoulder",
+          "volume": "20",
+          "author": "Eckenrode BJ",
+          "year": "2012",
+          "unstructured": "Eckenrode BJ, Kelley MJ, Kelly JD. Anatomic and biomechanical fundamentals of the thrower shoulder. Sports Med Arthrosc Rev. 2012, 20:2-10. 10.1097/JSA.0b013e3182471f03",
+          "journal-title": "Sports Med Arthrosc Rev"
+        },
+        {
+          "key": "ref2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1055/s-0042-1758840",
+          "article-title": "SLAP injury and the superior labrum",
+          "volume": "26",
+          "author": "Jain A",
+          "year": "2022",
+          "unstructured": "Jain A, Aniq H, Mistry A. SLAP injury and the superior labrum. Semin Musculoskelet Radiol. 2022, 26:577-84. 10.1055/s-0042-1758840",
+          "journal-title": "Semin Musculoskelet Radiol"
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/JSA.0b013e3182432cf2",
+          "article-title": "Pathomechanics of the throwing shoulder",
+          "volume": "20",
+          "author": "Kibler WB",
+          "year": "2012",
+          "unstructured": "Kibler WB, Thomas SJ. Pathomechanics of the throwing shoulder. Sports Med Arthrosc Rev. 2012, 20:22-9. 10.1097/JSA.0b013e3182432cf2",
+          "journal-title": "Sports Med Arthrosc Rev"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/medicina57030221",
+          "article-title": "Diagnostic value of frequently implemented provocative tests in the assessment of shoulder pain-a glimpse of current practice",
+          "volume": "57",
+          "author": "Rosenberg N",
+          "year": "2021",
+          "unstructured": "Rosenberg N. Diagnostic value of frequently implemented provocative tests in the assessment of shoulder pain-a glimpse of current practice. Medicina (Kaunas). 2021, 57:221. 10.3390/medicina57030221",
+          "journal-title": "Medicina (Kaunas)"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1055/s-0035-1549320",
+          "article-title": "Superior labrum anterior to posterior lesions and the superior labrum",
+          "volume": "19",
+          "author": "Rowbotham EL",
+          "year": "2015",
+          "unstructured": "Rowbotham EL, Grainger AJ. Superior labrum anterior to posterior lesions and the superior labrum. Semin Musculoskelet Radiol. 2015, 19:269-76. 10.1055/s-0035-1549320",
+          "journal-title": "Semin Musculoskelet Radiol"
+        },
+        {
+          "key": "ref6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/JBJS.RVW.21.00194",
+          "article-title": "The thrower's shoulder",
+          "volume": "10",
+          "author": "Medina G",
+          "year": "2022",
+          "unstructured": "Medina G, Bartolozzi AR, Spencer JA, Morgan C. The thrower's shoulder. JBJS Rev. 2022, 10:e21.00194. 10.2106/JBJS.RVW.21.00194",
+          "journal-title": "JBJS Rev"
+        },
+        {
+          "key": "ref7",
+          "article-title": "Russian cultural adaptation of main shoulder assessment scores: ASES, UCLA, Constant score, SST (Part 1). Preliminary study",
+          "volume": "25",
+          "author": "Lipina M",
+          "year": "2018",
+          "unstructured": "Lipina M, Mukhanov V, Karpashevich A, Goncharov E, Maglevaniy S, Lubiatowski P. Russian cultural adaptation of main shoulder assessment scores: ASES, UCLA, Constant score, SST (Part 1). Preliminary study. Issue Rehabil Orthop Neurophysiol Spor Promot. 2018, 25:45-57.",
+          "journal-title": "Issue Rehabil Orthop Neurophysiol Spor Promot"
+        },
+        {
+          "key": "ref8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/os.13229",
+          "article-title": "Arthroscopic modified double-row biceps tenodesis versus labral repair for the treatment of isolated type II slap lesions in non-overhead athletes",
+          "volume": "14",
+          "author": "Song Y",
+          "year": "2022",
+          "unstructured": "Song Y, Wu Z, Wang M, Liu S, Cong R, Tao K. Arthroscopic modified double-row biceps tenodesis versus labral repair for the treatment of isolated type II slap lesions in non-overhead athletes. Orthop Surg. 2022, 14:1340-9. 10.1111/os.13229",
+          "journal-title": "Orthop Surg"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jseint.2022.07.010",
+          "article-title": "Rate and time to return to shooting following arthroscopic and open shoulder surgery",
+          "volume": "6",
+          "author": "Galvin JW",
+          "year": "2022",
+          "unstructured": "Galvin JW, Slevin J, Yu HH, Turner EK, Tokish JM, Grassbaugh JA, Arrington ED. Rate and time to return to shooting following arthroscopic and open shoulder surgery. JSES Int. 2022, 6:963-9. 10.1016/j.jseint.2022.07.010",
+          "journal-title": "JSES Int"
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546508314794",
+          "article-title": "Arthroscopic rotator cuff repair in overhead-throwing athletes",
+          "volume": "36",
+          "author": "Liem D",
+          "year": "2008",
+          "unstructured": "Liem D, Lichtenberg S, Magosch P, Habermeyer P. Arthroscopic rotator cuff repair in overhead-throwing athletes. Am J Sports Med. 2008, 36:1317-22. 10.1177/0363546508314794",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "ref11",
+          "article-title": "Shoulder and elbow injuries in the adolescent throwing athlete",
+          "volume": "103",
+          "author": "DeFroda S",
+          "year": "2020",
+          "unstructured": "DeFroda S, McGlone P, Levins J, O'Donnell R, Cruz AI, Kriz PK. Shoulder and elbow injuries in the adolescent throwing athlete. R I Med J (2013). 2020, 103:21-9.",
+          "journal-title": "R I Med J (2013)"
+        },
+        {
+          "key": "ref12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2016-096226",
+          "article-title": "Preventing overuse shoulder injuries among throwing athletes: a cluster-randomised controlled trial in 660 elite handball players",
+          "volume": "51",
+          "author": "Andersson SH",
+          "year": "2017",
+          "unstructured": "Andersson SH, Bahr R, Clarsen B, Myklebust G. Preventing overuse shoulder injuries among throwing athletes: a cluster-randomised controlled trial in 660 elite handball players. Br J Sports Med. 2017, 51:1073-80. 10.1136/bjsports-2016-096226",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "ref13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/2325967120935001",
+          "article-title": "Superior labral injuries in elite gymnasts: symptoms, pathology, and outcomes after surgical repair",
+          "volume": "8",
+          "author": "Takeuchi Y",
+          "year": "2020",
+          "unstructured": "Takeuchi Y, Sugaya H, Takahashi N, et al.. Superior labral injuries in elite gymnasts: symptoms, pathology, and outcomes after surgical repair. Orthop J Sports Med. 2020, 8:10.1177/2325967120935001",
+          "journal-title": "Orthop J Sports Med"
+        },
+        {
+          "key": "ref14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546504269255",
+          "article-title": "Sports activity after arthroscopic superior labral repair using suture anchors in overhead-throwing athletes",
+          "volume": "33",
+          "author": "Ide J",
+          "year": "2005",
+          "unstructured": "Ide J, Maeda S, Takagi K. Sports activity after arthroscopic superior labral repair using suture anchors in overhead-throwing athletes. Am J Sports Med. 2005, 33:507-14. 10.1177/0363546504269255",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "ref15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/03635465231169238",
+          "article-title": "Midterm outcomes following combined biceps tenodesis and anterior labral repair in active duty military patients younger than 35 years",
+          "volume": "51",
+          "author": "Green CK",
+          "year": "2023",
+          "unstructured": "Green CK, Scanaliato JP, Sandler AB, Czajkowski H, Rolf RH, Dunn JC, Parnes N. Midterm outcomes following combined biceps tenodesis and anterior labral repair in active duty military patients younger than 35 years. Am J Sports Med. 2023, 51:1844-51. 10.1177/03635465231169238",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "ref16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4085/1062-6050-50.3.06",
+          "article-title": "Return to preinjury levels of participation after superior labral repair in overhead athletes: a systematic review",
+          "volume": "50",
+          "author": "Sciascia A",
+          "year": "2015",
+          "unstructured": "Sciascia A, Myers N, Kibler WB, Uhl TL. Return to preinjury levels of participation after superior labral repair in overhead athletes: a systematic review. J Athl Train. 2015, 50:767-77. 10.4085/1062-6050-50.3.06",
+          "journal-title": "J Athl Train"
+        },
+        {
+          "key": "ref17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546520921177",
+          "article-title": "Biceps tenodesis for superior labrum anterior-posterior tear in the overhead athlete: a systematic review",
+          "volume": "49",
+          "author": "Frantz TL",
+          "year": "2021",
+          "unstructured": "Frantz TL, Shacklett AG, Martin AS, Barlow JD, Jones GL, Neviaser AS, Cvetanovich GL. Biceps tenodesis for superior labrum anterior-posterior tear in the overhead athlete: a systematic review. Am J Sports Med. 2021, 49:522-8. 10.1177/0363546520921177",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jse.2022.10.025",
+          "article-title": "Clinical outcomes and return to play in softball players following SLAP repair or biceps tenodesis",
+          "volume": "32",
+          "author": "Rothermich MA",
+          "year": "2023",
+          "unstructured": "Rothermich MA, Ryan MK, Fleisig GS, et al.. Clinical outcomes and return to play in softball players following SLAP repair or biceps tenodesis. J Shoulder Elbow Surg. 2023, 32:924-30. 10.1016/j.jse.2022.10.025",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "ref19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.arthro.2022.03.021",
+          "article-title": "Biceps tenodesis combined with arthroscopic posterior labral repair for type VIII slap lesions in active-duty military patients yields excellent return to military duty",
+          "volume": "38",
+          "author": "Green CK",
+          "year": "2022",
+          "unstructured": "Green CK, Scanaliato JP, Duvall O, Eckhoff MD, Dunn JC, Parnes N. Biceps tenodesis combined with arthroscopic posterior labral repair for type VIII slap lesions in active-duty military patients yields excellent return to military duty. Arthroscopy. 2022, 38:2620-7. 10.1016/j.arthro.2022.03.021",
+          "journal-title": "Arthroscopy"
+        },
+        {
+          "key": "ref20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/03635465211049373",
+          "article-title": "Biceps tenodesis as an attractive alternative to superior labral anterior-posterior (SLAP) repair for type II slap lesions in active-duty military patients younger than 35 years",
+          "volume": "49",
+          "author": "Parnes N",
+          "year": "2021",
+          "unstructured": "Parnes N, Dunn JC, Czajkowski H, DeFranco MJ, Green CK, Scanaliato JP. Biceps tenodesis as an attractive alternative to superior labral anterior-posterior (SLAP) repair for type II slap lesions in active-duty military patients younger than 35 years. Am J Sports Med. 2021, 49:3945-51. 10.1177/03635465211049373",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "ref21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/2309499018762619",
+          "article-title": "Comparative study on clinical results of arthroscopic repair of anteroinferior, superior, and combined glenoid labral tear",
+          "volume": "26",
+          "author": "Zhu M",
+          "year": "2018",
+          "unstructured": "Zhu M, Chen JY, Chong HC, Cheng PC, Tjoen DL. Comparative study on clinical results of arthroscopic repair of anteroinferior, superior, and combined glenoid labral tear. J Orthop Surg (Hong Kong). 2018, 26:10.1177/2309499018762619",
+          "journal-title": "J Orthop Surg (Hong Kong)"
+        },
+        {
+          "key": "ref22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1941738119873892",
+          "article-title": "Return to sport after arthroscopic superior labral anterior-posterior repair: a systematic review",
+          "volume": "11",
+          "author": "Thayaparan A",
+          "year": "2019",
+          "unstructured": "Thayaparan A, Yu J, Horner NS, Leroux T, Alolabi B, Khan M. Return to sport after arthroscopic superior labral anterior-posterior repair: a systematic review. Sports Health. 2019, 11:520-7. 10.1177/1941738119873892",
+          "journal-title": "Sports Health"
+        },
+        {
+          "key": "ref23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1148/radiol.2017170481",
+          "article-title": "Shoulder injuries in the overhead-throwing athlete: epidemiology, mechanisms of injury, and imaging findings",
+          "volume": "286",
+          "author": "Lin DJ",
+          "year": "2018",
+          "unstructured": "Lin DJ, Wong TT, Kazam JK. Shoulder injuries in the overhead-throwing athlete: epidemiology, mechanisms of injury, and imaging findings. Radiology. 2018, 286:370-87. 10.1148/radiol.2017170481",
+          "journal-title": "Radiology"
+        },
+        {
+          "key": "ref24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2016-097098",
+          "article-title": "Sham surgery versus labral repair or biceps tenodesis for type II SLAP lesions of the shoulder: a three-armed randomised clinical trial",
+          "volume": "51",
+          "author": "Schrøder CP",
+          "year": "2017",
+          "unstructured": "Schrøder CP, Skare Ø, Reikerås O, Mowinckel P, Brox JI. Sham surgery versus labral repair or biceps tenodesis for type II SLAP lesions of the shoulder: a three-armed randomised clinical trial. Br J Sports Med. 2017, 51:1759-66. 10.1136/bjsports-2016-097098",
+          "journal-title": "Br J Sports Med"
+        }
+      ],
+      "container-title": [
+        "Cureus"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.cureus.com/articles/196274-a-comparative-analysis-between-conservative-treatment-arthroscopic-repair-and-biceps-tenodesis-in-superior-labral-anterior-posterior-slap-lesions",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            9
+          ]
+        ],
+        "date-time": "2024-02-09T20:11:35Z",
+        "timestamp": 1707509495000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.cureus.com/articles/196274-a-comparative-analysis-between-conservative-treatment-arthroscopic-repair-and-biceps-tenodesis-in-superior-labral-anterior-posterior-slap-lesions"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            23
+          ]
+        ]
+      },
+      "references-count": 24,
+      "URL": "https://doi.org/10.7759/cureus.47512",
+      "relation": {},
+      "ISSN": [
+        "2168-8184"
+      ],
+      "issn-type": [
+        {
+          "value": "2168-8184",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            23
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1076 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1038_s41598_020_76704_z.md",
+  "id": "evidence_import_refs_2025_09_12_10_1038_s41598_020_76704_z",
+  "doi": "10.1038/s41598-020-76704-z",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:14.127501Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            5
+          ]
+        ],
+        "date-time": "2025-08-05T12:45:35Z",
+        "timestamp": 1754397935009,
+        "version": "3.37.3"
+      },
+      "reference-count": 75,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                11,
+                26
+              ]
+            ],
+            "date-time": "2020-11-26T00:00:00Z",
+            "timestamp": 1606348800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                11,
+                26
+              ]
+            ],
+            "date-time": "2020-11-26T00:00:00Z",
+            "timestamp": 1606348800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Sci Rep"
+      ],
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>To determine whether subacromial space (i.e. acromiohumeral distance; AHD, and/or occupation ratio percentage) differs between people with subacromial pain syndrome (SAPS) and those without. To investigate whether there is a correlation between subacromial space and pain or disability in adults with SAPS and whether temporal changes in pain or disability are accompanied by changes in subacromial space. Systematic review and meta-analysis. Fifteen studies with a total of 775 participants were included. Twelve studies were of high quality and three studies were of moderate quality using the modified Black and Downs checklist. There was no between group difference in AHD in neutral shoulder position (mean difference [95% CI] 0.28 [−0.13 to 0.69] mm), shoulder abduction at 45° (−0.02 [−0.99 to 0.96] mm) or 60° (−0.20 [−0.61 to 0.20] mm). Compared to the control group, a greater occupation ratio in neutral shoulder position was demonstrated in participants with SAPS (5.14 [1.87 to 8.4] %). There was no consistent pattern regarding the correlation between AHD and pain or disability in participants with SAPS, and no consistent increase in subacromial space with improvement in pain or disability over time. The results suggest that surgical (e.g. sub-acromial decompression) and non-surgical (e.g. manual therapy, taping, stretching and strengthening) management of subacromial pain syndrome should not focus solely on addressing a potential decrease in subacromial space, but also on the importance of other biopsychosocial factors.</jats:p>",
+      "DOI": "10.1038/s41598-020-76704-z",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            26
+          ]
+        ],
+        "date-time": "2020-11-26T11:08:08Z",
+        "timestamp": 1606388888000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 36,
+      "title": [
+        "No relationship between the acromiohumeral distance and pain in adults with subacromial pain syndrome: a systematic review and meta-analysis"
+      ],
+      "prefix": "10.1038",
+      "volume": "10",
+      "author": [
+        {
+          "given": "Soo Whan",
+          "family": "Park",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Yuan Tai",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lindsay",
+          "family": "Thompson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Andreas",
+          "family": "Kjoenoe",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4973-8415",
+          "authenticated-orcid": false,
+          "given": "Birgit",
+          "family": "Juul-Kristensen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8620-7499",
+          "authenticated-orcid": false,
+          "given": "Vinicius",
+          "family": "Cavalheri",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3007-8231",
+          "authenticated-orcid": false,
+          "given": "Leanda",
+          "family": "McKenna",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            26
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "76704_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "275",
+          "DOI": "10.1590/1413-785220172506173893",
+          "volume": "25",
+          "author": "AA Ferreira",
+          "year": "2017",
+          "unstructured": "Ferreira, A. A. et al. Quality of life in patients with rotator cuff arthropathy. Acta Ortop Bras. 25, 275 (2017).",
+          "journal-title": "Acta Ortop Bras."
+        },
+        {
+          "key": "76704_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "1699",
+          "DOI": "10.2106/00004623-200608000-00002",
+          "volume": "88",
+          "author": "K Yamaguchi",
+          "year": "2006",
+          "unstructured": "Yamaguchi, K. et al. The demographic and morphological features of rotator cuff disease. A comparison of asymptomatic and symptomatic shoulders. J Bone Jt. Surg. Am. 88, 1699 (2006).",
+          "journal-title": "J Bone Jt. Surg. Am."
+        },
+        {
+          "key": "76704_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "29",
+          "DOI": "10.1016/0304-3959(96)03047-3",
+          "volume": "67",
+          "author": "GG Brattberg",
+          "year": "1996",
+          "unstructured": "Brattberg, G. G., Parker, G. M. & Thorslund, G. M. The prevalence of pain among the oldest old in Sweden. Pain 67, 29–34 (1996).",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "76704_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "288",
+          "DOI": "10.1111/j.1600-0838.2011.01398.x",
+          "volume": "23",
+          "author": "G Myklebust",
+          "year": "2013",
+          "unstructured": "Myklebust, G., Hasslan, L., Bahr, R. & Steffen, K. High prevalence of shoulder pain among elite Norwegian female handball players. Scand. J. Med. Sci. Sports. 23, 288–294 (2013).",
+          "journal-title": "Scand. J. Med. Sci. Sports."
+        },
+        {
+          "key": "76704_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "107",
+          "DOI": "10.1016/j.bjpt.2017.03.005",
+          "volume": "21",
+          "author": "VMAd Oliveira",
+          "year": "2017",
+          "unstructured": "Oliveira, V. MAd. et al. Shoulder pain in adolescent athletes: prevalence, associated factors and its influence on upper limb function. Braz. J. Phys. Ther. 21, 107–113 (2017).",
+          "journal-title": "Braz. J. Phys. Ther."
+        },
+        {
+          "key": "76704_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "3214",
+          "DOI": "10.1177/0363546516657823",
+          "volume": "44",
+          "author": "SA Rodeo",
+          "year": "2016",
+          "unstructured": "Rodeo, S. A., Nguyen, J. T., Cavanaugh, J. T., Patel, Y. & Adler, R. S. Clinical and ultrasonographic evaluations of the shoulders of elite swimmers. Am. J. Sports Med. 44, 3214–3221 (2016).",
+          "journal-title": "Am. J. Sports Med."
+        },
+        {
+          "key": "76704_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "89",
+          "DOI": "10.1186/1471-2474-15-89",
+          "volume": "15",
+          "author": "NG Juel",
+          "year": "2014",
+          "unstructured": "Juel, N. G. & Natvig, B. Shoulder diagnoses in secondary care, a one year cohort. BMC MusculoskeletDisord. 15, 89 (2014).",
+          "journal-title": "BMC MusculoskeletDisord."
+        },
+        {
+          "key": "76704_CR8",
+          "doi-asserted-by": "crossref",
+          "first-page": "583",
+          "DOI": "10.1016/S0030-5898(20)30678-7",
+          "volume": "8",
+          "author": "CS Neer",
+          "year": "1977",
+          "unstructured": "Neer, C. S. & Welsh, R. P. The shoulder in sports. OrthopClin. North Am. 8, 583–591 (1977).",
+          "journal-title": "OrthopClin. North Am."
+        },
+        {
+          "key": "76704_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "959",
+          "DOI": "10.1136/ard.54.12.959",
+          "volume": "54",
+          "author": "DA van der Windt",
+          "year": "1995",
+          "unstructured": "van der Windt, D. A., Koes, B. W., de Jong, B. A. & Bouter, L. M. Shoulder disorders in general practice: incidence, patient characteristics, and management. Ann. Rheum Dis. 54, 959–964 (1995).",
+          "journal-title": "Ann. Rheum Dis."
+        },
+        {
+          "key": "76704_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "964",
+          "DOI": "10.1136/bjsports-2012-091066",
+          "volume": "46",
+          "author": "EJ Hegedus",
+          "year": "2012",
+          "unstructured": "Hegedus, E. J. et al. Which physical examination tests provide clinicians with the most value when examining the shoulder? Update of a systematic review with meta-analysis of individual tests. Br. J. Sports Med. 46, 964–978 (2012).",
+          "journal-title": "Br. J. Sports Med."
+        },
+        {
+          "key": "76704_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "166",
+          "DOI": "10.1302/0301-620X.59B2.873977",
+          "volume": "59",
+          "author": "L Kessel",
+          "year": "1977",
+          "unstructured": "Kessel, L. & Watson, M. The painful arc syndrome. Clinical classification as a guide to management. J. Bone Jt. Surg. Br. 59, 166–172 (1977).",
+          "journal-title": "J. Bone Jt. Surg. Br."
+        },
+        {
+          "key": "76704_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "151",
+          "DOI": "10.1177/036354658000800302",
+          "volume": "8",
+          "author": "RJ Hawkins",
+          "year": "1980",
+          "unstructured": "Hawkins, R. J. & Kennedy, J. C. Impingement syndrome in athletes. Am. J. Sports Med. 8, 151–158 (1980).",
+          "journal-title": "Am. J. Sports Med."
+        },
+        {
+          "key": "76704_CR13",
+          "first-page": "70",
+          "volume": "173",
+          "author": "CS Neer",
+          "year": "1983",
+          "unstructured": "Neer, C. S. Impingement lesions. Clin. Orthop. Relat. Res. 173, 70–77 (1983).",
+          "journal-title": "Clin. Orthop. Relat. Res."
+        },
+        {
+          "key": "76704_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "336",
+          "DOI": "10.1177/036354658201000602",
+          "volume": "10",
+          "author": "FW Jobe",
+          "year": "1982",
+          "unstructured": "Jobe, F. W. & Moynes, D. R. Delineation of diagnostic criteria and a rehabilitation program for rotator cuff injuries. Am. J. Sports Med. 10, 336–339 (1982).",
+          "journal-title": "Am. J. Sports Med."
+        },
+        {
+          "key": "76704_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "416",
+          "DOI": "10.1136/bjsports-2016-096772",
+          "volume": "51",
+          "author": "AM Cools",
+          "year": "2017",
+          "unstructured": "Cools, A. M. & Michener, L. A. Shoulder pain: can one label satisfy everyone and everything?. Br. J. Sports Med. 51, 416–417 (2017).",
+          "journal-title": "Br. J. Sports Med."
+        },
+        {
+          "key": "76704_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "127",
+          "DOI": "10.2519/jospt.2018.0102",
+          "volume": "48",
+          "author": "J Lewis",
+          "year": "2018",
+          "unstructured": "Lewis, J. The end of an era?. J. Orthop. Sports Phys. Ther. 48, 127–129 (2018).",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "key": "76704_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "314",
+          "DOI": "10.3109/17453674.2014.920991",
+          "volume": "85",
+          "author": "R Diercks",
+          "year": "2014",
+          "unstructured": "Diercks, R. et al. Guideline for diagnosis and treatment of subacromial pain syndrome: a multidisciplinary review by the Dutch Orthopaedic Association. Acta Orthop. 85, 314–322 (2014).",
+          "journal-title": "Acta Orthop."
+        },
+        {
+          "key": "76704_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "653",
+          "DOI": "10.1080/09593985.2018.1423656",
+          "volume": "34",
+          "author": "H Saito",
+          "year": "2018",
+          "unstructured": "Saito, H., Harrold, M. E., Cavalheri, V. & McKenna, L. Scapular focused interventions to improve shoulder pain and function in adults with subacromial pain: a systematic review and meta-analysis. Physiother. Theory Pract. 34, 653–670 (2018).",
+          "journal-title": "Physiother. Theory Pract."
+        },
+        {
+          "key": "76704_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "665",
+          "DOI": "10.1136/bjsports-2018-100486",
+          "volume": "54",
+          "author": "T Lähdeoja",
+          "year": "2020",
+          "unstructured": "Lähdeoja, T. et al. Subacromial decompression surgery for adults with shoulder pain: a systematic review with meta-analysis. Br. J. Sports Med. 54, 665–673 (2020).",
+          "journal-title": "Br. J. Sports Med."
+        },
+        {
+          "key": "76704_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "1593",
+          "DOI": "10.1016/j.jse.2011.11.023",
+          "volume": "21",
+          "author": "JE Giphart",
+          "year": "2012",
+          "unstructured": "Giphart, J. E., van der Meijden, O. A. J. & Millett, P. J. The effects of arm elevation on the 3-dimensional acromiohumeral distance: a biplane fluoroscopy study with normative data. J. Shoulder Elbow Surg. 21, 1593–1600 (2012).",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "key": "76704_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "363",
+          "DOI": "10.1007/s00167-013-2542-8",
+          "volume": "23",
+          "author": "L Michener",
+          "year": "2015",
+          "unstructured": "Michener, L., Yesilyaprak, S. S., Seitz, A., Timmons, M. K. & Walsworth, M. K. Supraspinatus tendon and subacromial space parameters measured on ultrasonographic imaging in subacromial impingement syndrome. Knee Surg. Sports Traumatol. Arthrosc. 23, 363–369 (2015).",
+          "journal-title": "Knee Surg. Sports Traumatol. Arthrosc."
+        },
+        {
+          "key": "76704_CR22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1155/2014/583951",
+          "author": "YS Lin",
+          "year": "2014",
+          "unstructured": "Lin, Y. S., Boninger, M., Worobey, L., Farrokhi, S. & Koontz, A. Effects of repetitive shoulder activity on the subacromial space in manual wheelchair users. Biomed. Res. Int. https://doi.org/10.1155/2014/583951 (2014).",
+          "journal-title": "Biomed. Res. Int."
+        },
+        {
+          "key": "76704_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "298",
+          "DOI": "10.1136/bjsports-2012-092063",
+          "volume": "49",
+          "author": "KM McCreesh",
+          "year": "2015",
+          "unstructured": "McCreesh, K. M., Crotty, J. M. & Lewis, J. S. Acromiohumeral distance measurement in rotator cuff tendinopathy: is there a reliable, clinically applicable method? A systematic review. Br. J. Sports Med. 49, 298–305 (2015).",
+          "journal-title": "Br. J. Sports Med."
+        },
+        {
+          "key": "76704_CR24",
+          "doi-asserted-by": "crossref",
+          "first-page": "128",
+          "DOI": "10.1002/jcu.20674",
+          "volume": "38",
+          "author": "BG Pijls",
+          "year": "2010",
+          "unstructured": "Pijls, B. G., Kok, F. P., Penning, L. I. F., Guldemond, N. A. & Arens, H. J. Reliability study of the sonographic measurement of the acromiohumeral distance in symptomatic patients. J. Clin. Ultrasound. 38, 128–134 (2010).",
+          "journal-title": "J. Clin. Ultrasound."
+        },
+        {
+          "key": "76704_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "683",
+          "DOI": "10.1016/j.ultras.2003.11.015",
+          "volume": "42",
+          "author": "R Azzoni",
+          "year": "2004",
+          "unstructured": "Azzoni, R., Cabitza, P. & Parrini, M. Sonographic evaluation of subacromial space. Ultrasonics 42, 683–687 (2004).",
+          "journal-title": "Ultrasonics"
+        },
+        {
+          "key": "76704_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "408",
+          "DOI": "10.1007/s00167-007-0443-4",
+          "volume": "16",
+          "author": "JJ Cholewinski",
+          "year": "2008",
+          "unstructured": "Cholewinski, J. J., Kusz, D. J., Wojciechowski, P., Cielinski, L. S. & Zoladz, M. P. Ultrasound measurement of rotator cuff thickness and acromio-humeral distance in the diagnosis of subacromial impingement syndrome of the shoulder. Knee Surg. Sports Traumatol. Arthrosc. 16, 408–414 (2008).",
+          "journal-title": "Knee Surg. Sports Traumatol. Arthrosc."
+        },
+        {
+          "key": "76704_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "42",
+          "DOI": "10.1007/s11547-006-0005-8",
+          "volume": "111",
+          "author": "R Girometti",
+          "year": "2006",
+          "unstructured": "Girometti, R. et al. Supraspinatus tendon US morphology in basketball players: correlation with main pathologic models of secondary impingement syndrome in young overhead athletes. Preliminary report. Radiol. Med. 111, 42–52 (2006).",
+          "journal-title": "Radiol. Med."
+        },
+        {
+          "key": "76704_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "259",
+          "DOI": "10.1136/bjsm.2008.052183",
+          "volume": "43",
+          "author": "JS Lewis",
+          "year": "2009",
+          "unstructured": "Lewis, J. S. Rotator cuff tendinopathy/subacromial impingement syndrome: is it time for a new method of assessment?. Br. J. Sports Med. 43, 259–264 (2009).",
+          "journal-title": "Br. J. Sports Med."
+        },
+        {
+          "key": "76704_CR29",
+          "doi-asserted-by": "publisher",
+          "first-page": "703",
+          "DOI": "10.1016/j.math.2015.04.004",
+          "volume": "20",
+          "author": "A Savoie",
+          "year": "2015",
+          "unstructured": "Savoie, A., Mercier, C., Desmeules, F., Frémont, P. & Roy, J. S. Effects of a movement training oriented rehabilitation program on symptoms, functional limitations and acromiohumeral distance in individuals with subacromial pain syndrome. Man Ther. 20, 703–708 (2015).",
+          "journal-title": "Man Ther."
+        },
+        {
+          "key": "76704_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "89",
+          "DOI": "10.1111/j.1758-5740.2009.00022.x",
+          "volume": "1",
+          "author": "M Snow",
+          "year": "2009",
+          "unstructured": "Snow, M., Cheong, D. & Funk, L. Subacromial impingement: Is there correlation between symptoms, arthroscopic findings and outcomes?. Shoulder Elbow. 1, 89–92 (2009).",
+          "journal-title": "Shoulder Elbow."
+        },
+        {
+          "key": "76704_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "26",
+          "DOI": "10.1016/j.clinbiomech.2013.10.014",
+          "volume": "29",
+          "author": "PB de Witte",
+          "year": "2014",
+          "unstructured": "de Witte, P. B. et al. Cranial humerus translation, deltoid activation, adductor co-activation and rotator cuff disease—different patterns in rotator cuff tears, subacromial impingement and controls. Clin. Biomech. (Bristol, Avon) 29, 26–32 (2014).",
+          "journal-title": "Clin. Biomech. (Bristol, Avon)"
+        },
+        {
+          "key": "76704_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "197",
+          "DOI": "10.1097/00042752-200407000-00002",
+          "volume": "14",
+          "author": "F Desmeules",
+          "year": "2004",
+          "unstructured": "Desmeules, F., Minville, L., Riederer, B., Cote, H. C. & Fremont, P. Acromio-humeral distance variation measured by ultrasonography and its association with the outcome of rehabilitation for shoulder impingement syndrome. Clin. J. Sport Med. 14, 197–205 (2004).",
+          "journal-title": "Clin. J. Sport Med."
+        },
+        {
+          "key": "76704_CR33",
+          "first-page": "1694",
+          "volume": "77",
+          "author": "G Tran",
+          "year": "2018",
+          "unstructured": "Tran, G. et al. What imaging detected pathologies are associated with shoulder symptoms and their persistence? A systematic literature review. Arthritis Care Res. 77, 1694 (2018).",
+          "journal-title": "Arthritis Care Res."
+        },
+        {
+          "key": "76704_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "573",
+          "DOI": "10.1016/j.math.2013.06.002",
+          "volume": "18",
+          "author": "A Luque-Suarez",
+          "year": "2013",
+          "unstructured": "Luque-Suarez, A., Navarro-Ledesma, S., Petocz, P., Hancock, M. J. & Hush, J. Short term effects of kinesiotaping on acromiohumeral distance in asymptomatic subjects: a randomised controlled trial. Man Ther. 18, 573–577 (2013).",
+          "journal-title": "Man Ther."
+        },
+        {
+          "key": "76704_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "2105",
+          "DOI": "10.1177/0363546512454530",
+          "volume": "40",
+          "author": "A Maenhout",
+          "year": "2012",
+          "unstructured": "Maenhout, A., van Eessel, V., van Dyck, L., Vanraes, A. & Cools, A. Quantifying acromiohumeral distance in overhead athletes with glenohumeral internal rotation loss and the influence of a stretching program. Am. J. Sports Med. 40, 2105–2112 (2012).",
+          "journal-title": "Am. J. Sports Med."
+        },
+        {
+          "key": "76704_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "7647",
+          "DOI": "10.1136/bmj.g7647",
+          "volume": "349",
+          "author": "L Shamseer",
+          "year": "2015",
+          "unstructured": "Shamseer, L. et al. Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement. BMJ 349, 7647 (2015).",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "76704_CR37",
+          "doi-asserted-by": "crossref",
+          "first-page": "160",
+          "DOI": "10.1097/00003086-198701000-00023",
+          "volume": "214",
+          "author": "CR Constant",
+          "year": "1987",
+          "unstructured": "Constant, C. R. & Murley, A. H. G. A clinical method of functional assessment of the shoulder. Clin. Orthop. Relat. Res. 214, 160–164 (1987).",
+          "journal-title": "Clin. Orthop. Relat. Res."
+        },
+        {
+          "key": "76704_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "372",
+          "DOI": "10.1002/ajim.4700280321",
+          "volume": "30",
+          "author": "P Hudak",
+          "year": "1996",
+          "unstructured": "Hudak, P. et al. Development of an upper extremity outcome measure: The DASH (Disabilities of the Arm, Shoulder, and Hand). Am. J. Ind Med. 30, 372–372 (1996).",
+          "journal-title": "Am. J. Ind Med."
+        },
+        {
+          "key": "76704_CR39",
+          "doi-asserted-by": "publisher",
+          "first-page": "143",
+          "DOI": "10.1002/art.1790040403",
+          "volume": "4",
+          "author": "KE Roach",
+          "year": "1991",
+          "unstructured": "Roach, K. E., Budiman-Mak, E., Songsiridej, N. & Lertratanakul, Y. Development of a shoulder pain and disability index. Arthritis Rheumatol. 4, 143–149 (1991).",
+          "journal-title": "Arthritis Rheumatol."
+        },
+        {
+          "key": "76704_CR40",
+          "doi-asserted-by": "publisher",
+          "first-page": "84",
+          "DOI": "10.1097/00042752-200303000-00004",
+          "volume": "13",
+          "author": "A Kirkley",
+          "year": "2003",
+          "unstructured": "Kirkley, A., Alvarez, C. & Griffin, S. The development and evaluation of a disease-specific quality-of-life questionnaire for disorders of the rotator cuff: The Western Ontario Rotator Cuff Index. Clin. J. Sport Med. 13, 84–92 (2003).",
+          "journal-title": "Clin. J. Sport Med."
+        },
+        {
+          "key": "76704_CR41",
+          "unstructured": "Endnote [program]. Philadelphia, USA."
+        },
+        {
+          "key": "76704_CR42",
+          "unstructured": "Covidence systematic review software. Melbourne, Australia: Innovation VH. www.covidence.org."
+        },
+        {
+          "key": "76704_CR43",
+          "doi-asserted-by": "publisher",
+          "first-page": "377",
+          "DOI": "10.1136/jech.52.6.377",
+          "volume": "52",
+          "author": "SH Downs",
+          "year": "1998",
+          "unstructured": "Downs, S. H. & Black, N. The feasibility of creating a checklist for the assessment of the methodological quality both of randomised and non-randomised studies of health care interventions. J. Epidemiol. Commun. Health 52, 377–384 (1998).",
+          "journal-title": "J. Epidemiol. Commun. Health"
+        },
+        {
+          "key": "76704_CR44",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Higgins, J. P. & Green, S. Cochrane handbook for systematic reviews of interventions: cochrane book series. https://www.mri.gov.lk/assets/Uploads/Research/Cochrane-Hand-booktext.pdf (2008).",
+          "DOI": "10.1002/9780470712184"
+        },
+        {
+          "key": "76704_CR45",
+          "doi-asserted-by": "publisher",
+          "first-page": "22",
+          "DOI": "10.1186/1471-2288-4-22",
+          "volume": "4",
+          "author": "P Katrak",
+          "year": "2004",
+          "unstructured": "Katrak, P., Bialocerkowski, A. E., Massy-Westropp, N., Kumar, S. & Grimmer, K. A. A systematic review of the content of critical appraisal tools. BMC Med. Res. Methodol. 4, 22 (2004).",
+          "journal-title": "BMC Med. Res. Methodol."
+        },
+        {
+          "key": "76704_CR46",
+          "doi-asserted-by": "publisher",
+          "first-page": "603",
+          "DOI": "10.1007/s10654-010-9491-z",
+          "volume": "25",
+          "author": "A Stang",
+          "year": "2010",
+          "unstructured": "Stang, A. Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses. Eur. J. Epidemiol. 25, 603–605 (2010).",
+          "journal-title": "Eur. J. Epidemiol."
+        },
+        {
+          "key": "76704_CR47",
+          "doi-asserted-by": "publisher",
+          "first-page": "387",
+          "DOI": "10.1136/bjsports-2016-097347",
+          "volume": "52",
+          "author": "V Korakakis",
+          "year": "2018",
+          "unstructured": "Korakakis, V., Whiteley, R., Tzavara, A. & Malliaropoulos, N. The effectiveness of extracorporeal shockwave therapy in common lower limb conditions: a systematic review including quantification of patient-rated pain reduction. Br. J. Sports Med. 52, 387–407 (2018).",
+          "journal-title": "Br. J. Sports Med."
+        },
+        {
+          "key": "76704_CR48",
+          "doi-asserted-by": "publisher",
+          "first-page": "110",
+          "DOI": "10.1002/jrsm.41",
+          "volume": "2",
+          "author": "JM Hootman",
+          "year": "2011",
+          "unstructured": "Hootman, J. M., Driban, J. B., Sitler, M. R., Harris, K. P. & Cattano, N. M. Reliability and validity of three quality rating instruments for systematic reviews of observational studies. Res. Synth. Methods. 2, 110–118 (2011).",
+          "journal-title": "Res. Synth. Methods."
+        },
+        {
+          "key": "76704_CR49",
+          "doi-asserted-by": "publisher",
+          "first-page": "1251",
+          "DOI": "10.1136/bjsports-2013-092389",
+          "volume": "48",
+          "author": "E Ratcliffe",
+          "year": "2014",
+          "unstructured": "Ratcliffe, E., Pickering, S., McLean, S. & Lewis, J. Is there a relationship between subacromial impingement syndrome and scapular orientation? A systematic review. Br. J. Sports Med. 48, 1251–1256 (2014).",
+          "journal-title": "Br. J. Sports Med."
+        },
+        {
+          "key": "76704_CR50",
+          "unstructured": "Review Manager (RevMan) [Computer program]. Version 5.3.5. Copenhagen: The Nordic Cochrane Centre TCC (2014)."
+        },
+        {
+          "key": "76704_CR51",
+          "doi-asserted-by": "publisher",
+          "first-page": "177",
+          "DOI": "10.1016/0197-2456(86)90046-2",
+          "volume": "7",
+          "author": "R Dersimonian",
+          "year": "1986",
+          "unstructured": "Dersimonian, R. & Laird, N. Meta-analysis in clinical trials. Control Clin Trials 7, 177–188 (1986).",
+          "journal-title": "Control Clin Trials"
+        },
+        {
+          "key": "76704_CR52",
+          "doi-asserted-by": "publisher",
+          "first-page": "e000279",
+          "DOI": "10.1136/bmjsem-2017-000279",
+          "volume": "3",
+          "author": "KM McCreesh",
+          "year": "2017",
+          "unstructured": "McCreesh, K. M., Purtill, H., Donnelly, A. E. & Lewis, J. S. Increased supraspinatus tendon thickness following fatigue loading in rotator cuff tendinopathy: potential implications for exercise therapy. BMJ Open Sport Exerc. Med. 3, e000279 (2017).",
+          "journal-title": "BMJ Open Sport Exerc. Med."
+        },
+        {
+          "key": "76704_CR53",
+          "doi-asserted-by": "publisher",
+          "first-page": "101",
+          "DOI": "10.1016/j.clinbiomech.2018.02.013",
+          "volume": "53",
+          "author": "S Navarro-Ledesma",
+          "year": "2018",
+          "unstructured": "Navarro-Ledesma, S. & Luque-Suarez, A. Comparison of acromiohumeral distance in symptomatic and asymptomatic patient shoulders and those of healthy controls. Clin. Biomech. (Bristol, Avon). 53, 101–106 (2018).",
+          "journal-title": "Clin. Biomech. (Bristol, Avon)."
+        },
+        {
+          "key": "76704_CR54",
+          "doi-asserted-by": "publisher",
+          "first-page": "524",
+          "DOI": "10.1123/jsr.2016-0146",
+          "volume": "26",
+          "author": "JC Benitez-Martinez",
+          "year": "2017",
+          "unstructured": "Benitez-Martinez, J. C. et al. Cross sectional area of the supraspinatus muscle and acromio-humeral distance in overhead athletes with and without shoulder pain: A cross-sectional study. J. Sport Rehabil. 26, 524–529 (2017).",
+          "journal-title": "J. Sport Rehabil."
+        },
+        {
+          "key": "76704_CR55",
+          "doi-asserted-by": "publisher",
+          "first-page": "398",
+          "DOI": "10.1080/09593985.2017.1318419",
+          "volume": "33",
+          "author": "B HougsKjær",
+          "year": "2017",
+          "unstructured": "HougsKjær, B., Ellegaard, K., Wieland, I., Warming, S. & Juul-Kristensen, B. Intra-rater and inter-rater reliability of the standardized ultrasound protocol for assessing subacromial structures. Physiother. Theory Pract. 33, 398–409 (2017).",
+          "journal-title": "Physiother. Theory Pract."
+        },
+        {
+          "key": "76704_CR56",
+          "doi-asserted-by": "publisher",
+          "first-page": "250",
+          "DOI": "10.1123/jsr.2017-0287",
+          "volume": "28",
+          "author": "HT Leong",
+          "year": "2019",
+          "unstructured": "Leong, H. T. & Fu, S. N. The effects of rigid scapular taping on the subacromial space in athletes with and without rotator cuff tendinopathy: a randomized controlled study. J. Sport Rehabil. 28, 250–255 (2019).",
+          "journal-title": "J. Sport Rehabil."
+        },
+        {
+          "key": "76704_CR57",
+          "doi-asserted-by": "publisher",
+          "first-page": "83",
+          "DOI": "10.1097/JSM.0b013e318198e2e3",
+          "volume": "19",
+          "author": "EM Mayerhoefer",
+          "year": "2009",
+          "unstructured": "Mayerhoefer, E. M., Breitenseher, J. M., Wurnig, J. C. & Roposch, J. A. Shoulder impingement: relationship of clinical symptoms and imaging criteria. Clin. J. Sport Med. 19, 83–89 (2009).",
+          "journal-title": "Clin. J. Sport Med."
+        },
+        {
+          "key": "76704_CR58",
+          "doi-asserted-by": "publisher",
+          "first-page": "38",
+          "DOI": "10.1016/j.msksp.2017.02.011",
+          "volume": "29",
+          "author": "S Navarro-Ledesma",
+          "year": "2017",
+          "unstructured": "Navarro-Ledesma, S. et al. Does the acromiohumeral distance matter in chronic rotator cuff related shoulder pain?. Musculoskelet Sci. Pract. 29, 38–42 (2017).",
+          "journal-title": "Musculoskelet Sci. Pract."
+        },
+        {
+          "key": "76704_CR59",
+          "doi-asserted-by": "publisher",
+          "first-page": "221",
+          "DOI": "10.3233/BMR-160737",
+          "volume": "30",
+          "author": "N Akkaya",
+          "year": "2017",
+          "unstructured": "Akkaya, N. et al. Effects of weighted and un-weighted pendulum exercises on ultrasonographic acromiohumeral distance in patients with subacromial impingement syndrome. J. Back Musculoskelet Rehabil. 30, 221–228 (2017).",
+          "journal-title": "J. Back Musculoskelet Rehabil."
+        },
+        {
+          "key": "76704_CR60",
+          "doi-asserted-by": "publisher",
+          "first-page": "541",
+          "DOI": "10.2519/jospt.2018.7871",
+          "volume": "48",
+          "author": "AF Belley",
+          "year": "2018",
+          "unstructured": "Belley, A. F. et al. Anodal transcranial direct-current stimulation to enhance rehabilitation in individuals with rotator cuff tendinopathy: A triple-blind randomized controlled trial. J. Orthop. Sports Phys Ther. 48, 541–551 (2018).",
+          "journal-title": "J. Orthop. Sports Phys Ther."
+        },
+        {
+          "key": "76704_CR61",
+          "doi-asserted-by": "publisher",
+          "first-page": "126",
+          "DOI": "10.2519/jospt.2019.8240",
+          "volume": "49",
+          "author": "N Boudreau",
+          "year": "2019",
+          "unstructured": "Boudreau, N., Gaudreault, N., Roy, J. S., Bédard, S. & Balg, F. The addition of glenohumeral adductor coactivation to a rotator cuff exercise program for rotator cuff tendinopathy: a single-blind randomized controlled trial. J. Orthop. Sports Phys Ther. 49, 126–135 (2019).",
+          "journal-title": "J. Orthop. Sports Phys Ther."
+        },
+        {
+          "key": "76704_CR62",
+          "doi-asserted-by": "publisher",
+          "first-page": "e000477",
+          "DOI": "10.1136/bmjsem-2018-000477",
+          "volume": "4",
+          "author": "F Dupuis",
+          "year": "2018",
+          "unstructured": "Dupuis, F. et al. Cryotherapy or gradual reloading exercises in acute presentations of rotator cuff tendinopathy: a randomised controlled trial. BMJ Open Sport Exerc. Med. 4, e000477 (2018).",
+          "journal-title": "BMJ Open Sport Exerc. Med."
+        },
+        {
+          "key": "76704_CR63",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1016/j.math.2016.02.005",
+          "volume": "23",
+          "author": "TA Mackenzie",
+          "year": "2016",
+          "unstructured": "Mackenzie, T. A., Herrington, L., Funk, L., Horsley, I. & Cools, A. Relationship between extrinsic factors and the acromio-humeral distance. Man Ther. 23, 1–8 (2016).",
+          "journal-title": "Man Ther."
+        },
+        {
+          "key": "76704_CR64",
+          "doi-asserted-by": "publisher",
+          "first-page": "1269",
+          "DOI": "10.1136/bmj.307.6914.1269",
+          "volume": "307",
+          "author": "J Brox",
+          "year": "1993",
+          "unstructured": "Brox, J. Arthroscopic surgery compared with supervised exercises in patients with rotator cuff disease (stage-II impingment syndrome). Br. Med. J. 307, 1269–1269 (1993).",
+          "journal-title": "Br. Med. J."
+        },
+        {
+          "key": "76704_CR65",
+          "doi-asserted-by": "publisher",
+          "first-page": "102",
+          "DOI": "10.1016/S1058-2746(99)90001-0",
+          "volume": "8",
+          "author": "JI Brox",
+          "year": "1999",
+          "unstructured": "Brox, J. I. et al. Arthroscopic surgery versus supervised exercises in patients with rotator cuff disease (stage II impingement syndrome): A prospective, randomized, controlled study in 125 patients with a 2 1 2-year follow-up. J. Shoulder Elbow Surg. 8, 102–111 (1999).",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "key": "76704_CR66",
+          "doi-asserted-by": "publisher",
+          "first-page": "366",
+          "DOI": "10.1177/036354659001800406",
+          "volume": "18",
+          "author": "JJ Warner",
+          "year": "1990",
+          "unstructured": "Warner, J. J., Micheli, L. J., Arslanian, L. E., Kennedy, J. & Kennedy, R. Patterns of flexibility, laxity, and strength in normal shoulders and shoulders with instability and impingement. Am. J. Sports Med. 18, 366–375 (1990).",
+          "journal-title": "Am. J. Sports Med."
+        },
+        {
+          "key": "76704_CR67",
+          "doi-asserted-by": "publisher",
+          "first-page": "519",
+          "DOI": "10.1067/mse.2000.109410",
+          "volume": "9",
+          "author": "AS Reddy",
+          "year": "2000",
+          "unstructured": "Reddy, A. S., Mohr, K. J., Pink, M. M. & Jobe, F. W. Electromyographic analysis of the deltoid and rotator cuff muscles in persons with subacromial impingement. J. Shoulder Elbow Surg. 9, 519–523 (2000).",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "key": "76704_CR68",
+          "first-page": "178",
+          "volume": "321",
+          "author": "RH Hawkins",
+          "year": "1995",
+          "unstructured": "Hawkins, R. H. & Dunlop, R. Nonoperative treatment of rotator cuff tears. Clin. Orthop. Relat. Res. 321, 178–188 (1995).",
+          "journal-title": "Clin. Orthop. Relat. Res."
+        },
+        {
+          "key": "76704_CR69",
+          "doi-asserted-by": "crossref",
+          "first-page": "108",
+          "DOI": "10.1097/00003086-199407000-00018",
+          "volume": "304",
+          "author": "JL Leroux",
+          "year": "1994",
+          "unstructured": "Leroux, J. L. et al. Isokinetic evaluation of rotational strength in normal shoulders and shoulders with impingement syndrome. Clin. Orthop. Relat. Res. 304, 108–115 (1994).",
+          "journal-title": "Clin. Orthop. Relat. Res."
+        },
+        {
+          "key": "76704_CR70",
+          "doi-asserted-by": "crossref",
+          "first-page": "90",
+          "DOI": "10.1097/00003086-199411000-00015",
+          "volume": "308",
+          "author": "A Bartolozzi",
+          "year": "1994",
+          "unstructured": "Bartolozzi, A., Andreychik, D. & Ahmad, S. Determinants of outcome in the treatment of rotator cuff disease. Clin. Orthop. Relat. Res. 308, 90–97 (1994).",
+          "journal-title": "Clin. Orthop. Relat. Res."
+        },
+        {
+          "key": "76704_CR71",
+          "doi-asserted-by": "publisher",
+          "first-page": "79",
+          "DOI": "10.3944/AOTT.2011.2425",
+          "volume": "45",
+          "author": "D Celik",
+          "year": "2011",
+          "unstructured": "Celik, D., Sirmen, B. & Demirhan, M. The relationship of muscle strength and pain in subacromial impingement syndrome. ActaOrthop. Traumatol. Turc. 45, 79–84 (2011).",
+          "journal-title": "ActaOrthop. Traumatol. Turc."
+        },
+        {
+          "key": "76704_CR72",
+          "doi-asserted-by": "publisher",
+          "first-page": "302",
+          "DOI": "10.1186/s12891-017-1667-1",
+          "volume": "18",
+          "author": "MB Clausen",
+          "year": "2017",
+          "unstructured": "Clausen, M. B. et al. Glenohumeral and scapulothoracic strength impairments exists in patients with subacromial impingement, but these are not reflected in the shoulder pain and disability index. BMC Musculoskelet Disord. 18, 302 (2017).",
+          "journal-title": "BMC Musculoskelet Disord."
+        },
+        {
+          "key": "76704_CR73",
+          "doi-asserted-by": "publisher",
+          "first-page": "297",
+          "DOI": "10.1016/j.semarthrit.2012.03.015",
+          "volume": "42",
+          "author": "CE Hanratty",
+          "year": "2012",
+          "unstructured": "Hanratty, C. E. et al. The effectiveness of physiotherapy exercises in subacromial impingement syndrome: a systematic review and meta-analysis. Semin. Arthritis Rheum. 42, 297–316 (2012).",
+          "journal-title": "Semin. Arthritis Rheum."
+        },
+        {
+          "key": "76704_CR74",
+          "doi-asserted-by": "publisher",
+          "first-page": "918",
+          "DOI": "10.1136/bjsm.2008.054817",
+          "volume": "44",
+          "author": "JS Lewis",
+          "year": "2010",
+          "unstructured": "Lewis, J. S. Rotator cuff tendinopathy: a model for the continuum of pathology and related management. Br. J. Sports Med. 44, 918–923 (2010).",
+          "journal-title": "Br. J. Sports Med."
+        },
+        {
+          "key": "76704_CR75",
+          "doi-asserted-by": "publisher",
+          "first-page": "810",
+          "DOI": "10.1007/s11999.0000000000000087",
+          "volume": "476",
+          "author": "RA Coronado",
+          "year": "2018",
+          "unstructured": "Coronado, R. A., Seitz, A. L., Pelote, E., Archer, K. R. & Jain, N. B. Are psychosocial factors associated with patient-reported outcome measures in patients with rotator cuff tears? A systematic review. Clin. Orthop. Relat. Res. 476, 810–829 (2018).",
+          "journal-title": "Clin. Orthop. Relat. Res."
+        }
+      ],
+      "container-title": [
+        "Scientific Reports"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.nature.com/articles/s41598-020-76704-z.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.nature.com/articles/s41598-020-76704-z",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.nature.com/articles/s41598-020-76704-z.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            18
+          ]
+        ],
+        "date-time": "2024-08-18T03:17:31Z",
+        "timestamp": 1723951051000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.nature.com/articles/s41598-020-76704-z"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            26
+          ]
+        ]
+      },
+      "references-count": 75,
+      "journal-issue": {
+        "issue": "1",
+        "published-online": {
+          "date-parts": [
+            [
+              2020,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "76704"
+      ],
+      "URL": "https://doi.org/10.1038/s41598-020-76704-z",
+      "relation": {},
+      "ISSN": [
+        "2045-2322"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2045-2322"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            26
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "15 March 2020",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "26 October 2020",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "26 November 2020",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "The authors declare no competing interests.",
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        }
+      ],
+      "article-number": "20611"
+    }
+  }
+}

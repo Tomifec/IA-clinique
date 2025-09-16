@@ -1,0 +1,728 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_bmjsem_2019_000683.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_bmjsem_2019_000683",
+  "doi": "10.1136/bmjsem-2019-000683",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:52.145388Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            11
+          ]
+        ],
+        "date-time": "2025-09-11T07:15:18Z",
+        "timestamp": 1757574918804,
+        "version": "3.44.0"
+      },
+      "reference-count": 65,
+      "publisher": "BMJ",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                4,
+                22
+              ]
+            ],
+            "date-time": "2020-04-22T00:00:00Z",
+            "timestamp": 1587513600000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 21,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "BMJ Open Sport Exerc Med"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2020,
+            3,
+            8
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            4
+          ]
+        ]
+      },
+      "abstract": "<jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>To investigate the influence of trunk and lower limb motion on electromyography (EMG) muscle activity and recruitment patterns around the shoulder.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Design</jats:title>\n                  <jats:p>Systematic review.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Data sources</jats:title>\n                  <jats:p>MEDLINE, CINAHL, PEDro, AMED, PubMed, Cochrane Central Register of Controlled trials, Cochrane Database of Systematic reviews, SportsDiscuss and PROSPERO.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Eligibility criteria</jats:title>\n                  <jats:p>Studies investigating both multiregional kinetic chain (KC) shoulder exercises <jats:italic>and</jats:italic> localised non-kinetic chain (nKC) shoulder exercises in healthy subjects under the same experimental conditions were included in this review.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>KC exercises produced greater EMG activation levels in 5 of 11 studies for the lower trapezius. Of the remaining studies, five found no difference between the exercise types and one favoured nKC exercises. KC exercises produced greater EMG activation levels in 5 of 11 studies for the serratus anterior. Of the remaining studies, three reported the opposite and three found no significant difference between the exercise types. nKC exercises produced greater EMG activation in infraspinatus in three of four studies. KC exercises produced the lowest trapezius muscle ratios in all studies. Studies investigating the upper trapezius, middle trapezius, supraspinatus, subscapularis, biceps brachii, latifissimus dorsi, pectoralis major, deltoid, and trapezius and serratus anterior ratios showed inconsistency.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>This review found evidence that integrating the KC during shoulder rehabilitation may increase axioscapular muscle recruitment, produce lower trapezius muscle ratios and reduce the demands on the rotator cuff. Stepping appears preferable to squatting.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>PROSPERO registration number</jats:title>\n                  <jats:p>CRD42015032557, 2015.</jats:p>\n               </jats:sec>",
+      "DOI": "10.1136/bmjsem-2019-000683",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            23
+          ]
+        ],
+        "date-time": "2020-04-23T07:01:08Z",
+        "timestamp": 1587625268000
+      },
+      "page": "e000683",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 32,
+      "title": [
+        "Role of the kinetic chain in shoulder rehabilitation: does incorporating the trunk and lower limb into shoulder exercise regimes influence shoulder muscle recruitment patterns? Systematic review of electromyography studies"
+      ],
+      "prefix": "10.1136",
+      "volume": "6",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4330-2020",
+          "authenticated-orcid": false,
+          "given": "Eleanor",
+          "family": "Richardson",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy, BMI The Alexandra Hospital, Cheadle, UK"
+            },
+            {
+              "name": "Faculty of Health Psychology and Social Care, Manchester Metropolitan University, Didsbury, Manchester, UK"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7870-9165",
+          "authenticated-orcid": false,
+          "given": "Jeremy S",
+          "family": "Lewis",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Health and Social Work, University of Hertfordshire, Hatfield, Hertfordshire, UK"
+            },
+            {
+              "name": "Therapy Department London, Central London Community Healthcare NHS Trust, London, UK"
+            },
+            {
+              "name": "Department of Physical Therapy and Rehabilitation Sciences, Qatar University, Doha, Qatar"
+            }
+          ]
+        },
+        {
+          "given": "Jo",
+          "family": "Gibson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy, Royal Liverpool and Broadgreen Hospitals NHS Trust, Liverpool, UK"
+            },
+            {
+              "name": "The School of Health Sciences, University of Liverpool, Liverpool, UK"
+            }
+          ]
+        },
+        {
+          "given": "Chris",
+          "family": "Morgan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "High Performance Unit, Medical Department, Arsenal Football Club, London, UK"
+            }
+          ]
+        },
+        {
+          "given": "Mark",
+          "family": "Halaki",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Health Sciences, The University of Sydney, Sydney, New South Wales, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Karen",
+          "family": "Ginn",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Health Sciences, The University of Sydney, Sydney, New South Wales, Australia"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3872-9799",
+          "authenticated-orcid": false,
+          "given": "Gillian",
+          "family": "Yeowell",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Health Psychology and Social Care, Manchester Metropolitan University, Didsbury, Manchester, UK"
+            }
+          ]
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            22
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2025083112464336000_6.1.e000683.1",
+          "doi-asserted-by": "crossref",
+          "first-page": "S69",
+          "DOI": "10.1016/j.pmrj.2015.11.015",
+          "article-title": "The kinetic chain revisited: new concepts on throwing mechanics and injury",
+          "volume": "8",
+          "author": "Chu",
+          "year": "2016",
+          "journal-title": "Pm R"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1590/bjpt-rbf.2014.0109"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1053/otsm.2000.17775"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546514547173"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.5",
+          "first-page": "1",
+          "article-title": "Kinetic chain rehabilitation: a theoretical framework",
+          "volume": "2012",
+          "author": "Sciascia",
+          "year": "2012",
+          "journal-title": "Rehabil Res Pract"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.6",
+          "doi-asserted-by": "crossref",
+          "first-page": "S78",
+          "DOI": "10.1016/j.pmrj.2015.12.005",
+          "article-title": "Rehabilitation of the overhead throwing athlete: there is more to it than just external Rotation/Internal rotation strengthening",
+          "volume": "8",
+          "author": "Wilk",
+          "year": "2016",
+          "journal-title": "Pm R"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2016-096226"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546514542804"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.9",
+          "doi-asserted-by": "crossref",
+          "first-page": "689",
+          "DOI": "10.1589/jpts.26.689",
+          "article-title": "Correlation of shoulder and elbow injuries with muscle tightness, core stability, and balance by longitudinal measurements in junior high school baseball players",
+          "volume": "26",
+          "author": "Endo",
+          "year": "2014",
+          "journal-title": "J Phys Ther Sci"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2165/00007256-200636030-00001"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1519/JSC.0b013e3181c865ce"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.12",
+          "doi-asserted-by": "crossref",
+          "first-page": "1494",
+          "DOI": "10.1519/JSC.0000000000000797",
+          "article-title": "Gluteus medius and scapula muscle activations in youth baseball pitchers",
+          "volume": "29",
+          "author": "Oliver",
+          "year": "2015",
+          "journal-title": "J Strength Cond Res"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1447",
+          "DOI": "10.1080/02640414.2014.990493",
+          "article-title": "Hip range of motion and scapula position in youth baseball pitching pre and post simulated game",
+          "volume": "33",
+          "author": "Oliver",
+          "year": "2015",
+          "journal-title": "J Sports Sci"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.14",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.1519/JSC.0b013e318295d80f",
+          "article-title": "The relationship between gluteal muscle activation and throwing kinematics in baseball and softball catchers",
+          "volume": "28",
+          "author": "Plummer",
+          "year": "2014",
+          "journal-title": "J Strength Cond Res"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.15",
+          "doi-asserted-by": "crossref",
+          "first-page": "581",
+          "DOI": "10.1016/j.jsams.2014.07.011",
+          "article-title": "The relationship between clinically measured hip rotational motion and shoulder biomechanics during the pitching motion",
+          "volume": "18",
+          "author": "Laudner",
+          "year": "2015",
+          "journal-title": "J Sci Med Sport"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1941738114523239"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546510375535"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4085/1062-6050-45.2.191"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.csm.2008.07.007"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.20",
+          "first-page": "141",
+          "article-title": "Relationships between maximal anaerobic power of the arms and legs and javelin performance",
+          "volume": "47",
+          "author": "Bouhlel",
+          "year": "2007",
+          "journal-title": "J Sports Med Phys Fitness"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1519/JSC.0b013e3181d32fbf"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1519/JSC.0b013e3181ff506f"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsm.26.3.151"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2015-095215"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S1058-2746(99)90001-0"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2000.30.3.126"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/oem.60.11.841"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.28",
+          "doi-asserted-by": "crossref",
+          "first-page": "832",
+          "DOI": "10.1093/ptj/84.9.832",
+          "article-title": "Shoulder function and 3-dimensional kinematics in people with shoulder impingement syndrome before and after a 6-week exercise program",
+          "volume": "84",
+          "author": "McClure",
+          "year": "2004",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jse.2004.02.002"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/16501970410023443"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S1356-689X(03)00094-8"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546513497567"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.33",
+          "unstructured": "Howick J , Chalmers I , Glasziou P , et al . The 2011 Oxford levels of evidence (introductory document). Oxford centre for evidence-based medicine. Available: https://www.cebm.net/2009/06/oxford-centre-evidence-based-medicine-levels-evidence-march-2009/ [Accessed 10 Jan 2018]."
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/ije/dym018"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/jech.52.6.377"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.36",
+          "first-page": "1",
+          "volume-title": "Evaluating non-randomised intervention studies",
+          "volume": "2003",
+          "author": "Deek",
+          "year": "2003"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.37",
+          "unstructured": "Higgins JPT , Green S , eds. Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0. The Cochrane Collaboration, 2011. http://handbook.cochrane.org"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2008.06.036"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.39",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1310/sci1301-1",
+          "article-title": "Spinal cord injury rehabilitation evidence: methods of the SCIRE systematic review",
+          "volume": "13",
+          "author": "Eng",
+          "year": "2007",
+          "journal-title": "Top Spinal Cord Inj Rehabil"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.40",
+          "doi-asserted-by": "crossref",
+          "first-page": "2067",
+          "DOI": "10.1016/j.apmr.2015.05.002",
+          "article-title": "Impact of Injection-Guiding techniques on the effectiveness of botulinum toxin for the treatment of focal spasticity and dystonia: a systematic review",
+          "volume": "96",
+          "author": "Grigoriu",
+          "year": "2015",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/jmir.1286"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s13104-015-1181-1"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.i4919"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.44",
+          "unstructured": "Basmajian JV , De Luca CJ . Muscles alive: their functions revealed by electromyography. 5th edn. Baltimore: Lippincott Williams & Wilkins Company, 1985."
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jelekin.2010.08.007"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.46",
+          "doi-asserted-by": "crossref",
+          "first-page": "251",
+          "DOI": "10.1007/BF00705090",
+          "article-title": "Electromyographic changes in work-related myalgia of the trapezius muscle",
+          "volume": "65",
+          "author": "Oberg",
+          "year": "1992",
+          "journal-title": "Eur J Appl Physiol Occup Physiol"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.47",
+          "doi-asserted-by": "crossref",
+          "first-page": "7",
+          "DOI": "10.1093/ptj/61.1.7",
+          "article-title": "Surface versus intramuscular electrodes for electromyography of superficial and deep muscles",
+          "volume": "61",
+          "author": "Perry",
+          "year": "1981",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.48",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.1016/S0268-0033(02)00140-7",
+          "article-title": "Surface EMG electrodes do not accurately record from lumbar multifidus muscles",
+          "volume": "18",
+          "author": "Stokes",
+          "year": "2003",
+          "journal-title": "Clin Biomech"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jelekin.2014.10.008"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jelekin.2014.01.007"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.51",
+          "unstructured": "Merletti R , di Torino P . Standards for reporting EMG data. J Electromyogr Kinesiol 1999;9."
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.52",
+          "doi-asserted-by": "crossref",
+          "first-page": "195",
+          "DOI": "10.4085/1062-6050-51.4.10",
+          "article-title": "Electromyographic activity of scapular muscle control in free-motion exercise",
+          "volume": "51",
+          "author": "Nakamura",
+          "year": "2016",
+          "journal-title": "J Athl Train"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jsams.2012.04.008"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.54",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2006.2306"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.55",
+          "first-page": "924",
+          "article-title": "Effects of lower extremity and trunk muscles recruitment on serratus anterior muscle activation in healthy male adults",
+          "volume": "9",
+          "author": "Kaur",
+          "year": "2014",
+          "journal-title": "Int J Sports Phys Ther"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.56",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546508316281"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsm.2009.062810"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.58",
+          "doi-asserted-by": "crossref",
+          "first-page": "39",
+          "DOI": "10.1016/j.jelekin.2016.01.003",
+          "article-title": "Scapular muscle activity in a variety of plyometric exercises",
+          "volume": "27",
+          "author": "Maenhout",
+          "year": "2016",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.59",
+          "doi-asserted-by": "crossref",
+          "first-page": "679",
+          "DOI": "10.1016/j.jelekin.2013.01.012",
+          "article-title": "Effects of trunk rotation on scapular kinematics and muscle activity during humeral elevation",
+          "volume": "23",
+          "author": "Nagai",
+          "year": "2013",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.60",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2007.07.028"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.61",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4085/1062-6050-49.3.80"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.62",
+          "first-page": "132",
+          "article-title": "Electromyographic assessment of passive, active assisted, and active shoulder rehabilitation exercises",
+          "volume": "2",
+          "author": "Uhl",
+          "year": "2010",
+          "journal-title": "Am J Phys Med Rehabil"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.63",
+          "doi-asserted-by": "crossref",
+          "first-page": "955",
+          "DOI": "10.1016/j.jse.2014.10.010",
+          "article-title": "The effect of trunk rotation during shoulder exercises on the activity of the scapular muscle and scapular kinematics",
+          "volume": "24",
+          "author": "Yamauchi",
+          "year": "2015",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.64",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546507303560"
+        },
+        {
+          "key": "2025083112464336000_6.1.e000683.65",
+          "doi-asserted-by": "crossref",
+          "first-page": "179",
+          "DOI": "10.1097/00003086-199303000-00023",
+          "article-title": "A kinematic and electromyographic study of shoulder rehabilitation exercises",
+          "volume": "288",
+          "author": "McCann",
+          "year": "1993",
+          "journal-title": "Clin Orthop Relat Res"
+        }
+      ],
+      "container-title": [
+        "BMJ Open Sport &amp; Exercise Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjsem-2019-000683",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            31
+          ]
+        ],
+        "date-time": "2025-08-31T19:46:50Z",
+        "timestamp": 1756669610000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bmjopensem.bmj.com/lookup/doi/10.1136/bmjsem-2019-000683"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2020,
+            4
+          ]
+        ]
+      },
+      "references-count": 65,
+      "journal-issue": {
+        "issue": "1",
+        "published-online": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              22
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              4
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bmjsem-2019-000683"
+      ],
+      "URL": "https://doi.org/10.1136/bmjsem-2019-000683",
+      "relation": {},
+      "ISSN": [
+        "2055-7647"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2055-7647"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            4
+          ]
+        ]
+      }
+    }
+  }
+}

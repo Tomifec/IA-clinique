@@ -1,0 +1,859 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1007_s00586_013_2844_z.md",
+  "id": "evidence_import_refs_2025_09_12_10_1007_s00586_013_2844_z",
+  "doi": "10.1007/s00586-013-2844-z",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:24.516078Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            2
+          ]
+        ],
+        "date-time": "2025-09-02T10:45:41Z",
+        "timestamp": 1756809941289
+      },
+      "reference-count": 56,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2013,
+                6,
+                16
+              ]
+            ],
+            "date-time": "2013-06-16T00:00:00Z",
+            "timestamp": 1371340800000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/2.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Eur Spine J"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1007/s00586-013-2844-z",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2013,
+            6,
+            15
+          ]
+        ],
+        "date-time": "2013-06-15T18:52:30Z",
+        "timestamp": 1371322350000
+      },
+      "page": "102-112",
+      "source": "Crossref",
+      "is-referenced-by-count": 45,
+      "title": [
+        "Predictive factors for successful clinical outcome 1 year after an intensive combined physical and psychological programme for chronic low back pain"
+      ],
+      "prefix": "10.1007",
+      "volume": "23",
+      "author": [
+        {
+          "given": "Miranda L.",
+          "family": "van Hooff",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Maarten",
+          "family": "Spruit",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "John K.",
+          "family": "O’Dowd",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Wim",
+          "family": "van Lankveld",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jeremy C. T.",
+          "family": "Fairbank",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jacques",
+          "family": "van Limbeek",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2013,
+            6,
+            16
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "7",
+          "key": "2844_CR1",
+          "doi-asserted-by": "crossref",
+          "first-page": "999",
+          "DOI": "10.1007/s00586-011-1885-4",
+          "volume": "20",
+          "author": "MW Tulder van",
+          "year": "2011",
+          "unstructured": "van Tulder MW (2011) Health technology assessment (HTA) increasingly important in spine research. Eur Spine J 20(7):999–1000",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "13",
+          "key": "2844_CR2",
+          "doi-asserted-by": "crossref",
+          "first-page": "1050",
+          "DOI": "10.1097/BRS.0b013e3181e70488",
+          "volume": "36",
+          "author": "LC Lambeek",
+          "year": "2011",
+          "unstructured": "Lambeek LC, van Tulder MW, Swinkels IC, Koppes LL, Anema JR, van Mechelen W (2011) The trend in total cost of back pain in The Netherlands in the period 2002 to 2007. Spine (Phila Pa 1976) 36(13):1050–1058",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "2844_CR3",
+          "doi-asserted-by": "crossref",
+          "first-page": "101",
+          "DOI": "10.1097/00003086-199206000-00012",
+          "volume": "279",
+          "author": "JW Frymoyer",
+          "year": "1992",
+          "unstructured": "Frymoyer JW (1992) Predicting disability from low back pain. Clin Orthop Relat Res 279:101–109",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "issue": "3",
+          "key": "2844_CR4",
+          "doi-asserted-by": "crossref",
+          "first-page": "317",
+          "DOI": "10.1016/S0304-3959(99)00242-0",
+          "volume": "85",
+          "author": "JW Vlaeyen",
+          "year": "2000",
+          "unstructured": "Vlaeyen JW, Linton SJ (2000) Fear-avoidance and its consequences in chronic musculoskeletal pain: a state of the art. Pain 85(3):317–332",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "17",
+          "key": "2844_CR5",
+          "doi-asserted-by": "crossref",
+          "first-page": "758",
+          "DOI": "10.1080/09638280110061744",
+          "volume": "23",
+          "author": "M Truchon",
+          "year": "2001",
+          "unstructured": "Truchon M (2001) Determinants of chronic disability related to low back pain: towards an integrative biopsychosocial model. Disabil Rehabil 23(17):758–767",
+          "journal-title": "Disabil Rehabil"
+        },
+        {
+          "issue": "7",
+          "key": "2844_CR6",
+          "doi-asserted-by": "crossref",
+          "first-page": "813",
+          "DOI": "10.1097/01.brs.0000157414.47713.78",
+          "volume": "30",
+          "author": "M Hulst van der",
+          "year": "2005",
+          "unstructured": "van der Hulst M, Vollenbroek-Hutten MM, Ijzerman MJ (2005) A systematic review of sociodemographic, physical, and psychological predictors of multidisciplinary rehabilitation-or, back school treatment outcome in patients with chronic low back pain. Spine (Phila Pa 1976) 30(7):813–825",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "12",
+          "key": "2844_CR7",
+          "doi-asserted-by": "crossref",
+          "first-page": "1867",
+          "DOI": "10.1007/s00586-009-1080-z",
+          "volume": "18",
+          "author": "P Hampel",
+          "year": "2009",
+          "unstructured": "Hampel P, Graef T, Krohn-Grimberghe B, Tlach L (2009) Effects of gender and cognitive-behavioral management of depressive symptoms on rehabilitation outcome among inpatient orthopedic patients with chronic low back pain: a 1 year longitudinal study. Eur Spine J 18(12):1867–1880",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "9",
+          "key": "2844_CR8",
+          "doi-asserted-by": "crossref",
+          "first-page": "739",
+          "DOI": "10.1097/AJP.0b013e3181f15d45",
+          "volume": "26",
+          "author": "T Pincus",
+          "year": "2010",
+          "unstructured": "Pincus T, Smeets RJ, Simmonds MJ, Sullivan MJ (2010) The fear avoidance model disentangled: improving the clinical utility of the fear avoidance model. Clin J Pain 26(9):739–746",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "issue": "12",
+          "key": "2844_CR9",
+          "doi-asserted-by": "crossref",
+          "first-page": "2143",
+          "DOI": "10.1007/s00586-011-1810-x",
+          "volume": "20",
+          "author": "L Tlach",
+          "year": "2011",
+          "unstructured": "Tlach L, Hampel P (2011) Long-term effects of a cognitive-behavioral training program for the management of depressive symptoms among patients in orthopedic inpatient rehabilitation of chronic low back pain: a 2-year follow-up. Eur Spine J 20(12):2143–2151",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "2",
+          "key": "2844_CR10",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1097/00002508-200106000-00009",
+          "volume": "17",
+          "author": "R Severeijns",
+          "year": "2001",
+          "unstructured": "Severeijns R, Vlaeyen JW, van den Hout MA, Weber WE (2001) Pain catastrophizing predicts pain intensity, disability, and psychological distress independent of the level of physical impairment. Clin J Pain 17(2):165–172",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "issue": "4",
+          "key": "2844_CR11",
+          "doi-asserted-by": "crossref",
+          "first-page": "261",
+          "DOI": "10.1016/j.jpain.2005.10.011",
+          "volume": "7",
+          "author": "RJ Smeets",
+          "year": "2006",
+          "unstructured": "Smeets RJ, Vlaeyen JW, Kester AD, Knottnerus JA (2006) Reduction of pain catastrophizing mediates the outcome of both physical and cognitive-behavioral treatment in chronic low back pain. J Pain 7(4):261–271",
+          "journal-title": "J Pain"
+        },
+        {
+          "issue": "Suppl 2",
+          "key": "2844_CR12",
+          "doi-asserted-by": "crossref",
+          "first-page": "S192",
+          "DOI": "10.1007/s00586-006-1072-1",
+          "volume": "15",
+          "author": "O Airaksinen",
+          "year": "2006",
+          "unstructured": "Airaksinen O, Brox JI, Cedraschi C, Hildebrandt J, Klaber-Moffett J, Kovacs F, Mannion AF, Reis S, Staal JB, Ursin H, Zanoli G (2006) Chapter 4. European guidelines for the management of chronic nonspecific low back pain. Eur Spine J 15(Suppl 2):S192–S300",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "10",
+          "key": "2844_CR13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1066",
+          "DOI": "10.1097/BRS.0b013e3181a1390d",
+          "volume": "34",
+          "author": "R Chou",
+          "year": "2009",
+          "unstructured": "Chou R, Loeser JD, Owens DK, Rosenquist RW, Atlas SJ, Baisden J, Carragee EJ, Grabois M, Murphy DR, Resnick DK, Stanos SP, Shaffer WO, Wall EM (2009) Interventional therapies, surgery, and interdisciplinary rehabilitation for low back pain: an evidence-based clinical practice guideline from the American pain society. Spine (Phila Pa 1976) 34(10):1066–1077",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "2844_CR14",
+          "unstructured": "NICE National Institute for Health and Clinical Excellence (2009) Low back pain: early management of persistent non-specific low back pain"
+        },
+        {
+          "key": "2844_CR15",
+          "first-page": "CD002014",
+          "volume": "7",
+          "author": "N Henschke",
+          "year": "2010",
+          "unstructured": "Henschke N, Ostelo RW, van Tulder MW, Vlaeyen JW, Morley S, Assendelft WJ, Main CJ (2010) Behavioural treatment for chronic low-back pain. Cochrane Database Syst Rev 7:CD002014",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "2844_CR16",
+          "unstructured": "Hall H, McIntosh G (2008) Low back pain (chronic). Clin Evid (Online). pii:1116"
+        },
+        {
+          "key": "2844_CR17",
+          "doi-asserted-by": "crossref",
+          "first-page": "11",
+          "DOI": "10.1186/1471-2474-9-11",
+          "volume": "9",
+          "author": "BM Wand",
+          "year": "2008",
+          "unstructured": "Wand BM, O’Connell NE (2008) Chronic non-specific low back pain-sub-groups or a single mechanism? BMC Musculoskelet Disord 9:11",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "22",
+          "key": "2844_CR18",
+          "doi-asserted-by": "crossref",
+          "first-page": "2564",
+          "DOI": "10.1097/00007632-200211150-00033",
+          "volume": "27",
+          "author": "LM McCracken",
+          "year": "2002",
+          "unstructured": "McCracken LM, Turk DC (2002) Behavioral and cognitive-behavioral treatment for chronic pain: outcome, predictors of outcome, and treatment process. Spine (Phila Pa 1976) 27(22):2564–2573",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "5",
+          "key": "2844_CR19",
+          "doi-asserted-by": "crossref",
+          "first-page": "E109",
+          "DOI": "10.1097/00007632-200203010-00017",
+          "volume": "27",
+          "author": "T Pincus",
+          "year": "2002",
+          "unstructured": "Pincus T, Burton AK, Vogel S, Field AP (2002) A systematic review of psychological factors as predictors of chronicity/disability in prospective cohorts of low back pain. Spine (Phila Pa 1976) 27(5):E109–E120",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "9",
+          "key": "2844_CR20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1517",
+          "DOI": "10.1007/s00586-010-1435-5",
+          "volume": "19",
+          "author": "ML Hooff van",
+          "year": "2010",
+          "unstructured": "van Hooff ML, van der Merwe JD, O’Dowd J, Pavlov PW, Spruit M, de Kleuver M, van Limbeek J (2010) Daily functioning and self-management in patients with chronic low back pain after an intensive cognitive behavioral programme for pain management. Eur Spine J 19(9):1517–1526",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "7",
+          "key": "2844_CR21",
+          "doi-asserted-by": "crossref",
+          "first-page": "1257",
+          "DOI": "10.1007/s00586-011-2091-0",
+          "volume": "21",
+          "author": "ML Hooff van",
+          "year": "2012",
+          "unstructured": "van Hooff ML, ter Avest W, Horsting PP, O’Dowd J, de Kleuver M, van Lankveld W, van Limbeek J (2012) A short, intensive cognitive behavioral pain management program reduces health-care use in patients with chronic low back pain: 2-year follow-up results of a prospective cohort. Eur Spine J 21(7):1257–1264",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "2",
+          "key": "2844_CR22",
+          "doi-asserted-by": "crossref",
+          "first-page": "269",
+          "DOI": "10.1097/01.brs.0000251883.20205.26",
+          "volume": "32",
+          "author": "S Brage",
+          "year": "2007",
+          "unstructured": "Brage S, Sandanger I, Nygard JF (2007) Emotional distress as a predictor for low back disability: a prospective 12-year population-based study. Spine (Phila Pa 1976) 32(2):269–274",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "5",
+          "key": "2844_CR23",
+          "doi-asserted-by": "crossref",
+          "first-page": "284",
+          "DOI": "10.1055/s-2008-1076708",
+          "volume": "47",
+          "author": "B Mohr",
+          "year": "2008",
+          "unstructured": "Mohr B, Graf T, Forster M, Krohn-Grimberghe B, Kurzeja R, Mantel F, Thomsen M, Hampel P (2008) Influence of depressive symptoms and gender in chronic low back pain rehabilitation outcome: a pilot study. Rehabilitation (Stuttg) 47(5):284–298",
+          "journal-title": "Rehabilitation (Stuttg)"
+        },
+        {
+          "issue": "8",
+          "key": "2844_CR24",
+          "first-page": "271",
+          "volume": "66",
+          "author": "JC Fairbank",
+          "year": "1980",
+          "unstructured": "Fairbank JC, Couper J, Davies JB, O’Brien JP (1980) The oswestry low back pain disability questionnaire. Physiotherapy 66(8):271–273",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "issue": "22",
+          "key": "2844_CR25",
+          "doi-asserted-by": "crossref",
+          "first-page": "2940",
+          "DOI": "10.1097/00007632-200011150-00017",
+          "volume": "25",
+          "author": "JC Fairbank",
+          "year": "2000",
+          "unstructured": "Fairbank JC, Pynsent PB (2000) The oswestry disability index. Spine (Phila Pa 1976) 25(22):2940–2952",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "2",
+          "key": "2844_CR26",
+          "doi-asserted-by": "crossref",
+          "first-page": "123",
+          "DOI": "10.1097/00002508-199206000-00010",
+          "volume": "8",
+          "author": "MP Jensen",
+          "year": "1992",
+          "unstructured": "Jensen MP, Karoly P (1992) Pain-specific beliefs, perceived symptom severity, and adjustment to chronic pain. Clin J Pain 8(2):123–130",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "issue": "1–2",
+          "key": "2844_CR27",
+          "doi-asserted-by": "crossref",
+          "first-page": "158",
+          "DOI": "10.1016/j.pain.2007.04.007",
+          "volume": "134",
+          "author": "MK Nicholas",
+          "year": "2008",
+          "unstructured": "Nicholas MK, Asghari A, Blyth FM (2008) What do the numbers mean? Normative data in chronic pain measures. Pain 134(1–2):158–173",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "1",
+          "key": "2844_CR28",
+          "doi-asserted-by": "crossref",
+          "first-page": "42",
+          "DOI": "10.1097/00007632-199201000-00007",
+          "volume": "17",
+          "author": "CJ Main",
+          "year": "1992",
+          "unstructured": "Main CJ, Wood PL, Hollis S, Spanswick CC, Waddell G (1992) The distress and risk assessment method. A simple patient classification to identify distress and evaluate the risk of poor outcome. Spine 17(1):42–52",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2844_CR29",
+          "unstructured": "Nicholas MK (1989) Self-efficacy and chronic pain. Paper presented at the annual conference of the British psychological society St. Andrews"
+        },
+        {
+          "issue": "4",
+          "key": "2844_CR30",
+          "doi-asserted-by": "crossref",
+          "first-page": "524",
+          "DOI": "10.1037/1040-3590.7.4.524",
+          "volume": "7",
+          "author": "MJ Sullivan",
+          "year": "1995",
+          "unstructured": "Sullivan MJ, Bishop SR, Pivik J (1995) The Pain Catastrophizing Scale: development and validation. Psychol Assess 7(4):524–532",
+          "journal-title": "Psychol Assess"
+        },
+        {
+          "key": "2844_CR31",
+          "first-page": "35",
+          "volume": "3",
+          "author": "SH Kori",
+          "year": "1990",
+          "unstructured": "Kori SH, Miller RP, Todd DD (1990) Kinesiophobia: a new view of chronic pain behavior. Pain Manag 3:35–43",
+          "journal-title": "Pain Manag"
+        },
+        {
+          "issue": "3",
+          "key": "2844_CR32",
+          "doi-asserted-by": "crossref",
+          "first-page": "363",
+          "DOI": "10.1016/0304-3959(94)00279-N",
+          "volume": "62",
+          "author": "JW Vlaeyen",
+          "year": "1995",
+          "unstructured": "Vlaeyen JW, Kole-Snijders AM, Boeren RG, van Eek H (1995) Fear of movement/(re)injury in chronic low back pain and its relation to behavioral performance. Pain 62(3):363–372",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "1",
+          "key": "2844_CR33",
+          "doi-asserted-by": "crossref",
+          "first-page": "90",
+          "DOI": "10.1097/BRS.0b013e31815e3a10",
+          "volume": "33",
+          "author": "RW Ostelo",
+          "year": "2008",
+          "unstructured": "Ostelo RW, Deyo RA, Stratford P, Waddell G, Croft P, Von KM, Bouter LM, de Vet HC (2008) Interpreting change scores for pain and functional status in low back pain: towards international consensus regarding minimal important change. Spine 33(1):90–94",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "2",
+          "key": "2844_CR34",
+          "first-page": "439",
+          "volume": "28",
+          "author": "JR Kirwan",
+          "year": "2001",
+          "unstructured": "Kirwan JR (2001) Minimum clinically important difference: the crock of gold at the end of the rainbow? J Rheumatol 28(2):439–444",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "issue": "2",
+          "key": "2844_CR35",
+          "doi-asserted-by": "crossref",
+          "first-page": "136",
+          "DOI": "10.3109/09638288.2011.591886",
+          "volume": "34",
+          "author": "E Rasmussen-Barr",
+          "year": "2012",
+          "unstructured": "Rasmussen-Barr E, Campello M, Arvidsson I, Nilsson-Wikmar L, Ang BO (2012) Factors predicting clinical outcome 12 and 36 months after an exercise intervention for recurrent low-back pain. Disabil Rehabil 34(2):136–144",
+          "journal-title": "Disabil Rehabil"
+        },
+        {
+          "issue": "9",
+          "key": "2844_CR36",
+          "doi-asserted-by": "crossref",
+          "first-page": "990",
+          "DOI": "10.1097/00007632-199705010-00011",
+          "volume": "22",
+          "author": "J Hildebrandt",
+          "year": "1997",
+          "unstructured": "Hildebrandt J, Pfingsten M, Saur P, Jansen J (1997) Prediction of success from a multidisciplinary treatment program for chronic low back pain. Spine (Phila Pa 1976) 22(9):990–1001",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "2",
+          "key": "2844_CR37",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1300/J094v05n02_02",
+          "volume": "5",
+          "author": "M Nordin",
+          "year": "1997",
+          "unstructured": "Nordin M, Skovron ML, Hiebert R, Weiser S, Brisson PM, Campello M, Harwood K, Crane M, Lewis S (1997) Early predictors of delayed return to work in patients with low back pain. J Musculoskelet Pain 5(2):5–27",
+          "journal-title": "J Musculoskelet Pain"
+        },
+        {
+          "issue": "8",
+          "key": "2844_CR38",
+          "doi-asserted-by": "crossref",
+          "first-page": "1297",
+          "DOI": "10.1093/rheumatology/kem113",
+          "volume": "46",
+          "author": "MR Underwood",
+          "year": "2007",
+          "unstructured": "Underwood MR, Morton V, Farrin A (2007) Do baseline characteristics predict response to treatment for low back pain? Secondary analysis of the UK BEAM dataset [ISRCTN32683578]. Rheumatology (Oxford) 46(8):1297–1302",
+          "journal-title": "Rheumatology (Oxford)"
+        },
+        {
+          "issue": "5",
+          "key": "2844_CR39",
+          "doi-asserted-by": "crossref",
+          "first-page": "421",
+          "DOI": "10.1097/AJP.0b013e31816719f5",
+          "volume": "24",
+          "author": "M Hulst van der",
+          "year": "2008",
+          "unstructured": "van der Hulst M, Vollenbroek-Hutten MM, Groothuis-Oudshoorn KG, Hermens HJ (2008) Multidisciplinary rehabilitation treatment of patients with chronic low back pain: a prognostic model for its outcome. Clin J Pain 24(5):421–430",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "issue": "7",
+          "key": "2844_CR40",
+          "doi-asserted-by": "crossref",
+          "first-page": "521",
+          "DOI": "10.3109/09638280903177243",
+          "volume": "32",
+          "author": "AC Johansson",
+          "year": "2010",
+          "unstructured": "Johansson AC, Linton SJ, Rosenblad A, Bergkvist L, Nilsson O (2010) A prospective study of cognitive behavioural factors as predictors of pain, disability and quality of life 1 year after lumbar disc surgery. Disabil Rehabil 32(7):521–529",
+          "journal-title": "Disabil Rehabil"
+        },
+        {
+          "key": "2844_CR41",
+          "doi-asserted-by": "crossref",
+          "first-page": "53",
+          "DOI": "10.1186/1471-2296-11-53",
+          "volume": "11",
+          "author": "O Lindell",
+          "year": "2010",
+          "unstructured": "Lindell O, Johansson SE, Strender LE (2010) Predictors of stable return-to-work in non-acute, non-specific spinal pain: low total prior sick-listing, high self prediction and young age. A 2-year prospective cohort study. BMC Fam Pract 11:53",
+          "journal-title": "BMC Fam Pract"
+        },
+        {
+          "issue": "2",
+          "key": "2844_CR42",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.1177/230949901001800201",
+          "volume": "18",
+          "author": "KD Luk",
+          "year": "2010",
+          "unstructured": "Luk KD, Wan TW, Wong YW, Cheung KM, Chan KY, Cheng AC, Kwan MW, Law KK, Lee PW, Cheing GL (2010) A multidisciplinary rehabilitation programme for patients with chronic low back pain: a prospective study. J Orthop Surg (Hong.Kong) 18(2):131–138",
+          "journal-title": "J Orthop Surg (Hong.Kong)"
+        },
+        {
+          "issue": "1",
+          "key": "2844_CR43",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1097/00002508-200501000-00001",
+          "volume": "21",
+          "author": "JW Vlaeyen",
+          "year": "2005",
+          "unstructured": "Vlaeyen JW, Morley S (2005) Cognitive-behavioral treatments for chronic pain: what works for whom? Clin J Pain 21(1):1–8",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "issue": "3 Suppl",
+          "key": "2844_CR44",
+          "doi-asserted-by": "crossref",
+          "first-page": "S99",
+          "DOI": "10.1016/j.pain.2010.10.042",
+          "volume": "152",
+          "author": "S Morley",
+          "year": "2011",
+          "unstructured": "Morley S (2011) Efficacy and effectiveness of cognitive behaviour therapy for chronic pain: progress and some challenges. Pain 152(3 Suppl):S99–S106",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "70",
+          "key": "2844_CR45",
+          "doi-asserted-by": "crossref",
+          "first-page": "70ra14",
+          "DOI": "10.1126/scitranslmed.3001244",
+          "volume": "3",
+          "author": "U Bingel",
+          "year": "2011",
+          "unstructured": "Bingel U, Wanigasekera V, Wiech K, Ni MR, Lee MC, Ploner M, Tracey I (2011) The effect of treatment expectation on drug efficacy: imaging the analgesic benefit of the opioid remifentanil. Sci Transl Med 3(70):70ra14",
+          "journal-title": "Sci Transl Med"
+        },
+        {
+          "issue": "9",
+          "key": "2844_CR46",
+          "doi-asserted-by": "crossref",
+          "first-page": "1226",
+          "DOI": "10.1002/art.24837",
+          "volume": "61",
+          "author": "SE Gwilym",
+          "year": "2009",
+          "unstructured": "Gwilym SE, Keltner JR, Warnaby CE, Carr AJ, Chizh B, Chessell I, Tracey I (2009) Psychophysical and functional imaging evidence supporting the presence of central sensitization in a cohort of osteoarthritis patients. Arthritis Rheum 61(9):1226–1234",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "issue": "10",
+          "key": "2844_CR47",
+          "doi-asserted-by": "crossref",
+          "first-page": "2930",
+          "DOI": "10.1002/art.27585",
+          "volume": "62",
+          "author": "SE Gwilym",
+          "year": "2010",
+          "unstructured": "Gwilym SE, Filippini N, Douaud G, Carr AJ, Tracey I (2010) Thalamic atrophy associated with painful osteoarthritis of the hip is reversible after arthroplasty: a longitudinal voxel-based morphometric study. Arthritis Rheum 62(10):2930–2940",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "issue": "4",
+          "key": "2844_CR48",
+          "doi-asserted-by": "crossref",
+          "first-page": "498",
+          "DOI": "10.1302/0301-620X.93B4.25054",
+          "volume": "93",
+          "author": "SE Gwilym",
+          "year": "2011",
+          "unstructured": "Gwilym SE, Oag HC, Tracey I, Carr AJ (2011) Evidence that central sensitisation is present in patients with shoulder impingement syndrome and influences the outcome after surgery. J Bone Joint Surg Br 93(4):498–502",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "issue": "16",
+          "key": "2844_CR49",
+          "doi-asserted-by": "crossref",
+          "first-page": "1775",
+          "DOI": "10.1097/00007632-199808150-00010",
+          "volume": "23",
+          "author": "AF Bendix",
+          "year": "1998",
+          "unstructured": "Bendix AF, Bendix T, Haestrup C (1998) Can it be predicted which patients with chronic low back pain should be offered tertiary rehabilitation in a functional restoration program? A search for demographic, socioeconomic, and physical predictors. Spine (Phila Pa 1976) 23(16):1775–1783",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "17",
+          "key": "2844_CR50",
+          "doi-asserted-by": "crossref",
+          "first-page": "1387",
+          "DOI": "10.3109/09638280903419269",
+          "volume": "32",
+          "author": "B Borsbo",
+          "year": "2010",
+          "unstructured": "Borsbo B, Gerdle B, Peolsson M (2010) Impact of the interaction between self-efficacy, symptoms and catastrophising on disability, quality of life and health in with chronic pain patients. Disabil Rehabil 32(17):1387–1396",
+          "journal-title": "Disabil Rehabil"
+        },
+        {
+          "issue": "2",
+          "key": "2844_CR51",
+          "doi-asserted-by": "crossref",
+          "first-page": "213",
+          "DOI": "10.1016/j.ejpain.2010.06.014",
+          "volume": "15",
+          "author": "LC Costa",
+          "year": "2011",
+          "unstructured": "Costa LC, Maher CG, McAuley JH, Hancock MJ, Smeets RJ (2011) Self-efficacy is more important than fear of movement in mediating the relationship between pain and disability in chronic low back pain. Eur J Pain 15(2):213–219",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "issue": "11",
+          "key": "2844_CR52",
+          "doi-asserted-by": "crossref",
+          "first-page": "1633",
+          "DOI": "10.1007/s00586-006-0073-4",
+          "volume": "15",
+          "author": "T Wessels",
+          "year": "2006",
+          "unstructured": "Wessels T, van Tulder M, Sigl T, Ewert T, Limm H, Stucki G (2006) What predicts outcome in non-operative treatments of chronic low back pain? A systematic review. Eur Spine J 15(11):1633–1644",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "11",
+          "key": "2844_CR53",
+          "doi-asserted-by": "crossref",
+          "first-page": "1448",
+          "DOI": "10.1007/s00586-008-0772-0",
+          "volume": "17",
+          "author": "HR Schiphorst Preuper",
+          "year": "2008",
+          "unstructured": "Schiphorst Preuper HR, Reneman MF, Boonstra AM, Dijkstra PU, Versteegen GJ, Geertzen JH, Brouwer S (2008) Relationship between psychological factors and performance-based and self-reported disability in chronic low back pain. Eur Spine J 17(11):1448–1456",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "1",
+          "key": "2844_CR54",
+          "doi-asserted-by": "crossref",
+          "first-page": "30",
+          "DOI": "10.1007/s004820050066",
+          "volume": "11",
+          "author": "M Pfingsten",
+          "year": "1997",
+          "unstructured": "Pfingsten M, Hildebrandt J, Saur P, Franz C, Seeger D (1997) Multidisciplinary treatment program on chronic low back pain, part 4. Prognosis of treatment outcome and final conclusions. Schmerz 11(1):30–41",
+          "journal-title": "Schmerz"
+        },
+        {
+          "issue": "10",
+          "key": "2844_CR55",
+          "doi-asserted-by": "crossref",
+          "first-page": "1087",
+          "DOI": "10.1016/j.jclinepi.2006.01.014",
+          "volume": "59",
+          "author": "AR Donders",
+          "year": "2006",
+          "unstructured": "Donders AR, van der Heijden GJ, Stijnen T, Moons KG (2006) Review: a gentle introduction to imputation of missing values. J Clin Epidemiol 59(10):1087–1091",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "4",
+          "key": "2844_CR56",
+          "doi-asserted-by": "crossref",
+          "first-page": "329",
+          "DOI": "10.1016/S0895-4356(01)00476-0",
+          "volume": "55",
+          "author": "J Twisk",
+          "year": "2002",
+          "unstructured": "Twisk J, de Vente W (2002) Attrition in longitudinal studies. How to deal with missing data. J Clin Epidemiol 55(4):329–337",
+          "journal-title": "J Clin Epidemiol"
+        }
+      ],
+      "container-title": [
+        "European Spine Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s00586-013-2844-z.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1007/s00586-013-2844-z/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s00586-013-2844-z",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            2,
+            25
+          ]
+        ],
+        "date-time": "2022-02-25T10:39:34Z",
+        "timestamp": 1645785574000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://link.springer.com/10.1007/s00586-013-2844-z"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            6,
+            16
+          ]
+        ]
+      },
+      "references-count": 56,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2014,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "2844"
+      ],
+      "URL": "https://doi.org/10.1007/s00586-013-2844-z",
+      "relation": {},
+      "ISSN": [
+        "0940-6719",
+        "1432-0932"
+      ],
+      "issn-type": [
+        {
+          "value": "0940-6719",
+          "type": "print"
+        },
+        {
+          "value": "1432-0932",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            6,
+            16
+          ]
+        ]
+      }
+    }
+  }
+}

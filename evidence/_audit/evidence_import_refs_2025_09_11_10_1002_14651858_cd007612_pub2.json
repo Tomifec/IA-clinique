@@ -1,0 +1,512 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1002_14651858_cd007612_pub2.md",
+  "id": "evidence_import_refs_2025_09_11_10_1002_14651858_cd007612_pub2",
+  "doi": "10.1002/14651858.cd007612.pub2",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:40.682338Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            12
+          ]
+        ],
+        "date-time": "2025-08-12T21:55:27Z",
+        "timestamp": 1755035727986,
+        "version": "3.41.0"
+      },
+      "update-to": [
+        {
+          "updated": {
+            "date-parts": [
+              [
+                2010,
+                6,
+                16
+              ]
+            ],
+            "date-time": "2010-06-16T00:00:00Z",
+            "timestamp": 1276646400000
+          },
+          "DOI": "10.1002/14651858.cd007612",
+          "type": "new_version",
+          "source": "publisher",
+          "label": "New version"
+        }
+      ],
+      "reference-count": 29,
+      "publisher": "Wiley",
+      "issue": "6",
+      "content-domain": {
+        "domain": [
+          "wiley.com",
+          "cochranelibrary.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [],
+      "DOI": "10.1002/14651858.cd007612.pub2",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2010,
+            6,
+            15
+          ]
+        ],
+        "date-time": "2010-06-15T15:58:21Z",
+        "timestamp": 1276617501000
+      },
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 61,
+      "title": [
+        "Advice to rest in bed versus advice to stay active for acute low-back pain and sciatica"
+      ],
+      "prefix": "10.1002",
+      "volume": "2010",
+      "author": [
+        {
+          "given": "Kristin Thuve",
+          "family": "Dahm",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Norwegian Knowledge Centre for the Health Services; PO Box 7004 St. Olavs Plass Oslo Norway N-0130"
+            }
+          ]
+        },
+        {
+          "given": "Kjetil G",
+          "family": "Brurberg",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Norwegian Knowledge Centre for the Health Services; PO Box 7004 St. Olavs Plass Oslo Norway N-0130"
+            }
+          ]
+        },
+        {
+          "given": "Gro",
+          "family": "Jamtvedt",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Norwegian Knowledge Centre for the Health Services; PO Box 7004 St. Olavs Plass Oslo Norway N-0130"
+            }
+          ]
+        },
+        {
+          "given": "Kåre Birger",
+          "family": "Hagen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Diakonhjemmet Hospital; National Resource Centre for Rehabilitation in Rheumatology; PO Box 23 Vindern 0319 Oslo Norway"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "published-online": {
+        "date-parts": [
+          [
+            2010,
+            6,
+            16
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "17",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0001|cit1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1064",
+          "DOI": "10.1056/NEJM198610233151705",
+          "article-title": "How many days of bed rest for acute low back pain? A randomized clinical trial",
+          "volume": "315",
+          "author": "Deyo",
+          "year": "1986",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "issue": "6498",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0002|cit2",
+          "doi-asserted-by": "crossref",
+          "first-page": "791",
+          "DOI": "10.1136/bmj.291.6498.791",
+          "article-title": "Clinical trial of common treatments for low back pain in family practice",
+          "volume": "291",
+          "author": "Gilbert",
+          "year": "1985",
+          "journal-title": "Br Med J Clin Res Ed"
+        },
+        {
+          "issue": "1 Suppl",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0003|cit3",
+          "first-page": "45",
+          "article-title": "Westeinde sciatica trial: randomized controlled study of bed rest and physiotherapy for acute sciatica",
+          "volume": "96",
+          "author": "Hofstee",
+          "year": "2002",
+          "journal-title": "J Neurosurg"
+        },
+        {
+          "issue": "6",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0004|cit4",
+          "doi-asserted-by": "crossref",
+          "first-page": "351",
+          "DOI": "10.1056/NEJM199502093320602",
+          "article-title": "The treatment of acute low back pain - bed rest, exercises, or ordinary activity?",
+          "volume": "332",
+          "author": "Malmivaara",
+          "year": "1995",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0005|cit5",
+          "first-page": "28",
+          "article-title": "Efficacy of various forms of conservative treatment in low back pain: a comparative study",
+          "volume": "6",
+          "author": "Postacchini",
+          "year": "1988",
+          "journal-title": "Neuro-orthopedics"
+        },
+        {
+          "issue": "14",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0006|cit6",
+          "doi-asserted-by": "crossref",
+          "first-page": "1487",
+          "DOI": "10.1097/00007632-200207150-00002",
+          "article-title": "Bed rest or normal activity for patients with acute low back pain: a randomized controlled trial",
+          "volume": "27",
+          "author": "Rozenberg",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0007|cit7",
+          "doi-asserted-by": "crossref",
+          "first-page": "29",
+          "DOI": "10.1007/BF00302139",
+          "article-title": "How many days of bed rest for acute low back pain? Objective assessment of trunk function",
+          "volume": "1",
+          "author": "Szpalski",
+          "year": "1992",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "6",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0008|cit8",
+          "doi-asserted-by": "crossref",
+          "first-page": "418",
+          "DOI": "10.1056/NEJM199902113400602",
+          "article-title": "Lack of effectiveness of bed rest for sciatica",
+          "volume": "340",
+          "author": "Vroomen",
+          "year": "1999",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "issue": "4",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0009|cit9",
+          "doi-asserted-by": "crossref",
+          "first-page": "324",
+          "DOI": "10.1097/00007632-198007000-00006",
+          "article-title": "Acute low-back pain - An objective analysis of conservative therapy",
+          "volume": "5",
+          "author": "Wiesel",
+          "year": "1980",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "398",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0010|cit10",
+          "first-page": "481",
+          "article-title": "Does 48 hours’ bed rest influence the outcome of acute low back pain?",
+          "volume": "45",
+          "author": "Wilkinson",
+          "year": "1995",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "issue": "5218",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0011|cit11",
+          "doi-asserted-by": "crossref",
+          "first-page": "20",
+          "DOI": "10.1136/bmj.1.5218.20",
+          "article-title": "A comparison between epidural anaesthesia and bedrest in sciatica",
+          "volume": "1",
+          "author": "Coomes",
+          "year": "1961",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0012|cit12",
+          "doi-asserted-by": "crossref",
+          "first-page": "231",
+          "DOI": "10.2522/ptj.20050121",
+          "article-title": "Effects of Education on Return-to-Work Status for People With Fear-Avoidance Beliefs and Acute LowBack Pain",
+          "volume": "88",
+          "author": "Joseph",
+          "year": "2008",
+          "journal-title": "Physical Therapy"
+        },
+        {
+          "key": "10.1002/14651858.CD007612.pub2-BIB0013|cit13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1638",
+          "DOI": "10.1016/S0140-6736(07)61686-9",
+          "article-title": "Assessment of diclofenac or spinal manipulative therapy, orboth, in addition to recommended fi rst-line treatment foracute low back pain: a randomised controlled trial",
+          "volume": "370",
+          "author": "Mark",
+          "year": "2007",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1002/14651858.CD007612.pub2-BIB0014|cit14",
+          "doi-asserted-by": "crossref",
+          "first-page": "858",
+          "DOI": "10.2340/16501977-0262",
+          "article-title": "Orthopedic manual therapy, Mckenzie method or advice onely for low back pain in working adults: A randomizedcontrolled trial with one year follow-up",
+          "volume": "40",
+          "author": "Paatelma",
+          "year": "2008",
+          "journal-title": "J Rehabil Med"
+        },
+        {
+          "key": "10.1002/14651858.CD007612.pub2-BIB0015|cit15",
+          "doi-asserted-by": "crossref",
+          "first-page": "1181",
+          "DOI": "10.1093/rheumatology/25.2.181",
+          "article-title": "A controlled trial of continuous lumbar traction in the treatment of back pain and sciatica",
+          "volume": "25",
+          "author": "Pal",
+          "year": "1986",
+          "journal-title": "Br J Rheumatol"
+        },
+        {
+          "key": "10.1002/14651858.CD007612.pub2-BIB0016|cit16",
+          "first-page": "58",
+          "article-title": "Chiropractic adjustments: results of a controlled trial in Egypt",
+          "author": "Rupert",
+          "year": "1985",
+          "journal-title": "Intl Rev Chiro"
+        },
+        {
+          "issue": "9",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0017|cit17",
+          "doi-asserted-by": "crossref",
+          "first-page": "1229",
+          "DOI": "10.1016/S0140-6736(98)10063-6",
+          "article-title": "Bed rest: a potentially harmful treatment needing more careful evaluation",
+          "volume": "354",
+          "author": "Allen",
+          "year": "1999",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0018|cit18",
+          "first-page": "691",
+          "article-title": "The disuse syndrome",
+          "volume": "141",
+          "author": "Bortz",
+          "year": "Nov. 1984",
+          "journal-title": "West J Med"
+        },
+        {
+          "volume-title": "Statistical power analysis for the behavioral sciences",
+          "year": "1988",
+          "author": "Cohen",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0019|cit19"
+        },
+        {
+          "key": "10.1002/14651858.CD007612.pub2-BIB0020|cit20",
+          "doi-asserted-by": "crossref",
+          "first-page": "187",
+          "DOI": "10.1097/00005768-199702000-00004",
+          "article-title": "An overview of the issues: physiological effects of bed rest and restricted activity",
+          "volume": "29",
+          "author": "Convertino",
+          "year": "1997",
+          "journal-title": "Med Sci Sports Exerc"
+        },
+        {
+          "issue": "18",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0021|cit21",
+          "doi-asserted-by": "crossref",
+          "first-page": "1929",
+          "DOI": "10.1097/BRS.0b013e3181b1c99f",
+          "article-title": "2009 updated method guidelines for systematic reviews in the Cochrane Back Review Group",
+          "volume": "34",
+          "author": "Furlan",
+          "year": "2009",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "4",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0022|cit22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD001254.pub2",
+          "article-title": "Bed rest for acute low-back pain and sciatica",
+          "author": "Hagen",
+          "year": "2004",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "key": "10.1002/14651858.CD007612.pub2-BIB0023|cit23",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Higgins JPT Green S (editors) Cochrane Handbook for Systematic Reviews of Interventions Version 5.0.2 [updated September 2009] The Cochrane Collaboration, 2009. Available from www.cochrane-handbook.org",
+          "DOI": "10.1002/9780470712184"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0024|cit24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD003632.pub2",
+          "article-title": "Advice to stay active as a single treatment for low-back and sciatica",
+          "author": "Hilde",
+          "year": "2006",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "key": "10.1002/14651858.CD007612.pub2-BIB0025|cit25",
+          "article-title": "Functional restoration for spinal disorders",
+          "volume-title": "The sports medicine approach",
+          "author": "Mayer",
+          "year": "1988"
+        },
+        {
+          "key": "10.1002/14651858.CD007612.pub2-BIB0026|cit26",
+          "article-title": "Prevalence of pain in the neck and lower back",
+          "volume-title": "Prevalence neck and low back pain. in Neck and Back Pain",
+          "author": "Nachemson",
+          "year": "2000"
+        },
+        {
+          "key": "10.1002/14651858.CD007612.pub2-BIB0027|cit27",
+          "doi-asserted-by": "crossref",
+          "first-page": "632",
+          "DOI": "10.1097/00007632-198709000-00002",
+          "article-title": "1987 Volvo award in clinical sciences. A new clinical model for the treatment of low-back pain",
+          "volume": "12",
+          "author": "Waddell",
+          "year": "1987",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1002/14651858.CD007612.pub2-BIB0028|cit28",
+          "first-page": "647",
+          "article-title": "Systematic reviews of bed rest and advice to stay active for acute low back pain",
+          "volume": "47",
+          "author": "Waddell",
+          "year": "1997",
+          "journal-title": "British Journal of General Practice"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD007612.pub2-BIB0029|cit29",
+          "doi-asserted-by": "crossref",
+          "first-page": "375",
+          "DOI": "10.1097/00007632-199502000-00023",
+          "article-title": "Nonoperative treatment for low back pain. Rest to restoration",
+          "volume": "20",
+          "author": "Wheeler",
+          "year": "1995",
+          "journal-title": "Spine"
+        }
+      ],
+      "container-title": [
+        "Cochrane Database of Systematic Reviews"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1002/14651858.CD007612.pub2/fullpdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            18
+          ]
+        ],
+        "date-time": "2025-06-18T10:31:22Z",
+        "timestamp": 1750242682000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://doi.wiley.com/10.1002/14651858.CD007612.pub2"
+        }
+      },
+      "subtitle": [],
+      "editor": [
+        {
+          "name": "Cochrane Back and Neck Group",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2010,
+            6,
+            16
+          ]
+        ]
+      },
+      "references-count": 29,
+      "journal-issue": {
+        "issue": "6",
+        "published-online": {
+          "date-parts": [
+            [
+              2010,
+              6
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1002/14651858.cd007612.pub2",
+      "relation": {},
+      "ISSN": [
+        "1465-1858"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1465-1858"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            6,
+            16
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1080 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1093_ptj_pzab308.md",
+  "id": "evidence_import_refs_2025_09_12_10_1093_ptj_pzab308",
+  "doi": "10.1093/ptj/pzab308",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:26.551823Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            30
+          ]
+        ],
+        "date-time": "2025-07-30T12:15:46Z",
+        "timestamp": 1753877746339,
+        "version": "3.41.2"
+      },
+      "reference-count": 72,
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                1,
+                27
+              ]
+            ],
+            "date-time": "2022-01-27T00:00:00Z",
+            "timestamp": 1643241600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>The main aim of this study was to assess through systematic review the efficacy of exercise and manual therapy (MT) interventions in individuals with primary headache.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>In this umbrella review, 2 authors reviewed systematic reviews by searching the Cochrane Database of Systematic Reviews, MEDLINE, PEDro, Web of Science, and Google Scholar. Systematic reviews that evaluated the effectiveness of MT. Exercise-based interventions, or both in patients with primary headaches were included. Methodological quality was analyzed using the ROBIS scale, and the strength of evidence was established according to the Grading Criteria of the Physical Activity Guidelines Advisory Committee.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Thirty-one systematic reviews containing 79 trials and involving 9103 patients were included. The 7 exercise-related systematic reviews reported beneficial effects on primary headache based on unclear to moderate evidence. Of the 23 MT-related systematic reviews, 11 reported enhanced effectiveness compared with usual care; however, overall heterogeneity and risk of bias were high. Systematic reviews that evaluated the effectiveness of MT, exercise-based interventions, or both in patients with primary headaches were included.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>Results show that exercise could be an effective therapy for the treatment of primary headache, with moderate to limited quality of evidence regarding the positive effects in terms of pain intensity and frequency and duration of headache. Moderate quality of evidence was found regarding the ability of MT to reduce pain intensity in patients with tension-type headaches, but quality of evidence was limited in terms of frequency of headache and disability and pain reduction in patients with migraine.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Impact</jats:title>\n                  <jats:p>Exercise could be an effective treatment in patients with primary headache. Manual therapy showed limited evidence to reduce pain intensity in patients with tension-type headache. It is not possible to establish a preferential exercise protocol or MT program, so psychosocial and behavioral variables need to be considered in future studies.</jats:p>\n               </jats:sec>",
+      "DOI": "10.1093/ptj/pzab308",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            14
+          ]
+        ],
+        "date-time": "2022-01-14T12:07:48Z",
+        "timestamp": 1642162068000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 15,
+      "title": [
+        "Exercise and Manual Therapy for the Treatment of Primary Headache: An Umbrella and Mapping Review"
+      ],
+      "prefix": "10.1093",
+      "volume": "102",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4188-8013",
+          "authenticated-orcid": false,
+          "given": "Clovis",
+          "family": "Varangot-Reille",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy , Exercise Intervention for Health Research Group (EXINH-RG), , Valencia, Spain"
+            },
+            {
+              "name": "University of Valencia , Exercise Intervention for Health Research Group (EXINH-RG), , Valencia, Spain"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9191-4243",
+          "authenticated-orcid": false,
+          "given": "Luis",
+          "family": "Suso-Martí",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy , Exercise Intervention for Health Research Group (EXINH-RG), , Valencia, Spain"
+            },
+            {
+              "name": "University of Valencia , Exercise Intervention for Health Research Group (EXINH-RG), , Valencia, Spain"
+            }
+          ]
+        },
+        {
+          "given": "Valentin",
+          "family": "Dubuis",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy , Exercise Intervention for Health Research Group (EXINH-RG), , Valencia, Spain"
+            },
+            {
+              "name": "University of Valencia , Exercise Intervention for Health Research Group (EXINH-RG), , Valencia, Spain"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4644-3758",
+          "authenticated-orcid": false,
+          "given": "Ferran",
+          "family": "Cuenca-Martínez",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy , Exercise Intervention for Health Research Group (EXINH-RG), , Valencia, Spain"
+            },
+            {
+              "name": "University of Valencia , Exercise Intervention for Health Research Group (EXINH-RG), , Valencia, Spain"
+            }
+          ]
+        },
+        {
+          "given": "María",
+          "family": "Blanco-Díaz",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Surgery and Medical Surgical Specialities Department , Faculty of Medicine and Health Sciences, , Oviedo, Asturias, Spain"
+            },
+            {
+              "name": "University of Oviedo , Faculty of Medicine and Health Sciences, , Oviedo, Asturias, Spain"
+            }
+          ]
+        },
+        {
+          "given": "Cristina",
+          "family": "Salar-Andreu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy, Universidad CEU Cardenal Herrera, CEU Universities , Elche, Spain"
+            }
+          ]
+        },
+        {
+          "given": "Jose",
+          "family": "Casaña",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy , Exercise Intervention for Health Research Group (EXINH-RG), , Valencia, Spain"
+            },
+            {
+              "name": "University of Valencia , Exercise Intervention for Health Research Group (EXINH-RG), , Valencia, Spain"
+            }
+          ]
+        },
+        {
+          "given": "Joaquín",
+          "family": "Calatayud",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy , Exercise Intervention for Health Research Group (EXINH-RG), , Valencia, Spain"
+            },
+            {
+              "name": "University of Valencia , Exercise Intervention for Health Research Group (EXINH-RG), , Valencia, Spain"
+            }
+          ]
+        }
+      ],
+      "member": "286",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            27
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2023011808145041600_ref1",
+          "doi-asserted-by": "crossref",
+          "first-page": "629",
+          "DOI": "10.1177/0333102413485658",
+          "article-title": "The International Classification of Headache Disorders, 3rd edition (beta version)",
+          "volume": "33",
+          "author": "Olesen",
+          "year": "2013",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "2023011808145041600_ref2",
+          "doi-asserted-by": "crossref",
+          "first-page": "193",
+          "DOI": "10.1111/j.1468-2982.2007.01288.x",
+          "article-title": "The global burden of headache: a documentation of headache prevalence and disability worldwide",
+          "volume": "27",
+          "author": "Stovner",
+          "year": "2007",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "2023011808145041600_ref3",
+          "doi-asserted-by": "crossref",
+          "first-page": "70",
+          "DOI": "10.1016/S1474-4422(07)70325-3",
+          "article-title": "Tension-type headache: current research and clinical management",
+          "volume": "7",
+          "author": "Fumal",
+          "year": "2008",
+          "journal-title": "Lancet Neurol"
+        },
+        {
+          "key": "2023011808145041600_ref4",
+          "doi-asserted-by": "crossref",
+          "first-page": "482",
+          "DOI": "10.1038/ncpneuro0861",
+          "article-title": "Treatment recommendations for migraine",
+          "volume": "4",
+          "author": "Silberstein",
+          "year": "2008",
+          "journal-title": "Nat Clin Pract"
+        },
+        {
+          "key": "2023011808145041600_ref5",
+          "doi-asserted-by": "crossref",
+          "first-page": "483",
+          "DOI": "10.2165/00023210-200519060-00002",
+          "article-title": "Medication overuse headache in patients with primary headache disorders: epidemiology, management and pathogenesis",
+          "volume": "19",
+          "author": "Dowson",
+          "year": "2005",
+          "journal-title": "CNS Drugs"
+        },
+        {
+          "key": "2023011808145041600_ref6",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.3390/ijerph17114126",
+          "article-title": "Clinical reasoning behind non-pharmacological interventions for the management of headaches: a narrative literature review",
+          "volume": "17",
+          "author": "Fernández-de-Las-Peñas",
+          "year": "2020",
+          "journal-title": "Int J Environ Res Public Health"
+        },
+        {
+          "key": "2023011808145041600_ref7",
+          "doi-asserted-by": "crossref",
+          "first-page": "8",
+          "DOI": "10.2165/00007256-199724010-00002",
+          "article-title": "Beta-endorphin response to exercise - an update",
+          "volume": "24",
+          "author": "Goldfarb",
+          "year": "1997",
+          "journal-title": "Sports Med"
+        },
+        {
+          "key": "2023011808145041600_ref8",
+          "doi-asserted-by": "crossref",
+          "first-page": "536",
+          "DOI": "10.1136/bjsm.2004.011718",
+          "article-title": "Endocannabinoids and exercise",
+          "volume": "38",
+          "author": "Dietrich",
+          "year": "2004",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "2023011808145041600_ref9",
+          "doi-asserted-by": "crossref",
+          "first-page": "1139",
+          "DOI": "10.1016/j.jpain.2012.09.006",
+          "article-title": "A meta-analytic review of the hypoalgesic effects of exercise",
+          "volume": "13",
+          "author": "Naugle",
+          "year": "2012",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "2023011808145041600_ref10",
+          "doi-asserted-by": "crossref",
+          "first-page": "413",
+          "DOI": "10.1002/msc.1191",
+          "article-title": "Exercise for chronic musculoskeletal pain: a biopsychosocial approach",
+          "volume": "15",
+          "author": "Booth",
+          "year": "2017",
+          "journal-title": "Musculoskeletal Care"
+        },
+        {
+          "key": "2023011808145041600_ref11",
+          "doi-asserted-by": "crossref",
+          "first-page": "907",
+          "DOI": "10.1136/bjsports-2017-098983",
+          "article-title": "Musculoskeletal pain and exercise-challenging existing paradigms and introducing new",
+          "volume": "53",
+          "author": "Smith",
+          "year": "2019",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "2023011808145041600_ref12",
+          "doi-asserted-by": "crossref",
+          "first-page": "1805",
+          "DOI": "10.1177/0333102417752119",
+          "article-title": "The effects of aerobic exercise for persons with migraine and co-existing tension-type headache and neck pain. A randomized, controlled, clinical trial",
+          "volume": "38",
+          "author": "Krøll",
+          "year": "2018",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "2023011808145041600_ref13",
+          "doi-asserted-by": "crossref",
+          "first-page": "983",
+          "DOI": "10.1111/j.1468-2982.2006.01163.x",
+          "article-title": "Efficacy of physiotherapy including a craniocervical training programme for tension-type headache; a randomized clinical trial",
+          "volume": "26",
+          "author": "Ettekoven",
+          "year": "2006",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "2023011808145041600_ref14",
+          "doi-asserted-by": "crossref",
+          "first-page": "1428",
+          "DOI": "10.1177/0333102411419681",
+          "article-title": "Exercise as migraine prophylaxis: a randomized study using relaxation and topiramate as controls",
+          "volume": "31",
+          "author": "Varkey",
+          "year": "2011",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "2023011808145041600_ref15",
+          "doi-asserted-by": "crossref",
+          "first-page": "1071",
+          "DOI": "10.1177/0333102417722521",
+          "article-title": "Efficacy of strength training on tension-type headache: a randomised controlled study",
+          "volume": "38",
+          "author": "Madsen",
+          "year": "2018",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "2023011808145041600_ref16",
+          "doi-asserted-by": "crossref",
+          "first-page": "61",
+          "DOI": "10.1186/s12883-017-0835-0",
+          "article-title": "A critical review of manual therapy use for headache disorders: prevalence, profiles, motivations, communication and self-reported effectiveness",
+          "volume": "17",
+          "author": "Moore",
+          "year": "2017",
+          "journal-title": "BMC Neurol"
+        },
+        {
+          "key": "2023011808145041600_ref17",
+          "doi-asserted-by": "crossref",
+          "first-page": "531",
+          "DOI": "10.1016/j.math.2008.09.001",
+          "article-title": "The mechanisms of manual therapy in the treatment of musculoskeletal pain: a comprehensive model",
+          "volume": "14",
+          "author": "Bialosky",
+          "year": "2009",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "2023011808145041600_ref18",
+          "doi-asserted-by": "crossref",
+          "first-page": "211",
+          "DOI": "10.1016/j.apmr.2016.08.466",
+          "article-title": "Effectiveness of a treatment involving soft tissue techniques and/or neural mobilization techniques in the management of tension-type headache: a randomized controlled trial",
+          "volume": "98",
+          "author": "Ferragut-Garcías",
+          "year": "2017",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "2023011808145041600_ref19",
+          "doi-asserted-by": "crossref",
+          "first-page": "50",
+          "DOI": "10.1207/s15324796abm3201_6",
+          "article-title": "A randomized, controlled trial of massage therapy as a treatment for migraine",
+          "volume": "32",
+          "author": "Lawler",
+          "year": "2006",
+          "journal-title": "Ann Behav Med"
+        },
+        {
+          "key": "2023011808145041600_ref20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1186/s13643-017-0534-3",
+          "article-title": "Selecting and implementing overview methods: implications from five exemplar overviews",
+          "volume": "6",
+          "author": "Pollock",
+          "year": "2017",
+          "journal-title": "Syst Rev"
+        },
+        {
+          "key": "2023011808145041600_ref21",
+          "doi-asserted-by": "crossref",
+          "first-page": "190",
+          "DOI": "10.1186/s13643-016-0367-5",
+          "article-title": "What guidance is available for researchers conducting overviews of reviews of healthcare interventions? A scoping review and qualitative metasummary",
+          "volume": "5",
+          "author": "Pollock",
+          "year": "2016",
+          "journal-title": "Syst Rev"
+        },
+        {
+          "key": "2023011808145041600_ref22",
+          "doi-asserted-by": "crossref",
+          "first-page": "184",
+          "DOI": "10.3163/1536-5050.103.4.004",
+          "article-title": "Identifying and removing duplicate records from systematic review searches",
+          "volume": "103",
+          "author": "Kwon",
+          "year": "2015",
+          "journal-title": "J Med Libr Assoc"
+        },
+        {
+          "key": "2023011808145041600_ref23",
+          "doi-asserted-by": "crossref",
+          "first-page": "197",
+          "DOI": "10.1053/apnr.2002.34181",
+          "article-title": "Popping the (PICO) question in research and evidence-based practice",
+          "volume": "15",
+          "author": "Stone",
+          "year": "2002",
+          "journal-title": "Appl Nurs Res"
+        },
+        {
+          "key": "2023011808145041600_ref24",
+          "first-page": "126",
+          "article-title": "Physical activity, exercise, and physical fitness: definitions and distinctions for health-related research",
+          "volume": "100",
+          "author": "Caspersen",
+          "year": "1985",
+          "journal-title": "Public Health Rep"
+        },
+        {
+          "key": "2023011808145041600_ref25",
+          "doi-asserted-by": "crossref",
+          "first-page": "109",
+          "DOI": "10.1100/tsw.2007.14",
+          "article-title": "Manual therapy: the historical, current, and future role in the treatment of pain",
+          "volume": "7",
+          "author": "Smith",
+          "year": "2007",
+          "journal-title": "ScientificWorldJournal"
+        },
+        {
+          "key": "2023011808145041600_ref26",
+          "doi-asserted-by": "crossref",
+          "first-page": "455",
+          "DOI": "10.2217/pmt.15.39",
+          "article-title": "What effect can manual therapy have on a patient’s pain experience?",
+          "volume": "5",
+          "author": "Bishop",
+          "year": "2015",
+          "journal-title": "Pain Manag"
+        },
+        {
+          "key": "2023011808145041600_ref27",
+          "doi-asserted-by": "crossref",
+          "first-page": "1929",
+          "DOI": "10.1097/BRS.0b013e3181b1c99f",
+          "article-title": "2009 updated method guidelines for systematic reviews in the Cochrane Back Review Group",
+          "volume": "34",
+          "author": "Furlan",
+          "year": "2009",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "2023011808145041600_ref28",
+          "doi-asserted-by": "crossref",
+          "first-page": "225",
+          "DOI": "10.1016/j.jclinepi.2015.06.005",
+          "article-title": "ROBIS: a new tool to assess risk of bias in systematic reviews was developed",
+          "volume": "69",
+          "author": "Whiting",
+          "year": "2016",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "2023011808145041600_ref29",
+          "doi-asserted-by": "crossref",
+          "first-page": "276",
+          "DOI": "10.11613/BM.2012.031",
+          "article-title": "Interrater reliability: the kappa statistic",
+          "volume": "22",
+          "author": "McHugh",
+          "year": "2012",
+          "journal-title": "Biochem Med"
+        },
+        {
+          "key": "2023011808145041600_ref30",
+          "doi-asserted-by": "crossref",
+          "first-page": "805",
+          "DOI": "10.1123/jpah.2018-0372",
+          "article-title": "Umbrella and systematic review methodology to support the 2018 physical activity guidelines advisory committee",
+          "volume": "15",
+          "author": "Torres",
+          "year": "2018",
+          "journal-title": "J Phys Act Health"
+        },
+        {
+          "key": "2023011808145041600_ref31",
+          "doi-asserted-by": "crossref",
+          "first-page": "475",
+          "DOI": "10.1089/acm.2018.0282",
+          "article-title": "Massage for pain: an evidence map",
+          "volume": "25",
+          "author": "Miake-Lye",
+          "year": "2019",
+          "journal-title": "J Altern Complement Med"
+        },
+        {
+          "key": "2023011808145041600_ref32",
+          "doi-asserted-by": "crossref",
+          "first-page": "390",
+          "DOI": "10.1097/PHM.0000000000001349",
+          "article-title": "Effects of different exercise intensities on headache: a systematic review",
+          "volume": "99",
+          "author": "Machado-Oliveira",
+          "year": "2020",
+          "journal-title": "Am J Phys Med Rehabil"
+        },
+        {
+          "key": "2023011808145041600_ref33",
+          "doi-asserted-by": "crossref",
+          "first-page": "40",
+          "DOI": "10.1111/head.12204",
+          "article-title": "A systematic review of behavioral headache interventions with an aerobic exercise component",
+          "volume": "54",
+          "author": "Baillie",
+          "year": "2014",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "2023011808145041600_ref34",
+          "first-page": "433",
+          "article-title": "Therapeutic exercise as treatment for migraine and tension-type headaches: a systematic review of randomised clinical trials",
+          "volume": "57",
+          "author": "Gil-Martínez",
+          "year": "2013",
+          "journal-title": "Rev Neurol"
+        },
+        {
+          "key": "2023011808145041600_ref35",
+          "doi-asserted-by": "crossref",
+          "first-page": "2377",
+          "DOI": "10.1589/jpts.27.2377",
+          "article-title": "Effects of yoga exercises for headaches: a systematic review of randomized controlled trials",
+          "volume": "27",
+          "author": "Kim",
+          "year": "2015",
+          "journal-title": "J Phys Ther Sci"
+        },
+        {
+          "key": "2023011808145041600_ref36",
+          "doi-asserted-by": "crossref",
+          "first-page": "16",
+          "DOI": "10.1186/s10194-019-0961-8",
+          "article-title": "The effect of aerobic exercise on the number of migraine days, duration and pain intensity in migraine: a systematic literature review and meta-analysis",
+          "volume": "20",
+          "author": "Lemmens",
+          "year": "2019",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "2023011808145041600_ref37",
+          "doi-asserted-by": "crossref",
+          "first-page": "965",
+          "DOI": "10.1111/sms.13625",
+          "article-title": "Is aerobic exercise helpful in patients with migraine? A systematic review and meta-analysis",
+          "volume": "30",
+          "author": "La Touche",
+          "year": "2020",
+          "journal-title": "Scand J Med Sci Sports"
+        },
+        {
+          "key": "2023011808145041600_ref38",
+          "doi-asserted-by": "crossref",
+          "first-page": "64",
+          "DOI": "10.1177/0333102416636096",
+          "article-title": "Effectiveness of preventive and treatment interventions for primary headaches in the workplace: a systematic review of the literature",
+          "volume": "37",
+          "author": "Lardon",
+          "year": "2017",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "2023011808145041600_ref39",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1007/s10194-011-0296-6",
+          "article-title": "Manual therapies for migraine: a systematic review",
+          "volume": "12",
+          "author": "Chaibi",
+          "year": "2011",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "2023011808145041600_ref40",
+          "doi-asserted-by": "crossref",
+          "first-page": "532",
+          "DOI": "10.1111/head.13501",
+          "article-title": "The impact of spinal manipulation on migraine pain and disability: a systematic review and meta-analysis",
+          "volume": "59",
+          "author": "Rist",
+          "year": "2019",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "2023011808145041600_ref41",
+          "doi-asserted-by": "crossref",
+          "first-page": "232",
+          "DOI": "10.1016/j.ctim.2011.12.001",
+          "article-title": "Spinal manipulations for tension-type headaches: a systematic review of randomized controlled trials",
+          "volume": "20",
+          "author": "Posadzki",
+          "year": "2012",
+          "journal-title": "Complement Ther Med"
+        },
+        {
+          "key": "2023011808145041600_ref42",
+          "doi-asserted-by": "crossref",
+          "first-page": "1323",
+          "DOI": "10.1177/0333102415576226",
+          "article-title": "Multimodal manual therapy vs. pharmacological care for management of tension type headache: a meta-analysis of randomized trials",
+          "volume": "35",
+          "author": "Mesa-Jiménez",
+          "year": "2015",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "2023011808145041600_ref43",
+          "doi-asserted-by": "crossref",
+          "first-page": "457",
+          "DOI": "10.1016/S0161-4754(01)99423-0",
+          "article-title": "Efficacy of spinal manipulation for chronic headache: a systematic review",
+          "volume": "24",
+          "author": "Bronfort",
+          "year": "2001",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "2023011808145041600_ref44",
+          "doi-asserted-by": "crossref",
+          "first-page": "254",
+          "DOI": "10.3389/fneur.2018.00254",
+          "article-title": "Effectiveness of trigger point manual treatment on the frequency, intensity, and duration of attacks in primary headaches: a systematic review and meta-analysis of randomized controlled trials",
+          "volume": "9",
+          "author": "Falsiroli Maistrello",
+          "year": "2018",
+          "journal-title": "Front Neurol"
+        },
+        {
+          "key": "2023011808145041600_ref45",
+          "first-page": "89",
+          "article-title": "Manual therapies for pain relief in patients with headache: a systematic review",
+          "volume": "23",
+          "author": "Wanderley",
+          "year": "2015",
+          "journal-title": "Rev Neurociências"
+        },
+        {
+          "key": "2023011808145041600_ref46",
+          "doi-asserted-by": "crossref",
+          "first-page": "617",
+          "DOI": "10.1046/j.1468-2982.2002.00423.x",
+          "article-title": "The effectiveness of spinal manipulation for the treatment of headache disorders: a systematic review of randomized clinical trials",
+          "volume": "22",
+          "author": "Astin",
+          "year": "2002",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "2023011808145041600_ref47",
+          "doi-asserted-by": "crossref",
+          "first-page": "1746",
+          "DOI": "10.1097/00007632-199608010-00007",
+          "article-title": "Manipulation and mobilization of the cervical spine. A systematic review of the literature",
+          "volume": "21",
+          "author": "Hurwitz",
+          "year": "1996",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "2023011808145041600_ref48",
+          "article-title": "Manual therapy in adults with tension-type headache: a systematic review",
+          "author": "Cumplido-Trasmonte",
+          "year": "2018",
+          "journal-title": "Neurologia"
+        },
+        {
+          "key": "2023011808145041600_ref49",
+          "doi-asserted-by": "crossref",
+          "first-page": "67",
+          "DOI": "10.1186/1129-2377-15-67",
+          "article-title": "Manual therapies for primary chronic headaches: a systematic review of randomized controlled trials",
+          "volume": "15",
+          "author": "Chaibi",
+          "year": "2014",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "2023011808145041600_ref50",
+          "doi-asserted-by": "crossref",
+          "first-page": "78",
+          "DOI": "10.1007/s11916-019-0815-8",
+          "article-title": "Manual therapy and quality of life in people with headache: systematic review and meta-analysis of randomized controlled trials",
+          "volume": "23",
+          "author": "Falsiroli Maistrello",
+          "year": "2019",
+          "journal-title": "Curr Pain Headache Rep"
+        },
+        {
+          "key": "2023011808145041600_ref51",
+          "doi-asserted-by": "crossref",
+          "first-page": "964",
+          "DOI": "10.1177/0333102411405226",
+          "article-title": "Spinal manipulations for the treatment of migraine: a systematic review of randomized clinical trials",
+          "volume": "31",
+          "author": "Posadzki",
+          "year": "2011",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "2023011808145041600_ref52",
+          "first-page": "CD001878",
+          "article-title": "Non-invasive physical treatments for chronic/recurrent headache",
+          "volume": "2014",
+          "author": "Bronfort",
+          "year": "2014",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "2023011808145041600_ref53",
+          "doi-asserted-by": "crossref",
+          "first-page": "413",
+          "DOI": "10.1007/s11916-009-0081-2",
+          "article-title": "Does exercise therapy improve headache? A systematic review with meta-analysis",
+          "volume": "13",
+          "author": "Fricton",
+          "year": "2009",
+          "journal-title": "Curr Pain Headache Rep"
+        },
+        {
+          "key": "2023011808145041600_ref54",
+          "doi-asserted-by": "crossref",
+          "first-page": "142",
+          "DOI": "10.1016/S0965-2299(99)80122-8",
+          "article-title": "Systematic review of randomized clinical trials of complementary/alternative therapies in the treatment of tension-type and cervicogenic headache",
+          "volume": "7",
+          "author": "Vernon",
+          "year": "1999",
+          "journal-title": "Complement Ther Med"
+        },
+        {
+          "key": "2023011808145041600_ref55",
+          "doi-asserted-by": "crossref",
+          "first-page": "174",
+          "DOI": "10.1016/j.ft.2012.12.003",
+          "article-title": "Efectividad de la manipulación cervical en pacientes con cefalea de tipo tensional: revisión sistemática",
+          "volume": "35",
+          "author": "Morales Osorio",
+          "year": "2013",
+          "journal-title": "Fisioterapia"
+        },
+        {
+          "key": "2023011808145041600_ref56",
+          "doi-asserted-by": "crossref",
+          "first-page": "e15487",
+          "DOI": "10.1097/MD.0000000000015487",
+          "article-title": "Effectiveness of physical therapy on the suboccipital area of patients with tension-type headache: a meta-analysis of randomized controlled trials",
+          "volume": "98",
+          "author": "Jiang",
+          "year": "2019",
+          "journal-title": "Medicine (Baltimore)"
+        },
+        {
+          "key": "2023011808145041600_ref57",
+          "doi-asserted-by": "crossref",
+          "first-page": "278",
+          "DOI": "10.1097/01.ajp.0000173017.64741.86",
+          "article-title": "Are manual therapies effective in reducing pain from tension-type headache? A systematic review",
+          "volume": "22",
+          "author": "Fernández-de-Las-Peñas",
+          "year": "2006",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "2023011808145041600_ref58",
+          "doi-asserted-by": "crossref",
+          "first-page": "381",
+          "DOI": "10.1016/j.pain.2004.09.026",
+          "article-title": "The effectiveness of physiotherapy and manipulation in patients with tension-type headache: a systematic review",
+          "volume": "112",
+          "author": "Lenssinck",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2023011808145041600_ref59",
+          "doi-asserted-by": "crossref",
+          "first-page": "357",
+          "DOI": "10.1016/j.nrl.2014.01.002",
+          "article-title": "Efficacy of manual therapy in the treatment of tension-type headache. A systematic review from 2000-2013",
+          "volume": "31",
+          "author": "Lozano López",
+          "year": "2016",
+          "journal-title": "Neurologia"
+        },
+        {
+          "key": "2023011808145041600_ref60",
+          "doi-asserted-by": "crossref",
+          "first-page": "33",
+          "DOI": "10.1016/j.ft.2009.07.001",
+          "article-title": "Eficacia del tratamiento en la cefalea tensional",
+          "volume": "32",
+          "author": "Espí López",
+          "year": "2010",
+          "journal-title": "Fisioterapia"
+        },
+        {
+          "key": "2023011808145041600_ref61",
+          "doi-asserted-by": "crossref",
+          "first-page": "29",
+          "DOI": "10.1080/10833196.2019.1572963",
+          "article-title": "The effectiveness of manipulation and mobilization on pain and disability in individuals with cervicogenic and tension-type headaches: a systematic review and meta-analysis",
+          "volume": "24",
+          "author": "Coelho",
+          "year": "2019",
+          "journal-title": "Phys Ther Rev"
+        },
+        {
+          "key": "2023011808145041600_ref62",
+          "doi-asserted-by": "crossref",
+          "first-page": "474",
+          "DOI": "10.1177/0333102415597889",
+          "article-title": "Efficacy of interventions used by physiotherapists for patients with headache and migraine-systematic review and meta-analysis",
+          "volume": "36",
+          "author": "Luedtke",
+          "year": "2016",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "2023011808145041600_ref63",
+          "first-page": "1",
+          "article-title": "Headache Classification Subcommittee of the International Headache Society. Classification and diagnostic criteria for headache disorders, cranial neuralgias and facial pain. Headache Classification Committee of the International Headache Society",
+          "volume": "8",
+          "year": "1988",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "2023011808145041600_ref64",
+          "doi-asserted-by": "crossref",
+          "first-page": "1249",
+          "DOI": "10.1016/j.jpain.2019.03.005",
+          "article-title": "Exercise-induced hypoalgesia in pain-free and chronic pain populations: state of the art and future directions",
+          "volume": "20",
+          "author": "Rice",
+          "year": "2019",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "2023011808145041600_ref65",
+          "doi-asserted-by": "crossref",
+          "first-page": "216",
+          "DOI": "10.1016/j.math.2014.07.004",
+          "article-title": "Exercise therapy for chronic musculoskeletal pain: innovation by altering pain memories",
+          "volume": "20",
+          "author": "Nijs",
+          "year": "2015",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "2023011808145041600_ref66",
+          "doi-asserted-by": "crossref",
+          "first-page": "205031211666893",
+          "DOI": "10.1177/2050312116668933",
+          "article-title": "Associations between psychological factors and the effect of home-based physical exercise in women with chronic neck and shoulder pain",
+          "volume": "4",
+          "author": "Karlsson",
+          "year": "2016",
+          "journal-title": "SAGE open Med"
+        },
+        {
+          "key": "2023011808145041600_ref67",
+          "doi-asserted-by": "crossref",
+          "first-page": "301",
+          "DOI": "10.2519/jospt.2017.0604",
+          "article-title": "Placebo mechanisms of manual therapy: a sheep in wolf ‘s clothing?",
+          "volume": "47",
+          "author": "Bialosky",
+          "year": "2017",
+          "journal-title": "J Orthop Sport Phys Ther"
+        },
+        {
+          "key": "2023011808145041600_ref68",
+          "doi-asserted-by": "crossref",
+          "first-page": "457",
+          "DOI": "10.2519/jospt.2013.4492",
+          "article-title": "Patient expectations of benefit from interventions for neck pain and resulting influence on outcomes",
+          "volume": "43",
+          "author": "Bishop",
+          "year": "2013",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2023011808145041600_ref69",
+          "doi-asserted-by": "crossref",
+          "first-page": "965",
+          "DOI": "10.2147/JPR.S130931",
+          "article-title": "The influence of clinical equipoise and patient preferences on outcomes of conservative manual interventions for spinal pain: an experimental study",
+          "volume": "10",
+          "author": "Bishop",
+          "year": "2017",
+          "journal-title": "J Pain Res"
+        },
+        {
+          "key": "2023011808145041600_ref70",
+          "doi-asserted-by": "crossref",
+          "first-page": "45",
+          "DOI": "10.1179/2042618613Y.0000000050",
+          "article-title": "Clinical reasoning for manual therapy management of tension type and cervicogenic headache",
+          "volume": "22",
+          "author": "Fernández-de-Las-Peñas",
+          "year": "2014",
+          "journal-title": "J Man Manip Ther"
+        },
+        {
+          "key": "2023011808145041600_ref71",
+          "doi-asserted-by": "crossref",
+          "first-page": "2041",
+          "DOI": "10.1016/j.apmr.2011.07.198",
+          "article-title": "The effect of neuroscience education on pain, disability, anxiety, and stress in chronic musculoskeletal pain",
+          "volume": "92",
+          "author": "Louw",
+          "year": "2011",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "2023011808145041600_ref72",
+          "doi-asserted-by": "crossref",
+          "first-page": "e155",
+          "DOI": "10.1017/S1463423619000720",
+          "article-title": "Effectiveness of a primary care-based group educational intervention in the management of patients with migraine: a randomized controlled trial",
+          "volume": "20",
+          "author": "Aguirrezabal",
+          "year": "2019",
+          "journal-title": "Prim Health Care Res Dev"
+        }
+      ],
+      "container-title": [
+        "Physical Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://academic.oup.com/ptj/advance-article-pdf/doi/10.1093/ptj/pzab308/42297566/pzab308.pdf",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://academic.oup.com/ptj/article-pdf/102/3/pzab308/48751059/pzab308.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://academic.oup.com/ptj/article-pdf/102/3/pzab308/48751059/pzab308.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            18
+          ]
+        ],
+        "date-time": "2023-01-18T08:16:56Z",
+        "timestamp": 1674029816000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://academic.oup.com/ptj/article/doi/10.1093/ptj/pzab308/6515753"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            27
+          ]
+        ]
+      },
+      "references-count": 72,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              1
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1093/ptj/pzab308",
+      "relation": {},
+      "ISSN": [
+        "0031-9023",
+        "1538-6724"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0031-9023"
+        },
+        {
+          "type": "electronic",
+          "value": "1538-6724"
+        }
+      ],
+      "subject": [],
+      "published-other": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            1
+          ]
+        ]
+      },
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            1,
+            27
+          ]
+        ]
+      },
+      "article-number": "pzab308"
+    }
+  }
+}

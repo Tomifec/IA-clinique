@@ -1,0 +1,530 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1589_jpts_28_1219.md",
+  "id": "evidence_import_refs_2025_09_12_10_1589_jpts_28_1219",
+  "doi": "10.1589/jpts.28.1219",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:25.385043Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            31
+          ]
+        ],
+        "date-time": "2025-08-31T23:26:33Z",
+        "timestamp": 1756682793860
+      },
+      "reference-count": 60,
+      "publisher": "Society of Physical Therapy Science",
+      "issue": "4",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "J Phys Ther Sci"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "DOI": "10.1589/jpts.28.1219",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2016,
+            4,
+            27
+          ]
+        ],
+        "date-time": "2016-04-27T23:37:47Z",
+        "timestamp": 1461800267000
+      },
+      "page": "1219-1227",
+      "source": "Crossref",
+      "is-referenced-by-count": 38,
+      "title": [
+        "Acute effect of scapular proprioceptive neuromuscular facilitation (PNF) techniques and classic exercises in adhesive capsulitis: a randomized controlled trial"
+      ],
+      "prefix": "10.1589",
+      "volume": "28",
+      "author": [
+        {
+          "given": "Nilay Comuk",
+          "family": "Balcı",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy and Rehabilitation, Faculty of Health Sciences, Baskent University: Eskisehir Road 20 Km, 06810 Baglica, Ankara, Turkey"
+            }
+          ]
+        },
+        {
+          "given": "Zeliha Ozlem",
+          "family": "Yuruk",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy and Rehabilitation, Faculty of Health Sciences, Baskent University: Eskisehir Road 20 Km, 06810 Baglica, Ankara, Turkey"
+            }
+          ]
+        },
+        {
+          "given": "Aslican",
+          "family": "Zeybek",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy and Rehabilitation, Faculty of Health Sciences, Baskent University: Eskisehir Road 20 Km, 06810 Baglica, Ankara, Turkey"
+            }
+          ]
+        },
+        {
+          "given": "Mustafa",
+          "family": "Gulsen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Physiotherapy Program, Vocational School of Health Sciences, Baskent University, Turkey"
+            }
+          ]
+        },
+        {
+          "given": "Mustafa Agah",
+          "family": "Tekindal",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biostatistics and Medical Informatics, Izmir University, Turkey"
+            }
+          ]
+        }
+      ],
+      "member": "533",
+      "reference": [
+        {
+          "key": "1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "1) Neviaser AS, Neviaser RJ: Adhesive capsulitis of the shoulder. J Am AcadOrthopSurg, 2011, 19: 536–542.",
+          "DOI": "10.5435/00124635-201109000-00004"
+        },
+        {
+          "key": "2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "2) Neviaser AS, Hannafin JA: Adhesive capsulitis: a review of current treatment. Am J Sports Med, 2010, 38: 2346–2356.",
+          "DOI": "10.1177/0363546509348048"
+        },
+        {
+          "key": "3",
+          "doi-asserted-by": "crossref",
+          "unstructured": "3) Park SW, Lee HS, Kim JH: The effectiveness of intensive mobilization techniques combined with capsular distension for adhesive capsulitis of the shoulder. J Phys Ther Sci, 2014, 26: 1767–1770.",
+          "DOI": "10.1589/jpts.26.1767"
+        },
+        {
+          "key": "4",
+          "unstructured": "4) Dudkiewicz I, Oran A, Salai M, et al.: Idiopathic adhesive capsulitis: long-term results of conservative treatment. Isr Med Assoc J, 2004, 6: 524–526."
+        },
+        {
+          "key": "5",
+          "unstructured": "5) Jürgel J, Rannama L, Gapeyeva H, et al.: Shoulder function in patients with frozen shoulder before and after 4-week rehabilitation. Medicina (Kaunas), 2005, 41: 30–38."
+        },
+        {
+          "key": "6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "6) Gong WT, Park GD, Kim CS: Effects of Gong’s mobilization in the side-lying position on shoulder abduction. J Phys Ther Sci, 2012, 24: 307–309.",
+          "DOI": "10.1589/jpts.24.307"
+        },
+        {
+          "key": "7",
+          "doi-asserted-by": "crossref",
+          "unstructured": "7) Bulgen DY, Binder AI, Hazleman BL, et al.: Frozen shoulder: prospective clinical study with an evaluation of three treatment regimens. Ann Rheum Dis, 1984, 43: 353–360.",
+          "DOI": "10.1136/ard.43.3.353"
+        },
+        {
+          "key": "8",
+          "doi-asserted-by": "crossref",
+          "unstructured": "8) Carette S, Moffet H, Tardif J, et al.: Intraarticular corticosteroids, supervised physiotherapy, or a combination of the two in the treatment of adhesive capsulitis of the shoulder: a placebo-controlled trial. Arthritis Rheum, 2003, 48: 829–838.",
+          "DOI": "10.1002/art.10954"
+        },
+        {
+          "key": "9",
+          "doi-asserted-by": "crossref",
+          "unstructured": "9) Çelik D: Comparison of the outcomes of two different exercise programs on frozen shoulder. Acta Orthop Traumatol Turc, 2010, 44: 285–292.",
+          "DOI": "10.3944/AOTT.2010.2367"
+        },
+        {
+          "key": "10",
+          "doi-asserted-by": "crossref",
+          "unstructured": "10) Bertoft ES: Painful shoulder disorders from a physiotherapeutic view: a review of literature. Crit Rev Phys Rehabil Med, 1999, 11: 229–277.",
+          "DOI": "10.1615/CritRevPhysRehabilMed.v11.i34.30"
+        },
+        {
+          "key": "11",
+          "doi-asserted-by": "crossref",
+          "unstructured": "11) Gaspar PD, Willis FB: Adhesive capsulitis and dynamic splinting: a controlled, cohort study. BMC MusculoskeletDisord, 2009, 10: 111.",
+          "DOI": "10.1186/1471-2474-10-111"
+        },
+        {
+          "key": "12",
+          "doi-asserted-by": "crossref",
+          "unstructured": "12) Taspinar F, Aksoy CC, Taspinar B, et al.: Comparison of patients with different pathologies in terms of shoulder protraction and scapular asymmetry. J Phys Ther Sci, 2013, 25: 1033–1038.",
+          "DOI": "10.1589/jpts.25.1033"
+        },
+        {
+          "key": "13",
+          "doi-asserted-by": "crossref",
+          "unstructured": "13) Choi SH, Lee BH: Clinical usefulness of shoulder stability exercises for middle-aged women. J Phys Ther Sci, 2013, 25: 1243–1246.",
+          "DOI": "10.1589/jpts.25.1243"
+        },
+        {
+          "key": "14",
+          "doi-asserted-by": "crossref",
+          "unstructured": "14) Hindle KB, Whitcomb TJ, Briggs WO, et al.: Proprioceptive neuromuscular facilitation (PNF): its mechanisms and effects on range of motion and muscular function. J Hum Kinet, 2012, 31: 105–113.",
+          "DOI": "10.2478/v10078-012-0011-y"
+        },
+        {
+          "key": "15",
+          "doi-asserted-by": "crossref",
+          "unstructured": "15) Etnyre BR, Abraham LD: H-reflex changes during static stretching and two variations of proprioceptive neuromuscular facilitation techniques. Electroencephalogr Clin Neurophysiol, 1986, 63: 174–179.",
+          "DOI": "10.1016/0013-4694(86)90010-6"
+        },
+        {
+          "key": "16",
+          "doi-asserted-by": "crossref",
+          "unstructured": "16) Alaca N, Atalay A, Güven Z: Comparison of the long-term effectiveness of progressive neuromuscular facilitation and continuous passive motion therapies after total knee arthroplasty. J Phys TherSci, 2015, 27: 3377–3380.",
+          "DOI": "10.1589/jpts.27.3377"
+        },
+        {
+          "key": "17",
+          "doi-asserted-by": "crossref",
+          "unstructured": "17) Lee JH, Park SJ, Na SS: The effect of proprioceptive neuromuscular facilitation therapy on pain and function. J Phys Ther Sci, 2013, 25: 713–716.",
+          "DOI": "10.1589/jpts.25.713"
+        },
+        {
+          "key": "18",
+          "doi-asserted-by": "crossref",
+          "unstructured": "18) Cengiz A: EMG and peak force responses to PNF stretching and the relationship between stretching-induced force deficits and bilateral deficits. J Phys Ther Sci, 2015, 27: 631–634.",
+          "DOI": "10.1589/jpts.27.631"
+        },
+        {
+          "key": "19",
+          "unstructured": "19) Adler SS, Beckers D, Buck M: PNF in Practice. Germany: Springer, 2008."
+        },
+        {
+          "key": "20",
+          "doi-asserted-by": "crossref",
+          "unstructured": "20) Park SE, Wang JS: Effect of joint mobilization using KEOMT and PNF on a patient with CLBP and a lumbar transitional vertebra: a case study. J Phys Ther Sci, 2015, 27: 1629–1632.",
+          "DOI": "10.1589/jpts.27.1629"
+        },
+        {
+          "key": "21",
+          "doi-asserted-by": "crossref",
+          "unstructured": "21) Paine RM, Voight M: The role of the scapula. J Orthop Sports Phys Ther, 1993, 18: 386–391.",
+          "DOI": "10.2519/jospt.1993.18.1.386"
+        },
+        {
+          "key": "22",
+          "unstructured": "22) Jaruga M, Manikowski W, Romanowski L, et al.: Pre- and postoperative principles of rehabilitation in arthroscopic treatment of painfull shoulder. Ortop Traumatol Rehabil, 2003, 5: 469–474."
+        },
+        {
+          "key": "23",
+          "unstructured": "23) Decicco PV, Fisher MM: The effects of proprioceptive neuromuscular facilitation stretching on shoulder range of motion in overhand athletes. J Sports Med Phys Fitness, 2005, 45: 183–187."
+        },
+        {
+          "key": "24",
+          "unstructured": "24) Weon-Sik L, Hyung-Soo S, In-Sup K, et al.: The effects of scapular pattern and hold-relax technique of PNF on the ROM and VAS in frozen shoulder patients. J Korean Soc Phys Ther, 2002, 14: 15–26."
+        },
+        {
+          "key": "25",
+          "doi-asserted-by": "crossref",
+          "unstructured": "25) Shimura K, Kasai T: Effects of proprioceptive neuromuscular facilitation on the initiation of voluntary movement and motor evoked potentials in upper limb muscles. Hum Mov Sci, 2002, 21: 101–113.",
+          "DOI": "10.1016/S0167-9457(01)00057-4"
+        },
+        {
+          "key": "26",
+          "doi-asserted-by": "crossref",
+          "unstructured": "26) Godges JJ, Mattson-Bell M, Thorpe D, et al.: The immediate effects of soft tissue mobilization with proprioceptive neuromuscular facilitation on glenohumeral external rotation and overhead reach. J Orthop Sports Phys Ther, 2003, 33: 713–718.",
+          "DOI": "10.2519/jospt.2003.33.12.713"
+        },
+        {
+          "key": "27",
+          "doi-asserted-by": "crossref",
+          "unstructured": "27) Lentell G, Hetherington T, Eagan J, et al.: The use of thermal agents to influence the effectiveness of a low-load prolonged stretch. J Orthop Sports Phys Ther, 1992, 16: 200–207.",
+          "DOI": "10.2519/jospt.1992.16.5.200"
+        },
+        {
+          "key": "28",
+          "doi-asserted-by": "crossref",
+          "unstructured": "28) Kim JJ, Lee SY, Ha K: The effects of exercise using PNF in patients with a supraspinatus muscle tear. J Phys Ther Sci, 2015, 27: 2443–2446.",
+          "DOI": "10.1589/jpts.27.2443"
+        },
+        {
+          "key": "29",
+          "doi-asserted-by": "crossref",
+          "unstructured": "29) Al Dajah SB: Soft tissue mobilization and PNF improve range of motion and minimize pain level in shoulder impingement. J Phys Ther Sci, 2014, 26: 1803–1805.",
+          "DOI": "10.1589/jpts.26.1803"
+        },
+        {
+          "key": "30",
+          "doi-asserted-by": "crossref",
+          "unstructured": "30) Park K, Seo K: The effects on the pain index and lumbar flexibility of obese patients with low back pain after PNF scapular and PNF pelvic patterns. J Phys Ther Sci, 2014, 26: 1571–1574.",
+          "DOI": "10.1589/jpts.26.1571"
+        },
+        {
+          "key": "31",
+          "doi-asserted-by": "crossref",
+          "unstructured": "31) Nitz AJ: Physical therapy management of the shoulder. Phys Ther, 1986, 66: 1912–1919.",
+          "DOI": "10.1093/ptj/66.12.1912"
+        },
+        {
+          "key": "32",
+          "doi-asserted-by": "crossref",
+          "unstructured": "32) Dixon JS, Bird HA: Reproducibility along a 10 cm vertical visual analogue scale. Ann Rheum Dis, 1981, 40: 87–89.",
+          "DOI": "10.1136/ard.40.1.87"
+        },
+        {
+          "key": "33",
+          "doi-asserted-by": "crossref",
+          "unstructured": "33) Briggs M, Closs JS: A descriptive study of the use of visual analogue scales and verbal rating scales for the assessment of postoperative pain in orthopedic patients. J Pain Symptom Manage, 1999, 18: 438–446.",
+          "DOI": "10.1016/S0885-3924(99)00092-5"
+        },
+        {
+          "key": "34",
+          "doi-asserted-by": "crossref",
+          "unstructured": "34) Kibler WB: The role of the scapula in athletic shoulder function. Am J Sports Med, 1998, 26: 325–337.",
+          "DOI": "10.1177/03635465980260022801"
+        },
+        {
+          "key": "35",
+          "doi-asserted-by": "crossref",
+          "unstructured": "35) Kibler WB: Shoulder rehabilitation: principles and practice. Med Sci Sports Exerc, 1998, 30: S40–S50.",
+          "DOI": "10.1097/00005768-199804001-00007"
+        },
+        {
+          "key": "36",
+          "unstructured": "36) Magee DJ: Orthopedic physical assessment. Philadelphia: Saunders, 2002."
+        },
+        {
+          "key": "37",
+          "doi-asserted-by": "crossref",
+          "unstructured": "37) Odom CJ, Taylor AB, Hurd CE, et al.: Measurement of scapular asymetry and assessment of shoulder dysfunction using the Lateral Scapular Slide Test: a reliability and validity study. Phys Ther, 2001, 81: 799–809.",
+          "DOI": "10.1093/ptj/81.2.799"
+        },
+        {
+          "key": "38",
+          "doi-asserted-by": "crossref",
+          "unstructured": "38) Riddle DL, Rothstein JM, Lamb RL: Goniometric reliability in a clinical setting. Shoulder measurements. Phys Ther, 1987, 67: 668–673.",
+          "DOI": "10.1093/ptj/67.5.668"
+        },
+        {
+          "key": "39",
+          "unstructured": "39) Ayhan C, Unal E, Yakut Y: Turkish version of the Simple Shoulder Test: a reliability and validity study. Turk J Physiother Rehabil, 2010, 21: 68–74."
+        },
+        {
+          "key": "40",
+          "doi-asserted-by": "crossref",
+          "unstructured": "40) Godfrey J, Hamman R, Lowenstein S, et al.: Reliability, validity, and responsiveness of the simple shoulder test: psychometric properties by age and injury type. J Shoulder Elbow Surg, 2007, 16: 260–267.",
+          "DOI": "10.1016/j.jse.2006.07.003"
+        },
+        {
+          "key": "41",
+          "unstructured": "41) Shoukari MM, Pause CA: Statistical Methods for Health Sciences. America: CRC Press, 1999."
+        },
+        {
+          "key": "42",
+          "doi-asserted-by": "crossref",
+          "unstructured": "42) Neviaser RJ, Neviaser TJ: The frozen shoulder. Diagnosis and management. Clin Orthop Relat Res, 1987, (223): 59–64.",
+          "DOI": "10.1097/00003086-198710000-00008"
+        },
+        {
+          "key": "43",
+          "doi-asserted-by": "crossref",
+          "unstructured": "43) Neviaser TJ: Adhesive capsulitis. Orthop Clin North Am, 1987, 18: 439–443.",
+          "DOI": "10.1016/S0030-5898(20)30374-6"
+        },
+        {
+          "key": "44",
+          "doi-asserted-by": "crossref",
+          "unstructured": "44) Vermeulen HM, Obermann WR, Burger BJ, et al.: End-range mobilization techniques in adhesive capsulitis of the shoulder joint: a multiple-subject case report. Phys Ther, 2000, 80: 1204–1213.",
+          "DOI": "10.1093/ptj/80.12.1204"
+        },
+        {
+          "key": "45",
+          "doi-asserted-by": "crossref",
+          "unstructured": "45) Goldberg BA, Scarlat MM, Harryman DT 2nd: Management of the stiff shoulder. J Orthop Sci, 1999, 4: 462–471.",
+          "DOI": "10.1007/s007760050131"
+        },
+        {
+          "key": "46",
+          "doi-asserted-by": "crossref",
+          "unstructured": "46) Levine WN, Kashyap CP, Bak SF, et al.: Nonoperative management of idiopathic adhesive capsulitis. J Shoulder Elbow Surg, 2007, 16: 569–573.",
+          "DOI": "10.1016/j.jse.2006.12.007"
+        },
+        {
+          "key": "47",
+          "doi-asserted-by": "crossref",
+          "unstructured": "47) Jain TK, Sharma NK: The effectiveness of physiotherapeutic interventions in treatment of frozen shoulder/adhesive capsulitis: a systematic review. J Back Musculoskeletal Rehabil, 2014, 27: 247–273.",
+          "DOI": "10.3233/BMR-130443"
+        },
+        {
+          "key": "48",
+          "doi-asserted-by": "crossref",
+          "unstructured": "48) Diercks RL, Stevens M: Gentle thawing of the frozen shoulder: a prospective study of supervised neglect versus intensive physical therapy in seventy-seven patients with frozen shoulder syndrome followed up for two years. J Shoulder Elbow Surg, 2004, 13: 499–502.",
+          "DOI": "10.1016/j.jse.2004.03.002"
+        },
+        {
+          "key": "49",
+          "doi-asserted-by": "crossref",
+          "unstructured": "49) Miller MD, Wirth MA, Rockwood CA Jr: Thawing the frozen shoulder: the “patient” patient. Orthopedics, 1996, 19: 849–853.",
+          "DOI": "10.3928/0147-7447-19961001-06"
+        },
+        {
+          "key": "50",
+          "doi-asserted-by": "crossref",
+          "unstructured": "50) Shaffer B, Tibone JE, Kerlan RK: Frozen shoulder. A long-term follow-up. J Bone Joint Surg Am, 1992, 74: 738–746.",
+          "DOI": "10.2106/00004623-199274050-00013"
+        },
+        {
+          "key": "51",
+          "unstructured": "51) Rizk TE, Pinals RS, Talaiver AS: Corticosteroid injections in adhesive capsulitis: investigation of their value and site. Arch Phys Med Rehabil, 1991, 72: 20–22."
+        },
+        {
+          "key": "52",
+          "doi-asserted-by": "crossref",
+          "unstructured": "52) Hazleman BL: The painful stiff shoulder. Rheumatol Phys Med, 1972, 11: 413–421.",
+          "DOI": "10.1093/rheumatology/11.8.413"
+        },
+        {
+          "key": "53",
+          "doi-asserted-by": "crossref",
+          "unstructured": "53) Struyf F, Nijs J, Mollekens S, et al.: Scapular-focused treatment in patients with shoulder impingement syndrome: a randomized clinical trial. Clin Rheumatol, 2013, 32: 73–85.",
+          "DOI": "10.1007/s10067-012-2093-2"
+        },
+        {
+          "key": "54",
+          "doi-asserted-by": "crossref",
+          "unstructured": "54) Tate AR, Mc Clure PW, Young IA, et al.: Comprehensive impairment-based exercise and manual therapy intervention for patients with subacromial impingement syndrome: a case series. J Orthop Sports Phys Ther, 2010, 40: 474–493.",
+          "DOI": "10.2519/jospt.2010.3223"
+        },
+        {
+          "key": "55",
+          "doi-asserted-by": "crossref",
+          "unstructured": "55) Seitz AL, Mc Clure PW, Finucane S, et al.: The scapular assistance test results in changes in scapular position and subacromial space but not rotator cuff strength in subacromial impingement. J Orthop Sports Phys Ther, 2012, 42: 400–412.",
+          "DOI": "10.2519/jospt.2012.3579"
+        },
+        {
+          "key": "56",
+          "doi-asserted-by": "crossref",
+          "unstructured": "56) Van de Velde A, De Mey K, Maenhout A, et al.: Scapular-muscle performance: two training programs in adolescent swimmers. J Athl Train, 2011, 46: 160–167, discussion 168–169.",
+          "DOI": "10.4085/1062-6050-46.2.160"
+        },
+        {
+          "key": "57",
+          "doi-asserted-by": "crossref",
+          "unstructured": "57) Merolla G, De Santis E, Sperling JW, et al.: Infraspinatus strength assessment before and after scapular muscles rehabilitation in professional volleyball players with scapular dyskinesis. J Shoulder Elbow Surg, 2010, 19: 1256–1264.",
+          "DOI": "10.1016/j.jse.2010.01.022"
+        },
+        {
+          "key": "58",
+          "doi-asserted-by": "crossref",
+          "unstructured": "58) Merolla G, De Santis E, Campi F, et al.: Supraspinatus and infraspinatus weakness in overhead athletes with scapular dyskinesis: strength assessment before and after restoration of scapular musculature balance. Musculoskelet Surg, 2010, 94: 119–125.",
+          "DOI": "10.1007/s12306-010-0082-7"
+        },
+        {
+          "key": "59",
+          "doi-asserted-by": "crossref",
+          "unstructured": "59) De Mey K, Danneels L, Cagnie B, et al.: Scapular muscle rehabilitation exercises in overhead athletes with impingement symptoms: effect of a 6-week training program on muscle recruitment and functional outcome. Am J Sports Med, 2012, 40: 1906–1915.",
+          "DOI": "10.1177/0363546512453297"
+        },
+        {
+          "key": "60",
+          "doi-asserted-by": "crossref",
+          "unstructured": "60) Cools AM, Dewitte V, Lanszweert F, et al.: Rehabilitation of scapular muscle balance: which exercises to prescribe? Am J Sports Med, 2007, 35: 1744–1751.",
+          "DOI": "10.1177/0363546507303560"
+        }
+      ],
+      "container-title": [
+        "Journal of Physical Therapy Science"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.jstage.jst.go.jp/article/jpts/28/4/28_jpts-2015-995/_pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            6,
+            18
+          ]
+        ],
+        "date-time": "2022-06-18T22:49:22Z",
+        "timestamp": 1655592562000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.jstage.jst.go.jp/article/jpts/28/4/28_jpts-2015-995/_article"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "references-count": 60,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2016
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1589/jpts.28.1219",
+      "relation": {},
+      "ISSN": [
+        "0915-5287",
+        "2187-5626"
+      ],
+      "issn-type": [
+        {
+          "value": "0915-5287",
+          "type": "print"
+        },
+        {
+          "value": "2187-5626",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      }
+    }
+  }
+}

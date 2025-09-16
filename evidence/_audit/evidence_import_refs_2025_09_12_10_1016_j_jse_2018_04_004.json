@@ -1,0 +1,476 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jse_2018_04_004.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jse_2018_04_004",
+  "doi": "10.1016/j.jse.2018.04.004",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:46.818440Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            29
+          ]
+        ],
+        "date-time": "2025-08-29T09:45:12Z",
+        "timestamp": 1756460712240,
+        "version": "3.40.5"
+      },
+      "reference-count": 24,
+      "publisher": "Elsevier BV",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2018-08-01T00:00:00Z",
+            "timestamp": 1533081600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "jshoulderelbow.org",
+          "clinicalkey.com.au",
+          "clinicalkey.fr",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Shoulder and Elbow Surgery"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jse.2018.04.004",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            25
+          ]
+        ],
+        "date-time": "2018-05-25T02:43:22Z",
+        "timestamp": 1527216202000
+      },
+      "page": "1437-1443",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 123,
+      "title": [
+        "Shoulder adhesive capsulitis: epidemiology and predictors of surgery"
+      ],
+      "prefix": "10.1016",
+      "volume": "27",
+      "author": [
+        {
+          "given": "Kiera",
+          "family": "Kingston",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Emily J.",
+          "family": "Curry",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joseph W.",
+          "family": "Galvin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7577-847X",
+          "authenticated-orcid": false,
+          "given": "Xinning",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0010",
+          "first-page": "33",
+          "article-title": "Do diabetes and hypertension precede the development of adhesive capsulitis?",
+          "volume": "23",
+          "author": "Austin",
+          "year": "2013",
+          "journal-title": "U Penn Orthop J"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "62",
+          "DOI": "10.1093/rheumatology/27.1.62",
+          "article-title": "Bilateral adhesive capsulitis, oligoarthritis and proximal myopathy as presentation of hypothyroidism",
+          "volume": "27",
+          "author": "Bowman",
+          "year": "1988",
+          "journal-title": "Br J Rheumatol"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0020",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.1136/ard.31.1.69",
+          "article-title": "Periarthritis of the shoulder and diabetes mellitus",
+          "volume": "31",
+          "author": "Bridgman",
+          "year": "1972",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0025",
+          "doi-asserted-by": "crossref",
+          "first-page": "1315",
+          "DOI": "10.1056/NEJM198805193182007",
+          "article-title": "Advanced glycosylation end products in tissue and the biochemical basis of diabetic complications",
+          "volume": "318",
+          "author": "Brownlee",
+          "year": "1988",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0030",
+          "doi-asserted-by": "crossref",
+          "first-page": "527",
+          "DOI": "10.7326/0003-4819-101-4-527",
+          "article-title": "Nonenzymatic glycosylation and the pathogenesis of diabetic complications",
+          "volume": "101",
+          "author": "Brownlee",
+          "year": "1984",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0035",
+          "first-page": "210",
+          "article-title": "Frozen shoulder: unravelling the enigma",
+          "volume": "79",
+          "author": "Bunker",
+          "year": "1997",
+          "journal-title": "Ann R Coll Surg Engl"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "162",
+          "DOI": "10.1046/j.1365-2265.2003.01786.x",
+          "article-title": "Musculoskeletal manifestations in patients with thyroid disease",
+          "volume": "59",
+          "author": "Cakir",
+          "year": "2003",
+          "journal-title": "Clin Endocrinol (Oxf)"
+        },
+        {
+          "year": "2015",
+          "series-title": "Nutrition, physical activity and obesity: data, trends and maps",
+          "author": "Centers for Disease Control and Prevention",
+          "key": "10.1016/j.jse.2018.04.004_bib0045"
+        },
+        {
+          "year": "2015",
+          "series-title": "Diabetes: data and statistics",
+          "author": "Centers for Disease Control and Prevention",
+          "key": "10.1016/j.jse.2018.04.004_bib0050"
+        },
+        {
+          "year": "1934",
+          "series-title": "The shoulder: rupture of the supraspinatus tendon and other lesions in or about the subacromial bursa",
+          "author": "Codman",
+          "key": "10.1016/j.jse.2018.04.004_bib0055"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0060",
+          "doi-asserted-by": "crossref",
+          "first-page": "231",
+          "DOI": "10.1016/j.jse.2007.05.009",
+          "article-title": "Long-term outcome of frozen shoulder",
+          "volume": "17",
+          "author": "Hand",
+          "year": "2008",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0065",
+          "doi-asserted-by": "crossref",
+          "first-page": "502",
+          "DOI": "10.1016/j.jse.2010.08.023",
+          "article-title": "Current review of adhesive capsulitis",
+          "volume": "20",
+          "author": "Hsu",
+          "year": "2011",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "e952",
+          "DOI": "10.1097/MD.0000000000000952",
+          "article-title": "Prevalence and incidence of hypertension in the general adult population: results of the CARLA-Cohort Study",
+          "volume": "94",
+          "author": "Lacruz",
+          "year": "2015",
+          "journal-title": "Medicine (Baltimore)"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0075",
+          "first-page": "E71",
+          "article-title": "Worker's compensation: how do orthopedic surgeons fare?",
+          "volume": "40",
+          "author": "Makhni",
+          "year": "2011",
+          "journal-title": "Am J Orthop (Belle Mead NJ)"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0080",
+          "doi-asserted-by": "crossref",
+          "first-page": "536",
+          "DOI": "10.5435/00124635-201109000-00004",
+          "article-title": "Adhesive capsulitis of the shoulder",
+          "volume": "19",
+          "author": "Neviaser",
+          "year": "2011",
+          "journal-title": "J Am Acad Orthop Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0085",
+          "first-page": "211",
+          "article-title": "Adhesive capsulitis of the shoulder: a study of the pathological findings in periarthritis of the shoulder",
+          "volume": "27",
+          "author": "Neviaser",
+          "year": "1945",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0090",
+          "doi-asserted-by": "crossref",
+          "first-page": "193",
+          "DOI": "10.3109/03009747509165255",
+          "article-title": "The natural history of the frozen shoulder syndrome",
+          "volume": "4",
+          "author": "Reeves",
+          "year": "1975",
+          "journal-title": "Scand J Rheumatol"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0095",
+          "doi-asserted-by": "crossref",
+          "first-page": "149",
+          "DOI": "10.1067/mse.2001.112883",
+          "article-title": "The association between frozen shoulder and Dupuytren's disease",
+          "volume": "10",
+          "author": "Smith",
+          "year": "2001",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0100",
+          "doi-asserted-by": "crossref",
+          "first-page": "748",
+          "DOI": "10.1016/j.jse.2007.02.133",
+          "article-title": "Prevalence of symptoms and signs of shoulder problems in people with diabetes mellitus",
+          "volume": "16",
+          "author": "Thomas",
+          "year": "2007",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0105",
+          "doi-asserted-by": "crossref",
+          "first-page": "591",
+          "DOI": "10.1097/SMJ.0b013e3181705d39",
+          "article-title": "The prevalence of a diabetic condition and adhesive capsulitis of the shoulder",
+          "volume": "101",
+          "author": "Tighe",
+          "year": "2008",
+          "journal-title": "South Med J"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0110",
+          "doi-asserted-by": "crossref",
+          "first-page": "234",
+          "DOI": "10.1177/2040622314548679",
+          "article-title": "Early onset type 2 diabetes: risk factors, clinical impact and management",
+          "volume": "5",
+          "author": "Wilmot",
+          "year": "2014",
+          "journal-title": "Ther Adv Chronic Dis"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0115",
+          "doi-asserted-by": "crossref",
+          "first-page": "936",
+          "DOI": "10.1002/art.1780300815",
+          "article-title": "Frozen shoulder in hyperthyroidism",
+          "volume": "30",
+          "author": "Wohlgethan",
+          "year": "1987",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0120",
+          "doi-asserted-by": "crossref",
+          "first-page": "213",
+          "DOI": "10.1136/ard.35.3.213",
+          "article-title": "Periarthritis of the shoulder. I. Aetiological considerations with particular reference to personality factors",
+          "volume": "35",
+          "author": "Wright",
+          "year": "1976",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "key": "10.1016/j.jse.2018.04.004_bib0125",
+          "doi-asserted-by": "crossref",
+          "first-page": "1317",
+          "DOI": "10.1007/s00520-016-3532-4",
+          "article-title": "Prevalence and risk factors of adhesive capsulitis of the shoulder after breast cancer treatment",
+          "volume": "25",
+          "author": "Yang",
+          "year": "2017",
+          "journal-title": "Support Care Cancer"
+        }
+      ],
+      "container-title": [
+        "Journal of Shoulder and Elbow Surgery"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1058274618302568?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1058274618302568?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2018,
+            8,
+            29
+          ]
+        ],
+        "date-time": "2018-08-29T15:00:34Z",
+        "timestamp": 1535554834000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1058274618302568"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            8
+          ]
+        ]
+      },
+      "references-count": 24,
+      "journal-issue": {
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              8
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1058274618302568"
+      ],
+      "URL": "https://doi.org/10.1016/j.jse.2018.04.004",
+      "relation": {},
+      "ISSN": [
+        "1058-2746"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1058-2746"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            8
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Shoulder adhesive capsulitis: epidemiology and predictors of surgery",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Journal of Shoulder and Elbow Surgery",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jse.2018.04.004",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2018 Journal of Shoulder and Elbow Surgery Board of Trustees. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

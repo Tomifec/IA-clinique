@@ -1,0 +1,1476 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_2519_jospt_2017_0302.md",
+  "id": "evidence_import_refs_2025_09_12_10_2519_jospt_2017_0302",
+  "doi": "10.2519/jospt.2017.0302",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:37.482989Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T13:41:06Z",
+        "timestamp": 1757684466335
+      },
+      "reference-count": 243,
+      "publisher": "Journal of Orthopaedic & Sports Physical Therapy (JOSPT)",
+      "issue": "7",
+      "content-domain": {
+        "domain": [
+          "www.jospt.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Orthopaedic &amp; Sports Physical Therapy"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            7
+          ]
+        ]
+      },
+      "abstract": "<jats:p> The Orthopaedic Section of the American Physical Therapy Association (APTA) has an ongoing effort to create evidence-based practice guidelines for orthopaedic physical therapy management of patients with musculoskeletal impairments described in the World Health Organization's International Classification of Functioning, Disability, and Health (ICF). The purpose of these revised clinical practice guidelines is to review recent peer-reviewed literature and make recommendations related to neck pain. </jats:p><jats:p> J Orthop Sports Phys Ther. 2017;47(7):A1–A83. doi:10.2519/jospt.2017.0302 </jats:p>",
+      "DOI": "10.2519/jospt.2017.0302",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2017,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2017-07-01T06:46:12Z",
+        "timestamp": 1498891572000
+      },
+      "page": "A1-A83",
+      "update-policy": "http://dx.doi.org/10.2519/jospt.crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 720,
+      "title": [
+        "Neck Pain: Revision 2017"
+      ],
+      "prefix": "10.2519",
+      "volume": "47",
+      "author": [
+        {
+          "given": "Peter R.",
+          "family": "Blanpied",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Anita R.",
+          "family": "Gross",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "James M.",
+          "family": "Elliott",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Laurie Lee",
+          "family": "Devaney",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Derek",
+          "family": "Clewley",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "David M.",
+          "family": "Walton",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Cheryl",
+          "family": "Sparks",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Eric K.",
+          "family": "Robertson",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "1394",
+      "reference": [
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib1",
+          "DOI": "10.1080/165019702760390383"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib2",
+          "DOI": "10.1016/j.clineuro.2014.02.019"
+        },
+        {
+          "key": "bib4",
+          "first-page": "9",
+          "volume": "81",
+          "author": "American Physical Therapy Association",
+          "year": "2001",
+          "journal-title": "Phys Ther."
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib5",
+          "DOI": "10.2147/PPA.S36165"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib6",
+          "DOI": "10.1148/radiol.11102115"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib7",
+          "DOI": "10.1007/BF00433371"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib8",
+          "DOI": "10.2522/ptj.20100136"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib9",
+          "DOI": "10.3109/09638288.2011.607218"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib10",
+          "DOI": "10.2522/ptj.20120412"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib11",
+          "DOI": "10.1016/j.spinee.2010.10.023"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib12",
+          "DOI": "10.1016/S0304-3959(98)00058-X"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib13",
+          "DOI": "10.1016/S0304-3959(98)00268-1"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib14",
+          "DOI": "10.1007/s10926-012-9356-2"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib15",
+          "DOI": "10.1136/ard.2003.019349"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib16",
+          "DOI": "10.1097/00007632-199406000-00001"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib17",
+          "DOI": "10.1179/2042618611Y.0000000011"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib18",
+          "DOI": "10.1016/0304-3959(89)90133-4"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib19",
+          "DOI": "10.1186/1746-1340-18-3"
+        },
+        {
+          "key": "bib20",
+          "first-page": "CD001878",
+          "author": "Brønfort G",
+          "year": "2004",
+          "journal-title": "Cochrane Database Syst Rev."
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib21",
+          "DOI": "10.1179/1743288X14Y.0000000155"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib22",
+          "DOI": "10.1097/PHM.0000000000000266"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib23",
+          "DOI": "10.3138/ptc.2012-28"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib24",
+          "DOI": "10.1097/BRS.0b013e31816445d4"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib25",
+          "DOI": "10.1016/j.jmpt.2008.11.013"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib26",
+          "DOI": "10.1097/BRS.0b013e3181643eb8"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib27",
+          "DOI": "10.1016/j.injury.2015.08.038"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib28",
+          "DOI": "10.1007/s10194-012-0436-7"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib29",
+          "DOI": "10.2519/jospt.2008.0303"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib30",
+          "DOI": "10.1186/2045-709X-22-12"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib31",
+          "DOI": "10.2522/ptj.20060155"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib32",
+          "DOI": "10.1136/emj.2009.089508"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib33",
+          "DOI": "10.1155/2005/503704"
+        },
+        {
+          "volume-title": "Orthopedic Manual Therapy: An Evidence-Based Approach",
+          "year": "2007",
+          "author": "Cook CE",
+          "key": "bib34"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib35",
+          "DOI": "10.1016/j.jmpt.2011.08.008"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib36",
+          "DOI": "10.1179/174328810X12647087218712"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib37",
+          "DOI": "10.1097/00007632-200005010-00012"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib38",
+          "DOI": "10.1097/00007632-199808010-00015"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib39",
+          "DOI": "10.1016/j.pain.2004.09.004"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib40",
+          "DOI": "10.1016/S0304-3959(01)00334-7"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib41",
+          "DOI": "10.2519/jospt.2011.3670"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib42",
+          "DOI": "10.1097/BRS.0b013e318238842a"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib43",
+          "DOI": "10.2340/16501977-1091"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib44",
+          "DOI": "10.1155/2013/567175"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib45",
+          "DOI": "10.2519/jospt.2012.42.4.A1"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib46",
+          "DOI": "10.1016/j.math.2015.11.006"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib47",
+          "DOI": "10.1001/jama.296.10.1274"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib48",
+          "DOI": "10.2519/jospt.1998.27.3.219"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib49",
+          "DOI": "10.3138/physio.60.3.215"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib50",
+          "DOI": "10.1097/01.brs.0000240841.07050.34"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib51",
+          "DOI": "10.1016/j.math.2007.01.012"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib52",
+          "DOI": "10.1371/journal.pone.0021194"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib53",
+          "DOI": "10.1016/j.crad.2007.11.011"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib54",
+          "DOI": "10.1097/BRS.0000000000000891"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib55",
+          "DOI": "10.1097/BRS.0b013e3181bb0e55"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib56",
+          "DOI": "10.1097/BRS.0000000000000033"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib57",
+          "DOI": "10.1097/00007632-199108000-00018"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib58",
+          "DOI": "10.2522/ptj.20090382"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib59",
+          "DOI": "10.1111/j.1526-4610.2005.00253_1.x"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib60",
+          "DOI": "10.3109/09638281003611045"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib61",
+          "DOI": "10.1016/j.jpain.2015.08.010"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib62",
+          "DOI": "10.2522/ptj.20060192"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib63",
+          "DOI": "10.1097/BRS.0000000000001061"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib64",
+          "DOI": "10.1155/2012/953139"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib65",
+          "DOI": "10.2519/jospt.2015.5900"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib66",
+          "DOI": "10.1016/j.math.2012.02.014"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib67",
+          "DOI": "10.1002/acr.20270"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib68",
+          "DOI": "10.2174/1874325001307010440"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib69",
+          "DOI": "10.3174/ajnr.A3306"
+        },
+        {
+          "key": "bib70",
+          "first-page": "CD005106",
+          "author": "Gross A",
+          "year": "2012",
+          "journal-title": "Cochrane Database Syst Rev."
+        },
+        {
+          "key": "bib71",
+          "first-page": "CD004250",
+          "volume": "1",
+          "author": "Gross A",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst Rev."
+        },
+        {
+          "key": "bib72",
+          "first-page": "CD004249",
+          "author": "Gross A",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst Rev."
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib73",
+          "DOI": "10.1016/j.math.2010.04.002"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib74",
+          "DOI": "10.2174/1874325001307010396"
+        },
+        {
+          "key": "bib75",
+          "first-page": "1083",
+          "volume": "34",
+          "author": "Gross AR",
+          "year": "2007",
+          "journal-title": "J Rheumatol."
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib76",
+          "DOI": "10.2174/1874325001307010530"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib77",
+          "DOI": "10.1016/j.jclinepi.2010.04.026"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib78",
+          "DOI": "10.1016/j.jmpt.2008.11.007"
+        },
+        {
+          "key": "bib79",
+          "first-page": "CD005106",
+          "author": "Haines T",
+          "year": "2009",
+          "journal-title": "Cochrane Database Syst Rev."
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib80",
+          "DOI": "10.1097/JOM.0b013e3181d44f3b"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib81",
+          "DOI": "10.2519/jospt.2010.3100"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib82",
+          "DOI": "10.1016/j.jmpt.2008.03.012"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib83",
+          "DOI": "10.1177/0333102413485658"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib84",
+          "DOI": "10.1016/j.jpainsymman.2010.08.016"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib85",
+          "DOI": "10.1016/S0196-0644(98)70176-3"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib86",
+          "DOI": "10.1016/j.jmpt.2008.11.010"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib87",
+          "DOI": "10.3171/2009.2.SPINE08715"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib88",
+          "DOI": "10.1097/00007632-199206000-00006"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib89",
+          "DOI": "10.2519/jospt.2012.3727"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib90",
+          "DOI": "10.1097/00007632-200101150-00015"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib91",
+          "DOI": "10.1016/j.berh.2011.01.019"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib92",
+          "DOI": "10.3109/09638288.2012.750689"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib93",
+          "DOI": "10.1097/BRS.0b013e3181644b1d"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib94",
+          "DOI": "10.1016/j.apmr.2010.12.025"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib95",
+          "DOI": "10.2522/ptj.20130186"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib96",
+          "DOI": "10.1007/s00776-009-1378-z"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib97",
+          "DOI": "10.3109/03009748909102096"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib98",
+          "DOI": "10.1093/ptj/74.2.101"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib99",
+          "DOI": "10.1093/ptj/76.9.930"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib100",
+          "DOI": "10.1016/j.math.2011.01.004"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib101",
+          "DOI": "10.1089/neu.2005.22.1294"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib102",
+          "DOI": "10.1089/neu.2005.22.466"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib103",
+          "DOI": "10.1055/s-2008-1027973"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib104",
+          "DOI": "10.1007/s00296-013-2742-z"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib105",
+          "DOI": "10.1016/j.pain.2008.02.019"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib106",
+          "DOI": "10.1097/BRS.0b013e3182a7f2c3"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib107",
+          "DOI": "10.2519/jospt.2016.6553"
+        },
+        {
+          "key": "bib108",
+          "first-page": "CD004250",
+          "author": "Kay TM",
+          "year": "2005",
+          "journal-title": "Cochrane Database Syst Rev."
+        },
+        {
+          "key": "bib109",
+          "first-page": "CD004250",
+          "author": "Kay TM",
+          "year": "2012",
+          "journal-title": "Cochrane Database Syst Rev."
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib110",
+          "DOI": "10.2519/jospt.2009.2916"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib111",
+          "DOI": "10.2519/jospt.2013.0302"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib112",
+          "DOI": "10.1016/j.math.2016.10.066"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib113",
+          "DOI": "10.2519/jospt.2013.4668"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib114",
+          "DOI": "10.1097/BRS.0b013e3182a7eb06"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib115",
+          "DOI": "10.1016/j.apmr.2007.11.028"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib116",
+          "DOI": "10.1097/01.brs.0000245871.15696.1f"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib117",
+          "DOI": "10.1007/s00234-002-0799-6"
+        },
+        {
+          "key": "bib118",
+          "first-page": "CD004251",
+          "author": "Kroeling P",
+          "year": "2013",
+          "journal-title": "Cochrane Database Syst Rev."
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib119",
+          "DOI": "10.1016/S1836-9553(10)70037-0"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib120",
+          "DOI": "10.1016/j.jpain.2009.03.009"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib121",
+          "DOI": "10.1136/bmj.2.5373.1607"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib122",
+          "DOI": "10.1007/s00586-012-2490-x"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib123",
+          "DOI": "10.1053/eujp.2000.0190"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib124",
+          "DOI": "10.1016/j.apmr.2014.12.015"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib125",
+          "DOI": "10.1179/108331907X223038"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib126",
+          "DOI": "10.2174/1874325001610010746"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib127",
+          "DOI": "10.2174/1874325001307010506"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib128",
+          "DOI": "10.1093/oxfordjournals.aje.a116038"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib129",
+          "DOI": "10.1016/j.berh.2014.08.002"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib130",
+          "DOI": "10.1007/BF01076739"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib131",
+          "DOI": "10.1016/j.injury.2012.01.017"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib132",
+          "DOI": "10.1016/j.injury.2012.12.001"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib133",
+          "DOI": "10.1016/j.math.2012.07.004"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib134",
+          "DOI": "10.1186/1471-2474-15-382"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib135",
+          "DOI": "10.1001/jama.284.1.79"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib136",
+          "DOI": "10.1016/j.math.2010.05.012"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib137",
+          "DOI": "10.1136/jech.2009.090720"
+        },
+        {
+          "key": "bib138",
+          "first-page": "351",
+          "volume": "15",
+          "author": "Meeus M",
+          "year": "2012",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib139",
+          "DOI": "10.1503/cmaj.120675"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib140",
+          "DOI": "10.1016/j.math.2010.02.007"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib141",
+          "DOI": "10.1097/BRS.0000000000001052"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib142",
+          "DOI": "10.1093/ptj/82.4.383"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib143",
+          "DOI": "10.1016/S0140-6736(15)61340-X"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib144",
+          "DOI": "10.1016/S0140-6736(12)61689-4"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib145",
+          "DOI": "10.1097/BRS.0b013e31817bb0bd"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib146",
+          "DOI": "10.1097/BRS.0b013e3181ff1dde"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib147",
+          "DOI": "10.1097/BRS.0000000000000775"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib150",
+          "DOI": "10.1007/s00586-011-2050-9"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib151",
+          "DOI": "10.1016/j.math.2009.12.001"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib152",
+          "DOI": "10.1016/j.ijosm.2015.03.004"
+        },
+        {
+          "key": "bib153",
+          "first-page": "107",
+          "volume": "32",
+          "author": "Nygren A",
+          "year": "1995",
+          "journal-title": "Scand J Rehabil Med Suppl."
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib154",
+          "DOI": "10.1007/s00586-010-1429-3"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib155",
+          "DOI": "10.1016/j.math.2006.06.016"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib156",
+          "DOI": "10.1016/j.jbmt.2013.11.009"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib157",
+          "DOI": "10.1016/j.apmr.2013.11.015"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib158",
+          "DOI": "10.1136/oemed-2011-100459"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib159",
+          "DOI": "10.5271/sjweh.586"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib160",
+          "DOI": "10.1067/mem.2001.116499"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib161",
+          "DOI": "10.1016/j.jphys.2013.12.008"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib162",
+          "DOI": "10.1002/(SICI)1097-0274(200004)37:4<400::AID-AJIM10>3.0.CO;2-C"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib163",
+          "DOI": "10.1179/2042618612Y.0000000025"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib164",
+          "DOI": "10.1007/s00586-008-0859-7"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib165",
+          "DOI": "10.2106/00004623-200210000-00021"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib166",
+          "DOI": "10.2522/ptj.20140352"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib167",
+          "DOI": "10.1016/j.math.2004.03.006"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib168",
+          "DOI": "10.1001/jama.1992.03480060084035"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib169",
+          "DOI": "10.1097/BRS.0b013e3182a7f41d"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib170",
+          "DOI": "10.2519/jospt.2015.5642"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib171",
+          "DOI": "10.1016/j.pain.2013.07.001"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib172",
+          "DOI": "10.2519/jospt.2016.6918"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib173",
+          "DOI": "10.1016/j.jclinepi.2015.05.035"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib174",
+          "DOI": "10.1186/2046-4053-3-60"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib175",
+          "DOI": "10.1007/s00586-006-0225-6"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib176",
+          "DOI": "10.1016/j.math.2015.09.008"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib177",
+          "DOI": "10.1016/j.math.2013.11.005"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib178",
+          "DOI": "10.1016/j.math.2010.09.005"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib179",
+          "DOI": "10.2174/1874325001307010461"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib180",
+          "DOI": "10.1186/1471-2288-11-87"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib181",
+          "DOI": "10.1007/s11136-011-9965-9"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib182",
+          "DOI": "10.1186/2045-709X-21-34"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib183",
+          "DOI": "10.1007/s00701-009-0235-3"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib184",
+          "DOI": "10.1055/s-0033-1341605"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib186",
+          "DOI": "10.3233/WOR-2010-0996"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib187",
+          "DOI": "10.1186/1471-2288-7-10"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib188",
+          "DOI": "10.1080/15389580802593269"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib189",
+          "DOI": "10.1016/j.physio.2014.04.007"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib190",
+          "DOI": "10.1016/j.spinee.2014.02.014"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib191",
+          "DOI": "10.1097/00007632-199501000-00001"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib192",
+          "DOI": "10.2522/ptj.20150241"
+        },
+        {
+          "volume-title": "Guidelines for the Management of Acute Whiplash-Associated Disorders for Health Professionals",
+          "year": "2014",
+          "author": "State Insurance Regulatory Authority",
+          "key": "bib193"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib194",
+          "DOI": "10.1016/j.pain.2010.02.013"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib195",
+          "DOI": "10.1016/j.pain.2003.09.013"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib196",
+          "DOI": "10.1136/bmj.b4146"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib197",
+          "DOI": "10.1001/jama.286.15.1841"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib198",
+          "DOI": "10.1037/1040-3590.7.4.524"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib199",
+          "DOI": "10.1016/j.pain.2009.06.031"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib200",
+          "DOI": "10.1016/j.spinee.2014.06.019"
+        },
+        {
+          "key": "bib201",
+          "doi-asserted-by": "crossref",
+          "first-page": "17",
+          "DOI": "10.2340/1650197719942611720",
+          "volume": "26",
+          "author": "Takala EP",
+          "year": "1994",
+          "journal-title": "Scand J Rehabil Med."
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib202",
+          "DOI": "10.1016/j.jphys.2014.05.006"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib203",
+          "DOI": "10.1155/2010/640164"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib204",
+          "DOI": "10.1155/2010/108685"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib205",
+          "DOI": "10.1155/2010/487279"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib206",
+          "DOI": "10.1097/BRS.0b013e3182a7eae0"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib207",
+          "DOI": "10.1007/s00586-012-2297-9"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib208",
+          "DOI": "10.1097/AJP.0b013e31828441fb"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib209",
+          "DOI": "10.1007/s10926-014-9559-9"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib210",
+          "DOI": "10.1002/lary.20211"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib211",
+          "DOI": "10.1016/j.math.2005.08.009"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib212",
+          "DOI": "10.1016/j.jpain.2016.02.006"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib213",
+          "DOI": "10.1002/jmri.22446"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib214",
+          "DOI": "10.1016/S0304-3959(01)00463-8"
+        },
+        {
+          "key": "bib215",
+          "first-page": "1884",
+          "volume": "18",
+          "author": "van der Donk J",
+          "year": "1991",
+          "journal-title": "J Rheumatol."
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib216",
+          "DOI": "10.2522/ptj.20130619"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib217",
+          "DOI": "10.1016/j.math.2005.04.008"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib218",
+          "DOI": "10.1097/01.BRS.0000065484.95996.AF"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib219",
+          "DOI": "10.1007/s10926-014-9501-1"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib220",
+          "DOI": "10.1007/s00586-016-4376-9"
+        },
+        {
+          "key": "bib221",
+          "first-page": "CD008742",
+          "author": "Verhagen AP",
+          "year": "2013",
+          "journal-title": "Cochrane Database Syst Rev."
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib222",
+          "DOI": "10.1016/j.math.2011.02.009"
+        },
+        {
+          "key": "bib223",
+          "first-page": "CD003338",
+          "author": "Verhagen AP",
+          "year": "2007",
+          "journal-title": "Cochrane Database Syst Rev."
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib224",
+          "DOI": "10.1016/j.apmr.2008.05.003"
+        },
+        {
+          "key": "bib225",
+          "first-page": "409",
+          "volume": "14",
+          "author": "Vernon H",
+          "year": "1991",
+          "journal-title": "J Manipulative Physiol Ther."
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib226",
+          "DOI": "10.1016/j.jmpt.2005.06.011"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib227",
+          "DOI": "10.3174/ajnr.A2636"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib228",
+          "DOI": "10.1007/s00234-008-0482-7"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib229",
+          "DOI": "10.1016/j.jbspin.2012.10.006"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib230",
+          "DOI": "10.1016/S0140-6736(12)61729-2"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib231",
+          "DOI": "10.1179/106698109791352085"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib232",
+          "DOI": "10.1080/09638280802404128"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib233",
+          "DOI": "10.2174/1874325001307010494"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib234",
+          "DOI": "10.2522/ptj.20130369"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib235",
+          "DOI": "10.2519/jospt.2013.4507"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib236",
+          "DOI": "10.2519/jospt.2011.3666"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib237",
+          "DOI": "10.7326/0003-4819-148-10-200805200-00010"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib238",
+          "DOI": "10.1016/j.jmpt.2009.12.009"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib239",
+          "DOI": "10.1097/BRS.0b013e3182a7f2e7"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib240",
+          "DOI": "10.3109/09638288.2014.932448"
+        },
+        {
+          "volume-title": "ICD-10: International Statistical Classification of Diseases and Related Health Problems: Tenth Revision",
+          "year": "2005",
+          "author": "World Health Organization",
+          "key": "bib241"
+        },
+        {
+          "volume-title": "International Classification of Functioning, Disability and Health: ICF",
+          "year": "2009",
+          "author": "World Health Organization",
+          "key": "bib242"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib243",
+          "DOI": "10.1097/00007632-199901150-00020"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib244",
+          "DOI": "10.1179/2042618613Y.0000000043"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib245",
+          "DOI": "10.1016/j.spinee.2014.03.039"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib246",
+          "DOI": "10.1177/0269215515570382"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "bib247",
+          "DOI": "10.1179/2042618613Y.0000000047"
+        }
+      ],
+      "container-title": [
+        "Journal of Orthopaedic &amp; Sports Physical Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.jospt.org/doi/pdf/10.2519/jospt.2017.0302",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            26
+          ]
+        ],
+        "date-time": "2024-08-26T13:49:34Z",
+        "timestamp": 1724680174000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.jospt.org/doi/10.2519/jospt.2017.0302"
+        }
+      },
+      "subtitle": [
+        "Clinical Practice Guidelines Linked to the International Classification of Functioning, Disability and Health From the Orthopaedic Section of the American Physical Therapy Association"
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            7
+          ]
+        ]
+      },
+      "references-count": 243,
+      "journal-issue": {
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              7
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.2519/jospt.2017.0302"
+      ],
+      "URL": "https://doi.org/10.2519/jospt.2017.0302",
+      "relation": {},
+      "ISSN": [
+        "0190-6011",
+        "1938-1344"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0190-6011"
+        },
+        {
+          "type": "electronic",
+          "value": "1938-1344"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            7
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2017-06-30",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

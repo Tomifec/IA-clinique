@@ -1,0 +1,503 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1002_art_23563.md",
+  "id": "evidence_import_refs_2025_09_12_10_1002_art_23563",
+  "doi": "10.1002/art.23563",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:23.774160Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T12:14:50Z",
+        "timestamp": 1757679290811
+      },
+      "reference-count": 52,
+      "publisher": "Wiley",
+      "issue": "5",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2008,
+                4,
+                25
+              ]
+            ],
+            "date-time": "2008-04-25T00:00:00Z",
+            "timestamp": 1209081600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Arthritis &amp; Rheumatism"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            5,
+            15
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Objective</jats:title><jats:p>To develop and validate a tool that screens for back pain prognostic indicators relevant to initial decision making in primary care.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>The setting was UK primary care adults with nonspecific back pain. Constructs that were independent prognostic indicators for persistence were identified from secondary analysis of 2 existing cohorts and published literature. Receiver operating characteristic curve analysis identified single screening questions for relevant constructs. Psychometric properties of the tool, including concurrent and discriminant validity, internal consistency, and repeatability, were assessed within a new development sample (n = 131) and tool score cutoffs were established to enable allocation to 3 subgroups (low, medium, and high risk). Predictive and external validity were evaluated within an independent external sample (n = 500).</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>The tool included 9 items: referred leg pain, comorbid pain, disability (2 items), bothersomeness, catastrophizing, fear, anxiety, and depression. The latter 5 items were identified as a psychosocial subscale. The tool demonstrated good reliability and validity and was acceptable to patients and clinicians. Patients scoring 0–3 were classified as low risk, and those scoring 4 or 5 on a psychosocial subscale were classified as high risk. The remainder were classified as medium risk.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>We validated a brief screening tool, which is a promising instrument for identifying subgroups of patients to guide the provision of early secondary prevention in primary care. Further work will establish whether allocation to treatment subgroups using the tool, linked with targeting treatment appropriately, improves patient outcomes.</jats:p></jats:sec>",
+      "DOI": "10.1002/art.23563",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2008,
+            4,
+            25
+          ]
+        ],
+        "date-time": "2008-04-25T22:46:23Z",
+        "timestamp": 1209163583000
+      },
+      "page": "632-641",
+      "source": "Crossref",
+      "is-referenced-by-count": 857,
+      "title": [
+        "A primary care back pain screening tool: Identifying patient subgroups for initial treatment"
+      ],
+      "prefix": "10.1002",
+      "volume": "59",
+      "author": [
+        {
+          "given": "Jonathan C.",
+          "family": "Hill",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Kate M.",
+          "family": "Dunn",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Martyn",
+          "family": "Lewis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ricky",
+          "family": "Mullis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Chris J.",
+          "family": "Main",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nadine E.",
+          "family": "Foster",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Elaine M.",
+          "family": "Hay",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "311",
+      "published-online": {
+        "date-parts": [
+          [
+            2008,
+            4,
+            25
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_7_2_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000173900.46863.02"
+        },
+        {
+          "key": "e_1_2_7_3_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.316.7141.1356"
+        },
+        {
+          "key": "e_1_2_7_4_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJM200102013440508"
+        },
+        {
+          "key": "e_1_2_7_5_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0277-9536(03)00130-8"
+        },
+        {
+          "key": "e_1_2_7_6_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0277-9536(02)00479-3"
+        },
+        {
+          "key": "e_1_2_7_7_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-006-1071-2"
+        },
+        {
+          "key": "e_1_2_7_8_2",
+          "volume-title": "Clinical guidelines for the management of acute low back pain",
+          "author": "Royal College of General Practitioners",
+          "year": "1999"
+        },
+        {
+          "key": "e_1_2_7_9_2",
+          "first-page": "15",
+          "article-title": "Prediction of an unfavourable course of low back pain in general practice: comparison of four instruments",
+          "volume": "57",
+          "author": "Jellema P",
+          "year": "2007",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "key": "e_1_2_7_10_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.325.7363.534"
+        },
+        {
+          "key": "e_1_2_7_11_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000163883.65321.33"
+        },
+        {
+          "key": "e_1_2_7_12_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00002508-200501000-00005"
+        },
+        {
+          "key": "e_1_2_7_13_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00002508-200501000-00008"
+        },
+        {
+          "key": "e_1_2_7_14_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000224179.04964.aa"
+        },
+        {
+          "key": "e_1_2_7_15_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.332.7555.1430"
+        },
+        {
+          "key": "e_1_2_7_16_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00002508-200501000-00006"
+        },
+        {
+          "key": "e_1_2_7_17_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-141-12-200412210-00008"
+        },
+        {
+          "key": "e_1_2_7_18_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2005.03.033"
+        },
+        {
+          "key": "e_1_2_7_19_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1503/cmaj.1041159"
+        },
+        {
+          "key": "e_1_2_7_20_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2005.04.003"
+        },
+        {
+          "key": "e_1_2_7_21_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/oem.2005.024521"
+        },
+        {
+          "key": "e_1_2_7_22_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ejpain.2005.08.002"
+        },
+        {
+          "key": "e_1_2_7_23_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jpain.2006.06.007"
+        },
+        {
+          "key": "e_1_2_7_24_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000202807.72292.a8"
+        },
+        {
+          "key": "e_1_2_7_25_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000193898.14803.8a"
+        },
+        {
+          "key": "e_1_2_7_26_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(05)66696-2"
+        },
+        {
+          "key": "e_1_2_7_27_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-198303000-00004"
+        },
+        {
+          "key": "e_1_2_7_28_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/archpsyc.1987.01800180068011"
+        },
+        {
+          "key": "e_1_2_7_29_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.332.7549.1080"
+        },
+        {
+          "key": "e_1_2_7_30_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2006.03.012"
+        },
+        {
+          "key": "e_1_2_7_31_2",
+          "unstructured": "DunnKM.Epidemiology of low back pain in primary care: a cohort study of consulters. PhD Thesis. Keele: Keele University;2004."
+        },
+        {
+          "key": "e_1_2_7_32_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2005.12.012"
+        },
+        {
+          "key": "e_1_2_7_33_2",
+          "first-page": "35",
+          "article-title": "Kinisophobia: a new view of chronic pain behavior",
+          "volume": "3",
+          "author": "Kori SH",
+          "year": "1990",
+          "journal-title": "Pain Manag"
+        },
+        {
+          "key": "e_1_2_7_34_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/1040-3590.7.4.524"
+        },
+        {
+          "key": "e_1_2_7_35_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.MLR.0000093487.78664.3C"
+        },
+        {
+          "key": "e_1_2_7_36_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00002508-200303000-00004"
+        },
+        {
+          "key": "e_1_2_7_37_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2003.06.019"
+        },
+        {
+          "key": "e_1_2_7_38_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/0471722146"
+        },
+        {
+          "key": "e_1_2_7_39_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/oso/9780198528470.001.0001"
+        },
+        {
+          "key": "e_1_2_7_40_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1207/S15327752JPA8003_01"
+        },
+        {
+          "key": "e_1_2_7_41_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2474-7-5"
+        },
+        {
+          "key": "e_1_2_7_42_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-200406010-00002"
+        },
+        {
+          "key": "e_1_2_7_43_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.BRS.0000096677.84605.A2"
+        },
+        {
+          "key": "e_1_2_7_44_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2007.12.007"
+        },
+        {
+          "key": "e_1_2_7_45_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0304-3959(83)90125-2"
+        },
+        {
+          "key": "e_1_2_7_46_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1600-0447.1983.tb09716.x"
+        },
+        {
+          "key": "e_1_2_7_47_2",
+          "volume-title": "Statistical power analysis for the behavioral sciences",
+          "author": "Cohen J",
+          "year": "1998"
+        },
+        {
+          "key": "e_1_2_7_48_2",
+          "first-page": "1215",
+          "volume": "28",
+          "author": "Bouter LM",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "e_1_2_7_49_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-199809150-00016"
+        },
+        {
+          "key": "e_1_2_7_50_2",
+          "volume-title": "The prevalence of back pain in Great Britain",
+          "author": "Mason V",
+          "year": "1994"
+        },
+        {
+          "key": "e_1_2_7_51_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/s0304-3959(02)00372-x"
+        },
+        {
+          "key": "e_1_2_7_52_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2006.03.013"
+        },
+        {
+          "key": "e_1_2_7_53_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e31815e39f9"
+        }
+      ],
+      "container-title": [
+        "Arthritis Care &amp; Research"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fart.23563",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/art.23563",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            14
+          ]
+        ],
+        "date-time": "2023-11-14T22:29:57Z",
+        "timestamp": 1700000997000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://onlinelibrary.wiley.com/doi/10.1002/art.23563"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2008,
+            4,
+            25
+          ]
+        ]
+      },
+      "references-count": 52,
+      "journal-issue": {
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              5,
+              15
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1002/art.23563"
+      ],
+      "URL": "https://doi.org/10.1002/art.23563",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "0893-7524",
+        "1529-0123"
+      ],
+      "issn-type": [
+        {
+          "value": "0893-7524",
+          "type": "print"
+        },
+        {
+          "value": "1529-0123",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2008,
+            4,
+            25
+          ]
+        ]
+      }
+    }
+  }
+}

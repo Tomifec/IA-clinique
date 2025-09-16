@@ -1,0 +1,522 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1177_2192568220959037.md",
+  "id": "evidence_import_refs_2025_09_12_10_1177_2192568220959037",
+  "doi": "10.1177/2192568220959037",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:05.537453Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2025-09-08T06:27:59Z",
+        "timestamp": 1757312879293,
+        "version": "3.33.0"
+      },
+      "reference-count": 50,
+      "publisher": "SAGE Publications",
+      "issue": "1_suppl",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                4,
+                1
+              ]
+            ],
+            "date-time": "2021-04-01T00:00:00Z",
+            "timestamp": 1617235200000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.sagepub.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Global Spine Journal"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            4
+          ]
+        ]
+      },
+      "abstract": "<jats:sec><jats:title>Study Design:</jats:title><jats:p> Systematic review. </jats:p></jats:sec><jats:sec><jats:title>Objectives:</jats:title><jats:p> To review the existing literature of prediction models in degenerative spinal surgery. </jats:p></jats:sec><jats:sec><jats:title>Methods:</jats:title><jats:p> Review of PubMed/Medline and Embase databases was conducted to identify articles between January 1, 2000 and March 1, 2020 that reported prediction model performance for outcomes following elective degenerative spine surgery. </jats:p></jats:sec><jats:sec><jats:title>Results:</jats:title><jats:p> Thirty-one articles were included. Twenty studies were of thoracolumbar, 5 were of cervical, and 6 included all spine patients. Five studies were externally validated. Prediction models were developed using machine learning (42%) and logistic regression (42%) as well as other techniques. Web-based calculators were included in 45% of published articles. Various outcomes were investigated, including complications, infection, length of stay, discharge disposition, reoperation, readmission, disability score, back pain, leg pain, return to work, and opioid dependence. </jats:p></jats:sec><jats:sec><jats:title>Conclusions:</jats:title><jats:p> Significant heterogeneity exists in methods used to develop prediction models of postoperative outcomes after degenerative spine surgery. Most internally validate their scores, but a few have been externally validated. Areas under the curve for most models range from 0.6 to 0.9. Techniques for development are becoming increasingly sophisticated with different machine learning tools. With further external validation, these models can be deployed online for patient, physician, and administrative use, and have the potential to optimize outcomes and maximize value in spine surgery. </jats:p></jats:sec>",
+      "DOI": "10.1177/2192568220959037",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            23
+          ]
+        ],
+        "date-time": "2021-04-23T15:30:31Z",
+        "timestamp": 1619191831000
+      },
+      "page": "79S-88S",
+      "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 29,
+      "title": [
+        "Prediction Models in Degenerative Spine Surgery: A Systematic Review"
+      ],
+      "prefix": "10.1177",
+      "volume": "11",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-9403-9509",
+          "authenticated-orcid": false,
+          "given": "Daniel",
+          "family": "Lubelski",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Johns Hopkins University School of Medicine, Baltimore, MD, USA"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1755-3974",
+          "authenticated-orcid": false,
+          "given": "Andrew",
+          "family": "Hersh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Johns Hopkins University School of Medicine, Baltimore, MD, USA"
+            }
+          ]
+        },
+        {
+          "given": "Tej D.",
+          "family": "Azad",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Johns Hopkins University School of Medicine, Baltimore, MD, USA"
+            }
+          ]
+        },
+        {
+          "given": "Jeff",
+          "family": "Ehresman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Johns Hopkins University School of Medicine, Baltimore, MD, USA"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8012-860X",
+          "authenticated-orcid": false,
+          "given": "Zachary",
+          "family": "Pennington",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Johns Hopkins University School of Medicine, Baltimore, MD, USA"
+            }
+          ]
+        },
+        {
+          "given": "Kurt",
+          "family": "Lehner",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Johns Hopkins University School of Medicine, Baltimore, MD, USA"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7604-434X",
+          "authenticated-orcid": false,
+          "given": "Daniel M.",
+          "family": "Sciubba",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Johns Hopkins University School of Medicine, Baltimore, MD, USA"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            23
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "bibr1-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.wneu.2017.12.108"
+        },
+        {
+          "key": "bibr2-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/2192568217739610"
+        },
+        {
+          "key": "bibr3-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2014.01.037"
+        },
+        {
+          "key": "bibr4-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2018.05.008"
+        },
+        {
+          "key": "bibr5-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa1912658"
+        },
+        {
+          "key": "bibr6-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa1508788"
+        },
+        {
+          "key": "bibr7-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa1513721"
+        },
+        {
+          "key": "bibr8-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa0707136"
+        },
+        {
+          "key": "bibr9-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/neuros/nyx319"
+        },
+        {
+          "key": "bibr10-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2014.12.JNS142465"
+        },
+        {
+          "key": "bibr11-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2015.8.FOCUS15338"
+        },
+        {
+          "key": "bibr12-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2013.10.043"
+        },
+        {
+          "key": "bibr13-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0000000000002442"
+        },
+        {
+          "key": "bibr14-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/JBJS.15.00301"
+        },
+        {
+          "key": "bibr15-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2019.06.018"
+        },
+        {
+          "key": "bibr16-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2019.2.FOCUS18723"
+        },
+        {
+          "key": "bibr17-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/neuros/nyx343"
+        },
+        {
+          "key": "bibr18-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2019.3.SPINE181367"
+        },
+        {
+          "key": "bibr19-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2019.9.SPINE19860"
+        },
+        {
+          "key": "bibr20-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2020.02.022"
+        },
+        {
+          "journal-title": "Spine J",
+          "author": "Harada GK",
+          "key": "bibr21-2192568220959037"
+        },
+        {
+          "key": "bibr22-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2018.8.FOCUS18340"
+        },
+        {
+          "key": "bibr23-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-019-05936-z"
+        },
+        {
+          "key": "bibr24-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-019-05928-z"
+        },
+        {
+          "key": "bibr25-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/neuros/nyx436"
+        },
+        {
+          "key": "bibr26-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2016.11.SPINE16526"
+        },
+        {
+          "key": "bibr27-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-003-0583-2"
+        },
+        {
+          "key": "bibr28-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jamasurg.2018.0072"
+        },
+        {
+          "key": "bibr29-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11136-019-02223-8"
+        },
+        {
+          "key": "bibr30-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-020-06351-5"
+        },
+        {
+          "key": "bibr31-2192568220959037",
+          "first-page": "031502",
+          "volume": "7",
+          "author": "De Silva T",
+          "year": "2020",
+          "journal-title": "J Med Imaging (Bellingham)"
+        },
+        {
+          "key": "bibr32-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2016.8.SPINE16527"
+        },
+        {
+          "key": "bibr33-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2018.8.FOCUS18326"
+        },
+        {
+          "key": "bibr34-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2019.01.009"
+        },
+        {
+          "key": "bibr35-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2019.06.002"
+        },
+        {
+          "key": "bibr36-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2019.12.019"
+        },
+        {
+          "key": "bibr37-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.36076/ppj.2012/15/421"
+        },
+        {
+          "key": "bibr38-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2019.12.010"
+        },
+        {
+          "key": "bibr39-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0215133"
+        },
+        {
+          "key": "bibr40-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2019.6.SPINE19426"
+        },
+        {
+          "key": "bibr41-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-018-05877-z"
+        },
+        {
+          "key": "bibr42-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2016.12.SPINE16969"
+        },
+        {
+          "key": "bibr43-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.wneu.2019.02.049"
+        },
+        {
+          "key": "bibr44-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2019.12.SPINE191503"
+        },
+        {
+          "key": "bibr45-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2019.5.SPINE1987"
+        },
+        {
+          "key": "bibr46-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-200011150-00017"
+        },
+        {
+          "key": "bibr47-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-019-06189-6"
+        },
+        {
+          "key": "bibr48-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0000000000002509"
+        },
+        {
+          "key": "bibr49-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2017.10.FOCUS17563"
+        },
+        {
+          "key": "bibr50-2192568220959037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-018-5707-9"
+        }
+      ],
+      "container-title": [
+        "Global Spine Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/2192568220959037",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/2192568220959037",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/2192568220959037",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            27
+          ]
+        ],
+        "date-time": "2025-01-27T22:15:28Z",
+        "timestamp": 1738016128000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/2192568220959037"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            4
+          ]
+        ]
+      },
+      "references-count": 50,
+      "journal-issue": {
+        "issue": "1_suppl",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              4
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/2192568220959037"
+      ],
+      "URL": "https://doi.org/10.1177/2192568220959037",
+      "relation": {},
+      "ISSN": [
+        "2192-5682",
+        "2192-5690"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2192-5682"
+        },
+        {
+          "type": "electronic",
+          "value": "2192-5690"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            4
+          ]
+        ]
+      }
+    }
+  }
+}

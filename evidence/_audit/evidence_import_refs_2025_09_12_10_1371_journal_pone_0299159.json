@@ -1,0 +1,917 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1371_journal_pone_0299159.md",
+  "id": "evidence_import_refs_2025_09_12_10_1371_journal_pone_0299159",
+  "doi": "10.1371/journal.pone.0299159",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:21.561932Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            14
+          ]
+        ],
+        "date-time": "2025-05-14T04:21:40Z",
+        "timestamp": 1747196500815,
+        "version": "3.40.5"
+      },
+      "reference-count": 68,
+      "publisher": "Public Library of Science (PLoS)",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                3,
+                11
+              ]
+            ],
+            "date-time": "2024-03-11T00:00:00Z",
+            "timestamp": 1710115200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "National Institutes of Health, National Center for Advancing Translational Sciences, Clinical and Translational Science",
+          "award": [
+            "UM1TR004528"
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "www.plosone.org"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "PLoS ONE"
+      ],
+      "abstract": "<jats:sec id=\"sec001\">\n<jats:title>Background</jats:title>\n<jats:p>Cauda equina syndrome (CES) is a lumbosacral surgical emergency that has been associated with chiropractic spinal manipulation (CSM) in case reports. However, identifying if there is a potential causal effect is complicated by the heightened incidence of CES among those with low back pain (LBP). The study hypothesis was that there would be no increase in the risk of CES in adults with LBP following CSM compared to a propensity-matched cohort following physical therapy (PT) evaluation without spinal manipulation over a three-month follow-up period.</jats:p>\n</jats:sec>\n<jats:sec id=\"sec002\">\n<jats:title>Methods</jats:title>\n<jats:p>A query of a United States network (TriNetX, Inc.) was conducted, searching health records of more than 107 million patients attending academic health centers, yielding data ranging from 20 years prior to the search date (July 30, 2023). Patients aged 18 or older with LBP were included, excluding those with pre-existing CES, incontinence, or serious pathology that may cause CES. Patients were divided into two cohorts: (1) LBP patients receiving CSM or (2) LBP patients receiving PT evaluation without spinal manipulation. Propensity score matching controlled for confounding variables associated with CES.</jats:p>\n</jats:sec>\n<jats:sec id=\"sec003\">\n<jats:title>Results</jats:title>\n<jats:p>67,220 patients per cohort (mean age 51 years) remained after propensity matching. CES incidence was 0.07% (95% confidence intervals [CI]: 0.05–0.09%) in the CSM cohort compared to 0.11% (95% CI: 0.09–0.14%) in the PT evaluation cohort, yielding a risk ratio and 95% CI of 0.60 (0.42–0.86; <jats:italic>p</jats:italic> = .0052). Both cohorts showed a higher rate of CES during the first two weeks of follow-up.</jats:p>\n</jats:sec>\n<jats:sec id=\"sec004\">\n<jats:title>Conclusions</jats:title>\n<jats:p>These findings suggest that CSM is not a risk factor for CES. Considering prior epidemiologic evidence, patients with LBP may have an elevated risk of CES independent of treatment. These findings warrant further corroboration. In the meantime, clinicians should be vigilant to identify LBP patients with CES and promptly refer them for surgical evaluation.</jats:p>\n</jats:sec>",
+      "DOI": "10.1371/journal.pone.0299159",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            11
+          ]
+        ],
+        "date-time": "2024-03-11T17:31:30Z",
+        "timestamp": 1710178290000
+      },
+      "page": "e0299159",
+      "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Association between chiropractic spinal manipulation and cauda equina syndrome in adults with low back pain: Retrospective cohort study of US academic health centers"
+      ],
+      "prefix": "10.1371",
+      "volume": "19",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4714-1076",
+          "authenticated-orcid": true,
+          "given": "Robert J.",
+          "family": "Trager",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Anthony N.",
+          "family": "Baumann",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jaime A.",
+          "family": "Perez",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jeffery A.",
+          "family": "Dusek",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Romeo-Paolo T.",
+          "family": "Perfecto",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4941-3645",
+          "authenticated-orcid": true,
+          "given": "Christine M.",
+          "family": "Goertz",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "340",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            11
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "pone.0299159.ref001",
+          "doi-asserted-by": "crossref",
+          "first-page": "1483",
+          "DOI": "10.1016/j.amjmed.2021.07.021",
+          "article-title": "Evaluation and Management of Cauda Equina Syndrome",
+          "volume": "134",
+          "author": "EO Kuris",
+          "year": "2021",
+          "journal-title": "Am J Med"
+        },
+        {
+          "key": "pone.0299159.ref002",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1007/s00264-021-05273-1",
+          "article-title": "Cauda equina syndrome—a practical guide to definition and classification",
+          "volume": "46",
+          "author": "C Lavy",
+          "year": "2022",
+          "journal-title": "Int Orthop"
+        },
+        {
+          "key": "pone.0299159.ref003",
+          "doi-asserted-by": "crossref",
+          "first-page": "894",
+          "DOI": "10.1007/s00586-017-4943-8",
+          "article-title": "Cauda Equina Syndrome: presentation, outcome, and predictors with focus on micturition, defecation, and sexual dysfunction",
+          "volume": "26",
+          "author": "NS Korse",
+          "year": "2017",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "pone.0299159.ref004",
+          "doi-asserted-by": "crossref",
+          "first-page": "1964",
+          "DOI": "10.1016/j.apmr.2009.03.021",
+          "article-title": "Cauda equina syndrome: a literature review of its definition and clinical presentation",
+          "volume": "90",
+          "author": "S Fraser",
+          "year": "2009",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "pone.0299159.ref005",
+          "doi-asserted-by": "crossref",
+          "first-page": "e414",
+          "DOI": "10.3928/01477447-20120222-15",
+          "article-title": "Review of medicolegal cases for cauda equina syndrome: what factors lead to an adverse outcome for the provider?",
+          "volume": "35",
+          "author": "EW Daniels",
+          "year": "2012",
+          "journal-title": "Orthopedics"
+        },
+        {
+          "key": "pone.0299159.ref006",
+          "first-page": "1",
+          "article-title": "What is the incidence of cauda equina syndrome? A systematic review",
+          "author": "I Hoeritzauer",
+          "year": "2020",
+          "journal-title": "J Neurosurg Spine"
+        },
+        {
+          "key": "pone.0299159.ref007",
+          "doi-asserted-by": "crossref",
+          "first-page": "159",
+          "DOI": "10.1016/j.jflm.2013.12.026",
+          "article-title": "Lumbar disc herniation and cauda equina syndrome following spinal manipulative therapy: A review of six court decisions in Canada",
+          "volume": "22",
+          "author": "P Boucher",
+          "year": "2014",
+          "journal-title": "J Forensic Leg Med"
+        },
+        {
+          "key": "pone.0299159.ref008",
+          "doi-asserted-by": "crossref",
+          "first-page": "102",
+          "DOI": "10.1080/1355297X.2004.11736237",
+          "article-title": "Cauda Equina Syndrome: Diagnosis, Delay and Litigation Risk",
+          "volume": "26",
+          "author": "DE Markham",
+          "year": "2004",
+          "journal-title": "J Orthop Med"
+        },
+        {
+          "key": "pone.0299159.ref009",
+          "doi-asserted-by": "crossref",
+          "first-page": "e78",
+          "DOI": "10.1016/j.physio.2017.11.043",
+          "article-title": "Are self-employed musculoskeletal physiotherapists mis-diagnosing Cauda Equina syndrome? A retrospective study of clinical negligence claims in the UK",
+          "volume": "103",
+          "author": "N. Beswetherick",
+          "year": "2017",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "pone.0299159.ref010",
+          "doi-asserted-by": "crossref",
+          "first-page": "690",
+          "DOI": "10.1007/s00586-010-1668-3",
+          "article-title": "Cauda equina syndrome: a review of the current clinical and medico-legal position",
+          "volume": "20",
+          "author": "A Gardner",
+          "year": "2011",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "pone.0299159.ref011",
+          "doi-asserted-by": "crossref",
+          "first-page": "1469",
+          "DOI": "10.1097/00007632-199212000-00005",
+          "article-title": "Cauda Equina Syndrome in Patients Undergoing Manipulation of the Lumbar Spine",
+          "volume": "17",
+          "author": "S Haldeman",
+          "year": "1992",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "pone.0299159.ref012",
+          "doi-asserted-by": "crossref",
+          "first-page": "128",
+          "DOI": "10.1007/s00586-011-1745-2",
+          "article-title": "Cauda equina syndrome and spine manipulation: case report and review of the literature",
+          "volume": "20",
+          "author": "FC Tamburrelli",
+          "year": "2011",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "pone.0299159.ref013",
+          "doi-asserted-by": "crossref",
+          "first-page": "1526",
+          "DOI": "10.1007/s00586-017-5325-y",
+          "article-title": "Chiropractic care and risk for acute lumbar disc herniation: a population-based self-controlled case series study",
+          "volume": "27",
+          "author": "CA Hincapié",
+          "year": "2018",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "pone.0299159.ref014",
+          "doi-asserted-by": "crossref",
+          "first-page": "197",
+          "DOI": "10.1016/j.jmpt.2003.12.023",
+          "article-title": "Safety of spinal manipulation in the treatment of lumbar disk herniations: a systematic review and risk assessment",
+          "volume": "27",
+          "author": "D. Oliphant",
+          "year": "2004",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "pone.0299159.ref015",
+          "first-page": "1098",
+          "article-title": "Cauda equina syndrome: evaluation of the clinical outcome",
+          "volume": "18",
+          "author": "F Tamburrelli",
+          "year": "2014",
+          "journal-title": "Eur Rev Med Pharmacol Sci"
+        },
+        {
+          "key": "pone.0299159.ref016",
+          "doi-asserted-by": "crossref",
+          "first-page": "1254",
+          "DOI": "10.1038/s41598-023-28520-4",
+          "article-title": "A retrospective analysis of the incidence of severe adverse events among recipients of chiropractic spinal manipulative therapy",
+          "volume": "13",
+          "author": "EC-P Chu",
+          "year": "2023",
+          "journal-title": "Sci Rep"
+        },
+        {
+          "key": "pone.0299159.ref017",
+          "doi-asserted-by": "crossref",
+          "first-page": "1810",
+          "DOI": "10.1097/BRS.0000000000002218",
+          "article-title": "The Prevalence, Patterns, and Predictors of Chiropractic Use Among US Adults: Results From the 2012 National Health Interview Survey",
+          "volume": "42",
+          "author": "J Adams",
+          "year": "2017",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "pone.0299159.ref018",
+          "doi-asserted-by": "crossref",
+          "first-page": "694",
+          "DOI": "10.1186/s12913-022-08092-1",
+          "article-title": "Where to start? A two stage residual inclusion approach to estimating influence of the initial provider on health care utilization and costs for low back pain in the US",
+          "volume": "22",
+          "author": "KJ Harwood",
+          "year": "2022",
+          "journal-title": "BMC Health Serv Res"
+        },
+        {
+          "key": "pone.0299159.ref019",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1186/s12998-017-0165-8",
+          "article-title": "The chiropractic profession: a scoping review of utilization rates, reasons for seeking care, patient profiles, and care provided",
+          "volume": "25",
+          "author": "PJH Beliveau",
+          "year": "2017",
+          "journal-title": "Chiropr Man Ther"
+        },
+        {
+          "key": "pone.0299159.ref020",
+          "doi-asserted-by": "crossref",
+          "first-page": "e068262",
+          "DOI": "10.1136/bmjopen-2022-068262",
+          "article-title": "Association between chiropractic spinal manipulation and lumbar discectomy in adults with lumbar disc herniation and radiculopathy: retrospective cohort study using United States’ data",
+          "volume": "12",
+          "author": "RJ Trager",
+          "year": "2022",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "pone.0299159.ref021",
+          "doi-asserted-by": "crossref",
+          "first-page": "2394",
+          "DOI": "10.3174/ajnr.A4498",
+          "article-title": "MRI findings of disc degeneration are more prevalent in adults with low back pain than in asymptomatic controls: a systematic review and meta-analysis",
+          "volume": "36",
+          "author": "W Brinjikji",
+          "year": "2015",
+          "journal-title": "Am J Neuroradiol"
+        },
+        {
+          "key": "pone.0299159.ref022",
+          "doi-asserted-by": "crossref",
+          "first-page": "1489",
+          "DOI": "10.11124/JBIES-20-00129",
+          "article-title": "Serious adverse events following lumbar spine mobilization or manipulation and potential associated factors: a systematic review protocol",
+          "volume": "19",
+          "author": "M Funabashi",
+          "year": "2021",
+          "journal-title": "JBI Evid Synth"
+        },
+        {
+          "key": "pone.0299159.ref023",
+          "doi-asserted-by": "crossref",
+          "first-page": "37",
+          "DOI": "10.1186/s12998-017-0168-5",
+          "article-title": "What are the risks of manual treatment of the spine? A scoping review for clinicians",
+          "volume": "25",
+          "author": "G Swait",
+          "year": "2017",
+          "journal-title": "Chiropr Man Ther"
+        },
+        {
+          "key": "pone.0299159.ref024",
+          "first-page": "e938042",
+          "article-title": "Prevalence of Serious Pathology Among Adults with Low Back Pain Presenting for Chiropractic Care: A Retrospective Chart Review of Integrated Clinics in Hong Kong",
+          "volume": "28",
+          "author": "E Chu",
+          "year": "2022",
+          "journal-title": "Med Sci Monit Int Med J Exp Clin Res"
+        },
+        {
+          "key": "pone.0299159.ref025",
+          "doi-asserted-by": "crossref",
+          "first-page": "350",
+          "DOI": "10.1067/mmt.2001.115261",
+          "article-title": "Rapid progression of acute sciatica to cauda equina syndrome",
+          "volume": "24",
+          "author": "JW Busse",
+          "year": "2001",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "pone.0299159.ref026",
+          "first-page": "203",
+          "article-title": "Slow onset cauda equina syndrome: a case report",
+          "volume": "37",
+          "author": "E. Crowther",
+          "year": "1993",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "key": "pone.0299159.ref027",
+          "doi-asserted-by": "crossref",
+          "first-page": "459",
+          "DOI": "10.1016/j.jmpt.2007.04.012",
+          "article-title": "A Case Report of an Uncommon Cause of Cauda Equina Symptoms",
+          "volume": "30",
+          "author": "A Kier",
+          "year": "2007",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "pone.0299159.ref028",
+          "doi-asserted-by": "crossref",
+          "first-page": "17",
+          "DOI": "10.1186/s12998-021-00374-5",
+          "article-title": "Chiropractic case reports: a review and bibliometric analysis",
+          "volume": "29",
+          "author": "RJ Trager",
+          "year": "2021",
+          "journal-title": "Chiropr Man Ther"
+        },
+        {
+          "key": "pone.0299159.ref029",
+          "doi-asserted-by": "crossref",
+          "first-page": "96",
+          "DOI": "10.1016/j.physio.2021.03.004",
+          "article-title": "The prevalence of serious pathology in musculoskeletal physiotherapy patients–a nationwide register-based cohort study",
+          "volume": "112",
+          "author": "CR Budtz",
+          "year": "2021",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "pone.0299159.ref030",
+          "article-title": "First Provider Seen for an Acute Episode of Low Back Pain Influences Subsequent Health Care Utilization",
+          "author": "CG Bise",
+          "year": "2023",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "pone.0299159.ref031",
+          "doi-asserted-by": "crossref",
+          "first-page": "1694",
+          "DOI": "10.1007/s00125-020-05217-1",
+          "article-title": "Real-world evidence: the devil is in the detail",
+          "volume": "63",
+          "author": "M Gokhale",
+          "year": "2020",
+          "journal-title": "Diabetologia"
+        },
+        {
+          "journal-title": "Association Between Chiropractic Spinal Manipulation and Cauda Equina Syndrome in Adults with Low Back Pain: Retrospective Cohort Study of US Academic Health Centers",
+          "year": "2023",
+          "author": "RJ Trager",
+          "key": "pone.0299159.ref032"
+        },
+        {
+          "key": "pone.0299159.ref033",
+          "doi-asserted-by": "crossref",
+          "first-page": "573",
+          "DOI": "10.7326/0003-4819-147-8-200710160-00010",
+          "article-title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies",
+          "volume": "147",
+          "author": "E Von Elm",
+          "year": "2007",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "pone.0299159.ref034",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1200/CCI.17.00067",
+          "article-title": "Using a federated network of real-world data to optimize clinical trials operations",
+          "volume": "2",
+          "author": "U Topaloglu",
+          "year": "2018",
+          "journal-title": "JCO Clin Cancer Inform"
+        },
+        {
+          "key": "pone.0299159.ref035",
+          "doi-asserted-by": "crossref",
+          "first-page": "31",
+          "DOI": "10.7899/JCE-19-24",
+          "article-title": "Current state and future directions of the National Board of Chiropractic Examiners",
+          "volume": "34",
+          "author": "NE Ouzts",
+          "year": "2020",
+          "journal-title": "J Chiropr Educ"
+        },
+        {
+          "key": "pone.0299159.ref036",
+          "doi-asserted-by": "crossref",
+          "first-page": "363",
+          "DOI": "10.1016/j.jmpt.2014.05.003",
+          "article-title": "The Chiropractic Scope of Practice in the United States: A Cross-Sectional Survey",
+          "volume": "37",
+          "author": "M. Chang",
+          "year": "2014",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "pone.0299159.ref037",
+          "doi-asserted-by": "crossref",
+          "first-page": "152",
+          "DOI": "10.7899/JCE-13-17",
+          "article-title": "A survey of interprofessional education in chiropractic continuing education in the United States",
+          "volume": "28",
+          "author": "EM Bednarz",
+          "year": "2014",
+          "journal-title": "J Chiropr Educ"
+        },
+        {
+          "key": "pone.0299159.ref038",
+          "article-title": "Short-Term Alternatives for Therapy Services (STATS) task order: CY 2008 outpatient therapy utilization report",
+          "author": "DE Ciolek",
+          "year": "2010",
+          "journal-title": "Baltimore: Centers for Medicare & Medicaid Services"
+        },
+        {
+          "volume-title": "National Board of Chiropractic Examiners: Practice Analysis of Chiropractic 2020",
+          "year": "2020",
+          "author": "I Himelfarb",
+          "key": "pone.0299159.ref039"
+        },
+        {
+          "key": "pone.0299159.ref040",
+          "doi-asserted-by": "crossref",
+          "first-page": "149",
+          "DOI": "10.1016/j.jmpt.2017.10.003",
+          "article-title": "Integration of Doctors of Chiropractic Into Private Sector Health Care Facilities in the United States: A Descriptive Survey",
+          "volume": "41",
+          "author": "SA Salsbury",
+          "year": "2018",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "pone.0299159.ref041",
+          "first-page": "S158",
+          "article-title": "Validation of Semantic Analyses of Unstructured Medical Data for Research Purposes",
+          "volume": "82",
+          "author": "RM Pokora",
+          "year": "2020",
+          "journal-title": "Gesundheitswesen Bundesverb Arzte Offentlichen Gesundheitsdienstes Ger"
+        },
+        {
+          "key": "pone.0299159.ref042",
+          "doi-asserted-by": "crossref",
+          "first-page": "1726",
+          "DOI": "10.3390/diagnostics12071726",
+          "article-title": "Natural Language Processing in Diagnostic Texts from Nephropathology",
+          "volume": "12",
+          "author": "M Legnar",
+          "year": "2022",
+          "journal-title": "Diagnostics"
+        },
+        {
+          "key": "pone.0299159.ref043",
+          "doi-asserted-by": "crossref",
+          "first-page": "100035",
+          "DOI": "10.1016/j.xnsj.2020.100035",
+          "article-title": "Spine coding transition from ICD-9 to ICD-10: Not taking advantage of the specificity of a more granular system",
+          "volume": "4",
+          "author": "MJ Sabatino",
+          "year": "2020",
+          "journal-title": "North Am Spine Soc J NASSJ"
+        },
+        {
+          "key": "pone.0299159.ref044",
+          "doi-asserted-by": "crossref",
+          "first-page": "2597",
+          "DOI": "10.1093/pm/pnab161",
+          "article-title": "ICD-10 Coding of Musculoskeletal Conditions in the Veterans Health Administration",
+          "volume": "22",
+          "author": "BC Coleman",
+          "year": "2021",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "pone.0299159.ref045",
+          "doi-asserted-by": "crossref",
+          "first-page": "677",
+          "DOI": "10.1016/j.jmpt.2013.05.009",
+          "article-title": "Serious adverse events and spinal manipulative therapy of the low back region: a systematic review of cases",
+          "volume": "38",
+          "author": "JJ Hebert",
+          "year": "2015",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "pone.0299159.ref046",
+          "doi-asserted-by": "crossref",
+          "first-page": "1551",
+          "DOI": "10.1302/0301-620X.94B11.29652",
+          "article-title": "Is cauda equina syndrome linked with obesity?",
+          "volume": "94",
+          "author": "M Venkatesan",
+          "year": "2012",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "key": "pone.0299159.ref047",
+          "doi-asserted-by": "crossref",
+          "first-page": "407",
+          "DOI": "10.1016/j.spinee.2017.07.177",
+          "article-title": "Obesity and spinal epidural lipomatosis in cauda equina syndrome",
+          "volume": "18",
+          "author": "D Cushnie",
+          "year": "2018",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "pone.0299159.ref048",
+          "doi-asserted-by": "crossref",
+          "first-page": "438",
+          "DOI": "10.1177/1971400915598074",
+          "article-title": "The accuracy of clinical symptoms in detecting cauda equina syndrome in patients undergoing acute MRI of the spine",
+          "volume": "28",
+          "author": "A Ahad",
+          "year": "2015",
+          "journal-title": "Neuroradiol J"
+        },
+        {
+          "key": "pone.0299159.ref049",
+          "doi-asserted-by": "crossref",
+          "first-page": "947",
+          "DOI": "10.1016/j.clineuro.2012.02.012",
+          "article-title": "Cauda equina syndrome: An analysis of incidence rates and risk factors among a closed North American military population",
+          "volume": "114",
+          "author": "AJ Schoenfeld",
+          "year": "2012",
+          "journal-title": "Clin Neurol Neurosurg"
+        },
+        {
+          "key": "pone.0299159.ref050",
+          "first-page": "96",
+          "article-title": "Conus Medullaris Syndrome and Cauda Equina Syndrome after Lumbar Epidural Steroid Injection: A Systematic Review of Literature (4325)",
+          "author": "A Vanood",
+          "year": "2021",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "pone.0299159.ref051",
+          "doi-asserted-by": "crossref",
+          "first-page": "e600",
+          "DOI": "10.1016/j.wneu.2020.05.260",
+          "article-title": "Are There Any Risk Factors Associated with the Presence of Cauda Equina Syndrome in Symptomatic Lumbar Disk Herniation?",
+          "volume": "141",
+          "author": "R Kaiser",
+          "year": "2020",
+          "journal-title": "World Neurosurg"
+        },
+        {
+          "key": "pone.0299159.ref052",
+          "doi-asserted-by": "crossref",
+          "first-page": "102049",
+          "DOI": "10.1016/j.msksp.2019.102049",
+          "article-title": "SHADES of grey–The challenge of ‘grumbling’ cauda equina symptoms in older adults with lumbar spinal stenosis",
+          "volume": "45",
+          "author": "C Comer",
+          "year": "2020",
+          "journal-title": "Musculoskelet Sci Pract"
+        },
+        {
+          "key": "pone.0299159.ref053",
+          "doi-asserted-by": "crossref",
+          "first-page": "293",
+          "DOI": "10.1097/00007632-200102010-00015",
+          "article-title": "Cauda Equina Syndrome as a Postoperative Complication in Five Patients Operated for Lumbar Disc Herniation",
+          "volume": "26",
+          "author": "T Henriques",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "pone.0299159.ref054",
+          "doi-asserted-by": "crossref",
+          "first-page": "348",
+          "DOI": "10.1097/00007632-200002010-00015",
+          "article-title": "Medical realities of cauda equina syndrome secondary to lumbar disc herniation",
+          "volume": "25",
+          "author": "S. Shapiro",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "pone.0299159.ref055",
+          "first-page": "159",
+          "article-title": "Barros Filho TEP de. Epidemiological study of cauda equina syndrome",
+          "volume": "21",
+          "author": "FAF Fuso",
+          "year": "2013",
+          "journal-title": "Acta Ortop Bras"
+        },
+        {
+          "key": "pone.0299159.ref056",
+          "doi-asserted-by": "crossref",
+          "first-page": "460",
+          "DOI": "10.1159/000527727",
+          "article-title": "Demographics of Cauda Equina Syndrome: A Population-Based Incidence Study",
+          "volume": "56",
+          "author": "J Woodfield",
+          "year": "2022",
+          "journal-title": "Neuroepidemiology"
+        },
+        {
+          "key": "pone.0299159.ref057",
+          "doi-asserted-by": "crossref",
+          "first-page": "487",
+          "DOI": "10.12968/ijtr.2013.20.10.487",
+          "article-title": "Are we missing any patients with serious spinal pathology?",
+          "volume": "20",
+          "author": "E. Keillar",
+          "year": "2013",
+          "journal-title": "Int J Ther Rehabil"
+        },
+        {
+          "key": "pone.0299159.ref058",
+          "doi-asserted-by": "crossref",
+          "first-page": "106123",
+          "DOI": "10.1016/j.cct.2020.106123",
+          "article-title": "Practical considerations of utilizing propensity score methods in clinical development using real-world and historical data",
+          "volume": "97",
+          "author": "Q Li",
+          "year": "2020",
+          "journal-title": "Contemp Clin Trials"
+        },
+        {
+          "key": "pone.0299159.ref059",
+          "unstructured": "R Core Team. R: A Language and Environment for Statistical Computing [Internet]. Vienna, Austria: R Foundation for Statistical Computing; 2022. Available from: https://www.R-project.org/"
+        },
+        {
+          "key": "pone.0299159.ref060",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wickham H. ggplot2: Elegant Graphics for Data Analysis [Internet]. Springer-Verlag New York; 2016. Available from: https://ggplot2.tidyverse.org",
+          "DOI": "10.1007/978-3-319-24277-4_9"
+        },
+        {
+          "key": "pone.0299159.ref061",
+          "first-page": "e37216",
+          "article-title": "Patients With a History of Spine Surgery Receiving Chiropractic Spinal Manipulation in US Academic Health Centers: A Cross-Sectional Cohort Study",
+          "volume": "15",
+          "author": "RJ Trager",
+          "year": "2023",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "pone.0299159.ref062",
+          "doi-asserted-by": "crossref",
+          "first-page": "e073258",
+          "DOI": "10.1136/bmjopen-2023-073258",
+          "article-title": "Association between chiropractic spinal manipulation and gabapentin prescription in adults with radicular low back pain: retrospective cohort study using US data",
+          "volume": "13",
+          "author": "RJ Trager",
+          "year": "2023",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "pone.0299159.ref063",
+          "doi-asserted-by": "crossref",
+          "first-page": "660",
+          "DOI": "10.1016/j.spinee.2005.08.006",
+          "article-title": "Nonvascular complications following spinal manipulation",
+          "volume": "5",
+          "author": "JS Oppenheim",
+          "year": "2005",
+          "journal-title": "Spine J Off J North Am Spine Soc"
+        },
+        {
+          "key": "pone.0299159.ref064",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1186/1756-0500-7-264",
+          "article-title": "The clinical case report: a review of its merits and limitations",
+          "volume": "7",
+          "author": "T Nissen",
+          "year": "2014",
+          "journal-title": "BMC Res Notes"
+        },
+        {
+          "key": "pone.0299159.ref065",
+          "first-page": "84",
+          "volume-title": "Chiropr Tech Princ Proced",
+          "author": "TF Bergmann",
+          "year": "2010",
+          "edition": "3"
+        },
+        {
+          "key": "pone.0299159.ref066",
+          "first-page": "203",
+          "article-title": "Misuse of the literature by medical authors in discussing spinal manipulative therapy injury",
+          "volume": "18",
+          "author": "A. Terrett",
+          "year": "1995",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "pone.0299159.ref067",
+          "doi-asserted-by": "crossref",
+          "first-page": "16",
+          "DOI": "10.1186/1746-1340-14-16",
+          "article-title": "Inappropriate use of the title’chiropractor’and term’chiropractic manipulation’in the peer-reviewed biomedical literature",
+          "volume": "14",
+          "author": "AB Wenban",
+          "year": "2006",
+          "journal-title": "Chiropr Osteopat"
+        },
+        {
+          "key": "pone.0299159.ref068",
+          "doi-asserted-by": "crossref",
+          "first-page": "e23",
+          "DOI": "10.1097/PHM.0000000000000809",
+          "article-title": "Cauda Equina Syndrome Due to Vigorous Back Massage with Spinal Manipulation in a Patient with Pre-Existing Lumbar Disc Herniation: A Case Report and Literature Review",
+          "volume": "97",
+          "author": "S-D Yang",
+          "year": "2018",
+          "journal-title": "Am J Phys Med Rehabil"
+        }
+      ],
+      "container-title": [
+        "PLOS ONE"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://dx.plos.org/10.1371/journal.pone.0299159",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            11
+          ]
+        ],
+        "date-time": "2024-03-11T17:32:15Z",
+        "timestamp": 1710178335000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://dx.plos.org/10.1371/journal.pone.0299159"
+        }
+      },
+      "subtitle": [],
+      "editor": [
+        {
+          "given": "Shabnam",
+          "family": "ShahAli",
+          "sequence": "first",
+          "affiliation": []
+        }
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            11
+          ]
+        ]
+      },
+      "references-count": 68,
+      "journal-issue": {
+        "issue": "3",
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              11
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1371/journal.pone.0299159",
+      "relation": {},
+      "ISSN": [
+        "1932-6203"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1932-6203"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            11
+          ]
+        ]
+      }
+    }
+  }
+}

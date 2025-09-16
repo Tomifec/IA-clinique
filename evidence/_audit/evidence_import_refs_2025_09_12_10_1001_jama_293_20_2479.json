@@ -1,0 +1,155 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1001_jama_293_20_2479.md",
+  "id": "evidence_import_refs_2025_09_12_10_1001_jama_293_20_2479",
+  "doi": "10.1001/jama.293.20.2479",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:10.853174Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T12:31:03Z",
+        "timestamp": 1757680263494
+      },
+      "reference-count": 0,
+      "publisher": "American Medical Association (AMA)",
+      "issue": "20",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "JAMA"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2005,
+            5,
+            25
+          ]
+        ]
+      },
+      "DOI": "10.1001/jama.293.20.2479",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2005,
+            5,
+            24
+          ]
+        ],
+        "date-time": "2005-05-24T16:18:09Z",
+        "timestamp": 1116951489000
+      },
+      "page": "2479",
+      "source": "Crossref",
+      "is-referenced-by-count": 1322,
+      "title": [
+        "Physical Activity and Survival After Breast Cancer Diagnosis"
+      ],
+      "prefix": "10.1001",
+      "volume": "293",
+      "author": [
+        {
+          "given": "Michelle D.",
+          "family": "Holmes",
+          "sequence": "first",
+          "affiliation": []
+        }
+      ],
+      "member": "10",
+      "container-title": [
+        "JAMA"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://jamanetwork.com/journals/jama/fullarticle/200955",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2016,
+            12,
+            15
+          ]
+        ],
+        "date-time": "2016-12-15T13:38:51Z",
+        "timestamp": 1481809131000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.293.20.2479"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2005,
+            5,
+            25
+          ]
+        ]
+      },
+      "references-count": 0,
+      "journal-issue": {
+        "issue": "20",
+        "published-print": {
+          "date-parts": [
+            [
+              2005,
+              5,
+              25
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1001/jama.293.20.2479",
+      "relation": {
+        "has-review": [
+          {
+            "id-type": "doi",
+            "id": "10.3410/f.4122.461606",
+            "asserted-by": "object"
+          }
+        ]
+      },
+      "ISSN": [
+        "0098-7484"
+      ],
+      "issn-type": [
+        {
+          "value": "0098-7484",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2005,
+            5,
+            25
+          ]
+        ]
+      }
+    }
+  }
+}

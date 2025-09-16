@@ -1,0 +1,3164 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_s41512_019_0060_y.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_s41512_019_0060_y",
+  "doi": "10.1186/s41512-019-0060-y",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:16.990506Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T13:28:34Z",
+        "timestamp": 1757683714578,
+        "version": "3.37.3"
+      },
+      "reference-count": 254,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                8,
+                22
+              ]
+            ],
+            "date-time": "2019-08-22T00:00:00Z",
+            "timestamp": 1566432000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                8,
+                22
+              ]
+            ],
+            "date-time": "2019-08-22T00:00:00Z",
+            "timestamp": 1566432000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Diagn Progn Res"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1186/s41512-019-0060-y",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            8,
+            21
+          ]
+        ],
+        "date-time": "2019-08-21T23:05:37Z",
+        "timestamp": 1566428737000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 174,
+      "title": [
+        "Methodological standards for the development and evaluation of clinical prediction rules: a review of the literature"
+      ],
+      "prefix": "10.1186",
+      "volume": "3",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7757-4219",
+          "authenticated-orcid": false,
+          "given": "Laura E.",
+          "family": "Cowley",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Daniel M.",
+          "family": "Farewell",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sabine",
+          "family": "Maguire",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alison M.",
+          "family": "Kemp",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            8,
+            22
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "60_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "d8312",
+          "DOI": "10.1136/bmj.d8312",
+          "volume": "344",
+          "author": "ST Adams",
+          "year": "2012",
+          "unstructured": "Adams ST, Leveson SH. Clinical prediction rules. BMJ. 2012;344:d8312.",
+          "journal-title": "BMJ."
+        },
+        {
+          "issue": "3",
+          "key": "60_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "157",
+          "DOI": "10.1016/S0004-9514(06)70024-1",
+          "volume": "52",
+          "author": "P Beattie",
+          "year": "2006",
+          "unstructured": "Beattie P, Nelson R. Clinical prediction rules: what are they and what do they tell us? Aust J Physiother. 2006;52(3):157–63.",
+          "journal-title": "Aust J Physiother"
+        },
+        {
+          "issue": "6",
+          "key": "60_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "488",
+          "DOI": "10.1001/jama.1997.03540300056034",
+          "volume": "277",
+          "author": "A Laupacis",
+          "year": "1997",
+          "unstructured": "Laupacis A, Sekar N, Stiell IG. Clinical prediction rules. A review and suggested modifications of methodological standards. JAMA. 1997;277(6):488–94.",
+          "journal-title": "JAMA."
+        },
+        {
+          "issue": "1",
+          "key": "60_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "79",
+          "DOI": "10.1001/jama.284.1.79",
+          "volume": "284",
+          "author": "TG McGinn",
+          "year": "2000",
+          "unstructured": "McGinn TG, Guyatt GH, Wyer PC, Naylor CD, Stiell IG, Richardson WS. Users' guides to the medical literature: XXII: how to use articles about clinical decision rules. Evidence-based medicine working group. JAMA. 2000;284(1):79–84.",
+          "journal-title": "JAMA."
+        },
+        {
+          "issue": "Suppl 1",
+          "key": "60_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "129",
+          "DOI": "10.1111/jth.12262",
+          "volume": "11",
+          "author": "JM Hendriksen",
+          "year": "2013",
+          "unstructured": "Hendriksen JM, Geersing GJ, Moons KG, de Groot JA. Diagnostic and prognostic prediction models. J Thromb Haemost. 2013;11(Suppl 1):129–41.",
+          "journal-title": "J Thromb Haemost"
+        },
+        {
+          "issue": "5",
+          "key": "60_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1371/journal.pmed.1001221",
+          "volume": "9",
+          "author": "W Bouwmeester",
+          "year": "2012",
+          "unstructured": "Bouwmeester W, Zuithoff NP, Mallett S, Geerlings MI, Vergouwe Y, Steyerberg EW, et al. Reporting and methods in clinical prediction research: a systematic review. PLoS Med. 2012;9(5):1–12.",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "60_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "20",
+          "DOI": "10.1186/1741-7015-8-20",
+          "volume": "8",
+          "author": "S Mallett",
+          "year": "2010",
+          "unstructured": "Mallett S, Royston P, Dutton S, Waters R, Altman DG. Reporting methods in studies developing prognostic models in cancer: a review. BMC Med. 2010;8:20.",
+          "journal-title": "BMC Med"
+        },
+        {
+          "key": "60_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "103",
+          "DOI": "10.1186/1741-7015-9-103",
+          "volume": "9",
+          "author": "GS Collins",
+          "year": "2011",
+          "unstructured": "Collins GS, Mallett S, Omar O, Yu L-M. Developing risk prediction models for type 2 diabetes: a systematic review of methodology and reporting. BMC Med. 2011;9:103.",
+          "journal-title": "BMC Med"
+        },
+        {
+          "key": "60_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "40",
+          "DOI": "10.1186/1471-2288-14-40",
+          "volume": "14",
+          "author": "GS Collins",
+          "year": "2014",
+          "unstructured": "Collins GS, de Groot JA, Dutton S, Omar O, Shanyinde M, Tajar A, et al. External validation of multivariable prediction models: a systematic review of methodological conduct and reporting. BMC Med Res Methodol. 2014;14:40.",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "79",
+          "DOI": "10.1016/j.ajog.2015.06.013",
+          "volume": "214",
+          "author": "CE Kleinrouweler",
+          "year": "2016",
+          "unstructured": "Kleinrouweler CE, Cheong-See FM, Collins GS, Kwee A, Thangaratinam S, Khan KS, et al. Prognostic models in obstetrics: available, but far from applicable. Am J Obstet Gynecol. 2016;214(1):79–90 e36.",
+          "journal-title": "Am J Obstet Gynecol"
+        },
+        {
+          "issue": "7",
+          "key": "60_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "682",
+          "DOI": "10.1161/CIRCULATIONAHA.109.926808",
+          "volume": "122",
+          "author": "RG Ettema",
+          "year": "2010",
+          "unstructured": "Ettema RG, Peelen LM, Schuurmans MJ, Nierich AP, Kalkman CJ, Moons KG. Prediction models for prolonged intensive care unit stay after cardiac surgery: systematic review and validation study. Circulation. 2010;122(7):682–9.",
+          "journal-title": "Circulation."
+        },
+        {
+          "issue": "3",
+          "key": "60_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "268",
+          "DOI": "10.1016/j.jclinepi.2012.06.020",
+          "volume": "66",
+          "author": "GS Collins",
+          "year": "2013",
+          "unstructured": "Collins GS, Omar O, Shanyinde M, Yu LM. A systematic review finds prediction models for chronic kidney disease were poorly reported and often developed using inappropriate methods. J Clin Epidemiol. 2013;66(3):268–77.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "23",
+          "DOI": "10.1007/s00198-013-2504-5",
+          "volume": "25",
+          "author": "S Nayak",
+          "year": "2014",
+          "unstructured": "Nayak S, Edwards DL, Saleh AA, Greenspan SL. Performance of risk assessment instruments for predicting osteoporotic fracture risk: a systematic review. Osteoporos Int. 2014;25(1):23–49.",
+          "journal-title": "Osteoporos Int"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "235",
+          "DOI": "10.1080/07357900802572110",
+          "volume": "27",
+          "author": "DG Altman",
+          "year": "2009",
+          "unstructured": "Altman DG. Prognostic models: a methodological framework and review of models for breast cancer. Cancer Investig. 2009;27(3):235–43.",
+          "journal-title": "Cancer Investig"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "199",
+          "DOI": "10.1007/s11914-012-0108-1",
+          "volume": "10",
+          "author": "GS Collins",
+          "year": "2012",
+          "unstructured": "Collins GS, Michaelsson K. Fracture risk assessment: state of the art, methodologically unsound, or poorly reported? Curr Osteoporos Rep. 2012;10(3):199–207.",
+          "journal-title": "Curr Osteoporos Rep"
+        },
+        {
+          "issue": "13",
+          "key": "60_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "793",
+          "DOI": "10.1056/NEJM198509263131306",
+          "volume": "313",
+          "author": "JH Wasson",
+          "year": "1985",
+          "unstructured": "Wasson JH, Sox HC, Neff RK, Goldman L. Clinical prediction rules. Applications and methodological standards. N Engl J Med. 1985;313(13):793–8.",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "437",
+          "DOI": "10.1016/S0196-0644(99)70309-4",
+          "volume": "33",
+          "author": "I Stiell",
+          "year": "1999",
+          "unstructured": "Stiell I, Wells G. Methodologic standards for the development of clinical decision rules in emergency medicine. Ann Emerg Med. 1999;33(4):437–47.",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "286",
+          "DOI": "10.1016/j.annemergmed.2014.01.016",
+          "volume": "64",
+          "author": "SM Green",
+          "year": "2014",
+          "unstructured": "Green SM, Schriger DL, Yealy DM. Methodologic standards for interpreting clinical decision rules in emergency medicine: 2014 update. Ann Emerg Med. 2014;64(3):286–91.",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "issue": "29",
+          "key": "60_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "1925",
+          "DOI": "10.1093/eurheartj/ehu207",
+          "volume": "35",
+          "author": "EW Steyerberg",
+          "year": "2014",
+          "unstructured": "Steyerberg EW, Vergouwe Y. Towards better clinical prediction models: seven steps for development and an ABCD for validation. Eur Heart J. 2014;35(29):1925–31.",
+          "journal-title": "Eur Heart J"
+        },
+        {
+          "key": "60_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "b605",
+          "DOI": "10.1136/bmj.b605",
+          "volume": "338",
+          "author": "DG Altman",
+          "year": "2009",
+          "unstructured": "Altman DG, Vergouwe Y, Royston P, Moons KG. Prognosis and prognostic research: validating a prognostic model. BMJ. 2009;338:b605.",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "60_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "b375",
+          "DOI": "10.1136/bmj.b375",
+          "volume": "338",
+          "author": "KG Moons",
+          "year": "2009",
+          "unstructured": "Moons KG, Royston P, Vergouwe Y, Grobbee DE, Altman DG. Prognosis and prognostic research: what, why, and how? BMJ. 2009;338:b375.",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "60_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "b606",
+          "DOI": "10.1136/bmj.b606",
+          "volume": "338",
+          "author": "KG Moons",
+          "year": "2009",
+          "unstructured": "Moons KG, Altman DG, Vergouwe Y, Royston P. Prognosis and prognostic research: application and impact of prognostic models in clinical practice. BMJ. 2009;338:b606.",
+          "journal-title": "BMJ."
+        },
+        {
+          "issue": "9",
+          "key": "60_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "683",
+          "DOI": "10.1136/heartjnl-2011-301246",
+          "volume": "98",
+          "author": "KG Moons",
+          "year": "2012",
+          "unstructured": "Moons KG, Kengne AP, Woodward M, Royston P, Vergouwe Y, Altman DG, Grobbee DE. Risk prediction models: I. development, internal validation, and assessing the incremental value of a new (bio)marker. Heart. 2012;98(9):683–90.",
+          "journal-title": "Heart."
+        },
+        {
+          "issue": "9",
+          "key": "60_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "691",
+          "DOI": "10.1136/heartjnl-2011-301247",
+          "volume": "98",
+          "author": "KG Moons",
+          "year": "2012",
+          "unstructured": "Moons KG, Kengne AP, Grobbee DE, Royston P, Vergouwe Y, Altman DG, Woodward M. Risk prediction models: II. External validation, model updating, and impact assessment. Heart. 2012;98(9):691–8.",
+          "journal-title": "Heart."
+        },
+        {
+          "key": "60_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "b604",
+          "DOI": "10.1136/bmj.b604",
+          "volume": "338",
+          "author": "P Royston",
+          "year": "2009",
+          "unstructured": "Royston P, Moons KGM, Altman DG, Vergouwe Y. Prognosis and prognostic research: developing a prognostic model. BMJ. 2009;338:b604.",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "60_CR26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-0-387-77244-8",
+          "volume-title": "Clinical prediction models: a practical approach to development, validation and updating",
+          "author": "E Steyerberg",
+          "year": "2009",
+          "unstructured": "Steyerberg E. Clinical prediction models: a practical approach to development, validation and updating. New York: Springer-Verlag; 2009."
+        },
+        {
+          "issue": "2",
+          "key": "60_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "e1001381",
+          "DOI": "10.1371/journal.pmed.1001381",
+          "volume": "10",
+          "author": "EW Steyerberg",
+          "year": "2013",
+          "unstructured": "Steyerberg EW, Moons KG, van der Windt DA, Hayden JA, Perel P, Schroter S, et al. Prognosis research strategy (PROGRESS) 3: prognostic model research. PLoS Med. 2013;10(2):e1001381.",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "453",
+          "DOI": "10.1002/(SICI)1097-0258(20000229)19:4<453::AID-SIM350>3.0.CO;2-5",
+          "volume": "19",
+          "author": "DG Altman",
+          "year": "2000",
+          "unstructured": "Altman DG, Royston P. What do we mean by validating a prognostic model? Stat Med. 2000;19(4):453–73.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "60_CR29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-1-4757-3462-1",
+          "volume-title": "Regression modeling strategies: with applications to linear models, logistic regression, and survival analysis",
+          "author": "F Harrell",
+          "year": "2001",
+          "unstructured": "Harrell F. Regression modeling strategies: with applications to linear models, logistic regression, and survival analysis. New York: Springer; 2001."
+        },
+        {
+          "issue": "3",
+          "key": "60_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "423",
+          "DOI": "10.1111/1471-0528.14170",
+          "volume": "124",
+          "author": "L Wynants",
+          "year": "2017",
+          "unstructured": "Wynants L, Collins GS, Van Calster B. Key steps and common pitfalls in developing and validating risk models. BJOG. 2017;124(3):423–32.",
+          "journal-title": "BJOG."
+        },
+        {
+          "issue": "3",
+          "key": "60_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "267",
+          "DOI": "10.1007/s40140-016-0171-8",
+          "volume": "6",
+          "author": "GS Collins",
+          "year": "2016",
+          "unstructured": "Collins GS, Ma J, Gerry S, Ohuma E, Odondi LO, Trivella M, et al. Risk prediction models in perioperative medicine: methodological considerations. Curr Anesthesiol Rep. 2016;6(3):267–75.",
+          "journal-title": "Curr Anesthesiol Rep"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "201",
+          "DOI": "10.7326/0003-4819-144-3-200602070-00009",
+          "volume": "144",
+          "author": "BM Reilly",
+          "year": "2006",
+          "unstructured": "Reilly BM, Evans AT. Translating clinical research into clinical practice: impact of using prediction rules to make decisions. Ann Intern Med. 2006;144(3):201–9.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "60_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "62",
+          "DOI": "10.1186/1472-6947-11-62",
+          "volume": "11",
+          "author": "E Wallace",
+          "year": "2011",
+          "unstructured": "Wallace E, Smith SM, Perera-Salazar R, Vaucher P, McCowan C, Collins G, et al. Framework for the impact analysis and implementation of clinical prediction rules (CPRs). BMC Med Inform Decis Mak. 2011;11:62.",
+          "journal-title": "BMC Med Inform Decis Mak"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "279",
+          "DOI": "10.1016/j.jclinepi.2014.06.018",
+          "volume": "68",
+          "author": "TP Debray",
+          "year": "2015",
+          "unstructured": "Debray TP, Vergouwe Y, Koffijberg H, Nieboer D, Steyerberg EW, Moons KG. A new framework to enhance the interpretation of external validation studies of clinical prediction models. J Clin Epidemiol. 2015;68(3):279–89.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "60_CR35",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Debray TP, Damen JA, Riley RD, Snell K, Reitsma JB, Hooft L, et al. A framework for meta-analysis of prediction model studies with binary and time-to-event outcomes. Stat Methods Med Res. 2018. https://doi.org/10.1177/0962280218785504 .",
+          "DOI": "10.1177/0962280218785504"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "W1",
+          "DOI": "10.7326/M14-0698",
+          "volume": "162",
+          "author": "KG Moons",
+          "year": "2015",
+          "unstructured": "Moons KG, Altman DG, Reitsma JB, Ioannidis JP, Macaskill P, Steyerberg EW, et al. Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (TRIPOD): explanation and elaboration. Ann Intern Med. 2015;162(1):W1–W73.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "60_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "135",
+          "DOI": "10.4103/2152-7806.162676",
+          "volume": "6",
+          "author": "BWY Lo",
+          "year": "2015",
+          "unstructured": "Lo BWY, Fukuda H, Nishimura Y, Farrokhyar F, Thabane L, Levine MAH. Systematic review of clinical prediction tools and prognostic factors in aneurysmal subarachnoid hemorrhage. Surg Neurol Int. 2015;6:135.",
+          "journal-title": "Surg Neurol Int"
+        },
+        {
+          "key": "60_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "729",
+          "DOI": "10.1136/bmj.39133.668681.BE",
+          "volume": "334",
+          "author": "AD Hopper",
+          "year": "2007",
+          "unstructured": "Hopper AD, Cross SS, Hurlstone DP, McAlindon ME, Lobo AJ, Hadjivassiliou M, et al. Pre-endoscopy serological testing for coeliac disease: evaluation of a clinical decision tool. BMJ. 2007;334:729.",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "60_CR39",
+          "doi-asserted-by": "publisher",
+          "first-page": "95",
+          "DOI": "10.1186/s13075-017-1291-3",
+          "volume": "19",
+          "author": "MP LaValley",
+          "year": "2017",
+          "unstructured": "LaValley MP, Lo GH, Price LL, Driban JB, Eaton CB, McAlindon TE. Development of a clinical prediction algorithm for knee osteoarthritis structural progression in a cohort study: value of adding measurement of subchondral bone density. Arthritis Res Ther. 2017;19:95.",
+          "journal-title": "Arthritis Res Ther"
+        },
+        {
+          "issue": "8",
+          "key": "60_CR40",
+          "doi-asserted-by": "publisher",
+          "first-page": "e165",
+          "DOI": "10.1371/journal.pmed.0050165",
+          "volume": "5",
+          "author": "EW Steyerberg",
+          "year": "2008",
+          "unstructured": "Steyerberg EW, Mushkudiani N, Perel P, Butcher I, Lu J, McHugh GS, et al. Predicting outcome after traumatic brain injury: development and international validation of prognostic scores based on admission characteristics. PLoS Med. 2008;5(8):e165.",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR41",
+          "doi-asserted-by": "publisher",
+          "first-page": "39",
+          "DOI": "10.1159/000215942",
+          "volume": "28",
+          "author": "JM Ferro",
+          "year": "2009",
+          "unstructured": "Ferro JM, Bacelar-Nicolau H, Rodrigues T, Bacelar-Nicolau L, Canhão P, Crassard I, et al. Risk score to predict the outcome of patients with cerebral vein and dural sinus thrombosis. Cerebrovasc Dis. 2009;28(1):39–44.",
+          "journal-title": "Cerebrovasc Dis"
+        },
+        {
+          "issue": "7",
+          "key": "60_CR42",
+          "doi-asserted-by": "publisher",
+          "first-page": "1038",
+          "DOI": "10.1111/j.1365-2702.2008.02591.x",
+          "volume": "18",
+          "author": "J Woo",
+          "year": "2009",
+          "unstructured": "Woo J, Leung J, Wong S, Kwok T, Lee J, Lynn H. Development of a simple scoring tool in the primary care setting for prediction of recurrent falls in men and women aged 65 years and over living in the community. J Clin Nurs. 2009;18(7):1038–48.",
+          "journal-title": "J Clin Nurs"
+        },
+        {
+          "issue": "8",
+          "key": "60_CR43",
+          "first-page": "606",
+          "volume": "21",
+          "author": "NN Scholz",
+          "year": "2004",
+          "unstructured": "Scholz NN, Bäsler KK, Saur PP, Burchardi HH, Felder SS. Outcome prediction in critical care: physicians' prognoses vs. scoring systems. Eur J Anaesthesiol. 2004;21(8):606–11.",
+          "journal-title": "Eur J Anaesthesiol"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR44",
+          "doi-asserted-by": "publisher",
+          "first-page": "505",
+          "DOI": "10.1097/ALN.0b013e3181979440",
+          "volume": "110",
+          "author": "S Kheterpal",
+          "year": "2009",
+          "unstructured": "Kheterpal S, Tremper KK, Heung M, Rosenberg AL, Englesbe M, Shanks AM, Campbell DA. Development and validation of an acute kidney injury risk index for patients undergoing general surgery results from a national data set. Anesthesiology. 2009;110(3):505–15.",
+          "journal-title": "Anesthesiology."
+        },
+        {
+          "issue": "1",
+          "key": "60_CR45",
+          "doi-asserted-by": "publisher",
+          "first-page": "7",
+          "DOI": "10.1097/EJA.0b013e32834d9474",
+          "volume": "29",
+          "author": "N Pace",
+          "year": "2012",
+          "unstructured": "Pace N, Eberhart L, Kranke P. Quantifying prognosis with risk predictions. Eur J Anaesthesiol. 2012;29(1):7–16.",
+          "journal-title": "Eur J Anaesthesiol"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR46",
+          "doi-asserted-by": "publisher",
+          "first-page": "128",
+          "DOI": "10.1097/EDE.0b013e3181c30fb2",
+          "volume": "21",
+          "author": "EW Steyerberg",
+          "year": "2010",
+          "unstructured": "Steyerberg EW, Vickers AJ, Cook NR, Gerds T, Gonen M, Obuchowski N, et al. Assessing the performance of prediction models: a framework for some traditional and novel measures. Epidemiology. 2010;21(1):128–38.",
+          "journal-title": "Epidemiology."
+        },
+        {
+          "issue": "2",
+          "key": "60_CR47",
+          "doi-asserted-by": "publisher",
+          "first-page": "e16",
+          "DOI": "10.2196/medinform.4553",
+          "volume": "4",
+          "author": "T McGinn",
+          "year": "2016",
+          "unstructured": "McGinn T. Putting meaning into meaningful use: a roadmap to successful integration of evidence at the point of care. JMIR Med Inform. 2016;4(2):e16.",
+          "journal-title": "JMIR Med Inform"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR48",
+          "doi-asserted-by": "publisher",
+          "first-page": "398",
+          "DOI": "10.1177/0272989X09344747",
+          "volume": "30",
+          "author": "JC Brehaut",
+          "year": "2010",
+          "unstructured": "Brehaut JC, Graham ID, Wood TJ, Taljaard M, Eagles D, Lott A, et al. Measuring acceptability of clinical decision rules: validation of the Ottawa acceptability of decision rules instrument (OADRI) in four countries. Med Decis Mak. 2010;30(3):398–408.",
+          "journal-title": "Med Decis Mak"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR49",
+          "doi-asserted-by": "publisher",
+          "first-page": "187",
+          "DOI": "10.1007/BF02600122",
+          "volume": "9",
+          "author": "FP Sarasin",
+          "year": "1994",
+          "unstructured": "Sarasin FP, Reymond JM, Griffith JL, Beshansky JR, Schifferli JA, Unger PF, et al. Impact of the acute cardiac ischemia time-insensitive predictive instrument (ACI-TIPI) on the speed of triage decision making for emergency department patients presenting with chest pain: a controlled clinical trial. J Gen Intern Med. 1994;9(4):187–94.",
+          "journal-title": "J Gen Intern Med"
+        },
+        {
+          "issue": "11",
+          "key": "60_CR50",
+          "first-page": "1671",
+          "volume": "147",
+          "author": "IG Stiell",
+          "year": "1992",
+          "unstructured": "Stiell IG, McDowell I, Nair RC, Aeta H, Greenberg G, McKnight RD, Ahuja J. Use of radiography in acute ankle injuries: physicians' attitudes and practice. CMAJ. 1992;147(11):1671–8.",
+          "journal-title": "CMAJ."
+        },
+        {
+          "issue": "11",
+          "key": "60_CR51",
+          "doi-asserted-by": "publisher",
+          "first-page": "827",
+          "DOI": "10.1001/jama.1994.03510350037034",
+          "volume": "271",
+          "author": "IG Stiell",
+          "year": "1994",
+          "unstructured": "Stiell IG, McKnight R, Greenberg GH, McDowell I, Nair RC, Wells GA, et al. Implementation of the Ottawa ankle rules. JAMA. 1994;271(11):827–32.",
+          "journal-title": "JAMA."
+        },
+        {
+          "issue": "4",
+          "key": "60_CR52",
+          "doi-asserted-by": "publisher",
+          "first-page": "422",
+          "DOI": "10.1016/S0196-0644(95)70108-7",
+          "volume": "26",
+          "author": "AH Anis",
+          "year": "1995",
+          "unstructured": "Anis AH, Stiell IG, Stewart DG, Laupacis A. Cost-effectiveness analysis of the Ottawa ankle rules. Ann Emerg Med. 1995;26(4):422–8.",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR53",
+          "doi-asserted-by": "publisher",
+          "first-page": "259",
+          "DOI": "10.1067/mem.2001.113506",
+          "volume": "37",
+          "author": "ID Graham",
+          "year": "2001",
+          "unstructured": "Graham ID, Stiell IG, Laupacis A, McAuley L, Howell M, Clancy M, et al. Awareness and use of the Ottawa ankle and knee rules in 5 countries: can publication alone be enough to change practice? Ann Emerg Med. 2001;37(3):259–66.",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "key": "60_CR54",
+          "doi-asserted-by": "publisher",
+          "first-page": "i2416",
+          "DOI": "10.1136/bmj.i2416",
+          "volume": "353",
+          "author": "JA Damen",
+          "year": "2016",
+          "unstructured": "Damen JA, Hooft L, Schuit E, Debray TP, Collins GS, Tzoulaki I, et al. Prediction models for cardiovascular disease risk in the general population: systematic review. BMJ. 2016;353:i2416.",
+          "journal-title": "BMJ."
+        },
+        {
+          "issue": "3",
+          "key": "60_CR55",
+          "doi-asserted-by": "publisher",
+          "first-page": "279",
+          "DOI": "10.1097/MOU.0b013e3282f9b3e5",
+          "volume": "18",
+          "author": "SF Shariat",
+          "year": "2008",
+          "unstructured": "Shariat SF, Karakiewicz PI, Margulis V, Kattan MW. Inventory of prostate cancer predictive tools. Curr Opin Urol. 2008;18(3):279–96.",
+          "journal-title": "Curr Opin Urol"
+        },
+        {
+          "key": "60_CR56",
+          "doi-asserted-by": "publisher",
+          "first-page": "38",
+          "DOI": "10.1186/1472-6947-6-38",
+          "volume": "6",
+          "author": "P Perel",
+          "year": "2006",
+          "unstructured": "Perel P, Edwards P, Wentz R, Roberts I. Systematic review of prognostic models in traumatic brain injury. BMC Med Inform Decis Mak. 2006;6:38.",
+          "journal-title": "BMC Med Inform Decis Mak."
+        },
+        {
+          "issue": "4",
+          "key": "60_CR57",
+          "doi-asserted-by": "publisher",
+          "first-page": "368",
+          "DOI": "10.1161/CIRCOUTCOMES.115.001693",
+          "volume": "8",
+          "author": "BS Wessler",
+          "year": "2015",
+          "unstructured": "Wessler BS, Lai Yh L, Kramer W, Cangelosi M, Raman G, Lutz JS, Kent DM. Clinical prediction models for cardiovascular disease: tufts predictive analytics and comparative effectiveness clinical prediction model database. Circ Cardiovasc Qual Outcomes. 2015;8(4):368–75.",
+          "journal-title": "Circ Cardiovasc Qual Outcomes"
+        },
+        {
+          "issue": "2",
+          "key": "60_CR58",
+          "doi-asserted-by": "publisher",
+          "first-page": "e32844",
+          "DOI": "10.1371/journal.pone.0032844",
+          "volume": "7",
+          "author": "GJ Geersing",
+          "year": "2012",
+          "unstructured": "Geersing GJ, Bouwmeester W, Zuithoff P, Spijker R, Leeflang M, Moons KG. Search filters for finding prognostic and diagnostic prediction studies in Medline to enhance systematic reviews. PLoS One. 2012;7(2):e32844.",
+          "journal-title": "PLoS One"
+        },
+        {
+          "issue": "10",
+          "key": "60_CR59",
+          "doi-asserted-by": "publisher",
+          "first-page": "e1001744",
+          "DOI": "10.1371/journal.pmed.1001744",
+          "volume": "11",
+          "author": "KG Moons",
+          "year": "2014",
+          "unstructured": "Moons KG, de Groot JA, Bouwmeester W, Vergouwe Y, Mallett S, Altman DG, et al. Critical appraisal and data extraction for systematic reviews of prediction modelling studies: the CHARMS checklist. PLoS Med. 2014;11(10):e1001744.",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR60",
+          "doi-asserted-by": "publisher",
+          "first-page": "W1",
+          "DOI": "10.7326/M18-1377",
+          "volume": "170",
+          "author": "KM Moons",
+          "year": "2019",
+          "unstructured": "Moons KM, Wolff RF, Riley RD, Whiting PF, Westwood M, Collins GS, et al. PROBAST: a tool to assess risk of bias and applicability of prediction model studies: explanation and elaboration. Ann Intern Med. 2019;170(1):W1–W33.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "60_CR61",
+          "doi-asserted-by": "publisher",
+          "first-page": "e3186",
+          "DOI": "10.1136/bmj.e3186",
+          "volume": "344",
+          "author": "GS Collins",
+          "year": "2012",
+          "unstructured": "Collins GS, Moons KG. Comparing risk prediction models. BMJ. 2012;344:e3186.",
+          "journal-title": "BMJ."
+        },
+        {
+          "issue": "5",
+          "key": "60_CR62",
+          "doi-asserted-by": "publisher",
+          "first-page": "752",
+          "DOI": "10.1093/ndt/gfx073",
+          "volume": "32",
+          "author": "FW Dekker",
+          "year": "2017",
+          "unstructured": "Dekker FW, Ramspek CL, van Diepen M. Con: most clinical risk scores are useless. Nephrol Dial Transplant. 2017;32(5):752–5.",
+          "journal-title": "Nephrol Dial Transplant"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR63",
+          "doi-asserted-by": "publisher",
+          "first-page": "347",
+          "DOI": "10.6000/1929-6029.2015.04.04.5",
+          "volume": "4",
+          "author": "K Masconi",
+          "year": "2015",
+          "unstructured": "Masconi K, Matsha T, Erasmus R, Kengne A. Recalibration in validation studies of diabetes risk prediction models: a systematic review. Int J Stat Med Res. 2015;4(4):347–69.",
+          "journal-title": "Int J Stat Med Res"
+        },
+        {
+          "issue": "6",
+          "key": "60_CR64",
+          "doi-asserted-by": "publisher",
+          "first-page": "e0179102",
+          "DOI": "10.1371/journal.pone.0179102",
+          "volume": "12",
+          "author": "JW Ban",
+          "year": "2017",
+          "unstructured": "Ban JW, Wallace E, Stevens R, Perera R. Why do authors derive new cardiovascular clinical prediction rules in the presence of existing rules? A mixed methods study. PLoS One. 2017;12(6):e0179102.",
+          "journal-title": "PLoS One"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR65",
+          "doi-asserted-by": "publisher",
+          "first-page": "325",
+          "DOI": "10.1093/fampra/cms076",
+          "volume": "30",
+          "author": "I de Salis",
+          "year": "2013",
+          "unstructured": "de Salis I, Whiting P, Sterne JA, Hay AD. Using qualitative research to inform development of a diagnostic algorithm for UTI in children. Fam Pract. 2013;30(3):325–31.",
+          "journal-title": "Fam Pract"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR66",
+          "doi-asserted-by": "publisher",
+          "first-page": "44",
+          "DOI": "10.1016/j.physio.2014.04.005",
+          "volume": "101",
+          "author": "R Haskins",
+          "year": "2015",
+          "unstructured": "Haskins R, Osmotherly PG, Southgate E, Rivett DA. Australian physiotherapists' priorities for the development of clinical prediction rules for low back pain: a qualitative study. Physiotherapy. 2015;101(1):44–9.",
+          "journal-title": "Physiotherapy."
+        },
+        {
+          "issue": "7",
+          "key": "60_CR67",
+          "doi-asserted-by": "publisher",
+          "first-page": "e1001671",
+          "DOI": "10.1371/journal.pmed.1001671",
+          "volume": "11",
+          "author": "G Peat",
+          "year": "2014",
+          "unstructured": "Peat G, Riley RD, Croft P, Morley KI, Kyzas PA, Moons KG, et al. Improving the transparency of prognosis research: the role of reporting, data sharing, registration, and protocols. PLoS Med. 2014;11(7):e1001671.",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR68",
+          "doi-asserted-by": "publisher",
+          "first-page": "580",
+          "DOI": "10.1373/clinchem.2013.220335",
+          "volume": "60",
+          "author": "DG Altman",
+          "year": "2014",
+          "unstructured": "Altman DG. The time has come to register diagnostic and prognostic research. Clin Chem. 2014;60(4):580–2.",
+          "journal-title": "Clin Chem"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR69",
+          "doi-asserted-by": "publisher",
+          "first-page": "339",
+          "DOI": "10.3348/kjr.2016.17.3.339",
+          "volume": "17",
+          "author": "K Han",
+          "year": "2016",
+          "unstructured": "Han K, Song K, Choi BW. How to develop, validate, and compare clinical prediction models involving radiological parameters: study design and statistical methods. Korean J Radiol. 2016;17(3):339–50.",
+          "journal-title": "Korean J Radiol"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR70",
+          "doi-asserted-by": "publisher",
+          "first-page": "38",
+          "DOI": "10.3803/EnM.2016.31.1.38",
+          "volume": "31",
+          "author": "Y-h Lee",
+          "year": "2016",
+          "unstructured": "Lee Y-h, Bang H, Kim DJ. How to establish clinical prediction models. Endocrinol Metab (Seoul). 2016;31(1):38–44.",
+          "journal-title": "Endocrinol Metab (Seoul)"
+        },
+        {
+          "key": "60_CR71",
+          "doi-asserted-by": "publisher",
+          "first-page": "48",
+          "DOI": "10.1186/1471-2288-8-48",
+          "volume": "8",
+          "author": "CJ Biesheuvel",
+          "year": "2008",
+          "unstructured": "Biesheuvel CJ, Vergouwe Y, Oudega R, Hoes AW, Grobbee DE, Moons KG. Advantages of the nested case-control design in diagnostic research. BMC Med Res Methodol. 2008;8:48.",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "60_CR72",
+          "doi-asserted-by": "publisher",
+          "first-page": "113",
+          "DOI": "10.1186/1471-2288-13-113",
+          "volume": "13",
+          "author": "J Sanderson",
+          "year": "2013",
+          "unstructured": "Sanderson J, Thompson SG, White IR, Aspelund T, Pennells L. Derivation and assessment of risk prediction models using case-cohort data. BMC Med Res Methodol. 2013;13:113.",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "issue": "2",
+          "key": "60_CR73",
+          "doi-asserted-by": "publisher",
+          "first-page": "105",
+          "DOI": "10.1016/j.math.2010.10.005",
+          "volume": "16",
+          "author": "RJ Nee",
+          "year": "2011",
+          "unstructured": "Nee RJ, Coppieters MW. Interpreting research on clinical prediction rules for physiotherapy treatments. Man Ther. 2011;16(2):105–8.",
+          "journal-title": "Man Ther"
+        },
+        {
+          "issue": "7",
+          "key": "60_CR74",
+          "doi-asserted-by": "publisher",
+          "first-page": "698",
+          "DOI": "10.2522/ptj.20080351",
+          "volume": "89",
+          "author": "M Hancock",
+          "year": "2009",
+          "unstructured": "Hancock M, Herbert RD, Maher CG. A guide to interpretation of studies investigating subgroups of responders to physical therapy interventions. Phys Ther. 2009;89(7):698–704.",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR75",
+          "doi-asserted-by": "publisher",
+          "first-page": "513",
+          "DOI": "10.1007/s00134-014-3227-6",
+          "volume": "40",
+          "author": "J Labarère",
+          "year": "2014",
+          "unstructured": "Labarère J, Renaud B, Fine MJ. How to derive and validate clinical prediction models for use in intensive care medicine. Intensive Care Med. 2014;40(4):513–27.",
+          "journal-title": "Intensive Care Med"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR76",
+          "doi-asserted-by": "publisher",
+          "first-page": "888",
+          "DOI": "10.1016/j.ajog.2005.09.002",
+          "volume": "194",
+          "author": "WA Grobman",
+          "year": "2006",
+          "unstructured": "Grobman WA, Stamilio DM. Methods of clinical prediction. Am J Obstet Gynecol. 2006;194(3):888–94.",
+          "journal-title": "Am J Obstet Gynecol"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR77",
+          "doi-asserted-by": "publisher",
+          "first-page": "323",
+          "DOI": "10.1111/j.1365-2044.2005.04121.x",
+          "volume": "60",
+          "author": "JE van den Bosch",
+          "year": "2005",
+          "unstructured": "van den Bosch JE, Kalkman CJ, Vergouwe Y, Van Klei WA, Bonsel GJ, Grobbee DE, Moons KG. Assessing the applicability of scoring systems for predicting postoperative nausea and vomiting. Anaesthesia. 2005;60(4):323–31.",
+          "journal-title": "Anaesthesia."
+        },
+        {
+          "key": "60_CR78",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1201/9781420075779",
+          "volume-title": "Logistic regression models",
+          "author": "J Hilbe",
+          "year": "2009",
+          "unstructured": "Hilbe J. Logistic regression models. Boca Raton: Chapman & Hall/CRC; 2009."
+        },
+        {
+          "issue": "6",
+          "key": "60_CR79",
+          "doi-asserted-by": "publisher",
+          "first-page": "603",
+          "DOI": "10.1016/S0895-4356(00)00344-9",
+          "volume": "54",
+          "author": "RJ Marshall",
+          "year": "2001",
+          "unstructured": "Marshall RJ. The use of classification and regression trees in clinical epidemiology. J Clin Epidemiol. 2001;54(6):603–9.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR80",
+          "doi-asserted-by": "publisher",
+          "first-page": "384",
+          "DOI": "10.1016/S0196-0644(05)82656-3",
+          "volume": "21",
+          "author": "IG Stiell",
+          "year": "1992",
+          "unstructured": "Stiell IG, Greenberg GH, McKnight RD, Nair RC, McDowell I, Worthington JR. A study to develop clinical decision rules for the use of radiography in acute ankle injuries. Ann Emerg Med. 1992;21(4):384–90.",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR81",
+          "doi-asserted-by": "publisher",
+          "first-page": "44",
+          "DOI": "10.1038/s41591-018-0300-7",
+          "volume": "25",
+          "author": "EJ Topol",
+          "year": "2019",
+          "unstructured": "Topol EJ. High-performance medicine: the convergence of human and artificial intelligence. Nat Med. 2019;25(1):44–56.",
+          "journal-title": "Nat Med"
+        },
+        {
+          "key": "60_CR82",
+          "unstructured": "Vollmer S, Mateen BA, Bohner G, Király FJ, Ghani R, Jonsson P, et al. Machine learning and AI research for patient benefit: 20 critical questions on transparency, replicability, ethics and effectiveness. CoRR. 2018; abs/1812.10404."
+        },
+        {
+          "issue": "2",
+          "key": "60_CR83",
+          "doi-asserted-by": "publisher",
+          "first-page": "205",
+          "DOI": "10.1016/j.jclinepi.2009.03.017",
+          "volume": "63",
+          "author": "Y Vergouwe",
+          "year": "2010",
+          "unstructured": "Vergouwe Y, Royston P, Moons KG, Altman DG. Development and validation of a prediction model with missing predictor data: a practical approach. J Clin Epidemiol. 2010;63(2):205–14.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "60_CR84",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/9781119013563",
+          "volume-title": "Statistical analysis with missing data",
+          "author": "RJA Little",
+          "year": "2002",
+          "unstructured": "Little RJA, Rubin DB. Statistical analysis with missing data. New York: Wiley; 2002."
+        },
+        {
+          "key": "60_CR85",
+          "doi-asserted-by": "publisher",
+          "first-page": "b2393",
+          "DOI": "10.1136/bmj.b2393",
+          "volume": "338",
+          "author": "JAC Sterne",
+          "year": "2009",
+          "unstructured": "Sterne JAC, White IR, Carlin JB, Spratt M, Royston P, Kenward MG, et al. Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls. BMJ. 2009;338:b2393.",
+          "journal-title": "BMJ."
+        },
+        {
+          "issue": "10",
+          "key": "60_CR86",
+          "doi-asserted-by": "publisher",
+          "first-page": "1087",
+          "DOI": "10.1016/j.jclinepi.2006.01.014",
+          "volume": "59",
+          "author": "ART Donders",
+          "year": "2006",
+          "unstructured": "Donders ART, van der Heijden GJMG, Stijnen T, Moons KGM. Review: a gentle introduction to imputation of missing values. J Clin Epidemiol. 2006;59(10):1087–91.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "10",
+          "key": "60_CR87",
+          "doi-asserted-by": "publisher",
+          "first-page": "1092",
+          "DOI": "10.1016/j.jclinepi.2006.01.009",
+          "volume": "59",
+          "author": "KGM Moons",
+          "year": "2006",
+          "unstructured": "Moons KGM, Donders RART, Stijnen T, Harrell FE. Using the outcome for imputation of missing predictor values was preferred. J Clin Epidemiol. 2006;59(10):1092–101.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "7",
+          "key": "60_CR88",
+          "doi-asserted-by": "publisher",
+          "first-page": "721",
+          "DOI": "10.1016/j.jclinepi.2009.12.008",
+          "volume": "63",
+          "author": "KJM Janssen",
+          "year": "2010",
+          "unstructured": "Janssen KJM, Donders ART, Harrell FE, Vergouwe Y, Chen Q, Grobbee DE, Moons KGM. Missing covariate data in medical research: to impute is better than to ignore. J Clin Epidemiol. 2010;63(7):721–7.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "60_CR89",
+          "doi-asserted-by": "publisher",
+          "first-page": "157",
+          "DOI": "10.2147/CLEP.S129785",
+          "volume": "9",
+          "author": "AB Pedersen",
+          "year": "2017",
+          "unstructured": "Pedersen AB, Mikkelsen EM, Cronin-Fenton D, Kristensen NR, Pham TM, Pedersen L, Petersen I. Missing data and multiple imputation in clinical epidemiological research. Clin Epidemiol. 2017;9:157–66.",
+          "journal-title": "Clin Epidemiol"
+        },
+        {
+          "issue": "10",
+          "key": "60_CR90",
+          "doi-asserted-by": "publisher",
+          "first-page": "1102",
+          "DOI": "10.1016/j.jclinepi.2006.01.015",
+          "volume": "59",
+          "author": "GJMG van der Heijden",
+          "year": "2006",
+          "unstructured": "van der Heijden GJMG, Donders AR, Stijnen T, Moons KGM. Imputation of missing values is superior to complete case analysis and the missing-indicator method in multivariable diagnostic research: a clinical example. J Clin Epidemiol. 2006;59(10):1102–9.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "60_CR91",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/9780470316696",
+          "volume-title": "Multiple imputation for nonresponse in surveys",
+          "author": "DB Rubin",
+          "year": "1987",
+          "unstructured": "Rubin DB. Multiple imputation for nonresponse in surveys. New York: Wiley; 1987."
+        },
+        {
+          "key": "60_CR92",
+          "doi-asserted-by": "crossref",
+          "unstructured": "van Buuren S, Groothuis-Oudshoorn K. Mice: multivariate imputation by chained equations in R. J Stat Softw. 2011;45(3):1–67.",
+          "DOI": "10.18637/jss.v045.i03"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR93",
+          "doi-asserted-by": "publisher",
+          "first-page": "377",
+          "DOI": "10.1002/sim.4067",
+          "volume": "30",
+          "author": "IR White",
+          "year": "2011",
+          "unstructured": "White IR, Royston P, Wood AM. Multiple imputation using chained equations: issues and guidance for practice. Stat Med. 2011;30(4):377–99.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR94",
+          "doi-asserted-by": "publisher",
+          "first-page": "330",
+          "DOI": "10.1037/1082-989X.6.4.330",
+          "volume": "6",
+          "author": "LM Collins",
+          "year": "2001",
+          "unstructured": "Collins LM, Schafer JL, Kam CM. A comparison of inclusive and restrictive strategies in modern missing data procedures. Psychol Methods. 2001;6(4):330–51.",
+          "journal-title": "Psychol Methods"
+        },
+        {
+          "key": "60_CR95",
+          "doi-asserted-by": "publisher",
+          "first-page": "549",
+          "DOI": "10.1146/annurev.psych.58.110405.085530",
+          "volume": "60",
+          "author": "JW Graham",
+          "year": "2009",
+          "unstructured": "Graham JW. Missing data analysis: making it work in the real world. Annu Rev Psychol. 2009;60:549–76.",
+          "journal-title": "Annu Rev Psychol"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR96",
+          "doi-asserted-by": "publisher",
+          "first-page": "259",
+          "DOI": "10.1177/0962280206075303",
+          "volume": "16",
+          "author": "JR Carpenter",
+          "year": "2007",
+          "unstructured": "Carpenter JR, Kenward MG, White IR. Sensitivity analysis after multiple imputation under missing at random: a weighting approach. Stat Methods Med Res. 2007;16(3):259–75.",
+          "journal-title": "Stat Methods Med Res"
+        },
+        {
+          "issue": "16",
+          "key": "60_CR97",
+          "doi-asserted-by": "publisher",
+          "first-page": "2553",
+          "DOI": "10.1002/sim.1475",
+          "volume": "22",
+          "author": "H Demirtas",
+          "year": "2003",
+          "unstructured": "Demirtas H, Schafer JL. On the performance of random-coefficient pattern-mixture models for non-ignorable drop-out. Stat Med. 2003;22(16):2553–75.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "8",
+          "key": "60_CR98",
+          "doi-asserted-by": "publisher",
+          "first-page": "889",
+          "DOI": "10.1007/s40273-018-0650-5",
+          "volume": "36",
+          "author": "B Leurent",
+          "year": "2018",
+          "unstructured": "Leurent B, Gomes M, Faria R, Morris S, Grieve R, Carpenter JR. Sensitivity analysis for not-at-random missing data in trial-based cost-effectiveness analysis: a tutorial. Pharmacoeconomics. 2018;36(8):889–901.",
+          "journal-title": "Pharmacoeconomics."
+        },
+        {
+          "issue": "4",
+          "key": "60_CR99",
+          "first-page": "304",
+          "volume": "185",
+          "author": "FP Leacy",
+          "year": "2017",
+          "unstructured": "Leacy FP, Floyd S, Yates TA, White IR. Analyses of sensitivity to the missing-at-random assumption using multiple imputation with delta adjustment: application to a tuberculosis/HIV prevalence survey with incomplete HIV-status data. Am J Epidemiol. 2017;185(4):304–15.",
+          "journal-title": "Am J Epidemiol"
+        },
+        {
+          "key": "60_CR100",
+          "doi-asserted-by": "publisher",
+          "first-page": "73",
+          "DOI": "10.1186/1471-2288-12-73",
+          "volume": "12",
+          "author": "V Héraud-Bousquet",
+          "year": "2012",
+          "unstructured": "Héraud-Bousquet V, Larsen C, Carpenter J, Desenclos J-C, Le Strat Y. Practical considerations for sensitivity analysis after multiple imputation applied to epidemiological studies with incomplete data. BMC Med Res Methodol. 2012;12:73.",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "60_CR101",
+          "volume-title": "MAR methods for quantitative data. In: missing data in randomised controlled trials— a practical guide",
+          "author": "JR Carpenter",
+          "year": "2008",
+          "unstructured": "Carpenter JR, Kenward MG. MAR methods for quantitative data. In: missing data in randomised controlled trials— a practical guide. Birmingham: National Institute for Health Research; 2008."
+        },
+        {
+          "issue": "3",
+          "key": "60_CR102",
+          "doi-asserted-by": "publisher",
+          "first-page": "173",
+          "DOI": "10.1177/1471082X0800900301",
+          "volume": "9",
+          "author": "H Goldstein",
+          "year": "2009",
+          "unstructured": "Goldstein H, Carpenter J, Kenward MG, Levin KA. Multilevel models with multivariate mixed response types. Stat Model. 2009;9(3):173–97.",
+          "journal-title": "Stat Model"
+        },
+        {
+          "key": "60_CR103",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1201/9781439821862",
+          "volume-title": "Analysis of incomplete multivariate data",
+          "author": "JL Schafer",
+          "year": "1997",
+          "unstructured": "Schafer JL. Analysis of incomplete multivariate data. London: Chapman & Hall; 1997."
+        },
+        {
+          "issue": "4",
+          "key": "60_CR104",
+          "doi-asserted-by": "publisher",
+          "first-page": "465",
+          "DOI": "10.1093/biostatistics/1.4.465",
+          "volume": "1",
+          "author": "A Dobson",
+          "year": "2000",
+          "unstructured": "Dobson A, Diggle P, Henderson R. Joint modelling of longitudinal measurements and event time data. Biostatistics. 2000;1(4):465–80.",
+          "journal-title": "Biostatistics."
+        },
+        {
+          "key": "60_CR105",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1201/b12208",
+          "volume-title": "Joint models for longitudinal and time-to-event data with applications in R",
+          "author": "D Rizopoulos",
+          "year": "2012",
+          "unstructured": "Rizopoulos D. Joint models for longitudinal and time-to-event data with applications in R. New York: Chapman and Hall/CRC; 2012."
+        },
+        {
+          "key": "60_CR106",
+          "doi-asserted-by": "publisher",
+          "first-page": "57",
+          "DOI": "10.1186/1471-2288-9-57",
+          "volume": "9",
+          "author": "A Marshall",
+          "year": "2009",
+          "unstructured": "Marshall A, Altman DG, Holder RL, Royston P. Combining estimates of interest in prognostic modelling studies after multiple imputation: current practice and guidelines. BMC Med Res Methodol. 2009;9:57.",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "60_CR107",
+          "doi-asserted-by": "publisher",
+          "first-page": "112",
+          "DOI": "10.1186/1471-2288-10-112",
+          "volume": "10",
+          "author": "A Marshall",
+          "year": "2010",
+          "unstructured": "Marshall A, Altman DG, Holder RL. Comparison of imputation methods for handling missing covariate data when fitting a Cox proportional hazards model: a resampling study. BMC Med Res Methodol. 2010;10:112.",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "60_CR108",
+          "doi-asserted-by": "publisher",
+          "first-page": "11",
+          "DOI": "10.1186/s41512-018-0033-6",
+          "volume": "2",
+          "author": "TH Kappen",
+          "year": "2018",
+          "unstructured": "Kappen TH, van Klei WA, van Wolfswinkel L, Kalkman CJ, Vergouwe Y, Moons KGM. Evaluating the impact of prediction models: lessons learned, challenges, and recommendations. BMC Diagn Progn Res. 2018;2:11.",
+          "journal-title": "BMC Diagn Progn Res"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR109",
+          "doi-asserted-by": "publisher",
+          "first-page": "E1",
+          "DOI": "10.1177/0272989X12439755",
+          "volume": "32",
+          "author": "TH Kappen",
+          "year": "2012",
+          "unstructured": "Kappen TH, Vergouwe Y, van Klei WA, van Wolfswinkel L, Kalkman CJ, Moons KGM. Adaptation of clinical prediction models for application in local settings. Med Decis Mak. 2012;32(3):E1–E10.",
+          "journal-title": "Med Decis Mak"
+        },
+        {
+          "issue": "5",
+          "key": "60_CR110",
+          "doi-asserted-by": "publisher",
+          "first-page": "994",
+          "DOI": "10.1373/clinchem.2008.115345",
+          "volume": "55",
+          "author": "KJM Janssen",
+          "year": "2009",
+          "unstructured": "Janssen KJM, Vergouwe Y, Donders ART, Harrell FE, Chen Q, Grobbee DE, Moons KGM. Dealing with missing predictor values when applying clinical prediction models. Clin Chem. 2009;55(5):994–1001.",
+          "journal-title": "Clin Chem"
+        },
+        {
+          "issue": "9",
+          "key": "60_CR111",
+          "doi-asserted-by": "publisher",
+          "first-page": "e0139210",
+          "DOI": "10.1371/journal.pone.0139210",
+          "volume": "10",
+          "author": "KL Masconi",
+          "year": "2015",
+          "unstructured": "Masconi KL, Matsha TE, Erasmus RT, Kengne AP. Effects of different missing data imputation techniques on the performance of undiagnosed diabetes risk prediction models in a mixed-ancestry population of South Africa. PLoS One. 2015;10(9):e0139210.",
+          "journal-title": "PLoS One"
+        },
+        {
+          "issue": "8",
+          "key": "60_CR112",
+          "doi-asserted-by": "publisher",
+          "first-page": "907",
+          "DOI": "10.1016/0895-4356(96)00025-X",
+          "volume": "49",
+          "author": "GW Sun",
+          "year": "1996",
+          "unstructured": "Sun GW, Shook TL, Kay GL. Inappropriate use of bivariable analysis to screen risk factors for use in multivariable analysis. J Clin Epidemiol. 1996;49(8):907–16.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR113",
+          "doi-asserted-by": "publisher",
+          "first-page": "45",
+          "DOI": "10.1177/0272989X0102100106",
+          "volume": "21",
+          "author": "EW Steyerberg",
+          "year": "2001",
+          "unstructured": "Steyerberg EW, Eijkemans MJC, Harrell FE, Habbema JDF. Prognostic modeling with logistic regression analysis: in search of a sensible strategy in small data sets. Med Decis Mak. 2001;21(1):45–56.",
+          "journal-title": "Med Decis Mak"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR114",
+          "doi-asserted-by": "publisher",
+          "first-page": "361",
+          "DOI": "10.1002/(SICI)1097-0258(19960229)15:4<361::AID-SIM168>3.0.CO;2-4",
+          "volume": "15",
+          "author": "FEJ Harrell",
+          "year": "1996",
+          "unstructured": "Harrell FEJ, Lee KL, Mark DB. Multivariable prognostic models: issues in developing models, evaluating assumptions and adequacy, and measuring and reducing errors. Stat Med. 1996;15(4):361–87.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR115",
+          "doi-asserted-by": "publisher",
+          "first-page": "289",
+          "DOI": "10.1214/10-STS330",
+          "volume": "25",
+          "author": "G Shmueli",
+          "year": "2010",
+          "unstructured": "Shmueli G. To explain or to predict? Stat Sci. 2010;25(3):289–310.",
+          "journal-title": "Stat Sci"
+        },
+        {
+          "key": "60_CR116",
+          "doi-asserted-by": "publisher",
+          "first-page": "h3868",
+          "DOI": "10.1136/bmj.h3868",
+          "volume": "351",
+          "author": "M Pavlou",
+          "year": "2015",
+          "unstructured": "Pavlou M, Ambler G, Seaman SR, Guttmann O, Elliott P, King M, Omar RZ. How to develop a more accurate risk prediction model when there are few events. BMJ. 2015;351:h3868.",
+          "journal-title": "BMJ."
+        },
+        {
+          "issue": "1",
+          "key": "60_CR117",
+          "doi-asserted-by": "publisher",
+          "first-page": "6",
+          "DOI": "10.1111/tri.12895",
+          "volume": "30",
+          "author": "G Heinze",
+          "year": "2017",
+          "unstructured": "Heinze G, Dunkler D. Five myths about variable selection. Transpl Int. 2017;30(1):6–10.",
+          "journal-title": "Transpl Int"
+        },
+        {
+          "issue": "12",
+          "key": "60_CR118",
+          "doi-asserted-by": "publisher",
+          "first-page": "1373",
+          "DOI": "10.1016/S0895-4356(96)00236-3",
+          "volume": "49",
+          "author": "P Peduzzi",
+          "year": "1996",
+          "unstructured": "Peduzzi P, Concato J, Kemper E, Holford TR, Feinstein AR. A simulation study of the number of events per variable in logistic regression analysis. J Clin Epidemiol. 1996;49(12):1373–9.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "6",
+          "key": "60_CR119",
+          "doi-asserted-by": "publisher",
+          "first-page": "710",
+          "DOI": "10.1093/aje/kwk052",
+          "volume": "165",
+          "author": "E Vittinghoff",
+          "year": "2007",
+          "unstructured": "Vittinghoff E, McCulloch CE. Relaxing the rule of ten events per variable in logistic and cox regression. Am J Epidemiol. 2007;165(6):710–8.",
+          "journal-title": "Am J Epidemiol"
+        },
+        {
+          "issue": "9",
+          "key": "60_CR120",
+          "doi-asserted-by": "publisher",
+          "first-page": "993",
+          "DOI": "10.1016/j.jclinepi.2010.11.012",
+          "volume": "64",
+          "author": "DS Courvoisier",
+          "year": "2011",
+          "unstructured": "Courvoisier DS, Combescure C, Agoritsas T, Gayet-Ageron A, Perneger TV. Performance of logistic regression modeling: beyond the number of events per variable, the role of data structure. J Clin Epidemiol. 2011;64(9):993–1000.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "60_CR121",
+          "doi-asserted-by": "publisher",
+          "first-page": "163",
+          "DOI": "10.1186/s12874-016-0267-3",
+          "volume": "16",
+          "author": "M van Smeden",
+          "year": "2016",
+          "unstructured": "van Smeden M, de Groot JAH, Moons KGM, Collins GS, Altman DG, Eijkemans MJC, Reitsma JB. No rationale for 1 variable per 10 events criterion for binary logistic regression analysis. BMC Med Res Methodol. 2016;16:163.",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "60_CR122",
+          "doi-asserted-by": "publisher",
+          "unstructured": "van Smeden M, Moons KGM, de Groot JAH, Collins GS, Altman DG, Eijkemans MJC, Reitsma JB. Sample size for binary logistic prediction models: beyond events per variable criteria. Stat Methods Med Res. 2018. https://doi.org/10.1177/0962280218784726 .",
+          "DOI": "10.1177/0962280218784726"
+        },
+        {
+          "key": "60_CR123",
+          "doi-asserted-by": "publisher",
+          "first-page": "175",
+          "DOI": "10.1016/j.jclinepi.2016.02.031",
+          "volume": "76",
+          "author": "EO Ogundimu",
+          "year": "2016",
+          "unstructured": "Ogundimu EO, Altman DG, Collins GS. Adequate sample size for developing prediction models is not simply related to events per variable. J Clin Epidemiol. 2016;76:175–82.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR124",
+          "doi-asserted-by": "publisher",
+          "first-page": "56",
+          "DOI": "10.1016/j.injury.2011.12.012",
+          "volume": "44",
+          "author": "CE Battle",
+          "year": "2013",
+          "unstructured": "Battle CE, Hutchings H, Evans PA. Expert opinion of the risk factors for morbidity and mortality in blunt chest wall trauma: results of a national postal questionnaire survey of emergency departments in the United Kingdom. Injury. 2013;44(1):56–9.",
+          "journal-title": "Injury."
+        },
+        {
+          "issue": "30",
+          "key": "60_CR125",
+          "doi-asserted-by": "publisher",
+          "first-page": "5512",
+          "DOI": "10.1002/sim.3148",
+          "volume": "26",
+          "author": "W Sauerbrei",
+          "year": "2007",
+          "unstructured": "Sauerbrei W, Royston P, Binder H. Selection of important variables and determination of functional form for continuous predictors in multivariable model building. Stat Med. 2007;26(30):5512–28.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR126",
+          "doi-asserted-by": "publisher",
+          "first-page": "127",
+          "DOI": "10.1002/sim.2331",
+          "volume": "25",
+          "author": "P Royston",
+          "year": "2006",
+          "unstructured": "Royston P, Altman DG, Sauerbrei W. Dichotomizing continuous predictors in multiple regression: a bad idea. Stat Med. 2006;25(1):127–41.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "23",
+          "key": "60_CR127",
+          "doi-asserted-by": "publisher",
+          "first-page": "4124",
+          "DOI": "10.1002/sim.6986",
+          "volume": "35",
+          "author": "GS Collins",
+          "year": "2016",
+          "unstructured": "Collins GS, Ogundimu EO, Cook JA, Manach YL, Altman DG. Quantifying the impact of different approaches for handling continuous predictors on the performance of a prognostic model. Stat Med. 2016;35(23):4124–35.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "60_CR128",
+          "doi-asserted-by": "publisher",
+          "first-page": "133",
+          "DOI": "10.1016/j.jclinepi.2017.11.013",
+          "volume": "98",
+          "author": "EW Steyerberg",
+          "year": "2018",
+          "unstructured": "Steyerberg EW, Uno H, Ioannidis JPA, van Calster B, Ukaegbu C, Dhingra T, et al. Poor performance of clinical prediction models: the harm of commonly applied methods. J Clin Epidemiol. 2018;98:133–43.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "60_CR129",
+          "volume-title": "Multivariable model-building: a pragmatic approach to regression analysis based on fractional polynomials for modelling continuous variables",
+          "author": "P Royston",
+          "year": "2009",
+          "unstructured": "Royston P, Sauerbrei W. Multivariable model-building: a pragmatic approach to regression analysis based on fractional polynomials for modelling continuous variables. Chichester: Wiley; 2009."
+        },
+        {
+          "issue": "15",
+          "key": "60_CR130",
+          "doi-asserted-by": "publisher",
+          "first-page": "1198",
+          "DOI": "10.1093/jnci/80.15.1198",
+          "volume": "80",
+          "author": "FEJ Harrell",
+          "year": "1988",
+          "unstructured": "Harrell FEJ, Lee KL, Pollock BG. Regression models in clinical studies: determining relationships between predictors and response. J Natl Cancer Inst. 1988;80(15):1198–202.",
+          "journal-title": "J Natl Cancer Inst"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR131",
+          "first-page": "429",
+          "volume": "43",
+          "author": "P Royston",
+          "year": "1994",
+          "unstructured": "Royston P, Altman DG. Regression using fractional polynomials of continuous covariates: parsimonious parametric modelling. J R Stat Soc Ser C Appl Stat. 1994;43(3):429–67.",
+          "journal-title": "J R Stat Soc Ser C Appl Stat."
+        },
+        {
+          "issue": "11–12",
+          "key": "60_CR132",
+          "doi-asserted-by": "publisher",
+          "first-page": "1150",
+          "DOI": "10.1002/sim.4371",
+          "volume": "31",
+          "author": "G Ambler",
+          "year": "2012",
+          "unstructured": "Ambler G, Seaman S, Omar RZ. An evaluation of penalised survival methods for developing prognostic models with rare events. Stat Med. 2012;31(11–12):1150–61.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR133",
+          "first-page": "191",
+          "volume": "41",
+          "author": "S Le Cessie",
+          "year": "1992",
+          "unstructured": "Le Cessie S, Van Houwelingen JC. Ridge estimators in logistic regression. J R Stat Soc Ser C Appl Stat. 1992;41(1):191–201.",
+          "journal-title": "J R Stat Soc Ser C Appl Stat"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR134",
+          "doi-asserted-by": "crossref",
+          "first-page": "267",
+          "DOI": "10.1111/j.2517-6161.1996.tb02080.x",
+          "volume": "58",
+          "author": "R Tibshirani",
+          "year": "1996",
+          "unstructured": "Tibshirani R. Regression shrinkage and selection via the lasso. J R Stat Soc Series B Stat Methodol. 1996;58(1):267–88.",
+          "journal-title": "J R Stat Soc Series B Stat Methodol"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR135",
+          "doi-asserted-by": "publisher",
+          "first-page": "1265",
+          "DOI": "10.2307/2531779",
+          "volume": "45",
+          "author": "DW Hosmer",
+          "year": "1989",
+          "unstructured": "Hosmer DW, Jovanovic B, Lemeshow S. Best subsets logistic regression. Biometrics. 1989;45(4):1265–70.",
+          "journal-title": "Biometrics."
+        },
+        {
+          "issue": "3",
+          "key": "60_CR136",
+          "doi-asserted-by": "publisher",
+          "first-page": "621",
+          "DOI": "10.1080/00401706.1970.10488701",
+          "volume": "12",
+          "author": "N Mantel",
+          "year": "1970",
+          "unstructured": "Mantel N. Why stepdown procedures in variable selection. Technometrics. 1970;12(3):621–5.",
+          "journal-title": "Technometrics."
+        },
+        {
+          "issue": "3",
+          "key": "60_CR137",
+          "doi-asserted-by": "publisher",
+          "first-page": "473",
+          "DOI": "10.1373/clinchem.2003.024752",
+          "volume": "50",
+          "author": "KG Moons",
+          "year": "2004",
+          "unstructured": "Moons KG, Biesheuvel CJ, Grobbee DE. Test research versus diagnostic research. Clin Chem. 2004;50(3):473–6.",
+          "journal-title": "Clin Chem"
+        },
+        {
+          "issue": "10",
+          "key": "60_CR138",
+          "doi-asserted-by": "publisher",
+          "first-page": "935",
+          "DOI": "10.1016/S0895-4356(99)00103-1",
+          "volume": "52",
+          "author": "EW Steyerberg",
+          "year": "1999",
+          "unstructured": "Steyerberg EW, Eijkemans MJC, Habbema JDF. Stepwise selection in small data sets: a simulation study of bias in logistic regression analysis. J Clin Epidemiol. 1999;52(10):935–42.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "12",
+          "key": "60_CR139",
+          "doi-asserted-by": "publisher",
+          "first-page": "1464",
+          "DOI": "10.1016/j.jclinepi.2011.06.016",
+          "volume": "64",
+          "author": "EW Steyerberg",
+          "year": "2011",
+          "unstructured": "Steyerberg EW, Schemper M, Harrell FE. Logistic regression modeling and the number of events per variable: selection bias dominates. J Clin Epidemiol. 2011;64(12):1464–5.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "60_CR140",
+          "doi-asserted-by": "publisher",
+          "first-page": "38",
+          "DOI": "10.1016/j.jclinepi.2018.05.008",
+          "volume": "102",
+          "author": "Rebecca Whittle",
+          "year": "2018",
+          "unstructured": "Whittle R, Peat G, Belcher J, Collins GS, Riley RD. Measurement error and timing of predictor values for multivariable risk prediction models are poorly reported. J Clin Epidemiol. 2018. https://doi.org/10.1016/j.jclinepi.2018.05.008 .",
+          "journal-title": "Journal of Clinical Epidemiology"
+        },
+        {
+          "key": "60_CR141",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Luijken K, Groenwold RHH, van Calster B, Steyerberg EW, van Smeden M. Impact of predictor measurement heterogeneity across settings on performance of prediction models: a measurement error perspective. arXiv:180610495 [statME]. 2018:arXiv:1806.10495.",
+          "DOI": "10.1002/sim.8183"
+        },
+        {
+          "issue": "2",
+          "key": "60_CR142",
+          "doi-asserted-by": "publisher",
+          "first-page": "174",
+          "DOI": "10.1017/S1481803500009891",
+          "volume": "10",
+          "author": "A Worster",
+          "year": "2008",
+          "unstructured": "Worster A, Carpenter C. Incorporation bias in studies of diagnostic tests: how to avoid being biased about bias. CJEM. 2008;10(2):174–5.",
+          "journal-title": "CJEM."
+        },
+        {
+          "issue": "7",
+          "key": "60_CR143",
+          "doi-asserted-by": "publisher",
+          "first-page": "633",
+          "DOI": "10.1016/S0895-4356(02)00408-0",
+          "volume": "55",
+          "author": "KG Moons",
+          "year": "2002",
+          "unstructured": "Moons KG, Grobbee DE. When should we remain blind and when should our eyes remain open in diagnostic studies? J Clin Epidemiol. 2002;55(7):633–6.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR144",
+          "doi-asserted-by": "publisher",
+          "first-page": "286",
+          "DOI": "10.1214/15-AOAS891",
+          "volume": "10",
+          "author": "LE Wang",
+          "year": "2016",
+          "unstructured": "Wang LE, Shaw PA, Mathelier HM, Kimmel SE, French B. Evaluating risk-prediction models using data from electronic health records. Ann Appl Stat. 2016;10(1):286–304.",
+          "journal-title": "Ann Appl Stat"
+        },
+        {
+          "key": "60_CR145",
+          "doi-asserted-by": "publisher",
+          "first-page": "18",
+          "DOI": "10.1186/s41512-017-0018-x",
+          "volume": "1",
+          "author": "S van Doorn",
+          "year": "2017",
+          "unstructured": "van Doorn S, Brakenhoff TB, Moons KGM, Rutten FH, Hoes AW, Groenwold RHH, Geersing GJ. The effects of misclassification in routine healthcare databases on the accuracy of prognostic prediction models: a case study of the CHA2DS2-VASc score in atrial fibrillation. BMC Diagn Progn Res. 2017;1:18.",
+          "journal-title": "BMC Diagn Progn Res."
+        },
+        {
+          "issue": "9",
+          "key": "60_CR146",
+          "doi-asserted-by": "publisher",
+          "first-page": "826",
+          "DOI": "10.1016/S0895-4356(03)00207-5",
+          "volume": "56",
+          "author": "SE Bleeker",
+          "year": "2003",
+          "unstructured": "Bleeker SE, Moll HA, Steyerberg EW, Donders AR, Derksen-Lubsen G, Grobbee DE, Moons KG. External validation is necessary in prediction research: a clinical example. J Clin Epidemiol. 2003;56(9):826–32.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "6",
+          "key": "60_CR147",
+          "doi-asserted-by": "publisher",
+          "first-page": "515",
+          "DOI": "10.7326/0003-4819-130-6-199903160-00016",
+          "volume": "130",
+          "author": "AC Justice",
+          "year": "1999",
+          "unstructured": "Justice AC, Covinsky KE, Berlin JA. Assessing the generalizability of prognostic information. Ann Intern Med. 1999;130(6):515–24.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "issue": "11",
+          "key": "60_CR148",
+          "doi-asserted-by": "publisher",
+          "first-page": "1085",
+          "DOI": "10.1016/j.jclinepi.2008.04.008",
+          "volume": "61",
+          "author": "DB Toll",
+          "year": "2008",
+          "unstructured": "Toll DB, Janssen KJ, Vergouwe Y, Moons KG. Validation, updating and impact of clinical prediction rules: a review. J Clin Epidemiol. 2008;61(11):1085–94.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "8",
+          "key": "60_CR149",
+          "doi-asserted-by": "publisher",
+          "first-page": "774",
+          "DOI": "10.1016/S0895-4356(01)00341-9",
+          "volume": "54",
+          "author": "EW Steyerberg",
+          "year": "2001",
+          "unstructured": "Steyerberg EW, Harrell FE Jr, Borsboom GJ, Eijkemans MJ, Vergouwe Y, Habbema JD. Internal validation of predictive models: efficiency of some procedures for logistic regression analysis. J Clin Epidemiol. 2001;54(8):774–81.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "60_CR150",
+          "doi-asserted-by": "publisher",
+          "first-page": "131",
+          "DOI": "10.1016/j.jclinepi.2018.07.010",
+          "volume": "103",
+          "author": "Ewout W. Steyerberg",
+          "year": "2018",
+          "unstructured": "Steyerberg EW. Validation in prediction research: the waste by data-splitting. J Clin Epidemiol. 2018. https://doi.org/10.1016/j.jclinepi.2018.07.010 .",
+          "journal-title": "Journal of Clinical Epidemiology"
+        },
+        {
+          "key": "60_CR151",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-1-4899-4541-9",
+          "volume-title": "An introduction to the bootstrap",
+          "author": "B Efron",
+          "year": "1993",
+          "unstructured": "Efron B, Tibshirani R. An introduction to the bootstrap. Boca Raton: Chapman & Hall/CRC; 1993."
+        },
+        {
+          "issue": "4",
+          "key": "60_CR152",
+          "doi-asserted-by": "publisher",
+          "first-page": "457",
+          "DOI": "10.1002/bimj.200810443",
+          "volume": "50",
+          "author": "TA Gerds",
+          "year": "2008",
+          "unstructured": "Gerds TA, Cai T, Schumacher M. The performance of risk prediction models. Biom J. 2008;50(4):457–79.",
+          "journal-title": "Biom J"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR153",
+          "doi-asserted-by": "publisher",
+          "first-page": "517",
+          "DOI": "10.1002/sim.5941",
+          "volume": "33",
+          "author": "PC Austin",
+          "year": "2014",
+          "unstructured": "Austin PC, Steyerberg EW. Graphical assessment of internal and external calibration of logistic regression models by using loess smoothers. Stat Med. 2014;33(3):517–35.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "60_CR154",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/0471722146",
+          "volume-title": "Applied logistic regression",
+          "author": "DW Hosmer",
+          "year": "2000",
+          "unstructured": "Hosmer DW, Lemeshow S. Applied logistic regression. New York: Wiley; 2000."
+        },
+        {
+          "key": "60_CR155",
+          "doi-asserted-by": "publisher",
+          "first-page": "167",
+          "DOI": "10.1016/j.jclinepi.2015.12.005",
+          "volume": "74",
+          "author": "B Van Calster",
+          "year": "2016",
+          "unstructured": "Van Calster B, Nieboer D, Vergouwe Y, De Cock B, Pencina MJ, Steyerberg EW. A calibration hierarchy for risk models was defined: from utopia to empirical data. J Clin Epidemiol. 2016;74:167–76.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "10",
+          "key": "60_CR156",
+          "doi-asserted-by": "publisher",
+          "first-page": "1063",
+          "DOI": "10.1001/jama.2015.11082",
+          "volume": "314",
+          "author": "MJ Pencina",
+          "year": "2015",
+          "unstructured": "Pencina MJ, D'Agostino RBS. Evaluating discrimination of risk prediction models: the C statistic. JAMA. 2015;314(10):1063–4.",
+          "journal-title": "JAMA."
+        },
+        {
+          "issue": "1",
+          "key": "60_CR157",
+          "doi-asserted-by": "publisher",
+          "first-page": "29",
+          "DOI": "10.1148/radiology.143.1.7063747",
+          "volume": "143",
+          "author": "JA Hanley",
+          "year": "1982",
+          "unstructured": "Hanley JA, McNeil BJ. The meaning and use of the area under a receiver operating characteristic (ROC) curve. Radiology. 1982;143(1):29–36.",
+          "journal-title": "Radiology."
+        },
+        {
+          "key": "60_CR158",
+          "doi-asserted-by": "publisher",
+          "first-page": "411",
+          "DOI": "10.1093/acprof:oso/9780199239481.003.024",
+          "volume-title": "Teaching epidemiology: a guide for teachers in epidemiology, public health and clinical medicine",
+          "author": "JA Baron",
+          "year": "2010",
+          "unstructured": "Baron JA, Sorensen HT. Clinical epidemiology. In: Olsen J, Saracci R, Trichopoulos D, editors. Teaching epidemiology: a guide for teachers in epidemiology, public health and clinical medicine. New York: Oxford University Press; 2010. p. 411–28."
+        },
+        {
+          "issue": "2",
+          "key": "60_CR159",
+          "doi-asserted-by": "publisher",
+          "first-page": "162",
+          "DOI": "10.1177/0272989X14547233",
+          "volume": "35",
+          "author": "B Van Calster",
+          "year": "2014",
+          "unstructured": "Van Calster B, Vickers AJ. Calibration of risk prediction models: impact on decision-analytic performance. Med Decis Mak. 2014;35(2):162–9.",
+          "journal-title": "Med Decis Mak"
+        },
+        {
+          "issue": "10",
+          "key": "60_CR160",
+          "doi-asserted-by": "publisher",
+          "first-page": "1068",
+          "DOI": "10.1001/jama.2016.20441",
+          "volume": "317",
+          "author": "WJ Meurer",
+          "year": "2017",
+          "unstructured": "Meurer WJ, Tolles J. Logistic regression diagnostics: understanding how well a model predicts outcomes. JAMA. 2017;317(10):1068–9.",
+          "journal-title": "JAMA."
+        },
+        {
+          "issue": "1",
+          "key": "60_CR161",
+          "doi-asserted-by": "publisher",
+          "first-page": "45",
+          "DOI": "10.4103/0301-4738.37595",
+          "volume": "56",
+          "author": "R Parikh",
+          "year": "2008",
+          "unstructured": "Parikh R, Mathai A, Parikh S, Chandra Sekhar G, Thomas R. Understanding and using sensitivity, specificity and predictive values. Indian J Ophthalmol. 2008;56(1):45–50.",
+          "journal-title": "Indian J Ophthalmol"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR162",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1136/jcp.2008.061010",
+          "volume": "62",
+          "author": "K Søreide",
+          "year": "2009",
+          "unstructured": "Søreide K. Receiver-operating characteristic curve analysis in diagnostic, prognostic and predictive biomarker research. J Clin Pathol. 2009;62(1):1–5.",
+          "journal-title": "J Clin Pathol"
+        },
+        {
+          "issue": "2",
+          "key": "60_CR163",
+          "doi-asserted-by": "publisher",
+          "first-page": "41",
+          "DOI": "10.1136/ebmed-2014-110140",
+          "volume": "20",
+          "author": "MH Ebell",
+          "year": "2015",
+          "unstructured": "Ebell MH, Locatelli I, Senn N. A novel approach to the determination of clinical decision thresholds. BMJ Evid Based Med. 2015;20(2):41–7.",
+          "journal-title": "BMJ Evid Based Med"
+        },
+        {
+          "issue": "6",
+          "key": "60_CR164",
+          "doi-asserted-by": "publisher",
+          "first-page": "565",
+          "DOI": "10.1177/0272989X06295361",
+          "volume": "26",
+          "author": "AJ Vickers",
+          "year": "2006",
+          "unstructured": "Vickers AJ, Elkin EB. Decision curve analysis: a novel method for evaluating prediction models. Med Decis Mak. 2006;26(6):565–74.",
+          "journal-title": "Med Decis Mak"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR165",
+          "doi-asserted-by": "publisher",
+          "first-page": "729",
+          "DOI": "10.1111/j.1467-985X.2009.00592.x",
+          "volume": "172",
+          "author": "SG Baker",
+          "year": "2009",
+          "unstructured": "Baker SG, Cook NR, Vickers A, Kramer BS. Using relative utility curves to evaluate risk prediction. J R Stat Soc Ser A Stat Soc. 2009;172(4):729–48.",
+          "journal-title": "J R Stat Soc Ser A Stat Soc"
+        },
+        {
+          "key": "60_CR166",
+          "doi-asserted-by": "publisher",
+          "first-page": "i6",
+          "DOI": "10.1136/bmj.i6",
+          "volume": "352",
+          "author": "AJ Vickers",
+          "year": "2016",
+          "unstructured": "Vickers AJ, Van Calster B, Steyerberg EW. Net benefit approaches to the evaluation of prediction models, molecular markers, and diagnostic tests. BMJ. 2016;352:i6.",
+          "journal-title": "BMJ."
+        },
+        {
+          "issue": "1",
+          "key": "60_CR167",
+          "doi-asserted-by": "publisher",
+          "first-page": "37",
+          "DOI": "10.1186/s13012-017-0567-y",
+          "volume": "12",
+          "author": "DA Feldstein",
+          "year": "2017",
+          "unstructured": "Feldstein DA, Hess R, McGinn T, Mishuris RG, McCullagh L, Smith PD, et al. Design and implementation of electronic health record integrated clinical prediction rules (iCPR): a randomized trial in diverse primary care settings. Implement Sci. 2017;12(1):37.",
+          "journal-title": "Implement Sci"
+        },
+        {
+          "issue": "7",
+          "key": "60_CR168",
+          "doi-asserted-by": "publisher",
+          "first-page": "e0132614",
+          "DOI": "10.1371/journal.pone.0132614",
+          "volume": "10",
+          "author": "V Van Belle",
+          "year": "2015",
+          "unstructured": "Van Belle V, Van Calster B. Visualizing risk prediction models. PLoS One. 2015;10(7):e0132614.",
+          "journal-title": "PLoS One"
+        },
+        {
+          "issue": "10",
+          "key": "60_CR169",
+          "doi-asserted-by": "publisher",
+          "first-page": "1631",
+          "DOI": "10.1002/sim.1742",
+          "volume": "23",
+          "author": "LM Sullivan",
+          "year": "2004",
+          "unstructured": "Sullivan LM, Massaro JM, D'Agostino RB. Presentation of multivariate data for clinical use: the Framingham study risk score functions. Stat Med. 2004;23(10):1631–60.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR170",
+          "first-page": "261",
+          "volume": "42",
+          "author": "TJ Cole",
+          "year": "1993",
+          "unstructured": "Cole TJ. Algorithm AS 281: scaling and rounding regression coefficients to integers. J R Stat Soc Ser C Appl Stat. 1993;42(1):261–8.",
+          "journal-title": "J R Stat Soc Ser C Appl Stat."
+        },
+        {
+          "issue": "3",
+          "key": "60_CR171",
+          "doi-asserted-by": "crossref",
+          "first-page": "e666",
+          "DOI": "10.1542/peds.2011-0043",
+          "volume": "128",
+          "author": "JL Maguire",
+          "year": "2011",
+          "unstructured": "Maguire JL, Kulik DM, Laupacis A, Kuppermann N, Uleryk EM, Parkin PC. Clinical prediction rules for children: a systematic review. Pediatrics. 2011;128(3):e666–e77.",
+          "journal-title": "Pediatrics."
+        },
+        {
+          "issue": "4",
+          "key": "60_CR172",
+          "doi-asserted-by": "publisher",
+          "first-page": "359",
+          "DOI": "10.1370/afm.1640",
+          "volume": "12",
+          "author": "C Keogh",
+          "year": "2014",
+          "unstructured": "Keogh C, Wallace E, O'Brien KK, Galvin R, Smith SM, Lewis C, et al. Developing an international register of clinical prediction rules for use in primary care: a descriptive analysis. Ann Fam Med. 2014;12(4):359–66.",
+          "journal-title": "Ann Fam Med"
+        },
+        {
+          "issue": "8",
+          "key": "60_CR173",
+          "doi-asserted-by": "publisher",
+          "first-page": "611",
+          "DOI": "10.1001/jama.1996.03530320035031",
+          "volume": "275",
+          "author": "IG Stiell",
+          "year": "1996",
+          "unstructured": "Stiell IG, Greenberg GH, Wells GA, McDowell I, Cwinn AA, Smith NA, et al. Prospective validation of a decision rule for the use of radiography in acute knee injuries. JAMA. 1996;275(8):611–5.",
+          "journal-title": "JAMA."
+        },
+        {
+          "issue": "5",
+          "key": "60_CR174",
+          "doi-asserted-by": "publisher",
+          "first-page": "475",
+          "DOI": "10.1016/j.jclinepi.2004.06.017",
+          "volume": "58",
+          "author": "Y Vergouwe",
+          "year": "2005",
+          "unstructured": "Vergouwe Y, Steyerberg EW, Eijkemans MJC, Habbema JDF. Substantial effective sample sizes were required for external validation studies of predictive logistic regression models. J Clin Epidemiol. 2005;58(5):475–83.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "2",
+          "key": "60_CR175",
+          "doi-asserted-by": "publisher",
+          "first-page": "214",
+          "DOI": "10.1002/sim.6787",
+          "volume": "35",
+          "author": "GS Collins",
+          "year": "2016",
+          "unstructured": "Collins GS, Ogundimu EO, Altman DG. Sample size considerations for the external validation of a multivariable prognostic model: a resampling study. Stat Med. 2016;35(2):214–26.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "8",
+          "key": "60_CR176",
+          "doi-asserted-by": "publisher",
+          "first-page": "971",
+          "DOI": "10.1093/aje/kwq223",
+          "volume": "172",
+          "author": "Y Vergouwe",
+          "year": "2010",
+          "unstructured": "Vergouwe Y, Moons KGM, Steyerberg EW. External validity of risk models: use of benchmark values to disentangle a case-mix effect from incorrect coefficients. Am J Epidemiol. 2010;172(8):971–80.",
+          "journal-title": "Am J Epidemiol"
+        },
+        {
+          "issue": "23",
+          "key": "60_CR177",
+          "doi-asserted-by": "publisher",
+          "first-page": "4136",
+          "DOI": "10.1002/sim.6997",
+          "volume": "35",
+          "author": "D van Klaveren",
+          "year": "2016",
+          "unstructured": "van Klaveren D, Gönen M, Steyerberg EW, Vergouwe Y. A new concordance measure for risk prediction models in external validation settings. Stat Med. 2016;35(23):4136–52.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "60_CR178",
+          "doi-asserted-by": "publisher",
+          "first-page": "3",
+          "DOI": "10.1186/s41512-018-0025-6",
+          "volume": "2",
+          "author": "J-W Ban",
+          "year": "2018",
+          "unstructured": "Ban J-W, Stevens R, Perera R. Predictors for independent external validation of cardiovascular risk clinical prediction rules: cox proportional hazards regression analyses. BMC Diagn Progn Res. 2018;2:3.",
+          "journal-title": "BMC Diagn Progn Res."
+        },
+        {
+          "issue": "1",
+          "key": "60_CR179",
+          "doi-asserted-by": "publisher",
+          "first-page": "25",
+          "DOI": "10.1016/j.jclinepi.2014.09.007",
+          "volume": "68",
+          "author": "GCM Siontis",
+          "year": "2015",
+          "unstructured": "Siontis GCM, Tzoulaki I, Castaldi PJ, Ioannidis JPA. External validation of new risk prediction models is infrequent and reveals worse prognostic discrimination. J Clin Epidemiol. 2015;68(1):25–34.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR180",
+          "doi-asserted-by": "publisher",
+          "first-page": "76",
+          "DOI": "10.1016/j.jclinepi.2007.04.018",
+          "volume": "61",
+          "author": "KJM Janssen",
+          "year": "2008",
+          "unstructured": "Janssen KJM, Moons KGM, Kalkman CJ, Grobbee DE, Vergouwe Y. Updating methods improved the performance of a clinical prediction model in new patients. J Clin Epidemiol. 2008;61(1):76–86.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "16",
+          "key": "60_CR181",
+          "doi-asserted-by": "publisher",
+          "first-page": "2098",
+          "DOI": "10.1161/01.CIR.99.16.2098",
+          "volume": "99",
+          "author": "J Ivanov",
+          "year": "1999",
+          "unstructured": "Ivanov J, Tu JV, Naylor CD. Ready-made, recalibrated, or remodeled? Issues in the use of risk indexes for assessing mortality after coronary artery bypass graft surgery. Circulation. 1999;99(16):2098–104.",
+          "journal-title": "Circulation."
+        },
+        {
+          "issue": "16",
+          "key": "60_CR182",
+          "doi-asserted-by": "publisher",
+          "first-page": "2567",
+          "DOI": "10.1002/sim.1844",
+          "volume": "23",
+          "author": "EW Steyerberg",
+          "year": "2004",
+          "unstructured": "Steyerberg EW, Borsboom GJ, van Houwelingen HC, Eijkemans MJ, Habbema JD. Validation and updating of predictive logistic regression models: a study on sample size and shrinkage. Stat Med. 2004;23(16):2567–86.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR183",
+          "doi-asserted-by": "publisher",
+          "first-page": "837",
+          "DOI": "10.2307/2531595",
+          "volume": "44",
+          "author": "ER DeLong",
+          "year": "1988",
+          "unstructured": "DeLong ER, DeLong DM, Clarke-Pearson DL. Comparing the areas under two or more correlated receiver operating characteristic curves: a nonparametric approach. Biometrics. 1988;44(3):837–45.",
+          "journal-title": "Biometrics."
+        },
+        {
+          "issue": "23",
+          "key": "60_CR184",
+          "doi-asserted-by": "publisher",
+          "first-page": "2577",
+          "DOI": "10.1002/sim.5328",
+          "volume": "31",
+          "author": "OV Demler",
+          "year": "2012",
+          "unstructured": "Demler OV, Pencina MJ, D’Agostino RBS. Misuse of DeLong test to compare AUCs for nested models. Stat Med. 2012;31(23):2577–87.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "2",
+          "key": "60_CR185",
+          "doi-asserted-by": "publisher",
+          "first-page": "157",
+          "DOI": "10.1002/sim.2929",
+          "volume": "27",
+          "author": "MJ Pencina",
+          "year": "2008",
+          "unstructured": "Pencina MJ, D'Agostino RB Sr, D'Agostino RB Jr, Vasan RS. Evaluating the added predictive ability of a new marker: from area under the ROC curve to reclassification and beyond. Stat Med. 2008;27(2):157–72.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR186",
+          "doi-asserted-by": "publisher",
+          "first-page": "490",
+          "DOI": "10.1177/0272989X12470757",
+          "volume": "33",
+          "author": "B Van Calster",
+          "year": "2013",
+          "unstructured": "Van Calster B, Vickers AJ, Pencina MJ, Baker SG, Timmerman D, Steyerberg EW. Evaluation of markers and risk prediction models: overview of relationships between NRI and decision-analytic measures. Med Decis Mak. 2013;33(4):490–501.",
+          "journal-title": "Med Decis Mak"
+        },
+        {
+          "issue": "19",
+          "key": "60_CR187",
+          "doi-asserted-by": "publisher",
+          "first-page": "3415",
+          "DOI": "10.1002/sim.6133",
+          "volume": "33",
+          "author": "MJ Leening",
+          "year": "2014",
+          "unstructured": "Leening MJ, Steyerberg EW, Van Calster B, D’Agostino RB Sr, Pencina MJ. Net reclassification improvement and integrated discrimination improvement require calibrated models: relevance from a marker and model perspective. Stat Med. 2014;33(19):3415–8.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "2",
+          "key": "60_CR188",
+          "doi-asserted-by": "publisher",
+          "first-page": "122",
+          "DOI": "10.7326/M13-1522",
+          "volume": "160",
+          "author": "MJ Leening",
+          "year": "2014",
+          "unstructured": "Leening MJ, Vedder MM, Witteman JC, Pencina MJ, Steyerberg EW. Net reclassification improvement: computation, interpretation, and controversies: a literature review and clinician's guide. Ann Intern Med. 2014;160(2):122–31.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "issue": "2",
+          "key": "60_CR189",
+          "doi-asserted-by": "publisher",
+          "first-page": "282",
+          "DOI": "10.1007/s12561-014-9118-0",
+          "volume": "7",
+          "author": "MS Pepe",
+          "year": "2015",
+          "unstructured": "Pepe MS, Fan J, Feng Z, Gerds T, Hilden J. The net reclassification index (NRI): a misleading measure of prediction improvement even with independent test data sets. Stat Biosci. 2015;7(2):282–95.",
+          "journal-title": "Stat Biosci"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR190",
+          "first-page": "11",
+          "volume": "156",
+          "author": "PM Burch",
+          "year": "2017",
+          "unstructured": "Burch PM, Glaab WE, Holder DJ, Phillips JA, Sauer JM, Walker EG. Net reclassification index and integrated discrimination index are not appropriate for testing whether a biomarker improves predictive performance. Toxicol Sci. 2017;156(1):11–3.",
+          "journal-title": "Toxicol Sci"
+        },
+        {
+          "issue": "19",
+          "key": "60_CR191",
+          "doi-asserted-by": "publisher",
+          "first-page": "3405",
+          "DOI": "10.1002/sim.5804",
+          "volume": "33",
+          "author": "J Hilden",
+          "year": "2014",
+          "unstructured": "Hilden J, Gerds TA. A note on the evaluation of novel biomarkers: do not rely on integrated discrimination improvement and net reclassification index. Stat Med. 2014;33(19):3405–14.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "60_CR192",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Antolini L, Tassistro E, Valsecchi MG, Bernasconi DP. Graphical representations and summary indicators to assess the performance of risk predictors. Biom J. 2018. https://doi.org/10.1002/bimj.201700186 .",
+          "DOI": "10.1002/bimj.201700186"
+        },
+        {
+          "key": "60_CR193",
+          "doi-asserted-by": "publisher",
+          "first-page": "e3318",
+          "DOI": "10.1136/bmj.e3318",
+          "volume": "344",
+          "author": "GC Siontis",
+          "year": "2012",
+          "unstructured": "Siontis GC, Tzoulaki I, Siontis KC, Ioannidis JP. Comparisons of established risk prediction models for cardiovascular disease: systematic review. BMJ. 2012;344:e3318.",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "60_CR194",
+          "doi-asserted-by": "publisher",
+          "first-page": "14",
+          "DOI": "10.1186/s41512-018-0037-2",
+          "volume": "2",
+          "author": "NR Cook",
+          "year": "2018",
+          "unstructured": "Cook NR. Quantifying the added value of new biomarkers: how and how not. BMC Diagn Progn Res. 2018;2:14.",
+          "journal-title": "BMC Diagn Progn Res."
+        },
+        {
+          "key": "60_CR195",
+          "doi-asserted-by": "publisher",
+          "first-page": "e686",
+          "DOI": "10.1136/bmj.e686",
+          "volume": "344",
+          "author": "L Ferrante di Ruffano",
+          "year": "2012",
+          "unstructured": "Ferrante di Ruffano L, Hyde CJ, McCaffery KJ, Bossuyt PMM, Deeks JJ. Assessing the value of diagnostic tests: a framework for designing and evaluating trials. BMJ. 2012;344:e686.",
+          "journal-title": "BMJ."
+        },
+        {
+          "issue": "3",
+          "key": "60_CR196",
+          "doi-asserted-by": "publisher",
+          "first-page": "271",
+          "DOI": "10.1080/19439340903114628",
+          "volume": "1",
+          "author": "H White",
+          "year": "2009",
+          "unstructured": "White H. Theory-based impact evaluation: principles and practice. J Dev Effect. 2009;1(3):271–84.",
+          "journal-title": "J Dev Effect"
+        },
+        {
+          "key": "60_CR197",
+          "doi-asserted-by": "publisher",
+          "first-page": "h1258",
+          "DOI": "10.1136/bmj.h1258",
+          "volume": "350",
+          "author": "GF Moore",
+          "year": "2015",
+          "unstructured": "Moore GF, Audrey S, Barker M, Bond L, Bonell C, Hardeman W, et al. Process evaluation of complex interventions: Medical Research Council guidance. BMJ. 2015;350:h1258.",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "60_CR198",
+          "unstructured": "Dowding D, Lichtner V, Closs SJ. Using the MRC framework for complex interventions to develop clinical decision support: a case study. Stud Health Technol Inform. 2017;235:544-8."
+        },
+        {
+          "key": "60_CR199",
+          "doi-asserted-by": "publisher",
+          "first-page": "d7163",
+          "DOI": "10.1136/bmj.d7163",
+          "volume": "343",
+          "author": "D Noble",
+          "year": "2011",
+          "unstructured": "Noble D, Mathur R, Dent T, Meads C, Greenhalgh T. Risk models and scores for type 2 diabetes: systematic review. BMJ. 2011;343:d7163.",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "60_CR200",
+          "doi-asserted-by": "publisher",
+          "first-page": "106",
+          "DOI": "10.1186/s12911-016-0343-y",
+          "volume": "16",
+          "author": "B Brown",
+          "year": "2016",
+          "unstructured": "Brown B, Cheraghi-Sohi S, Jaki T, Su T-L, Buchan I, Sperrin M. Understanding clinical prediction models as ‘innovations’: a mixed methods study in UK family practice. BMC Med Inform Decis Mak. 2016;16:106.",
+          "journal-title": "BMC Med Inform Decis Mak."
+        },
+        {
+          "key": "60_CR201",
+          "doi-asserted-by": "publisher",
+          "first-page": "a1655",
+          "DOI": "10.1136/bmj.a1655",
+          "volume": "337",
+          "author": "P Craig",
+          "year": "2008",
+          "unstructured": "Craig P, Dieppe P, Macintyre S, Michie S, Nazareth I, Petticrew M. Developing and evaluating complex interventions: the new Medical Research Council guidance. BMJ. 2008;337:a1655.",
+          "journal-title": "BMJ."
+        },
+        {
+          "issue": "6",
+          "key": "60_CR202",
+          "doi-asserted-by": "publisher",
+          "first-page": "528",
+          "DOI": "10.1007/BF02600886",
+          "volume": "5",
+          "author": "TH Lee",
+          "year": "1990",
+          "unstructured": "Lee TH. Evaluating decision aids. J Gen Intern Med. 1990;5(6):528–9.",
+          "journal-title": "J Gen Intern Med"
+        },
+        {
+          "issue": "2",
+          "key": "60_CR203",
+          "doi-asserted-by": "publisher",
+          "first-page": "252",
+          "DOI": "10.1093/bja/aeu321",
+          "volume": "114",
+          "author": "TH Kappen",
+          "year": "2015",
+          "unstructured": "Kappen TH, Vergouwe Y, van Wolfswinkel L, Kalkman CJ, Moons KG, van Klei WA. Impact of adding therapeutic recommendations to risk assessments from a prediction model for postoperative nausea and vomiting. Br J Anaesth. 2015;114(2):252–60.",
+          "journal-title": "Br J Anaesth"
+        },
+        {
+          "issue": "7435",
+          "key": "60_CR204",
+          "doi-asserted-by": "publisher",
+          "first-page": "343",
+          "DOI": "10.1136/bmj.328.7435.343",
+          "volume": "328",
+          "author": "S Michie",
+          "year": "2004",
+          "unstructured": "Michie S, Johnston M. Changing clinical behaviour by making guidelines specific. BMJ. 2004;328(7435):343–5.",
+          "journal-title": "BMJ."
+        },
+        {
+          "issue": "3",
+          "key": "60_CR205",
+          "doi-asserted-by": "publisher",
+          "first-page": "e009957",
+          "DOI": "10.1136/bmjopen-2015-009957",
+          "volume": "6",
+          "author": "E Wallace",
+          "year": "2016",
+          "unstructured": "Wallace E, Uijen MJM, Clyne B, Zarabzadeh A, Keogh C, Galvin R, et al. Impact analysis studies of clinical prediction rules relevant to primary care: a systematic review. BMJ Open. 2016;6(3):e009957.",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "60_CR206",
+          "doi-asserted-by": "publisher",
+          "first-page": "13",
+          "DOI": "10.1186/s41512-017-0013-2",
+          "volume": "1",
+          "author": "SL Sanders",
+          "year": "2017",
+          "unstructured": "Sanders SL, Rathbone J, Bell KJL, Glasziou PP, Doust JA. Systematic review of the effects of care provided with and without diagnostic clinical prediction rules. BMC Diagn Progn Res. 2017;1:13.",
+          "journal-title": "BMC Diagn Progn Res."
+        },
+        {
+          "issue": "6",
+          "key": "60_CR207",
+          "doi-asserted-by": "publisher",
+          "first-page": "717",
+          "DOI": "10.1097/ACO.0000000000000386",
+          "volume": "29",
+          "author": "T Kappen",
+          "year": "2016",
+          "unstructured": "Kappen T, Peelen LM. Prediction models: the right tool for the right problem. Curr Opin Anesthesiol. 2016;29(6):717–26.",
+          "journal-title": "Curr Opin Anesthesiol"
+        },
+        {
+          "issue": "7441",
+          "key": "60_CR208",
+          "doi-asserted-by": "publisher",
+          "first-page": "702",
+          "DOI": "10.1136/bmj.328.7441.702",
+          "volume": "328",
+          "author": "MK Campbell",
+          "year": "2004",
+          "unstructured": "Campbell MK, Elbourne DR, Altman DG. CONSORT statement: extension to cluster randomised trials. BMJ. 2004;328(7441):702–8.",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "60_CR209",
+          "doi-asserted-by": "publisher",
+          "first-page": "h391",
+          "DOI": "10.1136/bmj.h391",
+          "volume": "350",
+          "author": "K Hemming",
+          "year": "2015",
+          "unstructured": "Hemming K, Haines TP, Chilton PJ, Girling AJ, Lilford RJ. The stepped wedge cluster randomised trial: rationale, design, analysis, and reporting. BMJ. 2015;350:h391.",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "60_CR210",
+          "doi-asserted-by": "publisher",
+          "first-page": "77",
+          "DOI": "10.1186/1471-2261-13-77",
+          "volume": "13",
+          "author": "JM Poldervaart",
+          "year": "2013",
+          "unstructured": "Poldervaart JM, Reitsma JB, Koffijberg H, Backus BE, Six AJ, Doevendans PA, Hoes AW. The impact of the HEART risk score in the early assessment of patients with acute chest pain: design of a stepped wedge, cluster randomised trial. BMC Cardiovasc Disord. 2013;13:77.",
+          "journal-title": "BMC Cardiovasc Disord"
+        },
+        {
+          "key": "60_CR211",
+          "volume-title": "Cluster randomised trials",
+          "author": "RJ Hayes",
+          "year": "2017",
+          "unstructured": "Hayes RJ, Moulton LH. Cluster randomised trials. Boca Raton: CRC Press; 2017."
+        },
+        {
+          "issue": "7441",
+          "key": "60_CR212",
+          "doi-asserted-by": "publisher",
+          "first-page": "702",
+          "DOI": "10.1136/bmj.328.7441.702",
+          "volume": "328",
+          "author": "MK Campbell",
+          "year": "2004",
+          "unstructured": "Campbell MK, Elbourne DR, Altman DG. CONSORT group. CONSORT statement: extension to cluster randomised trials. BMJ. 2004;328(7441):702–8.",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR213",
+          "doi-asserted-by": "publisher",
+          "first-page": "1051",
+          "DOI": "10.1093/ije/dyv113",
+          "volume": "44",
+          "author": "C Rutterford",
+          "year": "2015",
+          "unstructured": "Rutterford C, Copas A, Eldridge S. Methods for sample size determination in cluster randomized trials. Int J Epidemiol. 2015;44(3):1051–67.",
+          "journal-title": "Int J Epidemiol"
+        },
+        {
+          "key": "60_CR214",
+          "doi-asserted-by": "publisher",
+          "first-page": "j3064",
+          "DOI": "10.1136/bmj.j3064",
+          "volume": "358",
+          "author": "K Hemming",
+          "year": "2017",
+          "unstructured": "Hemming K, Eldridge S, Forbes G, Weijer C, Taljaard M. How to design efficient cluster randomised trials. BMJ. 2017;358:j3064.",
+          "journal-title": "BMJ."
+        },
+        {
+          "issue": "12",
+          "key": "60_CR215",
+          "doi-asserted-by": "publisher",
+          "first-page": "1248",
+          "DOI": "10.1016/j.jclinepi.2009.01.008",
+          "volume": "62",
+          "author": "JD Schaafsma",
+          "year": "2009",
+          "unstructured": "Schaafsma JD, van der Graaf Y, Rinkel GJ, Buskens E. Decision analysis to complete diagnostic research by closing the gap between test characteristics and cost-effectiveness. J Clin Epidemiol. 2009;62(12):1248–52.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "60_CR216",
+          "doi-asserted-by": "publisher",
+          "first-page": "12",
+          "DOI": "10.1186/1471-2288-13-12",
+          "volume": "13",
+          "author": "H Koffijberg",
+          "year": "2013",
+          "unstructured": "Koffijberg H, van Zaane B, Moons KG. From accuracy to patient outcome and cost-effectiveness evaluations of diagnostic tests and biomarkers: an exemplary modelling study. BMC Med Res Methodol. 2013;13:12.",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "60_CR217",
+          "doi-asserted-by": "publisher",
+          "first-page": "267",
+          "DOI": "10.1016/j.jclinepi.2015.06.012",
+          "volume": "69",
+          "author": "KC Siontis",
+          "year": "2016",
+          "unstructured": "Siontis KC, Siontis GC, Contopoulos-Ioannidis DG, Ioannidis JP. Reply to letter by Ferrante di Ruffano et al.: patient outcomes in randomized comparisons of diagnostic tests are still the ultimate judge. J Clin Epidemiol. 2016;69:267–8.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "60_CR218",
+          "doi-asserted-by": "publisher",
+          "first-page": "c869",
+          "DOI": "10.1136/bmj.c869",
+          "volume": "340",
+          "author": "D Moher",
+          "year": "2010",
+          "unstructured": "Moher D, Hopewell S, Schulz KF, Montori V, Gøtzsche PC, Devereaux PJ, et al. CONSORT 2010 explanation and elaboration: updated guidelines for reporting parallel group randomised trials. BMJ. 2010;340:c869.",
+          "journal-title": "BMJ."
+        },
+        {
+          "issue": "3",
+          "key": "60_CR219",
+          "doi-asserted-by": "publisher",
+          "first-page": "342",
+          "DOI": "10.1001/jama.288.3.342",
+          "volume": "288",
+          "author": "BM Reilly",
+          "year": "2002",
+          "unstructured": "Reilly BM, Evans AT, Schaider JJ, Das K, Calvin JE, Moran LA, et al. Impact of a clinical decision rule on hospital triage of patients with suspected acute cardiac ischemia in the emergency department. JAMA. 2002;288(3):342–50.",
+          "journal-title": "JAMA."
+        },
+        {
+          "key": "60_CR220",
+          "doi-asserted-by": "publisher",
+          "first-page": "192",
+          "DOI": "10.1016/j.chiabu.2018.04.022",
+          "volume": "81",
+          "author": "LE Cowley",
+          "year": "2018",
+          "unstructured": "Cowley LE, Maguire S, Farewell DM, Quinn-Scoggins HD, Flynn MO, Kemp AM. Acceptability of the predicting abusive head trauma (PredAHT) clinical prediction tool: a qualitative study with child protection professionals. Child Abuse Negl. 2018;81:192–205.",
+          "journal-title": "Child Abuse Negl"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR221",
+          "doi-asserted-by": "publisher",
+          "first-page": "352",
+          "DOI": "10.1111/acem.12109",
+          "volume": "20",
+          "author": "DW Ballard",
+          "year": "2013",
+          "unstructured": "Ballard DW, Rauchwerger AS, Reed ME, Vinson DR, Mark DG, Offerman SR, et al. Emergency physicians' knowledge and attitudes of clinical decision support in the electronic health record: a survey-based study. Acad Emerg Med. 2013;20(4):352–60.",
+          "journal-title": "Acad Emerg Med"
+        },
+        {
+          "issue": "7",
+          "key": "60_CR222",
+          "doi-asserted-by": "publisher",
+          "first-page": "465",
+          "DOI": "10.1136/emermed-2014-204568",
+          "volume": "33",
+          "author": "EL Johnson",
+          "year": "2016",
+          "unstructured": "Johnson EL, Hollen LI, Kemp AM, Maguire S. Exploring the acceptability of a clinical decision rule to identify paediatric burns due to child abuse or neglect. Emerg Med J. 2016;33(7):465–70.",
+          "journal-title": "Emerg Med J"
+        },
+        {
+          "issue": "7",
+          "key": "60_CR223",
+          "doi-asserted-by": "publisher",
+          "first-page": "1759",
+          "DOI": "10.1016/j.burns.2018.03.013",
+          "volume": "44",
+          "author": "S Mullen",
+          "year": "2018",
+          "unstructured": "Mullen S, Quinn-Scoggins HD, Nuttall D, Kemp AM. Qualitative analysis of clinician experience in utilising the BuRN tool (burns risk assessment for neglect or abuse tool) in clinical practice. Burns. 2018;44(7):1759–66.",
+          "journal-title": "Burns."
+        },
+        {
+          "issue": "2",
+          "key": "60_CR224",
+          "doi-asserted-by": "publisher",
+          "first-page": "142",
+          "DOI": "10.1016/j.math.2013.09.005",
+          "volume": "19",
+          "author": "R Haskins",
+          "year": "2014",
+          "unstructured": "Haskins R, Osmotherly PG, Southgate E, Rivett DA. Physiotherapists' knowledge, attitudes and practices regarding clinical prediction rules for low back pain. Man Ther. 2014;19(2):142–51.",
+          "journal-title": "Man Ther"
+        },
+        {
+          "issue": "8",
+          "key": "60_CR225",
+          "doi-asserted-by": "publisher",
+          "first-page": "e015916",
+          "DOI": "10.1136/bmjopen-2017-015916",
+          "volume": "7",
+          "author": "J Kelly",
+          "year": "2017",
+          "unstructured": "Kelly J, Sterling M, Rebbeck T, Bandong AN, Leaver A, Mackey M, Ritchie C. Health practitioners' perceptions of adopting clinical prediction rules in the management of musculoskeletal pain: a qualitative study in Australia. BMJ Open. 2017;7(8):e015916.",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "issue": "5",
+          "key": "60_CR226",
+          "doi-asserted-by": "publisher",
+          "first-page": "566",
+          "DOI": "10.1111/acem.12923",
+          "volume": "23",
+          "author": "SM Atabaki",
+          "year": "2016",
+          "unstructured": "Atabaki SM, Hoyle JDJ, Schunk JE, Monroe DJ, Alpern ER, Quayle KS, et al. Comparison of prediction rules and clinician suspicion for identifying children with clinically important brain injuries after blunt head trauma. Acad Emerg Med. 2016;23(5):566–75.",
+          "journal-title": "Acad Emerg Med"
+        },
+        {
+          "issue": "9",
+          "key": "60_CR227",
+          "doi-asserted-by": "publisher",
+          "first-page": "1034",
+          "DOI": "10.1111/acem.12739",
+          "volume": "22",
+          "author": "P Mahajan",
+          "year": "2015",
+          "unstructured": "Mahajan P, Kuppermann N, Tunik M, Yen K, Atabaki SM, Lee LK, et al. Comparison of clinician suspicion versus a clinical prediction rule in identifying children at risk for intra-abdominal injuries after blunt torso trauma. Acad Emerg Med. 2015;22(9):1034–41.",
+          "journal-title": "Acad Emerg Med"
+        },
+        {
+          "issue": "2",
+          "key": "60_CR228",
+          "doi-asserted-by": "publisher",
+          "first-page": "95",
+          "DOI": "10.1016/S0002-9343(01)01054-3",
+          "volume": "112",
+          "author": "BM Reilly",
+          "year": "2002",
+          "unstructured": "Reilly BM, Evans AT, Schaider JJ, Wang Y. Triage of patients with chest pain in the emergency department: a comparative study of physicians' decisions. Am J Med. 2002;112(2):95–103.",
+          "journal-title": "Am J Med"
+        },
+        {
+          "issue": "591",
+          "key": "60_CR229",
+          "doi-asserted-by": "publisher",
+          "first-page": "e674",
+          "DOI": "10.3399/bjgp11X601398",
+          "volume": "61",
+          "author": "BD Broekhuizen",
+          "year": "2011",
+          "unstructured": "Broekhuizen BD, Sachs A, Janssen K, Geersing GJ, Moons K, Hoes A, Verheij T. Does a decision aid help physicians to detect chronic obstructive pulmonary disease? Br J Gen Pract. 2011;61(591):e674–e79.",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "issue": "3",
+          "key": "60_CR230",
+          "doi-asserted-by": "publisher",
+          "first-page": "219",
+          "DOI": "10.1016/j.annemergmed.2011.08.015",
+          "volume": "59",
+          "author": "DL Schriger",
+          "year": "2012",
+          "unstructured": "Schriger DL, Newman DH. Medical decisionmaking: let's not forget the physician. Ann Emerg Med. 2012;59(3):219–20.",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "issue": "12",
+          "key": "60_CR231",
+          "doi-asserted-by": "publisher",
+          "first-page": "1406",
+          "DOI": "10.1111/acem.12828",
+          "volume": "22",
+          "author": "N Finnerty",
+          "year": "2015",
+          "unstructured": "Finnerty N, Rodriguez R, Carpenter C, Sun B, Theyyunni N, Ohle R, et al. Clinical decision rules for diagnostic imaging in the emergency department: a research agenda. Acad Emerg Med. 2015;22(12):1406–16.",
+          "journal-title": "Acad Emerg Med"
+        },
+        {
+          "issue": "6",
+          "key": "60_CR232",
+          "doi-asserted-by": "publisher",
+          "first-page": "e0128233",
+          "DOI": "10.1371/journal.pone.0128233",
+          "volume": "10",
+          "author": "S Sanders",
+          "year": "2015",
+          "unstructured": "Sanders S, Doust J, Glasziou P. A systematic review of studies comparing diagnostic clinical prediction rules with clinical judgment. PLoS One. 2015;10(6):e0128233.",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "60_CR233",
+          "doi-asserted-by": "publisher",
+          "first-page": "184",
+          "DOI": "10.1016/j.chiabu.2018.09.017",
+          "volume": "86",
+          "author": "LE Cowley",
+          "year": "2018",
+          "unstructured": "Cowley LE, Farewell DM, Kemp AM. Potential impact of the validated predicting abusive head trauma (PredAHT) clinical prediction tool: a clinical vignette study. Child Abuse Negl. 2018;86:184–96.",
+          "journal-title": "Child Abuse Negl"
+        },
+        {
+          "key": "60_CR234",
+          "doi-asserted-by": "publisher",
+          "first-page": "d1766",
+          "DOI": "10.1136/bmj.d1766",
+          "volume": "342",
+          "author": "S Petrou",
+          "year": "2011",
+          "unstructured": "Petrou S, Gray A. Economic evaluation using decision analytical modelling: design, conduct, analysis, and reporting. BMJ. 2011;342:d1766.",
+          "journal-title": "BMJ."
+        },
+        {
+          "issue": "8 Suppl 2",
+          "key": "60_CR235",
+          "first-page": "II2",
+          "volume": "39",
+          "author": "J Grimshaw",
+          "year": "2001",
+          "unstructured": "Grimshaw J, Shirran L, Thomas R, Mowatt G, Fraser C, Bero L, et al. Changing provider behavior: an overview of systematic reviews of interventions. Med Care. 2001;39(8 Suppl 2):II2–II45.",
+          "journal-title": "Med Care"
+        },
+        {
+          "issue": "11",
+          "key": "60_CR236",
+          "doi-asserted-by": "publisher",
+          "first-page": "955",
+          "DOI": "10.1197/j.aem.2007.06.039",
+          "volume": "14",
+          "author": "IG Stiell",
+          "year": "2007",
+          "unstructured": "Stiell IG, Bennett C. Implementation of clinical decision rules in the emergency department. Acad Emerg Med. 2007;14(11):955–9.",
+          "journal-title": "Acad Emerg Med"
+        },
+        {
+          "issue": "8",
+          "key": "60_CR237",
+          "first-page": "1165",
+          "volume": "160",
+          "author": "C Cameron",
+          "year": "1999",
+          "unstructured": "Cameron C, Naylor CD. No impact from active dissemination of the Ottawa ankle rules: further evidence of the need for local implementation of practice guidelines. CMAJ. 1999;160(8):1165–8.",
+          "journal-title": "CMAJ."
+        },
+        {
+          "issue": "4",
+          "key": "60_CR238",
+          "first-page": "408",
+          "volume": "157",
+          "author": "DA Davis",
+          "year": "1997",
+          "unstructured": "Davis DA, Taylor-Vaisey A. Translating guidelines into practice. A systematic review of theoretic concepts, practical experience and research evidence in the adoption of clinical practice guidelines. CMAJ. 1997;157(4):408–16.",
+          "journal-title": "CMAJ."
+        },
+        {
+          "issue": "17",
+          "key": "60_CR239",
+          "doi-asserted-by": "publisher",
+          "first-page": "1591",
+          "DOI": "10.1001/jamainternmed.2013.8971",
+          "volume": "173",
+          "author": "Mitchell H. Katz",
+          "year": "2013",
+          "unstructured": "Katz MH. Integrating prediction rules into clinical work flow. JAMA Intern Med 2013;173(17):1591–91.",
+          "journal-title": "JAMA Internal Medicine"
+        },
+        {
+          "issue": "7",
+          "key": "60_CR240",
+          "doi-asserted-by": "publisher",
+          "first-page": "709",
+          "DOI": "10.1111/j.1553-2712.2010.00787.x",
+          "volume": "17",
+          "author": "K Boutis",
+          "year": "2010",
+          "unstructured": "Boutis K, Constantine E, Schuh S, Pecaric M, Stephens D, Narayanan UG. Pediatric emergency physician opinions on ankle radiograph clinical decision rules. Acad Emerg Med. 2010;17(7):709–17.",
+          "journal-title": "Acad Emerg Med"
+        },
+        {
+          "issue": "621",
+          "key": "60_CR241",
+          "doi-asserted-by": "publisher",
+          "first-page": "e233",
+          "DOI": "10.3399/bjgp14X677860",
+          "volume": "64",
+          "author": "A Pluddemann",
+          "year": "2014",
+          "unstructured": "Pluddemann A, Wallace E, Bankhead C, Keogh C, Van der Windt D, Lasserson D, et al. Clinical prediction rules in practice: review of clinical guidelines and survey of GPs. Br J Gen Pract. 2014;64(621):e233–e42.",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "key": "60_CR242",
+          "doi-asserted-by": "publisher",
+          "first-page": "136",
+          "DOI": "10.1016/j.jclinepi.2015.09.008",
+          "volume": "70",
+          "author": "TH Kappen",
+          "year": "2016",
+          "unstructured": "Kappen TH, van Loon K, Kappen MA, van Wolfswinkel L, Vergouwe Y, van Klei WA, et al. Barriers and facilitators perceived by physicians when using prediction models in practice. J Clin Epidemiol. 2016;70:136–45.",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "60_CR243",
+          "unstructured": "Keogh C, Fahey T. Clinical prediction rules in primary care: what can be done to maximise their implementation? Clin Evid. 2010. https://core.ac.uk/download/pdf/60774649.pdf . Accessed 12 June 2018."
+        },
+        {
+          "issue": "1",
+          "key": "60_CR244",
+          "doi-asserted-by": "publisher",
+          "first-page": "53",
+          "DOI": "10.1197/j.aem.2006.07.032",
+          "volume": "14",
+          "author": "MS Runyon",
+          "year": "2007",
+          "unstructured": "Runyon MS, Richman PB, Kline JA. Emergency medicine practitioner knowledge and use of decision rules for the evaluation of patients with suspected pulmonary embolism: variations by practice setting and training level. Acad Emerg Med. 2007;14(1):53–7.",
+          "journal-title": "Acad Emerg Med"
+        },
+        {
+          "issue": "5",
+          "key": "60_CR245",
+          "doi-asserted-by": "publisher",
+          "first-page": "241",
+          "DOI": "10.1007/BF02599648",
+          "volume": "9",
+          "author": "SD Pearson",
+          "year": "1994",
+          "unstructured": "Pearson SD, Goldman L, Garcia TB, Cook EF, Lee TH. Physician response to a prediction rule for the triage of emergency department patients with chest pain. J Gen Intern Med. 1994;9(5):241–7.",
+          "journal-title": "J Gen Intern Med"
+        },
+        {
+          "issue": "10",
+          "key": "60_CR246",
+          "doi-asserted-by": "publisher",
+          "first-page": "948",
+          "DOI": "10.1197/j.aem.2005.04.024",
+          "volume": "12",
+          "author": "JC Brehaut",
+          "year": "2005",
+          "unstructured": "Brehaut JC, Stiell IG, Visentin L, Graham ID. Clinical decision rules \"in the real world\": how a widely disseminated rule is used in everyday practice. Acad Emerg Med. 2005;12(10):948–56.",
+          "journal-title": "Acad Emerg Med"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR247",
+          "doi-asserted-by": "publisher",
+          "first-page": "413",
+          "DOI": "10.1197/j.aem.2005.11.080",
+          "volume": "13",
+          "author": "JC Brehaut",
+          "year": "2006",
+          "unstructured": "Brehaut JC, Stiell IG, Graham ID. Will a new clinical decision rule be widely used? The case of the Canadian C-spine rule. Acad Emerg Med. 2006;13(4):413–20.",
+          "journal-title": "Acad Emerg Med"
+        },
+        {
+          "issue": "2",
+          "key": "60_CR248",
+          "doi-asserted-by": "publisher",
+          "first-page": "134",
+          "DOI": "10.1111/j.1553-2712.1998.tb02598.x",
+          "volume": "5",
+          "author": "ID Graham",
+          "year": "1998",
+          "unstructured": "Graham ID, Stiell IG, Laupacis A, O'Connor AM, Wells GA. Emergency physicians' attitudes toward and use of clinical decision rules for radiography. Acad Emerg Med. 1998;5(2):134–40.",
+          "journal-title": "Acad Emerg Med"
+        },
+        {
+          "key": "60_CR249",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Eichler K, Zoller M, Tschudi P, Steurer J. Barriers to apply cardiovascular prediction rules in primary care: a postal survey. BMC Fam Pract. 2007;8:1.",
+          "DOI": "10.1186/1471-2296-8-1"
+        },
+        {
+          "issue": "4",
+          "key": "60_CR250",
+          "doi-asserted-by": "publisher",
+          "first-page": "366",
+          "DOI": "10.5811/westjem.2012.2.6892",
+          "volume": "13",
+          "author": "BG Beutel",
+          "year": "2012",
+          "unstructured": "Beutel BG, Trehan SK, Shalvoy RM, Mello MJ. The Ottawa knee rule: examining use in an academic emergency department. West J Emerg Med. 2012;13(4):366–72.",
+          "journal-title": "West J Emerg Med"
+        },
+        {
+          "issue": "5",
+          "key": "60_CR251",
+          "doi-asserted-by": "publisher",
+          "first-page": "905",
+          "DOI": "10.1016/j.jbi.2013.07.005",
+          "volume": "46",
+          "author": "B Sheehan",
+          "year": "2013",
+          "unstructured": "Sheehan B, Nigrovic LE, Dayan PS, Kuppermann N, Ballard DW, Alessandrini E, et al. Informing the design of clinical decision support services for evaluation of children with minor blunt head trauma in the emergency department: a sociotechnical analysis. J Biomed Inform. 2013;46(5):905–13.",
+          "journal-title": "J Biomed Inform"
+        },
+        {
+          "issue": "1",
+          "key": "60_CR252",
+          "doi-asserted-by": "publisher",
+          "first-page": "31",
+          "DOI": "10.1017/S1041610210001079",
+          "volume": "23",
+          "author": "JT van der Steen",
+          "year": "2011",
+          "unstructured": "van der Steen JT, Albers G, Licht-Strunk E, Muller MT, Ribbe MW. A validated risk score to estimate mortality risk in patients with dementia and pneumonia: barriers to clinical impact. Int Psychogeriatr. 2011;23(1):31–43.",
+          "journal-title": "Int Psychogeriatr"
+        },
+        {
+          "key": "60_CR253",
+          "volume-title": "Clinical prediction rules for assisting diagnosis (doctoral thesis)",
+          "author": "S Sanders",
+          "year": "2015",
+          "unstructured": "Sanders S. Clinical prediction rules for assisting diagnosis (doctoral thesis). Australia: Faculty of Heath Sciences & Medicine, Bond University; 2015."
+        },
+        {
+          "issue": "15",
+          "key": "60_CR254",
+          "doi-asserted-by": "publisher",
+          "first-page": "1458",
+          "DOI": "10.1001/jama.282.15.1458",
+          "volume": "282",
+          "author": "MD Cabana",
+          "year": "1999",
+          "unstructured": "Cabana MD, Rand CS, Powe NR, Wu AW, Wilson MH, Abboud PA, Rubin HR. Why don't physicians follow clinical practice guidelines? A framework for improvement. JAMA. 1999;282(15):1458–65.",
+          "journal-title": "JAMA."
+        }
+      ],
+      "container-title": [
+        "Diagnostic and Prognostic Research"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s41512-019-0060-y.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1186/s41512-019-0060-y/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s41512-019-0060-y.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            22
+          ]
+        ],
+        "date-time": "2024-07-22T10:56:09Z",
+        "timestamp": 1721645769000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://diagnprognres.biomedcentral.com/articles/10.1186/s41512-019-0060-y"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            8,
+            22
+          ]
+        ]
+      },
+      "references-count": 254,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "60"
+      ],
+      "URL": "https://doi.org/10.1186/s41512-019-0060-y",
+      "relation": {},
+      "ISSN": [
+        "2397-7523"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2397-7523"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            8,
+            22
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "13 August 2018",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "12 May 2019",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "22 August 2019",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethics approval and consent to participate"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Consent for publication"
+          }
+        },
+        {
+          "value": "The authors declare that they have no competing interests.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        },
+        {
+          "value": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+          "order": 4,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Publisher’s Note"
+          }
+        }
+      ],
+      "article-number": "16"
+    }
+  }
+}

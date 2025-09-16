@@ -1,0 +1,348 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_7759_cureus_34821.md",
+  "id": "evidence_import_refs_2025_09_12_10_7759_cureus_34821",
+  "doi": "10.7759/cureus.34821",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:09:00.968820Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            28
+          ]
+        ],
+        "date-time": "2024-03-28T18:03:13Z",
+        "timestamp": 1711648993915
+      },
+      "reference-count": 19,
+      "publisher": "Springer Science and Business Media LLC",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            2,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.7759/cureus.34821",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2023,
+            2,
+            10
+          ]
+        ],
+        "date-time": "2023-02-10T02:57:25Z",
+        "timestamp": 1675997845000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 10,
+      "title": [
+        "Lung Cancer With Vertebral Metastases Presenting as Low Back Pain in the Chiropractic Office: A Case Report"
+      ],
+      "prefix": "10.7759",
+      "author": [
+        {
+          "given": "Eric Chun-Pu",
+          "family": "Chu",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Robert J",
+          "family": "Trager",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Wai Ting",
+          "family": "Lee",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Benjamin Kah Chun",
+          "family": "Cheong",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Steve Yun Ming",
+          "family": "Hei",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "reference": [
+        {
+          "key": "ref1",
+          "article-title": "Lung cancer: diagnosis, treatment principles, and screening",
+          "volume": "105",
+          "author": "Kim J",
+          "year": "2022",
+          "unstructured": "Kim J, Lee H, Huang BW. Lung cancer: diagnosis, treatment principles, and screening. Am Fam Physician. 2022, 105:487-94.",
+          "journal-title": "Am Fam Physician"
+        },
+        {
+          "key": "ref2",
+          "unstructured": "Overview of cancer statistics in Hong Kong. (2019). Accessed. February 1, 2023: https://www.cancer.gov.hk/en/hong_kong_cancer/overview_of_cancer_statistics_in_hong_kong.html."
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1053/j.sult.2018.11.009",
+          "article-title": "Spectrum of lung adenocarcinoma",
+          "volume": "40",
+          "author": "Hutchinson BD",
+          "year": "2019",
+          "unstructured": "Hutchinson BD, Shroff GS, Truong MT, Ko JP. Spectrum of lung adenocarcinoma. Semin Ultrasound CT MR. 2019, 40:255-64. 10.1053/j.sult.2018.11.009",
+          "journal-title": "Semin Ultrasound CT MR"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.lungcan.2014.07.020",
+          "article-title": "Metastatic sites and survival in lung cancer",
+          "volume": "86",
+          "author": "Riihimäki M",
+          "year": "2014",
+          "unstructured": "Riihimäki M, Hemminki A, Fallah M, Thomsen H, Sundquist K, Sundquist J, Hemminki K. Metastatic sites and survival in lung cancer. Lung Cancer. 2014, 86:78-84. 10.1016/j.lungcan.2014.07.020",
+          "journal-title": "Lung Cancer"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5306/wjco.v5.i2.149",
+          "article-title": "Bone metastases: when and how lung cancer interacts with bone",
+          "volume": "5",
+          "author": "Roato I",
+          "year": "2014",
+          "unstructured": "Roato I. Bone metastases: when and how lung cancer interacts with bone. World J Clin Oncol. 2014, 5:149-55. 10.5306/wjco.v5.i2.149",
+          "journal-title": "World J Clin Oncol"
+        },
+        {
+          "key": "ref6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1155/2011/107969",
+          "article-title": "Physiopathology of spine metastasis",
+          "volume": "2011",
+          "author": "Maccauro G",
+          "year": "2011",
+          "unstructured": "Maccauro G, Spinelli MS, Mauro S, Perisano C, Graci C, Rosa MA. Physiopathology of spine metastasis. Int J Surg Oncol. 2011, 2011:107969. 10.1155/2011/107969",
+          "journal-title": "Int J Surg Oncol"
+        },
+        {
+          "key": "ref7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-004-0678-4",
+          "article-title": "Spinal tumors in coexisting degenerative spine disease--a differential diagnostic problem",
+          "volume": "13",
+          "author": "Börm W",
+          "year": "2004",
+          "unstructured": "Börm W, Gleixner M, Klasen J. Spinal tumors in coexisting degenerative spine disease--a differential diagnostic problem. Eur Spine J. 2004, 13:633-8. 10.1007/s00586-004-0678-4",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "ref8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/iju.13170",
+          "article-title": "Skeletal complications in cancer patients with bone metastases",
+          "volume": "23",
+          "author": "Tsuzuki S",
+          "year": "2016",
+          "unstructured": "Tsuzuki S, Park SH, Eber MR, Peters CM, Shiozawa Y. Skeletal complications in cancer patients with bone metastases. Int J Urol. 2016, 23:825-32. 10.1111/iju.13170",
+          "journal-title": "Int J Urol"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12998-017-0165-8",
+          "article-title": "The chiropractic profession: a scoping review of utilization rates, reasons for seeking care, patient profiles, and care provided",
+          "volume": "25",
+          "author": "Beliveau PJ",
+          "year": "2017",
+          "unstructured": "Beliveau PJ, Wong JJ, Sutton DA, Simon NB, Bussières AE, Mior SA, French SD. The chiropractic profession: a scoping review of utilization rates, reasons for seeking care, patient profiles, and care provided. Chiropr Man Therap. 2017, 25:35. 10.1186/s12998-017-0165-8",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12659/MSM.938042",
+          "article-title": "Prevalence of serious pathology among adults with low back pain presenting for chiropractic care: a retrospective chart review of integrated clinics in Hong Kong",
+          "volume": "28",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ. Prevalence of serious pathology among adults with low back pain presenting for chiropractic care: a retrospective chart review of integrated clinics in Hong Kong. Med Sci Monit. 2022, 28:e938042. 10.12659/MSM.938042",
+          "journal-title": "Med Sci Monit"
+        },
+        {
+          "key": "ref11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/thx.2005.045880",
+          "article-title": "What are the clinical features of lung cancer before the diagnosis is made? A population based case-control study",
+          "volume": "60",
+          "author": "Hamilton W",
+          "year": "2005",
+          "unstructured": "Hamilton W, Peters TJ, Round A, Sharp D. What are the clinical features of lung cancer before the diagnosis is made? A population based case-control study. Thorax. 2005, 60:1059-65. 10.1136/thx.2005.045880",
+          "journal-title": "Thorax"
+        },
+        {
+          "key": "ref12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41598-023-28520-4",
+          "article-title": "A retrospective analysis of the incidence of severe adverse events among recipients of chiropractic spinal manipulative therapy",
+          "volume": "13",
+          "author": "Chu EC",
+          "year": "2023",
+          "unstructured": "Chu EC, Trager RJ, Lee LY, Niazi IK. A retrospective analysis of the incidence of severe adverse events among recipients of chiropractic spinal manipulative therapy. Sci Rep. 2023, 13:1254. 10.1038/s41598-023-28520-4",
+          "journal-title": "Sci Rep"
+        },
+        {
+          "key": "ref13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1746-1340-16-8",
+          "article-title": "Lung cancer metastasis to the scapula and spine: a case report",
+          "volume": "16",
+          "author": "Demetrious J",
+          "year": "2008",
+          "unstructured": "Demetrious J, Demetrious GJ. Lung cancer metastasis to the scapula and spine: a case report. Chiropr Osteopat. 2008, 16:8. 10.1186/1746-1340-16-8",
+          "journal-title": "Chiropr Osteopat"
+        },
+        {
+          "key": "ref14",
+          "article-title": "Lung carcinoma presenting as mechanical back pain: a case report",
+          "volume": "38",
+          "author": "Bougie JD",
+          "year": "1994",
+          "unstructured": "Bougie JD, Burns SH. Lung carcinoma presenting as mechanical back pain: a case report. J Can Chiropr Assoc. 1994, 38:25-31.",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "key": "ref15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12659/AJCR.937052",
+          "article-title": "Pancoast tumor presenting as neck pain in the chiropractic office: a case report and literature review",
+          "volume": "23",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ, Shum JS, Lai CR. Pancoast tumor presenting as neck pain in the chiropractic office: a case report and literature review. Am J Case Rep. 2022, 23:e937052. 10.12659/AJCR.937052",
+          "journal-title": "Am J Case Rep"
+        },
+        {
+          "key": "ref16",
+          "article-title": "Bronchogenic carcinoma presenting as neuromusculoskeletal pain",
+          "volume": "13",
+          "author": "Downs SE",
+          "year": "1990",
+          "unstructured": "Downs SE. Bronchogenic carcinoma presenting as neuromusculoskeletal pain. J Manipulative Physiol Ther. 1990, 13:221-4.",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "ref17",
+          "article-title": "Pancoast tumor mimicking musculoskeletal pain: a case study",
+          "volume": "9",
+          "author": "Weiner S",
+          "year": "2001",
+          "unstructured": "Weiner S, Gardiner L. Pancoast tumor mimicking musculoskeletal pain: a case study. J Neuromusculoskelet Syst. 2001, 9:16-20.",
+          "journal-title": "J Neuromusculoskelet Syst"
+        },
+        {
+          "key": "ref18",
+          "article-title": "Stage IV small-cell lung cancer presenting as leg pain",
+          "volume": "45",
+          "author": "Cheuvront T",
+          "year": "2017",
+          "unstructured": "Cheuvront T, Sergent A. Stage IV small-cell lung cancer presenting as leg pain. Chiropr J Aust. 2017, 45:196-202.",
+          "journal-title": "Chiropr J Aust"
+        },
+        {
+          "key": "ref19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1155/2011/769753",
+          "article-title": "Imaging of spinal metastatic disease",
+          "volume": "2011",
+          "author": "Shah LM",
+          "year": "2011",
+          "unstructured": "Shah LM, Salzman KL. Imaging of spinal metastatic disease. Int J Surg Oncol. 2011, 2011:769753. 10.1155/2011/769753",
+          "journal-title": "Int J Surg Oncol"
+        }
+      ],
+      "container-title": [
+        "Cureus"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.cureus.com/articles/138661-lung-cancer-with-vertebral-metastases-presenting-as-low-back-pain-in-the-chiropractic-office-a-case-report",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            9
+          ]
+        ],
+        "date-time": "2024-02-09T19:58:28Z",
+        "timestamp": 1707508708000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.cureus.com/articles/138661-lung-cancer-with-vertebral-metastases-presenting-as-low-back-pain-in-the-chiropractic-office-a-case-report"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            2,
+            9
+          ]
+        ]
+      },
+      "references-count": 19,
+      "URL": "https://doi.org/10.7759/cureus.34821",
+      "relation": {},
+      "ISSN": [
+        "2168-8184"
+      ],
+      "issn-type": [
+        {
+          "value": "2168-8184",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            2,
+            9
+          ]
+        ]
+      }
+    }
+  }
+}

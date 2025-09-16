@@ -1,0 +1,424 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_7759_cureus_39277.md",
+  "id": "evidence_import_refs_2025_09_12_10_7759_cureus_39277",
+  "doi": "10.7759/cureus.39277",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:09:02.993707Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            10
+          ]
+        ],
+        "date-time": "2024-02-10T00:32:27Z",
+        "timestamp": 1707525147223
+      },
+      "reference-count": 26,
+      "publisher": "Springer Science and Business Media LLC",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            5,
+            20
+          ]
+        ]
+      },
+      "DOI": "10.7759/cureus.39277",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2023,
+            5,
+            21
+          ]
+        ],
+        "date-time": "2023-05-21T04:23:20Z",
+        "timestamp": 1684643000000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 3,
+      "title": [
+        "Colorectal Cancer Presenting as Sacral Pain at a Chiropractic Clinic"
+      ],
+      "prefix": "10.7759",
+      "author": [
+        {
+          "given": "Gabriel Siu Nam",
+          "family": "Ng",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Isabel Si Wing",
+          "family": "Chow",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "reference": [
+        {
+          "key": "ref1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12659/MSM.937640",
+          "article-title": "Effectiveness of multimodal chiropractic care featuring spinal manipulation for persistent spinal pain syndrome following lumbar spine surgery: retrospective chart review of 31 adults in Hong Kong",
+          "volume": "28",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ. Effectiveness of multimodal chiropractic care featuring spinal manipulation for persistent spinal pain syndrome following lumbar spine surgery: retrospective chart review of 31 adults in Hong Kong. Med Sci Monit. 2022, 28:e937640. 10.12659/MSM.937640",
+          "journal-title": "Med Sci Monit"
+        },
+        {
+          "key": "ref2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.37481",
+          "article-title": "Meeting future demand for chiropractic services in Hong Kong: a strategic manpower planning approach",
+          "volume": "15",
+          "author": "Ng L",
+          "year": "2023",
+          "unstructured": "Ng L, Chu V, Lam KK, et al.. Meeting future demand for chiropractic services in Hong Kong: a strategic manpower planning approach. Cureus. 2023, 15:e37481. 10.7759/cureus.37481",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.36879",
+          "article-title": "Recognizing Hong Kong Chiropractors' Sick Leave Authority: valuing a conservative approach to workers' compensation",
+          "volume": "15",
+          "author": "Lin AF",
+          "year": "2023",
+          "unstructured": "Lin AF, Chu EC, Chu VK, et al.. Recognizing Hong Kong Chiropractors' Sick Leave Authority: valuing a conservative approach to workers' compensation. Cureus. 2023, 15:e36879. 10.7759/cureus.36879",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12659/MSM.938042",
+          "article-title": "Prevalence of serious pathology among adults with low back pain presenting for chiropractic care: a retrospective chart review of integrated clinics in Hong Kong",
+          "volume": "28",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ. Prevalence of serious pathology among adults with low back pain presenting for chiropractic care: a retrospective chart review of integrated clinics in Hong Kong. Med Sci Monit. 2022, 28:e938042. 10.12659/MSM.938042",
+          "journal-title": "Med Sci Monit"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.31758",
+          "article-title": "Lumbar schwannoma as a rare cause of radiculopathy in the chiropractic office: a case report",
+          "volume": "14",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ, Yee WJ, Ng KK. Lumbar schwannoma as a rare cause of radiculopathy in the chiropractic office: a case report. Cureus. 2022, 14:e31758. 10.7759/cureus.31758",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.33262",
+          "article-title": "Sacral giant cell tumor presenting as low back pain in the chiropractic office: a case report",
+          "volume": "15",
+          "author": "Chu EC",
+          "year": "2023",
+          "unstructured": "Chu EC, Trager RJ, Shum JS, Ng KK. Sacral giant cell tumor presenting as low back pain in the chiropractic office: a case report. Cureus. 2023, 15:e33262. 10.7759/cureus.33262",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.35470",
+          "article-title": "Bilateral cellulitis presented as lower-extremity pain reported in a chiropractic clinic: a case report",
+          "volume": "15",
+          "author": "Chu EC",
+          "year": "2023",
+          "unstructured": "Chu EC, Lai C, Huang KS, Lin AF. Bilateral cellulitis presented as lower-extremity pain reported in a chiropractic clinic: a case report. Cureus. 2023, 15:e35470. 10.7759/cureus.35470",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12659/AJCR.938448",
+          "article-title": "Thoracic schwannoma as an unusual cause of sciatic pain in the chiropractic office: a case report",
+          "volume": "23",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ. Thoracic schwannoma as an unusual cause of sciatic pain in the chiropractic office: a case report. Am J Case Rep. 2022, 23:e938448. 10.12659/AJCR.938448",
+          "journal-title": "Am J Case Rep"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12659/AJCR.937517",
+          "article-title": "A 60-year-old man with gingivitis and poorly controlled diabetes developing low back pain 1 week following recovery from COVID-19 diagnosed with spinal abscess due to Streptococcus oralis",
+          "volume": "23",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ, Chen AT, Shum JS. A 60-year-old man with gingivitis and poorly controlled diabetes developing low back pain 1 week following recovery from COVID-19 diagnosed with spinal abscess due to Streptococcus oralis. Am J Case Rep. 2022, 23:e937517. 10.12659/AJCR.937517",
+          "journal-title": "Am J Case Rep"
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.25122/jml-2021-0419",
+          "article-title": "Large abdominal aortic aneurysm presented with concomitant acute lumbar disc herniation - a case report",
+          "volume": "15",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC. Large abdominal aortic aneurysm presented with concomitant acute lumbar disc herniation - a case report. J Med Life. 2022, 15:871-5. 10.25122/jml-2021-0419",
+          "journal-title": "J Med Life"
+        },
+        {
+          "key": "ref11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12659/AJCR.936984",
+          "article-title": "Conservative management of low back pain related to an unresectable aggressive sacral hemangioma: a case report",
+          "volume": "23",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ, Chen AT. Conservative management of low back pain related to an unresectable aggressive sacral hemangioma: a case report. Am J Case Rep. 2022, 23:e936984. 10.12659/AJCR.936984",
+          "journal-title": "Am J Case Rep"
+        },
+        {
+          "key": "ref12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12659/AJCR.937052",
+          "article-title": "Pancoast tumor presenting as neck pain in the chiropractic office: a case report and literature review",
+          "volume": "23",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ, Shum JS, Lai CR. Pancoast tumor presenting as neck pain in the chiropractic office: a case report and literature review. Am J Case Rep. 2022, 23:e937052. 10.12659/AJCR.937052",
+          "journal-title": "Am J Case Rep"
+        },
+        {
+          "key": "ref13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.32199",
+          "article-title": "Spontaneous cervical epidural hematoma following COVID-19 illness presenting to a chiropractor: a case report",
+          "volume": "14",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ, Lai CR, Shum JS. Spontaneous cervical epidural hematoma following COVID-19 illness presenting to a chiropractor: a case report. Cureus. 2022, 14:e32199. 10.7759/cureus.32199",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.35491",
+          "article-title": "Spondylodiscitis presenting to a chiropractor: a case report and literature review",
+          "volume": "15",
+          "author": "Chu EC",
+          "year": "2023",
+          "unstructured": "Chu EC, Trager RJ, Goh SJ, Shum JS. Spondylodiscitis presenting to a chiropractor: a case report and literature review. Cureus. 2023, 15:e35491. 10.7759/cureus.35491",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/DCR.0000000000001071",
+          "article-title": "Characteristics and prognostic factors of bone metastasis in patients with colorectal cancer",
+          "volume": "61",
+          "author": "Kawamura H",
+          "year": "2018",
+          "unstructured": "Kawamura H, Yamaguchi T, Yano Y, et al.. Characteristics and prognostic factors of bone metastasis in patients with colorectal cancer. Dis Colon Rectum. 2018, 61:673-8. 10.1097/DCR.0000000000001071",
+          "journal-title": "Dis Colon Rectum"
+        },
+        {
+          "key": "ref16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12659/AJCR.937609",
+          "article-title": "Metastatic recurrent breast cancer identified in the chiropractic office: case report and literature review",
+          "volume": "23",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ, Lai CR, Shum JS. Metastatic recurrent breast cancer identified in the chiropractic office: case report and literature review. Am J Case Rep. 2022, 23:e937609. 10.12659/AJCR.937609",
+          "journal-title": "Am J Case Rep"
+        },
+        {
+          "key": "ref17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.30575",
+          "article-title": "Presumptive prostate cancer presenting as low back pain in the chiropractic office: two cases and literature review",
+          "volume": "14",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ, Lai CR, Leung BK. Presumptive prostate cancer presenting as low back pain in the chiropractic office: two cases and literature review. Cureus. 2022, 14:e30575. 10.7759/cureus.30575",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.37022",
+          "article-title": "Optimizing primary healthcare in Hong Kong: strategies for the successful integration of radiology services",
+          "volume": "15",
+          "author": "Chow CL",
+          "year": "2023",
+          "unstructured": "Chow CL, Shum JS, Hui KT, Lin AF, Chu EC. Optimizing primary healthcare in Hong Kong: strategies for the successful integration of radiology services. Cureus. 2023, 15:e37022. 10.7759/cureus.37022",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/curroncol28050290",
+          "article-title": "Current overview of treatment for metastatic bone disease",
+          "volume": "28",
+          "author": "Tsukamoto S",
+          "year": "2021",
+          "unstructured": "Tsukamoto S, Kido A, Tanaka Y, Facchini G, Peta G, Rossi G, Mavrogenis AF. Current overview of treatment for metastatic bone disease. Curr Oncol. 2021, 28:3347-72. 10.3390/curroncol28050290",
+          "journal-title": "Curr Oncol"
+        },
+        {
+          "key": "ref20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.medj.2021.07.005",
+          "article-title": "Quality of life in cancer care",
+          "volume": "2",
+          "author": "Suarez-Almazor M",
+          "year": "2021",
+          "unstructured": "Suarez-Almazor M, Pinnix C, Bhoo-Pathy N, Lu Q, Sedhom R, Parikh RB. Quality of life in cancer care. Med. 2021, 2:885-8. 10.1016/j.medj.2021.07.005",
+          "journal-title": "Med"
+        },
+        {
+          "key": "ref21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1259/bjr.20150980",
+          "article-title": "Multimodality imaging of osseous involvement in haematological malignancies",
+          "volume": "89",
+          "author": "Keraliya AR",
+          "year": "2016",
+          "unstructured": "Keraliya AR, Krajewski KM, Jagannathan JP, Shinagare AB, Braschi-Amirfarzan M, Tirumani SH, Ramaiya NH. Multimodality imaging of osseous involvement in haematological malignancies. Br J Radiol. 2016, 89:20150980. 10.1259/bjr.20150980",
+          "journal-title": "Br J Radiol"
+        },
+        {
+          "key": "ref22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.34796",
+          "article-title": "Spinal metastasis causing dropped head syndrome in the chiropractic office: a case report",
+          "volume": "15",
+          "author": "Chu EC",
+          "year": "2023",
+          "unstructured": "Chu EC, Trager RJ, Lee WT, Tam DM, Kwok R. Spinal metastasis causing dropped head syndrome in the chiropractic office: a case report. Cureus. 2023, 15:e34796. 10.7759/cureus.34796",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.34821",
+          "article-title": "Lung cancer with vertebral metastases presenting as low back pain in the chiropractic office: a case report",
+          "volume": "15",
+          "author": "Chu EC",
+          "year": "2023",
+          "unstructured": "Chu EC, Trager RJ, Lee WT, Cheong BK, Hei SY. Lung cancer with vertebral metastases presenting as low back pain in the chiropractic office: a case report. Cureus. 2023, 15:e34821. 10.7759/cureus.34821",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12659/AJCR.938034",
+          "article-title": "A 68-year-old woman with a remote history of breast cancer presenting with low back pain to a chiropractic clinic in Hong Kong with imaging findings consistent with a vertebral hemangioma and vertebral metastatic lesions",
+          "volume": "23",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ, Chen AT, Shum JS. A 68-year-old woman with a remote history of breast cancer presenting with low back pain to a chiropractic clinic in Hong Kong with imaging findings consistent with a vertebral hemangioma and vertebral metastatic lesions. Am J Case Rep. 2022, 23:e938034. 10.12659/AJCR.938034",
+          "journal-title": "Am J Case Rep"
+        },
+        {
+          "key": "ref25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.34049",
+          "article-title": "Prostate cancer presenting as hip pain at the chiropractic office: a case report and literature review",
+          "volume": "15",
+          "author": "Chu EC",
+          "year": "2023",
+          "unstructured": "Chu EC, Lee WT. Prostate cancer presenting as hip pain at the chiropractic office: a case report and literature review. Cureus. 2023, 15:e34049. 10.7759/cureus.34049",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.rdc.2020.12.001",
+          "article-title": "Low back pain in adolescent and geriatric populations",
+          "volume": "47",
+          "author": "Borenstein DG",
+          "year": "2021",
+          "unstructured": "Borenstein DG, Balagué F. Low back pain in adolescent and geriatric populations. Rheum Dis Clin North Am. 2021, 47:149-63. 10.1016/j.rdc.2020.12.001",
+          "journal-title": "Rheum Dis Clin North Am"
+        }
+      ],
+      "container-title": [
+        "Cureus"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.cureus.com/articles/158319-colorectal-cancer-presenting-as-sacral-pain-at-a-chiropractic-clinic",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            9
+          ]
+        ],
+        "date-time": "2024-02-09T20:02:02Z",
+        "timestamp": 1707508922000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.cureus.com/articles/158319-colorectal-cancer-presenting-as-sacral-pain-at-a-chiropractic-clinic"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            5,
+            20
+          ]
+        ]
+      },
+      "references-count": 26,
+      "URL": "https://doi.org/10.7759/cureus.39277",
+      "relation": {},
+      "ISSN": [
+        "2168-8184"
+      ],
+      "issn-type": [
+        {
+          "value": "2168-8184",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            5,
+            20
+          ]
+        ]
+      }
+    }
+  }
+}

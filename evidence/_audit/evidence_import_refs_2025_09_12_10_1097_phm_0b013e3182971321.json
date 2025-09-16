@@ -1,0 +1,375 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1097_phm_0b013e3182971321.md",
+  "id": "evidence_import_refs_2025_09_12_10_1097_phm_0b013e3182971321",
+  "doi": "10.1097/PHM.0b013e3182971321",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:34.586134Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            6
+          ]
+        ],
+        "date-time": "2024-09-06T22:43:14Z",
+        "timestamp": 1725662594511
+      },
+      "reference-count": 19,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "7",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1097/phm.0b013e3182971321",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2013,
+            6,
+            5
+          ]
+        ],
+        "date-time": "2013-06-05T11:01:59Z",
+        "timestamp": 1370430119000
+      },
+      "page": "553-564",
+      "source": "Crossref",
+      "is-referenced-by-count": 3,
+      "title": [
+        "Improving Treadmill Performance in Patients with Lumbar Stenosis"
+      ],
+      "prefix": "10.1097",
+      "volume": "92",
+      "author": [
+        {
+          "given": "Michelle",
+          "family": "Weiner",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Doug",
+          "family": "Johnson-Greene",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ronald",
+          "family": "Tolchin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lauren",
+          "family": "Abratt",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Brian",
+          "family": "Frank",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "276",
+      "reference": [
+        {
+          "key": "R1-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "913",
+          "DOI": "10.1007/s00586-007-0317-y",
+          "article-title": "Loading is more effective than posture in lumbar spinal stenosis: A study with treadmill equipment.",
+          "volume": "16",
+          "author": "Oguz",
+          "year": "2007",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "R3-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "1296",
+          "DOI": "10.1093/ptj/81.7.1296",
+          "article-title": "Examination findings and self reported walking capacity in patients with lumbar spinal stenosis.",
+          "volume": "81",
+          "author": "Iverson",
+          "year": "2001",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "R4-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "244",
+          "DOI": "10.1097/00007632-199801150-00019",
+          "article-title": "Use of the exercise treadmill to measure baseline functional status and surgical outcome in patients with severe lumbar spinal stenosis.",
+          "volume": "23",
+          "author": "Deen",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R5-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "410",
+          "DOI": "10.1097/00002517-199710000-00009",
+          "article-title": "Preliminary results of the use of a two-stage treadmill test as a clinical diagnostic tool in the differential diagnosis of lumbar spinal stenosis.",
+          "volume": "10",
+          "author": "Fritz",
+          "year": "1997",
+          "journal-title": "J Spinal Disord"
+        },
+        {
+          "key": "R6-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "907",
+          "DOI": "10.1093/ptj/83.10.907",
+          "article-title": "Lumbar postureShould it, and can it, be modified A study of passive tissue stiffness and lumbar position during activities of daily living.",
+          "volume": "83",
+          "author": "Scannell",
+          "year": "2003",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "R8-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "83",
+          "DOI": "10.1016/S0004-9514(07)70040-5",
+          "article-title": "Treadmill walking with body weight support is no more effective than cycling when added to an exercise program for lumbar spinal stenosis: A randomized controlled trial.",
+          "volume": "53",
+          "author": "Pua",
+          "year": "2007",
+          "journal-title": "Aust J Physiother"
+        },
+        {
+          "key": "R9-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "962",
+          "DOI": "10.1093/ptj/77.9.962",
+          "article-title": "A nonsurgical treatment approach for patients with lumbar stenosis.",
+          "volume": "77",
+          "author": "Fritz",
+          "year": "1997",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "R11-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "1002",
+          "DOI": "10.4065/75.10.1002",
+          "article-title": "Test-retest reproducibility of the exercise treadmill examination in lumbar spinal stenosis.",
+          "volume": "75",
+          "author": "Deen",
+          "year": "2000",
+          "journal-title": "Mayo Clin Proc"
+        },
+        {
+          "key": "R12-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "740",
+          "DOI": "10.1136/ard.2010.135483",
+          "article-title": "Validation of a Numerical Rating Scale to assess functional impairment in hip and knee osteoarthritis: Comparison with the WOMAC function scale.",
+          "volume": "70",
+          "author": "Ornetti",
+          "year": "2011",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "key": "R13-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "161",
+          "DOI": "10.1016/j.jcm.2008.07.001",
+          "article-title": "Psychometric properties and clinical usefulness of the Oswestry Disability Index.",
+          "volume": "7",
+          "author": "Vianin",
+          "year": "2008",
+          "journal-title": "J Chiropr Med"
+        },
+        {
+          "key": "R14-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.1097/MRR.0b013e3280146ec4",
+          "article-title": "The validity and reliability of the Fatigue Severity Scale in Turkish multiple sclerosis patients.",
+          "volume": "30",
+          "author": "Armutlu",
+          "year": "2007",
+          "journal-title": "Int J Rehabil Res"
+        },
+        {
+          "key": "R16-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1016/0268-0033(92)90002-L",
+          "article-title": "Functional pathology of lumbar spinal stenosis.",
+          "volume": "7",
+          "author": "Penning",
+          "year": "1992",
+          "journal-title": "Clin Biomech"
+        },
+        {
+          "key": "R17-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "544",
+          "DOI": "10.1097/00007632-199006000-00021",
+          "article-title": "Myeloscopic study on lumbar spinal canal stenosis with special reference to intermittent claudication.",
+          "volume": "15",
+          "author": "Ooi",
+          "year": "1990",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R19-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "203",
+          "DOI": "10.1097/00007632-199701150-00015",
+          "article-title": "Appropriateness of indicators for surgery of lumbar disc hernia and spinal stenosis.",
+          "volume": "22",
+          "author": "Larequi-Lauber",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R20-1-20210202",
+          "first-page": "1187",
+          "article-title": "Life dissatisfaction is associated with a poorer surgery outcome and depression among lumbar spinal stenosis patients: A 2-year prospective study.",
+          "volume": "18",
+          "author": "Sinikallio",
+          "year": "2009",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R21-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "2938",
+          "DOI": "10.1097/00007632-199712150-00017",
+          "article-title": "A prospective and consecutive study of surgically treated lumbar spinal stenosis. Part II: Five-year follow-up by an independent observer.",
+          "volume": "22",
+          "author": "Jonsson",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R22-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "1787",
+          "DOI": "10.1097/00007632-199608010-00012",
+          "article-title": "The Maine Lumbar Spine Study, Part III. 1-year outcomes of surgical and nonsurgical management of lumbar spinal stenosis.",
+          "volume": "21",
+          "author": "Atlas",
+          "year": "1996",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R23-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "563",
+          "DOI": "10.1097/BSD.0b013e31815d896c",
+          "article-title": "Clinical outcome of nonoperative treatment for lumbar spinal stenosis and predictive factors relating to prognosis, in a 5-year minimum follow-up.",
+          "volume": "21",
+          "author": "Miyamoto",
+          "year": "2008",
+          "journal-title": "J Spinal Disord Tech"
+        },
+        {
+          "key": "R24-1-20210202",
+          "doi-asserted-by": "crossref",
+          "first-page": "197",
+          "DOI": "10.1097/00007632-200001150-00009",
+          "article-title": "Nonoperative treatment for lumbar spinal stenosis. Clinical outcome results and 3-year survivorship analysis.",
+          "volume": "25",
+          "author": "Simotas",
+          "year": "2000",
+          "journal-title": "Spine"
+        }
+      ],
+      "container-title": [
+        "American Journal of Physical Medicine &amp; Rehabilitation"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.lww.com/10.1097/PHM.0b013e3182971321",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            5,
+            14
+          ]
+        ],
+        "date-time": "2021-05-14T05:14:23Z",
+        "timestamp": 1620969263000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.lww.com/00002060-201307000-00001"
+        }
+      },
+      "subtitle": [
+        "Evaluation of a Custom Angle Load Reduction Device"
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            7
+          ]
+        ]
+      },
+      "references-count": 19,
+      "journal-issue": {
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1097/phm.0b013e3182971321",
+      "relation": {},
+      "ISSN": [
+        "0894-9115"
+      ],
+      "issn-type": [
+        {
+          "value": "0894-9115",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            7
+          ]
+        ]
+      }
+    }
+  }
+}

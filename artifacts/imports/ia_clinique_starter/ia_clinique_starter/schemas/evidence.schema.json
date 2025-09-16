@@ -1,0 +1,125 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "theme": {
+      "type": "string"
+    },
+    "type_etude": {
+      "type": "string",
+      "enum": [
+        "synthese",
+        "RCT",
+        "guideline",
+        "autre"
+      ]
+    },
+    "message_clinique": {
+      "type": "string"
+    },
+    "doi_url": {
+      "type": "string"
+    },
+    "pmid": {
+      "type": "string"
+    },
+    "publication_date": {
+      "type": "string",
+      "pattern": "^\\\\d{4}-\\\\d{2}-\\\\d{2}$"
+    },
+    "last_verified": {
+      "type": "string",
+      "pattern": "^\\\\d{4}-\\\\d{2}-\\\\d{2}$"
+    },
+    "retraction_status": {
+      "type": "string",
+      "enum": [
+        "ok",
+        "concern",
+        "retracted"
+      ]
+    },
+    "evidence_level": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "scale": {
+          "type": "string",
+          "enum": [
+            "OCEBM",
+            "GRADE"
+          ]
+        },
+        "value": {
+          "type": "string"
+        },
+        "justification": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "scale",
+        "value",
+        "justification"
+      ]
+    },
+    "pdf_sha256": {
+      "type": "string"
+    },
+    "sources_snapshot": {
+      "type": "string"
+    },
+    "statut": {
+      "type": "string",
+      "enum": [
+        "brouillon",
+        "valide"
+      ]
+    }
+  },
+  "required": [
+    "id",
+    "theme",
+    "type_etude",
+    "message_clinique",
+    "statut"
+  ],
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "statut": {
+            "const": "valide"
+          }
+        },
+        "required": [
+          "statut"
+        ]
+      },
+      "then": {
+        "anyOf": [
+          {
+            "required": [
+              "doi_url"
+            ]
+          },
+          {
+            "required": [
+              "pmid"
+            ]
+          }
+        ],
+        "required": [
+          "publication_date",
+          "last_verified",
+          "retraction_status",
+          "evidence_level"
+        ]
+      }
+    }
+  ]
+}

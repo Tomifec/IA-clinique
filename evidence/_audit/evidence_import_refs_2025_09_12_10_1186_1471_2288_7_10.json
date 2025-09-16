@@ -1,0 +1,561 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_1471_2288_7_10.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_1471_2288_7_10",
+  "doi": "10.1186/1471-2288-7-10",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:00.640292Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T13:13:25Z",
+        "timestamp": 1757682805843
+      },
+      "reference-count": 34,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2007,
+                2,
+                15
+              ]
+            ],
+            "date-time": "2007-02-15T00:00:00Z",
+            "timestamp": 1171497600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/2.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "BMC Med Res Methodol"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1186/1471-2288-7-10",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2007,
+            2,
+            16
+          ]
+        ],
+        "date-time": "2007-02-16T08:01:44Z",
+        "timestamp": 1171612904000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 3100,
+      "title": [
+        "Development of AMSTAR: a measurement tool to assess the methodological quality of systematic reviews"
+      ],
+      "prefix": "10.1186",
+      "volume": "7",
+      "author": [
+        {
+          "given": "Beverley J",
+          "family": "Shea",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Jeremy M",
+          "family": "Grimshaw",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "George A",
+          "family": "Wells",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Maarten",
+          "family": "Boers",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Neil",
+          "family": "Andersson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Candyce",
+          "family": "Hamel",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ashley C",
+          "family": "Porter",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter",
+          "family": "Tugwell",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "David",
+          "family": "Moher",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lex M",
+          "family": "Bouter",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2007,
+            2,
+            15
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "193_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "1085",
+          "DOI": "10.1136/bmj.310.6987.1085",
+          "volume": "310",
+          "author": "F Davidoff",
+          "year": "1995",
+          "unstructured": "Davidoff F, Haynes B, Sackett D, Smith R: Evidence-based medicine: a new journal to help doctors identify the information they need. BMJ. 1995, 310: 1085-6.",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "193_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "123",
+          "DOI": "10.1016/S0140-6736(97)08468-7",
+          "volume": "351",
+          "author": "J Lau",
+          "year": "1998",
+          "unstructured": "Lau J, Ioannidis JPA, Schmid CH: Summing up evidence: one answer is not always enough. Lancet. 1998, 351: 123-127. 10.1016/S0140-6736(97)08468-7.",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "193_CR3",
+          "unstructured": "Systematic Review definition. [ http://www.nlm.nih.gov/nichsr/hta101/ta101014.html ]"
+        },
+        {
+          "key": "193_CR4",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Moher D, Soeken K, Sampson M, Campbell K, Ben Perot L, Berman B: Assessing the quality of reports of systematic reviews in pediatric complementary and alternative medicine. BMC Pediatr. 2002, 2 (2):",
+          "DOI": "10.1186/1471-2431-2-3"
+        },
+        {
+          "key": "193_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "537",
+          "DOI": "10.1136/bmj.320.7234.537",
+          "volume": "320",
+          "author": "A Jadad",
+          "year": "2000",
+          "unstructured": "Jadad A, Moher M, Browman G, Booker L, Sigouin C, Fuentes M: Systematic reviews and meta-analyses on treatment of asthma: critical evaluation. BMJ. 2000, 320: 537-540. 10.1136/bmj.320.7234.537.",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "193_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "648",
+          "DOI": "10.1136/bmj.309.6955.648",
+          "volume": "309",
+          "author": "AD Oxman",
+          "year": "1994",
+          "unstructured": "Oxman AD: Checklists for review articles. BMJ. 1994, 309: 648-651.",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "8",
+          "key": "193_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "450",
+          "DOI": "10.1056/NEJM198702193160806",
+          "volume": "316",
+          "author": "H Sacks",
+          "year": "1987",
+          "unstructured": "Sacks H, Berrier J, Reitman D, Ancona-Berk VA, Chalmers TC: Meta-analyses of randomized controlled trials. N Engl J Med. 1987, 316 (8): 450-455.",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "193_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "122",
+          "DOI": "10.1002/9780470693926.ch7",
+          "volume-title": "Systematic Reviews in Health Care: Meta-analysis in context",
+          "author": "B Shea",
+          "year": "2001",
+          "unstructured": "Shea B, Dubé C, Moher D: Assessing the quality of reports of systematic reviews: the QUOROM statement compared to other tools. Systematic Reviews in Health Care: Meta-analysis in context. Edited by: Egger M, Smith GD, Altman DG. 2001, London: BMJ books, 122-139."
+        },
+        {
+          "key": "193_CR9",
+          "unstructured": "The Cochrane Library. 2004, Chichester, UK: John Wiley & Sons Ltd, 3:"
+        },
+        {
+          "key": "193_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "326",
+          "DOI": "10.1016/S0140-6736(97)02419-7",
+          "volume": "350",
+          "author": "M Egger",
+          "year": "1997",
+          "unstructured": "Egger M, Zellweger-Zahner T, Schneider M, Junker C, Lengeler C, Antes G: Language bias in randomised controlled trials published in English and German. Lancet. 1997, 350: 326-329. 10.1016/S0140-6736(97)02419-7.",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "193_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "964",
+          "DOI": "10.1016/S0895-4356(00)00188-8",
+          "volume": "53",
+          "author": "D Moher",
+          "year": "2000",
+          "unstructured": "Moher D, Pham B, Klassen T, Schulz K, Berlin J, Jadad A, Liberati A: What contributions do languages other than English make to the results of meta-analyses?. Journal of Clinical Epidemiology. 2000, 53: 964-972. 10.1016/S0895-4356(00)00188-8.",
+          "journal-title": "Journal of Clinical Epidemiology"
+        },
+        {
+          "key": "193_CR12",
+          "unstructured": "Pai M, McCulloch M, Colford J, Bero LA: Assessment ofPublication Bias in Systematic Reviews on HIV/AIDS. [ http://www.igh.org/Cochrane/pdfs/MSRI_workshop_talk_abstract.pdf ]"
+        },
+        {
+          "key": "193_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "1385",
+          "DOI": "10.1001/jama.1990.03440100097014",
+          "volume": "263",
+          "author": "K Dickersin",
+          "year": "1990",
+          "unstructured": "Dickersin K: The existence of publication bias and risk factors for its occurrence. JAMA. 1990, 263: 1385-1389. 10.1001/jama.263.10.1385.",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "193_CR14",
+          "first-page": "15",
+          "volume": "9",
+          "author": "K Dickersin",
+          "year": "1997",
+          "unstructured": "Dickersin K: How important is publication bias? A synthesis of available data. AIDS Educ Prev. 1997, 9: 15-21.",
+          "journal-title": "AIDS Educ Prev"
+        },
+        {
+          "key": "193_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "20",
+          "DOI": "10.1186/1471-2288-4-20",
+          "volume": "4",
+          "author": "C Phillips",
+          "year": "2004",
+          "unstructured": "Phillips C: Publication bias in situ. BMC Med Res Method. 2004, 4: 20-10.1186/1471-2288-4-20.",
+          "journal-title": "BMC Med Res Method"
+        },
+        {
+          "key": "193_CR16",
+          "volume-title": "Technical Report",
+          "author": "B Pham",
+          "year": "2000",
+          "unstructured": "Pham B, Platt R, McAuley L, Sampson M, Klassen T, Moher D: Detecting and minimizing publication bias. A systematic review of methods. Technical Report. 2000, Thomas C. Chalmers Centre for Systematic Reviews, Ottawa, Canada"
+        },
+        {
+          "key": "193_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "640",
+          "DOI": "10.1136/bmj.315.7109.640",
+          "volume": "315",
+          "author": "JM Stern",
+          "year": "1997",
+          "unstructured": "Stern JM, Simes RJ: Publication bias: evidence of delayed publication in a cohort study of clinical research projects. BMJ. 1997, 315: 640-5.",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "193_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "1119",
+          "DOI": "10.1016/S0895-4356(00)00242-0",
+          "volume": "53",
+          "author": "JAC Sterne",
+          "year": "2000",
+          "unstructured": "Sterne JAC, Gavaghan D, Egger M: Publication and related bias in meta-analysis – power of statistical tests and prevalence in the literature. Journal of Clinical Epidemiology. 2000, 53: 1119-1129. 10.1016/S0895-4356(00)00242-0.",
+          "journal-title": "Journal of Clinical Epidemiology"
+        },
+        {
+          "key": "193_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "1574",
+          "DOI": "10.1136/bmj.320.7249.1574",
+          "volume": "320",
+          "author": "A Sutton",
+          "year": "2000",
+          "unstructured": "Sutton A, Duval S, Tweedie R, Abrams K, Jones D: Empirical assessment of effect of publication bias on meta-analyses. BMJ. 2000, 320: 1574-1577. 10.1136/bmj.320.7249.1574.",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "193_CR20",
+          "volume-title": "The Cochrane Library",
+          "author": "S Hopewell",
+          "year": "2004",
+          "unstructured": "Hopewell S, McDonald S, Clarke M, Egger M: Grey literature in meta-analyses of randomized trials of health care interventions. The Cochrane Library. 2004, Chichester, UK: John Wiley & Sons, Ltd, 1:"
+        },
+        {
+          "key": "193_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "1228",
+          "DOI": "10.1016/S0140-6736(00)02786-0",
+          "volume": "356",
+          "author": "L McAuley",
+          "year": "2000",
+          "unstructured": "McAuley L, Pham B, Tugwell P, Moher D: Does the inclusion of grey literature influence the estimates of intervention effectiveness reported in meta-analyses?. Lancet. 2000, 356: 1228-1231. 10.1016/S0140-6736(00)02786-0.",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "12",
+          "key": "193_CR22",
+          "doi-asserted-by": "crossref",
+          "first-page": "i",
+          "DOI": "10.3310/hta3120",
+          "volume": "3",
+          "author": "D Moher",
+          "year": "1999",
+          "unstructured": "Moher D, Cook DJ, Jadad AR, Tugwell P, Moher M, Jones A, Pham B, Klassen TP: Assessing the quality of randomized controlledtrials: implications for the conduct of meta-analyses. Health Technol Assess. 1999, 3 (12): i-iv. 1–98",
+          "journal-title": "Health Technol Assess"
+        },
+        {
+          "key": "193_CR23",
+          "volume-title": "MSc thesis",
+          "author": "B Shea",
+          "year": "1999",
+          "unstructured": "Shea B: Assessing the quality of reporting meta-analyses of randomized controlled trials. MSc thesis. 1999, University of Ottawa, Department of Epidemiology and Community Medicine"
+        },
+        {
+          "key": "193_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "377",
+          "DOI": "10.1136/jech.52.6.377",
+          "volume": "52",
+          "author": "S Downs",
+          "year": "1998",
+          "unstructured": "Downs S, Black N: The feasibility of creating a checklist for the assessment of the methodological quality both of randomised and non-randomised studies of health care interventions. J Epidemiol Community Health. 1998, 52: 377-384.",
+          "journal-title": "J Epidemiol Community Health"
+        },
+        {
+          "key": "193_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1016/0197-2456(95)00134-4",
+          "volume": "17",
+          "author": "AR Jadad",
+          "year": "1996",
+          "unstructured": "Jadad AR, Moore RA, Carroll D, Jenkinson C, Reynolds DJ, Gavaghan DJ, McQuay HJ: Assessing the quality of randomized clinical trials: is blinding necessary?. Control Clin Trials. 1996, 17: 1-12. 10.1016/0197-2456(95)00134-4.",
+          "journal-title": "Control Clin Trials"
+        },
+        {
+          "key": "193_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "1235",
+          "DOI": "10.1016/S0895-4356(98)00131-0",
+          "volume": "51",
+          "author": "AP Verhagen",
+          "year": "1998",
+          "unstructured": "Verhagen AP, de Vet HCW, de Bie RA, Kessels AGH, Boers M, Bouter LM, Knipschild PG: The Delphi list: a consensus list for quality assessment of randomized clinical trials for conducting systematic reviews developed by Delphi consensus. J Clin Epid. 1998, 51: 1235-41. 10.1016/S0895-4356(98)00131-0.",
+          "journal-title": "J Clin Epid"
+        },
+        {
+          "key": "193_CR27",
+          "volume-title": "Development and application of an appraisal instrument for assessing the methodological quality of clinical practice guidelines in the United Kingdom",
+          "author": "FA Cluzeau",
+          "year": "2001",
+          "unstructured": "Cluzeau FA: Development and application of an appraisal instrument for assessing the methodological quality of clinical practice guidelines in the United Kingdom. 2001, London, England: St.George's Hospital Medical School, University of London"
+        },
+        {
+          "key": "193_CR28",
+          "volume-title": "An Easy Guide to factor Analysis",
+          "author": "P Kline",
+          "year": "1994",
+          "unstructured": "Kline P: An Easy Guide to factor Analysis. 1994, London: Routledge"
+        },
+        {
+          "key": "193_CR29",
+          "volume-title": "Biostatistics: The Bare Essentials",
+          "author": "GR Norman",
+          "year": "2000",
+          "unstructured": "Norman GR, Streiner DL: Biostatistics: The Bare Essentials. 2000, St. Louis: Mosby, 2",
+          "edition": "2"
+        },
+        {
+          "key": "193_CR30",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1093/oso/9780198528470.001.0001",
+          "volume-title": "Health Measurement Scales: A Practical Guide to their Development and Use",
+          "author": "DL Streiner",
+          "year": "2003",
+          "unstructured": "Streiner DL, Norman GR: Health Measurement Scales: A Practical Guide to their Development and Use. 2003, UK: Oxford University Press, 3",
+          "edition": "3"
+        },
+        {
+          "issue": "4",
+          "key": "193_CR31",
+          "doi-asserted-by": "crossref",
+          "first-page": "238",
+          "DOI": "10.1177/135581969600100410",
+          "volume": "1",
+          "author": "I McDowell",
+          "year": "1996",
+          "unstructured": "McDowell I, Jenkinson C: Development standards for health measures. Journal of health Services Research and Policy. 1996, 1 (4): 238-246.",
+          "journal-title": "Journal of health Services Research and Policy"
+        },
+        {
+          "key": "193_CR32",
+          "unstructured": "Canadian Agency for Drugs and Technologies in Health. [ http://www.cadth.ca ]"
+        },
+        {
+          "key": "193_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "597",
+          "DOI": "10.1136/bmj.333.7568.597",
+          "volume": "333",
+          "author": "J Lau",
+          "year": "2006",
+          "unstructured": "Lau J, Ioannidis JPA, Terrin N, Schmid CH, Olkin I: The case of the misleading funnel plot. BMJ. 2006, 333: 597-600. 10.1136/bmj.333.7568.597.",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "193_CR34",
+          "volume-title": "Publication bias in meta-analysis: prevention, assessment and adjustments",
+          "year": "2005",
+          "unstructured": "Rothstein HR, Sutton AJ, Borenstein M, eds: Publication bias in meta-analysis: prevention, assessment and adjustments. 2005, Sussex: John Wiley and Sons"
+        }
+      ],
+      "container-title": [
+        "BMC Medical Research Methodology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/article/10.1186/1471-2288-7-10/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/1471-2288-7-10.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/1471-2288-7-10",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/1471-2288-7-10.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            11
+          ]
+        ],
+        "date-time": "2024-02-11T00:02:48Z",
+        "timestamp": 1707609768000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-7-10"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2007,
+            2,
+            15
+          ]
+        ]
+      },
+      "references-count": 34,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2007,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "193"
+      ],
+      "URL": "https://doi.org/10.1186/1471-2288-7-10",
+      "relation": {},
+      "ISSN": [
+        "1471-2288"
+      ],
+      "issn-type": [
+        {
+          "value": "1471-2288",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2007,
+            2,
+            15
+          ]
+        ]
+      },
+      "article-number": "10"
+    }
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_3390_life14060754.md",
+  "id": "evidence_import_refs_2025_09_12_10_3390_life14060754",
+  "doi": "10.3390/life14060754",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:51.390929Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            21
+          ]
+        ],
+        "date-time": "2025-02-21T19:13:12Z",
+        "timestamp": 1740165192379,
+        "version": "3.37.3"
+      },
+      "reference-count": 37,
+      "publisher": "MDPI AG",
+      "issue": "6",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                6,
+                13
+              ]
+            ],
+            "date-time": "2024-06-13T00:00:00Z",
+            "timestamp": 1718236800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Life"
+      ],
+      "abstract": "<jats:p>Background: Various treatment modalities have been employed for mechanical low back pain (MLBP), but evidence of their efficacy varies greatly. Objectıve: This randomized controlled trial aimed to assess the outcomes of Mulligan concept applications, including sustained natural apophyseal glides (SNAGS) and natural apophyseal glides (NAGS), in obese patients with MLBP. Methods: The study, conducted between January 2021 and June 2022 at a tertiary hospital, involved randomizing patients into two groups. Both groups underwent six sessions of stretching and strengthening exercises every other day. The Mulligan group received additional intervention with SNAG and NAGS techniques. Measurements were made regarding the Visual Analog Scale (VAS) score, Oswestry Disability Index (ODI) score and range of motion (ROM) for the patients’ MLBP level. Results: Post-interventions, both groups exhibited positive changes in flexion ROM, extension ROM, right and left rotation ROM, right and left lateral flexion ROM, VAS score, and ODI score compared to pre-intervention (p &lt; 0.001 for both groups and variables). The Mulligan group showed a higher increase in ROM and a more significant decrease in VAS and ODI scores. Conclusıons: Mulligan mobilization techniques prove significantly beneficial for enhancing ROM in all directions, reducing pain levels, and alleviating disability in obese individuals with MLBP.</jats:p>",
+      "DOI": "10.3390/life14060754",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            14
+          ]
+        ],
+        "date-time": "2024-06-14T12:52:10Z",
+        "timestamp": 1718369530000
+      },
+      "page": "754",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Outcomes of Mulligan Concept Applications in Obese Individuals with Chronic Mechanical Low Back Pain: A Randomized Controlled Trial"
+      ],
+      "prefix": "10.3390",
+      "volume": "14",
+      "author": [
+        {
+          "given": "Muhammed Safa",
+          "family": "Cankaya",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Vocational School of Health Services, Erzincan Binali Yıldırım University, Erzincan 24002, Turkey"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1826-5723",
+          "authenticated-orcid": false,
+          "given": "Omer Osman",
+          "family": "Pala",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physiotherapy and Rehabilitation, Faculty of Health Sciences, Bolu Abant İzzet Baysal University, Bolu 14030, Turkey"
+            }
+          ]
+        }
+      ],
+      "member": "1968",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            13
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "2356",
+          "DOI": "10.1016/S0140-6736(18)30480-X",
+          "article-title": "What low back pain is and why we need to pay attention",
+          "volume": "391",
+          "author": "Hartvigsen",
+          "year": "2018",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "ref_2",
+          "first-page": "421",
+          "article-title": "Mechanical Low Back Pain",
+          "volume": "98",
+          "author": "Will",
+          "year": "2018",
+          "journal-title": "Am. Fam. Physician"
+        },
+        {
+          "key": "ref_3",
+          "doi-asserted-by": "crossref",
+          "first-page": "168",
+          "DOI": "10.12965/jer.1836070.035",
+          "article-title": "Low back pain, obesity, and inflammatory markers: Exercise as potential treatment",
+          "volume": "14",
+          "author": "Pinto",
+          "year": "2018",
+          "journal-title": "J. Exerc. Rehabil."
+        },
+        {
+          "key": "ref_4",
+          "doi-asserted-by": "crossref",
+          "first-page": "135",
+          "DOI": "10.1093/aje/kwp356",
+          "article-title": "The Association between Obesity and Low Back Pain: A Meta-Analysis",
+          "volume": "171",
+          "author": "Shiri",
+          "year": "2010",
+          "journal-title": "Am. J. Epidemiol."
+        },
+        {
+          "key": "ref_5",
+          "doi-asserted-by": "crossref",
+          "first-page": "1371",
+          "DOI": "10.1093/aje/kwad102",
+          "article-title": "Association between Body Mass Index and Nonspecific Recurrent Low Back Pain in Over 600,000 Healthy Young Adults",
+          "volume": "192",
+          "author": "Nitecki",
+          "year": "2023",
+          "journal-title": "Am. J. Epidemiol."
+        },
+        {
+          "key": "ref_6",
+          "doi-asserted-by": "crossref",
+          "first-page": "1781",
+          "DOI": "10.1002/ejp.2003",
+          "article-title": "The explanatory role of sedentary screen time and obesity in the increase of chronic back pain amongst European adolescents: The HBSC study 2002–2014",
+          "volume": "26",
+          "author": "Roy",
+          "year": "2022",
+          "journal-title": "Eur. J. Pain."
+        },
+        {
+          "key": "ref_7",
+          "doi-asserted-by": "crossref",
+          "first-page": "1188",
+          "DOI": "10.1007/s00586-015-4055-2",
+          "article-title": "Are obesity and body fat distribution associated with low back pain in women? A population-based study of 1128 Spanish twins",
+          "volume": "25",
+          "author": "Dario",
+          "year": "2016",
+          "journal-title": "Eur. Spine J."
+        },
+        {
+          "key": "ref_8",
+          "doi-asserted-by": "crossref",
+          "first-page": "640",
+          "DOI": "10.1016/j.semarthrit.2012.09.002",
+          "article-title": "The role of obesity and physical activity in non-specific and radiating low back pain: The Young Finns study",
+          "volume": "42",
+          "author": "Shiri",
+          "year": "2013",
+          "journal-title": "Semin. Arthritis. Rheum."
+        },
+        {
+          "key": "ref_9",
+          "unstructured": "WHO (2023, October 23). Health Topics/Obesity. Available online: https://www.who.int/health-topics/obesity#tab=tab_1."
+        },
+        {
+          "key": "ref_10",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Warren, J.M., Hey, L.A., and Mazzoleni, A.P. (2021). A finite element study of the relationship between upper body weight and the loads experienced by the human lumbosacral spine, and fusion instrumentation, in a standing upright posture. Biomed. Eng. Advs., 2.",
+          "DOI": "10.1016/j.bea.2021.100023"
+        },
+        {
+          "key": "ref_11",
+          "doi-asserted-by": "crossref",
+          "first-page": "110",
+          "DOI": "10.2174/0929867327666200316142659",
+          "article-title": "A Comprehensive Review on Oxysterols and Related Diseases",
+          "volume": "28",
+          "author": "Samadi",
+          "year": "2021",
+          "journal-title": "Curr. Med. Chem."
+        },
+        {
+          "key": "ref_12",
+          "first-page": "e28127",
+          "article-title": "A Review on Treatment Approaches for Chronic Low Back Pain via Mulligans Movement With Mobilization and Physical Therapy",
+          "volume": "14",
+          "author": "Chitale",
+          "year": "2022",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref_13",
+          "doi-asserted-by": "crossref",
+          "first-page": "94",
+          "DOI": "10.1016/j.jcm.2017.01.003",
+          "article-title": "Effect of mulligan concept lumbar SNAG on chronic nonspecific low back pain",
+          "volume": "16",
+          "author": "Hussien",
+          "year": "2017",
+          "journal-title": "J. Chiropr. Med."
+        },
+        {
+          "key": "ref_14",
+          "doi-asserted-by": "crossref",
+          "first-page": "1289",
+          "DOI": "10.1177/0269215518778321",
+          "article-title": "Effectiveness of mobilization with movement (Mulligan concept techniques) on low back pain: A systematic review",
+          "volume": "32",
+          "author": "Pourahmadi",
+          "year": "2018",
+          "journal-title": "Clin. Rehabil."
+        },
+        {
+          "key": "ref_15",
+          "doi-asserted-by": "crossref",
+          "first-page": "365",
+          "DOI": "10.1016/j.jmpt.2015.06.013",
+          "article-title": "Short-term effects of Mulligan mobilization with movement on pain, disability, and kinematic spinal movements in patients with nonspecific low back pain: A randomized placebo-controlled trial",
+          "volume": "38",
+          "author": "Hidalgo",
+          "year": "2015",
+          "journal-title": "J. Manip. Physiol. Ther."
+        },
+        {
+          "key": "ref_16",
+          "unstructured": "(2021, October 10). GraphPad Software. Available online: https://www.graphpad.com/quickcalcs/randMenu/."
+        },
+        {
+          "key": "ref_17",
+          "doi-asserted-by": "crossref",
+          "first-page": "177",
+          "DOI": "10.4274/tftr.22438",
+          "article-title": "Lumbar stabilization exercises in addition to strengthening and stretching exercises reduce pain and increase function in patients with chronic low back pain: Randomized clinical open-label study",
+          "volume": "58",
+          "author": "Stankovic",
+          "year": "2012",
+          "journal-title": "Turk. J. Phys. Med. Rehabil."
+        },
+        {
+          "key": "ref_18",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1007/s00277-021-04667-w",
+          "article-title": "Evaluation of the relationship between intravascular hemolysis and clinical manifestations in sickle cell disease: Decreased hemopexin during vaso-occlusive crises and increased inflammation in acute chest syndrome",
+          "volume": "101",
+          "author": "Yildirim",
+          "year": "2022",
+          "journal-title": "Ann. Hematol."
+        },
+        {
+          "key": "ref_19",
+          "doi-asserted-by": "crossref",
+          "first-page": "581",
+          "DOI": "10.1097/01.BRS.0000113869.13209.03",
+          "article-title": "Validation of the Turkish version of the Oswestry Disability Index for patients with low back pain",
+          "volume": "29",
+          "author": "Yakut",
+          "year": "2004",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "ref_20",
+          "doi-asserted-by": "crossref",
+          "first-page": "555",
+          "DOI": "10.4097/kjae.2016.69.6.555",
+          "article-title": "Alternatives to P value: Confidence interval and effect size",
+          "volume": "69",
+          "author": "Lee",
+          "year": "2016",
+          "journal-title": "Korean J. Anesthesiol."
+        },
+        {
+          "key": "ref_21",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1186/1743-0003-7-3",
+          "article-title": "Effect of obesity and low back pain on spinal mobility: A cross sectional study in women",
+          "volume": "7",
+          "author": "Vismara",
+          "year": "2010",
+          "journal-title": "J. Neuroeng. Rehabil."
+        },
+        {
+          "key": "ref_22",
+          "doi-asserted-by": "crossref",
+          "first-page": "181",
+          "DOI": "10.1016/j.pmrj.2016.06.019",
+          "article-title": "Exercise Benefits for Chronic Low Back Pain in Overweight and Obese Individuals",
+          "volume": "9",
+          "author": "Wasser",
+          "year": "2017",
+          "journal-title": "PM&R"
+        },
+        {
+          "key": "ref_23",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1186/1745-6673-8-13",
+          "article-title": "Obesity effect on a multimodal physiotherapy program for low back pain suffers: Patient reported outcome",
+          "volume": "8",
+          "year": "2013",
+          "journal-title": "J. Occup. Med. Toxicol."
+        },
+        {
+          "key": "ref_24",
+          "first-page": "476",
+          "article-title": "McKenzie treatment versus mulligan sustained natural apophyseal glides for chronic mechanical low back pain",
+          "volume": "32",
+          "author": "Waqqar",
+          "year": "2016",
+          "journal-title": "Pak. J. Med. Sci."
+        },
+        {
+          "key": "ref_25",
+          "doi-asserted-by": "crossref",
+          "first-page": "543",
+          "DOI": "10.3329/bjms.v20i3.52796",
+          "article-title": "Gender based variations of mulligan mobilization with movement on chronic nonspecific low back pain",
+          "volume": "20",
+          "author": "Kumar",
+          "year": "2021",
+          "journal-title": "Bangladesh J. Med. Sci."
+        },
+        {
+          "key": "ref_26",
+          "first-page": "1584",
+          "article-title": "Effects of Sustained Natural Apophyseal Glides with and without thoracic posture correction techniques on mechanical back pain: A randomized control trial",
+          "volume": "69",
+          "author": "Maryam",
+          "year": "2019",
+          "journal-title": "J. Pak. Med. Assoc."
+        },
+        {
+          "key": "ref_27",
+          "doi-asserted-by": "crossref",
+          "first-page": "1018",
+          "DOI": "10.16965/ijpr.2015.126",
+          "article-title": "Immediate effect of modified lumbar SNAGS in non-specific chronic low back patients: A pilot study",
+          "volume": "3",
+          "author": "Heggannavar",
+          "year": "2015",
+          "journal-title": "Int. J. Physiother. Res."
+        },
+        {
+          "key": "ref_28",
+          "doi-asserted-by": "crossref",
+          "first-page": "445",
+          "DOI": "10.1016/j.jmpt.2021.06.005",
+          "article-title": "Effect of Sustained Natural Apophyseal Glides on Stiffness of Lumbar Stabilizer Muscles in Patients with Nonspecific Low Back Pain: Randomized Controlled Trial",
+          "volume": "44",
+          "year": "2021",
+          "journal-title": "J. Manip. Physiol. Ther."
+        },
+        {
+          "key": "ref_29",
+          "doi-asserted-by": "crossref",
+          "first-page": "l689",
+          "DOI": "10.1136/bmj.l689",
+          "article-title": "Benefits and harms of spinal manipulative therapy for the treatment of chronic low back pain: Systematic review and meta-analysis of randomised controlled trials",
+          "volume": "364",
+          "author": "Rubinstein",
+          "year": "2019",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref_30",
+          "first-page": "762",
+          "article-title": "Short-Term Effects of Mulligan SNAGs Versus Soft Tissue Mobilization in Patients with Sub-Acute Non-Specific Low Back Pain",
+          "volume": "3",
+          "author": "Akhtar",
+          "year": "2023",
+          "journal-title": "Sciences"
+        },
+        {
+          "key": "ref_31",
+          "first-page": "71",
+          "article-title": "Comparative study of SNAGS and Maitland’s mobilization in chronic low back pain",
+          "volume": "12",
+          "author": "Khan",
+          "year": "2018",
+          "journal-title": "Eur. J. Phys. Educ. Sport Sci."
+        },
+        {
+          "key": "ref_32",
+          "doi-asserted-by": "crossref",
+          "first-page": "1079",
+          "DOI": "10.3233/BMR-200217",
+          "article-title": "The immediate effect of sustained natural apophyseal glide on postural stability and pain in individuals presenting with flexion-dominant chronic low back pain: A randomized single-blinded placebo-controlled trial",
+          "volume": "34",
+          "author": "Hussein",
+          "year": "2021",
+          "journal-title": "J. Back Musculoskelet. Rehabil."
+        },
+        {
+          "key": "ref_33",
+          "doi-asserted-by": "crossref",
+          "first-page": "e10706",
+          "DOI": "10.7717/peerj.10706",
+          "article-title": "Myofascial release versus Mulligan sustained natural apophyseal glides’ immediate and short-term effects on pain, function, and mobility in non-specific low back pain",
+          "volume": "9",
+          "author": "Bhat",
+          "year": "2021",
+          "journal-title": "PeerJ"
+        },
+        {
+          "key": "ref_34",
+          "doi-asserted-by": "crossref",
+          "first-page": "86",
+          "DOI": "10.4103/sjsm.sjsm_16_19",
+          "article-title": "Effect of modified lumbar-sustained natural apophyseal glides (Snags) in nonspecific low back pain",
+          "volume": "19",
+          "author": "Manzoor",
+          "year": "2019",
+          "journal-title": "Saudi J. Sport. Med."
+        },
+        {
+          "key": "ref_35",
+          "first-page": "1",
+          "article-title": "Immediate, short and long-term clinical results of combined Mulligan mobilization with movement techniques in non-specific chronic low back pain: A randomized placebo-controlled trial",
+          "volume": "36",
+          "author": "Yakut",
+          "year": "2022",
+          "journal-title": "Adv. Rehab."
+        },
+        {
+          "key": "ref_36",
+          "doi-asserted-by": "crossref",
+          "first-page": "152",
+          "DOI": "10.5152/eurasianjmed.2023.0202",
+          "article-title": "Mid-term Effect of Lumbar Sustained Natural Apophyseal Glides in Patients with Non-specific Chronic Low Back Pain: A Randomized Clinical Trial",
+          "volume": "55",
+          "author": "Korkmaz",
+          "year": "2023",
+          "journal-title": "Eurasian J. Med."
+        },
+        {
+          "key": "ref_37",
+          "doi-asserted-by": "crossref",
+          "first-page": "22",
+          "DOI": "10.1097/BSD.0000000000000468",
+          "article-title": "Obesity as a risk factor for low back pain: A meta-analysis",
+          "volume": "31",
+          "author": "Zhang",
+          "year": "2018",
+          "journal-title": "Clin. Spine Surg."
+        }
+      ],
+      "container-title": [
+        "Life"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.mdpi.com/2075-1729/14/6/754/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            14
+          ]
+        ],
+        "date-time": "2024-06-14T14:21:25Z",
+        "timestamp": 1718374885000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.mdpi.com/2075-1729/14/6/754"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            13
+          ]
+        ]
+      },
+      "references-count": 37,
+      "journal-issue": {
+        "issue": "6",
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              6
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "life14060754"
+      ],
+      "URL": "https://doi.org/10.3390/life14060754",
+      "relation": {},
+      "ISSN": [
+        "2075-1729"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2075-1729"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            13
+          ]
+        ]
+      }
+    }
+  }
+}

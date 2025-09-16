@@ -1,0 +1,778 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1097_j_pain_0000000000001211.md",
+  "id": "evidence_import_refs_2025_09_12_10_1097_j_pain_0000000000001211",
+  "doi": "10.1097/j.pain.0000000000001211",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:34.369983Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T21:02:27Z",
+        "timestamp": 1757451747282
+      },
+      "reference-count": 54,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "7",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Pain",
+        "PAIN"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            7
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>Low back pain (LBP) is common in adolescence, but there is a paucity of high-quality research to inform care. We conducted a multicenter randomized trial comparing 12 weeks of spinal manipulative therapy (SMT) combined with exercise therapy (ET) to ET alone. Participants were 185 adolescents aged 12 to 18 years with chronic LBP. The primary outcome was LBP severity at 12, 26, and 52 weeks. Secondary outcomes included disability, quality of life, medication use, patient- and caregiver-rated improvement, and satisfaction. Outcomes were analyzed using longitudinal linear mixed effect models. An omnibus test assessing differences in individual outcomes over the entire year controlled for multiplicity. Of the 185 enrolled patients, 179 (97%) provided data at 12 weeks and 174 (94%) at 26 and 52 weeks. Adding SMT to ET resulted in a larger reduction in LBP severity over the course of 1 year (<jats:italic toggle=\"yes\">P</jats:italic> = 0.007). The group difference in LBP severity (0-10 scale) was small at the end of treatment (mean difference = 0.5; <jats:italic toggle=\"yes\">P</jats:italic> = 0.08) but was larger at weeks 26 (mean difference = 1.1; <jats:italic toggle=\"yes\">P</jats:italic> = 0.001) and 52 (mean difference = 0.8; <jats:italic toggle=\"yes\">P</jats:italic> = 0.009). At 26 weeks, SMT with ET performed better than ET alone for disability (<jats:italic toggle=\"yes\">P</jats:italic> = 0.04) and improvement (<jats:italic toggle=\"yes\">P</jats:italic> = 0.02). The SMT with ET group reported significantly greater satisfaction with care at all time points (<jats:italic toggle=\"yes\">P</jats:italic> ≤ 0.02). There were no serious treatment-related adverse events. For adolescents with chronic LBP, spinal manipulation combined with exercise was more effective than exercise alone over a 1-year period, with the largest differences occurring at 6 months. These findings warrant replication and evaluation of cost effectiveness.</jats:p>",
+      "DOI": "10.1097/j.pain.0000000000001211",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            29
+          ]
+        ],
+        "date-time": "2018-03-29T02:24:54Z",
+        "timestamp": 1522290294000
+      },
+      "page": "1297-1307",
+      "source": "Crossref",
+      "is-referenced-by-count": 46,
+      "title": [
+        "Spinal manipulation and exercise for low back pain in adolescents: a randomized trial"
+      ],
+      "prefix": "10.1097",
+      "volume": "159",
+      "author": [
+        {
+          "given": "Roni",
+          "family": "Evans",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Mitchell",
+          "family": "Haas",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Craig",
+          "family": "Schulz",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Brent",
+          "family": "Leininger",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Linda",
+          "family": "Hanson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gert",
+          "family": "Bronfort",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "276",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            27
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "R1-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "E721",
+          "DOI": "10.1097/BRS.0b013e318182c347",
+          "article-title": "Physical therapy treatment of back complaints on children and adolescents",
+          "volume": "33",
+          "author": "Ahlqwist",
+          "year": "2008",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "R2-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "240",
+          "DOI": "10.1016/j.math.2009.12.007",
+          "article-title": "A detailed characterisation of pain, disability, physical and psychological features of a small group of adolescents with non-specific chronic low back pain",
+          "volume": "15",
+          "author": "Astfalck",
+          "year": "2010",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "R3-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "343",
+          "DOI": "10.1016/S0895-4356(00)00314-0",
+          "article-title": "Adjusting for multiple testing–when and how?",
+          "volume": "54",
+          "author": "Bender",
+          "year": "2001",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "R5-20230818",
+          "first-page": "431",
+          "article-title": "Minimal clinically important difference. Low back pain: outcome measures",
+          "volume": "28",
+          "author": "Bombardier",
+          "year": "2001",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "key": "R6-20230818",
+          "first-page": "570",
+          "article-title": "Trunk exercise combined with spinal manipulative or NSAID therapy for chronic low back pain: a randomized, observer-blinded clinical trial",
+          "volume": "19",
+          "author": "Bronfort",
+          "year": "1996",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R7-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "381",
+          "DOI": "10.7326/M14-0006",
+          "article-title": "Spinal manipulation and home exercise with advice for subacute and chronic back-related leg pain: a trial with adaptive allocation",
+          "volume": "161",
+          "author": "Bronfort",
+          "year": "2014",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "R8-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "585",
+          "DOI": "10.1016/j.spinee.2011.01.036",
+          "article-title": "Supervised exercise, spinal manipulation, and home exercise for chronic low back pain: a randomized clinical trial",
+          "volume": "11",
+          "author": "Bronfort",
+          "year": "2011",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "R9-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "491",
+          "DOI": "10.1007/s11136-010-9776-4",
+          "article-title": "Applying area-under-the-curve analysis to enhance interpretation of response profiles: an application to sleep quality scores in patients with fibromyalgia",
+          "volume": "20",
+          "author": "Bushmakin",
+          "year": "2011",
+          "journal-title": "Qual Life Res"
+        },
+        {
+          "key": "R10-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "55",
+          "DOI": "10.1186/1471-2474-14-55",
+          "article-title": "Physical therapy treatments for low back pain in children and adolescents: a meta-analysis",
+          "volume": "14",
+          "author": "Calvo-Munoz",
+          "year": "2013",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "R11-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "345",
+          "DOI": "10.1097/00007632-199602010-00019",
+          "article-title": "Pitfalls of patient education. Limited success of a program for back pain in primary care",
+          "volume": "21",
+          "author": "Cherkin",
+          "year": "1996",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "R13-20230818",
+          "first-page": "1",
+          "article-title": "Trends in the use of complementary health approaches among adults: United States, 2002–2012",
+          "volume": "79",
+          "author": "Clarke",
+          "year": "2015",
+          "journal-title": "Natl Health Stat Report"
+        },
+        {
+          "key": "R14-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "217",
+          "DOI": "10.1097/MLR.0b013e3182408812",
+          "article-title": "Effectiveness-implementation hybrid designs: combining elements of clinical effectiveness and implementation research to enhance public health impact",
+          "volume": "50",
+          "author": "Curran",
+          "year": "2012",
+          "journal-title": "Med Care"
+        },
+        {
+          "key": "R15-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "A1",
+          "DOI": "10.2519/jospt.2012.42.4.A1",
+          "article-title": "Low back pain",
+          "volume": "42",
+          "author": "Delitto",
+          "year": "2012",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "R17-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "591",
+          "DOI": "10.1016/j.berh.2013.09.007",
+          "article-title": "Low back pain across the life course",
+          "volume": "27",
+          "author": "Dunn",
+          "year": "2013",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "R18-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "238",
+          "DOI": "10.1016/j.pain.2009.08.019",
+          "article-title": "Interpreting the clinical importance of group differences in chronic pain clinical trials: IMMPACT recommendations",
+          "volume": "146",
+          "author": "Dworkin",
+          "year": "2009",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R19-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "171",
+          "DOI": "10.1080/01621459.1987.10478410",
+          "article-title": "Better bootstrap confidence intervals",
+          "volume": "82",
+          "author": "Efron",
+          "year": "1987",
+          "journal-title": "J Am Stat Assoc"
+        },
+        {
+          "key": "R20-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "97",
+          "DOI": "10.1016/S0004-9514(09)70039-X",
+          "article-title": "Exercise reduces the intensity and prevalence of low back pain in 12-13 year old children: a randomised trial",
+          "volume": "55",
+          "author": "Fanucchi",
+          "year": "2009",
+          "journal-title": "Aust J Physiother"
+        },
+        {
+          "key": "R21-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "369",
+          "DOI": "10.1016/j.jpainsymman.2005.08.018",
+          "article-title": "Use of the cumulative proportion of responders analysis graph to present pain data over a range of cut-off points: making clinical trial data more understandable",
+          "volume": "31",
+          "author": "Farrar",
+          "year": "2006",
+          "journal-title": "J Pain Symptom Manage"
+        },
+        {
+          "key": "R22-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "1157",
+          "DOI": "10.1001/jama.282.12.1157",
+          "article-title": "Capturing the patient's view of change as a clinical outcome measure",
+          "volume": "282",
+          "author": "Fischer",
+          "year": "1999",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "R24-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "1108",
+          "DOI": "10.1542/peds.2010-0791",
+          "article-title": "Prescribing of controlled medications to adolescents and young adults in the United States",
+          "volume": "126",
+          "author": "Fortuna",
+          "year": "2010",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "R25-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "291",
+          "DOI": "10.1056/NEJM198802043180506",
+          "article-title": "Back pain and sciatica",
+          "volume": "318",
+          "author": "Frymoyer",
+          "year": "1988",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "R27-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1067/mmt.2003.11",
+          "article-title": "Evaluation of chiropractic management of pediatric patients with low back pain: a prospective cohort study",
+          "volume": "26",
+          "author": "Hayden",
+          "year": "2003",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R28-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "468",
+          "DOI": "10.1097/01.brs.0000199958.04073.d9",
+          "article-title": "The course of low back pain from adolescence to adulthood",
+          "volume": "31",
+          "author": "Hestbaek",
+          "year": "2006",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "R29-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "507",
+          "DOI": "10.2522/ptj.20140273",
+          "article-title": "Daily exercises and education for preventing low back pain in children: cluster randomized controlled trial",
+          "volume": "95",
+          "author": "Hill",
+          "year": "2015",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "R30-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "1073",
+          "DOI": "10.1016/j.jpainsymman.2010.08.016",
+          "article-title": "Studies comparing numerical rating scales, verbal rating scales, and visual analogue scales for assessment of pain intensity in adults: a systematic literature review",
+          "volume": "41",
+          "author": "Hjermstad",
+          "year": "2011",
+          "journal-title": "J Pain Symptom Manage"
+        },
+        {
+          "key": "R31-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "2028",
+          "DOI": "10.1002/art.34347",
+          "article-title": "A systematic review of the global prevalence of low back pain",
+          "volume": "64",
+          "author": "Hoy",
+          "year": "2012",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "R32-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "968",
+          "DOI": "10.1136/annrheumdis-2013-204428",
+          "article-title": "The global burden of low back pain: estimates from the global burden of disease 2010 study",
+          "volume": "73",
+          "author": "Hoy",
+          "year": "2014",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "key": "R33-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "2630",
+          "DOI": "10.1097/BRS.0b013e318158d70b",
+          "article-title": "Epidemiology of adolescent spinal pain: a systematic overview of the research literature",
+          "volume": "32",
+          "author": "Jeffries",
+          "year": "2007",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "R34-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "312",
+          "DOI": "10.1136/adc.2004.056812",
+          "article-title": "Epidemiology of low back pain in children and adolescents",
+          "volume": "90",
+          "author": "Jones",
+          "year": "2005",
+          "journal-title": "Arch Dis Child"
+        },
+        {
+          "key": "R35-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "349",
+          "DOI": "10.1123/pes.19.3.349",
+          "article-title": "The efficacy of exercise as an intervention to treat recurrent nonspecific low back pain in adolescents",
+          "volume": "19",
+          "author": "Jones",
+          "year": "2007",
+          "journal-title": "Pediatr Exerc Sci"
+        },
+        {
+          "key": "R36-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "268",
+          "DOI": "10.1016/j.jclinepi.2007.05.002",
+          "article-title": "Item response theory detected differential item functioning between healthy and ill children in quality-of-life measures",
+          "volume": "61",
+          "author": "Langer",
+          "year": "2008",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "R37-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "228",
+          "DOI": "10.1097/00007632-199801150-00015",
+          "article-title": "At what age does low back pain become a common problem? A study of 29,424 individuals aged 12-41 years",
+          "volume": "23",
+          "author": "Leboeuf-Yde",
+          "year": "1998",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "R38-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "153",
+          "DOI": "10.1037/0033-2909.115.1.153",
+          "article-title": "A controlled, powerful multiple-comparison strategy for several situations",
+          "volume": "115",
+          "author": "Levin",
+          "year": "1994",
+          "journal-title": "Psychol Bull"
+        },
+        {
+          "key": "R39-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "596",
+          "DOI": "10.7326/M17-0195",
+          "article-title": "Annals Understanding clinical research: implications of missing data due to dropout",
+          "volume": "166",
+          "author": "Liao",
+          "year": "2017",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "R40-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "458",
+          "DOI": "10.1007/s00586-010-1608-2",
+          "article-title": "Responsiveness of the 24-, 18- and 11-item versions of the Roland Morris disability questionnaire",
+          "volume": "20",
+          "author": "Macedo",
+          "year": "2011",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "R41-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "94",
+          "DOI": "10.1186/1471-2474-8-94",
+          "article-title": "Chiropractic and exercise for seniors with low back pain or neck pain: the design of two randomized clinical trials",
+          "volume": "8",
+          "author": "Maiers",
+          "year": "2007",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "R42-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "771",
+          "DOI": "10.1016/j.jpain.2008.04.007",
+          "article-title": "Core outcome domains and measures for pediatric acute and chronic/recurrent pain clinical trials: PedIMMPACT recommendations",
+          "volume": "9",
+          "author": "McGrath",
+          "year": "2008",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "R44-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "2046",
+          "DOI": "10.1007/s00586-014-3461-1",
+          "article-title": "Low back pain in children and adolescents: a systematic review and meta-analysis evaluating the effectiveness of conservative interventions",
+          "volume": "23",
+          "author": "Michaleff",
+          "year": "2014",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "R45-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "873",
+          "DOI": "10.1002/(SICI)1097-0258(19980430)17:8<873::AID-SIM779>3.0.CO;2-I",
+          "article-title": "Interval estimation for the difference between independent proportions: comparison of eleven methods",
+          "volume": "17",
+          "author": "Newcombe",
+          "year": "1998",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "R46-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "2185",
+          "DOI": "10.1097/01.BRS.0000085096.62603.61",
+          "article-title": "A randomized trial of combined manipulation, stabilizing exercises, and physician consultation compared to physician consultation alone for chronic low back pain",
+          "volume": "28",
+          "author": "Niemisto",
+          "year": "2003",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "R47-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1186/1546-0096-9-3",
+          "article-title": "Characteristics of chronic non-specific musculoskeletal pain in children and adolescents attending a rheumatology outpatients clinic: a cross-sectional study",
+          "volume": "9",
+          "author": "O'Sullivan",
+          "year": "2011",
+          "journal-title": "Pediatr Rheumatol Online J"
+        },
+        {
+          "key": "R48-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "90",
+          "DOI": "10.1097/BRS.0b013e31815e3a10",
+          "article-title": "Interpreting change scores for pain and functional status in low back pain: towards international consensus regarding minimal important change",
+          "volume": "33",
+          "author": "Ostelo",
+          "year": "2008",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "R49-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "2917",
+          "DOI": "10.1002/sim.1296",
+          "article-title": "Subgroup analysis, covariate adjustment and baseline comparisons in clinical trial reporting: current practice and problems",
+          "volume": "21",
+          "author": "Pocock",
+          "year": "2002",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "R50-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "514",
+          "DOI": "10.7326/M16-2367",
+          "article-title": "Noninvasive treatments for acute, subacute, and chronic low back pain: a clinical practice guideline from the American College of Physicians",
+          "volume": "166",
+          "author": "Qaseem",
+          "year": "2017",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "R51-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "423",
+          "DOI": "10.1016/j.genhosppsych.2011.04.009",
+          "article-title": "Trends in the prescription of opioids for adolescents with non-cancer pain",
+          "volume": "33",
+          "author": "Richardson",
+          "year": "2011",
+          "journal-title": "Gen Hosp Psychiatry"
+        },
+        {
+          "key": "R52-20230818",
+          "first-page": "CD008112",
+          "article-title": "Spinal manipulative therapy for chronic low-back pain",
+          "volume": "2",
+          "author": "Rubinstein",
+          "year": "2011",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "R53-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1186/2045-709X-22-21",
+          "article-title": "Spinal manipulation and exercise for low back pain in adolescents: study protocol for a randomized controlled trial",
+          "volume": "22",
+          "author": "Schulz",
+          "year": "2014",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "key": "R54-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "226",
+          "DOI": "10.1179/2042618614Y.0000000099",
+          "article-title": "Lumbar manipulation and exercise for the treatment of acute low back pain in adolescents: a randomized controlled trial",
+          "volume": "23",
+          "author": "Selhorst",
+          "year": "2015",
+          "journal-title": "J Man Manip Ther"
+        },
+        {
+          "key": "R55-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "2416",
+          "DOI": "10.1097/00007632-199710150-00018",
+          "article-title": "Measurement properties of the RM-18. A modified version of the Roland-Morris disability scale",
+          "volume": "22",
+          "author": "Stratford",
+          "year": "1997",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "R56-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "175",
+          "DOI": "10.1023/A:1014836921812",
+          "article-title": "The PedsQL 4.0 generic core scales: sensitivity, responsiveness, and impact on clinical decision-making",
+          "volume": "25",
+          "author": "Varni",
+          "year": "2002",
+          "journal-title": "J Behav Med"
+        },
+        {
+          "key": "R57-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "800",
+          "DOI": "10.1097/00005650-200108000-00006",
+          "article-title": "PedsQL 4.0: reliability and validity of the pediatric quality of life inventory version 4.0 generic core scales in healthy and patient populations",
+          "volume": "39",
+          "author": "Varni",
+          "year": "2001",
+          "journal-title": "Med Care"
+        },
+        {
+          "key": "R58-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "126",
+          "DOI": "10.1097/00005650-199902000-00003",
+          "article-title": "The PedsQL: measurement model for the pediatric quality of life inventory",
+          "volume": "37",
+          "author": "Varni",
+          "year": "1999",
+          "journal-title": "Med Care"
+        },
+        {
+          "key": "R59-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "223",
+          "DOI": "10.1016/j.pain.2009.03.002",
+          "article-title": "Three new datasets supporting use of the numerical rating scale (NRS-11) for children's self-reports of pain intensity",
+          "volume": "143",
+          "author": "von Baeyer",
+          "year": "2009",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R60-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "1723",
+          "DOI": "10.1097/BRS.0b013e31829fefe4",
+          "article-title": "Outcomes of usual chiropractic. The OUCH randomized controlled trial of adverse events",
+          "volume": "38",
+          "author": "Walker",
+          "year": "2013",
+          "journal-title": "Spine (Phila Pa 1976)"
+        }
+      ],
+      "container-title": [
+        "Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.lww.com/00006396-201807000-00013",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            19
+          ]
+        ],
+        "date-time": "2023-08-19T00:36:56Z",
+        "timestamp": 1692405416000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.lww.com/00006396-201807000-00013"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            27
+          ]
+        ]
+      },
+      "references-count": 54,
+      "journal-issue": {
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2018
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1097/j.pain.0000000000001211",
+      "relation": {},
+      "ISSN": [
+        "0304-3959",
+        "1872-6623"
+      ],
+      "issn-type": [
+        {
+          "value": "0304-3959",
+          "type": "print"
+        },
+        {
+          "value": "1872-6623",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            27
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+id,label,type,source_doc_id
+C1,lombalgie,concept,
+C2,radiculalgie,concept,
+C3,centralisation,concept,
+C4,directional preference (DP),concept,
+S1,Exercice thérapeutique,strategie,
+S2,Cognitive Functional Therapy (CFT),strategie,
+S3,SMT / Thérapie manuelle,strategie,
+S4,Traction lombaire,strategie,
+O1,douleur (NRS),outcome,
+O2,fonction (ODI/RMDQ),outcome,
+O3,retour d’activité,outcome,

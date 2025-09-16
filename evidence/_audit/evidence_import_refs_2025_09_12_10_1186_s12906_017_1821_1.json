@@ -1,0 +1,1052 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_s12906_017_1821_1.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_s12906_017_1821_1",
+  "doi": "10.1186/s12906-017-1821-1",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:13.504808Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2025-07-01T20:03:53Z",
+        "timestamp": 1751400233307,
+        "version": "3.37.3"
+      },
+      "reference-count": 76,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                6,
+                9
+              ]
+            ],
+            "date-time": "2017-06-09T00:00:00Z",
+            "timestamp": 1496966400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                6,
+                9
+              ]
+            ],
+            "date-time": "2017-06-09T00:00:00Z",
+            "timestamp": 1496966400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100008460",
+          "name": "National Center for Complementary and Integrative Health",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "U19AT004663"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100008460",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "BMC Complement Altern Med"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1186/s12906-017-1821-1",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2017,
+            6,
+            9
+          ]
+        ],
+        "date-time": "2017-06-09T15:11:11Z",
+        "timestamp": 1497021071000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 28,
+      "title": [
+        "Association of lumbar spine stiffness and flexion-relaxation phenomenon with patient-reported outcomes in adults with chronic low back pain – a single-arm clinical trial investigating the effects of thrust spinal manipulation"
+      ],
+      "prefix": "10.1186",
+      "volume": "17",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-4113-1050",
+          "authenticated-orcid": false,
+          "given": "Ting",
+          "family": "Xia",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Cynthia R.",
+          "family": "Long",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Robert D.",
+          "family": "Vining",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Maruti R.",
+          "family": "Gudavalli",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "James W.",
+          "family": "DeVocht",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gregory N.",
+          "family": "Kawchuk",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "David G.",
+          "family": "Wilder",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christine M.",
+          "family": "Goertz",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            6,
+            9
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "1821_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "8",
+          "DOI": "10.1016/j.spinee.2007.10.005",
+          "volume": "8",
+          "author": "S Dagenais",
+          "year": "2008",
+          "unstructured": "Dagenais S, Caro J, Haldeman S. A systematic review of low back pain cost of illness studies in the United States and internationally. Spine J. 2008;8:8–20.",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "1821_CR2",
+          "unstructured": "Vos T, Flaxman AD, Naghavi M, Lozano R, Michaud C, Ezzati M, Shibuya K, Salomon JA, Abdalla S, Aboyans V, Abraham J, Ackerman I, Aggarwal R, Ahn SY, Ali MK, Alvarado M, Anderson HR, Anderson LM, Andrews KG, Atkinson C, Baddour LM, Bahalim AN, Barker-Collo S, Barrero LH, Bartels DH, Basanez MG, Baxter A, Bell ML, Benjamin EJ, Bennett D et al.: Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010. \n                           Lancet 2012, 380: 2163–2196."
+        },
+        {
+          "key": "1821_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "205",
+          "DOI": "10.1097/00002517-200006000-00003",
+          "volume": "13",
+          "author": "BF Walker",
+          "year": "2000",
+          "unstructured": "Walker BF. The prevalence of low back pain: a systematic review of the literature from 1966 to 1998. J Spinal Disord. 2000;13:205–17.",
+          "journal-title": "J Spinal Disord"
+        },
+        {
+          "key": "1821_CR4",
+          "first-page": "1",
+          "volume": "2008",
+          "author": "PM Barnes",
+          "year": "2007",
+          "unstructured": "Barnes PM, Bloom B, Nahin RL. Complementary and alternative medicine use among adults and children: United States. Natl Health Stat Report. 2007;2008:1–23.",
+          "journal-title": "Natl Health Stat Report"
+        },
+        {
+          "key": "1821_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "478",
+          "DOI": "10.7326/0003-4819-147-7-200710020-00006",
+          "volume": "147",
+          "author": "R Chou",
+          "year": "2007",
+          "unstructured": "Chou R, Qaseem A, Snow V, Casey D, Cross JT Jr, Shekelle P, et al. Diagnosis and treatment of low back pain: a joint clinical practice guideline from the American College of Physicians and the American pain society. Ann Intern Med. 2007;147:478–91.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "1821_CR6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Koes BW, van TM, Lin CW, Macedo LG, McAuley J, Maher C: An updated overview of clinical guidelines for the management of non-specific low back pain in primary care. Eur Spine J 2010, 19: 2075–2094.",
+          "DOI": "10.1007/s00586-010-1502-y"
+        },
+        {
+          "key": "1821_CR7",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Goertz CM, Pohlman KA, Vining RV, Brantingham JW, Long CR. Patient-centered outcomes of high-velocity, low-amplitude spinal manipulation for low back pain: a systematic review. J Electromyogr Kinesiol. 2012;",
+          "DOI": "10.1016/j.jelekin.2012.03.006"
+        },
+        {
+          "key": "1821_CR8",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Rubinstein SM, van MM, Assendelft WJ, de Boer MR, van Tulder MW: Spinal manipulative therapy for chronic low-back pain: an update of a Cochrane review. Spine (Phila Pa 1976) 2011, 36: E825-E846.",
+          "DOI": "10.1097/BRS.0b013e3182197fe1"
+        },
+        {
+          "key": "1821_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "36",
+          "DOI": "10.1016/j.math.2007.09.011",
+          "volume": "14",
+          "author": "JH Abbott",
+          "year": "2009",
+          "unstructured": "Abbott JH, Flynn TW, Fritz JM, Hing WA, Reid D, Whitman JM. Manual physical assessment of spinal segmental motion: intent and validity. Man Ther. 2009;14:36–44.",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "1821_CR10",
+          "volume-title": "Vertebral manipulation",
+          "author": "GD Maitland",
+          "year": "1986",
+          "unstructured": "Maitland GD. Vertebral manipulation. 5th ed. Butterworth Heinemann: Oxford, England; 1986.",
+          "edition": "5"
+        },
+        {
+          "key": "1821_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "396",
+          "DOI": "10.1016/j.jmpt.2009.04.002",
+          "volume": "32",
+          "author": "N Tuttle",
+          "year": "2009",
+          "unstructured": "Tuttle N. Is it reasonable to use an individual patient's progress after treatment as a guide to ongoing clinical reasoning? J Manip Physiol Ther. 2009;32:396–403.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "1821_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "56",
+          "DOI": "10.1186/1471-2474-6-56",
+          "volume": "6",
+          "author": "JH Abbott",
+          "year": "2005",
+          "unstructured": "Abbott JH, McCane B, Herbison P, Moginie G, Chapple C, Hogarty T. Lumbar segmental instability: a criterion-related validity study of manual therapy assessment. BMC Musculoskelet Disord. 2005;6:56.",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "1821_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "743",
+          "DOI": "10.1007/s00586-004-0803-4",
+          "volume": "14",
+          "author": "JM Fritz",
+          "year": "2005",
+          "unstructured": "Fritz JM, Piva SR, Childs JD. Accuracy of the clinical examination to predict radiographic instability of the lumbar spine. Eur Spine J. 2005;14:743–50.",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "1821_CR14",
+          "first-page": "587",
+          "volume": "19",
+          "author": "J Latimer",
+          "year": "1996",
+          "unstructured": "Latimer J, Lee M, Adams R, Moran CM. An investigation of the relationship between low back pain and lumbar posteroanterior stiffness. J Manip Physiol Ther. 1996;19:587–91.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "1821_CR15",
+          "volume-title": "Maitland's vertebral manipulation",
+          "author": "GD Maitland",
+          "year": "2005",
+          "unstructured": "Maitland GD, Banks K, English K, Hengeveld E. Maitland's vertebral manipulation. 7th ed. Oxford, UK: Butterworth-Heinemann; 2005.",
+          "edition": "7"
+        },
+        {
+          "key": "1821_CR16",
+          "volume-title": "Back pain and spinal manipulation: a practical guide",
+          "author": "JE Murtagh",
+          "year": "1997",
+          "unstructured": "Murtagh JE, Kenna CJ. Back pain and spinal manipulation: a practical guide. 2nd ed. Oxford, UK: Butterworth-Heinemann; 1997.",
+          "edition": "2"
+        },
+        {
+          "key": "1821_CR17",
+          "volume-title": "Principles of joint treatment. In Principles of neuromusculoskeletal treatment and management: a guide for therapists. Edited by Petty NJ",
+          "author": "NJ Petty",
+          "year": "2004",
+          "unstructured": "Petty NJ. Principles of joint treatment. In Principles of neuromusculoskeletal treatment and management: a guide for therapists. Edited by Petty NJ. Edinburgh, UK: Churchill Livingstone; 2004."
+        },
+        {
+          "key": "1821_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "116",
+          "DOI": "10.1016/j.jmpt.2006.12.006",
+          "volume": "30",
+          "author": "EF Owens Jr",
+          "year": "2007",
+          "unstructured": "Owens EF Jr, DeVocht JW, Wilder DG, Gudavalli MR, Meeker WC. The reliability of a posterior-to-anterior spinal stiffness measuring system in a population of patients with low back pain. J Manip Physiol Ther. 2007;30:116–23.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "1821_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "395",
+          "DOI": "10.1016/j.math.2013.02.003",
+          "volume": "18",
+          "author": "AY Wong",
+          "year": "2013",
+          "unstructured": "Wong AY, Kawchuk G, Parent E, Prasad N. Within- and between-day reliability of spinal stiffness measurements obtained using a computer controlled mechanical indenter in individuals with and without low back pain. Man Ther. 2013;18:395–402.",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "1821_CR20",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wong AY, Parent EC, Dhillon SS, Prasad N, Kawchuk GN: Do participants with low back pain who respond to spinal manipulative therapy differ biomechanically from nonresponders, untreated controls or asymptomatic controls? Spine (Phila Pa 1976 ) 2015, 40: 1329–1337.",
+          "DOI": "10.1097/BRS.0000000000000981"
+        },
+        {
+          "key": "1821_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "34",
+          "DOI": "10.1067/mmt.2003.3",
+          "volume": "26",
+          "author": "A Chiradejnant",
+          "year": "2003",
+          "unstructured": "Chiradejnant A, Maher CG, Latimer J. Objective manual assessment of lumbar posteroanterior stiffness is now possible. J Manip Physiol Ther. 2003;26:34–9.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "1821_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "61",
+          "DOI": "10.1016/j.math.2007.09.013",
+          "volume": "14",
+          "author": "ML Ferreira",
+          "year": "2009",
+          "unstructured": "Ferreira ML, Ferreira PH, Latimer J, Herbert RD, Maher C, Refshauge K. Relationship between spinal stiffness and outcome in patients with chronic low back pain. Man Ther. 2009;14:61–7.",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "1821_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "829",
+          "DOI": "10.1093/ptj/78.8.829",
+          "volume": "78",
+          "author": "CG Maher",
+          "year": "1998",
+          "unstructured": "Maher CG, Latimer J, Adams R. An investigation of the reliability and validity of posteroanterior spinal stiffness judgments made using a reference-based protocol. Phys Ther. 1998;78:829–37.",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "1821_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "1772",
+          "DOI": "10.1097/BRS.0b013e318216337d",
+          "volume": "36",
+          "author": "JM Fritz",
+          "year": "2011",
+          "unstructured": "Fritz JM, Koppenhaver SL, Kawchuk GN, Teyhen DS, Hebert JJ, Childs JD. Preliminary investigation of the mechanisms underlying the effects of manipulation: exploration of a multivariate model including spinal stiffness, multifidus recruitment, and clinical findings. Spine (Phila Pa 1976). 2011;36:1772–81.",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "1821_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "84",
+          "DOI": "10.1067/mmt.2001.112566",
+          "volume": "24",
+          "author": "GN Kawchuk",
+          "year": "2001",
+          "unstructured": "Kawchuk GN, Fauvel OR. Sources of variation in spinal indentation testing: indentation site relocation, intraabdominal pressure, subject movement, muscular response, and stiffness estimation. J Manip Physiol Ther. 2001;24:84–91.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "1821_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "708",
+          "DOI": "10.1016/j.jelekin.2012.04.015",
+          "volume": "22",
+          "author": "SJ Snodgrass",
+          "year": "2012",
+          "unstructured": "Snodgrass SJ, Haskins R, Rivett DA. A structured review of spinal stiffness as a kinesiological outcome of manipulation: its measurement and utility in diagnosis, prognosis and treatment decision-making. J Electromyogr Kinesiol. 2012;22:708–23.",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "key": "1821_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "36",
+          "DOI": "10.1186/2045-709X-21-36",
+          "volume": "21",
+          "author": "JJ Triano",
+          "year": "2013",
+          "unstructured": "Triano JJ, Budgell B, Bagnulo A, Roffey B, Bergmann T, Cooperstein R, et al. Review of methods used by chiropractors to determine the site for applying manipulation. Chiropr Man Therap. 2013;21:36.",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "key": "1821_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "22",
+          "DOI": "10.1179/106698193791069807",
+          "volume": "1",
+          "author": "D Shirley",
+          "year": "1993",
+          "unstructured": "Shirley D, Lee M. A preliminary investigation of the relationship between lumbar postero-anterior mobility and low back pain. Journal of Manual & Manipulative Therapy. 1993;1:22–5.",
+          "journal-title": "Journal of Manual & Manipulative Therapy"
+        },
+        {
+          "key": "1821_CR29",
+          "first-page": "127",
+          "volume": "7",
+          "author": "RR Brodeur",
+          "year": "1999",
+          "unstructured": "Brodeur RR, DelRe L. Stiffness of the thoracolumbar spine for subjects with and without low back pain. Journal Of The Neuromusculoskeletal System. 1999;7:127–33.",
+          "journal-title": "Journal Of The Neuromusculoskeletal System"
+        },
+        {
+          "key": "1821_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "493",
+          "DOI": "10.1016/j.jmpt.2007.07.009",
+          "volume": "30",
+          "author": "EF Owens Jr",
+          "year": "2007",
+          "unstructured": "Owens EF Jr, DeVocht JW, Gudavalli MR, Wilder DG, Meeker WC. Comparison of posteroanterior spinal stiffness measures to clinical and demographic findings at baseline in patients enrolled in a clinical study of spinal manipulation for low back pain. J Manip Physiol Ther. 2007;30:493–500.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "1821_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "361",
+          "DOI": "10.1016/S1050-6411(03)00042-7",
+          "volume": "13",
+          "author": "PW Hodges",
+          "year": "2003",
+          "unstructured": "Hodges PW, Moseley GL. Pain and motor control of the lumbopelvic region: effect and possible mechanisms. J Electromyogr Kinesiol. 2003;13:361–70.",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "key": "1821_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "S90",
+          "DOI": "10.1016/j.pain.2010.10.020",
+          "volume": "152",
+          "author": "PW Hodges",
+          "year": "2011",
+          "unstructured": "Hodges PW, Tucker K. Moving differently in pain: a new theory to explain the adaptation to pain. Pain. 2011;152:S90–8.",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "1821_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "239",
+          "DOI": "10.1016/j.pain.2008.08.001",
+          "volume": "140",
+          "author": "GL Moseley",
+          "year": "2008",
+          "unstructured": "Moseley GL. I can't find it! Distorted body image and tactile dysfunction in patients with chronic back pain. Pain. 2008;140:239–43.",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "1821_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "333",
+          "DOI": "10.1016/S1050-6411(03)00041-5",
+          "volume": "13",
+          "author": "JH van Dieen",
+          "year": "2003",
+          "unstructured": "van Dieen JH, Selen LP, Cholewicki J. Trunk muscle activation in low-back pain patients, an analysis of the literature. J Electromyogr Kinesiol. 2003;13:333–51.",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "key": "1821_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "711",
+          "DOI": "10.1016/j.jpain.2005.06.008",
+          "volume": "6",
+          "author": "ME Geisser",
+          "year": "2005",
+          "unstructured": "Geisser ME, Ranavaya M, Haig AJ, Roth RS, Zucker R, Ambroz C, et al. A meta-analytic review of surface electromyography among persons with low back pain and normal, healthy controls. J Pain. 2005;6:711–26.",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "1821_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "2458",
+          "DOI": "10.1097/BRS.0b013e3181b20070",
+          "volume": "34",
+          "author": "TG Mayer",
+          "year": "2009",
+          "unstructured": "Mayer TG, Neblett R, Brede E, Gatchel RJ. The quantified lumbar flexion-relaxation phenomenon is a useful measurement of improvement in a functional restoration program. Spine (Phila Pa 1976). 2009;34:2458–65.",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "1821_CR37",
+          "first-page": "1435",
+          "volume": "28",
+          "author": "R Neblett",
+          "year": "2003",
+          "unstructured": "Neblett R, Mayer TG, Gatchel RJ, Keeley J, Proctor T, Anagnostis C. Quantifying the lumbar flexion-relaxation phenomenon: theory, normative data, and clinical applications. Spine. 2003;28:1435–46.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "1821_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "1015",
+          "DOI": "10.1589/jpts.25.1015",
+          "volume": "25",
+          "author": "JH Kim",
+          "year": "2013",
+          "unstructured": "Kim JH, Kim YE, Bae SH, Kim KY. The effect of the neurac sling exercise on postural balance adjustment and muscular response patterns in chronic low back pain patients. J Phys Ther Sci. 2013;25:1015–9.",
+          "journal-title": "J Phys Ther Sci"
+        },
+        {
+          "key": "1821_CR39",
+          "doi-asserted-by": "publisher",
+          "first-page": "203",
+          "DOI": "10.1016/j.jmpt.2009.02.010",
+          "volume": "32",
+          "author": "K Lalanne",
+          "year": "2009",
+          "unstructured": "Lalanne K, Lafond D, Descarreaux M. Modulation of the flexion-relaxation response by spinal manipulative therapy: a control group study. J Manip Physiol Ther. 2009;32:203–9.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "1821_CR40",
+          "first-page": "S1",
+          "volume": "12",
+          "author": "WO Spitzer",
+          "year": "1987",
+          "unstructured": "Spitzer WO, LeBlanc FE, Dupuis M. Scientific approach to the assessment and management of activity-related spinal disorders. A monograph for clinicians. Report of the Quebec Task Force on Spinal Disorders SPINE. 1987;12:S1–S59.",
+          "journal-title": "Report of the Quebec Task Force on Spinal Disorders SPINE"
+        },
+        {
+          "key": "1821_CR41",
+          "doi-asserted-by": "publisher",
+          "first-page": "292",
+          "DOI": "10.1186/1472-6882-14-292",
+          "volume": "14",
+          "author": "T Xia",
+          "year": "2014",
+          "unstructured": "Xia T, Wilder DG, Gudavalli MR, DeVocht JW, Vining RD, Pohlman KA, et al. Study protocol for patient response to spinal manipulation - a prospective observational clinical trial on physiological and patient-centered outcomes in patients with chronic low back pain. BMC Complement Altern Med. 2014;14:292.",
+          "journal-title": "BMC Complement Altern Med"
+        },
+        {
+          "key": "1821_CR42",
+          "doi-asserted-by": "publisher",
+          "first-page": "c332",
+          "DOI": "10.1136/bmj.c332",
+          "volume": "340",
+          "author": "KF Schulz",
+          "year": "2010",
+          "unstructured": "Schulz KF, Altman DG, Moher D. CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials. BMJ. 2010;340:c332.",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "1821_CR43",
+          "volume-title": "Chiropractic Technique",
+          "author": "TF Bergmann",
+          "year": "2010",
+          "unstructured": "Bergmann TF, Peterson DH. Chiropractic Technique. 3rd ed. Elsevier Health Sciences: St. Louis, MO; 2010.",
+          "edition": "3"
+        },
+        {
+          "key": "1821_CR44",
+          "unstructured": "National Board of Chiropractic Examiners. Practice Analysis of Chiropractic 2015. 2015. Greeley, Colorado, NBCE."
+        },
+        {
+          "key": "1821_CR45",
+          "doi-asserted-by": "publisher",
+          "first-page": "227",
+          "DOI": "10.1002/nur.4770130405",
+          "volume": "13",
+          "author": "ME Wewers",
+          "year": "1990",
+          "unstructured": "Wewers ME, Lowe NK. A critical review of visual analogue scales in the measurement of clinical phenomena. Res Nurs Health. 1990;13:227–36.",
+          "journal-title": "Res Nurs Health"
+        },
+        {
+          "issue": "Suppl 11",
+          "key": "1821_CR46",
+          "doi-asserted-by": "publisher",
+          "first-page": "S240",
+          "DOI": "10.1002/acr.20543",
+          "volume": "63",
+          "author": "GA Hawker",
+          "year": "2011",
+          "unstructured": "Hawker GA, Mian S, Kendzerska T, French M. Measures of adult pain: visual analog scale for pain (VAS pain), numeric rating scale for pain (NRS pain), McGill pain questionnaire (MPQ), short-form McGill pain questionnaire (SF-MPQ), chronic pain grade scale (CPGS), short form-36 bodily pain scale (SF-36 BPS), and measure of intermittent and constant osteoarthritis pain (ICOAP). Arthritis Care Res (Hoboken ). 2011;63(Suppl 11):S240–52.",
+          "journal-title": "Arthritis Care Res (Hoboken )"
+        },
+        {
+          "key": "1821_CR47",
+          "doi-asserted-by": "publisher",
+          "first-page": "3115",
+          "DOI": "10.1097/00007632-200012150-00006",
+          "volume": "25",
+          "author": "M Roland",
+          "year": "2000",
+          "unstructured": "Roland M, Fairbank J. The Roland-Morris disability questionnaire and the Oswestry disability questionnaire. Spine. 2000;25:3115–24.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "1821_CR48",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Deyo RA, Battie M, Beurskens AJ, Bombardier C, Croft P, Koes B, Malmivaara A, Roland M, Von KM, Waddell G: Outcome measures for low back pain research. A proposal for standardized use. Spine 1998, 23: 2003–2013.",
+          "DOI": "10.1097/00007632-199809150-00018"
+        },
+        {
+          "key": "1821_CR49",
+          "doi-asserted-by": "publisher",
+          "first-page": "1014",
+          "DOI": "10.1007/s00586-005-0911-9",
+          "volume": "14",
+          "author": "AF Mannion",
+          "year": "2005",
+          "unstructured": "Mannion AF, Elfering A, Staerkle R, Junge A, Grob D, Semmer NK, et al. Outcome assessment in low back pain: how low can you go? Eur Spine J. 2005;14:1014–26.",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "1821_CR50",
+          "doi-asserted-by": "publisher",
+          "first-page": "19",
+          "DOI": "10.1054/math.2001.0432",
+          "volume": "7",
+          "author": "D Shirley",
+          "year": "2002",
+          "unstructured": "Shirley D, Ellis E, Lee M. The response of posteroanterior lumbar stiffness to repeated loading. Man Ther. 2002;7:19–25.",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "1821_CR51",
+          "doi-asserted-by": "publisher",
+          "first-page": "330",
+          "DOI": "10.1016/j.jmpt.2009.04.012",
+          "volume": "32",
+          "author": "MA Hondras",
+          "year": "2009",
+          "unstructured": "Hondras MA, Long CR, Cao Y, Rowell RM, Meeker WC. A randomized controlled trial comparing 2 types of spinal manipulation and minimal conservative medical care for adults 55 years and older with subacute or chronic low back pain. J Manip Physiol Ther. 2009;32:330–43.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "1821_CR52",
+          "doi-asserted-by": "publisher",
+          "first-page": "381",
+          "DOI": "10.7326/M14-0006",
+          "volume": "161",
+          "author": "G Bronfort",
+          "year": "2014",
+          "unstructured": "Bronfort G, Hondras MA, Schulz CA, Evans RL, Long CR, Grimm R. Spinal manipulation and home exercise with advice for subacute and chronic back-related leg pain: a trial with adaptive allocation. Ann Intern Med. 2014;161:381–91.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "1821_CR53",
+          "doi-asserted-by": "publisher",
+          "first-page": "161",
+          "DOI": "10.1186/1745-6215-12-161",
+          "volume": "12",
+          "author": "DG Wilder",
+          "year": "2011",
+          "unstructured": "Wilder DG, Vining RD, Pohlman KA, Meeker WC, Xia T, DeVocht JW, et al. Effect of spinal manipulation on sensorimotor functions in back pain patients: study protocol for a randomised controlled trial. Trials. 2011;12:161.",
+          "journal-title": "Trials"
+        },
+        {
+          "key": "1821_CR54",
+          "doi-asserted-by": "publisher",
+          "first-page": "335",
+          "DOI": "10.1016/j.spinee.2003.06.002",
+          "volume": "4",
+          "author": "G Bronfort",
+          "year": "2004",
+          "unstructured": "Bronfort G, Haas M, Evans RL, Bouter LM. Efficacy of spinal manipulation and mobilization for low back pain and neck pain: a systematic review and best evidence synthesis. Spine J. 2004;4:335–56.",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "1821_CR55",
+          "doi-asserted-by": "publisher",
+          "first-page": "659",
+          "DOI": "10.1016/j.jmpt.2008.10.007",
+          "volume": "31",
+          "author": "DJ Lawrence",
+          "year": "2008",
+          "unstructured": "Lawrence DJ, Meeker W, Branson R, Bronfort G, Cates JR, Haas M, et al. Chiropractic management of low back pain and low back-related leg complaints: a literature synthesis. J Manip Physiol Ther. 2008;31:659–74.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "1821_CR56",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Xia T, Long CR, Gudavalli MR, Wilder DG, Vining RD, Rowell RM, Reed WR, DeVocht JW, Goertz CM, Owens EF, Jr., Meeker WC: Similar effects of thrust and Nonthrust spinal manipulation found in adults with subacute and chronic low back pain: a controlled trial with adaptive allocation. \n                           Spine (Phila Pa 1976 ) 2016, 41: E702-E709.",
+          "DOI": "10.1097/BRS.0000000000001373"
+        },
+        {
+          "key": "1821_CR57",
+          "doi-asserted-by": "crossref",
+          "first-page": "12",
+          "DOI": "10.1007/s00586-002-0464-0",
+          "volume": "12",
+          "author": "O Hagg",
+          "year": "2003",
+          "unstructured": "Hagg O, Fritzell P, Nordwall A. The clinical importance of changes in outcome scores after treatment for chronic low back pain. Eur Spine J. 2003;12:12–20.",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "1821_CR58",
+          "doi-asserted-by": "publisher",
+          "first-page": "90",
+          "DOI": "10.1097/BRS.0b013e31815e3a10",
+          "volume": "33",
+          "author": "RW Ostelo",
+          "year": "2008",
+          "unstructured": "Ostelo RW, Deyo RA, Stratford P, Waddell G, Croft P, Von KM, et al. Interpreting change scores for pain and functional status in low back pain: towards international consensus regarding minimal important change. Spine (Phila Pa 1976). 2008;33:90–4.",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "1821_CR59",
+          "doi-asserted-by": "publisher",
+          "first-page": "E155",
+          "DOI": "10.1097/00007632-200104010-00018",
+          "volume": "26",
+          "author": "AD Furlan",
+          "year": "2001",
+          "unstructured": "Furlan AD, Clarke J, Esmail R, Sinclair S, Irvin E, Bombardier C. A critical review of reviews on the treatment of chronic low back pain. Spine. 2001;26:E155–62.",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "1821_CR60",
+          "doi-asserted-by": "publisher",
+          "first-page": "1197",
+          "DOI": "10.1093/ptj/78.11.1197",
+          "volume": "78",
+          "author": "DL Riddle",
+          "year": "1998",
+          "unstructured": "Riddle DL, Stratford PW, Binkley JM. Sensitivity to change of the Roland-Morris back pain questionnaire: part 2. Phys Ther. 1998;78:1197–207.",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "1821_CR61",
+          "doi-asserted-by": "publisher",
+          "first-page": "1106",
+          "DOI": "10.1016/j.spinee.2013.07.468",
+          "volume": "14",
+          "author": "M Haas",
+          "year": "2014",
+          "unstructured": "Haas M, Vavrek D, Peterson D, Polissar N, Neradilek MB. Dose-response and efficacy of spinal manipulation for care of chronic low back pain: a randomized controlled trial. Spine J. 2014;14:1106–16.",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "1821_CR62",
+          "doi-asserted-by": "publisher",
+          "first-page": "251",
+          "DOI": "10.1067/mmt.2002.123166",
+          "volume": "25",
+          "author": "DW Evans",
+          "year": "2002",
+          "unstructured": "Evans DW. Mechanisms and effects of spinal high-velocity, low-amplitude thrust manipulation: previous theories. J Manip Physiol Ther. 2002;25:251–62.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "1821_CR63",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Pickar JG. Neurophysiological effects of spinal manipulation. Spine J. 2002:357–71.",
+          "DOI": "10.1016/S1529-9430(02)00400-X"
+        },
+        {
+          "key": "1821_CR64",
+          "doi-asserted-by": "publisher",
+          "first-page": "785",
+          "DOI": "10.1016/j.jelekin.2012.01.015",
+          "volume": "22",
+          "author": "JG Pickar",
+          "year": "2012",
+          "unstructured": "Pickar JG, Bolton PS. Spinal manipulative therapy and somatosensory activation. J Electromyogr Kinesiol. 2012;22:785–94.",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "key": "1821_CR65",
+          "unstructured": "Uvnas-Moberg K, Petersson M: Role of oxytocin and oxytocin-related effects in manual therapies. In The science and clinical application of manual therapy. 1 edition. Edited by king HH, Jänig W, patterson MM. Edinburgh: Churchill Livingstone; 2011:147–161."
+        },
+        {
+          "key": "1821_CR66",
+          "doi-asserted-by": "publisher",
+          "first-page": "531",
+          "DOI": "10.1016/j.math.2008.09.001",
+          "volume": "14",
+          "author": "JE Bialosky",
+          "year": "2009",
+          "unstructured": "Bialosky JE, Bishop MD, Price DD, Robinson ME, George SZ. The mechanisms of manual therapy in the treatment of musculoskeletal pain: a comprehensive model. Man Ther. 2009;14:531–8.",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "1821_CR67",
+          "doi-asserted-by": "publisher",
+          "first-page": "162",
+          "DOI": "10.1186/1471-2474-12-162",
+          "volume": "12",
+          "author": "A Ruhe",
+          "year": "2011",
+          "unstructured": "Ruhe A, Fejer R, Walker B. Is there a relationship between pain intensity and postural sway in patients with non-specific low back pain? BMC Musculoskelet Disord. 2011;12:162.",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "1821_CR68",
+          "doi-asserted-by": "publisher",
+          "first-page": "39",
+          "DOI": "10.1186/1471-2474-13-39",
+          "volume": "13",
+          "author": "A Ruhe",
+          "year": "2012",
+          "unstructured": "Ruhe A, Fejer R, Walker B. Pain relief is associated with decreasing postural sway in patients with non-specific low back pain. BMC Musculoskelet Disord. 2012;13:39.",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "1821_CR69",
+          "doi-asserted-by": "publisher",
+          "first-page": "183",
+          "DOI": "10.1016/j.math.2015.08.001",
+          "volume": "21",
+          "author": "CM Goertz",
+          "year": "2016",
+          "unstructured": "Goertz CM, Xia T, Long CR, Vining RD, Pohlman KA, DeVocht JW, et al. Effects of spinal manipulation on sensorimotor function in low back pain patients--a randomised controlled trial. Man Ther. 2016;21:183–90.",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "1821_CR70",
+          "doi-asserted-by": "publisher",
+          "first-page": "920",
+          "DOI": "10.7326/0003-4819-141-12-200412210-00008",
+          "volume": "141",
+          "author": "JD Childs",
+          "year": "2004",
+          "unstructured": "Childs JD, Fritz JM, Flynn TW, Irrgang JJ, Johnson KK, Majkowski GR, et al. A clinical prediction rule to identify patients with low back pain most likely to benefit from spinal manipulation: a validation study. Ann Intern Med. 2004;141:920–8.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "1821_CR71",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Flynn T, Fritz J, Whitman J, Wainner R, Magel J, Rendeiro D, Butler B, Garber M, Allison S: A clinical prediction rule for classifying patients with low back pain who demonstrate short-term improvement with spinal manipulation. \n                           Spine (Phila Pa 1976 ) 2002, 27: 2835–2843.",
+          "DOI": "10.1097/00007632-200212150-00021"
+        },
+        {
+          "key": "1821_CR72",
+          "doi-asserted-by": "crossref",
+          "first-page": "173",
+          "DOI": "10.1093/ptj/84.2.173",
+          "volume": "84",
+          "author": "JM Fritz",
+          "year": "2004",
+          "unstructured": "Fritz JM, Whitman JM, Flynn TW, Wainner RS, Childs JD. Factors related to the inability of individuals with low back pain to improve with a spinal manipulation. Phys Ther. 2004;84:173–90.",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "1821_CR73",
+          "doi-asserted-by": "publisher",
+          "first-page": "7",
+          "DOI": "10.1016/S0304-3959(01)00333-5",
+          "volume": "94",
+          "author": "JM Fritz",
+          "year": "2001",
+          "unstructured": "Fritz JM, George SZ, Delitto A. The role of fear-avoidance beliefs in acute low back pain: relationships with current and future disability and work status. Pain. 2001;94:7–15.",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "1821_CR74",
+          "doi-asserted-by": "publisher",
+          "first-page": "613",
+          "DOI": "10.1002/art.20063",
+          "volume": "50",
+          "author": "T Giesecke",
+          "year": "2004",
+          "unstructured": "Giesecke T, Gracely RH, Grant MA, Nachemson A, Petzke F, Williams DA, et al. Evidence of augmented central pain processing in idiopathic chronic low back pain. Arthritis Rheum. 2004;50:613–23.",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "1821_CR75",
+          "doi-asserted-by": "publisher",
+          "first-page": "242",
+          "DOI": "10.1016/j.math.2005.07.001",
+          "volume": "10",
+          "author": "P O'Sullivan",
+          "year": "2005",
+          "unstructured": "O'Sullivan P. Diagnosis and classification of chronic low back pain disorders: maladaptive movement and motor control impairments as underlying mechanism. Man Ther. 2005;10:242–55.",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "1821_CR76",
+          "doi-asserted-by": "publisher",
+          "first-page": "S2",
+          "DOI": "10.1016/j.pain.2010.09.030",
+          "volume": "152",
+          "author": "CJ Woolf",
+          "year": "2011",
+          "unstructured": "Woolf CJ. Central sensitization: implications for the diagnosis and treatment of pain. Pain. 2011;152:S2–15.",
+          "journal-title": "Pain"
+        }
+      ],
+      "container-title": [
+        "BMC Complementary and Alternative Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s12906-017-1821-1.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1186/s12906-017-1821-1/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s12906-017-1821-1.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            5,
+            14
+          ]
+        ],
+        "date-time": "2020-05-14T11:15:12Z",
+        "timestamp": 1589454912000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bmccomplementalternmed.biomedcentral.com/articles/10.1186/s12906-017-1821-1"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            6,
+            9
+          ]
+        ]
+      },
+      "references-count": 76,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "1821"
+      ],
+      "URL": "https://doi.org/10.1186/s12906-017-1821-1",
+      "relation": {},
+      "ISSN": [
+        "1472-6882"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1472-6882"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            6,
+            9
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "10 October 2016",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "1 June 2017",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "9 June 2017",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        }
+      ],
+      "article-number": "303"
+    }
+  }
+}

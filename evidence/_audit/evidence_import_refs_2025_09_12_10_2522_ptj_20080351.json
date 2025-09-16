@@ -1,0 +1,567 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_2522_ptj_20080351.md",
+  "id": "evidence_import_refs_2025_09_12_10_2522_ptj_20080351",
+  "doi": "10.2522/ptj.20080351",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:38.227268Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            29
+          ]
+        ],
+        "date-time": "2025-08-29T09:49:24Z",
+        "timestamp": 1756460964710
+      },
+      "reference-count": 35,
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "7",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            7,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Many researchers and clinicians believe the effectiveness of existing physical therapy interventions can be improved by targeting the provision of specific interventions at patients who respond best to that treatment. Although this approach has the potential to improve outcomes for some patients, it needs to be implemented carefully because some methods used to identify subgroups can produce biased or misleading results. The aim of this article is to assist readers in assessing the validity and generalizability of studies designed to identify subgroups of responders to physical therapy interventions. The key messages are that subgroups should be identified using high-quality randomized controlled trials, the investigation should be limited to a relatively small number of potential subgroups for which there is a plausible rationale, subgroup effects should be investigated by formally analyzing statistical interactions, and findings of subgroups should be subject to external validation.</jats:p>",
+      "DOI": "10.2522/ptj.20080351",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2009,
+            5,
+            21
+          ]
+        ],
+        "date-time": "2009-05-21T20:44:36Z",
+        "timestamp": 1242938676000
+      },
+      "page": "698-704",
+      "source": "Crossref",
+      "is-referenced-by-count": 141,
+      "title": [
+        "A Guide to Interpretation of Studies Investigating Subgroups of Responders to Physical Therapy Interventions"
+      ],
+      "prefix": "10.1093",
+      "volume": "89",
+      "author": [
+        {
+          "given": "Mark",
+          "family": "Hancock",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "M. Hancock, PT, PhD, is Lecturer, Back Pain Research Group, The University of Sydney, Sydney, New South Wales, Australia. Mailing address: Faculty of Health Sciences, The University of Sydney, PO Box 170, Lidcombe 1825, New South Wales, Australia."
+            }
+          ]
+        },
+        {
+          "given": "Robert D.",
+          "family": "Herbert",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "R.D. Herbert, PT, PhD, is Senior Research Fellow, The George Institute for International Health, The University of Sydney."
+            }
+          ]
+        },
+        {
+          "given": "Christopher G.",
+          "family": "Maher",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "C.G. Maher, PT, PhD, is Director, The George Institute for International Health, The University of Sydney."
+            }
+          ]
+        }
+      ],
+      "member": "286",
+      "reference": [
+        {
+          "key": "2019123106382623300_R1",
+          "doi-asserted-by": "crossref",
+          "first-page": "623",
+          "DOI": "10.1097/01.brs.0000202807.72292.a8",
+          "article-title": "Identifying subgroups of patients with acute/subacute “nonspecific” low back pain: results of a randomized clinical trial",
+          "volume": "31",
+          "author": "Brennan",
+          "year": "2006",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123106382623300_R2",
+          "doi-asserted-by": "crossref",
+          "first-page": "1943",
+          "DOI": "10.1097/00007632-199509000-00021",
+          "article-title": "Functional disability scales for back pain",
+          "volume": "20",
+          "author": "Kopec",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123106382623300_R3",
+          "doi-asserted-by": "crossref",
+          "first-page": "883",
+          "DOI": "10.1136/bmj.38250.571088.55",
+          "article-title": "Issues in the reporting of epidemiological studies: a survey of recent practice",
+          "volume": "329",
+          "author": "Pocock",
+          "year": "2004",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "2019123106382623300_R4",
+          "doi-asserted-by": "crossref",
+          "first-page": "1781",
+          "DOI": "10.1056/NEJM199906103402302",
+          "article-title": "Effects of tissue plasminogen activator for acute ischemic stroke at one year",
+          "volume": "340",
+          "author": "Kwiatkowski",
+          "year": "1999",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "2019123106382623300_R5",
+          "doi-asserted-by": "crossref",
+          "first-page": "1581",
+          "DOI": "10.1056/NEJM199512143332401",
+          "article-title": "Tissue plasminogen activator for acute ischemic stroke",
+          "volume": "333",
+          "year": "1995",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "2019123106382623300_R6",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.pain.2006.01.023",
+          "article-title": "Course and prognosis of back pain in primary care: the epidemiological perspective",
+          "volume": "122",
+          "author": "Croft",
+          "year": "2006",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2019123106382623300_R7",
+          "doi-asserted-by": "crossref",
+          "first-page": "51",
+          "DOI": "10.1016/j.ejpain.2008.03.007",
+          "article-title": "Can rate of recovery be predicted in patients with acute low back",
+          "volume": "13",
+          "author": "Hancock",
+          "year": "2009",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "2019123106382623300_R8",
+          "doi-asserted-by": "crossref",
+          "first-page": "920",
+          "DOI": "10.7326/0003-4819-141-12-200412210-00008",
+          "article-title": "A clinical prediction rule to identify patients with low back pain most likely to benefit from spinal manipulation: a validation study",
+          "volume": "141",
+          "author": "Childs",
+          "year": "2004",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "2019123106382623300_R9",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.2522/ptj.20060155",
+          "article-title": "Development of a clinical prediction rule for guiding treatment of a subgroup of patients with neck pain: use of thoracic spine manipulation, exercise, and patient education",
+          "volume": "87",
+          "author": "Cleland",
+          "year": "2007",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2019123106382623300_R10",
+          "doi-asserted-by": "crossref",
+          "first-page": "264",
+          "DOI": "10.1111/j.1468-2982.2007.01530.x",
+          "article-title": "Predictor variables for identifying patients with chronic tension-type headache who are likely to achieve short-term success with muscle trigger point therapy",
+          "volume": "28",
+          "author": "Fernandez-de-las-Penas",
+          "year": "2008",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "2019123106382623300_R11",
+          "doi-asserted-by": "crossref",
+          "first-page": "2835",
+          "DOI": "10.1097/00007632-200212150-00021",
+          "article-title": "A clinical prediction rule for classifying patients with low back pain who demonstrate short-term improvement with spinal manipulation",
+          "volume": "27",
+          "author": "Flynn",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123106382623300_R12",
+          "doi-asserted-by": "crossref",
+          "first-page": "297",
+          "DOI": "10.2519/jospt.2008.2669",
+          "article-title": "Lumbopelvic manipulation for the treatment of patients with patellofemoral pain syndrome: development of a clinical prediction rule",
+          "volume": "38",
+          "author": "Iverson",
+          "year": "2008",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2019123106382623300_R13",
+          "doi-asserted-by": "crossref",
+          "first-page": "157",
+          "DOI": "10.1016/S0004-9514(06)70024-1",
+          "article-title": "Clinical prediction rules: what are they and what do they tell us",
+          "volume": "52",
+          "author": "Beattie",
+          "year": "2006",
+          "journal-title": "Aust J Physiother"
+        },
+        {
+          "key": "2019123106382623300_R14",
+          "doi-asserted-by": "crossref",
+          "first-page": "488",
+          "DOI": "10.1001/jama.1997.03540300056034",
+          "article-title": "Clinical prediction rules: a review and suggested modifications of methodological standards",
+          "volume": "277",
+          "author": "Laupacis",
+          "year": "1997",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "2019123106382623300_R15",
+          "doi-asserted-by": "crossref",
+          "first-page": "79",
+          "DOI": "10.1001/jama.284.1.79",
+          "article-title": "Users’ guides to the medical literature, XXII: how to use articles about clinical decision rules",
+          "volume": "284",
+          "author": "McGinn",
+          "year": "2000",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "2019123106382623300_R16",
+          "doi-asserted-by": "crossref",
+          "first-page": "1418",
+          "DOI": "10.1097/00007632-200107010-00005",
+          "article-title": "Lessons from a trial of acupuncture and massage for low back pain: patient expectations and treatment effects",
+          "volume": "26",
+          "author": "Kalauokalani",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123106382623300_R17",
+          "doi-asserted-by": "crossref",
+          "first-page": "1167",
+          "DOI": "10.1097/00007632-200406010-00002",
+          "article-title": "High fear-avoiders of physical activity benefit from an exercise program for patients with back pain",
+          "volume": "29",
+          "author": "Klaber Moffett",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123106382623300_R18",
+          "doi-asserted-by": "crossref",
+          "first-page": "59",
+          "DOI": "10.1016/j.pain.2006.08.030",
+          "article-title": "Randomized controlled trial of exercise for chronic whiplash-associated disorders",
+          "volume": "128",
+          "author": "Stewart",
+          "year": "2007",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2019123106382623300_R19",
+          "doi-asserted-by": "crossref",
+          "first-page": "1297",
+          "DOI": "10.1093/rheumatology/kem113",
+          "article-title": "Do baseline characteristics predict response to treatment for low back pain",
+          "volume": "46",
+          "author": "Underwood",
+          "year": "2007",
+          "journal-title": "Rheumatology (Oxford)"
+        },
+        {
+          "key": "2019123106382623300_R20",
+          "doi-asserted-by": "crossref",
+          "first-page": "43",
+          "DOI": "10.1016/S0004-9514(14)60281-6",
+          "article-title": "Evidence for physiotherapy practice: a survey of the Physiotherapy Evidence Database (PEDro)",
+          "volume": "48",
+          "author": "Moseley",
+          "year": "2002",
+          "journal-title": "Aust J Physiother"
+        },
+        {
+          "key": "2019123106382623300_R21",
+          "doi-asserted-by": "crossref",
+          "first-page": "408",
+          "DOI": "10.1001/jama.1995.03520290060030",
+          "article-title": "Empirical evidence of bias: dimensions of methodological quality associated with estimates of treatment effects in controlled trials",
+          "volume": "273",
+          "author": "Schulz",
+          "year": "1995",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "2019123106382623300_R22",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.3310/hta5330",
+          "article-title": "Subgroup analyses in randomised controlled trials: quantifying the risks of false-positives and false-negatives",
+          "volume": "5",
+          "author": "Brookes",
+          "year": "2001",
+          "journal-title": "Health Technol Assess"
+        },
+        {
+          "key": "2019123106382623300_R23",
+          "doi-asserted-by": "crossref",
+          "first-page": "605",
+          "DOI": "10.1016/S0197-2456(01)00180-5",
+          "article-title": "Trials within trials: confirmatory subgroup analyses in controlled clinical experiments",
+          "volume": "22",
+          "author": "Moye",
+          "year": "2001",
+          "journal-title": "Control Clin Trials"
+        },
+        {
+          "key": "2019123106382623300_R24",
+          "doi-asserted-by": "crossref",
+          "first-page": "93",
+          "DOI": "10.1001/jama.1991.03470010097038",
+          "article-title": "Analysis and interpretation of treatment effects in subgroups of patients in randomized clinical trials",
+          "volume": "266",
+          "author": "Yusuf",
+          "year": "1991",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "2019123106382623300_R25",
+          "doi-asserted-by": "crossref",
+          "first-page": "192",
+          "DOI": "10.1016/j.math.2006.11.004",
+          "article-title": "Effects of patellar taping on knee joint proprioception in patients with patellofemoral pain syndrome",
+          "volume": "13",
+          "author": "Callaghan",
+          "year": "2008",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "2019123106382623300_R26",
+          "doi-asserted-by": "crossref",
+          "first-page": "795",
+          "DOI": "10.1056/NEJMoa052771",
+          "article-title": "Glucosamine, chondroitin sulfate, and the two in combination for painful knee osteoarthritis",
+          "volume": "354",
+          "author": "Clegg",
+          "year": "2006",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "2019123106382623300_R27",
+          "doi-asserted-by": "crossref",
+          "first-page": "1070",
+          "DOI": "10.1007/s00586-005-0021-8",
+          "article-title": "A randomized clinical trial and subgroup analysis to compare flexion-distraction with active exercise for chronic low back pain",
+          "volume": "15",
+          "author": "Gudavalli",
+          "year": "2006",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "2019123106382623300_R28",
+          "doi-asserted-by": "crossref",
+          "first-page": "428",
+          "DOI": "10.1097/BRS.0b013e31816469de",
+          "article-title": "SPORT lumbar intervertebral disk herniation and back pain: does treatment, location, or morphology matter",
+          "volume": "33",
+          "author": "Pearson",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123106382623300_R29",
+          "doi-asserted-by": "crossref",
+          "first-page": "1875",
+          "DOI": "10.1097/00007632-199809010-00016",
+          "article-title": "One-year follow-up comparison of the cost and effectiveness of chiropractic and physiotherapy as primary management for back pain: subgroup analysis, recurrence, and additional health care utilization",
+          "volume": "23",
+          "author": "Skargren",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2019123106382623300_R30",
+          "doi-asserted-by": "crossref",
+          "first-page": "4",
+          "DOI": "10.1016/j.ctcp.2006.08.002",
+          "article-title": "An experimental study comparing the effects of combined transcutaneous acupoint electrical stimulation and electromagnetic millimeter waves for spinal pain in Hong Kong",
+          "volume": "13",
+          "author": "Yip",
+          "year": "2007",
+          "journal-title": "Comp Ther Clin Pract"
+        },
+        {
+          "key": "2019123106382623300_R31",
+          "doi-asserted-by": "crossref",
+          "first-page": "229",
+          "DOI": "10.1016/j.jclinepi.2003.08.009",
+          "article-title": "Subgroup analyses in randomized trials: risks of subgroup-specific analyses: power and sample size for the interaction test",
+          "volume": "57",
+          "author": "Brookes",
+          "year": "2004",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "2019123106382623300_R32",
+          "doi-asserted-by": "crossref",
+          "first-page": "119",
+          "DOI": "10.1016/j.ajog.2007.02.030",
+          "article-title": "Subgroup analysis in obstetrics clinical trials",
+          "volume": "197",
+          "author": "Klebanoff",
+          "year": "2007",
+          "journal-title": "Am J Obstet Gynecol"
+        },
+        {
+          "key": "2019123106382623300_R33",
+          "doi-asserted-by": "crossref",
+          "first-page": "1667",
+          "DOI": "10.1056/NEJMp068070",
+          "article-title": "The challenge of subgroup analyses: reporting without distorting",
+          "volume": "354",
+          "author": "Lagakos",
+          "year": "2006",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "2019123106382623300_R34",
+          "doi-asserted-by": "crossref",
+          "first-page": "670",
+          "DOI": "10.1016/j.pain.2008.07.015",
+          "article-title": "Which subgroups of patients with non-specific neck pain are more likely to benefit from spinal manipulation therapy, physiotherapy, or usual care",
+          "volume": "139",
+          "author": "Schellingerhout",
+          "year": "2008",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2019123106382623300_R35",
+          "doi-asserted-by": "crossref",
+          "first-page": "203",
+          "DOI": "10.2519/jospt.2005.35.4.203",
+          "article-title": "The relationship between lumbar segmental motion and pain response produced by a posterior-to-anterior force in persons with nonspecific low back pain",
+          "volume": "35",
+          "author": "Beneck",
+          "year": "2005",
+          "journal-title": "J Orthop Sports Phys Ther"
+        }
+      ],
+      "container-title": [
+        "Physical Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://academic.oup.com/ptj/article-pdf/89/7/698/31662969/ptj0698.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "http://academic.oup.com/ptj/article-pdf/89/7/698/31662969/ptj0698.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            12,
+            31
+          ]
+        ],
+        "date-time": "2019-12-31T06:38:56Z",
+        "timestamp": 1577774336000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://academic.oup.com/ptj/article/89/7/698/2747290"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2009,
+            7,
+            1
+          ]
+        ]
+      },
+      "references-count": 35,
+      "journal-issue": {
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              7,
+              1
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.2522/ptj.20080351",
+      "relation": {},
+      "ISSN": [
+        "0031-9023",
+        "1538-6724"
+      ],
+      "issn-type": [
+        {
+          "value": "0031-9023",
+          "type": "print"
+        },
+        {
+          "value": "1538-6724",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2009,
+            7,
+            1
+          ]
+        ]
+      }
+    }
+  }
+}

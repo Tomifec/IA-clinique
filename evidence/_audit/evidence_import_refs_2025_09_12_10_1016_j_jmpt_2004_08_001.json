@@ -1,0 +1,438 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jmpt_2004_08_001.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jmpt_2004_08_001",
+  "doi": "10.1016/j.jmpt.2004.08.001",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:50.462286Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            11
+          ]
+        ],
+        "date-time": "2025-04-11T06:47:48Z",
+        "timestamp": 1744354068841
+      },
+      "reference-count": 22,
+      "publisher": "Elsevier BV",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2004,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2004-10-01T00:00:00Z",
+            "timestamp": 1096588800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Journal of Manipulative and Physiological Therapeutics"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2004,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jmpt.2004.08.001",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2004,
+            10,
+            28
+          ]
+        ],
+        "date-time": "2004-10-28T18:44:17Z",
+        "timestamp": 1098989057000
+      },
+      "page": "493-502",
+      "source": "Crossref",
+      "is-referenced-by-count": 58,
+      "title": [
+        "The Nordic Back Pain Subpopulation Program: Demographic and Clinical Predictors for Outcome in Patients Receiving Chiropractic Treatment for Persistent Low–Back Pain"
+      ],
+      "prefix": "10.1016",
+      "volume": "27",
+      "author": [
+        {
+          "given": "Charlotte",
+          "family": "Leboeuf-Yde",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Arndt",
+          "family": "Grønstvedt",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jan Arve",
+          "family": "Borge",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jakob",
+          "family": "Lothe",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Eli",
+          "family": "Magnesen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Øyvind",
+          "family": "Nilsson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gro",
+          "family": "Røsok",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lars-Christian",
+          "family": "Stig",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kristian",
+          "family": "Larsen",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1356",
+          "DOI": "10.1136/bmj.316.7141.1356",
+          "article-title": "Outcome of low back pain in general practice: a prospective study",
+          "volume": "316",
+          "author": "Croft",
+          "year": "1998",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "223",
+          "DOI": "10.1093/fampra/16.3.223",
+          "article-title": "Long-term prognosis of acute low back pain in patients seen in general practice: a 1-year prospective follow-up study",
+          "volume": "16",
+          "author": "Schiøttz-Christensen",
+          "year": "1999",
+          "journal-title": "Fam Pract"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "2128",
+          "DOI": "10.1097/00007632-199709150-00012",
+          "article-title": "Conservative treatment of acute and chronic non-specific low back pain: a systematic review of randomised controlled trials of the most common interventions",
+          "volume": "22",
+          "author": "van Tulder",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "189",
+          "DOI": "10.1016/S0304-3959(01)00444-4",
+          "article-title": "Acupuncture treatment of chronic low-back pain-a randomized, blinded, placebo-controlled trial with 9-month follow-up",
+          "volume": "96",
+          "author": "Leibing",
+          "year": "2002",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "351",
+          "DOI": "10.1056/NEJM199502093320602",
+          "article-title": "The treatment of acute low back pain-bed rest, exercizes, or ordinary activity?",
+          "volume": "332",
+          "author": "Malmivaara",
+          "year": "1995",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1136/ard.57.1.13",
+          "article-title": "On the course of low back pain in general practice: a one year follow up study",
+          "volume": "57",
+          "author": "van den Hoogen",
+          "year": "1998",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "213",
+          "DOI": "10.1016/S0304-3959(97)00106-1",
+          "article-title": "One-year follow-up of first onset low back pain",
+          "volume": "73",
+          "author": "Wahlgren",
+          "year": "1997",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib8",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Haas M, Nyiendo J, Aickin M. One-year trend in pain and disability relief recall in acute and chronic ambulatory low back pain patients. Pain 202;95:83-91.",
+          "DOI": "10.1016/S0304-3959(01)00377-3"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "157",
+          "DOI": "10.1097/00005650-199902000-00006",
+          "article-title": "Recurrence and care seeking after acute back pain. Results of a long-term follow-up study",
+          "volume": "37",
+          "author": "Carey",
+          "year": "1999",
+          "journal-title": "Med Care"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "855",
+          "DOI": "10.1097/00007632-199306000-00008",
+          "article-title": "Back pain in primary care. Outcomes at 1 year",
+          "volume": "18",
+          "author": "Von Korff",
+          "year": "1993",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "478",
+          "DOI": "10.1097/00007632-199502001-00012",
+          "article-title": "The prediction of chronicity in patients with an acute attack of low back pain in a general practice setting",
+          "volume": "20",
+          "author": "Klenerman",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib12",
+          "series-title": "Statistics with confidence",
+          "first-page": "284",
+          "year": "2002"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "50",
+          "DOI": "10.3109/02813439608997068",
+          "article-title": "Side-effects of chiropractic spinal manipulation",
+          "volume": "14",
+          "author": "Senstad",
+          "year": "1996",
+          "journal-title": "Scand J Prim Health Care"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib14",
+          "first-page": "507",
+          "article-title": "Chiropractic in Sweden: a short description of patients and treatment",
+          "volume": "20",
+          "author": "Leboeuf-Yde",
+          "year": "1997",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "1017",
+          "DOI": "10.1097/00007632-199505000-00008",
+          "article-title": "Measuring the functional status of patients with low back pain. Assessment of the quality of four disease-specific questionnaires",
+          "volume": "20",
+          "author": "Beurskens",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "209",
+          "DOI": "10.1097/00002508-199109000-00007",
+          "article-title": "Pain intensity measurement in chronic low back pain",
+          "volume": "7",
+          "author": "Strong",
+          "year": "1991",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "503",
+          "DOI": "10.1016/S0161-4754(99)70001-1",
+          "article-title": "The Bournemouth Questionnaire. A short-form comprehensive outcome measure. 1. Psychometric properties on back pain patients",
+          "volume": "22",
+          "author": "Bolton",
+          "year": "1999",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "288",
+          "DOI": "10.1067/mmt.2001.114362",
+          "article-title": "Recovery pattern of patients treated with chiropractic spinal manipulative therapy for long-lasting or recurrent low back pain",
+          "volume": "24",
+          "author": "Stig",
+          "year": "2001",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib19",
+          "unstructured": "Gardner M, Gardner SB, Winter PD. Confidence interval analysis. Version 1.2. Tavistock Square, London: BMJ Publishing Group."
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib20",
+          "series-title": "Statistics with confidence",
+          "first-page": "111",
+          "year": "2002"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "722",
+          "DOI": "10.1097/00007632-199503150-00014",
+          "article-title": "Psychosocial predictors of outcome in acute and subchronic low back trouble",
+          "volume": "20",
+          "author": "Burton",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jmpt.2004.08.001_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "239",
+          "DOI": "10.1016/S0161-4754(00)90170-2",
+          "article-title": "Patient characteristics, practice activities, and one-month outcomes for chronic, recurrent low–back pain treated by chiropractors and family medicine physicians: a practice-based feasibility study",
+          "volume": "23",
+          "author": "Nyiendo",
+          "year": "2000",
+          "journal-title": "J Manipulative Physiol Ther"
+        }
+      ],
+      "container-title": [
+        "Journal of Manipulative and Physiological Therapeutics"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0161475404001587?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0161475404001587?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            2
+          ]
+        ],
+        "date-time": "2019-02-02T18:25:48Z",
+        "timestamp": 1549131948000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0161475404001587"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2004,
+            10
+          ]
+        ]
+      },
+      "references-count": 22,
+      "journal-issue": {
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2004,
+              10
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0161475404001587"
+      ],
+      "URL": "https://doi.org/10.1016/j.jmpt.2004.08.001",
+      "relation": {},
+      "ISSN": [
+        "0161-4754"
+      ],
+      "issn-type": [
+        {
+          "value": "0161-4754",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2004,
+            10
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,799 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jbmt_2020_06_004.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jbmt_2020_06_004",
+  "doi": "10.1016/j.jbmt.2020.06.004",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:38.407540Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            13
+          ]
+        ],
+        "date-time": "2025-05-13T19:15:58Z",
+        "timestamp": 1747163758005,
+        "version": "3.40.5"
+      },
+      "reference-count": 50,
+      "publisher": "Elsevier BV",
+      "issue": "4",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2020-10-01T00:00:00Z",
+            "timestamp": 1601510400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "clinicalkey.fr",
+          "clinicalkey.com.au",
+          "bodyworkmovementtherapies.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Bodywork and Movement Therapies"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jbmt.2020.06.004",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2020,
+            7,
+            11
+          ]
+        ],
+        "date-time": "2020-07-11T06:21:32Z",
+        "timestamp": 1594448492000
+      },
+      "page": "76-83",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "Eligibility of the movement-based classification systems in the diagnosis of patients with low back pain: A systematic review"
+      ],
+      "prefix": "10.1016",
+      "volume": "24",
+      "author": [
+        {
+          "given": "Mehrnaz",
+          "family": "Kajbafvala",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Nahid",
+          "family": "Rahmani",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6638-0438",
+          "authenticated-orcid": false,
+          "given": "Mohammad Ali",
+          "family": "Mohseni Bandpei",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mahyar",
+          "family": "Salavati",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "11",
+          "key": "10.1016/j.jbmt.2020.06.004_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1163",
+          "DOI": "10.1093/ptj/77.11.1163",
+          "article-title": "American physical therapy association guide to physical therapist practice",
+          "volume": "77",
+          "author": "Alexandria",
+          "year": "1997",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.jbmt.2020.06.004_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "219",
+          "DOI": "10.1093/ptj/74.3.219",
+          "article-title": "Managing low back pain: attitudes and treatment preferences of physical therapists",
+          "volume": "74",
+          "author": "Battle",
+          "year": "1994",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "issue": "24",
+          "key": "10.1016/j.jbmt.2020.06.004_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "2880",
+          "DOI": "10.1097/00007632-199612150-00019",
+          "article-title": "An agenda for primary care research on low back pain",
+          "volume": "21",
+          "author": "Borkan",
+          "year": "1996",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "18",
+          "key": "10.1016/j.jbmt.2020.06.004_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "1992",
+          "DOI": "10.1097/00007632-199809150-00016",
+          "article-title": "A report from the second international forum for primary care research on low back pain: reexamining priorities",
+          "volume": "23",
+          "author": "Borkan",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jbmt.2020.06.004_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "272",
+          "DOI": "10.1016/j.math.2005.06.002",
+          "article-title": "Exercise therapy for low back pain: a small-scale exploratory survey of current physiotherapy practice in the Republic of Ireland acute hospital setting",
+          "volume": "11",
+          "author": "Byrne",
+          "year": "2006",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jbmt.2020.06.004_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "304",
+          "DOI": "10.1097/BRS.0b013e3181928f9a",
+          "article-title": "The ninth international forum for primary care research on low back pain",
+          "volume": "34",
+          "author": "Cherkin",
+          "year": "2009",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jbmt.2020.06.004_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "114",
+          "DOI": "10.1016/j.physio.2004.05.001",
+          "article-title": "Reliability of the McKenzie spinal pain classification using patient assessment forms",
+          "volume": "90",
+          "author": "Clare",
+          "year": "2004",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jbmt.2020.06.004_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "122",
+          "DOI": "10.1016/j.jmpt.2005.01.003",
+          "article-title": "Reliability of McKenzie classification of patients with cervical or lumbar pain",
+          "volume": "28",
+          "author": "Clare",
+          "year": "2005",
+          "journal-title": "J. Manipulative Physiol. Therapeut."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jbmt.2020.06.004_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "698",
+          "DOI": "10.1097/01.brs.0000202532.76925.d2",
+          "article-title": "Differences in sitting postures are associated with nonspecific chronic low back pain disorders when patients are subclassified",
+          "volume": "31",
+          "author": "Dankaerts",
+          "year": "2006",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "17",
+          "key": "10.1016/j.jbmt.2020.06.004_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "2017",
+          "DOI": "10.1097/01.brs.0000228728.11076.82",
+          "article-title": "Altered patterns of superficial trunk muscle activation during sitting in nonspecific chronic low back pain patients: importance of subclassification",
+          "volume": "31",
+          "author": "Dankaerts",
+          "year": "2006",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jbmt.2020.06.004_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "28",
+          "DOI": "10.1016/j.math.2005.02.001",
+          "article-title": "The inter-examiner reliability of a classification method for non-specific chronic low back pain patients with motor control impairment",
+          "volume": "11",
+          "author": "Dankaerts",
+          "year": "2006",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jbmt.2020.06.004_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "555",
+          "DOI": "10.1016/j.math.2008.08.003",
+          "article-title": "Inter-examiner reliability of a classification system for patients with non-specific low back pain",
+          "volume": "14",
+          "author": "Fersum",
+          "year": "2009",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "13",
+          "key": "10.1016/j.jbmt.2020.06.004_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1332",
+          "DOI": "10.1097/00007632-199907010-00011",
+          "article-title": "Management of nonspecific low back pain by physiotherapists in Britain and Ireland: a descriptive questionnaire of current clinical practice",
+          "volume": "24",
+          "author": "Foster",
+          "year": "1999",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jbmt.2020.06.004_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "513",
+          "DOI": "10.2522/ptj.20060192",
+          "article-title": "Preliminary examination of a proposed treatment-based classification system for patients receiving physical therapy interventions for neck pain",
+          "volume": "87",
+          "author": "Fritz",
+          "year": "2007",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jbmt.2020.06.004_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "406",
+          "DOI": "10.1097/00007632-200202150-00017",
+          "article-title": "Physiotherapy management of low back pain: a survey of current practice in Northern Ireland",
+          "volume": "27",
+          "author": "Gracey",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jbmt.2020.06.004_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "441",
+          "DOI": "10.2522/ptj.20050370",
+          "article-title": "Patterns of lumbar region movement during trunk lateral bending in 2 subgroups of people with low back pain",
+          "volume": "87",
+          "author": "Gombatto",
+          "year": "2007",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jbmt.2020.06.004_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "109",
+          "DOI": "10.1080/14038190310004871",
+          "article-title": "Danish physiotherapists' management of low back pain",
+          "volume": "5",
+          "author": "Hamm",
+          "year": "2003",
+          "journal-title": "Adv. Physiother."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jbmt.2020.06.004_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "203",
+          "DOI": "10.2519/jospt.2008.2584",
+          "article-title": "Diagnosis and management of a patient with knee pain using the movement system impairment classification system",
+          "volume": "38",
+          "author": "Harris-Hayes",
+          "year": "2008",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jbmt.2020.06.004_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "117",
+          "DOI": "10.1016/j.pmrj.2008.08.001",
+          "article-title": "The inter-tester reliability of physical therapists classifying low back pain problems based on the movement system impairment classification system",
+          "volume": "1",
+          "author": "Harris-Hayes",
+          "year": "2009",
+          "journal-title": "PM&R"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jbmt.2020.06.004_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "304",
+          "DOI": "10.4085/1062-6050-49.2.21",
+          "article-title": "Classification of lower extremity movement patterns based on visual assessment: reliability and correlation with 2-dimensional video analysis",
+          "volume": "49",
+          "author": "Harris-Hayes",
+          "year": "2014",
+          "journal-title": "J. Athl. Train."
+        },
+        {
+          "year": "2008",
+          "series-title": "Multimodal Management of Mechanical Nec",
+          "author": "Heintz",
+          "key": "10.1016/j.jbmt.2020.06.004_bib21"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jbmt.2020.06.004_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1016/j.math.2012.06.008",
+          "article-title": "Reliability of novice raters in using the movement system impairment approach to classify people with low back pain",
+          "volume": "18",
+          "author": "Henry",
+          "year": "2012",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.jbmt.2020.06.004_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "573",
+          "DOI": "10.1016/S0031-9406(05)61124-8",
+          "article-title": "How is low back pain managed?: retrospective study of the first 200 patients with low back pain referred to a newly established community-based physiotherapy department",
+          "volume": "87",
+          "author": "Jackson",
+          "year": "2001",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "10.1016/j.jbmt.2020.06.004_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "117",
+          "DOI": "10.1016/j.math.2016.07.014",
+          "article-title": "Intratester and intertester reliability of the movement system impairment-based classification for patients with knee pain",
+          "volume": "26",
+          "author": "Kajbafvala",
+          "year": "2016",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "10.1016/j.jbmt.2020.06.004_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.1016/j.math.2016.05.333",
+          "article-title": "Validation of the movement system impairment-based classification in patients with knee pain",
+          "volume": "25",
+          "author": "Kajbafvala",
+          "year": "2016",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jbmt.2020.06.004_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "24",
+          "DOI": "10.1186/1471-2474-13-24",
+          "article-title": "Physiotherapy movement based classification approaches to low back pain: comparison of subgroups through review and developer/expert survey",
+          "volume": "13",
+          "author": "Karayannis",
+          "year": "2012",
+          "journal-title": "BMC Muscoskel. Disord."
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.jbmt.2020.06.004_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "1433",
+          "DOI": "10.1097/01.brs.0000166523.84016.4b",
+          "article-title": "Classification in nonspecific low back pain: what methods do primary care clinicians currently use?",
+          "volume": "30",
+          "author": "Kent",
+          "year": "2005",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.jbmt.2020.06.004_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "579",
+          "DOI": "10.1016/S0031-9406(10)63053-2",
+          "article-title": "The reliability of back pain assessment by physiotherapists, using a ‘McKenzie algorithm’",
+          "volume": "76",
+          "author": "Kilby",
+          "year": "1990",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.jbmt.2020.06.004_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "E207",
+          "DOI": "10.1097/00007632-200204150-00016",
+          "article-title": "Interexaminer reliability of low back pain assessment using the McKenzie method",
+          "volume": "27",
+          "author": "Kilpikoski",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.jbmt.2020.06.004_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "877",
+          "DOI": "10.1097/00007632-199704150-00010",
+          "article-title": "Why has the search for causes of low back pain largely been nonconclusive?",
+          "volume": "22",
+          "author": "Leboeuf-Yde",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jbmt.2020.06.004_bib31",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pmed.1000100",
+          "article-title": "The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: explanation and elaboration",
+          "volume": "6",
+          "author": "Liberati",
+          "year": "2009",
+          "journal-title": "PLoS Med."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jbmt.2020.06.004_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "280",
+          "DOI": "10.2519/jospt.2013.0104",
+          "article-title": "What’s in a name? Using movement system diagnoses versus pathoanatomic diagnoses",
+          "volume": "43",
+          "author": "Ludewig",
+          "year": "2013",
+          "journal-title": "J. Orthop. Sports Phys. Ther. JOSPT"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jbmt.2020.06.004_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "60",
+          "DOI": "10.1179/2042618612Y.0000000019",
+          "article-title": "Directional preference at the knee: a case report using mechanical diagnosis and therapy",
+          "volume": "21",
+          "author": "Lynch",
+          "year": "2013",
+          "journal-title": "J. Man. Manip. Ther."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jbmt.2020.06.004_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "280",
+          "DOI": "10.12669/pjms.332.11519",
+          "article-title": "The Prevalence of low back pain in Iranian Dentists: an epidemiological study",
+          "volume": "33",
+          "author": "Mohseni-Bandpei",
+          "year": "2017",
+          "journal-title": "Pak. J. Med. Sci."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jbmt.2020.06.004_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "321",
+          "DOI": "10.3109/07853898909149215",
+          "article-title": "The classification of low back pain",
+          "volume": "21",
+          "author": "Mooney",
+          "year": "1989",
+          "journal-title": "Ann. Med."
+        },
+        {
+          "year": "1998",
+          "series-title": "Nonspecific Low Back Pain, Environmental and Occupational Medicine",
+          "author": "Nordin",
+          "key": "10.1016/j.jbmt.2020.06.004_bib36"
+        },
+        {
+          "year": "2001",
+          "series-title": "International Classification of Functioning, Disability and Health: ICF",
+          "author": "Organization",
+          "key": "10.1016/j.jbmt.2020.06.004_bib37"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jbmt.2020.06.004_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "213",
+          "DOI": "10.1080/09593980390246760",
+          "article-title": "Diagnostic classification of non-specific low back pain. A new system integrating patho-anatomic and clinical categories",
+          "volume": "19",
+          "author": "Petersen",
+          "year": "2003",
+          "journal-title": "Physiother. Theory Pract."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jbmt.2020.06.004_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "85",
+          "DOI": "10.1016/S0004-9514(14)60100-8",
+          "article-title": "Inter-tester reliability of a new diagnostic classification system for patients with non-specific low back pain",
+          "volume": "50",
+          "author": "Petersen",
+          "year": "2004",
+          "journal-title": "Aust. J. Physiother."
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.jbmt.2020.06.004_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "1168",
+          "DOI": "10.1093/ptj/85.11.1168",
+          "article-title": "Management of work-related low back pain: a population-based survey of physical therapists",
+          "volume": "85",
+          "author": "Poitras",
+          "year": "2005",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jbmt.2020.06.004_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "368",
+          "DOI": "10.2519/jospt.2000.30.7.368",
+          "article-title": "Intertester reliability of the McKenzie evaluation in assessing patients with mechanical low back pain",
+          "volume": "30",
+          "author": "Razmjou",
+          "year": "2000",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.jbmt.2020.06.004_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "1333",
+          "DOI": "10.1097/00007632-199308000-00013",
+          "article-title": "Intertester reliability of McKenzie's classifications of the syndrome types present in patients with low back pain",
+          "volume": "18",
+          "author": "Riddle",
+          "year": "1993",
+          "journal-title": "Spine"
+        },
+        {
+          "year": "1988",
+          "series-title": "Musing on Diagnosis",
+          "author": "Rose",
+          "key": "10.1016/j.jbmt.2020.06.004_bib43"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.jbmt.2020.06.004_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "1703",
+          "DOI": "10.1093/ptj/68.11.1703",
+          "article-title": "Diagnosis by the physical therapist: a prerequisite for treatment",
+          "volume": "68",
+          "author": "Sahrmann",
+          "year": "1988",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jbmt.2020.06.004_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "1034",
+          "DOI": "10.2522/ptj.20130319",
+          "article-title": "The human movement system: our professional identity",
+          "volume": "94",
+          "author": "Sahrmann",
+          "year": "2014",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "issue": "Suppl. 16",
+          "key": "10.1016/j.jbmt.2020.06.004_bib46",
+          "first-page": "S16",
+          "article-title": "Diagnosis of the problem (the problem of diagnosis)",
+          "volume": "12",
+          "author": "Spitzer",
+          "year": "1987",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jbmt.2020.06.004_bib47",
+          "doi-asserted-by": "crossref",
+          "first-page": "371",
+          "DOI": "10.2519/jospt.2008.2760",
+          "article-title": "Interrater reliability of a movement impairment-based classification system for lumbar spine syndromes in patients with chronic low back pain",
+          "volume": "38",
+          "author": "Trudelle-Jackson",
+          "year": "2008",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jbmt.2020.06.004_bib48",
+          "doi-asserted-by": "crossref",
+          "first-page": "126",
+          "DOI": "10.2519/jospt.2003.33.3.126",
+          "article-title": "Movement system impairment-based categories for low back pain: stage 1 validation",
+          "volume": "33",
+          "author": "Van Dillen",
+          "year": "2003",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jbmt.2020.06.004_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "280",
+          "DOI": "10.1016/j.ejpain.2008.04.005",
+          "article-title": "Costs of back pain in Germany",
+          "volume": "13",
+          "author": "Wenig",
+          "year": "2009",
+          "journal-title": "Eur. J. Pain"
+        },
+        {
+          "year": "2015",
+          "series-title": "Inter-rater Reliability of the McKenzie System of Mechanical Diagnosis and Therapy in the Examination of the Knee",
+          "author": "Willis",
+          "key": "10.1016/j.jbmt.2020.06.004_bib50"
+        }
+      ],
+      "container-title": [
+        "Journal of Bodywork and Movement Therapies"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1360859220300838?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1360859220300838?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2021-03-01T23:51:44Z",
+        "timestamp": 1614642704000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1360859220300838"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2020,
+            10
+          ]
+        ]
+      },
+      "references-count": 50,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              10
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1360859220300838"
+      ],
+      "URL": "https://doi.org/10.1016/j.jbmt.2020.06.004",
+      "relation": {},
+      "ISSN": [
+        "1360-8592"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1360-8592"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            10
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Eligibility of the movement-based classification systems in the diagnosis of patients with low back pain: A systematic review",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Journal of Bodywork and Movement Therapies",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jbmt.2020.06.004",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2020 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2139 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jpain_2009_02_002.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jpain_2009_02_002",
+  "doi": "10.1016/j.jpain.2009.02.002",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:45.710345Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            4
+          ]
+        ],
+        "date-time": "2025-09-04T14:21:24Z",
+        "timestamp": 1756995684035
+      },
+      "reference-count": 178,
+      "publisher": "Elsevier BV",
+      "issue": "6",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2009,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2009-06-01T00:00:00Z",
+            "timestamp": 1243814400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                9,
+                11
+              ]
+            ],
+            "date-time": "2023-09-11T00:00:00Z",
+            "timestamp": 1694390400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 5215,
+          "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "clinicalkey.es",
+          "clinicalkey.com.au",
+          "clinicalkey.com",
+          "jpain.org",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The Journal of Pain"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jpain.2009.02.002",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2009,
+            4,
+            20
+          ]
+        ],
+        "date-time": "2009-04-20T08:47:20Z",
+        "timestamp": 1240217240000
+      },
+      "page": "556-572",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 417,
+      "title": [
+        "Experimental and Clinical Applications of Quantitative Sensory Testing Applied to Skin, Muscles and Viscera"
+      ],
+      "prefix": "10.1016",
+      "volume": "10",
+      "author": [
+        {
+          "given": "Lars",
+          "family": "Arendt-Nielsen",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "David",
+          "family": "Yarnitsky",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "194",
+          "DOI": "10.1016/j.brainres.2005.02.039",
+          "article-title": "Gradual enlargement of human withdrawal reflex receptive fields following repetitive painful stimulation",
+          "volume": "3",
+          "author": "Andersen",
+          "year": "2005",
+          "journal-title": "Brain Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.1016/S0304-3959(03)00276-8",
+          "article-title": "Short-term infusion of the mu-opioid agonist remifentanil in humans causes hyperalgesia during withdrawal",
+          "volume": "106",
+          "author": "Angst",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1016/0006-8993(95)01529-9",
+          "article-title": "Brief, prolonged and repeated stimuli applied to hyperalgesic skin areas: A psychophysical study",
+          "volume": "712",
+          "author": "Arendt-Nielsen",
+          "year": "1996",
+          "journal-title": "Brain Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib4",
+          "series-title": "Proceedings of the 8th World Congress on Pain, Progress in Pain Research and Management",
+          "first-page": "393",
+          "article-title": "Induction and assessment of experimental pain from human skin, muscle and viscera",
+          "author": "Arendt-Nielsen",
+          "year": "1997"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "266",
+          "DOI": "10.1007/BF00376776",
+          "article-title": "Electrophysiological and psychophysical quantification of temporal summation in the human nociceptive system",
+          "volume": "68",
+          "author": "Arendt-Nielsen",
+          "year": "1994",
+          "journal-title": "Eur J Appl Physiol Occup Physiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib6",
+          "first-page": "41",
+          "article-title": "Human experimental pain models in drug development: Translational pain research",
+          "volume": "8",
+          "author": "Arendt-Nielsen",
+          "year": "2007",
+          "journal-title": "Current Opinion in Investigational Drugs"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "255",
+          "DOI": "10.1016/S0304-3959(96)03244-7",
+          "article-title": "Gut pain reactions in man: An experimental investigation using short and long duration transmucosal electrical stimulation",
+          "volume": "69",
+          "author": "Arendt-Nielsen",
+          "year": "1997",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "56",
+          "DOI": "10.1007/BF00376441",
+          "article-title": "Segmental inhibition of laser-evoked brain potentials by ipsi- and contralaterally applied cold pressor pain",
+          "volume": "64",
+          "author": "Arendt-Nielsen",
+          "year": "1992",
+          "journal-title": "Eur J Appl Physiol Occup Physiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "355",
+          "DOI": "10.1007/s11916-003-0034-0",
+          "article-title": "Central sensitization in fibromyalgia and other musculoskeletal disorders",
+          "volume": "7",
+          "author": "Arendt-Nielsen",
+          "year": "2003",
+          "journal-title": "Curr Pain Headache Rep"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "343",
+          "DOI": "10.1016/S0079-6123(00)29026-2",
+          "article-title": "Referred pain as an indicator for neural plasticity",
+          "volume": "129",
+          "author": "Arendt-Nielsen",
+          "year": "2000",
+          "journal-title": "Prog Brain Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "465",
+          "DOI": "10.1016/j.pain.2008.09.027",
+          "article-title": "Experimental muscle pain impairs descending inhibition",
+          "volume": "140",
+          "author": "Arendt-Nielsen",
+          "year": "2008",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1007/s004210050026",
+          "article-title": "Facilitation of the withdrawal reflex by repeated transcutaneous electrical stimulation: An experimental study on central integration in humans",
+          "volume": "81",
+          "author": "Arendt-Nielsen",
+          "year": "2000",
+          "journal-title": "Eur J Appl Physiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "661",
+          "DOI": "10.1016/j.ejpain.2007.10.013",
+          "article-title": "Interactions between glutamate and capsaicin in inducing muscle pain and sensitization in humans",
+          "volume": "12",
+          "author": "Arendt-Nielsen",
+          "year": "2008",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "1336",
+          "DOI": "10.1002/art.22457",
+          "article-title": "Gabapentin in the treatment of fibromyalgia: A randomized, double-blind, placebo-controlled, multicenter trial",
+          "volume": "56",
+          "author": "Arnold",
+          "year": "2007",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "940",
+          "DOI": "10.1111/j.1468-2982.2006.01150.x",
+          "article-title": "Generalized hyperalgesia in patients with chronic tension-type headache",
+          "volume": "26",
+          "author": "Ashina",
+          "year": "2006",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/S0304-3959(99)00026-3",
+          "article-title": "Experimental human muscle pain and muscular hyperalgesia induced by combinations of serotonin and bradykinin",
+          "volume": "82",
+          "author": "Babenko",
+          "year": "1999",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1016/S0304-3959(01)00300-1",
+          "article-title": "Osteoarthritis and its association with muscle hyperalgesia: An experimental controlled study",
+          "volume": "93",
+          "author": "Bajaj",
+          "year": "2001",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "7",
+          "DOI": "10.1016/j.pain.2003.05.001",
+          "article-title": "Evidence for spinal cord hypersensitivity in chronic pain after whiplash injury and in fibromyalgia",
+          "volume": "107",
+          "author": "Banic",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "212",
+          "DOI": "10.1152/jn.1991.66.1.212",
+          "article-title": "Neurogenic hyperalgesia: The search for the primary cutaneous afferent fibers that contribute to capsaicin-induced pain and hyperalgesia",
+          "volume": "66",
+          "author": "Baumann",
+          "year": "1991",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "151",
+          "DOI": "10.1016/0304-3959(96)03062-X",
+          "article-title": "Rectal afferent function in patients with inflammatory and functional intestinal disorders",
+          "volume": "66",
+          "author": "Bernstein",
+          "year": "1996",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "1068",
+          "DOI": "10.1093/brain/awg106",
+          "article-title": "Comparison of the pain suppressive effects of clinical and experimental painful conditioning stimuli",
+          "volume": "126",
+          "author": "Bouhassira",
+          "year": "2003",
+          "journal-title": "Brain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "227",
+          "DOI": "10.1016/S0304-3959(01)00451-1",
+          "article-title": "Group differences in pain modulation: Pain-free women compared to pain-free men and to women with TMD",
+          "volume": "96",
+          "author": "Bragdon",
+          "year": "2002",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "46",
+          "DOI": "10.1016/j.pain.2006.12.011",
+          "article-title": "Dysmenorrhoea is associated with hypersensitivity in the sigmoid colon and rectum",
+          "volume": "132",
+          "author": "Brinkert",
+          "year": "2007",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "1703",
+          "DOI": "10.1093/brain/123.8.1703",
+          "article-title": "The development of cutaneous allodynia during a migraine attack: Clinical evidence for the sequential recruitment of spinal and supraspinal nociceptive neurons in migraine",
+          "volume": "123",
+          "author": "Burstein",
+          "year": "2000",
+          "journal-title": "Brain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "614",
+          "DOI": "10.1002/1531-8249(200005)47:5<614::AID-ANA9>3.0.CO;2-N",
+          "article-title": "An association between migraine and cutaneous allodynia",
+          "volume": "47",
+          "author": "Burstein",
+          "year": "2000",
+          "journal-title": "Ann Neurology"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "782",
+          "DOI": "10.1152/jn.2001.86.2.782",
+          "article-title": "Sex-related differences in human pain and rat afferent discharge evoked by injection of glutamate into the masseter muscle",
+          "volume": "86",
+          "author": "Cairns",
+          "year": "2001",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "467",
+          "DOI": "10.1007/s00221-005-0158-z",
+          "article-title": "Ketamine attenuates glutamate-induced mechanical sensitization of the masseter muscle in human males",
+          "volume": "169",
+          "author": "Cairns",
+          "year": "2006",
+          "journal-title": "Exp Brain Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "246",
+          "DOI": "10.1016/j.jpain.2007.10.017",
+          "article-title": "Hind paw incision in the rat produces long-lasting colon hypersensitivity",
+          "volume": "9",
+          "author": "Cameron",
+          "year": "2008",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "259",
+          "DOI": "10.1016/S0304-3959(02)00297-X",
+          "article-title": "Reactivity to superficial and deep stimuli in patients with chronic musculoskeletal pain",
+          "volume": "100",
+          "author": "Carli",
+          "year": "2002",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib30",
+          "first-page": "122",
+          "article-title": "Effect of peripheral NMDA receptor blockade with ketamine on chronic myofascial pain in temporomandibular disorder patients: A randomized, double-blinded, placebo-controlled trial",
+          "volume": "22",
+          "author": "Castrillon",
+          "year": "2008",
+          "journal-title": "J Orofac Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "666",
+          "DOI": "10.1016/j.archoralbio.2008.01.008",
+          "article-title": "Glutamate-evoked jaw muscle pain as a model of persistent myofascial TMD pain?",
+          "volume": "53",
+          "author": "Castrillon",
+          "year": "2008",
+          "journal-title": "Arch Oral Biol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "235",
+          "DOI": "10.3109/07853899509031965",
+          "article-title": "Visceral pain: mechanisms of peripheral and central sensitization",
+          "volume": "27",
+          "author": "Cervero",
+          "year": "1995",
+          "journal-title": "Ann Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "249",
+          "DOI": "10.1016/j.pain.2008.09.024",
+          "article-title": "Identifying biological markers of activity in human nociceptive pathways to facilitate analgesic drug development",
+          "volume": "140",
+          "author": "Chizh",
+          "year": "2008",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "259",
+          "DOI": "10.1016/0304-3959(93)90161-H",
+          "article-title": "Contribution of central neuroplasticity to pathological pain: Review of clinical and experimental evidence",
+          "volume": "52",
+          "author": "Coderre",
+          "year": "1992",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "306",
+          "DOI": "10.1097/00002508-200112000-00004",
+          "article-title": "Central hypersensitivity in chronic pain after whiplash injury",
+          "volume": "17",
+          "author": "Curatolo",
+          "year": "2001",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "43",
+          "DOI": "10.1016/0304-3959(93)90054-S",
+          "article-title": "The effect of pre- versus postinjury infiltration with lidocaine on thermal and mechanical hyperalgesia after heat injury to the skin",
+          "volume": "53",
+          "author": "Dahl",
+          "year": "1993",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "363",
+          "DOI": "10.1007/s00520-006-0156-0",
+          "article-title": "What is new in neuropathic pain?",
+          "volume": "15",
+          "author": "Davis",
+          "year": "2007",
+          "journal-title": "Support Care Cancer"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "22",
+          "DOI": "10.1097/mpa.0b013e31805c1762",
+          "article-title": "Assessment of experimental pain from skin, muscle, and esophagus in patients with chronic pancreatitis",
+          "volume": "35",
+          "author": "Dimcevski",
+          "year": "2007",
+          "journal-title": "Pancreas"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "640",
+          "DOI": "10.1080/00365520500442559",
+          "article-title": "Central sensitization in patients with non-cardiac chest pain: A clinical experimental study",
+          "volume": "41",
+          "author": "Drewes",
+          "year": "2006",
+          "journal-title": "Scand J Gastroenterol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "926",
+          "DOI": "10.1136/gut.2005.067769",
+          "article-title": "Multimodal pain stimulations in patients with grade B oesophagitis",
+          "volume": "55",
+          "author": "Drewes",
+          "year": "2006",
+          "journal-title": "Gut"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "539",
+          "DOI": "10.1016/S1090-3801(03)00053-3",
+          "article-title": "Multi-modal induction and assessment of allodynia and hyperalgesia in the human oesophagus",
+          "volume": "7",
+          "author": "Drewes",
+          "year": "2003",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "333",
+          "DOI": "10.1016/S0304-3959(03)00039-3",
+          "article-title": "Gut pain and hyperalgesia induced by capsaicin: a human experimental model",
+          "volume": "104",
+          "author": "Drewes",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "83",
+          "DOI": "10.1016/j.pain.2006.02.013",
+          "article-title": "Sensory changes in the forehead of patients with complex regional pain syndrome",
+          "volume": "123",
+          "author": "Drummond",
+          "year": "2006",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "237",
+          "DOI": "10.1016/j.pain.2007.08.033",
+          "article-title": "Pharmacologic management of neuropathic pain: Evidence-based recommendations",
+          "volume": "132",
+          "author": "Dworkin",
+          "year": "2007",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "437",
+          "DOI": "10.1212/01.wnl.0000171862.17301.84",
+          "article-title": "Individual differences in endogenous pain modulation as a risk factor for chronic pain",
+          "volume": "65",
+          "author": "Edwards",
+          "year": "2005",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib46",
+          "doi-asserted-by": "crossref",
+          "first-page": "427",
+          "DOI": "10.1016/j.pain.2003.09.005",
+          "article-title": "Individual differences in diffuse noxious inhibitory controls (DNIC): association with clinical variables",
+          "volume": "106",
+          "author": "Edwards",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib47",
+          "doi-asserted-by": "crossref",
+          "first-page": "31",
+          "DOI": "10.1016/S0304-3959(99)00233-X",
+          "article-title": "Pain and allodynia/hyperalgesia induced by intramuscular injection of serotonin in patients with fibromyalgia and healthy individuals",
+          "volume": "85",
+          "author": "Ernberg",
+          "year": "2000",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib48",
+          "first-page": "1788",
+          "article-title": "Where does it hurt? Stability of recordings of pain location using the McGill Pain Map",
+          "volume": "23",
+          "author": "Escalante",
+          "year": "1996",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "1363",
+          "DOI": "10.1016/S0016-5085(98)70014-9",
+          "article-title": "Differential effect of long-term esophageal acid exposure on mechanosensitivity and chemosensitivity in humans",
+          "volume": "115",
+          "author": "Fass",
+          "year": "1998",
+          "journal-title": "Gastroenterol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib50",
+          "doi-asserted-by": "crossref",
+          "first-page": "981",
+          "DOI": "10.2106/00004623-195436050-00007",
+          "article-title": "Experiments on pain referred from deep somatic tissues",
+          "volume": "36",
+          "author": "Feinstein",
+          "year": "1954",
+          "journal-title": "J Bone Joint Surg"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib51",
+          "doi-asserted-by": "crossref",
+          "first-page": "283",
+          "DOI": "10.1016/0304-3959(95)00113-1",
+          "article-title": "NMDA receptor blockade in chronic neuropathic pain: A comparison of ketamine and magnesium chloride",
+          "volume": "64",
+          "author": "Felsby",
+          "year": "1996",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "353",
+          "DOI": "10.1097/AJP.0b013e31803b3785",
+          "article-title": "Prevalence of and referred pain from myofascial trigger points in the forearm muscles in patients with lateral epicondylalgia",
+          "volume": "23",
+          "author": "Fernández-Carnero",
+          "year": "2007",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib53",
+          "doi-asserted-by": "crossref",
+          "first-page": "475",
+          "DOI": "10.1016/j.ejpain.2006.07.005",
+          "article-title": "Referred pain from trapezius muscle trigger points shares similar characteristics with chronic tension type headache",
+          "volume": "11",
+          "author": "Fernandez-de-Las-Penas",
+          "year": "2007",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib54",
+          "doi-asserted-by": "crossref",
+          "first-page": "75",
+          "DOI": "10.1016/S0304-3959(98)00131-6",
+          "article-title": "Generalized vibrotactile allodynia in a patient with temporomandibular disorder",
+          "volume": "78",
+          "author": "Fillingim",
+          "year": "1998",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib55",
+          "doi-asserted-by": "crossref",
+          "first-page": "24",
+          "DOI": "10.1007/s11916-000-0006-6",
+          "article-title": "Sex, gender, and pain: Women and men really are different",
+          "volume": "4",
+          "author": "Fillingim",
+          "year": "2000",
+          "journal-title": "Curr Rev Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib56",
+          "doi-asserted-by": "crossref",
+          "first-page": "289",
+          "DOI": "10.1016/j.pain.2005.08.013",
+          "article-title": "Algorithm for neuropathic pain treatment: an evidence based proposal",
+          "volume": "118",
+          "author": "Finnerup",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib57",
+          "doi-asserted-by": "crossref",
+          "first-page": "191",
+          "DOI": "10.1016/j.pain.2005.09.031",
+          "article-title": "An experimental study of viscero-visceral hyperalgesia using an ultrasound-based multimodal sensory testing approach",
+          "volume": "119",
+          "author": "Frøkjaer",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib58",
+          "first-page": "183",
+          "article-title": "Pain from osteoarthitis of the knee",
+          "volume": "13",
+          "author": "Galletti",
+          "year": "1990",
+          "journal-title": "Adv Pain Res Ther"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib59",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.1016/j.pain.2005.08.009",
+          "article-title": "A human experimental capsaicin model for trigeminal sensitization. Gender-specific differences",
+          "volume": "118",
+          "author": "Gazerani",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib60",
+          "doi-asserted-by": "crossref",
+          "first-page": "72",
+          "DOI": "10.1016/j.pain.2004.03.005",
+          "article-title": "Sex differences in temporal characteristics of descending inhibitory control: an evaluation using repeated bilateral experimental induction of muscle pain",
+          "volume": "110",
+          "author": "Ge",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib61",
+          "doi-asserted-by": "crossref",
+          "first-page": "2",
+          "DOI": "10.1016/j.jpain.2006.05.009",
+          "article-title": "Sex and pain-related psychological variables are associated with thermal pain sensitivity for patients with chronic low back pain",
+          "volume": "8",
+          "author": "George",
+          "year": "2007",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib62",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1053/eujp.1999.0117",
+          "article-title": "Recent and forgotten aspects of visceral pain",
+          "volume": "3",
+          "author": "Giamberardino",
+          "year": "1999",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib63",
+          "doi-asserted-by": "crossref",
+          "first-page": "239",
+          "DOI": "10.1016/j.pain.2004.12.024",
+          "article-title": "Relationship between pain symptoms and referred sensory and trophic changes in patients with gallbladder pathology",
+          "volume": "114",
+          "author": "Giamberardino",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib64",
+          "doi-asserted-by": "crossref",
+          "first-page": "265",
+          "DOI": "10.1503/cmaj.060146",
+          "article-title": "Neuropathic pain: A practical guide for the clinician",
+          "volume": "175",
+          "author": "Gilron",
+          "year": "2006",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib65",
+          "doi-asserted-by": "crossref",
+          "first-page": "57",
+          "DOI": "10.1016/S0304-3959(02)00415-3",
+          "article-title": "Aftersensations in experimental and clinical hypersensitivity",
+          "volume": "103",
+          "author": "Gottrup",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib66",
+          "unstructured": "Granot M, Granovsky Y, Crispel Y, Eisenberg E, Yarnitsky D: Pre-pain assessment of inhibitory and facilatory pain modulation profile in prediction of post-operative chronic pain. Proceedings of the International Association for the Study of Pain 12th World Congress on Pain, Glasgow, Scotland, 2008"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib67",
+          "doi-asserted-by": "crossref",
+          "first-page": "295",
+          "DOI": "10.1016/j.pain.2006.02.003",
+          "article-title": "Contact heat-evoked temporal summation: Tonic versus repetitive-phasic stimulation",
+          "volume": "122",
+          "author": "Granot",
+          "year": "2006",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib68",
+          "doi-asserted-by": "crossref",
+          "first-page": "142",
+          "DOI": "10.1016/j.pain.2007.06.029",
+          "article-title": "Determinants of endogenous analgesia magnitude in a diffuse noxious inhibitory control (DNIC) paradigm: Do conditioning stimulus painfulness, gender and personality variables matter?",
+          "volume": "136",
+          "author": "Granot",
+          "year": "2008",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib69",
+          "doi-asserted-by": "crossref",
+          "first-page": "111",
+          "DOI": "10.1016/S0304-3959(96)03243-5",
+          "article-title": "Quantification of local and referred muscle pain in humans after sequential i.m. injections of hypertonic saline",
+          "volume": "69",
+          "author": "Graven-Nielsen",
+          "year": "1997",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib70",
+          "doi-asserted-by": "crossref",
+          "first-page": "121",
+          "DOI": "10.1016/S0006-8993(96)01077-3",
+          "article-title": "Stimulus-response functions in areas with experimentally induced referred muscle pain—a psychophysical study",
+          "volume": "744",
+          "author": "Graven-Nielsen",
+          "year": "1997",
+          "journal-title": "Brain Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib71",
+          "doi-asserted-by": "crossref",
+          "first-page": "203",
+          "DOI": "10.1016/S0006-8993(97)01480-7",
+          "article-title": "Experimentally induced muscle pain induces hypoalgesia in heterotopic deep tissues, but not in homotopic deep tissues",
+          "volume": "787",
+          "author": "Graven-Nielsen",
+          "year": "1998",
+          "journal-title": "Brain Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib72",
+          "doi-asserted-by": "crossref",
+          "first-page": "483",
+          "DOI": "10.1016/S0304-3959(99)00308-5",
+          "article-title": "Ketamine reduces muscle pain, temporal summation, and referred pain in fibromyalgia patients",
+          "volume": "85",
+          "author": "Graven-Nielsen",
+          "year": "2000",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib73",
+          "doi-asserted-by": "crossref",
+          "first-page": "12",
+          "DOI": "10.1016/S0885-3924(03)00065-4",
+          "article-title": "Unmet needs in the management of neuropathic pain",
+          "volume": "25",
+          "author": "Harden",
+          "year": "2003",
+          "journal-title": "J Pain Symptom Manage"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib74",
+          "doi-asserted-by": "crossref",
+          "first-page": "115",
+          "DOI": "10.1172/JCI102227",
+          "article-title": "Experimental evidence on the nature of cutaneous hyperalgesia",
+          "volume": "29",
+          "author": "Hardy",
+          "year": "1950",
+          "journal-title": "J Clin Invest"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib75",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.1053/eujp.1998.0106",
+          "article-title": "Time course of UVA- and UVB-induced inflammation and hyperalgesia in human skin",
+          "volume": "3",
+          "author": "Hoffmann",
+          "year": "1999",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib76",
+          "doi-asserted-by": "crossref",
+          "first-page": "1218",
+          "DOI": "10.1136/gut.2006.110858",
+          "article-title": "Effect of a second-generation {alpha}2{delta} ligand (pregabalin) on visceral sensation in hypersensitive patients with irritable bowel syndrome",
+          "volume": "56",
+          "author": "Houghton",
+          "year": "2007",
+          "journal-title": "Gut"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib77",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/S0014-2999(01)01302-4",
+          "article-title": "The clinical picture of neuropathic pain",
+          "volume": "429",
+          "author": "Jensen",
+          "year": "2001",
+          "journal-title": "Eur J Pharmacol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib78",
+          "doi-asserted-by": "crossref",
+          "first-page": "229",
+          "DOI": "10.1016/S0304-3959(99)00106-2",
+          "article-title": "Generalised muscular hyperalgesia in chronic whiplash syndrome",
+          "volume": "83",
+          "author": "Johansen",
+          "year": "1999",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib79",
+          "doi-asserted-by": "crossref",
+          "first-page": "295",
+          "DOI": "10.1016/j.pain.2004.12.032",
+          "article-title": "Widespread pain in fibromyalgia is related to a deficit of endogenous pain inhibition",
+          "volume": "114",
+          "author": "Julien",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib80",
+          "series-title": "Clinical Pain Management, vol. 4: Practical Applications and Procedures",
+          "first-page": "27",
+          "article-title": "Sensory testing and clinical neurophysiology",
+          "author": "Jørum",
+          "year": "2003"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib81",
+          "first-page": "175",
+          "article-title": "Observation on referred pain arising from muscle",
+          "volume": "3",
+          "author": "Kellgren",
+          "year": "1938",
+          "journal-title": "Clin.Sci"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib82",
+          "doi-asserted-by": "crossref",
+          "first-page": "840",
+          "DOI": "10.1213/01.ane.0000196691.82989.67",
+          "article-title": "Amantadine sulfate reduces experimental sensitization and pain in chronic back pain patients",
+          "volume": "102",
+          "author": "Kleinbohl",
+          "year": "2006",
+          "journal-title": "Anesth Analg"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib83",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1016/S0304-3959(98)00266-8",
+          "article-title": "Psychophysical measures of sensitization to tonic heat discriminate chronic pain patients",
+          "volume": "81",
+          "author": "Kleinbohl",
+          "year": "1999",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib84",
+          "doi-asserted-by": "crossref",
+          "first-page": "207",
+          "DOI": "10.1016/0304-3959(92)90262-A",
+          "article-title": "Dynamic and static components of mechanical hyperalgesia in human hairy skin",
+          "volume": "51",
+          "author": "Koltzenburg",
+          "year": "1992",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib85",
+          "doi-asserted-by": "crossref",
+          "first-page": "395",
+          "DOI": "10.1097/00000542-200108000-00022",
+          "article-title": "A new model of electrically evoked pain and hyperalgesia in human skin: The effects of intravenous alfentanil, S(+)-ketamine, and lidocaine",
+          "volume": "95",
+          "author": "Koppert",
+          "year": "2001",
+          "journal-title": "Anesthesiology"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib86",
+          "doi-asserted-by": "crossref",
+          "first-page": "757",
+          "DOI": "10.1016/j.jpain.2005.07.002",
+          "article-title": "Activation of naloxone-sensitive and -insensitive inhibitory systems in a human pain model",
+          "volume": "6",
+          "author": "Koppert",
+          "year": "2005",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib87",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1016/j.pain.2005.06.030",
+          "article-title": "Different profiles of buprenorphine-induced analgesia and antihyperalgesia in a human pain model",
+          "volume": "118",
+          "author": "Koppert",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib88",
+          "doi-asserted-by": "crossref",
+          "first-page": "41",
+          "DOI": "10.1016/S0304-3959(96)03295-2",
+          "article-title": "Modulatory influence on somatosensory perception from vibration and heterotopic noxious conditioning stimulation (HNCS) in fibromyalgia patients and healthy subjects",
+          "volume": "70",
+          "author": "Kosek",
+          "year": "1997",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib89",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.1016/S0304-3959(00)00310-9",
+          "article-title": "Lack of pressure pain modulation by heterotopic noxious conditioning stimulation in patients with painful osteoarthritis before, but not following, surgical pain relief",
+          "volume": "88",
+          "author": "Kosek",
+          "year": "2000",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib90",
+          "doi-asserted-by": "crossref",
+          "first-page": "2717",
+          "DOI": "10.1111/j.1572-0241.2008.02068.x",
+          "article-title": "Somatosensory Hypersensitivity in the Referred Pain Area in Patients With Chronic Biliary Pain and a Sphincter of Oddi Dysfunction: New Aspects of an Almost Forgotten Pathogenetic Mechanism",
+          "volume": "103",
+          "author": "Kurucsai",
+          "year": "2008",
+          "journal-title": "Am J Gastroenterol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib91",
+          "doi-asserted-by": "crossref",
+          "first-page": "749",
+          "DOI": "10.1113/jphysiol.1992.sp019068",
+          "article-title": "Pain, hyperalgesia and activity in nociceptive C units in humans after intradermal injection of capsaicin",
+          "volume": "448",
+          "author": "LaMotte",
+          "year": "1992",
+          "journal-title": "J Physiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib92",
+          "doi-asserted-by": "crossref",
+          "first-page": "190",
+          "DOI": "10.1152/jn.1991.66.1.190",
+          "article-title": "Neurogenic hyperalgesia: Psychophysical studies of underlying mechanisms",
+          "volume": "66",
+          "author": "LaMotte",
+          "year": "1991",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib93",
+          "doi-asserted-by": "crossref",
+          "first-page": "267",
+          "DOI": "10.1016/j.ejpain.2004.07.003",
+          "article-title": "Health related quality of life and quantitative pain measurement in females with chronic non-malignant pain",
+          "volume": "9",
+          "author": "Laursen",
+          "year": "2005",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib94",
+          "doi-asserted-by": "crossref",
+          "first-page": "257",
+          "DOI": "10.1016/S0304-3959(98)00214-0",
+          "article-title": "The effect of compression and regional anaesthetic block on referred pain intensity in humans",
+          "volume": "80",
+          "author": "Laursen",
+          "year": "1999",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib95",
+          "doi-asserted-by": "crossref",
+          "first-page": "105",
+          "DOI": "10.1016/S1090-3801(97)90068-9",
+          "article-title": "Quantification of local and referred pain in humans induced by intramuscular electrical stimulation",
+          "volume": "1",
+          "author": "Laursen",
+          "year": "1997",
+          "journal-title": "European Journal of Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib96",
+          "doi-asserted-by": "crossref",
+          "first-page": "261",
+          "DOI": "10.1016/S1090-3801(97)90035-5",
+          "article-title": "Referred pain is dependent on sensory input from the periphery: A psycophysical study",
+          "volume": "1",
+          "author": "Laursen",
+          "year": "1997",
+          "journal-title": "European Journal of Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib97",
+          "doi-asserted-by": "crossref",
+          "first-page": "189",
+          "DOI": "10.1097/00002508-199709000-00003",
+          "article-title": "Possible deficiencies of pain modulation in fibromyalgia",
+          "volume": "13",
+          "author": "Lautenbacher",
+          "year": "1997",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib98",
+          "doi-asserted-by": "crossref",
+          "first-page": "283",
+          "DOI": "10.1016/0304-3959(79)90049-6",
+          "article-title": "Diffuse noxious inhibitory controls (DNIC).1. Effects on dorsal horn convergent neurons in the rat",
+          "volume": "6",
+          "author": "LeBars",
+          "year": "1979",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib99",
+          "doi-asserted-by": "crossref",
+          "first-page": "149",
+          "DOI": "10.1053/eujp.2001.0312",
+          "article-title": "Somatosensory perception in a remote pain-free area and function of diffuse noxious inhibitory controls (DNIC) in patients suffering from long-term trapezius myalgia",
+          "volume": "6",
+          "author": "Leffler",
+          "year": "2002",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib100",
+          "doi-asserted-by": "crossref",
+          "first-page": "161",
+          "DOI": "10.1053/eujp.2001.0313",
+          "article-title": "Somatosensory perception and function of diffuse noxious inhibitory controls (DNIC) in patients suffering from rheumatoid arthritis",
+          "volume": "6",
+          "author": "Leffler",
+          "year": "2002",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib101",
+          "doi-asserted-by": "crossref",
+          "first-page": "341",
+          "DOI": "10.1016/0304-3959(95)00068-2",
+          "article-title": "Sensitivity of patients with painful temporomandibular disorders to experimentally evoked pain",
+          "volume": "63",
+          "author": "Maixner",
+          "year": "1995",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib102",
+          "doi-asserted-by": "crossref",
+          "first-page": "71",
+          "DOI": "10.1016/S0304-3959(98)00028-1",
+          "article-title": "Sensitivity of patients with painful temporomandibular disorders to experimentally evoked pain: Evidence for altered temporal summation of pain",
+          "volume": "76",
+          "author": "Maixner",
+          "year": "1998",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib103",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.1016/0304-3959(88)90202-3",
+          "article-title": "Test-retest reliability of the pain drawing instrument",
+          "volume": "33",
+          "author": "Margolis",
+          "year": "1988",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib104",
+          "doi-asserted-by": "crossref",
+          "first-page": "100",
+          "DOI": "10.1152/jn.01066.2002",
+          "article-title": "Relationships between skin temperature and temporal summation of heat and cold pain",
+          "volume": "90",
+          "author": "Mauderli",
+          "year": "2003",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib105",
+          "doi-asserted-by": "crossref",
+          "first-page": "316",
+          "DOI": "10.1016/0014-4886(66)90068-9",
+          "article-title": "Physiological properties of unmyelinated fiber projection to the spinal cord",
+          "volume": "16",
+          "author": "Mendell",
+          "year": "1996",
+          "journal-title": "Exp Neurol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib106",
+          "unstructured": "Mense S: Pathophysiology of muscle pain. Proceedings of The European Federation of Chapters of the International Association for the Study of Pain EFIC Pain in Europe III, Nice, France, 2000"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib107",
+          "doi-asserted-by": "crossref",
+          "first-page": "814",
+          "DOI": "10.1136/gut.42.6.814",
+          "article-title": "Symptoms and visceral perception in severe functional and organic dyspepsia",
+          "volume": "42",
+          "author": "Mertz",
+          "year": "1998",
+          "journal-title": "Gut"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib108",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/S0006-8993(97)01478-9",
+          "article-title": "Correlation between local vascular and sensory changes following tissue inflammation induced by repetitive application of topical capsaicin",
+          "volume": "792",
+          "author": "Mohammadian",
+          "year": "1998",
+          "journal-title": "Brain Research"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib109",
+          "doi-asserted-by": "crossref",
+          "first-page": "205",
+          "DOI": "10.1016/S0304-3940(98)00443-1",
+          "article-title": "Increased capsaicin-induced secondary hyperalgesia as a marker of abnormal sensory activity in patients with fibromyalgia",
+          "volume": "250",
+          "author": "Morris",
+          "year": "1998",
+          "journal-title": "Neurosci Lett"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib110",
+          "doi-asserted-by": "crossref",
+          "first-page": "179",
+          "DOI": "10.1016/S0304-3959(97)03361-7",
+          "article-title": "Characterisation of capsaicin-induced mechanical hyperalgesia as a marker for altered nociceptive processing in patients with rheumatoid arthritis",
+          "volume": "71",
+          "author": "Morris",
+          "year": "1997",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib111",
+          "doi-asserted-by": "crossref",
+          "first-page": "55",
+          "DOI": "10.1016/S0016-5085(97)70219-1",
+          "article-title": "Repetitive sigmoid stimulation induces rectal hyperalgesia in patients with irritable bowel syndrome",
+          "volume": "112",
+          "author": "Munakata",
+          "year": "1997",
+          "journal-title": "Gastroenterology"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib112",
+          "doi-asserted-by": "crossref",
+          "first-page": "267",
+          "DOI": "10.1053/j.gastro.2005.11.034",
+          "article-title": "Brain imaging in IBS: drawing the line between cognitive and non-cognitive processes",
+          "volume": "130",
+          "author": "Naliboff",
+          "year": "2006",
+          "journal-title": "Gastroenterology"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib113",
+          "doi-asserted-by": "crossref",
+          "first-page": "377",
+          "DOI": "10.1016/0304-3959(90)90035-C",
+          "article-title": "A psychophysiological study in humans using phasic colonic distension as a noxious visceral stimulus",
+          "volume": "43",
+          "author": "Ness",
+          "year": "1990",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib114",
+          "doi-asserted-by": "crossref",
+          "first-page": "182",
+          "DOI": "10.1007/s00221-005-0196-6",
+          "article-title": "Enhanced temporal summation of pressure pain in the trapezius muscle after delayed onset muscle soreness",
+          "volume": "170",
+          "author": "Nie",
+          "year": "2006",
+          "journal-title": "Exp Brain Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib115",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.1016/0304-3959(96)03080-1",
+          "article-title": "The effect of ketamine on phantom pain: a central neuropathic disorder maintained by peripheral input",
+          "volume": "67",
+          "author": "Nikolajsen",
+          "year": "1996",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib116",
+          "unstructured": "Olesen AE, Staahl C, Arendt-Nielsen L, Dreves AM: Perfusion of the oesophagus with capsaicin and acid: A new human experimental pain model of visceral hyperalgesia. Proceedings of the International Association for the Study of Pain 12th World Congress on Pain, Glasgow, Scotland, 2008"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib117",
+          "doi-asserted-by": "crossref",
+          "first-page": "415",
+          "DOI": "10.1016/j.ejpain.2006.05.009",
+          "article-title": "Generalized deep-tissue hyperalgesia in patients with chronic low-back pain",
+          "volume": "11",
+          "author": "O'Neill",
+          "year": "2007",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib118",
+          "doi-asserted-by": "crossref",
+          "first-page": "377",
+          "DOI": "10.1016/S0304-3959(98)00070-0",
+          "article-title": "Secondary hyperalgesia to heat stimuli after burn injury in man",
+          "volume": "76",
+          "author": "Pedersen",
+          "year": "1998",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib119",
+          "doi-asserted-by": "crossref",
+          "first-page": "139",
+          "DOI": "10.1016/S0304-3959(97)00160-7",
+          "article-title": "Hyperalgesia in a human model of acute inflammatory pain: A methodological study",
+          "volume": "74",
+          "author": "Pedersen",
+          "year": "1998",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib120",
+          "doi-asserted-by": "crossref",
+          "first-page": "1123",
+          "DOI": "10.1097/00000542-200010000-00038",
+          "article-title": "Chronic pain as an outcome of surgery. A review of predictive factors",
+          "volume": "93",
+          "author": "Perkins",
+          "year": "2000",
+          "journal-title": "Anesthesiology"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib121",
+          "doi-asserted-by": "crossref",
+          "first-page": "177",
+          "DOI": "10.1016/0304-3959(92)90159-9",
+          "article-title": "Chronic back pain, acute postoperative pain and activation of diffuse noxious inhibitory controls (DNIC)",
+          "volume": "50",
+          "author": "Peters",
+          "year": "1992",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib122",
+          "doi-asserted-by": "crossref",
+          "first-page": "45",
+          "DOI": "10.1038/ncpuro0385",
+          "article-title": "The management of interstitial cystitis: an update",
+          "volume": "3",
+          "author": "Phatak",
+          "year": "2006",
+          "journal-title": "Nat Clin Pract Urol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib123",
+          "doi-asserted-by": "crossref",
+          "first-page": "215",
+          "DOI": "10.1016/j.pain.2005.08.019",
+          "article-title": "Impairment of pain inhibition in chronic tension-type headache",
+          "volume": "118",
+          "author": "Pielsticker",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib124",
+          "doi-asserted-by": "crossref",
+          "first-page": "57",
+          "DOI": "10.1016/0304-3959(77)90035-5",
+          "article-title": "Peripheral suppression of first pain and central summation of second pain evoked by noxious heat pulses",
+          "volume": "3",
+          "author": "Price",
+          "year": "1977",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib125",
+          "doi-asserted-by": "crossref",
+          "first-page": "209",
+          "DOI": "10.1016/j.neulet.2005.01.037",
+          "article-title": "Homotopic and heterotopic effects of endogenous analgesia in healthy volunteers",
+          "volume": "380",
+          "author": "Pud",
+          "year": "2005",
+          "journal-title": "Neurosci Lett"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib126",
+          "doi-asserted-by": "crossref",
+          "first-page": "2050",
+          "DOI": "10.1007/s10620-005-3006-x",
+          "article-title": "Gender differences in pain and biomechanical responses after acid sensitization of the human esophagus",
+          "volume": "50",
+          "author": "Reddy",
+          "year": "2005",
+          "journal-title": "Dig Dis Sci"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib127",
+          "doi-asserted-by": "crossref",
+          "first-page": "103",
+          "DOI": "10.1016/S0006-8993(00)02077-1",
+          "article-title": "The pain inhibiting pain effect: An electrophysiological study in humans",
+          "volume": "862",
+          "author": "Reinert",
+          "year": "2000",
+          "journal-title": "Brain Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib128",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1016/j.pain.2005.01.023",
+          "article-title": "Hypersensitivity to cutaneous thermal nociceptive stimuli in irritable bowel syndrome",
+          "volume": "115",
+          "author": "Rodrigues",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib129",
+          "doi-asserted-by": "crossref",
+          "first-page": "628",
+          "DOI": "10.1111/j.1572-0241.1999.00925.x",
+          "article-title": "Esophageal hypersensitivity may be a major cause of heartburn",
+          "volume": "94",
+          "author": "Rodriguez-Stanley",
+          "year": "1999",
+          "journal-title": "Am J Gastroenterol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib130",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1016/j.ejpain.2005.02.003",
+          "article-title": "Quantitative sensory testing: A comprehensive protocol for clinical trials",
+          "volume": "10",
+          "author": "Rolke",
+          "year": "2006",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib131",
+          "doi-asserted-by": "crossref",
+          "first-page": "1603",
+          "DOI": "10.1152/jn.1998.79.4.1603",
+          "article-title": "Spinal mechanisms underlying persistent pain and referred hyperalgesia in rats with an experimental ureteric stone",
+          "volume": "79",
+          "author": "Roza",
+          "year": "1998",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib132",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Rössel P, Drewes AM, Petersen P, Nielsen J, Arendt-Nielsen L: Pain produced by electric stimulation of the rectum in patients with irritable bowel syndrome: Further evidence of visceral hyperalgesia. Scand J Gastroenterol 34:1001–1006, 999",
+          "DOI": "10.1080/003655299750025101"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib133",
+          "doi-asserted-by": "crossref",
+          "first-page": "782",
+          "DOI": "10.1111/j.1468-2982.2006.01130.x",
+          "article-title": "Abnormal modulatory influence of diffuse noxious inhibitory controls in migraine and chronic tension-type headache patients",
+          "volume": "26",
+          "author": "Sandrini",
+          "year": "2006",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib134",
+          "doi-asserted-by": "crossref",
+          "first-page": "1154",
+          "DOI": "10.1016/S0140-6736(00)02758-6",
+          "article-title": "Contribution of central sensitisation to the development of non-cardiac chest pain",
+          "volume": "356",
+          "author": "Sarkar",
+          "year": "2000",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib135",
+          "doi-asserted-by": "crossref",
+          "first-page": "1196",
+          "DOI": "10.1152/ajpgi.2001.281.5.G1196",
+          "article-title": "Central neural mechanisms mediating human visceral hypersensitivity",
+          "volume": "281",
+          "author": "Sarkar",
+          "year": "2001",
+          "journal-title": "Am J Physiol Gastrointest Liver Physiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib136",
+          "doi-asserted-by": "crossref",
+          "first-page": "18",
+          "DOI": "10.1053/gast.2003.50022",
+          "article-title": "The prostaglandin E2 receptor-1 (EP-1) mediates acid-induced visceral pain hypersensitivity in humans",
+          "volume": "124",
+          "author": "Sarkar",
+          "year": "2003",
+          "journal-title": "Gastroenterology"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib137",
+          "doi-asserted-by": "crossref",
+          "first-page": "920",
+          "DOI": "10.1136/gut.2005.073643",
+          "article-title": "Perceptual wind-up in the human oesophagus is enhanced by central sensitisation",
+          "volume": "55",
+          "author": "Sarkar",
+          "year": "2006",
+          "journal-title": "Gut"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib138",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.1159/000086200",
+          "article-title": "Why look in the brain for answers to temporomandibular disorder pain?",
+          "volume": "180",
+          "author": "Sarlani",
+          "year": "2005",
+          "journal-title": "Cells Tissues Organs"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib139",
+          "doi-asserted-by": "crossref",
+          "first-page": "1108",
+          "DOI": "10.1152/jn.1983.50.5.1108",
+          "article-title": "Activity evoked by A- and C-afferent fibers in rat dorsal horn neurons and its relation to a flexion reflex",
+          "volume": "50",
+          "author": "Schouenborg",
+          "year": "1983",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib140",
+          "doi-asserted-by": "crossref",
+          "first-page": "1020",
+          "DOI": "10.1034/j.1399-6576.2003.00204.x",
+          "article-title": "Pharmacological modulation of experimental phasic and tonic muscle pain by morphine, alfentanil and ketamine in healthy volunteers",
+          "volume": "47",
+          "author": "Schulte",
+          "year": "2003",
+          "journal-title": "Acta Anaesthesiol Scand"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib141",
+          "doi-asserted-by": "crossref",
+          "first-page": "353",
+          "DOI": "10.1016/j.pain.2004.09.018",
+          "article-title": "Effects of diffuse noxious inhibitory controls on temporal summation of the RIII reflex in humans",
+          "volume": "112",
+          "author": "Serrao",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib142",
+          "doi-asserted-by": "crossref",
+          "first-page": "99",
+          "DOI": "10.1016/0304-3959(89)90079-1",
+          "article-title": "Dose-dependent pain and mechanical hyperalgesia in humans after intradermal injection of capsaicin",
+          "volume": "38",
+          "author": "Simone",
+          "year": "1989",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib143",
+          "doi-asserted-by": "crossref",
+          "first-page": "389",
+          "DOI": "10.1016/S0304-3959(99)00154-2",
+          "article-title": "Efficacy of pharmacological treatments of neuropathic pain: An update and effect related to mechanism of drug action",
+          "volume": "83",
+          "author": "Sindrup",
+          "year": "1999",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib144",
+          "doi-asserted-by": "crossref",
+          "first-page": "118",
+          "DOI": "10.1016/j.pain.2004.12.003",
+          "article-title": "Sensory and motor effects of experimental muscle pain in patients with lateral epicondylalgia and controls with delayed onset muscle soreness",
+          "volume": "114",
+          "author": "Slater",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib145",
+          "doi-asserted-by": "crossref",
+          "first-page": "277",
+          "DOI": "10.1016/S1090-3801(02)00141-6",
+          "article-title": "Experimental deep tissue pain in wrist extensors—a model of lateral epicondylalgia",
+          "volume": "7",
+          "author": "Slater",
+          "year": "2003",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib146",
+          "doi-asserted-by": "crossref",
+          "first-page": "79",
+          "DOI": "10.1016/j.pain.2006.06.017",
+          "article-title": "Cortical effects of anticipation and endogenous modulation of visceral pain assessed by functional brain MRI in irritable bowel syndrome patients and healthy controls",
+          "volume": "126",
+          "author": "Song",
+          "year": "2006",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib147",
+          "doi-asserted-by": "crossref",
+          "first-page": "28",
+          "DOI": "10.1016/j.pain.2006.02.006",
+          "article-title": "A comparative study of oxycodone and morphine in a multi-modal, tissue-differentiated experimental pain model",
+          "volume": "123",
+          "author": "Staahl",
+          "year": "2006",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib148",
+          "doi-asserted-by": "crossref",
+          "first-page": "383",
+          "DOI": "10.1080/00365520601014414",
+          "article-title": "Differential Effect of Opioids in Patients with Chronic Pancreatitis. An Experimental Pain Study",
+          "volume": "42",
+          "author": "Staahl",
+          "year": "2007",
+          "journal-title": "Scand J Gastroenterol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib149",
+          "doi-asserted-by": "crossref",
+          "first-page": "167",
+          "DOI": "10.1016/S0304-3959(02)00325-1",
+          "article-title": "Diffuse noxious inhibitory controls (DNIC) attenuate temporal summation of second pain in normal males but not in normal females or fibromyalgia patients",
+          "volume": "101",
+          "author": "Staud",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib150",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1016/S0304-3959(00)00432-2",
+          "article-title": "Abnormal sensitization and temporal summation of second pain (wind-up) in patients with fibromyalgia syndrome",
+          "volume": "91",
+          "author": "Staud",
+          "year": "2001",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib151",
+          "doi-asserted-by": "crossref",
+          "first-page": "833",
+          "DOI": "10.1080/00365520500463332",
+          "article-title": "Somatosensory changes in the referred pain area before and after cholecystectomy in patients with uncomplicated gallstone disease",
+          "volume": "41",
+          "author": "Stawowy",
+          "year": "2006",
+          "journal-title": "Scand J Gastroenterol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib152",
+          "doi-asserted-by": "crossref",
+          "first-page": "865",
+          "DOI": "10.1097/00042737-200508000-00014",
+          "article-title": "Somatosensory changes in the referred pain area in patients with cholecystolithiasis",
+          "volume": "17",
+          "author": "Stawowy",
+          "year": "2005",
+          "journal-title": "Eur J Gastroenterol Hepatol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib153",
+          "doi-asserted-by": "crossref",
+          "first-page": "1079",
+          "DOI": "10.1097/00042737-200210000-00008",
+          "article-title": "Somatosensory changes in the referred pain area following acute inflammation of the appendix",
+          "volume": "14",
+          "author": "Stawowy",
+          "year": "2002",
+          "journal-title": "Eur J Gastroenterol Hepatol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib154",
+          "doi-asserted-by": "crossref",
+          "first-page": "1045",
+          "DOI": "10.1172/JCI102815",
+          "article-title": "Observations on pain produced by injection of hypertonic saline into muscles and other supportive tissues",
+          "volume": "32",
+          "author": "Steinbrocker",
+          "year": "1953",
+          "journal-title": "J Clin Invest"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib155",
+          "doi-asserted-by": "crossref",
+          "first-page": "492",
+          "DOI": "10.1093/brain/5.4.492",
+          "article-title": "The phenomena of angina pectoris and their bearing upon the theory of counter-irritation",
+          "volume": "5",
+          "author": "Sturge",
+          "year": "1883",
+          "journal-title": "Brain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib156",
+          "series-title": "Proceedings of the 10th World Congress on Pain, Progress in Pain Research and Management",
+          "first-page": "337",
+          "article-title": "What the brain tells the spinal cord: Lamina I/III NK1-expressing neurons control spinal activity via descending pathways",
+          "author": "Suzuki",
+          "year": "2003"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib157",
+          "doi-asserted-by": "crossref",
+          "first-page": "158",
+          "DOI": "10.1007/s11916-000-0051-1",
+          "article-title": "Clinical and experimental aspects of temporomandibular disorders",
+          "volume": "4",
+          "author": "Svensson",
+          "year": "2000",
+          "journal-title": "Curr Rev Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib158",
+          "first-page": "241",
+          "article-title": "Injection of nerve growth factor into human masseter muscle evokes long-lasting mechanical allodynia and hyperalgesia",
+          "volume": "104",
+          "author": "Svensson",
+          "year": "2003",
+          "journal-title": "javascript:AL_get(this, 'jour', 'Pain.'): Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib159",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1007/s00221-008-1399-4",
+          "article-title": "Effects of NGF-induced muscle sensitization on proprioception and nociception",
+          "volume": "189",
+          "author": "Svensson",
+          "year": "2008",
+          "journal-title": "Exp Brain Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib160",
+          "first-page": "152",
+          "article-title": "Hyperexcitability in fibromyalgia",
+          "volume": "25",
+          "author": "Sørensen",
+          "year": "1998",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib161",
+          "first-page": "285",
+          "article-title": "Pain descriptors characteristic of persistent facial pain",
+          "volume": "11",
+          "author": "Turp",
+          "year": "1997",
+          "journal-title": "J Orofac Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib162",
+          "series-title": "Pain versus Man",
+          "first-page": "101",
+          "article-title": "Referred pain from viscera: When the symptom persists despite the extinction of the visceral focus",
+          "author": "Vecchiet",
+          "year": "1992"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib163",
+          "doi-asserted-by": "crossref",
+          "first-page": "289",
+          "DOI": "10.1016/0304-3959(89)90087-0",
+          "article-title": "Pain from renal/ureteral calculosis: evaluation of sensory thresholds in the lumbar area",
+          "volume": "36",
+          "author": "Vecchiet",
+          "year": "1989",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib164",
+          "doi-asserted-by": "crossref",
+          "first-page": "223",
+          "DOI": "10.1016/S0304-3959(03)00210-0",
+          "article-title": "Reversal of visceral and cutaneous hyperalgesia by local rectal anesthesia in irritable bowel syndrome (IBS) patients",
+          "volume": "105",
+          "author": "Verne",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib165",
+          "doi-asserted-by": "crossref",
+          "first-page": "177",
+          "DOI": "10.1016/0304-3959(94)00140-A",
+          "article-title": "Sensory abnormalities in consecutive, unselected patients with central post-stroke pain",
+          "volume": "61",
+          "author": "Vestergaard",
+          "year": "1995",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib166",
+          "doi-asserted-by": "crossref",
+          "first-page": "693",
+          "DOI": "10.1016/S0304-3959(03)00159-3",
+          "article-title": "Repeated noxious stimulation of the skin enhances cutaneous pain perception of migraine patients in-between attacks: Clinical evidence for continuous sub-threshold increase in membrane excitability of central trigeminovascular neurons",
+          "volume": "104",
+          "author": "Weissman-Fogel",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib167",
+          "doi-asserted-by": "crossref",
+          "first-page": "1595",
+          "DOI": "10.1136/gut.2003.028514",
+          "article-title": "Brain functional magnetic resonance imaging of rectal pain and activation of endogenous inhibitory mechanisms in irritable bowel syndrome patient subgroups and healthy controls",
+          "volume": "53",
+          "author": "Wilder-Smith",
+          "year": "2004",
+          "journal-title": "Gut"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib168",
+          "doi-asserted-by": "crossref",
+          "first-page": "487",
+          "DOI": "10.1016/j.ejpain.2005.07.003",
+          "article-title": "Constitutive cyclo-oxygenase-2 does not contribute to the development of human visceral pain hypersensitivity",
+          "volume": "10",
+          "author": "Willert",
+          "year": "2006",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib169",
+          "doi-asserted-by": "crossref",
+          "first-page": "683",
+          "DOI": "10.1053/j.gastro.2003.11.047",
+          "article-title": "The development and maintenance of human visceral pain hypersensitivity is dependent on the N-methyl-D-aspartate receptor",
+          "volume": "126",
+          "author": "Willert",
+          "year": "2004",
+          "journal-title": "Gastroenterology"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib170",
+          "doi-asserted-by": "crossref",
+          "first-page": "407",
+          "DOI": "10.1016/S0304-3959(99)00231-6",
+          "article-title": "Intramuscular and intradermal injection of capsaicin: A comparison of local and referred pain",
+          "volume": "84",
+          "author": "Witting",
+          "year": "2000",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib171",
+          "doi-asserted-by": "crossref",
+          "first-page": "75",
+          "DOI": "10.1016/S0304-3959(02)00421-9",
+          "article-title": "Differential recruitment of endogenous pain inhibitory systems in neuropathic pain patients",
+          "volume": "103",
+          "author": "Witting",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib172",
+          "doi-asserted-by": "crossref",
+          "first-page": "227",
+          "DOI": "10.1016/S0304-3959(98)00099-2",
+          "article-title": "Towards a mechanism-based classification of pain?",
+          "volume": "77",
+          "author": "Woolf",
+          "year": "1998",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib173",
+          "doi-asserted-by": "crossref",
+          "first-page": "475",
+          "DOI": "10.1007/s00221-002-1062-4",
+          "article-title": "Temporal summation of pain from skin, muscle and joint following nociceptive ultrasonic stimulation in humans",
+          "volume": "144",
+          "author": "Wright",
+          "year": "2002",
+          "journal-title": "Experimental Brain Research"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib174",
+          "series-title": "Handbook Clinical Neurology",
+          "doi-asserted-by": "crossref",
+          "first-page": "397",
+          "DOI": "10.1016/S0072-9752(06)80031-X",
+          "article-title": "Quantitative sensory testing",
+          "author": "Yarnitsky",
+          "year": "2006"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib175",
+          "doi-asserted-by": "crossref",
+          "first-page": "22",
+          "DOI": "10.1016/j.pain.2007.10.033",
+          "article-title": "Prediction of chronic post-operative pain: Pre-operative DNIC testing identifies patients at risk",
+          "volume": "138",
+          "author": "Yarnitsky",
+          "year": "2008",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib176",
+          "doi-asserted-by": "crossref",
+          "first-page": "186",
+          "DOI": "10.1016/0022-510X(94)90033-7",
+          "article-title": "Variance of sensory threshold measurements: Discrimination of feigners from trustworthy performers",
+          "volume": "125",
+          "author": "Yarnitsky",
+          "year": "1994",
+          "journal-title": "J Neurol Sci"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib177",
+          "doi-asserted-by": "crossref",
+          "first-page": "329",
+          "DOI": "10.1016/0304-3959(94)00132-X",
+          "article-title": "Heat pain thresholds: Normative data and repeatability",
+          "volume": "60",
+          "author": "Yarnitsky",
+          "year": "1995",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2009.02.002_bib178",
+          "doi-asserted-by": "crossref",
+          "first-page": "339",
+          "DOI": "10.1016/j.semarthrit.2007.09.003",
+          "article-title": "Central sensitivity syndromes: A new paradigm and group nosology for fibromyalgia and overlapping conditions, and the related issue of disease versus illness",
+          "volume": "37",
+          "author": "Yunus",
+          "year": "2008",
+          "journal-title": "Semin Arthritis Rheum"
+        }
+      ],
+      "container-title": [
+        "The Journal of Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S152659000900371X?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S152659000900371X?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            16
+          ]
+        ],
+        "date-time": "2023-09-16T18:34:41Z",
+        "timestamp": 1694889281000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S152659000900371X"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2009,
+            6
+          ]
+        ]
+      },
+      "references-count": 178,
+      "journal-issue": {
+        "issue": "6",
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              6
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S152659000900371X"
+      ],
+      "URL": "https://doi.org/10.1016/j.jpain.2009.02.002",
+      "relation": {},
+      "ISSN": [
+        "1526-5900"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1526-5900"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2009,
+            6
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Experimental and Clinical Applications of Quantitative Sensory Testing Applied to Skin, Muscles and Viscera",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "The Journal of Pain",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jpain.2009.02.002",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "Copyright © 2009 American Pain Society. Published by Elsevier Inc. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1024 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_pain_2008_02_019.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_pain_2008_02_019",
+  "doi": "10.1016/j.pain.2008.02.019",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:01.463334Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T22:28:26Z",
+        "timestamp": 1757456906819
+      },
+      "reference-count": 79,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "3",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            9,
+            15
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.pain.2008.02.019",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2008,
+            4,
+            15
+          ]
+        ],
+        "date-time": "2008-04-15T13:14:21Z",
+        "timestamp": 1208265261000
+      },
+      "page": "617-629",
+      "source": "Crossref",
+      "is-referenced-by-count": 252,
+      "title": [
+        "Course and prognostic factors of whiplash: A systematic review and meta-analysis ☆"
+      ],
+      "prefix": "10.1097",
+      "volume": "138",
+      "author": [
+        {
+          "given": "Steven J.",
+          "family": "Kamper",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Trudy J.",
+          "family": "Rebbeck",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christopher G.",
+          "family": "Maher",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "James H.",
+          "family": "McAuley",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michele",
+          "family": "Sterling",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "276",
+      "reference": [
+        {
+          "key": "RU1-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "195",
+          "DOI": "10.1136/emj.2005.027102",
+          "article-title": "Predictors of persistent neck pain after whiplash injury.",
+          "volume": "23",
+          "author": "Atherton",
+          "year": "2006",
+          "journal-title": "Emerg Med J"
+        },
+        {
+          "key": "RU2-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "244",
+          "DOI": "10.1016/j.pain.2006.05.026",
+          "article-title": "The influence of prognostic factors on neck pain intensity, disability, anxiety and depression over a 2-year period in subjects with acute whiplash injury.",
+          "volume": "125",
+          "author": "Berglund",
+          "year": "2006",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "RU3-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "331",
+          "DOI": "10.1016/S0020-1383(97)00027-2",
+          "article-title": "MRI of cerebrum and cervical columna within two days after whiplash neck sprain injury.",
+          "volume": "28",
+          "author": "Borchgrevink",
+          "year": "1997",
+          "journal-title": "Injury"
+        },
+        {
+          "key": "RU4-18-20210112",
+          "first-page": "425",
+          "article-title": "MR imaging and radiography of patients with cervical hyperextension-flexion injuries after car accidents.",
+          "volume": "36",
+          "author": "Borchgrevink",
+          "year": "1995",
+          "journal-title": "Acta Radiol"
+        },
+        {
+          "key": "R5-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "357",
+          "DOI": "10.1016/S0022-3999(96)00352-2",
+          "article-title": "Personality profile among symptomatic and recovered patients with neck sprain injury, measured by MCMI-I acutely and 6 months after car accidents.",
+          "volume": "42",
+          "author": "Borchgrevink",
+          "year": "1997",
+          "journal-title": "Journal of Psychosomatic Research"
+        },
+        {
+          "key": "R6-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/S0304-3959(98)00058-X",
+          "article-title": "The clinical course and prognostic factors of non-specific neck pain: a systematic review.",
+          "volume": "77",
+          "author": "Borghouts",
+          "year": "1998",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "RU7-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "681",
+          "DOI": "10.1016/j.jpsychores.2006.07.008",
+          "article-title": "Relationship between posttraumatic stress disorder symptoms and the course of whiplash complaints.",
+          "volume": "61",
+          "author": "Buitenhuis",
+          "year": "2006",
+          "journal-title": "Journal of Psychosomatic Research"
+        },
+        {
+          "key": "RU9-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "18",
+          "DOI": "10.1016/j.pain.2006.03.012",
+          "article-title": "The role of pain coping strategies in prognosis after whiplash injury: passive coping predicts slowed recovery.",
+          "volume": "124",
+          "author": "Carroll",
+          "year": "2006",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R10-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1179",
+          "DOI": "10.1056/NEJM200004203421606",
+          "article-title": "Effect of eliminating compensation for pain and suffering on the outcome of insurance claims for whiplash injury.",
+          "volume": "342",
+          "author": "Cassidy",
+          "year": "2000",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "R11-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "126",
+          "DOI": "10.1097/01.brs.0000249526.76788.e8",
+          "article-title": "Does multidisciplinary rehabilitation benefit whiplash recovery?: results of a population-based incidence cohort study.",
+          "volume": "32",
+          "author": "Cassidy",
+          "year": "2007",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R12-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "E445",
+          "DOI": "10.1097/00007632-200110010-00020",
+          "article-title": "A systematic review of the prognosis of acute whiplash and a new conceptual framework to synthesize the literature.",
+          "volume": "26",
+          "author": "Cote",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R13-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "114",
+          "DOI": "10.1136/emj.2004.022145",
+          "article-title": "Whiplash associated disorder: incidence and natural history over the first month for patients presenting to a UK emergency department.",
+          "volume": "23",
+          "author": "Crouch",
+          "year": "2006",
+          "journal-title": "Emerg Med J"
+        },
+        {
+          "key": "RU14-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "293",
+          "DOI": "10.3109/08039489509011919",
+          "article-title": "Acute emotional response to common whiplash predicts subsequent pain complaints: a prospective of 107 subjects sustaining whiplash injury.",
+          "volume": "49",
+          "author": "Drottning",
+          "year": "1995",
+          "journal-title": "Nordic Journal of Psychiatry"
+        },
+        {
+          "key": "RU15-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1046/j.1468-2982.2002.00315.x",
+          "article-title": "Cervicogenic headache (CEH) after whiplash injury.",
+          "volume": "22",
+          "author": "Drottning",
+          "year": "2002",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "RU16-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "943",
+          "DOI": "10.1136/jnnp.55.10.943",
+          "article-title": "Cerebral symptoms after whiplash injury of the neck: a prospective clinical and neuropsychological study of whiplash injury.",
+          "volume": "55",
+          "author": "Ettlin",
+          "year": "1992",
+          "journal-title": "J Neurol Neurosurg Psychiatry"
+        },
+        {
+          "key": "R17-18-20210112",
+          "first-page": "237",
+          "article-title": "Incidence of whiplash-associated disorder.",
+          "volume": "44",
+          "author": "Galasko",
+          "year": "2002",
+          "journal-title": "BC Med J"
+        },
+        {
+          "key": "RU18-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "523",
+          "DOI": "10.1302/0301-620X.79B4.0790523",
+          "article-title": "The behavioural response to whiplash injury.",
+          "volume": "79",
+          "author": "Gargan",
+          "year": "1997",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "key": "RU19-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "901",
+          "DOI": "10.1302/0301-620X.72B5.2211780",
+          "article-title": "Long-term prognosis of soft-tissue injuries of the neck.",
+          "volume": "72",
+          "author": "Gargan",
+          "year": "1990",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "key": "RU20-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "162",
+          "DOI": "10.1007/BF02190579",
+          "article-title": "The rate of recovery following whiplash injury.",
+          "volume": "3",
+          "author": "Gargan",
+          "year": "1994",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "RU21-18-20210112",
+          "first-page": "196",
+          "article-title": "Acute cervical strain.",
+          "volume": "122",
+          "author": "Greenfield",
+          "year": "1977",
+          "journal-title": "Clinical Orthopaedics and Related Research"
+        },
+        {
+          "key": "RU22-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "386",
+          "DOI": "10.1097/01.brs.0000153399.24457.ee",
+          "article-title": "Risk factors for prolonged disability after whiplash injury: a prospective study.",
+          "volume": "30",
+          "author": "Gun",
+          "year": "2005",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R23-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "408",
+          "DOI": "10.1016/j.pain.2005.01.006",
+          "article-title": "Prognostic factors for poor recovery in acute whiplash patients.",
+          "volume": "114",
+          "author": "Hendriks",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "RU24-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "357",
+          "DOI": "10.3109/17453679008993536",
+          "article-title": "Outcome after soft-tissue injury of the cervical spine. A prospective study of 93 car-accident victims.",
+          "volume": "61",
+          "author": "Hildingsson",
+          "year": "1990",
+          "journal-title": "Acta Orthop Scand"
+        },
+        {
+          "key": "RU25-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "153",
+          "DOI": "10.1080/15389580309863",
+          "article-title": "Whiplash-associated disorders in frontal impacts: influencing factors and consequences.",
+          "volume": "4",
+          "author": "Jakobsson",
+          "year": "2003",
+          "journal-title": "Traffic Inj Prev"
+        },
+        {
+          "key": "R26-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "137",
+          "DOI": "10.1002/sim.4780140206",
+          "article-title": "Meta-analysis: weighing the evidence.",
+          "volume": "14",
+          "author": "Jones",
+          "year": "1995",
+          "journal-title": "Statistics in Medicine"
+        },
+        {
+          "key": "R27-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "2733",
+          "DOI": "10.1097/00007632-199412150-00001",
+          "article-title": "Findings and outcome in whiplash-type neck distortions.",
+          "volume": "19",
+          "author": "Jonsson",
+          "year": "1994",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU28-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "65",
+          "DOI": "10.1111/j.1600-0404.1997.tb00071.x",
+          "article-title": "A prospective study of 39 patients with whiplash injury.",
+          "volume": "95",
+          "author": "Karlsborg",
+          "year": "1997",
+          "journal-title": "Acta Neurol Scand"
+        },
+        {
+          "key": "RU29-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1637",
+          "DOI": "10.1212/WNL.56.12.1637",
+          "article-title": "Handicap after acute whiplash injury: a 1-year prospective study of risk factors.",
+          "volume": "56",
+          "author": "Kasch",
+          "year": "2001",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "RU30-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "743",
+          "DOI": "10.1212/01.WNL.0000046661.82212.04",
+          "article-title": "Development in pain and neurologic complaints after whiplash: a 1-year prospective study.",
+          "volume": "60",
+          "author": "Kasch",
+          "year": "2003",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "RU31-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "561",
+          "DOI": "10.1016/j.ejpain.2004.11.011",
+          "article-title": "Reduced cold pressor pain tolerance in non-recovered whiplash patients: a 1-year prospective study.",
+          "volume": "9",
+          "author": "Kasch",
+          "year": "2005",
+          "journal-title": "European Journal of Pain"
+        },
+        {
+          "key": "RU32-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "935",
+          "DOI": "10.1016/j.injury.2004.09.038",
+          "article-title": "Early coping strategies do not influence the prognosis after whiplash injuries.",
+          "volume": "36",
+          "author": "Kivioja",
+          "year": "2005",
+          "journal-title": "Injury"
+        },
+        {
+          "key": "R33-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "181",
+          "DOI": "10.1097/00004356-200209000-00003",
+          "article-title": "Prognostic factors in whiplash-associated disorders.",
+          "volume": "25",
+          "author": "Kyhlback",
+          "year": "2002",
+          "journal-title": "Int J Rehabil Res"
+        },
+        {
+          "key": "RU34-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "617",
+          "DOI": "10.1016/S0020-1383(96)00114-3",
+          "article-title": "Outcome ofwhiplash neck injury.",
+          "volume": "27",
+          "author": "Mayou",
+          "year": "1996",
+          "journal-title": "Injury"
+        },
+        {
+          "key": "RU35-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "578",
+          "DOI": "10.1097/00006842-199711000-00004",
+          "article-title": "Long-term outcome of motor vehicle accident injury.",
+          "volume": "59",
+          "author": "Mayou",
+          "year": "1997",
+          "journal-title": "Psychosom Med"
+        },
+        {
+          "key": "RU36-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "441",
+          "DOI": "10.1192/bjp.180.5.441",
+          "article-title": "Psychiatry of whiplash neck injury.",
+          "volume": "180",
+          "author": "Mayou",
+          "year": "2002",
+          "journal-title": "British Journal of Psychiatry"
+        },
+        {
+          "key": "RU37-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "177",
+          "DOI": "10.1016/S0001-4575(99)00092-5",
+          "article-title": "Whiplash injury - are current head restraints doing their job?",
+          "volume": "32",
+          "author": "Minton",
+          "year": "2000",
+          "journal-title": "Acid Anal Prev"
+        },
+        {
+          "key": "R38-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "63",
+          "DOI": "10.1016/s0304-3959(02)00340-8",
+          "article-title": "Chronic neck pain disability due to an acute whiplash injury.",
+          "volume": "102",
+          "author": "Nederhand",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R39-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "496",
+          "DOI": "10.1016/j.apmr.2003.06.019",
+          "article-title": "Predictive value of fear avoidance in developing chronic neck pain disability: consequences for clinical decision making.",
+          "volume": "85",
+          "author": "Nederhand",
+          "year": "2004",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "RU40-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "608",
+          "DOI": "10.1302/0301-620X.65B5.6643566",
+          "article-title": "The prognosis of neck injuries resulting from rear-end vehicle collisions.",
+          "volume": "65",
+          "author": "Norris",
+          "year": "1983",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "key": "R41-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "279",
+          "DOI": "10.1136/jnnp.66.3.279",
+          "article-title": "Pain after whiplash: a prospective controlled inception cohort study.",
+          "volume": "66",
+          "author": "Obelieniene",
+          "year": "1999",
+          "journal-title": "J Neurol Neurosurg Psychiatry"
+        },
+        {
+          "key": "R42-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "238",
+          "DOI": "10.1097/00002508-200207000-00004",
+          "article-title": "Prediction of outcome in whiplash-associated disorders using West Haven-Yale Multidimensional Pain Inventory.",
+          "volume": "18",
+          "author": "Olsson",
+          "year": "2002",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "R43-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "90",
+          "DOI": "10.1007/s00586-004-0711-7",
+          "article-title": "Potential risk factors for prolonged recovery following whiplash injury.",
+          "volume": "14",
+          "author": "Osti",
+          "year": "2005",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "R44-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "553",
+          "DOI": "10.1097/01.TA.0000152634.66513.AF",
+          "article-title": "Outcome after minor traffic accidents: a follow-up study of orthopedic patients in an inner-city area emergency room.",
+          "volume": "58",
+          "author": "Ottosson",
+          "year": "2005",
+          "journal-title": "J Trauma"
+        },
+        {
+          "key": "R45-18-20210112",
+          "first-page": "67",
+          "article-title": "A prospective cohort study of the outcome of acute whiplash injury in Greece.",
+          "volume": "18",
+          "author": "Partheni",
+          "year": "2000",
+          "journal-title": "Clin Exp Rheumatol"
+        },
+        {
+          "key": "R46-18-20210112",
+          "first-page": "323",
+          "article-title": "Acute low back pain: systematic review of its prognosis.",
+          "volume": "327",
+          "author": "Pengel",
+          "year": "2003",
+          "journal-title": ""
+        },
+        {
+          "key": "RU47-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "57",
+          "DOI": "10.1016/0020-1383(91)90166-C",
+          "article-title": "Patterns of injury and recovery in whiplash.",
+          "volume": "22",
+          "author": "Pennie",
+          "year": "1991",
+          "journal-title": "Injury"
+        },
+        {
+          "key": "RU48-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1664",
+          "DOI": "10.1097/00007632-199508000-00003",
+          "article-title": "Decreased width of the spinal canal in patients with chronic symptoms after whiplash injury.",
+          "volume": "20",
+          "author": "Pettersson",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU49-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "283",
+          "DOI": "10.1097/00007632-199702010-00010",
+          "article-title": "Disc pathology after whiplash injury: a prospective magnetic resonance imaging and clinical investigation.",
+          "volume": "22",
+          "author": "Pettersson",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU50-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "408",
+          "DOI": "10.1007/s00586-004-0681-9",
+          "article-title": "Temperament and character: prognostic factors in whiplash patients?",
+          "volume": "13",
+          "author": "Pettersson",
+          "year": "2004",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "RU51-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "712",
+          "DOI": "10.1016/0140-6736(91)91441-V",
+          "article-title": "Role of psychosocial stress in recovery from common whiplash.",
+          "volume": "338",
+          "author": "Radanov",
+          "year": "1991",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "RU52-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/0022-3999(93)90118-Y",
+          "article-title": "Psychosocial stress, cognitive performance and disability after common whiplash.",
+          "volume": "37",
+          "author": "Radanov",
+          "year": "1993",
+          "journal-title": "Journal of Psychosomatic Research"
+        },
+        {
+          "key": "RU53-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.1001/archneur.1993.00540010081022",
+          "article-title": "Cognitive functioning after common whiplash. A controlled follow-up study.",
+          "volume": "50",
+          "author": "Radanov",
+          "year": "1993",
+          "journal-title": "Arch Neurol"
+        },
+        {
+          "key": "RU54-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "652",
+          "DOI": "10.1136/bmj.307.6905.652",
+          "article-title": "Factors influencing recovery from headache after common whiplash.",
+          "volume": "307",
+          "author": "Radanov",
+          "year": "1993",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "RU55-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "486",
+          "DOI": "10.1136/jnnp.57.4.486",
+          "article-title": "Common whiplash: psychosomatic or somatopsychic?",
+          "volume": "57",
+          "author": "Radanov",
+          "year": "1994",
+          "journal-title": "J Neurol Neurosurg Psychiatry"
+        },
+        {
+          "key": "RU56-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "442",
+          "DOI": "10.1093/rheumatology/33.5.442",
+          "article-title": "Relationship between early somatic, radiological, cognitive and psychosocial findings and outcome during a one-year follow-up in 117 patients suffering from common whiplash.",
+          "volume": "33",
+          "author": "Radanov",
+          "year": "1994",
+          "journal-title": "Br J Rheumatol"
+        },
+        {
+          "key": "R57-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "281",
+          "DOI": "10.1097/00005792-199509000-00005",
+          "article-title": "Long-term outcome after whiplash injury. A 2-year follow-up considering features of injury mechanism and somatic, radiologic, and psychosocial findings.",
+          "volume": "74",
+          "author": "Radanov",
+          "year": "1995",
+          "journal-title": "Medicine"
+        },
+        {
+          "key": "RU58-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "429",
+          "DOI": "10.1016/0304-3959(95)00148-4",
+          "article-title": "Course of psychological variables in whiplash injury - a 2-year follow-up with age, gender and education pair-matched patients.",
+          "volume": "64",
+          "author": "Radanov",
+          "year": "1996",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "RU59-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "47",
+          "DOI": "10.1300/J094v04n04_06",
+          "article-title": "The effect of accident mechanisms and initial findings on the long-term outcome of whiplash injury.",
+          "volume": "4",
+          "author": "Radanov",
+          "year": "1996",
+          "journal-title": "J Musculoskeletal Pain"
+        },
+        {
+          "key": "RU60-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "48",
+          "DOI": "10.1159/000117200",
+          "article-title": "Predicting recovery from common whiplash.",
+          "volume": "36",
+          "author": "Radanov",
+          "year": "1996",
+          "journal-title": "Eur Neurol"
+        },
+        {
+          "key": "RU61-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "758",
+          "DOI": "10.1136/jnnp.2003.026963",
+          "article-title": "Correlation of clinical findings, collision parameters, and psychological factors in the outcome of whiplash associated disorders.",
+          "volume": "75",
+          "author": "Richter",
+          "year": "2004",
+          "journal-title": "J Neurol Neurosurg Psychiatry"
+        },
+        {
+          "key": "R62-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "533",
+          "DOI": "10.1016/0020-1383(94)90096-5",
+          "article-title": "Neck strain in car occupants: injury status after 6 months and crash-related factors.",
+          "volume": "25",
+          "author": "Ryan",
+          "year": "1994",
+          "journal-title": "Injury"
+        },
+        {
+          "key": "R63-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "303",
+          "DOI": "10.1016/S0304-3959(03)00050-2",
+          "article-title": "Prognostic factors of whiplash-associated disorders: a systematic review of prospective cohort studies.",
+          "volume": "104",
+          "author": "Scholten-Peeters",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "RU64-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "389",
+          "DOI": "10.1007/s00586-002-0410-1",
+          "article-title": "Whiplash: a biochemical study of muscle injury.",
+          "volume": "11",
+          "author": "Scott",
+          "year": "2002",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "RU65-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "73",
+          "DOI": "10.1111/j.1600-0404.1997.tb00072.x",
+          "article-title": "Cognitive function and distress after common whiplash injury.",
+          "volume": "95",
+          "author": "Smed",
+          "year": "1997",
+          "journal-title": "Acta Neurol Scand"
+        },
+        {
+          "key": "R66-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "457",
+          "DOI": "10.1191/0269215500cr348oa",
+          "article-title": "Acute whiplash-associated disorders (WAD): the effects of early mobilization and prognostic factors in long-term symptomatology.",
+          "volume": "14",
+          "author": "Soderlund",
+          "year": "2000",
+          "journal-title": "Clin Rehabil"
+        },
+        {
+          "key": "RU67-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "101",
+          "DOI": "10.1191/0269215503cr566oa",
+          "article-title": "Whiplash-associated disorders - predicting disability from a process-oriented perspective of coping.",
+          "volume": "17",
+          "author": "Soderlund",
+          "year": "2003",
+          "journal-title": "Clin Rehabil"
+        },
+        {
+          "key": "R68-18-20210112",
+          "first-page": "1S",
+          "article-title": "Scientific monograph of the Quebec Task Force on whiplash-associated disorders: redefining whiplash and its management.",
+          "volume": "20",
+          "author": "Spitzer",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU69-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "955",
+          "DOI": "10.1302/0301-620X.78B6.0780955",
+          "article-title": "Soft-tissue injuries of the cervical spine. 15-year follow-up.",
+          "volume": "78",
+          "author": "Squires",
+          "year": "1996",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "key": "R70-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "509",
+          "DOI": "10.1016/S0304-3959(03)00078-2",
+          "article-title": "Sensory hypersensitivity occurs soon after whiplash injury and is associated with poor recovery.",
+          "volume": "104",
+          "author": "Sterling",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R71-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "65",
+          "DOI": "10.1016/S0304-3959(02)00420-7",
+          "article-title": "Development of motor system dysfunction following whiplash injury.",
+          "volume": "103",
+          "author": "Sterling",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R72-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "481",
+          "DOI": "10.1016/j.pain.2003.09.013",
+          "article-title": "The development of psychological changes following whiplash injury.",
+          "volume": "106",
+          "author": "Sterling",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R73-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "141",
+          "DOI": "10.1016/j.pain.2004.12.005",
+          "article-title": "Physical and psychological factors predict outcome following whiplash injury.",
+          "volume": "114",
+          "author": "Sterling",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R74-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.1016/j.pain.2006.01.014",
+          "article-title": "Physical and psychological factors maintain long-term predictive capacity post-whiplash injury.",
+          "volume": "122",
+          "author": "Sterling",
+          "year": "2006",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "RU75-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "195",
+          "DOI": "10.1097/00024720-200304000-00013",
+          "article-title": "The incidence of whiplash trauma and the effects of different factors on recovery.",
+          "volume": "16",
+          "author": "Sterner",
+          "year": "2003",
+          "journal-title": "Journal of Spinal Disorders and Techniques"
+        },
+        {
+          "key": "R76-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "2008",
+          "DOI": "10.1001/jama.283.15.2008",
+          "article-title": "Meta-analysis of observational studies in epidemiology: a proposal for reporting. Meta-analysis Of Observational Studies in Epidemiology (MOOSE) group.",
+          "volume": "283",
+          "author": "Stroup",
+          "year": "2000",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "RU77-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "443",
+          "DOI": "10.1007/BF00873547",
+          "article-title": "The effect of accident mechanisms and initial findings on the long-term course of whiplash injury.",
+          "volume": "242",
+          "author": "Sturzenegger",
+          "year": "1995",
+          "journal-title": "J Neurol"
+        },
+        {
+          "key": "R78-18-20210112",
+          "first-page": "519",
+          "article-title": "Shoulder disorders in general practice: prognostic indicators of outcome.",
+          "volume": "46",
+          "author": "van der Windt",
+          "year": "1996",
+          "journal-title": "British Journal of General Practice"
+        },
+        {
+          "key": "R79-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "195",
+          "DOI": "10.1007/s005860050055",
+          "article-title": "Neck sprain in patients injured in car accidents: a retrospective study covering the period 1970-1994.",
+          "volume": "7",
+          "author": "Versteegen",
+          "year": "1998",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "RU80-18-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1007/s002340050363",
+          "article-title": "MRI of car occupants with whiplash injury.",
+          "volume": "39",
+          "author": "Voyvodic",
+          "year": "1997",
+          "journal-title": "Neuroradiology"
+        }
+      ],
+      "container-title": [
+        "Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://journals.lww.com/00006396-200809150-00018",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            8
+          ]
+        ],
+        "date-time": "2021-04-08T22:47:36Z",
+        "timestamp": 1617922056000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.lww.com/00006396-200809150-00018"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2008,
+            9,
+            15
+          ]
+        ]
+      },
+      "references-count": 79,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1016/j.pain.2008.02.019",
+      "relation": {},
+      "ISSN": [
+        "0304-3959"
+      ],
+      "issn-type": [
+        {
+          "value": "0304-3959",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2008,
+            9,
+            15
+          ]
+        ]
+      }
+    }
+  }
+}

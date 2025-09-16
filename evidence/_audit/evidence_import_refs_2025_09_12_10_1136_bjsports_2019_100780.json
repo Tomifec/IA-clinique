@@ -1,0 +1,671 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_bjsports_2019_100780.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_bjsports_2019_100780",
+  "doi": "10.1136/bjsports-2019-100780",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:50.529094Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            11
+          ]
+        ],
+        "date-time": "2025-09-11T11:05:18Z",
+        "timestamp": 1757588718102,
+        "version": "3.41.2"
+      },
+      "reference-count": 55,
+      "publisher": "BMJ",
+      "issue": "13",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                10,
+                19
+              ]
+            ],
+            "date-time": "2019-10-19T00:00:00Z",
+            "timestamp": 1571443200000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Br J Sports Med"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2019,
+            9,
+            12
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            7
+          ]
+        ]
+      },
+      "abstract": "<jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>One-size-fits-all interventions reduce chronic low back pain (CLBP) a small amount. An individualised intervention called cognitive functional therapy (CFT) was superior for CLBP compared with manual therapy and exercise in one randomised controlled trial (RCT). However, systematic reviews show group interventions are as effective as one-to-one interventions for musculoskeletal pain. This RCT investigated whether a physiotherapist-delivered individualised intervention (CFT) was more effective than physiotherapist-delivered group-based exercise and education for individuals with CLBP.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>206 adults with CLBP were randomised to either CFT (n=106) or group-based exercise and education (n=100). The length of the CFT intervention varied according to the clinical progression of participants (mean=5 treatments). The group intervention consisted of up to 6 classes (mean=4 classes) over 6–8 weeks. Primary outcomes were disability and pain intensity in the past week at 6 months and 12months postrandomisation. Analysis was by intention-to-treat using linear mixed models.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>CFT reduced disability more than the group intervention at 6 months (mean difference, 8.65; 95% CI 3.66 to 13.64; p=0.001), and at 12 months (mean difference, 7.02; 95% CI 2.24 to 11.80; p=0.004). There were no between-group differences observed in pain intensity at 6 months (mean difference, 0.76; 95% CI -0.02 to 1.54; p=0.056) or 12 months (mean difference, 0.65; 95% CI -0.20 to 1.50; p=0.134).</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>CFT reduced disability, but not pain, at 6 and 12 months compared with the group-based exercise and education intervention. Future research should examine whether the greater reduction in disability achieved by CFT renders worthwhile differences for health systems and patients.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Trial registration number</jats:title>\n                  <jats:p>\n                     <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"NCT02145728\">ClinicalTrials.gov registry (NCT02145728</jats:ext-link>).</jats:p>\n               </jats:sec>",
+      "DOI": "10.1136/bjsports-2019-100780",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            19
+          ]
+        ],
+        "date-time": "2019-10-19T17:15:14Z",
+        "timestamp": 1571505314000
+      },
+      "page": "782-789",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 133,
+      "title": [
+        "Cognitive functional therapy compared with a group-based exercise and education intervention for chronic low back pain: a multicentre randomised controlled trial (RCT)"
+      ],
+      "prefix": "10.1136",
+      "volume": "54",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-7104-9248",
+          "authenticated-orcid": false,
+          "given": "Mary",
+          "family": "O'Keeffe",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute for Musculoskeletal Health, Sydney School of Public Health, Faculty of Medicine and Health, University of Sydney, Sydney, New South Wales, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Peter",
+          "family": "O'Sullivan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Physiotherapy and Exercise Science, Curtin University, Shenton Park, Perth, Western Australia, Australia"
+            },
+            {
+              "name": "Bodylogic Physiotherapy, Perth, Western Australia, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Helen",
+          "family": "Purtill",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Mathematics & Statistics, Faculty of Science & Engineering, University of Limerick, Limerick, Ireland"
+            },
+            {
+              "name": "Health Research Institute, University of Limerick, Limerick, Ireland"
+            },
+            {
+              "name": "Aging Research Centre, University of Limerick, Limerick, Ireland"
+            }
+          ]
+        },
+        {
+          "given": "Norma",
+          "family": "Bargary",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Mathematics & Statistics, Faculty of Science & Engineering, University of Limerick, Limerick, Ireland"
+            },
+            {
+              "name": "Health Research Institute, University of Limerick, Limerick, Ireland"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7137-3125",
+          "authenticated-orcid": false,
+          "given": "Kieran",
+          "family": "O'Sullivan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Health Research Institute, University of Limerick, Limerick, Ireland"
+            },
+            {
+              "name": "Aging Research Centre, University of Limerick, Limerick, Ireland"
+            },
+            {
+              "name": "Sports Spine Centre, Aspetar Qatar Orthopaedic and Sports Medicine Hospital, Doha, Qatar"
+            },
+            {
+              "name": "School of Allied Health, Faculty of Education and Health Sciences, University of Limerick, Limerick, Ireland"
+            }
+          ]
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            19
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2025080113531158000_54.13.782.1",
+          "doi-asserted-by": "crossref",
+          "first-page": "736",
+          "DOI": "10.1016/S0140-6736(16)30970-9",
+          "article-title": "Non-specific low back pain",
+          "volume": "389",
+          "author": "Maher",
+          "year": "2017",
+          "journal-title": "The Lancet"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.2",
+          "doi-asserted-by": "crossref",
+          "first-page": "2356",
+          "DOI": "10.1016/S0140-6736(18)30480-X",
+          "article-title": "What low back pain is and why we need to pay attention",
+          "volume": "391",
+          "author": "Hartvigsen",
+          "year": "2018",
+          "journal-title": "The Lancet"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.3",
+          "doi-asserted-by": "crossref",
+          "first-page": "2368",
+          "DOI": "10.1016/S0140-6736(18)30489-6",
+          "article-title": "Prevention and treatment of low back pain: evidence, challenges, and promising directions",
+          "volume": "391",
+          "author": "Foster",
+          "year": "2018",
+          "journal-title": "The Lancet"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.4",
+          "doi-asserted-by": "crossref",
+          "first-page": "2384",
+          "DOI": "10.1016/S0140-6736(18)30488-4",
+          "article-title": "Low back pain: a call for action",
+          "volume": "391",
+          "author": "Buchbinder",
+          "year": "2018",
+          "journal-title": "The Lancet"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.5",
+          "unstructured": "National Institute for Health and Care Excellence (NICE) . Low back pain and sciatica in over 16s: assessment and management, 2016. Available: https://www.nice.org.uk/guidance/ng59 [Accessed June 2018]."
+        },
+        {
+          "key": "2025080113531158000_54.13.782.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/M16-2367"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-017-5099-2"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2015-095410"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.9",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hayden J , van Tulder MW , Malmivaara A , et al . Exercise therapy for treatment of non-specific low back pain. Cochrane Database Syst Rev 2005;35.doi:10.1002/14651858.CD000335.pub2",
+          "DOI": "10.1002/14651858.CD000335.pub2"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.10",
+          "doi-asserted-by": "crossref",
+          "first-page": "755",
+          "DOI": "10.1016/j.jpain.2016.01.473",
+          "article-title": "Comparative Effectiveness of Conservative Interventions for Nonspecific Chronic Spinal Pain: Physical, Behavioral/Psychologically Informed, or Combined? A Systematic Review and Meta-Analysis",
+          "volume": "17",
+          "author": "O'Keeffe",
+          "year": "2016",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.11",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wegner I , Widyahening IS , van Tulder MW , et al . Traction for low-back pain with or without sciatica. Cochrane Database Syst Rev 2013;18.doi:10.1002/14651858.CD003010.pub5",
+          "DOI": "10.1002/14651858.CD003010.pub5"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.12",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Henschke N , Ostelo RWJG , van Tulder MW , et al . Behavioural treatment for chronic low-back pain. Cochrane Database Syst Rev 2010;49.doi:10.1002/14651858.CD002014.pub3",
+          "DOI": "10.1002/14651858.CD002014.pub3"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.13",
+          "doi-asserted-by": "crossref",
+          "first-page": "932",
+          "DOI": "10.2519/jospt.2016.0609",
+          "article-title": "Unraveling the complexity of low back pain",
+          "volume": "46",
+          "author": "O'Sullivan",
+          "year": "2016",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.14",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jensen RK , Kent P , Hancock M . Do MRI findings identify patients with chronic low back pain and Modic changes who respond best to rest or exercise: a subgroup analysis of a randomised controlled trial. Chiropr Man Therap 2015;23.doi:10.1186/s12998-015-0071-x",
+          "DOI": "10.1186/s12998-015-0071-x"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3174/ajnr.A4498"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.16",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/1471-2474-15-229",
+          "article-title": "Comparing lumbo-pelvic kinematics in people with and without back pain: a systematic review and meta-analysis",
+          "volume": "15",
+          "author": "Laird",
+          "year": "2014",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000202532.76925.d2"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00002508-200403000-00001"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.19",
+          "doi-asserted-by": "crossref",
+          "first-page": "816",
+          "DOI": "10.1016/j.spinee.2013.09.036",
+          "article-title": "The role of fear avoidance beliefs as a prognostic factor for outcome in patients with nonspecific low back pain: a systematic review",
+          "volume": "14",
+          "author": "Wertli",
+          "year": "2014",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ejpain.2011.06.006"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2015.10.037"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.22",
+          "doi-asserted-by": "crossref",
+          "first-page": "1074",
+          "DOI": "10.1016/j.berh.2017.04.001",
+          "article-title": "Causal mechanisms in the clinical course and treatment of back pain",
+          "volume": "30",
+          "author": "Lee",
+          "year": "2016",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.23",
+          "doi-asserted-by": "crossref",
+          "first-page": "63",
+          "DOI": "10.1016/j.genhosppsych.2016.09.008",
+          "article-title": "The epidemiology of back pain and its relationship with depression, psychosis, anxiety, sleep disturbances, and stress sensitivity: data from 43 low- and middle-income countries",
+          "volume": "43",
+          "author": "Stubbs",
+          "year": "2016",
+          "journal-title": "Gen Hosp Psychiatry"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.24",
+          "doi-asserted-by": "crossref",
+          "first-page": "755",
+          "DOI": "10.1097/AJP.0000000000000055",
+          "article-title": "The bidirectional relationship between pain intensity and sleep disturbance/quality in patients with low back pain",
+          "volume": "30",
+          "author": "Alsaadi",
+          "year": "2014",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.25",
+          "doi-asserted-by": "crossref",
+          "first-page": "591",
+          "DOI": "10.2340/16501977-2249",
+          "article-title": "Are job strain and sleep disturbances prognostic factors for low-back pain?A cohort study of a general population of working age in Sweden",
+          "volume": "49",
+          "author": "Rasmussen-Barr",
+          "year": "2017",
+          "journal-title": "J Rehabil Med"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-200008150-00017"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijnurstu.2014.11.003"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2016-096612"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.29",
+          "doi-asserted-by": "crossref",
+          "first-page": "453",
+          "DOI": "10.2519/jospt.2019.8774",
+          "article-title": "Hybrid approach to treatment tailoring for low back pain: a proposed model of care",
+          "volume": "49",
+          "author": "Hodges",
+          "year": "2019",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.30",
+          "doi-asserted-by": "crossref",
+          "first-page": "408",
+          "DOI": "10.1093/ptj/pzy022",
+          "article-title": "Cognitive functional therapy: an integrated behavioral approach for the targeted management of disabling low back pain",
+          "volume": "98",
+          "author": "O'Sullivan",
+          "year": "2018",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/j.1532-2149.2012.00252.x"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.32",
+          "doi-asserted-by": "crossref",
+          "first-page": "1416",
+          "DOI": "10.1002/ejp.1399",
+          "article-title": "Cognitive functional therapy in patients with non-specific chronic low back pain-a randomized controlled trial 3-year follow-up",
+          "volume": "23",
+          "author": "Vibe Fersum",
+          "year": "2019",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.33",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2014-007156",
+          "article-title": "Individualised cognitive functional therapy compared with a combined exercise and pain education class for patients with non-specific chronic low back pain: study protocol for a multicentre randomised controlled trial",
+          "volume": "5",
+          "author": "O'Keeffe",
+          "year": "2015",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.34",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/1472-6874-12-7",
+          "article-title": "Socioeconomic conditions and number of pain sites in women",
+          "volume": "12",
+          "author": "Rannestad",
+          "year": "2012",
+          "journal-title": "BMC Womens Health"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-200011150-00017"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0304-3959(99)00101-3"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0304-3959(93)90127-B"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0090-5550.48.4.296"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2522/ptj.20130217"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/occmed/kqm036"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e3181f8f775"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/14034949950153931"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.43",
+          "unstructured": "Lovibond S , Lovibond P . Manual for the depression anxiety and stress scales (DASS) 1993;23."
+        },
+        {
+          "key": "2025080113531158000_54.13.782.44",
+          "unstructured": "Marshall GN , Hays RD . The patient satisfaction questionnaire short-form (PSQ-18). CA Rand Santa Monica; 1994."
+        },
+        {
+          "key": "2025080113531158000_54.13.782.45",
+          "unstructured": "Cohen J . Pp. 79–81 in statistical power analysis for the behavioral sciences. Hillsdale, NJ Lawrence Erlbaum Associates; 1988."
+        },
+        {
+          "key": "2025080113531158000_54.13.782.46",
+          "unstructured": "Little RJ , Rubin DB . Statistical analysis with missing data. John Wiley & Sons, 2014."
+        },
+        {
+          "key": "2025080113531158000_54.13.782.47",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Mansournia MA , Altman DG . Inverse probability weighting. BMJ 2016;15.doi:10.1136/bmj.i189",
+          "DOI": "10.1136/bmj.i189"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2017-098245"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00001648-200009000-00011"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.50",
+          "unstructured": "Team RC . R: a language and environment for statistical computing 2013."
+        },
+        {
+          "key": "2025080113531158000_54.13.782.51",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Avins A , Pressman A . (469) how Responder analyses can misinform in pain-related clinical trials. The Journal of Pain 2017;18.doi:10.1016/j.jpain.2017.02.319",
+          "DOI": "10.1016/j.jpain.2017.02.319"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.52",
+          "doi-asserted-by": "crossref",
+          "first-page": "966",
+          "DOI": "10.1002/sim.6739",
+          "article-title": "Mastering variation: variance components and personalised medicine",
+          "volume": "35",
+          "author": "Senn",
+          "year": "2016",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.53",
+          "doi-asserted-by": "crossref",
+          "first-page": "1560",
+          "DOI": "10.1016/S0140-6736(11)60937-9",
+          "article-title": "Comparison of stratified primary care management for low back pain with current best practice (start back): a randomised controlled trial",
+          "volume": "378",
+          "author": "Hill",
+          "year": "2011",
+          "journal-title": "The Lancet"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.54",
+          "doi-asserted-by": "crossref",
+          "first-page": "916",
+          "DOI": "10.1016/S0140-6736(09)62164-4",
+          "article-title": "Group cognitive behavioural treatment for low-back pain in primary care: a randomised controlled trial and cost-effectiveness analysis",
+          "volume": "375",
+          "author": "Lamb",
+          "year": "2010",
+          "journal-title": "The Lancet"
+        },
+        {
+          "key": "2025080113531158000_54.13.782.55",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s12891-018-2034-6",
+          "article-title": "Inclusion and exclusion criteria used in non-specific low back pain trials: a review of randomised controlled trials published between 2006 and 2012",
+          "volume": "19",
+          "author": "Amundsen",
+          "year": "2018",
+          "journal-title": "BMC Musculoskelet Disord"
+        }
+      ],
+      "container-title": [
+        "British Journal of Sports Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bjsports-2019-100780",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2025-08-01T20:53:21Z",
+        "timestamp": 1754081601000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bjsm.bmj.com/lookup/doi/10.1136/bjsports-2019-100780"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            19
+          ]
+        ]
+      },
+      "references-count": 55,
+      "journal-issue": {
+        "issue": "13",
+        "published-online": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              17
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              7
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bjsports-2019-100780"
+      ],
+      "URL": "https://doi.org/10.1136/bjsports-2019-100780",
+      "relation": {},
+      "ISSN": [
+        "0306-3674",
+        "1473-0480"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0306-3674"
+        },
+        {
+          "type": "electronic",
+          "value": "1473-0480"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            19
+          ]
+        ]
+      }
+    }
+  }
+}

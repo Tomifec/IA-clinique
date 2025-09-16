@@ -1,0 +1,901 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_msksp_2019_03_009.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_msksp_2019_03_009",
+  "doi": "10.1016/j.msksp.2019.03.009",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:53.768154Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            30
+          ]
+        ],
+        "date-time": "2025-08-30T16:25:19Z",
+        "timestamp": 1756571119319,
+        "version": "3.37.3"
+      },
+      "reference-count": 60,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2019-07-01T00:00:00Z",
+            "timestamp": 1561939200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100001829",
+          "name": "Utrecht University",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100001829",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100001829",
+          "name": "Utrecht University",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100001829",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "name": "Institute of Movement studies"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "clinicalkey.com.au",
+          "clinicalkey.fr",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.msksp.2019.03.009",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            2
+          ]
+        ],
+        "date-time": "2019-04-02T16:06:06Z",
+        "timestamp": 1554221166000
+      },
+      "page": "13-37",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 42,
+      "special_numbering": "C",
+      "title": [
+        "Prognostic factors for persistent pain after a first episode of nonspecific idiopathic, non-traumatic neck pain: A systematic review"
+      ],
+      "prefix": "10.1016",
+      "volume": "42",
+      "author": [
+        {
+          "given": "Martine",
+          "family": "Verwoerd",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Harriet",
+          "family": "Wittink",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Francois",
+          "family": "Maissan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Edwin",
+          "family": "de Raaij",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rob J.E.M.",
+          "family": "Smeets",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib1",
+          "first-page": "265",
+          "article-title": "Prognostic and treatment- predictive factors Ð is there a difference?",
+          "volume": "3",
+          "author": "Adolfsson",
+          "year": "2000",
+          "journal-title": "Nature"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2019.03.009_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "605",
+          "DOI": "10.1111/apa.13384",
+          "article-title": "Understanding type I and type II errors, statistical power and sample size",
+          "volume": "105",
+          "author": "Akobeng",
+          "year": "2016",
+          "journal-title": "Acta Paediatr."
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.msksp.2019.03.009_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "894",
+          "DOI": "10.2519/jospt.2016.6588",
+          "article-title": "Are people with whiplash-associated neck pain different from people with nonspecific neck pain?",
+          "volume": "46",
+          "author": "Anstey",
+          "year": "2016",
+          "journal-title": "J. Orthop. Sport. Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib4",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2016-012901",
+          "article-title": "Generic prognostic factors for musculoskeletal pain in primary care: a systematic review",
+          "volume": "7",
+          "author": "Artus",
+          "year": "2017",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "volume": "vol. 64",
+          "year": "2011",
+          "author": "Balshem",
+          "key": "10.1016/j.msksp.2019.03.009_bib5"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.msksp.2019.03.009_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "1026",
+          "DOI": "10.2522/ptj.20120412",
+          "article-title": "Effect of therapeutic exercise on pain and disability in the management of chronic nonspecific neck pain: systematic review and meta-analysis of randomized trials",
+          "volume": "93",
+          "author": "Bertozzi",
+          "year": "2013",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib7",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s13643-017-0583-7",
+          "article-title": "The effect of psychological interventions on the prevention of chronic pain in adults: a systematic review protocol",
+          "author": "Bérubé",
+          "year": "2017",
+          "journal-title": "Syst. Rev."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2019.03.009_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "561",
+          "DOI": "10.1093/ptj/pzx023",
+          "article-title": "Validity and reproducibility of the STarT back tool (Dutch version) in patients with low back pain in primary care settings",
+          "volume": "97",
+          "author": "Bier",
+          "year": "2017",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.msksp.2019.03.009_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "1307",
+          "DOI": "10.1097/00007632-199406000-00001",
+          "article-title": "Neck pain in the general population",
+          "volume": "19",
+          "author": "Bovim",
+          "year": "1994",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2019.03.009_bib10",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0065483",
+          "article-title": "Is pain intensity really that important to assess in chronic pain patients? A study based on the Swedish quality Registry for pain rehabilitation (SQRP)",
+          "volume": "8",
+          "author": "Bromley Milton",
+          "year": "2013",
+          "journal-title": "PLoS One"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.msksp.2019.03.009_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1097/AJP.0000000000000597",
+          "article-title": "Psychological factors and the development of chronic whiplash associated disorder(s)",
+          "volume": "34",
+          "author": "Campbell",
+          "year": "2018",
+          "journal-title": "Clin. J. Pain"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.msksp.2019.03.009_bib12",
+          "article-title": "Designing pain research from the patient's perspective",
+          "volume": "2",
+          "author": "Casarett",
+          "year": "2001",
+          "journal-title": "What"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.msksp.2019.03.009_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "A1",
+          "DOI": "10.2519/jospt.2008.0303",
+          "article-title": "Neck Pain: clinical practice guidelines linked to the international classification of functioning, disability, and health from the orthopedic section of the american physical therapy association",
+          "volume": "38",
+          "author": "Childs",
+          "year": "2008",
+          "journal-title": "J. Orthop. Sport. Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "406",
+          "DOI": "10.1016/j.molonc.2007.12.001",
+          "article-title": "Prognostic factors versus predictive factors: examples from a clinical trial of erlotinib",
+          "volume": "1",
+          "author": "Clark",
+          "year": "2008",
+          "journal-title": "Mol. Oncol."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2019.03.009_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "267",
+          "DOI": "10.1016/j.pain.2004.09.004",
+          "article-title": "The annual incidence and course of neck pain in the general population: a population-based cohort study",
+          "volume": "112",
+          "author": "Côté",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2019.03.009_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "317",
+          "DOI": "10.1016/S0304-3959(01)00334-7",
+          "article-title": "Risk factors for neck pain: a longitudinal study in the general population",
+          "volume": "93",
+          "author": "Croft",
+          "year": "2001",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "10053",
+          "key": "10.1016/j.msksp.2019.03.009_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "1545",
+          "DOI": "10.1016/S0140-6736(16)31678-6",
+          "volume": "388",
+          "year": "2016",
+          "journal-title": "Lancet (London, England)"
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib18",
+          "article-title": "Cochrane Database of Systematic Reviews Physical activity and exercise for chronic pain in adults: an overview of Cochrane Reviews (Review) Physical activity and exercise for chronic pain in adults: an overview of Cochrane Reviews (Review) i Physical acti",
+          "volume": "4",
+          "author": "Geneen",
+          "year": "2017",
+          "journal-title": "Cochrane Database Syst. Rev."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2019.03.009_bib19",
+          "first-page": "1",
+          "article-title": "Psychological predictors of recovery from low back pain: a prospective study",
+          "volume": "16",
+          "author": "George",
+          "year": "2015",
+          "journal-title": "BMC Muscoskelet. Disord."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.msksp.2019.03.009_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1184",
+          "DOI": "10.1097/j.pain.0000000000000191",
+          "article-title": "Research design considerations for chronic pain prevention clinical trials: IMMPACT recommendations HHS Public Access",
+          "volume": "156",
+          "author": "Gewandter",
+          "year": "2015",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.msksp.2019.03.009_bib21",
+          "article-title": "Manipulation and mobilisation for neck pain contrasted against an inactive control or another active treatment",
+          "volume": "23",
+          "author": "Gross",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst. Rev."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.msksp.2019.03.009_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "698",
+          "DOI": "10.2522/ptj.20080351",
+          "article-title": "A guide to interpretation of studies investigating subgroups of responders to physical therapy interventions",
+          "volume": "89",
+          "author": "Hancock",
+          "year": "2009",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.msksp.2019.03.009_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "280",
+          "DOI": "10.7326/0003-4819-158-4-201302190-00009",
+          "article-title": "Assessing bias in studies of prognostic factors",
+          "volume": "158",
+          "author": "Hayden",
+          "year": "2013",
+          "journal-title": "Ann. Intern. Med."
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib24",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/14651858.CD011284",
+          "article-title": "Individual recovery expectations and prognosis of outcomes in non-specific low back pain: prognostic factor exemplar review",
+          "author": "Hayden",
+          "year": "2014",
+          "journal-title": "Cochrane Database Syst. Rev."
+        },
+        {
+          "issue": "15",
+          "key": "10.1016/j.msksp.2019.03.009_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "1648",
+          "DOI": "10.1097/01.BRS.0000132307.06321.3C",
+          "article-title": "Predicting persistent neck pain: a 1-year follow-up of a population cohort",
+          "volume": "29",
+          "author": "Hill",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "639",
+          "DOI": "10.1016/j.pain.2004.05.002",
+          "article-title": "Prognostic factors for neck pain in general practice",
+          "volume": "110",
+          "author": "Hoving",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2019.03.009_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "377",
+          "DOI": "10.1016/j.berh.2014.07.006",
+          "article-title": "A time for action: opportunities for preventing the growing burden and disability from musculoskeletal conditions in low- and middle-income countries",
+          "volume": "28",
+          "author": "Hoy",
+          "year": "2014",
+          "journal-title": "Best Pract. Res. Clin. Rheumatol."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2019.03.009_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1186/2046-4053-2-71",
+          "article-title": "Judging the quality of evidence in reviews of prognostic factor research: adapting the GRADE framework",
+          "volume": "2",
+          "author": "Huguet",
+          "year": "2013",
+          "journal-title": "Syst. Rev."
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib29",
+          "first-page": "824",
+          "article-title": "Prognosis of acute idiopathic neck pain is poor: a systematic review and meta-analysis",
+          "volume": "92",
+          "author": "Hush",
+          "year": "2011",
+          "journal-title": "YAPMR"
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.1016/j.math.2016.10.066",
+          "article-title": "Clinical prediction rules for prognosis and treatment prescription in neck pain: a systematic review",
+          "volume": "27",
+          "author": "Kelly",
+          "year": "2017",
+          "journal-title": "Musculoskelet Sci. Pract."
+        },
+        {
+          "year": "2016",
+          "series-title": "Zorg voor de fysiotherapeut - top-10 gezondheidsproblemen (DCSPH)",
+          "author": "Koppes",
+          "key": "10.1016/j.msksp.2019.03.009_bib31"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2019.03.009_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "239",
+          "DOI": "10.1016/j.math.2007.01.010",
+          "article-title": "The use of fear-avoidance beliefs and nonorganic signs in predicting prolonged disability in patients with neck pain",
+          "volume": "13",
+          "author": "Landers",
+          "year": "2008",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib33",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/S1836-9553(13)70144-9",
+          "article-title": "People seeking treatment for a new episode of neck pain typically have rapid improvement in symptoms: an observational study",
+          "author": "Leaver",
+          "year": "2013",
+          "journal-title": "J. Physiother."
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib34",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1097/j.pain.0000000000000146",
+          "article-title": "How does pain lead to disability? A systematic review and meta-analysis of mediation studies in people with back and neck pain",
+          "author": "Lee",
+          "year": "2015",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "541",
+          "key": "10.1016/j.msksp.2019.03.009_bib35",
+          "first-page": "655",
+          "article-title": "Prognostic factors for musculoskeletal pain in primary care: a systematic review",
+          "volume": "57",
+          "author": "Mallen",
+          "year": "2007",
+          "journal-title": "Br. J. Gen. Pract."
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "1006",
+          "DOI": "10.1016/j.jclinepi.2009.06.005",
+          "article-title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+          "volume": "62",
+          "author": "Moher",
+          "year": "2009",
+          "journal-title": "J. Clin. Epidemiol."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2019.03.009_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "737",
+          "DOI": "10.2522/ptj.20100224",
+          "article-title": "Early identification and management of psychological risk factors (“Yellow flags”) in patients with low back pain: a reappraisal",
+          "volume": "91",
+          "author": "Nicholas",
+          "year": "2011",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "70",
+          "DOI": "10.1016/j.jpsychores.2016.09.006",
+          "article-title": "Is there a relationship between psychological stress or anxiety and chronic nonspecific neck-arm pain in adults? A systematic review and meta-analysis",
+          "volume": "90",
+          "author": "Ortego",
+          "year": "2016",
+          "journal-title": "J. Psychosom. Res."
+        },
+        {
+          "year": "2015",
+          "series-title": "Incidence and Prognostic Factors of Chronic Pain after Isolated Musculoskeletal Extremity Injury",
+          "author": "Pierik",
+          "key": "10.1016/j.msksp.2019.03.009_bib39"
+        },
+        {
+          "volume": "vol. 27",
+          "year": "2002",
+          "author": "Pincus",
+          "key": "10.1016/j.msksp.2019.03.009_bib40"
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "111",
+          "DOI": "10.1016/j.math.2009.08.001",
+          "article-title": "Are psychological factors prognostic indicators of outcome in patients with sub-acute neck pain?",
+          "volume": "15",
+          "author": "Pool",
+          "year": "2010",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2019.03.009_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "449",
+          "DOI": "10.1185/03007995.2010.545813",
+          "article-title": "Epidemiology of chronic non-cancer pain in Europe: narrative review of prevalence, pain treatments and pain impact",
+          "volume": "27",
+          "author": "Reid",
+          "year": "2011",
+          "journal-title": "Curr. Med. Res. Opin."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2019.03.009_bib43",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pmed.1001380",
+          "article-title": "Guidelines and guidance prognosis research strategy (PROGRESS) 2: prognostic factor research",
+          "volume": "10",
+          "author": "Riley",
+          "year": "2013",
+          "journal-title": "PLoS Med."
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.sjpain.2016.08.008",
+          "article-title": "Chronic neck pain patients with traumatic or non-traumatic onset: differences in characteristics. A cross-sectional study",
+          "volume": "14",
+          "author": "Ris",
+          "year": "2017",
+          "journal-title": "Scand J. Pain"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2019.03.009_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "647",
+          "DOI": "10.1002/acr.20151",
+          "article-title": "UKPMC funders group patient perspective of measuring treatment efficacy: the rheumatoid arthritis patient priorities for pharmacological interventions ( RAPP-PI ) outcomes",
+          "volume": "62",
+          "author": "Sanderson",
+          "year": "2010",
+          "journal-title": "Arthritis Rheum."
+        },
+        {
+          "issue": "17",
+          "key": "10.1016/j.msksp.2019.03.009_bib46",
+          "doi-asserted-by": "crossref",
+          "first-page": "827",
+          "DOI": "10.1097/BRS.0b013e3181d85ad5",
+          "article-title": "Prognosis of patients with nonspecific neck pain development and external validation of a prediction rule for persistence of complaints",
+          "volume": "35",
+          "author": "Schellingerhout",
+          "year": "2010",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.msksp.2019.03.009_bib47",
+          "doi-asserted-by": "crossref",
+          "first-page": "1407",
+          "DOI": "10.1016/j.apmr.2016.10.003",
+          "article-title": "To what degree does active cervical range of motion differ between patients with neck pain, patients with whiplash, and those without neck pain? A systematic review and meta-analysis",
+          "volume": "98",
+          "author": "Stenneberg",
+          "year": "2017",
+          "journal-title": "Arch. Phys. Med. Rehabil."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2019.03.009_bib48",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.36076/ppj/2016.19.1",
+          "article-title": "A multivariable prediction model for the chronification of non-traumatic shoulder pain: a systematic review",
+          "volume": "19",
+          "author": "Struyf",
+          "year": "2016",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "issue": "21",
+          "key": "10.1016/j.msksp.2019.03.009_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "1758",
+          "DOI": "10.3109/09638281003734342",
+          "article-title": "The association between cognitive factors, pain and disability in patients with idiopathic chronic neck pain",
+          "volume": "32",
+          "author": "Thompson",
+          "year": "2010",
+          "journal-title": "Disabil. Rehabil."
+        },
+        {
+          "key": "10.1016/j.msksp.2019.03.009_bib50",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pmed.1002019",
+          "article-title": "Estimating the risk of chronic pain: development and validation of a prognostic model (PICKUP) for patients with acute low back pain",
+          "author": "Traeger",
+          "year": "2016",
+          "journal-title": "PLoS Med."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2019.03.009_bib51",
+          "doi-asserted-by": "crossref",
+          "first-page": "1003",
+          "DOI": "10.1097/j.pain.0000000000000160",
+          "article-title": "A classification of chronic pain for ICD-11",
+          "volume": "156",
+          "author": "Treede",
+          "year": "2015",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2019.03.009_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "456",
+          "DOI": "10.1016/j.math.2011.02.009",
+          "article-title": "Do whiplash patients differ from other patients with non-specific neck pain regarding pain, function or prognosis?",
+          "volume": "16",
+          "author": "Verhagen",
+          "year": "2011",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2019.03.009_bib53",
+          "doi-asserted-by": "crossref",
+          "first-page": "533",
+          "DOI": "10.1016/j.ejpain.2008.06.008",
+          "article-title": "Effectiveness of a behaviour graded activity program versus conventional exercise for chronic neck pain patients",
+          "volume": "13",
+          "author": "Vonk",
+          "year": "2009",
+          "journal-title": "Eur. J. Pain"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2019.03.009_bib54",
+          "doi-asserted-by": "crossref",
+          "first-page": "572",
+          "DOI": "10.1111/j.1526-4637.2008.00456.x",
+          "article-title": "Clinical course and prognostic factors in acute neck pain: an inception cohort study in general practice",
+          "volume": "9",
+          "author": "Vos",
+          "year": "2008",
+          "journal-title": "Pain Med."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2019.03.009_bib55",
+          "doi-asserted-by": "crossref",
+          "first-page": "494",
+          "DOI": "10.2174/1874325001307010494",
+          "article-title": "An overview of systematic reviews on prognostic factors in neck pain: results from the international collaboration on neck pain (ICON) project",
+          "volume": "7",
+          "author": "Walton",
+          "year": "2013",
+          "journal-title": "Open Orthop. J."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2019.03.009_bib56",
+          "doi-asserted-by": "crossref",
+          "first-page": "31",
+          "DOI": "10.2519/jospt.2013.4507",
+          "article-title": "Risk factors for persistent problems following acute whiplash injury: update of a systematic review and meta-analysis",
+          "volume": "43",
+          "author": "Walton",
+          "year": "2013",
+          "journal-title": "J. Orthop. Sport. Phys. Ther."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2019.03.009_bib57",
+          "doi-asserted-by": "crossref",
+          "first-page": "816",
+          "DOI": "10.1016/j.spinee.2013.09.036",
+          "article-title": "The role of fear avoidance beliefs as a prognostic factor for outcome in patients with nonspecific low back pain: a systematic review",
+          "volume": "14",
+          "author": "Wertli",
+          "year": "2014",
+          "journal-title": "Spine J."
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.msksp.2019.03.009_bib58",
+          "doi-asserted-by": "crossref",
+          "first-page": "2639",
+          "DOI": "10.1016/j.spinee.2014.03.003",
+          "article-title": "Catastrophizing - a prognostic factor for outcome in patients with low back pain: a systematic review",
+          "volume": "14",
+          "author": "Wertli",
+          "year": "2014",
+          "journal-title": "Spine J."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2019.03.009_bib59",
+          "doi-asserted-by": "crossref",
+          "first-page": "16",
+          "DOI": "10.1016/j.jphys.2017.11.013",
+          "article-title": "Few promising multivariable prognostic models exist for recovery of people with non-specific neck pain in musculoskeletal primary care: a systematic review",
+          "volume": "64",
+          "author": "Wingbermühle",
+          "year": "2018",
+          "journal-title": "J. Physiother."
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.msksp.2019.03.009_bib60",
+          "article-title": "Importance of psychological factors for the recovery from a first episode of acute non-specific neck pain - a longitudinal observational study",
+          "volume": "24",
+          "author": "Wirth",
+          "year": "2016",
+          "journal-title": "Chiropr. Man. Ther."
+        }
+      ],
+      "container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781218300808?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781218300808?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            9,
+            15
+          ]
+        ],
+        "date-time": "2022-09-15T02:48:24Z",
+        "timestamp": 1663210104000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2468781218300808"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            7
+          ]
+        ]
+      },
+      "references-count": 60,
+      "alternative-id": [
+        "S2468781218300808"
+      ],
+      "URL": "https://doi.org/10.1016/j.msksp.2019.03.009",
+      "relation": {},
+      "ISSN": [
+        "2468-7812"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2468-7812"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            7
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Prognostic factors for persistent pain after a first episode of nonspecific idiopathic, non-traumatic neck pain: A systematic review",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Musculoskeletal Science and Practice",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.msksp.2019.03.009",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2019 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

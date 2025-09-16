@@ -1,0 +1,452 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_pain_2010_09_015.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_pain_2010_09_015",
+  "doi": "10.1016/j.pain.2010.09.015",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:00.681925Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            19
+          ]
+        ],
+        "date-time": "2025-06-19T20:23:49Z",
+        "timestamp": 1750364629128,
+        "version": "3.37.3"
+      },
+      "reference-count": 24,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2011,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2011-01-01T00:00:00Z",
+            "timestamp": 1293840000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100000002",
+          "name": "National Institutes of Health",
+          "doi-asserted-by": "crossref",
+          "award": [
+            "RO1 23747"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000002",
+              "id-type": "DOI",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.pain.2010.09.015",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2010,
+            10,
+            14
+          ]
+        ],
+        "date-time": "2010-10-14T09:34:58Z",
+        "timestamp": 1287048898000
+      },
+      "page": "82-88",
+      "source": "Crossref",
+      "is-referenced-by-count": 54,
+      "title": [
+        "Partner responses to patient pain and well behaviors and their relationship to patient pain behavior, functioning, and depression"
+      ],
+      "prefix": "10.1097",
+      "volume": "152",
+      "author": [
+        {
+          "given": "Katherine A.",
+          "family": "Raichle",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Joan M.",
+          "family": "Romano",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mark P.",
+          "family": "Jensen",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "276",
+      "reference": [
+        {
+          "key": "R1-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "787",
+          "DOI": "10.1097/00005650-198108000-00001",
+          "article-title": "The sickness impact profile: development and final revision of a health status measure.",
+          "volume": "19",
+          "author": "Bergner",
+          "year": "1981",
+          "journal-title": "Med Care"
+        },
+        {
+          "key": "R2-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "243",
+          "DOI": "10.1016/0304-3959(80)90011-1",
+          "article-title": "Behavioral treatment of chronic pain: the spouse as a discriminative cue for pain behavior.",
+          "volume": "9",
+          "author": "Block",
+          "year": "1980",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R3-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "369",
+          "DOI": "10.1016/j.pain.2004.05.004",
+          "article-title": "Pain catastrophizing and social support in married individuals with chronic pain: the moderating role of pain duration.",
+          "volume": "110",
+          "author": "Cano",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R4-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1046/j.1526-4637.2000.99100.x",
+          "article-title": "Marital satisfaction and pain severity mediate the association between negative spouse responses to pain and depressive symptoms in a chronic pain patient.",
+          "volume": "1",
+          "author": "Cano",
+          "year": "2000",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "R6-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "309",
+          "DOI": "10.1037/1040-3590.7.3.309",
+          "article-title": "Constructing validity: basic issues in objective scale development.",
+          "volume": "7",
+          "author": "Clark",
+          "year": "1995",
+          "journal-title": "Psychol Assess"
+        },
+        {
+          "key": "R7-17-20210112",
+          "first-page": "199",
+          "article-title": "An empirical evaluation of the dyadic adjustment scale: exploring the differences between marital satisfaction and adjustment.",
+          "volume": "13",
+          "author": "Eddy",
+          "year": "1991",
+          "journal-title": "Behav Assess"
+        },
+        {
+          "key": "R8-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "251",
+          "DOI": "10.1016/0022-3999(87)90082-1",
+          "article-title": "The role of spouse reinforcement, perceived pain, and activity levels of chronic pain patients.",
+          "volume": "31",
+          "author": "Flor",
+          "year": "1987",
+          "journal-title": "J Psychosom Res"
+        },
+        {
+          "key": "R9-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "45",
+          "DOI": "10.1016/0304-3959(89)90071-7",
+          "article-title": "Relationship of pain impact and significant other reinforcement of pain behaviors: the mediating role of gender, marital status and martial satisfaction.",
+          "volume": "38",
+          "author": "Flor",
+          "year": "1989",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R11-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.1093/jpepsy/27.1.87",
+          "article-title": "Post-hoc probing of significant moderational and mediational effects in studies of pediatric populations.",
+          "volume": "27",
+          "author": "Holmbeck",
+          "year": "2002",
+          "journal-title": "J Pediatr Psychol"
+        },
+        {
+          "key": "R13-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "401",
+          "DOI": "10.1016/0022-3999(90)90063-A",
+          "article-title": "The role of marital interaction in chronic pain and depressive symptom severity.",
+          "volume": "34",
+          "author": "Kerns",
+          "year": "1990",
+          "journal-title": "J Psychosom Res"
+        },
+        {
+          "key": "R14-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.1007/BF00846177",
+          "article-title": "The pain behavior checklist (PBCL): factor structure and psychometric properties.",
+          "volume": "14",
+          "author": "Kerns",
+          "year": "1991",
+          "journal-title": "J Behav Med"
+        },
+        {
+          "key": "R15-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "101",
+          "DOI": "10.1016/S0005-7894(05)80248-5",
+          "article-title": "The relationship between reports of pain-related social interactions and expressions of pain and affective distress.",
+          "volume": "22",
+          "author": "Kerns",
+          "year": "1991",
+          "journal-title": "Behav Ther"
+        },
+        {
+          "key": "R16-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "345",
+          "DOI": "10.1016/0304-3959(85)90004-1",
+          "article-title": "The West Haven-Yale Multidimensional Pain Inventory (WHYMPI).",
+          "volume": "23",
+          "author": "Kerns",
+          "year": "1985",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R18-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "262",
+          "DOI": "10.1054/jpai.2001.24553",
+          "article-title": "Perceived spouse responsiveness to chronic pain: three empirical subgroups.",
+          "volume": "2",
+          "author": "Papas",
+          "year": "2001",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "R19-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "654",
+          "DOI": "10.1097/AJP.0b013e31817708ea",
+          "article-title": "Examination of perceived spouse responses to patient well and pain behavior in patients with headache.",
+          "volume": "24",
+          "author": "Pence",
+          "year": "2008",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "R20-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "385",
+          "DOI": "10.1177/014662167700100306",
+          "article-title": "The CES-D scale: a self-report depression scale for research in the general population.",
+          "volume": "1",
+          "author": "Radloff",
+          "year": "1977",
+          "journal-title": "Appl Psych Meas"
+        },
+        {
+          "key": "R21-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "415",
+          "DOI": "10.1016/S0005-7894(00)80023-4",
+          "article-title": "Chronic pain patient-partner interactions: further support for a behavioral model of chronic pain.",
+          "volume": "31",
+          "author": "Romano",
+          "year": "2000",
+          "journal-title": "Behav Ther"
+        },
+        {
+          "key": "R22-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "777",
+          "DOI": "10.1037/0022-006X.60.5.777",
+          "article-title": "Sequential analysis of chronic pain behaviors and spouse responses.",
+          "volume": "60",
+          "author": "Romano",
+          "year": "1992",
+          "journal-title": "J Consult Clin Psychol"
+        },
+        {
+          "key": "R23-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "353",
+          "DOI": "10.1016/0304-3959(95)00062-3",
+          "article-title": "Chronic pain patient-spouse behavioral interactions predict patient disability.",
+          "volume": "63",
+          "author": "Romano",
+          "year": "1995",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R24-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "243",
+          "DOI": "10.1016/j.jpain.2004.12.010",
+          "article-title": "The development and psychometric evaluation of an instrument to assess spouse responses to pain and well behavior in patients with chronic pain: the spouse response inventory.",
+          "volume": "6",
+          "author": "Schwartz",
+          "year": "2005",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "R25-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "525",
+          "DOI": "10.1097/00002060-199911000-00006",
+          "article-title": "The role of spouse responses to disability and family environment in multiple sclerosis.",
+          "volume": "78",
+          "author": "Schwartz",
+          "year": "1999",
+          "journal-title": "Am J Phys Med Rehabil"
+        },
+        {
+          "key": "R26-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.2307/350547",
+          "article-title": "Measuring dyadic adjustment: new scales for assessing the quality of marriage and similar dyads.",
+          "volume": "38",
+          "author": "Spanier",
+          "year": "1976",
+          "journal-title": "J Marriage Fam"
+        },
+        {
+          "key": "R27-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "91",
+          "DOI": "10.1016/j.jpain.2005.08.006",
+          "article-title": "Partner responses to pain behaviors are associated with depression and activity interference among persons with chronic pain and spinal cord injury.",
+          "volume": "7",
+          "author": "Stroud",
+          "year": "2006",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "R28-17-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "259",
+          "DOI": "10.1037/h0079108",
+          "article-title": "Effects of marital interaction on chronic pain and disability: examining the down side of social support.",
+          "volume": "37",
+          "author": "Turk",
+          "year": "1992",
+          "journal-title": "Rehabil Psychol"
+        }
+      ],
+      "container-title": [
+        "Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://journals.lww.com/00006396-201101000-00017",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            8
+          ]
+        ],
+        "date-time": "2021-04-08T22:53:35Z",
+        "timestamp": 1617922415000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.lww.com/00006396-201101000-00017"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2011,
+            1
+          ]
+        ]
+      },
+      "references-count": 24,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2011
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1016/j.pain.2010.09.015",
+      "relation": {},
+      "ISSN": [
+        "0304-3959"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0304-3959"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            1
+          ]
+        ]
+      }
+    }
+  }
+}

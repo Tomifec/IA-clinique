@@ -1,0 +1,768 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_msksp_2017_03_003.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_msksp_2017_03_003",
+  "doi": "10.1016/j.msksp.2017.03.003",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:52.730069Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            16
+          ]
+        ],
+        "date-time": "2025-07-16T12:48:30Z",
+        "timestamp": 1752670110994
+      },
+      "reference-count": 42,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2017-06-01T00:00:00Z",
+            "timestamp": 1496275200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                3,
+                14
+              ]
+            ],
+            "date-time": "2017-03-14T00:00:00Z",
+            "timestamp": 1489449600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100009471",
+          "name": "ExtraStiftelsen",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "2829002"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100009471",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "name": "Norwegian Chiropractic Association",
+          "award": [
+            "2829001"
+          ]
+        },
+        {
+          "DOI": "10.13039/501100012446",
+          "name": "Akershus University Hospital",
+          "doi-asserted-by": "crossref",
+          "id": [
+            {
+              "id": "10.13039/501100012446",
+              "id-type": "DOI",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100001771",
+          "name": "University of Oslo in Norway",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100001771",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "clinicalkey.fr",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.msksp.2017.03.003",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2017,
+            3,
+            14
+          ]
+        ],
+        "date-time": "2017-03-14T10:30:23Z",
+        "timestamp": 1489487423000
+      },
+      "page": "66-71",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 12,
+      "special_numbering": "C",
+      "title": [
+        "Adverse events in a chiropractic spinal manipulative therapy single-blinded, placebo, randomized controlled trial for migraineurs"
+      ],
+      "prefix": "10.1016",
+      "volume": "29",
+      "author": [
+        {
+          "given": "Aleksander",
+          "family": "Chaibi",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Jūratė Šaltytė",
+          "family": "Benth",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter J.",
+          "family": "Tuchin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michael Bjørn",
+          "family": "Russell",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "8",
+          "key": "10.1016/j.msksp.2017.03.003_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "965",
+          "DOI": "10.1001/jama.291.8.965",
+          "article-title": "Topiramate for migraine prevention: a randomized controlled trial",
+          "volume": "291",
+          "author": "Brandes",
+          "year": "2004",
+          "journal-title": "JAMA"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2017.03.003_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "151",
+          "DOI": "10.1016/j.math.2004.03.001",
+          "article-title": "How common are side effects of spinal manipulation and can these side effects be predicted?",
+          "volume": "9",
+          "author": "Cagnie",
+          "year": "2004",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2017.03.003_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "440",
+          "DOI": "10.1016/j.math.2011.02.001",
+          "article-title": "Defining adverse events in manual therapy: an exploratory qualitative analysis of the patient perspective",
+          "volume": "16",
+          "author": "Carlesso",
+          "year": "2011",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.msksp.2017.03.003_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "355",
+          "DOI": "10.1016/j.math.2009.12.006",
+          "article-title": "Adverse events and manual therapy: a systematic review",
+          "volume": "15",
+          "author": "Carnes",
+          "year": "2010",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "Suppl. 4",
+          "key": "10.1016/j.msksp.2017.03.003_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "S176",
+          "DOI": "10.1097/BRS.0b013e3181644600",
+          "article-title": "Risk of vertebrobasilar stroke and chiropractic care: results of a population-based case-control and case-crossover study",
+          "volume": "33",
+          "author": "Cassidy",
+          "year": "2008",
+          "journal-title": "Spine Phila Pa 1976"
+        },
+        {
+          "key": "10.1016/j.msksp.2017.03.003_bib6",
+          "article-title": "Risk of carotid stroke after chiropractic care: a population-based case-crossover study",
+          "author": "Cassidy",
+          "year": "2016",
+          "journal-title": "J. Stroke Cerebrovasc. Dis. Off. J. Natl. Stroke Assoc."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2017.03.003_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "67",
+          "DOI": "10.1186/1129-2377-15-67",
+          "article-title": "Manual therapies for primary chronic headaches: a systematic review of randomized controlled trials",
+          "volume": "15",
+          "author": "Chaibi",
+          "year": "2014",
+          "journal-title": "J. Headache Pain"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2017.03.003_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1007/s10194-011-0296-6",
+          "article-title": "Manual therapies for migraine: a systematic review",
+          "volume": "12",
+          "author": "Chaibi",
+          "year": "2011",
+          "journal-title": "J. Headache Pain"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.msksp.2017.03.003_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "e008095",
+          "DOI": "10.1136/bmjopen-2015-008095",
+          "article-title": "Chiropractic spinal manipulative therapy for migraine: a study protocol of a single-blinded placebo-controlled randomised clinical trial",
+          "volume": "5",
+          "author": "Chaibi",
+          "year": "2015",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/j.msksp.2017.03.003_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "11774",
+          "DOI": "10.1038/srep11774",
+          "article-title": "Validation of placebo in a manual therapy randomized controlled trial",
+          "volume": "5",
+          "author": "Chaibi",
+          "year": "2015",
+          "journal-title": "Sci. Rep."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2017.03.003_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.1111/ene.13166",
+          "article-title": "Chiropractic spinal manipulative therapy for migraine: a three-armed, single-blinded, placebo, randomized controlled trial",
+          "volume": "24",
+          "author": "Chaibi",
+          "year": "2017",
+          "journal-title": "Eur. J. Neurol."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2017.03.003_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "16",
+          "DOI": "10.1016/S0899-3467(07)60069-X",
+          "article-title": "Gonstead chiropractic technique (GCT)",
+          "volume": "2",
+          "author": "Cooperstein",
+          "year": "2003",
+          "journal-title": "J. Chiropr. Med."
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.msksp.2017.03.003_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1010",
+          "DOI": "10.1016/S1474-4422(15)00198-2",
+          "article-title": "New therapeutic approaches for the prevention and treatment of migraine",
+          "volume": "14",
+          "author": "Diener",
+          "year": "2015",
+          "journal-title": "Lancet Neurol."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2017.03.003_bib14",
+          "first-page": "65",
+          "article-title": "The international conference on harmonization good clinical practice guideline",
+          "volume": "6",
+          "author": "Dixon",
+          "year": "1998",
+          "journal-title": "Qual. Assur. San. Diego Calif."
+        },
+        {
+          "key": "10.1016/j.msksp.2017.03.003_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "219",
+          "DOI": "10.1186/1471-2474-12-219",
+          "article-title": "Symptomatic reactions, clinical outcomes and patient satisfaction associated with upper cervical chiropractic care: a prospective, multicenter, cohort study",
+          "volume": "12",
+          "author": "Eriksen",
+          "year": "2011",
+          "journal-title": "BMC Musculoskelet. Disord."
+        },
+        {
+          "issue": "9294",
+          "key": "10.1016/j.msksp.2017.03.003_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "1668",
+          "DOI": "10.1016/S0140-6736(01)06711-3",
+          "article-title": "Oral triptans (serotonin 5-HT(1B/1D) agonists) in acute migraine treatment: a meta-analysis of 53 trials",
+          "volume": "358",
+          "author": "Ferrari",
+          "year": "2001",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.msksp.2017.03.003_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "1143",
+          "DOI": "10.1016/j.spinee.2016.05.018",
+          "article-title": "The reporting of adverse events following spinal manipulation in randomized clinical trials-a systematic review",
+          "volume": "16",
+          "author": "Gorrell",
+          "year": "2016",
+          "journal-title": "Spine J."
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.msksp.2017.03.003_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "E405",
+          "DOI": "10.1097/BRS.0b013e3181a16d63",
+          "article-title": "Safety of chiropractic interventions: a systematic review",
+          "volume": "34",
+          "author": "Gouveia",
+          "year": "2009",
+          "journal-title": "Spine Phila Pa 1976"
+        },
+        {
+          "key": "10.1016/j.msksp.2017.03.003_bib19",
+          "first-page": "Cd004249",
+          "article-title": "Manipulation and mobilisation for neck pain contrasted against an inactive control or another active treatment",
+          "volume": "9",
+          "author": "Gross",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst. Rev."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2017.03.003_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "16",
+          "DOI": "10.1016/j.jmpt.2003.11.002",
+          "article-title": "Adverse reactions to chiropractic treatment and their effects on satisfaction and clinical outcomes among patients enrolled in the UCLA neck pain study",
+          "volume": "27",
+          "author": "Hurwitz",
+          "year": "2004",
+          "journal-title": "J. Manip. Physiol. Ther."
+        },
+        {
+          "issue": "Suppl. 1",
+          "key": "10.1016/j.msksp.2017.03.003_bib21",
+          "first-page": "9",
+          "article-title": "Headache classification subcommittee of the international headache society. The international classification of headache disorders: 2nd edition",
+          "volume": "24",
+          "author": "ICHD",
+          "year": "2004",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.msksp.2017.03.003_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "781",
+          "DOI": "10.7326/0003-4819-141-10-200411160-00009",
+          "article-title": "Better reporting of harms in randomized trials: an extension of the CONSORT statement",
+          "volume": "141",
+          "author": "Ioannidis",
+          "year": "2004",
+          "journal-title": "Ann. Intern Med."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.msksp.2017.03.003_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "e0130733",
+          "DOI": "10.1371/journal.pone.0130733",
+          "article-title": "A comparative effectiveness meta-analysis of drugs for the prophylaxis of migraine headache",
+          "volume": "10",
+          "author": "Jackson",
+          "year": "2015",
+          "journal-title": "PloS One"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2017.03.003_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "164",
+          "DOI": "10.1136/emj.20.2.164",
+          "article-title": "Designing a research project: randomised controlled trials and their principles",
+          "volume": "20",
+          "author": "Kendall",
+          "year": "2003",
+          "journal-title": "Emerg. Med. J. EMJ"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2017.03.003_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "335",
+          "DOI": "10.1016/j.math.2014.10.003",
+          "article-title": "Adverse events among seniors receiving spinal manipulation and exercise in a randomized clinical trial",
+          "volume": "20",
+          "author": "Maiers",
+          "year": "2015",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2017.03.003_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "c869",
+          "DOI": "10.1136/bmj.c869",
+          "article-title": "CONSORT 2010 explanation and elaboration: updated guidelines for reporting parallel group randomised trials",
+          "volume": "340",
+          "author": "Moher",
+          "year": "2010",
+          "journal-title": "BMJ"
+        },
+        {
+          "year": "2013",
+          "series-title": "National Institute of Health Adverse Events and Serious Adverse Events Guidelines",
+          "author": "NIH",
+          "key": "10.1016/j.msksp.2017.03.003_bib27"
+        },
+        {
+          "year": "2006",
+          "series-title": "The Headache",
+          "author": "Olesen",
+          "key": "10.1016/j.msksp.2017.03.003_bib28"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.msksp.2017.03.003_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "935",
+          "DOI": "10.1016/j.jpain.2015.05.006",
+          "article-title": "A systematic review of prospective studies reporting adverse events of commonly used opioids for cancer-related pain: a call for the use of standardized outcome measures",
+          "volume": "16",
+          "author": "Oosten",
+          "year": "2015",
+          "journal-title": "J. Pain Off. J. Am. Pain Soc."
+        },
+        {
+          "key": "10.1016/j.msksp.2017.03.003_bib30",
+          "first-page": "1",
+          "article-title": "Spinal Adverse Events Severity System, version 2 (SAVES-V2): inter- and intraobserver reliability assessment",
+          "author": "Rampersaud",
+          "year": "2016",
+          "journal-title": "J. Neurosurg. Spine"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2017.03.003_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "408",
+          "DOI": "10.1016/j.jmpt.2007.04.013",
+          "article-title": "The benefits outweigh the risks for patients undergoing chiropractic care for neck pain: a prospective, multicenter, cohort study",
+          "volume": "30",
+          "author": "Rubinstein",
+          "year": "2007",
+          "journal-title": "J. Manip. Physiol. Ther."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2017.03.003_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "6",
+          "DOI": "10.1016/S1474-4422(14)70295-9",
+          "article-title": "Headache research in 2014: advancing migraine therapy",
+          "volume": "14",
+          "author": "Schulte",
+          "year": "2015",
+          "journal-title": "Lancet Neurol."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2017.03.003_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "484",
+          "DOI": "10.1111/j.1468-2982.2008.01555.x",
+          "article-title": "Task Force of the international headache society clinical trial subcommittee. Guidelines for controlled trials of prophylactic treatment of chronic migraine in adults",
+          "volume": "28",
+          "author": "Silberstein",
+          "year": "2008",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.msksp.2017.03.003_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "765",
+          "DOI": "10.1046/j.1468-2982.2000.00117.x",
+          "article-title": "International Headache Society Clinical Trial Subcommittee. Guidelines for controlled trials of drugs in migraine: second edition",
+          "volume": "20",
+          "author": "Tfelt-Hansen",
+          "year": "2000",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.msksp.2017.03.003_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "683",
+          "DOI": "10.1111/j.1468-2982.2008.01600.x",
+          "article-title": "Evaluation and registration of adverse events in clinical drug trials in migraine",
+          "volume": "28",
+          "author": "Tfelt-Hansen",
+          "year": "2008",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "issue": "21",
+          "key": "10.1016/j.msksp.2017.03.003_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "2375",
+          "DOI": "10.1097/BRS.0b013e3181557bb1",
+          "article-title": "Safety of chiropractic manipulation of the cervical spine: a prospective national survey",
+          "volume": "32",
+          "author": "Thiel",
+          "year": "2007",
+          "journal-title": "Spine Phila Pa 1976"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2017.03.003_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "30",
+          "DOI": "10.1186/2045-709X-20-30",
+          "article-title": "A replication of the study 'Adverse effects of spinal manipulation: a systematic review'",
+          "volume": "20",
+          "author": "Tuchin",
+          "year": "2012",
+          "journal-title": "Chiropr. Man. Ther."
+        },
+        {
+          "issue": "20",
+          "key": "10.1016/j.msksp.2017.03.003_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "1609",
+          "DOI": "10.1001/jama.1994.03510440069036",
+          "article-title": "The importance of placebo effects in pain treatment and research",
+          "volume": "271",
+          "author": "Turner",
+          "year": "1994",
+          "journal-title": "JAMA"
+        },
+        {
+          "issue": "9859",
+          "key": "10.1016/j.msksp.2017.03.003_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "2163",
+          "DOI": "10.1016/S0140-6736(12)61729-2",
+          "article-title": "Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010",
+          "volume": "380",
+          "author": "Vos",
+          "year": "2012",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "20",
+          "key": "10.1016/j.msksp.2017.03.003_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "1723",
+          "DOI": "10.1097/BRS.0b013e31829fefe4",
+          "article-title": "Outcomes of usual chiropractic. The OUCH randomized controlled trial of adverse events",
+          "volume": "38",
+          "author": "Walker",
+          "year": "2013",
+          "journal-title": "Spine"
+        },
+        {
+          "year": "2005",
+          "series-title": "Guidelines on Basic Training and Safety in Chiropractic",
+          "author": "WHO",
+          "key": "10.1016/j.msksp.2017.03.003_bib41"
+        },
+        {
+          "issue": "20",
+          "key": "10.1016/j.msksp.2017.03.003_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "2191",
+          "DOI": "10.1001/jama.2013.281053",
+          "article-title": "World Medical Association Declaration of Helsinki: ethical principles for medical research involving human subjects",
+          "volume": "310",
+          "author": "WMA",
+          "year": "2013",
+          "journal-title": "Jama"
+        }
+      ],
+      "updated-by": [
+        {
+          "updated": {
+            "date-parts": [
+              [
+                2017,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2017-10-01T00:00:00Z",
+            "timestamp": 1506816000000
+          },
+          "DOI": "10.1016/j.msksp.2017.06.001",
+          "type": "erratum",
+          "source": "publisher",
+          "label": "Erratum"
+        }
+      ],
+      "container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781217300541?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781217300541?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            5,
+            17
+          ]
+        ],
+        "date-time": "2020-05-17T17:57:22Z",
+        "timestamp": 1589738242000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2468781217300541"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            6
+          ]
+        ]
+      },
+      "references-count": 42,
+      "alternative-id": [
+        "S2468781217300541"
+      ],
+      "URL": "https://doi.org/10.1016/j.msksp.2017.03.003",
+      "relation": {},
+      "ISSN": [
+        "2468-7812"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2468-7812"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            6
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Adverse events in a chiropractic spinal manipulative therapy single-blinded, placebo, randomized controlled trial for migraineurs",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Musculoskeletal Science and Practice",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.msksp.2017.03.003",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2017 The Authors. Published by Elsevier Ltd.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

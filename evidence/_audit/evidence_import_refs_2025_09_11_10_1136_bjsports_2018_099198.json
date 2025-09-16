@@ -1,0 +1,298 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1136_bjsports_2018_099198.md",
+  "id": "evidence_import_refs_2025_09_11_10_1136_bjsports_2018_099198",
+  "doi": "10.1136/bjsports-2018-099198",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:52.702046Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            31
+          ]
+        ],
+        "date-time": "2025-08-31T23:23:56Z",
+        "timestamp": 1756682636537
+      },
+      "reference-count": 16,
+      "publisher": "BMJ",
+      "issue": "24",
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Br J Sports Med"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            23
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1136/bjsports-2018-099198",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            25
+          ]
+        ],
+        "date-time": "2018-06-25T22:55:12Z",
+        "timestamp": 1529967312000
+      },
+      "page": "1543-1544",
+      "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 126,
+      "title": [
+        "Is it time to reframe how we care for people with non-traumatic musculoskeletal pain?"
+      ],
+      "prefix": "10.1136",
+      "volume": "52",
+      "author": [
+        {
+          "given": "Jeremy",
+          "family": "Lewis",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Peter",
+          "family": "O’Sullivan",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            25
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2024051413340894000_52.24.1543.1",
+          "doi-asserted-by": "crossref",
+          "first-page": "628",
+          "DOI": "10.2519/jospt.2017.7434",
+          "article-title": "Making sense of low back pain and pain-related fear",
+          "volume": "47",
+          "author": "Bunzli",
+          "year": "2017",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(17)32457-1"
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa013259"
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2016-097098"
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa1305189"
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.6",
+          "doi-asserted-by": "crossref",
+          "first-page": "370",
+          "DOI": "10.2519/jospt.2017.0605",
+          "article-title": "Osteoarthritis management: time to change the deck",
+          "volume": "47",
+          "author": "Hunter",
+          "year": "2017",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.7",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2015-009655",
+          "article-title": "To what extent are surgery and invasive procedures effective beyond a placebo response? A systematic review with meta-analysis of randomised, sham controlled trials",
+          "volume": "5",
+          "author": "Jonas",
+          "year": "2015",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.8",
+          "unstructured": "Harris I . Surgery, the ultimate placebo. Sydney: NewSouth Publishing, 2016."
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.9",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.2519/jospt.2018.0102",
+          "article-title": "The end of an era?",
+          "volume": "48",
+          "author": "Lewis",
+          "year": "2018",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e3182741b21"
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/AJP.0b013e31817e13b6"
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.12",
+          "first-page": "36",
+          "article-title": "The reliability of palpating the posterior superior iliac spine: a systematic review",
+          "volume": "60",
+          "author": "Cooperstein",
+          "year": "2016",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jse.2004.08.007"
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2013-092389"
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.15",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hartvigsen J , Hancock MJ , Kongsted A , et al . What low back pain is and why we need to pay attention. Lancet 2018.doi:10.1016/S0140-6736(18)30480-X",
+          "DOI": "10.1016/S0140-6736(18)30480-X"
+        },
+        {
+          "key": "2024051413340894000_52.24.1543.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12891-015-0545-y"
+        }
+      ],
+      "container-title": [
+        "British Journal of Sports Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bjsports-2018-099198",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            14
+          ]
+        ],
+        "date-time": "2024-05-14T20:50:25Z",
+        "timestamp": 1715719825000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bjsm.bmj.com/lookup/doi/10.1136/bjsports-2018-099198"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            25
+          ]
+        ]
+      },
+      "references-count": 16,
+      "journal-issue": {
+        "issue": "24",
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              29
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bjsports-2018-099198"
+      ],
+      "URL": "https://doi.org/10.1136/bjsports-2018-099198",
+      "relation": {},
+      "ISSN": [
+        "0306-3674",
+        "1473-0480"
+      ],
+      "issn-type": [
+        {
+          "value": "0306-3674",
+          "type": "print"
+        },
+        {
+          "value": "1473-0480",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            25
+          ]
+        ]
+      }
+    }
+  }
+}

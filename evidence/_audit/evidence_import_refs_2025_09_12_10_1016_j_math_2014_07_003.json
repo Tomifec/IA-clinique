@@ -1,0 +1,682 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_math_2014_07_003.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_math_2014_07_003",
+  "doi": "10.1016/j.math.2014.07.003",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:50.635882Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            13
+          ]
+        ],
+        "date-time": "2025-05-13T20:13:40Z",
+        "timestamp": 1747167220717,
+        "version": "3.40.5"
+      },
+      "reference-count": 41,
+      "publisher": "Elsevier BV",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2015-02-01T00:00:00Z",
+            "timestamp": 1422748800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Rotterdam University of Applied Sciences"
+        },
+        {
+          "name": "Department of General Practice"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "manualtherapyjournal.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Manual Therapy"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            2
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.math.2014.07.003",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2014,
+            7,
+            25
+          ]
+        ],
+        "date-time": "2014-07-25T00:30:30Z",
+        "timestamp": 1406248230000
+      },
+      "page": "96-102",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 11,
+      "title": [
+        "Prognostic factors and course for successful clinical outcome quality of life and patients' perceived effect after a cognitive behavior therapy for chronic non-specific low back pain: A 12-months prospective study"
+      ],
+      "prefix": "10.1016",
+      "volume": "20",
+      "author": [
+        {
+          "given": "Karin",
+          "family": "Verkerk",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Pim A.J.",
+          "family": "Luijsterburg",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3889-0921",
+          "authenticated-orcid": false,
+          "given": "Martijn W.",
+          "family": "Heymans",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Inge",
+          "family": "Ronchetti",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Harald S.",
+          "family": "Miedema",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bart W.",
+          "family": "Koes",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Annelies",
+          "family": "Pool-Goudzwaard",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.math.2014.07.003_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "63",
+          "DOI": "10.1007/s00296-009-0912-9",
+          "article-title": "A comparison of four different HRQoL generic questionnaire in five different patient groups",
+          "volume": "30",
+          "author": "Aktekin",
+          "year": "2009",
+          "journal-title": "Rheumatol Int"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "1080",
+          "DOI": "10.1136/bmj.332.7549.1080",
+          "article-title": "The cost of dichotomising continuous variables",
+          "volume": "332",
+          "author": "Altman",
+          "year": "2006",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "b605",
+          "key": "10.1016/j.math.2014.07.003_bib3",
+          "first-page": "1432",
+          "article-title": "Prognosis and prognostic research: validating a prognostic model",
+          "volume": "338",
+          "author": "Altman",
+          "year": "2009",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "601",
+          "DOI": "10.1016/j.berh.2013.10.004",
+          "article-title": "Trajectories of low back pain",
+          "volume": "27",
+          "author": "Axen",
+          "year": "2013",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "3100",
+          "DOI": "10.1097/00007632-200012150-00003",
+          "article-title": "Outcome assessments in the evaluation of treatment of spinal disorders: summary and general recommendations",
+          "volume": "25",
+          "author": "Bombardier",
+          "year": "2000",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "b3829",
+          "key": "10.1016/j.math.2014.07.003_bib6",
+          "article-title": "Prognosis for patients with chronic low back pain: inception cohort study",
+          "volume": "339",
+          "author": "Costa Lda",
+          "year": "2009",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "586",
+          "DOI": "10.1097/01.BRS.0000103346.38557.73",
+          "article-title": "A low back-specific version of the SF-36 Physical Functioning scale",
+          "volume": "29",
+          "author": "Davidson",
+          "year": "2004",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "e003838",
+          "DOI": "10.1136/bmjopen-2013-003838",
+          "article-title": "Long-term trajectories of back pain: cohort study with 7-year follow-up",
+          "volume": "3",
+          "author": "Dunn",
+          "year": "2013",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "591",
+          "DOI": "10.1016/j.berh.2013.09.007",
+          "article-title": "Low back pain across life course",
+          "volume": "27",
+          "author": "Dunn",
+          "year": "2013",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib10",
+          "first-page": "5",
+          "article-title": "Psychometric evaluation of the SF-36 health survey in Medicare managed care",
+          "volume": "25",
+          "author": "Gandek",
+          "year": "2004",
+          "journal-title": "Health Care Financ Rev"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "1149",
+          "DOI": "10.1016/S0895-4356(98)00106-1",
+          "article-title": "Tests of data quality, scaling assumptions, and reliability of the SF-36 in eleven countries: results from the IQOLA Project. International Quality of Life Assessment",
+          "volume": "51",
+          "author": "Gandek",
+          "year": "1998",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.math.2014.07.003_bib12",
+          "first-page": "CD000963",
+          "article-title": "Multidisciplinary bio-psycho-social rehabilitation for chronic low back pain",
+          "author": "Guzmán",
+          "year": "2002",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "22",
+          "DOI": "10.1007/s00586-002-0465-z",
+          "article-title": "Predictors of outcome in fusion surgery for chronic low back pain. A report from the Swedish Lumbar Spine Study",
+          "volume": "12",
+          "author": "Hagg",
+          "year": "2003",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "12",
+          "DOI": "10.1007/s00586-002-0464-0",
+          "article-title": "The clinical importance of changes in outcome scores after treatment for chronic low back pain",
+          "volume": "12",
+          "author": "Hagg",
+          "year": "2003",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "year": "2001",
+          "series-title": "Regression modelling strategies",
+          "author": "Harrell",
+          "key": "10.1016/j.math.2014.07.003_bib15"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "361",
+          "DOI": "10.1002/(SICI)1097-0258(19960229)15:4<361::AID-SIM168>3.0.CO;2-4",
+          "article-title": "Multivariable prognostic models: issues in developing models, evaluating assumptions and adequacy, and measuring and reducing errors",
+          "volume": "15",
+          "author": "Harrell",
+          "year": "1996",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "586",
+          "DOI": "10.1097/01.brs.0000256447.72623.56",
+          "article-title": "Psychosocial variables in patients with (sub)acute low back pain: an inception cohort in primary care physical therapy in The Netherlands",
+          "volume": "32",
+          "author": "Heneweer",
+          "year": "2007",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib18",
+          "first-page": "CD002014",
+          "article-title": "Behavioural treatment for chronic low-back pain",
+          "volume": "7",
+          "author": "Henschke",
+          "year": "2010",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "33",
+          "DOI": "10.1186/1471-2288-7-33",
+          "article-title": "Variable selection under multiple imputation using the bootstrap in a prognostic study",
+          "volume": "7",
+          "author": "Heymans",
+          "year": "2007",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib20",
+          "first-page": "1",
+          "article-title": "Should treatment of (sub)acute low back pain be aimed at psychosocial prognostic factors? Cluster randomised clinical trial in general practice",
+          "author": "Jellema",
+          "year": "2005",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "760",
+          "DOI": "10.1016/j.jclinepi.2009.09.009",
+          "article-title": "Global Perceived Effect scales provided reliable assessments of health transition in people with musculoskeletal disorders, but ratings are strongly influenced by current status",
+          "volume": "63",
+          "author": "Kamper",
+          "year": "2010",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "142",
+          "DOI": "10.1016/j.pain.2007.05.015",
+          "article-title": "Psychosocial predictors of health-related quality of life and health service utilisation in people with chronic low back pain",
+          "volume": "135",
+          "author": "Keeley",
+          "year": "2008",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "12",
+          "DOI": "10.1016/j.math.2007.05.009",
+          "article-title": "Can we predict poor recovery from recent-onset nonspecific low back pain? A systematic review",
+          "volume": "13",
+          "author": "Kent",
+          "year": "2008",
+          "journal-title": "Man Ther"
+        },
+        {
+          "issue": "b606",
+          "key": "10.1016/j.math.2014.07.003_bib24",
+          "first-page": "1487",
+          "article-title": "Prognosis and prognostic research: application and impact of prognostic models in clinical practice",
+          "volume": "338",
+          "author": "Moons",
+          "year": "2009",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "b375",
+          "key": "10.1016/j.math.2014.07.003_bib25",
+          "first-page": "1317",
+          "article-title": "Prognosis and prognostic research: what, why, and how?",
+          "volume": "338",
+          "author": "Moons",
+          "year": "2009",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "90",
+          "DOI": "10.1097/BRS.0b013e31815e3a10",
+          "article-title": "Interpreting change scores for pain and functional status in low back pain: towards international consensus regarding minimal important change",
+          "volume": "33",
+          "author": "Ostelo",
+          "year": "2008",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "593",
+          "DOI": "10.1016/j.berh.2005.03.003",
+          "article-title": "Clinically important outcomes in low back pain",
+          "volume": "19",
+          "author": "Ostelo",
+          "year": "2005",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "1373",
+          "DOI": "10.1016/S0895-4356(96)00236-3",
+          "article-title": "A simulation study of the number of events per variable in logistic regression analysis",
+          "volume": "49",
+          "author": "Peduzzi",
+          "year": "1996",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.1002/art.23251",
+          "article-title": "A review and proposal for a core set of factors for prospective cohorts in low back pain: a consensus statement",
+          "volume": "59",
+          "author": "Pincus",
+          "year": "2008",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "issue": "b604",
+          "key": "10.1016/j.math.2014.07.003_bib29",
+          "first-page": "1373",
+          "article-title": "Prognosis and prognostic research: developing a prognostic model",
+          "volume": "338",
+          "author": "Royston",
+          "year": "2009",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "179",
+          "DOI": "10.1016/S1386-5056(01)00179-4",
+          "article-title": "Indicators of organizational readiness for clinical information technology/systems innovation: a Delphi study",
+          "volume": "63",
+          "author": "Snyder-Halpern",
+          "year": "2001",
+          "journal-title": "Int J Med Inform"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "2567",
+          "DOI": "10.1002/sim.1844",
+          "article-title": "Validation and updating of predictive logistic regression models: a study on sample size and shrinkage",
+          "volume": "23",
+          "author": "Steyerberg",
+          "year": "2004",
+          "journal-title": "Stat Med"
+        },
+        {
+          "year": "2012",
+          "series-title": "Flexible imputation of missing data",
+          "author": "van Buuren",
+          "key": "10.1016/j.math.2014.07.003_bib32"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "421",
+          "DOI": "10.1097/AJP.0b013e31816719f5",
+          "article-title": "Multidisciplinary rehabilitation treatment of patients with chronic low back pain: a prognostic model for its outcome",
+          "volume": "24",
+          "author": "van der Hulst",
+          "year": "2008",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "1257",
+          "DOI": "10.1016/j.jclinepi.2012.05.007",
+          "article-title": "Preliminary state of development of prediction models for primary care physical therapy: a systematic review",
+          "volume": "65",
+          "author": "van Oort",
+          "year": "2012",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "96",
+          "DOI": "10.1053/suro.2002.32521",
+          "article-title": "Validity of prognostic models: when is a model clinically useful?",
+          "volume": "20",
+          "author": "Vergouwe",
+          "year": "2002",
+          "journal-title": "Semin Urol Oncol"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "1235",
+          "DOI": "10.1016/S0895-4356(98)00131-0",
+          "article-title": "The Delphi list: a criteria list for quality assessment of randomized clinical trials for conducting systematic reviews developed by Delphi consensus",
+          "volume": "51",
+          "author": "Verhagen",
+          "year": "1998",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "252",
+          "DOI": "10.1186/1471-2474-12-252",
+          "article-title": "Course and prognosis of recovery for chronic non-specific low back pain: design, therapy program and baseline data of a prospective cohort study",
+          "volume": "12",
+          "author": "Verkerk",
+          "year": "2011",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "1093",
+          "DOI": "10.2522/ptj.20110388",
+          "article-title": "Prognostic factors for recovery in chronic nonspecific low back pain: a systematic review",
+          "volume": "92",
+          "author": "Verkerk",
+          "year": "2012",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "607",
+          "DOI": "10.1097/01.BRS.0000050654.97387.DF",
+          "article-title": "Is a condition-specific instrument for patients with low back pain/leg symptoms really necessary? The responsiveness of the Oswestry Disability Index, MODEMS, and the SF-36",
+          "volume": "28",
+          "author": "Walsh",
+          "year": "2003",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "10.1016/j.math.2014.07.003_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "3227",
+          "DOI": "10.1002/sim.3177",
+          "article-title": "How should variable selection be performed with multiply imputed data?",
+          "volume": "27",
+          "author": "Wood",
+          "year": "2008",
+          "journal-title": "Stat Med"
+        }
+      ],
+      "container-title": [
+        "Manual Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1356689X14001295?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1356689X14001295?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            8,
+            22
+          ]
+        ],
+        "date-time": "2020-08-22T15:43:41Z",
+        "timestamp": 1598111021000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1356689X14001295"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2015,
+            2
+          ]
+        ]
+      },
+      "references-count": 41,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              2
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1356689X14001295"
+      ],
+      "URL": "https://doi.org/10.1016/j.math.2014.07.003",
+      "relation": {},
+      "ISSN": [
+        "1356-689X"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1356-689X"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            2
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Prognostic factors and course for successful clinical outcome quality of life and patients' perceived effect after a cognitive behavior therapy for chronic non-specific low back pain: A 12-months prospective study",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Manual Therapy",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.math.2014.07.003",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "Copyright © 2014 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

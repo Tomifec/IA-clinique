@@ -1,0 +1,90 @@
+{
+  "date": "2025-09-13",
+  "topic": "import_refs_2025_09_13",
+  "total": 19,
+  "created_count": 3,
+  "failed_count": 16,
+  "created": [
+    {
+      "doi": "10.1016/j.math.2015.07.008",
+      "evidence_id": "evidence_import_refs_2025_09_13_10_1016_j_math_2015_07_008",
+      "path": "evidence\\evidence_import_refs_2025_09_13_10_1016_j_math_2015_07_008.md"
+    },
+    {
+      "doi": "10.1177/21925682231209869",
+      "evidence_id": "evidence_import_refs_2025_09_13_10_1177_21925682231209869",
+      "path": "evidence\\evidence_import_refs_2025_09_13_10_1177_21925682231209869.md"
+    },
+    {
+      "doi": "10.1186/s12998-021-00377-2",
+      "evidence_id": "evidence_import_refs_2025_09_13_10_1186_s12998_021_00377_2",
+      "path": "evidence\\evidence_import_refs_2025_09_13_10_1186_s12998_021_00377_2.md"
+    }
+  ],
+  "failed": [
+    {
+      "doi": "10.1007/s00586-004-",
+      "expected_id": "evidence_import_refs_2025_09_13_10_1007_s00586_004"
+    },
+    {
+      "doi": "10.1007/s00586-006-0225-",
+      "expected_id": "evidence_import_refs_2025_09_13_10_1007_s00586_006_0225"
+    },
+    {
+      "doi": "10.1007/s00586-016-",
+      "expected_id": "evidence_import_refs_2025_09_13_10_1007_s00586_016"
+    },
+    {
+      "doi": "10.1007/s00784-019-02891-31",
+      "expected_id": "evidence_import_refs_2025_09_13_10_1007_s00784_019_02891_31"
+    },
+    {
+      "doi": "10.1016/j",
+      "expected_id": "evidence_import_refs_2025_09_13_10_1016_j"
+    },
+    {
+      "doi": "10.1016/j.berh.2011.01.019Eur",
+      "expected_id": "evidence_import_refs_2025_09_13_10_1016_j_berh_2011_01_019eur"
+    },
+    {
+      "doi": "10.1016/j.mayocp.2014",
+      "expected_id": "evidence_import_refs_2025_09_13_10_1016_j_mayocp_2014"
+    },
+    {
+      "doi": "10.1097/AJP",
+      "expected_id": "evidence_import_refs_2025_09_13_10_1097_ajp"
+    },
+    {
+      "doi": "10.1097/BRS",
+      "expected_id": "evidence_import_refs_2025_09_13_10_1097_brs"
+    },
+    {
+      "doi": "10.1097/BRS.0000000",
+      "expected_id": "evidence_import_refs_2025_09_13_10_1097_brs_0000000"
+    },
+    {
+      "doi": "10.1136/bmj.b3883Eur",
+      "expected_id": "evidence_import_refs_2025_09_13_10_1136_bmj_b3883eur"
+    },
+    {
+      "doi": "10.1148/radiology.164",
+      "expected_id": "evidence_import_refs_2025_09_13_10_1148_radiology_164"
+    },
+    {
+      "doi": "10.2519/jospt",
+      "expected_id": "evidence_import_refs_2025_09_13_10_2519_jospt"
+    },
+    {
+      "doi": "10.2519/jospt.2017.030276",
+      "expected_id": "evidence_import_refs_2025_09_13_10_2519_jospt_2017_030276"
+    },
+    {
+      "doi": "10.2522/ptj.20080283Eur",
+      "expected_id": "evidence_import_refs_2025_09_13_10_2522_ptj_20080283eur"
+    },
+    {
+      "doi": "10.7326/0003-",
+      "expected_id": "evidence_import_refs_2025_09_13_10_7326_0003"
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1093_milmed_usae080.md",
+  "id": "evidence_import_refs_2025_09_11_10_1093_milmed_usae080",
+  "doi": "10.1093/milmed/usae080",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:47.557021Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            19
+          ]
+        ],
+        "date-time": "2024-08-19T16:40:25Z",
+        "timestamp": 1724085625935
+      },
+      "reference-count": 30,
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "Supplement_3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                8,
+                19
+              ]
+            ],
+            "date-time": "2024-08-19T00:00:00Z",
+            "timestamp": 1724025600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            19
+          ]
+        ]
+      },
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n               <jats:sec>\n                  <jats:title>Introduction</jats:title>\n                  <jats:p>Standard medical intervention for chronic pain may be less effective in the presence of co-occurring PTSD. Functional restoration programs (FRPs), which combine psychological interventions and progressive exercise rehabilitation, represent an alternative to standard medical intervention for chronic pain. The objective of the current study is to evaluate a FRP serving Active Duty Service Members with chronic pain and to examine whether co-occurring PTSD symptoms are associated with differential treatment response.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>This is a retrospective observational study of data previously collected at Naval Medical Center San Diego approved by the Naval Medical Center San Diego Institutional Review Board. The study included 81 Active Duty Service Members, primarily Sailors and Marines, who completed a FRP, and examined pre- to post-treatment changes in Pain Impact Score—a composite measure of pain intensity, pain interference, and physical functioning—as well as measures of mental health and pain cognitions. Co-occurring PTSD symptoms were examined as a potential moderator of treatment response.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Twenty-three patients (28.4%) screened positive for PTSD during baseline assessments. Repeated measures analysis of variance showed statistically significant improvement in Pain Impact Score for the full sample (P &amp;lt;.001). Although no significant interactions with probable PTSD were demonstrated for measures of pain intensity and physical functioning (both Ps &amp;gt;.05), patients screening positive for PTSD demonstrated a lesser decrease in pain interference compared to patients screening negative for PTSD (P &amp;lt;.01). Improvements in measures of mental health and pain cognitions were also statistically significant for the full sample (all P values &amp;lt;.05) and did not differ as a function of PTSD symptoms (all P values &amp;gt;.05).</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>This FRP primarily serving Sailors and Marines contributed to broad overall improvements in the domains of pain and functioning as well as mental health and pain cognitions. Co-occurring PTSD symptoms were not associated with poorer treatment response on most measured outcomes.</jats:p>\n               </jats:sec>",
+      "DOI": "10.1093/milmed/usae080",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            26
+          ]
+        ],
+        "date-time": "2024-02-26T21:39:45Z",
+        "timestamp": 1708983585000
+      },
+      "page": "239-246",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "A Functional Restoration Program for Active Duty Service Members With Chronic Pain: Examining the Impact of Co-occurring PTSD on Treatment Response"
+      ],
+      "prefix": "10.1093",
+      "volume": "189",
+      "author": [
+        {
+          "given": "Emmanuel P",
+          "family": "Espejo",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Pain Medicine Center, Department of Anesthesiology, Naval Medical Center San Diego , San Diego, CA 92134, USA"
+            }
+          ]
+        },
+        {
+          "given": "Tara M",
+          "family": "Sheridan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Pain Medicine Center, Department of Anesthesiology, Naval Medical Center San Diego , San Diego, CA 92134, USA"
+            }
+          ]
+        },
+        {
+          "given": "Carlos A",
+          "family": "Pino",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Pain Medicine Center, Department of Anesthesiology, Naval Medical Center San Diego , San Diego, CA 92134, USA"
+            }
+          ]
+        },
+        {
+          "given": "Christopher R",
+          "family": "Phillips",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Pain Medicine Center, Department of Anesthesiology, Naval Medical Center San Diego , San Diego, CA 92134, USA"
+            }
+          ]
+        },
+        {
+          "given": "Steven",
+          "family": "Hanling",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Piedmont Augusta , Augusta, GA 30908, USA"
+            }
+          ]
+        }
+      ],
+      "member": "286",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            19
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "volume-title": "Chronic Pain among Service Members: Using Administrative Data to Strengthen Research and Quality Improvement",
+          "year": "2021",
+          "author": "Sherry",
+          "key": "2024081915001480500_R1"
+        },
+        {
+          "issue": "5",
+          "key": "2024081915001480500_R2",
+          "doi-asserted-by": "crossref",
+          "first-page": "E429",
+          "DOI": "10.36076/ppj.2020/23/E429",
+          "article-title": "A burden and prevalence analysis of chronic pain by distinct case definitions among active duty U.S. military service members, 2018",
+          "volume": "23",
+          "author": "Smith",
+          "year": "2020",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "issue": "21",
+          "key": "2024081915001480500_R3",
+          "doi-asserted-by": "publisher",
+          "first-page": "1481",
+          "DOI": "10.1097/BRS.0000000000003114",
+          "article-title": "Does disordered sleep moderate the relationship between pain, disability and downstream health care utilization in patients with low back pain?: A longitudinal cohort from the US military health system",
+          "volume": "44",
+          "author": "Rhon",
+          "year": "2019",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "Supplement_6",
+          "key": "2024081915001480500_R4",
+          "doi-asserted-by": "publisher",
+          "first-page": "149",
+          "DOI": "10.1093/milmed/usad060",
+          "article-title": "Mental health predictors of response to standard medical intervention at a military pain specialty clinic",
+          "volume": "188",
+          "author": "Espejo",
+          "year": "2023",
+          "journal-title": "Mil Med"
+        },
+        {
+          "author": "Veterans Benefits Administration",
+          "key": "2024081915001480500_R5",
+          "article-title": "Annual Benefits Report Fiscal Year 2022"
+        },
+        {
+          "issue": "12",
+          "key": "2024081915001480500_R6",
+          "doi-asserted-by": "publisher",
+          "first-page": "2876",
+          "DOI": "10.1093/pm/pnab087",
+          "article-title": "Relationship between post-traumatic stress disorder symptoms and chronic pain-related symptom domains among military active duty service members",
+          "volume": "22",
+          "author": "Li",
+          "year": "2021",
+          "journal-title": "Pain Med"
+        },
+        {
+          "issue": "9-10",
+          "key": "2024081915001480500_R7",
+          "doi-asserted-by": "publisher",
+          "first-page": "431",
+          "DOI": "10.1093/milmed/usz020",
+          "article-title": "Effect of chronic low back pain and post-traumatic stress disorder on the risk for separation from the US Army",
+          "volume": "184",
+          "author": "Benedict",
+          "year": "2019",
+          "journal-title": "Mil Med"
+        },
+        {
+          "issue": "9-10",
+          "key": "2024081915001480500_R8",
+          "doi-asserted-by": "publisher",
+          "first-page": "e1481",
+          "DOI": "10.1093/milmed/usaa052",
+          "article-title": "Post-traumatic stress disorder symptoms contribute to worse pain and health outcomes in veterans with PTSD compared to those without: a systematic review with meta-analysis",
+          "volume": "185",
+          "author": "Benedict",
+          "year": "2020",
+          "journal-title": "Mil Med"
+        },
+        {
+          "issue": "11",
+          "key": "2024081915001480500_R9",
+          "doi-asserted-by": "publisher",
+          "first-page": "779",
+          "DOI": "10.1016/j.jpain.2006.08.005",
+          "article-title": "Evidence-based scientific data documenting the treatment and cost-effectiveness of comprehensive pain programs for chronic nonmalignant pain",
+          "volume": "7",
+          "author": "Gatchel",
+          "year": "2006",
+          "journal-title": "J Pain"
+        },
+        {
+          "issue": "3",
+          "key": "2024081915001480500_R10",
+          "doi-asserted-by": "publisher",
+          "first-page": "270",
+          "DOI": "10.7205/milmed-d-03-1607",
+          "article-title": "Preliminary findings of a randomized controlled trial of an interdisciplinary military pain program",
+          "volume": "174",
+          "author": "Gatchel",
+          "year": "2009",
+          "journal-title": "Mil Med"
+        },
+        {
+          "key": "2024081915001480500_R11",
+          "first-page": "1",
+          "article-title": "Functional restoration for chronic pain patients in the military: early results of the San Antonio Military Medical Center functional restoration program",
+          "author": "Pujol",
+          "year": "2015",
+          "journal-title": "US Army Med Dep J"
+        },
+        {
+          "issue": "5",
+          "key": "2024081915001480500_R12",
+          "doi-asserted-by": "publisher",
+          "first-page": "307",
+          "DOI": "10.2217/pmt-2019-0058",
+          "article-title": "An interdisciplinary intensive outpatient pain program is associated with improved patient activation and key outcomes",
+          "volume": "10",
+          "author": "Bujak",
+          "year": "2020",
+          "journal-title": "Pain Manag"
+        },
+        {
+          "issue": "11-12",
+          "key": "2024081915001480500_R13",
+          "doi-asserted-by": "publisher",
+          "first-page": "e2097",
+          "DOI": "10.1093/milmed/usaa200",
+          "article-title": "Evaluation of a functional restoration program at fort bliss interdisciplinary pain management clinic",
+          "volume": "185",
+          "author": "Nguyen",
+          "year": "2020",
+          "journal-title": "Mil Med"
+        },
+        {
+          "issue": "4",
+          "key": "2024081915001480500_R14",
+          "doi-asserted-by": "publisher",
+          "first-page": "844",
+          "DOI": "10.1093/pm/pnab326",
+          "article-title": "Use of complementary and integrative health therapies before intensive functional restoration in active duty service members with chronic pain",
+          "volume": "23",
+          "author": "Flynn",
+          "year": "2022",
+          "journal-title": "Pain Med"
+        },
+        {
+          "volume-title": "The EpiData Center, Navy and Marine Corps Public Health Center",
+          "key": "2024081915001480500_R15",
+          "article-title": "Frequency of pain-related responses to the PHA among sailors and marines, 2018-2020"
+        },
+        {
+          "issue": "4",
+          "key": "2024081915001480500_R16",
+          "doi-asserted-by": "publisher",
+          "first-page": "277",
+          "DOI": "10.2217/pmt.14.25",
+          "article-title": "PASTOR/PROMIS (R) pain outcomes system: what does it mean to pain specialists?",
+          "volume": "4",
+          "author": "Cook",
+          "year": "2014",
+          "journal-title": "Pain Manag"
+        },
+        {
+          "issue": "1",
+          "key": "2024081915001480500_R17",
+          "doi-asserted-by": "publisher",
+          "first-page": "9",
+          "DOI": "10.1185/135525703125002360",
+          "article-title": "The primary care PTSD screen (PC-PTSD): development and operating characteristics",
+          "volume": "9",
+          "author": "Prins",
+          "year": "2003",
+          "journal-title": "Prim Care Psychiatry"
+        },
+        {
+          "issue": "8",
+          "key": "2024081915001480500_R18",
+          "doi-asserted-by": "publisher",
+          "first-page": "1505",
+          "DOI": "10.1093/pm/pnw105",
+          "article-title": "Psychometric testing of the Defense and Veterans Pain Rating Scale (DVPRS): a new pain scale for military population",
+          "volume": "17",
+          "author": "Polomano",
+          "year": "2016",
+          "journal-title": "Pain Med"
+        },
+        {
+          "issue": "11",
+          "key": "2024081915001480500_R19",
+          "doi-asserted-by": "publisher",
+          "first-page": "1179",
+          "DOI": "10.1016/j.jclinepi.2010.04.011",
+          "article-title": "The Patient-Reported Outcomes Measurement Information System (PROMIS) developed and tested its first wave of adult self-reported health outcome item banks: 2005-2008",
+          "volume": "63",
+          "author": "Cella",
+          "year": "2010",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "5 Suppl 1",
+          "key": "2024081915001480500_R20",
+          "doi-asserted-by": "publisher",
+          "first-page": "S22",
+          "DOI": "10.1097/01.mlr.0000250483.85507.04",
+          "article-title": "Psychometric evaluation and calibration of health-related quality of life item banks: plans for the Patient-Reported Outcomes Measurement Information System (PROMIS)",
+          "volume": "45",
+          "author": "Reeve",
+          "year": "2007",
+          "journal-title": "Med Care"
+        },
+        {
+          "article-title": "Self-efficacy and chronic pain",
+          "year": "1989",
+          "author": "Nicholas",
+          "key": "2024081915001480500_R21"
+        },
+        {
+          "issue": "1-2",
+          "key": "2024081915001480500_R22",
+          "doi-asserted-by": "publisher",
+          "first-page": "137",
+          "DOI": "10.1016/j.pain.2005.05.029",
+          "article-title": "Psychometric properties of the TSK-11: a shortened version of the Tampa Scale for Kinesiophobia",
+          "volume": "117",
+          "author": "Woby",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "4",
+          "key": "2024081915001480500_R23",
+          "doi-asserted-by": "publisher",
+          "first-page": "524",
+          "DOI": "10.1037/1040-3590.7.4.524",
+          "article-title": "The pain catastrophizing scale: development and validation",
+          "volume": "7",
+          "author": "Sullivan",
+          "year": "1995",
+          "journal-title": "Psychol Assess"
+        },
+        {
+          "issue": "1-2",
+          "key": "2024081915001480500_R24",
+          "doi-asserted-by": "publisher",
+          "first-page": "159",
+          "DOI": "10.1016/j.pain.2003.10.012",
+          "article-title": "Acceptance of chronic pain: component analysis and a revised assessment method",
+          "volume": "107",
+          "author": "McCracken",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "8",
+          "key": "2024081915001480500_R25",
+          "doi-asserted-by": "crossref",
+          "first-page": "1249",
+          "DOI": "10.1111/pme.12538",
+          "article-title": "Report of the NIH Task Force on research standards for chronic low back pain",
+          "volume": "15",
+          "author": "Deyo",
+          "year": "2014",
+          "journal-title": "Pain Med"
+        },
+        {
+          "issue": "2",
+          "key": "2024081915001480500_R26",
+          "doi-asserted-by": "publisher",
+          "first-page": "314",
+          "DOI": "10.1093/pm/pnv046",
+          "article-title": "Performance of a Patient Reported Outcomes Measurement Information System (PROMIS) short form in older adults with chronic musculoskeletal pain",
+          "volume": "17",
+          "author": "Deyo",
+          "year": "2016",
+          "journal-title": "Pain Med"
+        },
+        {
+          "issue": "6",
+          "key": "2024081915001480500_R27",
+          "doi-asserted-by": "publisher",
+          "first-page": "413",
+          "DOI": "10.1007/s40037-017-0380-y",
+          "article-title": "Are differences between groups different at different occasions?",
+          "volume": "6",
+          "author": "Leppink",
+          "year": "2017",
+          "journal-title": "Perspect Med Educ"
+        },
+        {
+          "issue": "3",
+          "key": "2024081915001480500_R28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/healthcare4030038",
+          "article-title": "Military Chronic Musculoskeletal Pain and Psychiatric Comorbidity: is better pain management the answer?",
+          "volume": "4",
+          "author": "McGeary",
+          "year": "2016",
+          "journal-title": "Healthcare"
+        },
+        {
+          "issue": "11",
+          "key": "2024081915001480500_R29",
+          "doi-asserted-by": "publisher",
+          "first-page": "1797",
+          "DOI": "10.1111/pme.12260",
+          "article-title": "PTSD and pain: exploring the impact of posttraumatic cognitions in veterans seeking treatment for PTSD",
+          "volume": "14",
+          "author": "Porter",
+          "year": "2013",
+          "journal-title": "Pain Med"
+        },
+        {
+          "issue": "8 suppl",
+          "key": "2024081915001480500_R30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/milmed/164.suppl_8.4-1",
+          "article-title": "Disabilities related to the musculoskeletal system: physical evaluation board data",
+          "volume": "164",
+          "author": "Amoroso",
+          "year": "1999",
+          "journal-title": "Mil Med"
+        }
+      ],
+      "container-title": [
+        "Military Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://academic.oup.com/milmed/article-pdf/189/Supplement_3/239/58852801/usae080.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://academic.oup.com/milmed/article-pdf/189/Supplement_3/239/58852801/usae080.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            19
+          ]
+        ],
+        "date-time": "2024-08-19T16:25:03Z",
+        "timestamp": 1724084703000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://academic.oup.com/milmed/article/189/Supplement_3/239/7735930"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            19
+          ]
+        ]
+      },
+      "references-count": 30,
+      "journal-issue": {
+        "issue": "Supplement_3",
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              19
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              19
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1093/milmed/usae080",
+      "relation": {},
+      "ISSN": [
+        "0026-4075",
+        "1930-613X"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0026-4075"
+        },
+        {
+          "type": "electronic",
+          "value": "1930-613X"
+        }
+      ],
+      "subject": [],
+      "published-other": {
+        "date-parts": [
+          [
+            2024,
+            9
+          ]
+        ]
+      },
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            19
+          ]
+        ]
+      }
+    }
+  }
+}

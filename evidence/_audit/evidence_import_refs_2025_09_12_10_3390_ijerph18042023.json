@@ -1,0 +1,1577 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_3390_ijerph18042023.md",
+  "id": "evidence_import_refs_2025_09_12_10_3390_ijerph18042023",
+  "doi": "10.3390/ijerph18042023",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:49.537721Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T13:16:17Z",
+        "timestamp": 1757682977748,
+        "version": "3.37.3"
+      },
+      "reference-count": 126,
+      "publisher": "MDPI AG",
+      "issue": "4",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                2,
+                19
+              ]
+            ],
+            "date-time": "2021-02-19T00:00:00Z",
+            "timestamp": 1613692800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Spanish Ministry of Culture and Sport \"Adherence to physical exercise in patients with chronic patients network”",
+          "award": [
+            "25/UPB/19"
+          ]
+        },
+        {
+          "name": "Spanish Ministry of Science, Innovation and Universities postdoctoral grant",
+          "award": [
+            "FJCI-2016-28405"
+          ]
+        },
+        {
+          "name": "Spanish Ministry of Science, Innovation and Universities predoctoral industrial grant",
+          "award": [
+            "DIN2018-010129"
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "IJERPH"
+      ],
+      "abstract": "<jats:p>Physical inactivity is a major concern and poor adherence to exercise programs is often reported. The aim of this paper was to systematically review published reviews on the study of adherence to physical exercise in chronic patients and older adults and to identify those adherence-related key factors more frequently suggested by reviews for that population. The Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines were followed. Results were classified considering the target population and participants’ characteristics to identify the most repeated factors obtained for each condition. Fifty-five articles were finally included. Fourteen key factors were identified as relevant to increase adherence to physical exercise by at least ten reviews: (a) characteristics of the exercise program, (b) involvement of professionals from different disciplines, (c) supervision, (d) technology, (e) initial exploration of participant’s characteristics, barriers, and facilitators, (f) participants education, adequate expectations and knowledge about risks and benefits, (g) enjoyment and absence of unpleasant experiences, (h) integration in daily living, (i) social support and relatedness, (j) communication and feedback, (k) available progress information and monitoring, (l) self-efficacy and competence, (m) participant’s active role and (n) goal setting. Therefore, adherence to physical exercise is affected by several variables that can be controlled and modified by researchers and professionals.</jats:p>",
+      "DOI": "10.3390/ijerph18042023",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            2,
+            19
+          ]
+        ],
+        "date-time": "2021-02-19T14:06:10Z",
+        "timestamp": 1613743570000
+      },
+      "page": "2023",
+      "source": "Crossref",
+      "is-referenced-by-count": 479,
+      "title": [
+        "Key Factors Associated with Adherence to Physical Exercise in Patients with Chronic Diseases and Older Adults: An Umbrella Review"
+      ],
+      "prefix": "10.3390",
+      "volume": "18",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-5140-465X",
+          "authenticated-orcid": false,
+          "given": "Daniel",
+          "family": "Collado-Mateo",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Centre for Sport Studies, Rey Juan Carlos University, Fuenlabrada, 28943 Madrid, Spain"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9357-9987",
+          "authenticated-orcid": false,
+          "given": "Ana Myriam",
+          "family": "Lavín-Pérez",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for Sport Studies, Rey Juan Carlos University, Fuenlabrada, 28943 Madrid, Spain"
+            },
+            {
+              "name": "GO fitLAB, Ingesport, 28003 Madrid, Spain"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6307-5921",
+          "authenticated-orcid": false,
+          "given": "Cecilia",
+          "family": "Peñacoba",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Psychology, Rey Juan Carlos University, Alcorcón, 28922 Madrid, Spain"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5785-984X",
+          "authenticated-orcid": false,
+          "given": "Juan",
+          "family": "Del Coso",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for Sport Studies, Rey Juan Carlos University, Fuenlabrada, 28943 Madrid, Spain"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2989-5245",
+          "authenticated-orcid": false,
+          "given": "Marta",
+          "family": "Leyton-Román",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for Sport Studies, Rey Juan Carlos University, Fuenlabrada, 28943 Madrid, Spain"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9293-637X",
+          "authenticated-orcid": false,
+          "given": "Antonio",
+          "family": "Luque-Casado",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for Sport Studies, Rey Juan Carlos University, Fuenlabrada, 28943 Madrid, Spain"
+            }
+          ]
+        },
+        {
+          "given": "Pablo",
+          "family": "Gasque",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physical Education, Sport and Human Motricity, Autónoma Univesity, Ciudad Universitaria de Cantoblanco, 28049 Madrid, Spain"
+            }
+          ]
+        },
+        {
+          "given": "Miguel Ángel",
+          "family": "Fernández-del-Olmo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for Sport Studies, Rey Juan Carlos University, Fuenlabrada, 28943 Madrid, Spain"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6043-4375",
+          "authenticated-orcid": false,
+          "given": "Diana",
+          "family": "Amado-Alonso",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for Sport Studies, Rey Juan Carlos University, Fuenlabrada, 28943 Madrid, Spain"
+            }
+          ]
+        }
+      ],
+      "member": "1968",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            2,
+            19
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref_1",
+          "unstructured": "Desa, U. (2019). World Population Prospects 2019: Highlights, United Nations Department for Economic and Social Affairs."
+        },
+        {
+          "key": "ref_2",
+          "doi-asserted-by": "crossref",
+          "first-page": "284",
+          "DOI": "10.1016/j.pmedr.2018.10.008",
+          "article-title": "The global burden of multiple chronic conditions: A narrative review",
+          "volume": "12",
+          "author": "Hajat",
+          "year": "2018",
+          "journal-title": "Prev. Med. Rep."
+        },
+        {
+          "key": "ref_3",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1111/sms.12581",
+          "article-title": "Exercise as medicine—Evidence for prescribing exercise as therapy in 26 different chronic diseases",
+          "volume": "25",
+          "author": "Pedersen",
+          "year": "2015",
+          "journal-title": "Scand. J. Med. Sci. Sports"
+        },
+        {
+          "key": "ref_4",
+          "doi-asserted-by": "crossref",
+          "first-page": "799",
+          "DOI": "10.1161/CIRCRESAHA.118.312669",
+          "article-title": "Sedentary behavior, exercise, and cardiovascular health",
+          "volume": "124",
+          "author": "Lavie",
+          "year": "2019",
+          "journal-title": "Circ. Res."
+        },
+        {
+          "key": "ref_5",
+          "unstructured": "WHO (2020). WHO Guidelines on Physical Activity and Sedentary Behaviour: At a Glance, World Health Organization."
+        },
+        {
+          "key": "ref_6",
+          "doi-asserted-by": "crossref",
+          "first-page": "e24",
+          "DOI": "10.1111/j.1600-0838.2012.01462.x",
+          "article-title": "Exercise therapy—The public health message",
+          "volume": "22",
+          "author": "Blair",
+          "year": "2012",
+          "journal-title": "Scand. J. Med. Sci. Sports"
+        },
+        {
+          "key": "ref_7",
+          "doi-asserted-by": "crossref",
+          "first-page": "429",
+          "DOI": "10.1093/her/cyy032",
+          "article-title": "A review of the impact of physical activity mass media campaigns on low compared to high socioeconomic groups",
+          "volume": "33",
+          "author": "Thomas",
+          "year": "2018",
+          "journal-title": "Health Educ. Res."
+        },
+        {
+          "key": "ref_8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1143",
+          "DOI": "10.1002/cphy.c110025",
+          "article-title": "Lack of exercise is a major cause of chronic diseases",
+          "volume": "2",
+          "author": "Booth",
+          "year": "2012",
+          "journal-title": "Compr. Physiol."
+        },
+        {
+          "key": "ref_9",
+          "first-page": "233",
+          "article-title": "Sedentarism, a disease from xxi century",
+          "volume": "31",
+          "author": "Rodulfo",
+          "year": "2019",
+          "journal-title": "Clínica Investig. Arterioscler."
+        },
+        {
+          "key": "ref_10",
+          "doi-asserted-by": "crossref",
+          "first-page": "125",
+          "DOI": "10.1038/s41366-018-0226-7",
+          "article-title": "Levels of adherence needed to achieve significant weight loss",
+          "volume": "43",
+          "author": "Johnston",
+          "year": "2018",
+          "journal-title": "Int. J. Obes."
+        },
+        {
+          "key": "ref_11",
+          "doi-asserted-by": "crossref",
+          "first-page": "43",
+          "DOI": "10.13105/wjma.v3.i1.43",
+          "article-title": "Effect of super-vised exercise on aerobic capacity in cancer survivors: Adherence and workload predict variance in effect",
+          "volume": "3",
+          "author": "Beaudry",
+          "year": "2015",
+          "journal-title": "World J. Meta-Anal."
+        },
+        {
+          "key": "ref_12",
+          "doi-asserted-by": "crossref",
+          "first-page": "465",
+          "DOI": "10.1177/0269215516653995",
+          "article-title": "Interventions to achieve ongoing exercise adherence for adults with chronic health conditions who have completed a supervised exercise program: Systematic review and meta-analysis",
+          "volume": "31",
+          "author": "Jansons",
+          "year": "2017",
+          "journal-title": "Clin. Rehabil."
+        },
+        {
+          "key": "ref_13",
+          "first-page": "854328",
+          "article-title": "Exercise and motor training in people with Parkinson’s disease: A systematic review of participant characteristics, intervention delivery, retention rates, adherence, and adverse events in clinical trials",
+          "volume": "2012",
+          "author": "Allen",
+          "year": "2012",
+          "journal-title": "Parkinson’s Dis."
+        },
+        {
+          "key": "ref_14",
+          "doi-asserted-by": "crossref",
+          "first-page": "686",
+          "DOI": "10.1017/S1478951519000312",
+          "article-title": "Exercise interventions for patients with advanced cancer: A systematic review of recruitment, attrition, and exercise adherence rates",
+          "volume": "17",
+          "author": "Sheill",
+          "year": "2019",
+          "journal-title": "Palliat. Support. Care"
+        },
+        {
+          "key": "ref_15",
+          "doi-asserted-by": "crossref",
+          "first-page": "218",
+          "DOI": "10.1016/j.trre.2016.07.004",
+          "article-title": "Safety, adherence and efficacy of exercise training in solid-organ transplant candidates: A systematic review",
+          "volume": "30",
+          "author": "Wallen",
+          "year": "2016",
+          "journal-title": "Transplant. Rev."
+        },
+        {
+          "key": "ref_16",
+          "doi-asserted-by": "crossref",
+          "first-page": "1547",
+          "DOI": "10.2147/PPA.S103649",
+          "article-title": "Weight-loss intervention adherence and factors promoting adherence: A meta-analysis",
+          "volume": "10",
+          "author": "Rogers",
+          "year": "2016",
+          "journal-title": "Patient Prefer. Adherence"
+        },
+        {
+          "key": "ref_17",
+          "doi-asserted-by": "crossref",
+          "first-page": "68",
+          "DOI": "10.3138/physio.61.2.68",
+          "article-title": "The role of theory in increasing adherence to prescribed practice",
+          "volume": "61",
+          "author": "Sirur",
+          "year": "2009",
+          "journal-title": "Physiother. Can."
+        },
+        {
+          "key": "ref_18",
+          "doi-asserted-by": "crossref",
+          "first-page": "748",
+          "DOI": "10.1097/PHM.0000000000000743",
+          "article-title": "Current trends in exercise intervention research, technology, and behavioral change strategies for people with disabilities: A scoping review",
+          "volume": "96",
+          "author": "Lai",
+          "year": "2017",
+          "journal-title": "Am. J. Phys. Med. Rehabil."
+        },
+        {
+          "key": "ref_19",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Spring, B., Champion, K.E., Acabchuk, R., and Hennessy, E.A. (2020). Self-regulatory behaviour change techniques in interventions to promote healthy eating, physical activity, or weight loss: A meta-review. Health Psychol. Rev., 1–32.",
+          "DOI": "10.1080/17437199.2020.1721310"
+        },
+        {
+          "key": "ref_20",
+          "doi-asserted-by": "crossref",
+          "first-page": "50",
+          "DOI": "10.1016/j.psychsport.2018.01.004",
+          "article-title": "Predicting exercise motivation and exercise behavior: A moderated mediation model testing the interaction between perceived exercise variety and basic psychological needs satisfaction",
+          "volume": "36",
+          "author": "Sylvester",
+          "year": "2018",
+          "journal-title": "Psychol. Sport Exerc."
+        },
+        {
+          "key": "ref_21",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.1519/JPT.0000000000000095",
+          "article-title": "Adherence to technology-based exercise programs in older adults: A systematic review",
+          "volume": "41",
+          "author": "Valenzuela",
+          "year": "2018",
+          "journal-title": "J. Geriatr. Phys. Ther."
+        },
+        {
+          "key": "ref_22",
+          "first-page": "1",
+          "article-title": "Virtual reality and video games in cardiac rehabilitation programs. A systematic review",
+          "volume": "10",
+          "year": "2019",
+          "journal-title": "Disabil. Rehabil."
+        },
+        {
+          "key": "ref_23",
+          "doi-asserted-by": "crossref",
+          "first-page": "909",
+          "DOI": "10.3982/ECTA7416",
+          "article-title": "Incentives to exercise",
+          "volume": "77",
+          "author": "Charness",
+          "year": "2009",
+          "journal-title": "Econometrica"
+        },
+        {
+          "key": "ref_24",
+          "doi-asserted-by": "crossref",
+          "first-page": "e011560",
+          "DOI": "10.1136/bmjopen-2016-011560",
+          "article-title": "Review of how we should define (and measure) adherence in studies examining older adults’ participation in exercise classes",
+          "volume": "6",
+          "author": "Horne",
+          "year": "2016",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "ref_25",
+          "doi-asserted-by": "crossref",
+          "first-page": "713",
+          "DOI": "10.1093/ptj/83.8.713",
+          "article-title": "Reliability of the PEDro scale for rating quality of randomized controlled trials",
+          "volume": "83",
+          "author": "Maher",
+          "year": "2003",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "ref_26",
+          "doi-asserted-by": "crossref",
+          "first-page": "1428",
+          "DOI": "10.1136/bjsports-2016-096651",
+          "article-title": "Consensus on Exercise Reporting Template (CERT): Explanation and elaboration statement",
+          "volume": "50",
+          "author": "Slade",
+          "year": "2016",
+          "journal-title": "Br. J. Sports Med."
+        },
+        {
+          "key": "ref_27",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1186/s40798-019-0214-z",
+          "article-title": "The role of technology in adherence to physical activity programs in patients with chronic diseases experiencing fatigue: A systematic review",
+          "volume": "5",
+          "author": "Albergoni",
+          "year": "2019",
+          "journal-title": "Sports Med. Open"
+        },
+        {
+          "key": "ref_28",
+          "doi-asserted-by": "crossref",
+          "first-page": "382",
+          "DOI": "10.1177/2047487318805580",
+          "article-title": "Examining adherence to activity monitoring devices to improve physical activity in adults with cardiovascular disease: A systematic review",
+          "volume": "26",
+          "author": "Marin",
+          "year": "2019",
+          "journal-title": "Eur. J. Prev. Cardiol."
+        },
+        {
+          "key": "ref_29",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1",
+          "DOI": "10.1016/j.jclinepi.2009.06.006",
+          "article-title": "The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: Explanation and elaboration",
+          "volume": "62",
+          "author": "Liberati",
+          "year": "2009",
+          "journal-title": "J. Clin. Epidemiol."
+        },
+        {
+          "key": "ref_30",
+          "doi-asserted-by": "crossref",
+          "first-page": "63",
+          "DOI": "10.1016/j.critrevonc.2017.03.031",
+          "article-title": "Effects of prehabilitation and rehabilitation including a home-based component on physical fitness, adherence, treatment tolerance, and recovery in patients with non-small cell lung cancer: A systematic review",
+          "volume": "114",
+          "author": "Driessen",
+          "year": "2017",
+          "journal-title": "Crit. Rev. Oncol. Hematol."
+        },
+        {
+          "key": "ref_31",
+          "doi-asserted-by": "crossref",
+          "first-page": "4",
+          "DOI": "10.1111/j.1365-2702.2012.04322.x",
+          "article-title": "Predicting exercise adherence in cancer patients and survivors: A systematic review and meta-analysis of motivational and behavioural factors",
+          "volume": "22",
+          "author": "Dyrstad",
+          "year": "2013",
+          "journal-title": "J. Clin. Nurs."
+        },
+        {
+          "key": "ref_32",
+          "doi-asserted-by": "crossref",
+          "first-page": "80",
+          "DOI": "10.1186/1479-5868-11-80",
+          "article-title": "Determinants of exercise adherence and maintenance among cancer survivors: A systematic review",
+          "volume": "11",
+          "author": "Kampshoff",
+          "year": "2014",
+          "journal-title": "Int. J. Behav. Nutr. Phys. Act."
+        },
+        {
+          "key": "ref_33",
+          "doi-asserted-by": "crossref",
+          "unstructured": "McCahon, D., Daley, A.J., Jones, J., Haslop, R., Shajpal, A., Taylor, A., Wilson, S., and Dowswell, G. (2015). Enhancing adherence in trials promoting change in diet and physical activity in individuals with a diagnosis of colorectal adenoma; a systematic review of behavioural intervention approaches. BMC Cancer, 15.",
+          "DOI": "10.1186/s12885-015-1502-8"
+        },
+        {
+          "key": "ref_34",
+          "doi-asserted-by": "crossref",
+          "first-page": "713",
+          "DOI": "10.1002/pon.4612",
+          "article-title": "Predictors of adherence to exercise interventions during and after cancer treatment: A systematic review",
+          "volume": "27",
+          "author": "Ormel",
+          "year": "2018",
+          "journal-title": "Psychooncology"
+        },
+        {
+          "key": "ref_35",
+          "doi-asserted-by": "crossref",
+          "first-page": "436",
+          "DOI": "10.1016/j.ijcard.2016.08.120",
+          "article-title": "Participation and adherence to cardiac rehabilitation programs. A systematic review",
+          "volume": "223",
+          "author": "Raposeiras",
+          "year": "2016",
+          "journal-title": "Int. J. Cardiol."
+        },
+        {
+          "key": "ref_36",
+          "doi-asserted-by": "crossref",
+          "first-page": "401",
+          "DOI": "10.1037/a0022848",
+          "article-title": "What can we learn from patients with heart failure about exercise adherence? A systematic review of qualitative papers",
+          "volume": "30",
+          "author": "Tierney",
+          "year": "2011",
+          "journal-title": "Health Psychol."
+        },
+        {
+          "key": "ref_37",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1007/s10741-011-9252-4",
+          "article-title": "What strategies are effective for exercise adherence in heart failure? A systematic review of controlled studies",
+          "volume": "17",
+          "author": "Tierney",
+          "year": "2012",
+          "journal-title": "Heart Fail. Rev."
+        },
+        {
+          "key": "ref_38",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Xu, L., Li, F., Zhou, C., Li, J., Hong, C., and Tong, Q. (2019). The effect of mobile applications for improving adherence in cardiac rehabilitation: A systematic review and meta-analysis. BMC Cardiovasc. Disord., 19.",
+          "DOI": "10.1186/s12872-019-1149-5"
+        },
+        {
+          "key": "ref_39",
+          "doi-asserted-by": "crossref",
+          "first-page": "252",
+          "DOI": "10.2174/1574884712666170710094842",
+          "article-title": "A Review of interventions to improve enrolment and adherence to cardiac rehabilitation among patients aged 65 years or above",
+          "volume": "13",
+          "author": "Matata",
+          "year": "2017",
+          "journal-title": "Curr. Cardiol. Rev."
+        },
+        {
+          "key": "ref_40",
+          "unstructured": "Karmali, K.N., Davies, P., Taylor, F., Beswick, A., Martin, K., and Ebrahim, S. (2010). Promoting patient uptake and adherence in cardiac rehabilitation. Cochrane Database Syst. Rev., CD007131."
+        },
+        {
+          "key": "ref_41",
+          "doi-asserted-by": "crossref",
+          "first-page": "262",
+          "DOI": "10.1016/j.ypmed.2012.07.007",
+          "article-title": "Adherence to and efficacy of home exercise programs to prevent falls: A systematic review and meta-analysis of the impact of exercise program characteristics",
+          "volume": "55",
+          "author": "Simek",
+          "year": "2012",
+          "journal-title": "Prev. Med."
+        },
+        {
+          "key": "ref_42",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.1016/j.ypmed.2016.02.037",
+          "article-title": "Adherence to community based group exercise interventions for older people: A mixed-methods systematic review",
+          "volume": "87",
+          "author": "Farrance",
+          "year": "2016",
+          "journal-title": "Prev. Med."
+        },
+        {
+          "key": "ref_43",
+          "doi-asserted-by": "crossref",
+          "first-page": "151",
+          "DOI": "10.1016/j.jphys.2014.06.012",
+          "article-title": "Adherence to exercise programs for older people is influenced by program characteristics and personal factors: A systematic review",
+          "volume": "60",
+          "author": "Picorelli",
+          "year": "2014",
+          "journal-title": "J. Physiother."
+        },
+        {
+          "key": "ref_44",
+          "doi-asserted-by": "crossref",
+          "first-page": "185",
+          "DOI": "10.1093/ageing/afy164",
+          "article-title": "Interventions to improve adherence to exercise therapy for falls prevention in community-dwelling older adults: Systematic review and meta-analysis",
+          "volume": "48",
+          "author": "Hughes",
+          "year": "2019",
+          "journal-title": "Age Ageing"
+        },
+        {
+          "key": "ref_45",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.1016/S1836-9553(13)70160-7",
+          "article-title": "Program-related factors are associated with adherence to group exercise interventions for the prevention of falls: A systematic review",
+          "volume": "59",
+          "author": "McPhate",
+          "year": "2013",
+          "journal-title": "J. Physiother."
+        },
+        {
+          "key": "ref_46",
+          "doi-asserted-by": "crossref",
+          "first-page": "276",
+          "DOI": "10.1016/j.ypmed.2012.07.016",
+          "article-title": "What are the barriers and facilitators to exercise and physical activity uptake and adherence among South Asian older adults: A systematic review of qualitative studies",
+          "volume": "55",
+          "author": "Horne",
+          "year": "2012",
+          "journal-title": "Prev. Med."
+        },
+        {
+          "key": "ref_47",
+          "doi-asserted-by": "crossref",
+          "first-page": "e019221",
+          "DOI": "10.1136/bmjopen-2017-019221",
+          "article-title": "What interventions are used to improve exercise adherence in older people and what behavioural techniques are they based on? A systematic review",
+          "volume": "7",
+          "author": "Room",
+          "year": "2017",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "ref_48",
+          "doi-asserted-by": "crossref",
+          "first-page": "1940",
+          "DOI": "10.1016/j.spinee.2013.08.027",
+          "article-title": "Individual and intervention-related factors associated with adherence to home exercise in chronic low back pain: A systematic review",
+          "volume": "13",
+          "author": "Beinart",
+          "year": "2013",
+          "journal-title": "Spine J."
+        },
+        {
+          "key": "ref_49",
+          "doi-asserted-by": "crossref",
+          "first-page": "104",
+          "DOI": "10.1080/08870446.2014.953529",
+          "article-title": "Context effects and behaviour change techniques in randomised trials: A systematic review using the example of trials to increase adherence to physical activity in musculoskeletal pain",
+          "volume": "30",
+          "author": "Bishop",
+          "year": "2015",
+          "journal-title": "Psychol. Health"
+        },
+        {
+          "key": "ref_50",
+          "doi-asserted-by": "crossref",
+          "first-page": "25",
+          "DOI": "10.1016/j.pec.2018.09.018",
+          "article-title": "Behaviour change techniques applied in interventions to enhance physical activity adherence in patients with chronic musculoskeletal conditions: A systematic review and meta-analysis",
+          "volume": "102",
+          "author": "Eisele",
+          "year": "2019",
+          "journal-title": "Patient Educ. Couns."
+        },
+        {
+          "key": "ref_51",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1002/msc.1084",
+          "article-title": "The effects of interventions to increase exercise adherence in people with arthritis: A systematic review",
+          "volume": "13",
+          "author": "Ezzat",
+          "year": "2015",
+          "journal-title": "Musculoskelet. Care"
+        },
+        {
+          "key": "ref_52",
+          "doi-asserted-by": "crossref",
+          "first-page": "220",
+          "DOI": "10.1016/j.math.2009.12.004",
+          "article-title": "Barriers to treatment adherence in physiotherapy outpatient clinics: A systematic review",
+          "volume": "15",
+          "author": "Jack",
+          "year": "2010",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "ref_53",
+          "first-page": "CD005956",
+          "article-title": "Interventions to improve adherence to exercise for chronic musculoskeletal pain in adults",
+          "volume": "2010",
+          "author": "Jordan",
+          "year": "2010",
+          "journal-title": "Cochrane Database Syst. Rev."
+        },
+        {
+          "key": "ref_54",
+          "doi-asserted-by": "crossref",
+          "first-page": "187",
+          "DOI": "10.1007/s00296-018-4225-8",
+          "article-title": "Level of adherence to prescribed exercise in spondyloarthritis and factors affecting this adherence: A systematic review",
+          "volume": "39",
+          "author": "McDonald",
+          "year": "2019",
+          "journal-title": "Rheumatol. Int."
+        },
+        {
+          "key": "ref_55",
+          "doi-asserted-by": "crossref",
+          "first-page": "514",
+          "DOI": "10.1016/j.math.2010.05.012",
+          "article-title": "Interventions for enhancing adherence with physiotherapy: A systematic review",
+          "volume": "15",
+          "author": "McLean",
+          "year": "2010",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "ref_56",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.1111/bjhp.12324",
+          "article-title": "Behaviour change techniques associated with adherence to prescribed exercise in patients with persistent musculoskeletal pain: Systematic review",
+          "volume": "24",
+          "author": "Meade",
+          "year": "2019",
+          "journal-title": "Br. J. Health Psychol."
+        },
+        {
+          "key": "ref_57",
+          "doi-asserted-by": "crossref",
+          "first-page": "791",
+          "DOI": "10.1136/bjsports-2016-096458",
+          "article-title": "Interventions to increase adherence to therapeutic exercise in older adults with low back pain and/or hip/knee osteoarthritis: A systematic review and meta-analysis",
+          "volume": "51",
+          "author": "Nicolson",
+          "year": "2017",
+          "journal-title": "Br. J. Sports Med."
+        },
+        {
+          "key": "ref_58",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1016/j.physio.2015.10.003",
+          "article-title": "Interventions to aid patient adherence to physiotherapist prescribed self-management strategies: A systematic review",
+          "volume": "102",
+          "author": "Peek",
+          "year": "2016",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "ref_59",
+          "doi-asserted-by": "crossref",
+          "first-page": "735",
+          "DOI": "10.1007/s00198-016-3793-2",
+          "article-title": "Facilitators and barriers to exercise adherence in patients with osteopenia and osteoporosis: A systematic review",
+          "volume": "28",
+          "author": "Rodrigues",
+          "year": "2017",
+          "journal-title": "Osteoporos. Int."
+        },
+        {
+          "key": "ref_60",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Willett, M., Duda, J., Fenton, S., Gautrey, C., Greig, C., and Rushton, A. (2019). Effectiveness of behaviour change techniques in physiotherapy interventions to promote physical activity adherence in lower limb osteoarthritis patients: A systematic review. PLoS ONE, 14.",
+          "DOI": "10.1371/journal.pone.0219482"
+        },
+        {
+          "key": "ref_61",
+          "doi-asserted-by": "crossref",
+          "first-page": "123",
+          "DOI": "10.1111/cob.12183",
+          "article-title": "Determinants of adherence to lifestyle intervention in adults with obesity: A systematic review",
+          "volume": "7",
+          "author": "Burgess",
+          "year": "2017",
+          "journal-title": "Clin. Obes."
+        },
+        {
+          "key": "ref_62",
+          "doi-asserted-by": "crossref",
+          "first-page": "105",
+          "DOI": "10.1111/cob.12180",
+          "article-title": "Behavioural treatment strategies improve adherence to lifestyle intervention programmes in adults with obesity: A systematic review and meta-analysis",
+          "volume": "7",
+          "author": "Burgess",
+          "year": "2017",
+          "journal-title": "Clin. Obes."
+        },
+        {
+          "key": "ref_63",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bullard, T., Ji, M., An, R., Trinh, L., MacKenzie, M., and Mullen, S.P. (2019). A systematic review and meta-analysis of adherence to physical activity interventions among three chronic conditions: Cancer, cardiovascular disease, and diabetes. BMC Public Health, 19.",
+          "DOI": "10.1186/s12889-019-6877-z"
+        },
+        {
+          "key": "ref_64",
+          "doi-asserted-by": "crossref",
+          "first-page": "607",
+          "DOI": "10.1177/0269215518819706",
+          "article-title": "Providing exercise instructions using multimedia may improve adherence but not patient outcomes: A systematic review and meta-analysis",
+          "volume": "33",
+          "author": "Emmerson",
+          "year": "2019",
+          "journal-title": "Clin. Rehabil."
+        },
+        {
+          "key": "ref_65",
+          "doi-asserted-by": "crossref",
+          "first-page": "667",
+          "DOI": "10.1123/jpah.2018-0341",
+          "article-title": "Insufficient reporting of factors associated with exercise referral scheme uptake, attendance, and adherence: A systematic review of reviews",
+          "volume": "16",
+          "author": "Shore",
+          "year": "2019",
+          "journal-title": "J. Phys. Act. Health"
+        },
+        {
+          "key": "ref_66",
+          "doi-asserted-by": "crossref",
+          "first-page": "280",
+          "DOI": "10.1016/j.avsg.2016.02.009",
+          "article-title": "A systematic review of the uptake and adherence rates to supervised exercise programs in patients with intermittent claudication",
+          "volume": "34",
+          "author": "Harwood",
+          "year": "2016",
+          "journal-title": "Ann. Vasc. Surg."
+        },
+        {
+          "key": "ref_67",
+          "doi-asserted-by": "crossref",
+          "first-page": "1625",
+          "DOI": "10.1177/2047487319846997",
+          "article-title": "Completion and adherence rates to exercise interventions in intermittent claudication: Traditional exercise versus alternative exercise–a systematic review",
+          "volume": "26",
+          "author": "Lin",
+          "year": "2019",
+          "journal-title": "Eur. J. Prev. Cardiol."
+        },
+        {
+          "key": "ref_68",
+          "doi-asserted-by": "crossref",
+          "first-page": "38",
+          "DOI": "10.1016/j.pmedr.2017.05.007",
+          "article-title": "Adherence support strategies for exercise interventions in people with mild cognitive impairment and dementia: A systematic review",
+          "volume": "7",
+          "author": "Hancox",
+          "year": "2017",
+          "journal-title": "Prev. Med. Rep."
+        },
+        {
+          "key": "ref_69",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1186/s11556-018-0200-3",
+          "article-title": "Barriers and facilitators to adherence to group exercise in institutionalized older people living with dementia: A systematic review",
+          "volume": "15",
+          "author": "Vseteckova",
+          "year": "2018",
+          "journal-title": "Eur. Rev. Aging Phys. Act."
+        },
+        {
+          "key": "ref_70",
+          "doi-asserted-by": "crossref",
+          "first-page": "731",
+          "DOI": "10.1177/0145721714538925",
+          "article-title": "Depression and adherence to lifestyle changes in type 2 diabetes: A systematic review",
+          "volume": "40",
+          "author": "Sumlin",
+          "year": "2014",
+          "journal-title": "Diabetes Educ."
+        },
+        {
+          "key": "ref_71",
+          "doi-asserted-by": "crossref",
+          "first-page": "53",
+          "DOI": "10.14474/ptrs.2016.5.2.53",
+          "article-title": "Home exercise program adherence strategies in vestibular rehabilitation: A systematic review",
+          "volume": "5",
+          "author": "Gaikwad",
+          "year": "2016",
+          "journal-title": "Phys. Ther. Rehabil. Sci."
+        },
+        {
+          "key": "ref_72",
+          "first-page": "20",
+          "article-title": "Recommendations for improving adherence to home-based exercise: A systematic review",
+          "volume": "28",
+          "author": "Bachmann",
+          "year": "2017",
+          "journal-title": "Phys. Med. Rehabil. Kurortmed."
+        },
+        {
+          "key": "ref_73",
+          "doi-asserted-by": "crossref",
+          "first-page": "638",
+          "DOI": "10.1111/sms.13403",
+          "article-title": "Assessing the psychosocial factors associated with adherence to exercise referral schemes: A systematic review",
+          "volume": "29",
+          "author": "Eynon",
+          "year": "2019",
+          "journal-title": "Scand. J. Med. Sci. Sports"
+        },
+        {
+          "key": "ref_74",
+          "doi-asserted-by": "crossref",
+          "first-page": "737",
+          "DOI": "10.1136/jech-2011-200354",
+          "article-title": "Levels and predictors of exercise referral scheme uptake and adherence: A systematic review",
+          "volume": "66",
+          "author": "Pavey",
+          "year": "2012",
+          "journal-title": "J. Epidemiol. Community Health"
+        },
+        {
+          "key": "ref_75",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Morgan, F., Battersby, A., Weightman, A.L., Searchfield, L., Turley, R., Morgan, H., Jagroo, J., and Ellis, S. (2016). Adherence to exercise referral schemes by participants—what do providers and commissioners need to know? A systematic review of barriers and facilitators. BMC Public Health, 16.",
+          "DOI": "10.1186/s12889-016-2882-7"
+        },
+        {
+          "key": "ref_76",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Barmentloo, L.M., Olij, B.F., Erasmus, V., Smilde, D., Schoon, Y., and Polinder, S. (2020). Personal preferences of participation in fall prevention programmes: A descriptive study. BMC Geriatr., 20.",
+          "DOI": "10.1186/s12877-020-01586-9"
+        },
+        {
+          "key": "ref_77",
+          "doi-asserted-by": "crossref",
+          "first-page": "283",
+          "DOI": "10.2147/PPA.S101717",
+          "article-title": "Public opinion on community-based education and exercise programs for managing hip and knee osteoarthritis-like symptoms: Results of a survey",
+          "volume": "10",
+          "author": "Davis",
+          "year": "2016",
+          "journal-title": "Patient Prefer. Adherence"
+        },
+        {
+          "key": "ref_78",
+          "doi-asserted-by": "crossref",
+          "first-page": "787",
+          "DOI": "10.1002/cam4.639",
+          "article-title": "Predictors of adherence to a 12-week exercise program among men treated for prostate cancer: ENGAGE study",
+          "volume": "5",
+          "author": "Craike",
+          "year": "2016",
+          "journal-title": "Cancer Med."
+        },
+        {
+          "key": "ref_79",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Catala, P., Lopez-Roig, S., Ecija, C., Suso-Ribera, C., and Peñacoba Puente, C. (2020). Why do some people with severe chronic pain adhere to walking prescriptions whilst others won’t? A cross-sectional study exploring clinical and psychosocial predictors in women with fibromyalgia. Rheumatol. Int., 1–6.",
+          "DOI": "10.1007/s00296-020-04719-w"
+        },
+        {
+          "key": "ref_80",
+          "doi-asserted-by": "crossref",
+          "first-page": "457",
+          "DOI": "10.1016/j.jad.2015.10.019",
+          "article-title": "Dropout from exercise randomized controlled trials among people with depression: A meta-analysis and meta regression",
+          "volume": "190",
+          "author": "Stubbs",
+          "year": "2016",
+          "journal-title": "J. Affect. Disord."
+        },
+        {
+          "key": "ref_81",
+          "doi-asserted-by": "crossref",
+          "first-page": "441",
+          "DOI": "10.1006/pmed.2001.0914",
+          "article-title": "Exercise and the transtheoretical model: A longitudinal test of a population sample",
+          "volume": "33",
+          "author": "Plotnikoff",
+          "year": "2001",
+          "journal-title": "Prev. Med."
+        },
+        {
+          "key": "ref_82",
+          "doi-asserted-by": "crossref",
+          "first-page": "686",
+          "DOI": "10.1093/ecco-jcc/jjy214",
+          "article-title": "Inflammatory Bowel disease [IBD] and physical activity: A study on the impact of diagnosis on the level of exercise amongst patients with IBD",
+          "volume": "13",
+          "author": "Gatt",
+          "year": "2019",
+          "journal-title": "J. Crohn’s Colitis"
+        },
+        {
+          "key": "ref_83",
+          "doi-asserted-by": "crossref",
+          "first-page": "116",
+          "DOI": "10.1016/j.ejon.2009.01.006",
+          "article-title": "Self-reported physical activity behaviour; exercise motivation and information among Danish adult cancer patients undergoing chemotherapy",
+          "volume": "13",
+          "author": "Midtgaard",
+          "year": "2009",
+          "journal-title": "Eur. J. Oncol. Nurs."
+        },
+        {
+          "key": "ref_84",
+          "doi-asserted-by": "crossref",
+          "first-page": "274",
+          "DOI": "10.1016/j.archger.2010.11.029",
+          "article-title": "How family support affects physical activity (PA) among middle-aged and elderly people before and after they suffer from chronic diseases",
+          "volume": "53",
+          "author": "Yuan",
+          "year": "2011",
+          "journal-title": "Arch. Gerontol. Geriatr."
+        },
+        {
+          "key": "ref_85",
+          "doi-asserted-by": "crossref",
+          "first-page": "199",
+          "DOI": "10.1016/S0828-282X(08)70584-1",
+          "article-title": "Changes in lifestyle after hypertension diagnosis in Canada",
+          "volume": "24",
+          "author": "Neutel",
+          "year": "2008",
+          "journal-title": "Can. J. Cardiol."
+        },
+        {
+          "key": "ref_86",
+          "doi-asserted-by": "crossref",
+          "first-page": "56",
+          "DOI": "10.1016/j.ypmed.2015.11.030",
+          "article-title": "Effect of diagnosis with a chronic disease on physical activity behavior in middle-aged women",
+          "volume": "83",
+          "author": "Dontje",
+          "year": "2016",
+          "journal-title": "Prev. Med."
+        },
+        {
+          "key": "ref_87",
+          "doi-asserted-by": "crossref",
+          "first-page": "1647",
+          "DOI": "10.1200/JCO.2014.58.3088",
+          "article-title": "Does a recent cancer diagnosis predict smoking cessation? An analysis from a large prospective US cohort",
+          "volume": "33",
+          "author": "Westmaas",
+          "year": "2015",
+          "journal-title": "J. Clin. Oncol."
+        },
+        {
+          "key": "ref_88",
+          "doi-asserted-by": "crossref",
+          "first-page": "43",
+          "DOI": "10.1016/j.pec.2014.03.014",
+          "article-title": "Teachable moments for health behavior change and intermediate patient outcomes",
+          "volume": "96",
+          "author": "Flocke",
+          "year": "2014",
+          "journal-title": "Patient Educ. Couns."
+        },
+        {
+          "key": "ref_89",
+          "unstructured": "Hochbaum, G.M. (1958). Public Participation in Medical Screening Programs: A Socio-Psychological Study, US Department of Health, Education, and Welfare."
+        },
+        {
+          "key": "ref_90",
+          "first-page": "399",
+          "article-title": "The impact of knowledge and beliefs on adherence to cardiac rehabilitation programs in patients with heart failure: A systematic review",
+          "volume": "10",
+          "author": "Jasmine",
+          "year": "2012",
+          "journal-title": "JBI Libr. Syst. Rev."
+        },
+        {
+          "key": "ref_91",
+          "doi-asserted-by": "crossref",
+          "first-page": "151",
+          "DOI": "10.1177/0146167216676480",
+          "article-title": "Immediate rewards predict adherence to long-term goals",
+          "volume": "43",
+          "author": "Woolley",
+          "year": "2017",
+          "journal-title": "Pers. Soc. Psychol. Bull."
+        },
+        {
+          "key": "ref_92",
+          "doi-asserted-by": "crossref",
+          "first-page": "300",
+          "DOI": "10.1123/jsep.28.3.300",
+          "article-title": "Perceived enjoyment moderates the efficacy of an individually tailored physical activity intervention",
+          "volume": "28",
+          "author": "Williams",
+          "year": "2006",
+          "journal-title": "J. Sport Exerc. Psychol."
+        },
+        {
+          "key": "ref_93",
+          "first-page": "151",
+          "article-title": "The importance of enjoyment to adherence and psychological benefits from physical activity",
+          "volume": "24",
+          "author": "Wankel",
+          "year": "1993",
+          "journal-title": "Int. J. Sport Psychol."
+        },
+        {
+          "key": "ref_94",
+          "doi-asserted-by": "crossref",
+          "first-page": "68",
+          "DOI": "10.1037/0003-066X.55.1.68",
+          "article-title": "Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being",
+          "volume": "55",
+          "author": "Ryan",
+          "year": "2000",
+          "journal-title": "Am. Psychol."
+        },
+        {
+          "key": "ref_95",
+          "doi-asserted-by": "crossref",
+          "first-page": "e10116",
+          "DOI": "10.2196/10116",
+          "article-title": "Active video games for rehabilitation in respiratory conditions: Systematic review and meta-analysis",
+          "volume": "7",
+          "author": "Simmich",
+          "year": "2019",
+          "journal-title": "JMIR Serious Games"
+        },
+        {
+          "key": "ref_96",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1186/s13102-016-0050-0",
+          "article-title": "Exergaming (XBOX Kinect™) versus traditional gym-based exercise for postural control, flow and technology acceptance in healthy adults: A randomised controlled trial",
+          "volume": "8",
+          "author": "Barry",
+          "year": "2016",
+          "journal-title": "BMC Sports Sci. Med. Rehabil."
+        },
+        {
+          "key": "ref_97",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.1123/jsep.2017-0306",
+          "article-title": "In It Together: A qualitative evaluation of participant experiences of a 10-week, group-based, workplace HIIT Program for insufficiently active adults",
+          "volume": "40",
+          "author": "Kinnafick",
+          "year": "2018",
+          "journal-title": "J. Sport Exerc. Psychol."
+        },
+        {
+          "key": "ref_98",
+          "doi-asserted-by": "crossref",
+          "first-page": "740",
+          "DOI": "10.1111/j.1600-0838.2008.00844.x",
+          "article-title": "Importance of enjoyment when promoting physical exercise",
+          "volume": "19",
+          "author": "Hagberg",
+          "year": "2009",
+          "journal-title": "Scand. J. Med. Sci. Sports"
+        },
+        {
+          "key": "ref_99",
+          "doi-asserted-by": "crossref",
+          "first-page": "498",
+          "DOI": "10.1123/jsep.29.4.498",
+          "article-title": "Exercise makes people feel better but people are inactive: Paradox or artifact?",
+          "volume": "29",
+          "author": "Backhouse",
+          "year": "2007",
+          "journal-title": "J. Sport Exerc. Psychol."
+        },
+        {
+          "key": "ref_100",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1186/1479-5868-7-15",
+          "article-title": "Pleasant for some and unpleasant for others: A protocol analysis of the cognitive factors that influence affective responses to exercise",
+          "volume": "7",
+          "author": "Rose",
+          "year": "2010",
+          "journal-title": "Int. J. Behav. Nutr. Phys. Act."
+        },
+        {
+          "key": "ref_101",
+          "doi-asserted-by": "crossref",
+          "first-page": "461",
+          "DOI": "10.1123/jpah.10.4.461",
+          "article-title": "A mixed methods comparison of perceived benefits and barriers to exercise between obese and nonobese women",
+          "volume": "10",
+          "author": "Leone",
+          "year": "2013",
+          "journal-title": "J. Phys. Act. Health"
+        },
+        {
+          "key": "ref_102",
+          "doi-asserted-by": "crossref",
+          "first-page": "658",
+          "DOI": "10.1016/j.amepre.2013.06.017",
+          "article-title": "Financial incentives for exercise adherence in adults",
+          "volume": "45",
+          "author": "Mitchell",
+          "year": "2013",
+          "journal-title": "Am. J. Prev. Med."
+        },
+        {
+          "key": "ref_103",
+          "unstructured": "Ryan, R., and Deci, E. (1985). Intrinsic Motivation and Self Determination in Human Behaviour, Plenum."
+        },
+        {
+          "key": "ref_104",
+          "doi-asserted-by": "crossref",
+          "first-page": "104",
+          "DOI": "10.1016/j.psychsport.2017.11.011",
+          "article-title": "Sticking with it? Factors associated with exercise adherence in people with mild to moderate depression",
+          "volume": "35",
+          "author": "Hallgren",
+          "year": "2018",
+          "journal-title": "Psychol. Sport Exerc."
+        },
+        {
+          "key": "ref_105",
+          "first-page": "CD004017",
+          "article-title": "Home versus center based physical activity programs in older adults",
+          "volume": "2005",
+          "author": "Ashworth",
+          "year": "2005",
+          "journal-title": "Cochrane Database Syst. Rev."
+        },
+        {
+          "key": "ref_106",
+          "doi-asserted-by": "crossref",
+          "first-page": "108",
+          "DOI": "10.2307/2136433",
+          "article-title": "Social support, stressful life events, and illness: A model and an empirical test",
+          "volume": "20",
+          "author": "Lin",
+          "year": "1979",
+          "journal-title": "J. Health Soc. Behav."
+        },
+        {
+          "key": "ref_107",
+          "first-page": "35",
+          "article-title": "Social support and resilience to stress: From neurobiology to clinical practice",
+          "volume": "4",
+          "author": "Ozbay",
+          "year": "2007",
+          "journal-title": "Psychiatry"
+        },
+        {
+          "key": "ref_108",
+          "doi-asserted-by": "crossref",
+          "first-page": "519",
+          "DOI": "10.3109/09638288.2016.1153160",
+          "article-title": "Predictors of adherence to home-based physical therapies: A systematic review",
+          "volume": "39",
+          "author": "Essery",
+          "year": "2017",
+          "journal-title": "Disabil. Rehabil."
+        },
+        {
+          "key": "ref_109",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1186/s13037-015-0070-9",
+          "article-title": "Digital mobile technology facilitates HIPAA-sensitive perioperative messaging, improves physician-patient communication, and streamlines patient care",
+          "volume": "9",
+          "author": "Gordon",
+          "year": "2015",
+          "journal-title": "Patient Saf. Surg."
+        },
+        {
+          "key": "ref_110",
+          "doi-asserted-by": "crossref",
+          "first-page": "e17152",
+          "DOI": "10.2196/17152",
+          "article-title": "Associations between commercial app use and physical activity: Cross-sectional study",
+          "volume": "22",
+          "author": "Rosen",
+          "year": "2020",
+          "journal-title": "J. Med. Internet Res."
+        },
+        {
+          "key": "ref_111",
+          "doi-asserted-by": "crossref",
+          "first-page": "1130",
+          "DOI": "10.1080/10410236.2018.1465791",
+          "article-title": "Count your calories and share them: Health benefits of sharing mhealth information on social networking sites",
+          "volume": "34",
+          "author": "High",
+          "year": "2019",
+          "journal-title": "Health Commun."
+        },
+        {
+          "key": "ref_112",
+          "doi-asserted-by": "crossref",
+          "first-page": "e144",
+          "DOI": "10.2196/jmir.8480",
+          "article-title": "Exploring the role of in-person components for online health behavior change interventions: Can a digital person-to-person component suffice?",
+          "volume": "20",
+          "author": "Santarossa",
+          "year": "2018",
+          "journal-title": "J. Med. Internet Res."
+        },
+        {
+          "key": "ref_113",
+          "doi-asserted-by": "crossref",
+          "first-page": "372",
+          "DOI": "10.1097/PHM.0000000000000448",
+          "article-title": "Barriers and facilitators to exercise participation in people with hip and/or knee osteoarthritis: Synthesis of the literature using behavior change theory",
+          "volume": "95",
+          "author": "Dobson",
+          "year": "2016",
+          "journal-title": "Am. J. Phys. Med. Rehabil."
+        },
+        {
+          "key": "ref_114",
+          "doi-asserted-by": "crossref",
+          "first-page": "2141",
+          "DOI": "10.3389/fpsyg.2018.02141",
+          "article-title": "Can Interpersonal behavior influence the persistence and adherence to physical exercise practice in adults? A systematic review",
+          "volume": "9",
+          "author": "Rodrigues",
+          "year": "2018",
+          "journal-title": "Front. Psychol."
+        },
+        {
+          "key": "ref_115",
+          "doi-asserted-by": "crossref",
+          "first-page": "97",
+          "DOI": "10.1186/s12966-015-0258-5",
+          "article-title": "Barriers and facilitators to physical activity amongst overweight and obese women in an Afro-Caribbean population: A qualitative study",
+          "volume": "12",
+          "author": "Alvarado",
+          "year": "2015",
+          "journal-title": "Int. J. Behav. Nutr. Phys. Act."
+        },
+        {
+          "key": "ref_116",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.1037/0021-843X.87.1.49",
+          "article-title": "Learned helplessness in humans: Critique and reformulation",
+          "volume": "87",
+          "author": "Abramson",
+          "year": "1978",
+          "journal-title": "J. Abnorm. Psychol."
+        },
+        {
+          "key": "ref_117",
+          "first-page": "397",
+          "article-title": "The relationship between health locus of control and health behaviors in emergency medicine personnel",
+          "volume": "5",
+          "author": "Pourhoseinzadeh",
+          "year": "2017",
+          "journal-title": "Int. J. Community Based Nurs. Midwifery"
+        },
+        {
+          "key": "ref_118",
+          "doi-asserted-by": "crossref",
+          "first-page": "73",
+          "DOI": "10.1016/j.pec.2009.12.004",
+          "article-title": "The role of helplessness, outcome expectation for exercise and literacy in predicting disability and symptoms in older adults with arthritis",
+          "volume": "81",
+          "author": "Bhat",
+          "year": "2010",
+          "journal-title": "Patient Educ. Couns."
+        },
+        {
+          "key": "ref_119",
+          "doi-asserted-by": "crossref",
+          "first-page": "1228",
+          "DOI": "10.1111/j.1525-1497.2004.40153.x",
+          "article-title": "Literacy and health outcomes: A systematic review of the literature",
+          "volume": "19",
+          "author": "DeWalt",
+          "year": "2004",
+          "journal-title": "J. Gen. Intern. Med."
+        },
+        {
+          "key": "ref_120",
+          "doi-asserted-by": "crossref",
+          "first-page": "164",
+          "DOI": "10.1097/AJP.0000000000000235",
+          "article-title": "Do Pain-related beliefs influence adherence to multidisciplinary rehabilitation? A systematic review",
+          "volume": "32",
+          "author": "Thompson",
+          "year": "2016",
+          "journal-title": "Clin. J. Pain"
+        },
+        {
+          "key": "ref_121",
+          "doi-asserted-by": "crossref",
+          "first-page": "2221",
+          "DOI": "10.1001/jama.1992.03480160079038",
+          "article-title": "Four models of the physician-patient relationship",
+          "volume": "267",
+          "author": "Emanuel",
+          "year": "1992",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "ref_122",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.2147/PPA.S55022",
+          "article-title": "Patient autonomy in chronic care: Solving a paradox",
+          "volume": "8",
+          "author": "Reach",
+          "year": "2013",
+          "journal-title": "Patient Prefer. Adherence"
+        },
+        {
+          "key": "ref_123",
+          "doi-asserted-by": "crossref",
+          "first-page": "2363",
+          "DOI": "10.1111/jan.13738",
+          "article-title": "Relationships of health literacy to self-care behaviors in people with diabetes aged 60 and above: Empowerment as a mediator",
+          "volume": "74",
+          "author": "Shin",
+          "year": "2018",
+          "journal-title": "J. Adv. Nurs."
+        },
+        {
+          "key": "ref_124",
+          "doi-asserted-by": "crossref",
+          "first-page": "690",
+          "DOI": "10.1037/a0016136",
+          "article-title": "Effective techniques in healthy eating and physical activity interventions: A meta-regression",
+          "volume": "28",
+          "author": "Michie",
+          "year": "2009",
+          "journal-title": "Health Psychol."
+        },
+        {
+          "key": "ref_125",
+          "doi-asserted-by": "crossref",
+          "first-page": "352",
+          "DOI": "10.1177/0269215508101741",
+          "article-title": "Writing SMART rehabilitation goals and achieving goal attainment scaling: A practical guide",
+          "volume": "23",
+          "author": "Botell",
+          "year": "2009",
+          "journal-title": "Clin. Rehabil."
+        },
+        {
+          "key": "ref_126",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ajzen, I. (1985). From intentions to actions: A theory of Planned Behavior. Action Control: From Cognition to Behavior, Springer.",
+          "DOI": "10.1007/978-3-642-69746-3_2"
+        }
+      ],
+      "container-title": [
+        "International Journal of Environmental Research and Public Health"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.mdpi.com/1660-4601/18/4/2023/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            30
+          ]
+        ],
+        "date-time": "2024-12-30T10:01:08Z",
+        "timestamp": 1735552868000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.mdpi.com/1660-4601/18/4/2023"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            2,
+            19
+          ]
+        ]
+      },
+      "references-count": 126,
+      "journal-issue": {
+        "issue": "4",
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              2
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "ijerph18042023"
+      ],
+      "URL": "https://doi.org/10.3390/ijerph18042023",
+      "relation": {},
+      "ISSN": [
+        "1660-4601"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1660-4601"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            2,
+            19
+          ]
+        ]
+      }
+    }
+  }
+}

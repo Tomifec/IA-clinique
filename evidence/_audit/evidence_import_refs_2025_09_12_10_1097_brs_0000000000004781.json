@@ -1,0 +1,446 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1097_brs_0000000000004781.md",
+  "id": "evidence_import_refs_2025_09_12_10_1097_brs_0000000000004781",
+  "doi": "10.1097/BRS.0000000000004781",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:30.299407Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T21:43:20Z",
+        "timestamp": 1757454200850,
+        "version": "3.40.4"
+      },
+      "reference-count": 13,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "20",
+      "content-domain": {
+        "domain": [
+          "lww.com",
+          "ovid.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            15
+          ]
+        ]
+      },
+      "abstract": "<jats:sec>\n            <jats:title>Study Design:</jats:title>\n            <jats:p>Retrospective cohort study.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Objective:</jats:title>\n            <jats:p>To compare utilization patterns for patients with new-onset neck pain by initial provider specialty.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Summary of Background Data:</jats:title>\n            <jats:p>Initial provider specialty has been associated with distinct care patterns among patients with acute back pain; little is known about care patterns among patients with acute neck pain.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Methods:</jats:title>\n            <jats:p>De-identified administrative claims and electronic health record data were derived from the Optum Labs Data Warehouse, which contains longitudinal health information on over 200M enrollees and patients representing a mixture of ages and geographical regions across the United States. Patients had outpatient visits for new-onset neck pain from October 1, 2016 to September 30, 2019, classified by initial provider specialty. Utilization was assessed during a 180-day follow-up period, including subsequent neck pain visits, diagnostic imaging, and therapeutic interventions.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Results:</jats:title>\n            <jats:p>The cohort included 770,326 patients with new-onset neck pain visits. The most common initial provider specialty was chiropractor (45.2%), followed by primary care (33.4%). Initial provider specialty was strongly associated with the receipt of subsequent neck pain visits with the same provider specialty. Rates and types of diagnostic imaging and therapeutic interventions during follow-up also varied widely by initial provider specialty. While uncommon after initial visits with chiropractors (≤2%), CT, or MRI scans occurred in over 30% of patients with initial visits with emergency physicians, orthopedists, or neurologists. Similarly, 6.8% and 3.4% of patients initially seen by orthopedists received therapeutic injections and major surgery, respectively, compared with 0.4% and 0.1% of patients initially seen by a chiropractor.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusion:</jats:title>\n            <jats:p>Within a large national cohort, chiropractors were the initial provider for a plurality of patients with new-onset neck pain. Compared with patients initially seen by physician providers, patients treated initially by chiropractors or therapists received fewer and less costly imaging services and were less likely to receive invasive therapeutic interventions during follow-up.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Level of Evidence:</jats:title>\n            <jats:p>3.</jats:p>\n          </jats:sec>",
+      "DOI": "10.1097/brs.0000000000004781",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2023-08-01T10:01:05Z",
+        "timestamp": 1690884065000
+      },
+      "page": "1409-1418",
+      "update-policy": "https://doi.org/10.1097/lww.0000000000001000",
+      "source": "Crossref",
+      "is-referenced-by-count": 8,
+      "title": [
+        "Longitudinal Care Patterns and Utilization Among Patients With New-Onset Neck Pain by Initial Provider Specialty"
+      ],
+      "prefix": "10.1097",
+      "volume": "48",
+      "author": [
+        {
+          "given": "Joshua J.",
+          "family": "Fenton",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Family and Community Medicine, University of California, Davis, Sacramento, CA"
+            },
+            {
+              "name": "Center for Healthcare Policy and Research, University of California, Davis, Sacramento, CA"
+            }
+          ]
+        },
+        {
+          "given": "Shao-You",
+          "family": "Fang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Healthcare Policy and Research, University of California, Davis, Sacramento, CA"
+            }
+          ]
+        },
+        {
+          "given": "Monika",
+          "family": "Ray",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Healthcare Policy and Research, University of California, Davis, Sacramento, CA"
+            },
+            {
+              "name": "Division of General Internal Medicine, University of California, Davis, Sacramento, CA"
+            }
+          ]
+        },
+        {
+          "given": "John",
+          "family": "Kennedy",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Healthcare Policy and Research, University of California, Davis, Sacramento, CA"
+            }
+          ]
+        },
+        {
+          "given": "Katrine",
+          "family": "Padilla",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Healthcare Policy and Research, University of California, Davis, Sacramento, CA"
+            }
+          ]
+        },
+        {
+          "given": "Russell",
+          "family": "Amundson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Optum AI Labs, Eden Prairie, MN"
+            }
+          ]
+        },
+        {
+          "given": "David",
+          "family": "Elton",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Optum AI Labs, Eden Prairie, MN"
+            }
+          ]
+        },
+        {
+          "given": "Scott",
+          "family": "Haldeman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "World Spine Care, Tustin, CA"
+            }
+          ]
+        },
+        {
+          "given": "Anthony J.",
+          "family": "Lisi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Yale University, School of Medicine"
+            }
+          ]
+        },
+        {
+          "given": "Jason",
+          "family": "Sico",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Yale University, School of Medicine"
+            },
+            {
+              "name": "Headache Centers of Excellence Program, Veterans Health Administration, New Haven, CT"
+            }
+          ]
+        },
+        {
+          "given": "Peter M.",
+          "family": "Wayne",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Harvard Medical School, Boston, MA"
+            }
+          ]
+        },
+        {
+          "given": "Patrick S.",
+          "family": "Romano",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center for Healthcare Policy and Research, University of California, Davis, Sacramento, CA"
+            },
+            {
+              "name": "Division of General Internal Medicine, University of California, Davis, Sacramento, CA"
+            }
+          ]
+        }
+      ],
+      "member": "276",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "R1-20250501",
+          "doi-asserted-by": "crossref",
+          "first-page": "2163",
+          "DOI": "10.1016/S0140-6736(12)61729-2",
+          "article-title": "Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990-2010: A systematic analysis for the Global Burden of Disease Study 2010",
+          "volume": "380",
+          "author": "Vos",
+          "year": "2012",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "R2-20250501",
+          "doi-asserted-by": "crossref",
+          "first-page": "j3221",
+          "DOI": "10.1136/bmj.j3221",
+          "article-title": "Advances in the diagnosis and management of neck pain",
+          "volume": "358",
+          "author": "Cohen",
+          "year": "2017",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "R3-20250501",
+          "doi-asserted-by": "crossref",
+          "first-page": "424",
+          "DOI": "10.1097/JOM.0b013e3181d44f3b",
+          "article-title": "Findings from the bone and joint decade 2000 to 2010 task force on neck pain and its associated disorders",
+          "volume": "52",
+          "author": "Haldeman",
+          "year": "2010",
+          "journal-title": "J Occup Environ Med"
+        },
+        {
+          "key": "R4-20250501",
+          "doi-asserted-by": "crossref",
+          "first-page": "783",
+          "DOI": "10.1016/j.berh.2011.01.019",
+          "article-title": "The epidemiology of neck pain",
+          "volume": "24",
+          "author": "Hoy",
+          "year": "2010",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "R5-20250501",
+          "doi-asserted-by": "crossref",
+          "first-page": "913",
+          "DOI": "10.1056/NEJM199510053331406",
+          "article-title": "The outcomes and costs of care for acute low back pain among patients seen by primary care practitioners, chiropractors, and orthopedic surgeons. The North Carolina Back Pain Project",
+          "volume": "333",
+          "author": "Carey",
+          "year": "1995",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "R6-20250501",
+          "doi-asserted-by": "crossref",
+          "first-page": "4629",
+          "DOI": "10.1111/1475-6773.12984",
+          "article-title": "Physical therapy as the first point of care to treat low back pain: An instrumental variables approach to estimate impact on opioid prescription, health care utilization, and costs",
+          "volume": "53",
+          "author": "Frogner",
+          "year": "2018",
+          "journal-title": "Health Serv Res"
+        },
+        {
+          "key": "R7-20250501",
+          "doi-asserted-by": "crossref",
+          "first-page": "247",
+          "DOI": "10.1111/jep.12464",
+          "article-title": "Importance of the type of provider seen to begin health care for a new episode low back pain: associations with future utilization and costs",
+          "volume": "22",
+          "author": "Fritz",
+          "year": "2016",
+          "journal-title": "J Eval Clin Pract"
+        },
+        {
+          "key": "R8-20250501",
+          "doi-asserted-by": "crossref",
+          "first-page": "e028633",
+          "DOI": "10.1136/bmjopen-2018-028633",
+          "article-title": "Observational retrospective study of the association of initial healthcare provider for new-onset low back pain with early and long-term opioid use",
+          "volume": "9",
+          "author": "Kazis",
+          "year": "2019",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "R9-20250501",
+          "doi-asserted-by": "crossref",
+          "first-page": "63",
+          "DOI": "10.1016/j.jmpt.2016.01.006",
+          "article-title": "The association between use of chiropractic care and costs of care among older medicare patients with chronic low back pain and multiple comorbidities",
+          "volume": "39",
+          "author": "Weeks",
+          "year": "2016",
+          "journal-title": "J Manip Physiol Therap"
+        },
+        {
+          "key": "R10-20250501",
+          "first-page": "226",
+          "article-title": "Influence of Initial Provider on Health Care Utilization in Patients Seeking Care for Neck Pain",
+          "volume": "1",
+          "author": "Horn",
+          "year": "2017"
+        },
+        {
+          "key": "R13-20250501",
+          "doi-asserted-by": "crossref",
+          "first-page": "698",
+          "DOI": "10.1097/MLR.0000000000000735",
+          "article-title": "Identifying Increased Risk of Readmission and In-hospital Mortality Using Hospital Administrative Data: The AHRQ Elixhauser Comorbidity Index",
+          "volume": "55",
+          "author": "Moore",
+          "year": "2017",
+          "journal-title": "Med Care"
+        },
+        {
+          "key": "R14-20250501",
+          "doi-asserted-by": "crossref",
+          "first-page": "e2222062",
+          "DOI": "10.1001/jamanetworkopen.2022.22062",
+          "article-title": "Health Care Resource Utilization in Management of Opioid-Naive Patients With Newly Diagnosed Neck Pain",
+          "volume": "5",
+          "author": "Jin",
+          "year": "2022",
+          "journal-title": "JAMA Network Open"
+        },
+        {
+          "key": "R15-20250501",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1186/2045-709X-20-35",
+          "article-title": "The United States Chiropractic Workforce: An alternative or complement to primary care",
+          "volume": "20",
+          "author": "Davis",
+          "year": "2012",
+          "journal-title": "Chiropr Man Therap"
+        }
+      ],
+      "container-title": [
+        "Spine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.lww.com/10.1097/BRS.0000000000004781",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2025-05-01T18:05:34Z",
+        "timestamp": 1746122734000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.lww.com/10.1097/BRS.0000000000004781"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            1
+          ]
+        ]
+      },
+      "references-count": 13,
+      "journal-issue": {
+        "issue": "20",
+        "published-print": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1097/brs.0000000000004781",
+      "relation": {},
+      "ISSN": [
+        "0362-2436"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0362-2436"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            1
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2023-04-20",
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2023-07-05",
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

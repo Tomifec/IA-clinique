@@ -1,0 +1,760 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_7326_0003_4819_156_7_201204030_00009.md",
+  "id": "evidence_import_refs_2025_09_12_10_7326_0003_4819_156_7_201204030_00009",
+  "doi": "10.7326/0003-4819-156-7-201204030-00009",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:58.344860Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T13:29:43Z",
+        "timestamp": 1757683783939,
+        "version": "3.37.0"
+      },
+      "reference-count": 96,
+      "publisher": "American College of Physicians",
+      "issue": "7",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                4,
+                3
+              ]
+            ],
+            "date-time": "2012-04-03T00:00:00Z",
+            "timestamp": 1333411200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.acpjournals.org/journal/aim/text-and-data-mining"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Ann Intern Med"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2012,
+            4,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.7326/0003-4819-156-7-201204030-00009",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2013,
+            4,
+            12
+          ]
+        ],
+        "date-time": "2013-04-12T19:28:17Z",
+        "timestamp": 1365794897000
+      },
+      "page": "525-531",
+      "source": "Crossref",
+      "is-referenced-by-count": 677,
+      "title": [
+        "Guidelines International Network: Toward International Standards for Clinical Practice Guidelines"
+      ],
+      "prefix": "10.7326",
+      "volume": "156",
+      "author": [
+        {
+          "given": "Amir",
+          "family": "Qaseem",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "From the American College of Physicians, Philadelphia, Pennsylvania; KIT Biomedical Research, Royal Tropical Institute, Amsterdam, the Netherlands; National Institute for Health and Clinical Excellence, London, United Kingdom; Ärztliches Zentrum für Qualität in der Medizin, Berlin, Germany;"
+            },
+            {
+              "name": "National Health and Medical Research Council, Melbourne, Australia; Maastricht University, Maastricht, Radboud University Nijmegen Medical Centre, Nimejen, Royal Dutch Society for Physical Therapy, Amersfoot, the Netherlands; and Harvard Medical School, Boston, Massachusetts."
+            }
+          ]
+        },
+        {
+          "given": "Frode",
+          "family": "Forland",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From the American College of Physicians, Philadelphia, Pennsylvania; KIT Biomedical Research, Royal Tropical Institute, Amsterdam, the Netherlands; National Institute for Health and Clinical Excellence, London, United Kingdom; Ärztliches Zentrum für Qualität in der Medizin, Berlin, Germany;"
+            },
+            {
+              "name": "National Health and Medical Research Council, Melbourne, Australia; Maastricht University, Maastricht, Radboud University Nijmegen Medical Centre, Nimejen, Royal Dutch Society for Physical Therapy, Amersfoot, the Netherlands; and Harvard Medical School, Boston, Massachusetts."
+            }
+          ]
+        },
+        {
+          "given": "Fergus",
+          "family": "Macbeth",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From the American College of Physicians, Philadelphia, Pennsylvania; KIT Biomedical Research, Royal Tropical Institute, Amsterdam, the Netherlands; National Institute for Health and Clinical Excellence, London, United Kingdom; Ärztliches Zentrum für Qualität in der Medizin, Berlin, Germany;"
+            },
+            {
+              "name": "National Health and Medical Research Council, Melbourne, Australia; Maastricht University, Maastricht, Radboud University Nijmegen Medical Centre, Nimejen, Royal Dutch Society for Physical Therapy, Amersfoot, the Netherlands; and Harvard Medical School, Boston, Massachusetts."
+            }
+          ]
+        },
+        {
+          "given": "Günter",
+          "family": "Ollenschläger",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From the American College of Physicians, Philadelphia, Pennsylvania; KIT Biomedical Research, Royal Tropical Institute, Amsterdam, the Netherlands; National Institute for Health and Clinical Excellence, London, United Kingdom; Ärztliches Zentrum für Qualität in der Medizin, Berlin, Germany;"
+            },
+            {
+              "name": "National Health and Medical Research Council, Melbourne, Australia; Maastricht University, Maastricht, Radboud University Nijmegen Medical Centre, Nimejen, Royal Dutch Society for Physical Therapy, Amersfoot, the Netherlands; and Harvard Medical School, Boston, Massachusetts."
+            }
+          ]
+        },
+        {
+          "given": "Sue",
+          "family": "Phillips",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From the American College of Physicians, Philadelphia, Pennsylvania; KIT Biomedical Research, Royal Tropical Institute, Amsterdam, the Netherlands; National Institute for Health and Clinical Excellence, London, United Kingdom; Ärztliches Zentrum für Qualität in der Medizin, Berlin, Germany;"
+            },
+            {
+              "name": "National Health and Medical Research Council, Melbourne, Australia; Maastricht University, Maastricht, Radboud University Nijmegen Medical Centre, Nimejen, Royal Dutch Society for Physical Therapy, Amersfoot, the Netherlands; and Harvard Medical School, Boston, Massachusetts."
+            }
+          ]
+        },
+        {
+          "given": "Philip",
+          "family": "van der Wees",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From the American College of Physicians, Philadelphia, Pennsylvania; KIT Biomedical Research, Royal Tropical Institute, Amsterdam, the Netherlands; National Institute for Health and Clinical Excellence, London, United Kingdom; Ärztliches Zentrum für Qualität in der Medizin, Berlin, Germany;"
+            },
+            {
+              "name": "National Health and Medical Research Council, Melbourne, Australia; Maastricht University, Maastricht, Radboud University Nijmegen Medical Centre, Nimejen, Royal Dutch Society for Physical Therapy, Amersfoot, the Netherlands; and Harvard Medical School, Boston, Massachusetts."
+            }
+          ]
+        },
+        {
+          "name": "for the Board of Trustees of the Guidelines International Network*",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "4285",
+      "reference": [
+        {
+          "key": "r1-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-152-6-201003160-00006"
+        },
+        {
+          "key": "r3-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-139-6-200309160-00013"
+        },
+        {
+          "key": "r4-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1503/cmaj.091716"
+        },
+        {
+          "key": "r11-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1378/chest.07-1271"
+        },
+        {
+          "key": "r13-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1164/ajrccm.156.6.ats9-97"
+        },
+        {
+          "key": "r14-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-153-3-201008030-00010"
+        },
+        {
+          "key": "r19-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/sj.bjc.6601077"
+        },
+        {
+          "key": "r21-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.1994.03510350082042"
+        },
+        {
+          "key": "r22-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmjqs.2010.040923"
+        },
+        {
+          "key": "r23-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.otohns.2006.06.1277"
+        },
+        {
+          "key": "r24-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.otohns.2008.11.024"
+        },
+        {
+          "key": "r26-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2011.597"
+        },
+        {
+          "key": "r27-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/qshc.2003.009761"
+        },
+        {
+          "key": "r28-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(99)02171-6"
+        },
+        {
+          "key": "r29-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2009.225"
+        },
+        {
+          "key": "r30-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.281.20.1900"
+        },
+        {
+          "key": "r31-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/qhc.12.1.18"
+        },
+        {
+          "key": "r32-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pmed.1000151"
+        },
+        {
+          "key": "r34-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.328.7454.1490"
+        },
+        {
+          "key": "r35-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1472-6963-5-25"
+        },
+        {
+          "key": "r36-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1472-6963-4-38"
+        },
+        {
+          "key": "r37-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0266462300103034"
+        },
+        {
+          "key": "r38-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jso.21419"
+        },
+        {
+          "key": "r39-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/intqhc/15.1.31"
+        },
+        {
+          "key": "r40-9",
+          "first-page": "15",
+          "volume": "53",
+          "author": "Burgers JS",
+          "year": "2003",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "key": "r41-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.282.15.1458"
+        },
+        {
+          "key": "r42-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1472-6963-6-138"
+        },
+        {
+          "key": "r44-9",
+          "first-page": "901",
+          "volume": "153",
+          "author": "Carter AO",
+          "year": "1995",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "r45-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/02813430410006521"
+        },
+        {
+          "key": "r46-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-127-3-199708010-00006"
+        },
+        {
+          "key": "r49-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/intqhc/mzi011"
+        },
+        {
+          "key": "r50-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2105/AJPH.74.9.979"
+        },
+        {
+          "key": "r51-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.323.7321.1100"
+        },
+        {
+          "key": "r52-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1478-4505-4-17"
+        },
+        {
+          "key": "r53-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1478-4505-4-15"
+        },
+        {
+          "key": "r54-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.329.7473.1013"
+        },
+        {
+          "key": "r55-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0266462300103113"
+        },
+        {
+          "key": "r56-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ebm.6.1.4"
+        },
+        {
+          "key": "r57-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ebn.8.3.68"
+        },
+        {
+          "key": "r58-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.316.7139.1230"
+        },
+        {
+          "key": "r59-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.313.7063.957"
+        },
+        {
+          "key": "r60-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.38336.482720.8F"
+        },
+        {
+          "key": "r61-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-2753.1995.tb00006.x"
+        },
+        {
+          "key": "r62-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/qshc.4.1.55"
+        },
+        {
+          "key": "r63-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0140-6736(93)92244-N"
+        },
+        {
+          "key": "r64-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.317.7162.858"
+        },
+        {
+          "key": "r65-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.328.7454.1490"
+        },
+        {
+          "key": "r66-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.39489.470347.AD"
+        },
+        {
+          "key": "r67-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.308.6942.1488"
+        },
+        {
+          "key": "r68-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/JOM.0b013e3181651613"
+        },
+        {
+          "key": "r69-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1503/cmaj.081232"
+        },
+        {
+          "key": "r70-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-118-9-199305010-00012"
+        },
+        {
+          "key": "r71-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.316.7149.1959"
+        },
+        {
+          "key": "r72-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1258/135581906777641659"
+        },
+        {
+          "key": "r74-9",
+          "first-page": "957",
+          "volume": "16",
+          "author": "Jaime J",
+          "year": "2005",
+          "journal-title": "Int J Technol Assess Health Care"
+        },
+        {
+          "key": "r75-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00005650-199606000-00002"
+        },
+        {
+          "key": "r76-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pmed.1000094"
+        },
+        {
+          "key": "r77-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.300.4.436"
+        },
+        {
+          "key": "r78-9",
+          "first-page": "1073",
+          "volume": "153",
+          "author": "Lewis S",
+          "year": "1995",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "r79-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.socscimed.2004.08.062"
+        },
+        {
+          "key": "r80-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3310/hta2160"
+        },
+        {
+          "key": "r84-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-154-9-201105030-00010"
+        },
+        {
+          "key": "r85-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1478-4505-4-20"
+        },
+        {
+          "key": "r86-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1478-4505-4-19"
+        },
+        {
+          "key": "r87-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1478-4505-4-14"
+        },
+        {
+          "key": "r89-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1046/j.1365-2753.2002.00333.x"
+        },
+        {
+          "key": "r90-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1046/j.1365-2753.2001.00272.x"
+        },
+        {
+          "key": "r91-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/014107689809135S08"
+        },
+        {
+          "key": "r92-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.a1714"
+        },
+        {
+          "key": "r93-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.331.7517.631"
+        },
+        {
+          "key": "r94-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/qhc.0100238"
+        },
+        {
+          "key": "r95-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1478-4505-4-13"
+        },
+        {
+          "key": "r96-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1478-4505-4-25"
+        },
+        {
+          "key": "r97-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1478-4505-4-21"
+        },
+        {
+          "key": "r98-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1478-4505-4-22"
+        },
+        {
+          "key": "r99-9",
+          "first-page": "1429",
+          "volume": "34",
+          "author": "Shekelle PG",
+          "year": "2000",
+          "journal-title": "Health Serv Res"
+        },
+        {
+          "key": "r100-9",
+          "first-page": "453",
+          "volume": "31",
+          "author": "Shekelle PG",
+          "year": "1996",
+          "journal-title": "Health Serv Res"
+        },
+        {
+          "key": "r101-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jamcollsurg.2005.07.009"
+        },
+        {
+          "key": "r102-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.318.7183.593"
+        },
+        {
+          "key": "r103-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1472-6947-5-23"
+        },
+        {
+          "key": "r104-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-139-6-200309160-00013"
+        },
+        {
+          "key": "r105-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/qhc.12.1.18"
+        },
+        {
+          "key": "r106-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2009.205"
+        },
+        {
+          "key": "r107-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2522/ptj.20100305"
+        },
+        {
+          "key": "r108-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.6004/jnccn.2003.0003"
+        },
+        {
+          "key": "r109-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/archinte.1992.00400170036007"
+        },
+        {
+          "key": "r110-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1146/annurev.pu.17.050196.002455"
+        },
+        {
+          "key": "r111-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1472-6947-8-38"
+        },
+        {
+          "key": "r112-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3310/hta8060"
+        },
+        {
+          "key": "r113-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00005650-200108002-00006"
+        },
+        {
+          "key": "r114-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11606-006-0276-8"
+        },
+        {
+          "key": "r116-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1183/20734735.012011"
+        },
+        {
+          "key": "r118-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-153-3-201008030-00010"
+        },
+        {
+          "key": "r119-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(03)14546-1"
+        },
+        {
+          "key": "r120-9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-126-5-199703010-00006"
+        },
+        {
+          "key": "r122-9",
+          "first-page": "509",
+          "volume": "19",
+          "author": "Lomotan EA",
+          "year": "2010",
+          "journal-title": "Qual Saf Health Care"
+        }
+      ],
+      "container-title": [
+        "Annals of Internal Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.acpjournals.org/doi/pdf/10.7326/0003-4819-156-7-201204030-00009",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.acpjournals.org/doi/full-xml/10.7326/0003-4819-156-7-201204030-00009",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            9
+          ]
+        ],
+        "date-time": "2025-02-09T13:36:26Z",
+        "timestamp": 1739108186000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.acpjournals.org/doi/10.7326/0003-4819-156-7-201204030-00009"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2012,
+            4,
+            3
+          ]
+        ]
+      },
+      "references-count": 96,
+      "journal-issue": {
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2012,
+              4,
+              3
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.7326/0003-4819-156-7-201204030-00009"
+      ],
+      "URL": "https://doi.org/10.7326/0003-4819-156-7-201204030-00009",
+      "relation": {},
+      "ISSN": [
+        "0003-4819",
+        "1539-3704"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0003-4819"
+        },
+        {
+          "type": "electronic",
+          "value": "1539-3704"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2012,
+            4,
+            3
+          ]
+        ]
+      }
+    }
+  }
+}

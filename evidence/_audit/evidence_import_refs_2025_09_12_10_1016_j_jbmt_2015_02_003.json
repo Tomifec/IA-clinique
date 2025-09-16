@@ -1,0 +1,695 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jbmt_2015_02_003.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jbmt_2015_02_003",
+  "doi": "10.1016/j.jbmt.2015.02.003",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:34.979669Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            23
+          ]
+        ],
+        "date-time": "2025-04-23T02:45:44Z",
+        "timestamp": 1745376344885
+      },
+      "reference-count": 44,
+      "publisher": "Elsevier BV",
+      "issue": "4",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2016-10-01T00:00:00Z",
+            "timestamp": 1475280000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "clinicalkey.com.au",
+          "clinicalkey.fr",
+          "bodyworkmovementtherapies.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Bodywork and Movement Therapies"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jbmt.2015.02.003",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2015,
+            2,
+            20
+          ]
+        ],
+        "date-time": "2015-02-20T12:37:01Z",
+        "timestamp": 1424435821000
+      },
+      "page": "715-721",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 17,
+      "title": [
+        "Multimodal compared to pharmacologic treatments for chronic tension-type headache in adolescents"
+      ],
+      "prefix": "10.1016",
+      "volume": "20",
+      "author": [
+        {
+          "given": "Peter",
+          "family": "Przekop",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Allison",
+          "family": "Przekop",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mark G.",
+          "family": "Haviland",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1088",
+          "DOI": "10.1111/j.1469-8749.2010.03793.x",
+          "article-title": "Prevalence of headache and migraine in children and adolescents: a systematic review of population-based studies",
+          "volume": "52",
+          "author": "Abu-Arafeh",
+          "year": "2010",
+          "journal-title": "Dev. Med. Child. Neurol."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "765",
+          "DOI": "10.1136/bmj.309.6957.765",
+          "article-title": "Prevalence of headache and migraine in schoolchildren",
+          "volume": "309",
+          "author": "Abu-Arefeh",
+          "year": "1994",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "1273",
+          "DOI": "10.1111/j.1526-4610.2006.00535.x",
+          "article-title": "A comparison of selected osteopathic treatment and relaxation for tension-type headaches",
+          "volume": "46",
+          "author": "Anderson",
+          "year": "2006",
+          "journal-title": "Headache"
+        },
+        {
+          "issue": "Suppl. 2",
+          "key": "10.1016/j.jbmt.2015.02.003_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "S235",
+          "DOI": "10.1007/s10072-007-0786-0",
+          "article-title": "Pharmacological treatment compared to behavioral treatment for juvenile tension-type headache: results at two-year follow-up",
+          "volume": "28",
+          "author": "Andrasik",
+          "year": "2007",
+          "journal-title": "Neurol. Sci."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "268",
+          "DOI": "10.1016/S1474-4422(06)70376-3",
+          "article-title": "Tension-type headache in childhood and adolescence",
+          "volume": "3",
+          "author": "Anttila",
+          "year": "2006",
+          "journal-title": "Lancet Neurol."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "401",
+          "DOI": "10.1046/j.1468-2982.2002.00381.x",
+          "article-title": "Determinants of tension-type headaches in children",
+          "volume": "22",
+          "author": "Anttila",
+          "year": "2002",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "112",
+          "DOI": "10.1177/0333102412468386",
+          "article-title": "Psychopathological symptoms in child and adolescent migraine and tension-type headache: a meta-analysis",
+          "volume": "33",
+          "author": "Balottin",
+          "year": "2013",
+          "journal-title": "Cephalgia"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib8",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1007/s11916-013-0335-x",
+          "article-title": "Headache and sleep in children",
+          "volume": "17",
+          "author": "Bellini",
+          "year": "2013",
+          "journal-title": "Curr. Pain Headache Rep."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1173",
+          "DOI": "10.1542/peds.2013-1816",
+          "article-title": "Complementary and conventional medicine use among youth with recurrent headaches",
+          "volume": "132",
+          "author": "Bethell",
+          "year": "2013",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "388",
+          "DOI": "10.1046/j.1468-2982.1997.1704488.x",
+          "article-title": "A 40-year follow-up of school children with migraine",
+          "volume": "17",
+          "author": "Bille",
+          "year": "1997",
+          "journal-title": "Cephalgia"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib11",
+          "first-page": "1",
+          "article-title": "Migraine in school children. A study of the incidence and short-term prognosis, and a clinical, psychological and electroencephalographic comparison between children with migraine and matched controls",
+          "volume": "136",
+          "author": "Bille",
+          "year": "1962",
+          "journal-title": "Acta Paediatr. Suppl."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1055/s-0032-1330856",
+          "article-title": "Primary headache in children and adolescents: update on pharmacotherapy of migraine and tension-type headache",
+          "volume": "44",
+          "author": "Bonfert",
+          "year": "2013",
+          "journal-title": "Neuropediatrics"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1017/S1352465813000234",
+          "article-title": "Brief mindfulness-based therapy for chronic tension-type headache: a randomized controlled pilot study",
+          "volume": "42",
+          "author": "Cathcart",
+          "year": "2014",
+          "journal-title": "Behav. Cogn. Psychother."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "719",
+          "DOI": "10.1177/0883073812450945",
+          "article-title": "School functioning and chronic tension headache in adolescents: improvement only after multidisciplinary evaluation",
+          "volume": "28",
+          "author": "Claar",
+          "year": "2013",
+          "journal-title": "J. Child. Neurol."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib15",
+          "first-page": "129",
+          "article-title": "Pain assessment: global use of the Brief Pain Inventory",
+          "volume": "23",
+          "author": "Cleeland",
+          "year": "1994",
+          "journal-title": "Ann. Acad. Med. Singap."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "250",
+          "DOI": "10.1001/jamapediatrics.2013.508",
+          "article-title": "Pharmacologic treatment of pediatric headaches: a meta-analysis",
+          "volume": "167",
+          "author": "El-Chammas",
+          "year": "2013",
+          "journal-title": "JAMA Pediatr."
+        },
+        {
+          "issue": "Suppl. 3",
+          "key": "10.1016/j.jbmt.2015.02.003_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "S270",
+          "DOI": "10.1007/s10072-004-0305-5",
+          "article-title": "Pharmacological behavioural treatment for children and adolescents with tension-type headache: preliminary data",
+          "volume": "25",
+          "author": "Grazzi",
+          "year": "2004",
+          "journal-title": "Neurol. Sci."
+        },
+        {
+          "issue": "Suppl. 1",
+          "key": "10.1016/j.jbmt.2015.02.003_bib18",
+          "first-page": "9",
+          "article-title": "The International classification of headache disorders: 2nd edition",
+          "volume": "24",
+          "author": "Headache Classification Subcommittee of the International Headache Society",
+          "year": "2004",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "539",
+          "DOI": "10.1046/j.1526-4610.2000.00085.x",
+          "article-title": "Effectiveness of amitriptyline in the prophylactic management of childhood headaches",
+          "volume": "40",
+          "author": "Hershey",
+          "year": "2000",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "663",
+          "DOI": "10.1097/MOP.0b013e3282f1a07f",
+          "article-title": "Headaches",
+          "volume": "19",
+          "author": "Hershey",
+          "year": "2007",
+          "journal-title": "Curr. Opin. Pediatr."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1",
+          "DOI": "10.4278/ajhp.081013-LIT-248",
+          "article-title": "A comprehensive review of health benefits of qigong and tai chi",
+          "volume": "24",
+          "author": "Jahnke",
+          "year": "2010",
+          "journal-title": "Am. J. Health Promot"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib22",
+          "first-page": "109",
+          "article-title": "Headache in childhood. A five year material from a pediatric university clinic",
+          "volume": "16",
+          "author": "Koch",
+          "year": "1969",
+          "journal-title": "Dan. Med. Bull."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "519",
+          "DOI": "10.1111/j.1468-2982.2007.01319.x",
+          "article-title": "Headache in German children and adolescents: a population-based epidemiological study",
+          "volume": "27",
+          "author": "Kroner-Herwig",
+          "year": "2007",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "e71834",
+          "DOI": "10.1371/journal.pone.0071834",
+          "article-title": "Mindfulness-based therapies in the treatment of somatization disorders: a systematic review and meta-analysis",
+          "volume": "8",
+          "author": "Lakham",
+          "year": "2013",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib25",
+          "first-page": "774",
+          "article-title": "The role of psychological, health behavior, and medical factors in adolescents from grammar schools in Germany",
+          "volume": "31",
+          "author": "Larsson",
+          "year": "2011",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "380",
+          "DOI": "10.1111/j.1468-2982.2004.00681.x",
+          "article-title": "Prevalence of headache in Swedish schoolchildren, with a focus on tension-type headache",
+          "volume": "24",
+          "author": "Laurell",
+          "year": "2004",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "774",
+          "DOI": "10.1177/0333102410390397",
+          "article-title": "Associations between stress and migraine and tension-type headache: results from a school-based study in adolescents from grammar schools in Germany",
+          "volume": "31",
+          "author": "Milde-Busch",
+          "year": "2011",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib28",
+          "first-page": "511",
+          "article-title": "The efficacy of spinal manipulation, amitriptyline and the combination of both therapies for the prophylaxis of migraine headache",
+          "volume": "21",
+          "author": "Nelson",
+          "year": "1998",
+          "journal-title": "J. Manip. Physiol. Ther."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "387",
+          "DOI": "10.1016/j.pain.2009.10.004",
+          "article-title": "Randomized controlled trials of psychological therapies for management of chronic pain in children and adolescents: an updated meta-analytic review",
+          "volume": "148",
+          "author": "Palermo",
+          "year": "2010",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "334",
+          "DOI": "10.1016/j.jbmt.2009.10.003",
+          "article-title": "Neurocognitive enhancement for the treatment of chronic pain",
+          "volume": "14",
+          "author": "Przekop",
+          "year": "2010",
+          "journal-title": "J. Bodyw. Mov. Ther."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "543",
+          "DOI": "10.7556/jaoa.2003.103.11.543",
+          "article-title": "Implementation of an osteopathic manipulation medicine clinic at an allopathic teaching hospital: a research-based experience",
+          "volume": "103",
+          "author": "Przekop",
+          "year": "2003",
+          "journal-title": "J. Am. Osteopath Assoc."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "71",
+          "DOI": "10.1007/s10194-007-0366-y",
+          "article-title": "Genetics of tension-type headache",
+          "volume": "8",
+          "author": "Russell",
+          "year": "2007",
+          "journal-title": "J. Headache Pain"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "25",
+          "DOI": "10.1055/s-0032-1333435",
+          "article-title": "Headache in children: update on complementary treatments",
+          "volume": "44",
+          "author": "Schetzek",
+          "year": "2013",
+          "journal-title": "Neuropediatrics"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "687",
+          "DOI": "10.1017/S0317167100008295",
+          "article-title": "Tension-type headache in children: the cinderella of headache disorders!",
+          "volume": "36",
+          "author": "Seshia",
+          "year": "2009",
+          "journal-title": "Can. J. Neurol. Sci."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "541",
+          "DOI": "10.1111/j.1469-8749.2008.03013.x",
+          "article-title": "Childhood chronic daily headache: a biopsychosocial perspective",
+          "volume": "50",
+          "author": "Seshia",
+          "year": "2008",
+          "journal-title": "Dev. Med. Child. Neurol."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "425",
+          "DOI": "10.2147/JPR.S42869",
+          "article-title": "Pain sensitivity and pericranial tenderness in children with tension-type headache: a controlled study",
+          "volume": "6",
+          "author": "Soee",
+          "year": "2013",
+          "journal-title": "J. Pain Res."
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "1218",
+          "DOI": "10.1177/0333102413490349",
+          "article-title": "Headache in children: effectiveness of multidisciplinary treatment in a tertiary paediatric headache clinic",
+          "volume": "33",
+          "author": "Soee",
+          "year": "2013",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "454",
+          "DOI": "10.1177/0333102413476371",
+          "article-title": "Altered pain perception in children with chronic tension-type headache: is this a sign of central sensitization?",
+          "volume": "7",
+          "author": "Soee",
+          "year": "2013",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "e002997",
+          "DOI": "10.1136/bmjopen-2013-002997",
+          "article-title": "Potentially traumatic interpersonal events, psychological distress and recurrent headache in a population-based cohort of adolescents: the HUNT study",
+          "volume": "3",
+          "author": "Stensland",
+          "year": "2013",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "2321",
+          "DOI": "10.1212/01.wnl.0000314667.16386.5e",
+          "article-title": "Mind-body interventions: applications in neurology",
+          "volume": "70",
+          "author": "Wahbeh",
+          "year": "2008",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1046/j.1526-4610.2001.111006001.x",
+          "article-title": "Childhood headache, stress in adolescence, and primary headache in young adulthood: a longitudinal cohort study",
+          "volume": "41",
+          "author": "Waldie",
+          "year": "2001",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib42",
+          "series-title": "How to Score Version 2 of the SF-12® Health Survey",
+          "author": "Ware",
+          "year": "2002"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "1087",
+          "DOI": "10.1111/j.1526-4610.2011.01917.x",
+          "article-title": "Complementary and alternative medicine use among adults with migraine/severe headaches",
+          "volume": "51",
+          "author": "Wells",
+          "year": "2011",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.jbmt.2015.02.003_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "373",
+          "DOI": "10.1111/j.1468-2982.2004.00680.x",
+          "article-title": "The prevalence of migraine and tension-type headaches among adolescents in Norway. The Nord-Trondelag Health Study (Head-HUNT-Youth), a large population-based epidemiological study",
+          "volume": "24",
+          "author": "Zwart",
+          "year": "2004",
+          "journal-title": "Cephalalgia"
+        }
+      ],
+      "container-title": [
+        "Journal of Bodywork and Movement Therapies"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1360859215000492?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1360859215000492?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            8,
+            20
+          ]
+        ],
+        "date-time": "2019-08-20T23:41:35Z",
+        "timestamp": 1566344495000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1360859215000492"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            10
+          ]
+        ]
+      },
+      "references-count": 44,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              10
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1360859215000492"
+      ],
+      "URL": "https://doi.org/10.1016/j.jbmt.2015.02.003",
+      "relation": {},
+      "ISSN": [
+        "1360-8592"
+      ],
+      "issn-type": [
+        {
+          "value": "1360-8592",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            10
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Multimodal compared to pharmacologic treatments for chronic tension-type headache in adolescents",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Journal of Bodywork and Movement Therapies",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jbmt.2015.02.003",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2015 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1136_bjsports_2016_096458.md",
+  "id": "evidence_import_refs_2025_09_11_10_1136_bjsports_2016_096458",
+  "doi": "10.1136/bjsports-2016-096458",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:50.702557Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            29
+          ]
+        ],
+        "date-time": "2025-08-29T09:52:11Z",
+        "timestamp": 1756461131688,
+        "version": "3.41.2"
+      },
+      "reference-count": 60,
+      "publisher": "BMJ",
+      "issue": "10",
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Br J Sports Med"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2016,
+            12,
+            16
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            5
+          ]
+        ]
+      },
+      "abstract": "<jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>To evaluate whether interventions aimed at increasing adherence to therapeutic exercise increase adherence greater than a contextually equivalent control among older adults with chronic low back pain and/or hip/knee osteoarthritis.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Design</jats:title>\n                  <jats:p>A systematic review and meta-analysis.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Data sources</jats:title>\n                  <jats:p>Five databases (MEDLINE (PubMed), CINAHL, SportDISCUS (EBSCO), Embase (Ovid) and Cochrane Library) were searched until 1 August 2016.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Eligibility criteria for selecting studies</jats:title>\n                  <jats:p>Randomised controlled trials that isolated the effects of interventions aiming to improve adherence to therapeutic exercise among adults ≥45 years of age with chronic low back pain and/or hip/knee osteoarthritis were included.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Of 3899 studies identified, nine studies (1045 participants) were eligible. Four studies, evaluating strategies that aimed to increase motivation or using behavioural graded exercise, reported significantly better exercise adherence (d=0.26–1.23). In contrast, behavioural counselling, action coping plans and/or audio/video exercise cues did not improve adherence significantly. Meta-analysis using a random effects model with the two studies evaluating booster sessions with a physiotherapist for people with osteoarthritis revealed a small to medium significant pooled effect in favour of booster sessions (standardised mean difference (SMD) 0.39, 95% CI 0.05 to 0.72, z=2.26, p=0.02, I<jats:sup>2</jats:sup>=35%).</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>Meta-analysis provides moderate-quality evidence that booster sessions with a physiotherapist assisted people with hip/knee osteoarthritis to better adhere to therapeutic exercise. Individual high-quality trials supported the use of motivational strategies in people with chronic low back pain and behavioural graded exercise in people with osteoarthritis to improve adherence to exercise.</jats:p>\n               </jats:sec>",
+      "DOI": "10.1136/bjsports-2016-096458",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2017,
+            1,
+            13
+          ]
+        ],
+        "date-time": "2017-01-13T21:52:04Z",
+        "timestamp": 1484344324000
+      },
+      "page": "791-799",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 150,
+      "title": [
+        "Interventions to increase adherence to therapeutic exercise in older adults with low back pain and/or hip/knee osteoarthritis: a systematic review and meta-analysis"
+      ],
+      "prefix": "10.1136",
+      "volume": "51",
+      "author": [
+        {
+          "given": "Philippa J A",
+          "family": "Nicolson",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Centre for Health, Exercise & Sports Medicine, Department of Physiotherapy, University of Melbourne, Melbourne, Victoria, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Kim L",
+          "family": "Bennell",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for Health, Exercise & Sports Medicine, Department of Physiotherapy, University of Melbourne, Melbourne, Victoria, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Fiona L",
+          "family": "Dobson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for Health, Exercise & Sports Medicine, Department of Physiotherapy, University of Melbourne, Melbourne, Victoria, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Ans",
+          "family": "Van Ginckel",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for Health, Exercise & Sports Medicine, Department of Physiotherapy, University of Melbourne, Melbourne, Victoria, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Melanie A",
+          "family": "Holden",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Arthritis Research UK Primary Care Centre, Keele University, Keele, UK"
+            }
+          ]
+        },
+        {
+          "given": "Rana S",
+          "family": "Hinman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for Health, Exercise & Sports Medicine, Department of Physiotherapy, University of Melbourne, Melbourne, Victoria, Australia"
+            }
+          ]
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            1,
+            13
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2025080114480199000_51.10.791.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.berh.2010.01.012"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0269215515570379"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.berh.2005.09.007"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/1529-0131(199808)41:8<1343::AID-ART3>3.0.CO;2-9"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.berh.2014.01.004"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.joca.2007.12.013"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-200111150-00022"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.8",
+          "unstructured": "NICE: National Institute for Health and Care Excellence. Osteoarthritis. Care and management in adults. National Institute for Health and Clinical Excellence UK. London, 2014."
+        },
+        {
+          "key": "2025080114480199000_51.10.791.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.b1805"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.10",
+          "unstructured": "World Health Organization. Global recommendations on physical activity for health. WHO Press, Switzerland, 2010."
+        },
+        {
+          "key": "2025080114480199000_51.10.791.11",
+          "first-page": "CD004376",
+          "article-title": "Exercise for osteoarthritis of the knee",
+          "volume": "1",
+          "author": "Fransen",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.12",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Fransen M , McConnell S , Hernandez-Molina G , et al . Exercise for osteoarthritis of the hip. Cochrane Database Syst Rev 2014;(4):CD007912. doi:10.1002/14651858.CD007912.pub2",
+          "DOI": "10.1002/14651858.CD007912.pub2"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.1997.03540250033028"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.14",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Fransen M , McConnell S , Hernandez-Molina G , et al . Exercise for osteoarthritis of the hip. Cochrane Database Syst Rev 2009;(3):CD007912. doi:10.1002/14651858.CD007912",
+          "DOI": "10.1002/14651858.CD007912"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.15",
+          "doi-asserted-by": "crossref",
+          "first-page": "22",
+          "DOI": "10.3390/healthcare4020022",
+          "article-title": "A systematic review of the effects of exercise and physical activity on non-specific chronic low back pain",
+          "volume": "4",
+          "author": "Gordon",
+          "year": "2016",
+          "journal-title": "Healthcare (Basel)"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.16",
+          "doi-asserted-by": "crossref",
+          "first-page": "372",
+          "DOI": "10.1097/PHM.0000000000000448",
+          "article-title": "Barriers and facilitators to exercise participation in people with hip and/or knee osteoarthritis: synthesis of the literature using behavior change theory",
+          "volume": "95",
+          "author": "Dobson",
+          "year": "2016",
+          "journal-title": "Am J Phys Med Rehabil"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1472-6963-10-60"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/AJP.0000000000000044"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.19",
+          "doi-asserted-by": "crossref",
+          "first-page": "771",
+          "DOI": "10.1093/ptj/73.11.771",
+          "article-title": "Correlates of exercise compliance in physical therapy",
+          "volume": "73",
+          "author": "Sluijs",
+          "year": "1993",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.20",
+          "doi-asserted-by": "crossref",
+          "first-page": "72",
+          "DOI": "10.2174/1874609811205010072",
+          "article-title": "Knee osteoarthritis and exercise adherence: a review",
+          "volume": "5",
+          "author": "Marks",
+          "year": "2012",
+          "journal-title": "Curr Aging Sci"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.21",
+          "unstructured": "World Health Organization. Adherence to longterm therapies: evidence for action. Geneva: World Health Organization Library, 2003."
+        },
+        {
+          "key": "2025080114480199000_51.10.791.22",
+          "first-page": "CD005956",
+          "article-title": "Interventions to improve adherence to exercise for chronic musculoskeletal pain in adults",
+          "volume": "20",
+          "author": "Jordan",
+          "year": "2010",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.23",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1002/msc.1084",
+          "article-title": "The effects of interventions to increase exercise adherence in people with arthritis: a systematic review",
+          "volume": "13",
+          "author": "Ezzat",
+          "year": "2015",
+          "journal-title": "Musculoskeletal Care"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1159/000228248"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/08870446.2014.953529"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-151-4-200908180-00135"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.g1687"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.d5928"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.29",
+          "unstructured": "Cohen J . Statistical power analysis for the behavioral sciences. 2nd edn. NJ: Erlbaum, 1988."
+        },
+        {
+          "key": "2025080114480199000_51.10.791.30",
+          "unstructured": "Deeks J , Higgins J , Altman D . Analysing data and undertaking meta-analyses. In: Higgins J , Green S, eds . Cochrane handbook for systematic reviews of interventions version 5.1.0. The Cochrane Collaboration, 2011."
+        },
+        {
+          "key": "2025080114480199000_51.10.791.31",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Higgins JPT , Green S . Cochrane handbook for systematic reviews of interventions. [electronic resource]. 2008.",
+          "DOI": "10.1002/9780470712184"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.32",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Altman DG . Practical statistics for medical research: London, NY: Chapman and Hall, 1991.",
+          "DOI": "10.1201/9780429258589"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ejpain.2005.12.009"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0003-9993(98)90059-4"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S1836-9553(10)70053-9"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.36",
+          "first-page": "339",
+          "article-title": "How can we improve adherence to exercise programs in patients with osteoarthritis?: A randomized controlled trial",
+          "volume": "15",
+          "author": "Tuzun",
+          "year": "2012",
+          "journal-title": "Turk Geriatri Dergisi"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.37",
+          "doi-asserted-by": "crossref",
+          "first-page": "1680",
+          "DOI": "10.1002/acr.22350",
+          "article-title": "Effects of two physiotherapy booster sessions on outcomes with home exercise in people with knee osteoarthritis: A randomised controlled trial",
+          "volume": "66",
+          "author": "Bennell",
+          "year": "2014",
+          "journal-title": "Arthritis Care Res (Hoboken)"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.physio.2004.09.019"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.39",
+          "first-page": "49",
+          "article-title": "The effect of action and coping plans on exercise adherence in people with lower limb osteoarthritis: feasibility study",
+          "volume": "41",
+          "author": "O'Brien",
+          "year": "2013",
+          "journal-title": "N Z J Physiother"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2458-12-871"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2010.10.016"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1054/ptsp.2000.0019"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1479-5868-9-78"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2013.08.027"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/art.22341"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/jech.55.2.132"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/acr.21700"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.48",
+          "doi-asserted-by": "crossref",
+          "first-page": "727",
+          "DOI": "10.1016/j.math.2015.03.014",
+          "article-title": "A review of behaviour change theories and techniques used in group based self-management programmes for chronic low back pain and arthritis",
+          "volume": "20",
+          "author": "Keogh",
+          "year": "2015",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1464-0597.2008.00339.x"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijnurstu.2012.09.010"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00005650-199808000-00004"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.52",
+          "doi-asserted-by": "crossref",
+          "first-page": "254",
+          "DOI": "10.1186/1471-2474-15-254",
+          "article-title": "A multicentre, pragmatic, parallel group, randomised controlled trial to compare the clinical and cost-effectiveness of three physiotherapy-led exercise interventions for knee osteoarthritis in older adults: the BEEP trial protocol (ISRCTN: 93634563)",
+          "volume": "15",
+          "author": "Foster",
+          "year": "2014",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "1",
+          "key": "2025080114480199000_51.10.791.53",
+          "doi-asserted-by": "crossref",
+          "first-page": "S43",
+          "DOI": "10.1016/j.joca.2016.01.103",
+          "article-title": "Improving the effectiveness of exercise therapy for older adults with knee pain: a pragmatic randomised controlled trial (the BEEP trial)",
+          "volume": "24",
+          "author": "Foster",
+          "year": "2016",
+          "journal-title": "Osteoarthritis Cartilage"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.54",
+          "doi-asserted-by": "crossref",
+          "first-page": "e404",
+          "DOI": "10.1016/j.physio.2015.03.633",
+          "article-title": "Improving the effectiveness of exercise therapy for older adults with knee pain: a pragmatic randomised controlled trial (the beep trial)",
+          "volume": "101",
+          "author": "Foster",
+          "year": "2015",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1464-0597.2008.00341.x"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.56",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1748-5908-4-40"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/08870446.2010.540664"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.58",
+          "doi-asserted-by": "crossref",
+          "first-page": "1428",
+          "DOI": "10.1136/bjsports-2016-096651",
+          "article-title": "Consensus on Exercise Reporting Template (CERT): Explanation and Elaboration Statement",
+          "volume": "23",
+          "author": "Slade",
+          "year": "2016",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.59",
+          "doi-asserted-by": "crossref",
+          "first-page": "2046",
+          "DOI": "10.1186/2046-4053-3-10",
+          "article-title": "Recommendations for exercise adherence measures in musculoskeletal settings: a systematic review and consensus meeting (protocol)",
+          "volume": "3",
+          "author": "Holden",
+          "year": "2014",
+          "journal-title": "Syst Rev"
+        },
+        {
+          "key": "2025080114480199000_51.10.791.60",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmjopen-2014-005044"
+        }
+      ],
+      "container-title": [
+        "British Journal of Sports Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bjsports-2016-096458",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2025-08-01T21:48:12Z",
+        "timestamp": 1754084892000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bjsm.bmj.com/lookup/doi/10.1136/bjsports-2016-096458"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            1,
+            13
+          ]
+        ]
+      },
+      "references-count": 60,
+      "journal-issue": {
+        "issue": "10",
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              2
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              5
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bjsports-2016-096458"
+      ],
+      "URL": "https://doi.org/10.1136/bjsports-2016-096458",
+      "relation": {},
+      "ISSN": [
+        "0306-3674",
+        "1473-0480"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0306-3674"
+        },
+        {
+          "type": "electronic",
+          "value": "1473-0480"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            1,
+            13
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,635 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_7759_cureus_52999.md",
+  "id": "evidence_import_refs_2025_09_12_10_7759_cureus_52999",
+  "doi": "10.7759/cureus.52999",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:09:04.873911Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            10
+          ]
+        ],
+        "date-time": "2024-02-10T00:42:18Z",
+        "timestamp": 1707525738956
+      },
+      "reference-count": 49,
+      "publisher": "Springer Science and Business Media LLC",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            26
+          ]
+        ]
+      },
+      "DOI": "10.7759/cureus.52999",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            26
+          ]
+        ],
+        "date-time": "2024-01-26T18:28:12Z",
+        "timestamp": 1706293692000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Rhizarthrosis Part II: A New Approach of Manual Therapy and Therapeutic Exercise"
+      ],
+      "prefix": "10.7759",
+      "author": [
+        {
+          "given": "Saverio",
+          "family": "Colonna",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Corrado",
+          "family": "Borghi",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "reference": [
+        {
+          "key": "ref1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/s0749-0712(02)00130-0",
+          "article-title": "Biomechanics and hand trauma: what you need",
+          "volume": "19",
+          "author": "Moran SL",
+          "year": "2003",
+          "unstructured": "Moran SL, Berger RA. Biomechanics and hand trauma: what you need. Hand Clin. 2003, 19:17-31. 10.1016/s0749-0712(02)00130-0",
+          "journal-title": "Hand Clin"
+        },
+        {
+          "key": "ref2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.52932",
+          "article-title": "Rhizarthrosis Part I: A Literature Review",
+          "volume": "16",
+          "author": "Colonna S",
+          "year": "2024",
+          "unstructured": "Colonna S, Borghi C. Rhizarthrosis Part I: A Literature Review. Cureus. 2024, 16:e52932. 10.7759/cureus.52932",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.2106/00004623-197355080-00010",
+          "article-title": "Ligament reconstruction for the painful thumb carpometacarpal joint",
+          "volume": "55",
+          "author": "Eaton RG",
+          "year": "1973",
+          "unstructured": "Eaton RG, Littler JW. Ligament reconstruction for the painful thumb carpometacarpal joint. J Bone Joint Surg Am. 1973, 55:1655-66.",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1590/1413-785220223001e246704",
+          "article-title": "Surgical treatment for rhizarthrosis: a systematic review of the last 10 years",
+          "volume": "30",
+          "author": "Saheb RL",
+          "year": "2022",
+          "unstructured": "Saheb RL, Vaz BA, Soeira TP, Shimaoka FJ, Herrero CF, Mazzer N. Surgical treatment for rhizarthrosis: a systematic review of the last 10 years. Acta Ortop Bras. 2022, 30:e246704. 10.1590/1413-785220223001e246704",
+          "journal-title": "Acta Ortop Bras"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2003.33.7.386",
+          "article-title": "The carpometacarpal joint of the thumb: stability, deformity, and therapeutic intervention",
+          "volume": "33",
+          "author": "Neumann DA",
+          "year": "2003",
+          "unstructured": "Neumann DA, Bielefeld T. The carpometacarpal joint of the thumb: stability, deformity, and therapeutic intervention. J Orthop Sports Phys Ther. 2003, 33:386-99. 10.2519/jospt.2003.33.7.386",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "ref6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmpt.2011.05.016",
+          "article-title": "Short-term effects of neurodynamic mobilization in 15 patients with secondary thumb carpometacarpal osteoarthritis",
+          "volume": "34",
+          "author": "Villafañe JH",
+          "year": "2011",
+          "unstructured": "Villafañe JH, Silva GB, Fernandez-Carnero J. Short-term effects of neurodynamic mobilization in 15 patients with secondary thumb carpometacarpal osteoarthritis. J Manipulative Physiol Ther. 2011, 34:449-56. 10.1016/j.jmpt.2011.05.016",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "ref7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmpt.2011.08.005",
+          "article-title": "Hypoalgesic and motor effects of kaltenborn mobilization on elderly patients with secondary thumb carpometacarpal osteoarthritis: a randomized controlled trial",
+          "volume": "34",
+          "author": "Villafañe JH",
+          "year": "2011",
+          "unstructured": "Villafañe JH, Silva GB, Diaz-Parreño SA, Fernandez-Carnero J. Hypoalgesic and motor effects of kaltenborn mobilization on elderly patients with secondary thumb carpometacarpal osteoarthritis: a randomized controlled trial. J Manipulative Physiol Ther. 2011, 34:547-56. 10.1016/j.jmpt.2011.08.005",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "ref8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2011.08.045",
+          "article-title": "Radial nerve mobilization decreases pain sensitivity and improves motor performance in patients with thumb carpometacarpal osteoarthritis: a randomized controlled trial",
+          "volume": "93",
+          "author": "Villafañe JH",
+          "year": "2012",
+          "unstructured": "Villafañe JH, Silva GB, Bishop MD, Fernandez-Carnero J. Radial nerve mobilization decreases pain sensitivity and improves motor performance in patients with thumb carpometacarpal osteoarthritis: a randomized controlled trial. Arch Phys Med Rehabil. 2012, 93:396-403. 10.1016/j.apmr.2011.08.045",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmpt.2011.12.002",
+          "article-title": "Effect of thumb joint mobilization on pressure pain threshold in elderly patients with thumb carpometacarpal osteoarthritis",
+          "volume": "35",
+          "author": "Villafañe JH",
+          "year": "2012",
+          "unstructured": "Villafañe JH, Silva GB, Fernandez-Carnero J. Effect of thumb joint mobilization on pressure pain threshold in elderly patients with thumb carpometacarpal osteoarthritis. J Manipulative Physiol Ther. 2012, 35:110-20. 10.1016/j.jmpt.2011.12.002",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jcm.2013.06.001",
+          "article-title": "Management of trapeziometacarpal osteoarthritis pain and dysfunction using mobilization with movement technique in combination with kinesiology tape: a case report",
+          "volume": "12",
+          "author": "Villafañe JH",
+          "year": "2013",
+          "unstructured": "Villafañe JH, Langford D, Alguacil-Diego IM, Fernández-Carnero J. Management of trapeziometacarpal osteoarthritis pain and dysfunction using mobilization with movement technique in combination with kinesiology tape: a case report. J Chiropr Med. 2013, 12:79-86. 10.1016/j.jcm.2013.06.001",
+          "journal-title": "J Chiropr Med"
+        },
+        {
+          "key": "ref11",
+          "article-title": "Mobilisation of the Nervous System",
+          "author": "Butler D",
+          "year": "1991",
+          "unstructured": "Butler D, Jones M, Gore R. Mobilisation of the Nervous System. Churchill Livingstone, Philadelphia, PA; 1991."
+        },
+        {
+          "key": "ref12",
+          "article-title": "Manual Mobilization of the Extremity Joints. Basic Examination and Treatment Techniques (I). 4th Ed",
+          "author": "Kaltenborn FM",
+          "year": "1989",
+          "unstructured": "Kaltenborn FM, Evjenth O. Manual Mobilization of the Extremity Joints. Basic Examination and Treatment Techniques (I). 4th Ed. Olaf Norlin Bokhandel, Oslo; 1989."
+        },
+        {
+          "key": "ref13",
+          "article-title": "Manual Therapy: NAGS, SNAGS, MWMs. 4th ed",
+          "author": "Mulligan B",
+          "year": "1999",
+          "unstructured": "Mulligan B. Manual Therapy: NAGS, SNAGS, MWMs. 4th ed. Plane View Services, Wellington, New Zealand; 1999."
+        },
+        {
+          "key": "ref14",
+          "article-title": "Vertebral Manipulation",
+          "author": "Maitland G",
+          "year": "2005",
+          "unstructured": "Maitland G. Vertebral Manipulation. Butterworth-Heinemann, Oxford; 2005."
+        },
+        {
+          "key": "ref15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2013.4524",
+          "article-title": "The effectiveness of a manual therapy and exercise protocol in patients with thumb carpometacarpal osteoarthritis: a randomized controlled trial",
+          "volume": "43",
+          "author": "Villafañe JH",
+          "year": "2013",
+          "unstructured": "Villafañe JH, Cleland JA, Fernández-de-Las-Peñas C. The effectiveness of a manual therapy and exercise protocol in patients with thumb carpometacarpal osteoarthritis: a randomized controlled trial. J Orthop Sports Phys Ther. 2013, 43:204-13. 10.2519/jospt.2013.4524",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "ref16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jht.2008.09.002",
+          "article-title": "Exercise and hand osteoarthritis symptomatology: a controlled crossover trial",
+          "volume": "22",
+          "author": "Rogers MW",
+          "year": "2009",
+          "unstructured": "Rogers MW, Wilder FV. Exercise and hand osteoarthritis symptomatology: a controlled crossover trial. J Hand Ther. 2009, 22:10-7; discussion 19-20; quiz 18. 10.1016/j.jht.2008.09.002",
+          "journal-title": "J Hand Ther"
+        },
+        {
+          "key": "ref17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s13063-022-06120-3",
+          "article-title": "Effect of first dorsal interosseous strengthening on clinical outcomes in patients with thumb osteoarthritis: a study protocol for a randomized controlled clinical trial",
+          "volume": "23",
+          "author": "Tossini NB",
+          "year": "2022",
+          "unstructured": "Tossini NB, Pereira ND, de Oliveira GS, da Silva Serrão PR. Effect of first dorsal interosseous strengthening on clinical outcomes in patients with thumb osteoarthritis: a study protocol for a randomized controlled clinical trial. Trials. 2022, 23:191. 10.1186/s13063-022-06120-3",
+          "journal-title": "Trials"
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00256-010-1068-0",
+          "article-title": "High-resolution ultrasound evaluation of the trapeziometacarpal joint with emphasis on the anterior oblique ligament (beak ligament)",
+          "volume": "40",
+          "author": "Gondim Teixeira PA",
+          "year": "2011",
+          "unstructured": "Gondim Teixeira PA, Omoumi P, Trudell DJ, Ward SR, Blum A, Resnick DL. High-resolution ultrasound evaluation of the trapeziometacarpal joint with emphasis on the anterior oblique ligament (beak ligament). Skeletal Radiol. 2011, 40:897-904. 10.1007/s00256-010-1068-0",
+          "journal-title": "Skeletal Radiol"
+        },
+        {
+          "key": "ref19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11999-013-2879-9",
+          "article-title": "Trapeziometacarpal joint stability: the evolving importance of the dorsal ligaments",
+          "volume": "472",
+          "author": "Lin JD",
+          "year": "2014",
+          "unstructured": "Lin JD, Karl JW, Strauch RJ. Trapeziometacarpal joint stability: the evolving importance of the dorsal ligaments. Clin Orthop Relat Res. 2014, 472:1138-45. 10.1007/s11999-013-2879-9",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "key": "ref20",
+          "article-title": "",
+          "author": "Schmidt HM",
+          "year": "2004",
+          "unstructured": "Schmidt HM, Lanz U. Surgical Anatomy of the Hand, Thieme, Stuttgart. Thieme, Stuttgart; 2004. https://books.google.co.in/books/about/Surgical_Anatomy_of_the_Hand.html?id=L7a1tkBU8eMC&amp;redir_esc=y."
+        },
+        {
+          "key": "ref21",
+          "article-title": "Biomechanical analysis of static forces in the thumb during hand function",
+          "volume": "59",
+          "author": "Cooney 3rd WP",
+          "year": "1977",
+          "unstructured": "Cooney 3rd WP, Chao EYS. Biomechanical analysis of static forces in the thumb during hand function. J Bone Joint Surg Am. 1977, 59:27-36.",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "ref22",
+          "article-title": "Mechanics of individual muscles at individual joints",
+          "author": "Brand PW",
+          "year": "1993",
+          "unstructured": "Brand PW, Hollister A. Mechanics of individual muscles at individual joints. Clinical Mechanics of the Hand. Mosby Year Book, St. Louis, Missouri; 1993."
+        },
+        {
+          "key": "ref23",
+          "article-title": "Role of the opposing 1st dorsal interosseous couple in the stability of the trapeziometacarpal joint [Article in French]",
+          "volume": "27",
+          "author": "Boutan M",
+          "year": "2000",
+          "unstructured": "Boutan M. Role of the opposing 1st dorsal interosseous couple in the stability of the trapeziometacarpal joint [Article in French]. Ann Physiother. 2000, 27:316-24.",
+          "journal-title": "Ann Physiother"
+        },
+        {
+          "key": "ref24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.morpho.2020.12.008",
+          "article-title": "Innervation and vascular supply of the first dorsal interosseous muscle and palmar interosseous muscle of the index: an anatomic descriptive study",
+          "volume": "105",
+          "author": "De Almeida YK",
+          "year": "2021",
+          "unstructured": "De Almeida YK, Krebs M, Braun M, Dap F, Dautel G, Athlani L. Innervation and vascular supply of the first dorsal interosseous muscle and palmar interosseous muscle of the index: an anatomic descriptive study. Morphologie. 2021, 105:298-307. 10.1016/j.morpho.2020.12.008",
+          "journal-title": "Morphologie"
+        },
+        {
+          "key": "ref25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/00004623-200105000-00009",
+          "article-title": "Influence of metacarpophalangeal joint position on basal joint-loading in the thumb",
+          "volume": "83",
+          "author": "Moulton MJ",
+          "year": "2001",
+          "unstructured": "Moulton MJ, Parentis MA, Kelly MJ, Jacobs C, Naidu SH, Pellegrini VD Jr. Influence of metacarpophalangeal joint position on basal joint-loading in the thumb. J Bone Joint Surg Am. 2001, 83:709-16. 10.2106/00004623-200105000-00009",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "ref26",
+          "article-title": "Kinesiology of the Musculoskeletal System: Foundations for Physical Rehabilitation",
+          "author": "Neumann DA",
+          "year": "2017",
+          "unstructured": "Neumann DA. Kinesiology of the Musculoskeletal System: Foundations for Physical Rehabilitation. Mosby, Inc., St. Louis, MO; 2017."
+        },
+        {
+          "key": "ref27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4137%2FCMAMD.S22147",
+          "article-title": "Joint instability and osteoarthritis",
+          "volume": "19",
+          "author": "Blalock D",
+          "year": "2015",
+          "unstructured": "Blalock D, Miller A, Tilley M, Wang J. Joint instability and osteoarthritis. Clin Med Insights Arthritis Musculoskelet Disord. 2015, 19:15-23. 10.4137%2FCMAMD.S22147",
+          "journal-title": "Clin Med Insights Arthritis Musculoskelet Disord"
+        },
+        {
+          "key": "ref28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1053/jhsu.2000.17869",
+          "article-title": "Forearm rotation alters interosseous ligament strain distribution",
+          "volume": "25",
+          "author": "Manson TT",
+          "year": "2000",
+          "unstructured": "Manson TT, Pfaeffle HJ, Herdon JH, Tomaino MM, Fischer KJ. Forearm rotation alters interosseous ligament strain distribution. J Hand Surg Am. 2000, 25:1058-63. 10.1053/jhsu.2000.17869",
+          "journal-title": "J Hand Surg Am"
+        },
+        {
+          "key": "ref29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1053/jhsu.1999.0786",
+          "article-title": "An anatomic study of the stabilizing ligaments of the trapezium and trapeziometacarpal joint",
+          "volume": "24",
+          "author": "Bettinger PC",
+          "year": "1999",
+          "unstructured": "Bettinger PC, Linscheid RL, Berger RA, Cooney WP 3rd, An KN. An anatomic study of the stabilizing ligaments of the trapezium and trapeziometacarpal joint. J Hand Surg Am. 1999, 24:786-98. 10.1053/jhsu.1999.0786",
+          "journal-title": "J Hand Surg Am"
+        },
+        {
+          "key": "ref30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1302/0301-620x.80b3.8199",
+          "article-title": "First metacarpal osteotomy for trapeziometacarpal osteoarthritis",
+          "volume": "80",
+          "author": "Hobby JL",
+          "year": "1998",
+          "unstructured": "Hobby JL, Lyall HA, Meggitt BF. First metacarpal osteotomy for trapeziometacarpal osteoarthritis. J Bone Joint Surg Br. 1998, 80:508-12. 10.1302/0301-620x.80b3.8199",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "key": "ref31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.blo.0000176968.28247.5c",
+          "article-title": "The ABJS 2005 Nicolas Andry Award: osteoarthritis and injury at the base of the human thumb: survival of the fittest?",
+          "volume": "438",
+          "author": "Pellegrini VD Jr",
+          "year": "2005",
+          "unstructured": "Pellegrini VD Jr. The ABJS 2005 Nicolas Andry Award: osteoarthritis and injury at the base of the human thumb: survival of the fittest?. Clin Orthop Relat Res. 2005, 438:266-76. 10.1097/01.blo.0000176968.28247.5c",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "key": "ref32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/medicina57070696",
+          "article-title": "The efficacy of manual therapy in patients with knee osteoarthritis: a systematic review",
+          "volume": "57",
+          "author": "Tsokanos A",
+          "year": "2021",
+          "unstructured": "Tsokanos A, Livieratou E, Billis E, Tsekoura M, Tatsios P, Tsepis E, Fousekis K. The efficacy of manual therapy in patients with knee osteoarthritis: a systematic review. Medicina (Kaunas). 2021, 57:696. 10.3390/medicina57070696",
+          "journal-title": "Medicina (Kaunas)"
+        },
+        {
+          "key": "ref33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2002.32.3.86",
+          "article-title": "Mobilization with movement as an adjunct intervention in a patient with complicated de Quervain's tenosynovitis: a case report",
+          "volume": "32",
+          "author": "Backstrom KM",
+          "year": "2002",
+          "unstructured": "Backstrom KM. Mobilization with movement as an adjunct intervention in a patient with complicated de Quervain's tenosynovitis: a case report. J Orthop Sports Phys Ther. 2002, 32:86-94; discussion 94-7. 10.2519/jospt.2002.32.3.86",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "ref34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.math.2006.07.012",
+          "article-title": "Mulligan's mobilization-with-movement, positional faults and pain relief: current concepts from a critical review of literature",
+          "volume": "12",
+          "author": "Vicenzino B",
+          "year": "2007",
+          "unstructured": "Vicenzino B, Paungmali A, Teys P. Mulligan's mobilization-with-movement, positional faults and pain relief: current concepts from a critical review of literature. Man Ther. 2007, 12:98-108. 10.1016/j.math.2006.07.012",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "ref35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1054/math.1996.0259",
+          "article-title": "Peripheral mobilisations with movement",
+          "volume": "1",
+          "author": "Exelby L",
+          "year": "1996",
+          "unstructured": "Exelby L. Peripheral mobilisations with movement. Man Ther. 1996, 1:118-26. 10.1054/math.1996.0259",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "ref36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2006.2265",
+          "article-title": "Initial changes in posterior talar glide and dorsiflexion of the ankle after mobilization with movement in individuals with recurrent ankle sprain",
+          "volume": "36",
+          "author": "Vicenzino B",
+          "year": "2006",
+          "unstructured": "Vicenzino B, Branjerdporn M, Teys P, Jordan K. Initial changes in posterior talar glide and dorsiflexion of the ankle after mobilization with movement in individuals with recurrent ankle sprain. J Orthop Sports Phys Ther. 2006, 36:464-71. 10.2519/jospt.2006.2265",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "ref37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1179/jmt.2009.17.2.39E",
+          "article-title": "Mulligan's mobilization with movement: a systematic review",
+          "volume": "17",
+          "author": "Hing WA",
+          "year": "2009",
+          "unstructured": "Hing WA, Bigelow R, Bremner T. Mulligan's mobilization with movement: a systematic review. J Man Manip Ther. 2009, 17:39. 10.1179/jmt.2009.17.2.39E",
+          "journal-title": "J Man Manip Ther"
+        },
+        {
+          "key": "ref38",
+          "article-title": "Manual Therapy: NAGS, SNAGS, MWMs. 6th ed",
+          "author": "Mulligan B",
+          "year": "2010",
+          "unstructured": "Mulligan B. Manual Therapy: NAGS, SNAGS, MWMs. 6th ed. Plane View Services, Wellington, New Zealand; 2010."
+        },
+        {
+          "key": "ref39",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1093/ptj/83.4.374",
+          "article-title": "Hypoalgesic and sympathoexcitatory effects of mobilization with movement for lateral epicondylalgia",
+          "volume": "83",
+          "author": "Paungmali A",
+          "year": "2003",
+          "unstructured": "Paungmali A, O'Leary S, Souvlis T, Vicenzino B. Hypoalgesic and sympathoexcitatory effects of mobilization with movement for lateral epicondylalgia. Phys Ther. 2003, 83:374-83.",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "ref40",
+          "article-title": "Mobilisation With Movement: The Art and the Science",
+          "author": "Vicenzino B",
+          "year": "2011",
+          "unstructured": "Vicenzino B, Hing W, Rivett D, Hall T. Mobilisation With Movement: The Art and the Science. Churchill Livingstone, Chatswood, Australia; 2011."
+        },
+        {
+          "key": "ref41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.math.2008.06.003",
+          "article-title": "Biomechanical analysis of axial distraction mobilization of the glenohumeral joint - a cadaver study",
+          "volume": "14",
+          "author": "Hsu AT",
+          "year": "2009",
+          "unstructured": "Hsu AT, Chiu JF, Chang JH. Biomechanical analysis of axial distraction mobilization of the glenohumeral joint - a cadaver study. Man Ther. 2009, 14:381-6. 10.1016/j.math.2008.06.003",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "ref42",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1515/jom-1981-811211",
+          "article-title": "Muscle energy technique: definition, explanation, methods of procedure",
+          "volume": "81",
+          "author": "Goodridge JP",
+          "year": "1981",
+          "unstructured": "Goodridge JP. Muscle energy technique: definition, explanation, methods of procedure. J Am Osteopath Assoc. 1981, 81:249-54.",
+          "journal-title": "J Am Osteopath Assoc"
+        },
+        {
+          "key": "ref43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2021.0411",
+          "article-title": "Effect of high-intensity strength training on knee pain and knee joint compressive forces among adults with knee osteoarthritis: the START Randomized Clinical Trial",
+          "volume": "325",
+          "author": "Messier SP",
+          "year": "2021",
+          "unstructured": "Messier SP, Mihalko SL, Beavers DP, et al.. Effect of high-intensity strength training on knee pain and knee joint compressive forces among adults with knee osteoarthritis: the START Randomized Clinical Trial. JAMA. 2021, 325:646-57. 10.1001/jama.2021.0411",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "ref44",
+          "article-title": "Exercise therapy for muscle and lower motor neuron diseases",
+          "volume": "38",
+          "author": "Sheikh AM",
+          "year": "2019",
+          "unstructured": "Sheikh AM, Vissing J. Exercise therapy for muscle and lower motor neuron diseases. Acta Myol. 2019, 38:215-32.",
+          "journal-title": "Acta Myol"
+        },
+        {
+          "key": "ref45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1113/JP273355",
+          "article-title": "Does exercise increase or decrease pain? Central mechanisms underlying these two phenomena",
+          "volume": "595",
+          "author": "Lima LV",
+          "year": "2017",
+          "unstructured": "Lima LV, Abner TS, Sluka KA. Does exercise increase or decrease pain? Central mechanisms underlying these two phenomena. J Physiol. 2017, 595:4141-50. 10.1113/JP273355",
+          "journal-title": "J Physiol"
+        },
+        {
+          "key": "ref46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.biopha.2022.113361",
+          "article-title": "Mechanical stress protects against chondrocyte pyroptosis through lipoxin A(4) via synovial macrophage M2 subtype polarization in an osteoarthritis model",
+          "volume": "153",
+          "author": "Shen P",
+          "year": "2022",
+          "unstructured": "Shen P, Jia S, Wang Y, et al.. Mechanical stress protects against chondrocyte pyroptosis through lipoxin A(4) via synovial macrophage M2 subtype polarization in an osteoarthritis model. Biomed Pharmacother. 2022, 153:113361. 10.1016/j.biopha.2022.113361",
+          "journal-title": "Biomed Pharmacother"
+        },
+        {
+          "key": "ref47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jht.2015.06.002",
+          "article-title": "First dorsal interosseous muscle contraction results in radiographic reduction of healthy thumb carpometacarpal joint",
+          "volume": "28",
+          "author": "McGee C",
+          "year": "2015",
+          "unstructured": "McGee C, O'Brien V, Van Nortwick S, Adams J, Van Heest A. First dorsal interosseous muscle contraction results in radiographic reduction of healthy thumb carpometacarpal joint. J Hand Ther. 2015, 28:375-80; quiz 381. 10.1016/j.jht.2015.06.002",
+          "journal-title": "J Hand Ther"
+        },
+        {
+          "key": "ref48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jht.2010.11.003",
+          "article-title": "Muscle activation during hand dexterity tasks in women with hand osteoarthritis and control subjects",
+          "volume": "24",
+          "author": "Calder KM",
+          "year": "2011",
+          "unstructured": "Calder KM, Galea V, Wessel J, MacDermid JC, MacIntyre NJ. Muscle activation during hand dexterity tasks in women with hand osteoarthritis and control subjects. J Hand Ther. 2011, 24:207-14; quiz 215. 10.1016/j.jht.2010.11.003",
+          "journal-title": "J Hand Ther"
+        },
+        {
+          "key": "ref49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/joa.13086",
+          "article-title": "Changes in the macroscopic morphology of hip muscles in low back pain",
+          "volume": "236",
+          "author": "Pourahmadi M",
+          "year": "2020",
+          "unstructured": "Pourahmadi M, Asadi M, Dommerholt J, Yeganeh A. Changes in the macroscopic morphology of hip muscles in low back pain. J Anat. 2020, 236:3-20. 10.1111/joa.13086",
+          "journal-title": "J Anat"
+        }
+      ],
+      "container-title": [
+        "Cureus"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.cureus.com/articles/210037-rhizarthrosis-part-ii-a-new-approach-of-manual-therapy-and-therapeutic-exercise",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            9
+          ]
+        ],
+        "date-time": "2024-02-09T20:13:57Z",
+        "timestamp": 1707509637000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.cureus.com/articles/210037-rhizarthrosis-part-ii-a-new-approach-of-manual-therapy-and-therapeutic-exercise"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            26
+          ]
+        ]
+      },
+      "references-count": 49,
+      "URL": "https://doi.org/10.7759/cureus.52999",
+      "relation": {},
+      "ISSN": [
+        "2168-8184"
+      ],
+      "issn-type": [
+        {
+          "value": "2168-8184",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            26
+          ]
+        ]
+      }
+    }
+  }
+}

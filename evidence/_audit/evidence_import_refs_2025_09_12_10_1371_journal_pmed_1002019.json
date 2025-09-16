@@ -1,0 +1,970 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1371_journal_pmed_1002019.md",
+  "id": "evidence_import_refs_2025_09_12_10_1371_journal_pmed_1002019",
+  "doi": "10.1371/journal.pmed.1002019",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:20.259318Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            31
+          ]
+        ],
+        "date-time": "2025-08-31T23:10:38Z",
+        "timestamp": 1756681838114,
+        "version": "3.37.3"
+      },
+      "reference-count": 64,
+      "publisher": "Public Library of Science (PLoS)",
+      "issue": "5",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                5,
+                17
+              ]
+            ],
+            "date-time": "2016-05-17T00:00:00Z",
+            "timestamp": 1463443200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100000925",
+          "name": "National Health and Medical Research Council",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "1075670"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100000925",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100000925",
+          "name": "National Health and Medical Research Council",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "1002081"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100000925",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100000925",
+          "name": "National Health and Medical Research Council",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "1047827"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100000925",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100000925",
+          "name": "National Health and Medical Research Council",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "1061279"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100000925",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "www.plosmedicine.org"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "PLoS Med"
+      ],
+      "DOI": "10.1371/journal.pmed.1002019",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2016,
+            5,
+            17
+          ]
+        ],
+        "date-time": "2016-05-17T17:50:00Z",
+        "timestamp": 1463507400000
+      },
+      "page": "e1002019",
+      "update-policy": "https://doi.org/10.1371/journal.pmed.corrections_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 105,
+      "title": [
+        "Estimating the Risk of Chronic Pain: Development and Validation of a Prognostic Model (PICKUP) for Patients with Acute Low Back Pain"
+      ],
+      "prefix": "10.1371",
+      "volume": "13",
+      "author": [
+        {
+          "given": "Adrian C.",
+          "family": "Traeger",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Nicholas",
+          "family": "Henschke",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Markus",
+          "family": "Hübscher",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christopher M.",
+          "family": "Williams",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Steven J.",
+          "family": "Kamper",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christopher G.",
+          "family": "Maher",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "G. Lorimer",
+          "family": "Moseley",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "James H.",
+          "family": "McAuley",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "340",
+      "published-online": {
+        "date-parts": [
+          [
+            2016,
+            5,
+            17
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref1",
+          "doi-asserted-by": "crossref",
+          "first-page": "743",
+          "DOI": "10.1016/S0140-6736(15)60692-4",
+          "article-title": "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",
+          "volume": "386",
+          "year": "2015",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "ref2",
+          "doi-asserted-by": "crossref",
+          "first-page": "2077",
+          "DOI": "10.1097/BRS.0b013e3181b1fad1",
+          "article-title": "Trends in health care expenditures, utilization, and health status among US adults with spine problems, 1997–2006",
+          "volume": "34",
+          "author": "BI Martin",
+          "year": "2009",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "crossref",
+          "first-page": "363",
+          "DOI": "10.1056/NEJM200102013440508",
+          "article-title": "Low back pain",
+          "volume": "344",
+          "author": "RA Deyo",
+          "year": "2001",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "crossref",
+          "first-page": "75",
+          "DOI": "10.1097/BRS.0b013e318276450f",
+          "article-title": "Costs associated with treatment of chronic low back pain: an analysis of the UK General Practice Research Database",
+          "volume": "38",
+          "author": "J Hong",
+          "year": "2013",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "crossref",
+          "first-page": "447",
+          "DOI": "10.5694/j.1326-5377.2008.tb02119.x",
+          "article-title": "Chronic disease and labour force participation among older Australians",
+          "volume": "189",
+          "author": "DJ Schofield",
+          "year": "2008",
+          "journal-title": "Med J Aust"
+        },
+        {
+          "key": "ref6",
+          "doi-asserted-by": "crossref",
+          "first-page": "1156",
+          "DOI": "10.1097/BRS.0b013e31824481ee",
+          "article-title": "Labor force participation and the influence of having back problems on income poverty in Australia",
+          "volume": "37",
+          "author": "DJ Schofield",
+          "year": "2012",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "ref7",
+          "doi-asserted-by": "crossref",
+          "first-page": "1295",
+          "DOI": "10.1001/jama.2010.344",
+          "article-title": "Will this patient develop persistent disabling low back pain?",
+          "volume": "303",
+          "author": "R Chou",
+          "year": "2010",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "ref8",
+          "doi-asserted-by": "crossref",
+          "first-page": "E613",
+          "DOI": "10.1503/cmaj.111271",
+          "article-title": "The prognosis of acute and persistent low-back pain: a meta-analysis",
+          "volume": "184",
+          "author": "LC Menezes Costa",
+          "year": "2012",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "crossref",
+          "first-page": "E668",
+          "DOI": "10.1097/BRS.0b013e318241e5de",
+          "article-title": "The burden of chronic low back pain: clinical comorbidities, treatment patterns, and health care costs in usual care settings",
+          "volume": "37",
+          "author": "M Gore",
+          "year": "2012",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "crossref",
+          "first-page": "251",
+          "DOI": "10.1001/archinternmed.2008.543",
+          "article-title": "The rising prevalence of chronic low back pain",
+          "volume": "169",
+          "author": "JK Freburger",
+          "year": "2009",
+          "journal-title": "Arch Intern Med"
+        },
+        {
+          "key": "ref11",
+          "doi-asserted-by": "crossref",
+          "first-page": "h444",
+          "DOI": "10.1136/bmj.h444",
+          "article-title": "Multidisciplinary biopsychosocial rehabilitation for chronic low back pain: Cochrane systematic review and meta-analysis",
+          "volume": "350",
+          "author": "SJ Kamper",
+          "year": "2015",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref12",
+          "doi-asserted-by": "crossref",
+          "first-page": "433",
+          "DOI": "10.1002/ajim.10052",
+          "article-title": "Early identification and intervention in the prevention of musculoskeletal pain",
+          "volume": "41",
+          "author": "SJ Linton",
+          "year": "2002",
+          "journal-title": "Am J Ind Med"
+        },
+        {
+          "key": "ref13",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1001381",
+          "DOI": "10.1371/journal.pmed.1001381",
+          "article-title": "Prognosis Research Strategy (PROGRESS) 3: prognostic model research",
+          "volume": "10",
+          "author": "EW Steyerberg",
+          "year": "2013",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "ref14",
+          "doi-asserted-by": "crossref",
+          "first-page": "i348",
+          "DOI": "10.1136/bmj.i348",
+          "article-title": "Walking the tightrope: communicating overdiagnosis in modern healthcare",
+          "volume": "352",
+          "author": "KJ McCaffery",
+          "year": "2016",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref15",
+          "doi-asserted-by": "crossref",
+          "first-page": "f4247",
+          "DOI": "10.1136/bmj.f4247",
+          "article-title": "Too much medicine; too little care",
+          "volume": "347",
+          "author": "P Glasziou",
+          "year": "2013",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref16",
+          "doi-asserted-by": "crossref",
+          "first-page": "1513",
+          "DOI": "10.1001/jama.2012.362",
+          "article-title": "Eliminating waste in US health care",
+          "volume": "307",
+          "author": "DM Berwick",
+          "year": "2012",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "ref17",
+          "doi-asserted-by": "crossref",
+          "first-page": "39",
+          "DOI": "10.1056/NEJMra043186",
+          "article-title": "Trastuzumab—mechanism of action and use in clinical practice",
+          "volume": "357",
+          "author": "CA Hudis",
+          "year": "2007",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "crossref",
+          "first-page": "c6244",
+          "DOI": "10.1136/bmj.c6244",
+          "article-title": "How should we balance individual and population benefits of statins for preventing cardiovascular disease?",
+          "volume": "342",
+          "author": "AD Hingorani",
+          "year": "2011",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref19",
+          "doi-asserted-by": "crossref",
+          "first-page": "1430",
+          "DOI": "10.1136/bmj.332.7555.1430",
+          "article-title": "Diagnosis and treatment of low back pain",
+          "volume": "332",
+          "author": "BW Koes",
+          "year": "2006",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1560",
+          "DOI": "10.1016/S0140-6736(11)60937-9",
+          "article-title": "Comparison of stratified primary care management for low back pain with current best practice (STarT Back): a randomised controlled trial",
+          "volume": "378",
+          "author": "JC Hill",
+          "year": "2011",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "ref21",
+          "doi-asserted-by": "crossref",
+          "first-page": "821",
+          "DOI": "10.1016/j.jclinepi.2015.02.003",
+          "article-title": "Validation and impact analysis of prognostic clinical prediction rules for low back pain is needed: a systematic review",
+          "volume": "68",
+          "author": "R Haskins",
+          "year": "2015",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "ref22",
+          "doi-asserted-by": "crossref",
+          "first-page": "e005505",
+          "DOI": "10.1136/bmjopen-2014-005505",
+          "article-title": "Pain education to prevent chronic low back pain: a study protocol for a randomised controlled trial",
+          "volume": "4",
+          "author": "AC Traeger",
+          "year": "2014",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "ref23",
+          "doi-asserted-by": "crossref",
+          "first-page": "1586",
+          "DOI": "10.1016/S0140-6736(14)60805-9",
+          "article-title": "Efficacy of paracetamol for acute low-back pain: a double-blind, randomised controlled trial",
+          "volume": "384",
+          "author": "CM Williams",
+          "year": "2014",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "ref24",
+          "doi-asserted-by": "crossref",
+          "first-page": "30",
+          "DOI": "10.1186/1745-6215-7-30",
+          "article-title": "Selecting patients for randomized trials: a systematic approach based on risk group",
+          "volume": "7",
+          "author": "AJ Vickers",
+          "year": "2006",
+          "journal-title": "Trials"
+        },
+        {
+          "key": "ref25",
+          "doi-asserted-by": "crossref",
+          "first-page": "287",
+          "DOI": "10.1038/nrd2251",
+          "article-title": "Stratified medicine: strategic and economic implications of combining drugs and clinical biomarkers",
+          "volume": "6",
+          "author": "MR Trusheim",
+          "year": "2007",
+          "journal-title": "Nat Rev Drug Discov"
+        },
+        {
+          "key": "ref26",
+          "doi-asserted-by": "crossref",
+          "first-page": "632",
+          "DOI": "10.1002/art.23563",
+          "article-title": "A primary care back pain screening tool: identifying patient subgroups for initial treatment",
+          "volume": "59",
+          "author": "JC Hill",
+          "year": "2008",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "ref27",
+          "doi-asserted-by": "crossref",
+          "first-page": "321",
+          "DOI": "10.2522/ptj.20120207",
+          "article-title": "The STarT back screening tool and individual psychological measures: evaluation of prognostic capabilities for low back pain clinical outcomes in outpatient physical therapy settings",
+          "volume": "93",
+          "author": "JM Beneciuk",
+          "year": "2013",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "ref28",
+          "doi-asserted-by": "crossref",
+          "first-page": "E494",
+          "DOI": "10.1097/BRS.0b013e31817ba3bb",
+          "article-title": "A systematic review of the predictive ability of the Orebro Musculoskeletal Pain Questionnaire",
+          "volume": "33",
+          "author": "RL Hockings",
+          "year": "2008",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "ref29",
+          "doi-asserted-by": "crossref",
+          "first-page": "120",
+          "DOI": "10.1016/j.math.2015.06.008",
+          "article-title": "Prediction of outcome in patients with low back pain—a prospective cohort study comparing clinicians’ predictions with those of the Start Back Tool",
+          "volume": "21",
+          "author": "A Kongsted",
+          "year": "2016",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "ref30",
+          "doi-asserted-by": "crossref",
+          "first-page": "439",
+          "DOI": "10.1002/ejp.615",
+          "article-title": "Can a back pain screening tool help classify patients with acute pain into risk levels for chronic pain?",
+          "volume": "19",
+          "author": "WE Mehling",
+          "year": "2015",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "ref31",
+          "doi-asserted-by": "crossref",
+          "first-page": "458",
+          "DOI": "10.1097/01.ajp.0000208243.33498.cb",
+          "article-title": "Screening for yellow flags in first-time acute low back pain: reliability and validity of a Norwegian version of the Acute Low Back Pain Screening Questionnaire",
+          "volume": "22",
+          "author": "M Grotle",
+          "year": "2006",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "ref32",
+          "doi-asserted-by": "crossref",
+          "first-page": "e007916",
+          "DOI": "10.1136/bmjopen-2015-007916",
+          "article-title": "Development and validation of a screening tool to predict the risk of chronic low back pain in patients presenting with acute low back pain: a study protocol",
+          "volume": "5",
+          "author": "A Traeger",
+          "year": "2015",
+          "journal-title": "BMJ open"
+        },
+        {
+          "key": "ref33",
+          "doi-asserted-by": "crossref",
+          "first-page": "a171",
+          "DOI": "10.1136/bmj.a171",
+          "article-title": "Prognosis in patients with recent onset low back pain in Australian primary care: inception cohort study",
+          "volume": "337",
+          "author": "N Henschke",
+          "year": "2008",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref34",
+          "doi-asserted-by": "crossref",
+          "first-page": "248",
+          "DOI": "10.1186/1745-6215-14-248",
+          "article-title": "PACE—the first placebo controlled trial of paracetamol for acute low back pain: statistical analysis plan",
+          "volume": "14",
+          "author": "CM Williams",
+          "year": "2013",
+          "journal-title": "Trials"
+        },
+        {
+          "key": "ref35",
+          "doi-asserted-by": "crossref",
+          "first-page": "54",
+          "DOI": "10.1186/1471-2474-7-54",
+          "article-title": "Prognosis of acute low back pain: design of a prospective inception cohort study",
+          "volume": "7",
+          "author": "N Henschke",
+          "year": "2006",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "ref36",
+          "doi-asserted-by": "crossref",
+          "first-page": "851",
+          "DOI": "10.1136/oem.2004.015842",
+          "article-title": "Prognostic factors for duration of sick leave in patients sick listed with acute low back pain: a systematic review of the literature",
+          "volume": "62",
+          "author": "I Steenstra",
+          "year": "2005",
+          "journal-title": "Occup Environ Med"
+        },
+        {
+          "key": "ref37",
+          "doi-asserted-by": "crossref",
+          "first-page": "1881",
+          "DOI": "10.1097/01.brs.0000173901.64181.db",
+          "article-title": "Prognostic factors for low back pain in patients referred for physiotherapy: comparing outcomes and varying modeling techniques",
+          "volume": "30",
+          "author": "GE Bekkering",
+          "year": "2005",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "ref38",
+          "doi-asserted-by": "crossref",
+          "first-page": "E109",
+          "DOI": "10.1097/00007632-200203010-00017",
+          "article-title": "A systematic review of psychological factors as predictors of chronicity/disability in prospective cohorts of low back pain",
+          "volume": "27",
+          "author": "T Pincus",
+          "year": "2002",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "ref39",
+          "doi-asserted-by": "crossref",
+          "first-page": "473",
+          "DOI": "10.1097/00005650-199206000-00002",
+          "article-title": "The MOS 36-item short-form health survey (SF-36). I. Conceptual framework and item selection",
+          "volume": "30",
+          "author": "JE Ware Jr",
+          "year": "1992",
+          "journal-title": "Med Care"
+        },
+        {
+          "key": "ref40",
+          "doi-asserted-by": "crossref",
+          "first-page": "2409",
+          "DOI": "10.1097/00007632-200211010-00016",
+          "article-title": "Episodes of low back pain: a proposal for uniform definitions to be used in research",
+          "volume": "27",
+          "author": "HC de Vet",
+          "year": "2002",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "ref41",
+          "doi-asserted-by": "crossref",
+          "first-page": "16",
+          "DOI": "10.1016/j.jpain.2013.08.009",
+          "article-title": "Intense pain soon after wrist fracture strongly predicts who will develop complex regional pain syndrome: prospective cohort study",
+          "volume": "15",
+          "author": "GL Moseley",
+          "year": "2014",
+          "journal-title": "J Pain"
+        },
+        {
+          "article-title": "Clinical prediction models: a practical approach to development, validation, and updating",
+          "year": "2008",
+          "author": "EW Steyerberg",
+          "key": "ref42"
+        },
+        {
+          "key": "ref43",
+          "doi-asserted-by": "crossref",
+          "first-page": "531",
+          "DOI": "10.1080/00401706.1962.10490038",
+          "article-title": "Transformation of the independent variables",
+          "volume": "4",
+          "author": "GE Box",
+          "year": "1962",
+          "journal-title": "Technometrics"
+        },
+        {
+          "key": "ref44",
+          "doi-asserted-by": "crossref",
+          "first-page": "1714",
+          "DOI": "10.1097/BRS.0b013e3181cd656f",
+          "article-title": "Low back pain in primary care: costs of care and prediction of future health care utilization",
+          "volume": "35",
+          "author": "A Becker",
+          "year": "2010",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "ref45",
+          "doi-asserted-by": "crossref",
+          "first-page": "2543",
+          "DOI": "10.1001/jama.1982.03320430047030",
+          "article-title": "Evaluating the yield of medical tests",
+          "volume": "247",
+          "author": "FE Harrell Jr",
+          "year": "1982",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "ref46",
+          "doi-asserted-by": "crossref",
+          "first-page": "128",
+          "DOI": "10.1097/EDE.0b013e3181c30fb2",
+          "article-title": "Assessing the performance of prediction models: a framework for some traditional and novel measures",
+          "volume": "21",
+          "author": "EW Steyerberg",
+          "year": "2010",
+          "journal-title": "Epidemiology"
+        },
+        {
+          "key": "ref47",
+          "doi-asserted-by": "crossref",
+          "first-page": "457",
+          "DOI": "10.1002/bimj.200810443",
+          "article-title": "The performance of risk prediction models",
+          "volume": "50",
+          "author": "TA Gerds",
+          "year": "2008",
+          "journal-title": "Biom J"
+        },
+        {
+          "key": "ref48",
+          "doi-asserted-by": "crossref",
+          "first-page": "361",
+          "DOI": "10.1002/(SICI)1097-0258(19960229)15:4<361::AID-SIM168>3.0.CO;2-4",
+          "article-title": "Tutorial in biostatistics multivariable prognostic models: issues in developing models, evaluating assumptions and adequacy, and measuring and reducing errors",
+          "volume": "15",
+          "author": "F Harrell",
+          "year": "1996",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "ref49",
+          "doi-asserted-by": "crossref",
+          "first-page": "774",
+          "DOI": "10.1016/S0895-4356(01)00341-9",
+          "article-title": "Internal validation of predictive models: efficiency of some procedures for logistic regression analysis",
+          "volume": "54",
+          "author": "EW Steyerberg",
+          "year": "2001",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "ref50",
+          "doi-asserted-by": "crossref",
+          "first-page": "1388",
+          "DOI": "10.1002/art.38329",
+          "article-title": "Poor sleep quality is strongly associated with subsequent pain intensity in patients with acute low back pain",
+          "volume": "66",
+          "author": "SM Alsaadi",
+          "year": "2014",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "ref51",
+          "doi-asserted-by": "crossref",
+          "first-page": "315",
+          "DOI": "10.1177/1403494814567755",
+          "article-title": "Sleep disturbances predict future sickness absence among individuals with lower back or neck-shoulder pain: a 5-year prospective study",
+          "volume": "43",
+          "author": "K Aili",
+          "year": "2015",
+          "journal-title": "Scand J Public Health"
+        },
+        {
+          "key": "ref52",
+          "doi-asserted-by": "crossref",
+          "first-page": "565",
+          "DOI": "10.1177/0272989X06295361",
+          "article-title": "Decision curve analysis: a novel method for evaluating prediction models",
+          "volume": "26",
+          "author": "AJ Vickers",
+          "year": "2006",
+          "journal-title": "Med Decis Making"
+        },
+        {
+          "year": "2014",
+          "key": "ref53",
+          "article-title": "R: a language and environment for statistical computing"
+        },
+        {
+          "key": "ref54",
+          "doi-asserted-by": "crossref",
+          "first-page": "2075",
+          "DOI": "10.1007/s00586-010-1502-y",
+          "article-title": "An updated overview of clinical guidelines for the management of non-specific low back pain in primary care",
+          "volume": "19",
+          "author": "BW Koes",
+          "year": "2010",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "ref55",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1001380",
+          "DOI": "10.1371/journal.pmed.1001380",
+          "article-title": "Prognosis Research Strategy (PROGRESS) 2: prognostic factor research",
+          "volume": "10",
+          "author": "RD Riley",
+          "year": "2013",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "ref56",
+          "doi-asserted-by": "crossref",
+          "first-page": "e5793",
+          "DOI": "10.1136/bmj.e5793",
+          "article-title": "Prognosis research strategy (PROGRESS) 4: stratified medicine research",
+          "volume": "346",
+          "author": "AD Hingorani",
+          "year": "2013",
+          "journal-title": "BMJ"
+        },
+        {
+          "article-title": "Clinical prediction models: a practical approach to development, validation, and updating",
+          "year": "2008",
+          "author": "EW Steyerberg",
+          "key": "ref57"
+        },
+        {
+          "key": "ref58",
+          "doi-asserted-by": "crossref",
+          "first-page": "1138",
+          "DOI": "10.1016/j.jclinepi.2004.04.003",
+          "article-title": "Automated variable selection methods for logistic regression produced unstable models for predicting acute myocardial infarction mortality",
+          "volume": "57",
+          "author": "PC Austin",
+          "year": "2004",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "ref59",
+          "doi-asserted-by": "crossref",
+          "first-page": "2360",
+          "DOI": "10.1016/j.spinee.2015.07.007",
+          "article-title": "Risk factors for a recurrence of low back pain",
+          "volume": "15",
+          "author": "M Hancock",
+          "year": "2015",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "ref60",
+          "doi-asserted-by": "crossref",
+          "first-page": "463",
+          "DOI": "10.1016/S0140-6736(09)60172-0",
+          "article-title": "Imaging strategies for low-back pain: systematic review and meta-analysis",
+          "volume": "373",
+          "author": "R Chou",
+          "year": "2009",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "ref61",
+          "doi-asserted-by": "crossref",
+          "first-page": "721",
+          "DOI": "10.1016/j.jclinepi.2009.12.008",
+          "article-title": "Missing covariate data in medical research: to impute is better than to ignore",
+          "volume": "63",
+          "author": "KJ Janssen",
+          "year": "2010",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "ref62",
+          "doi-asserted-by": "crossref",
+          "first-page": "146",
+          "DOI": "10.1177/0272989X07312725",
+          "article-title": "Decision curve analysis: a discussion",
+          "volume": "28",
+          "author": "EW Steyerberg",
+          "year": "2008",
+          "journal-title": "Med Decis Making"
+        },
+        {
+          "key": "ref63",
+          "doi-asserted-by": "crossref",
+          "first-page": "124",
+          "DOI": "10.1002/art.24162",
+          "article-title": "Recovery: what does this mean to patients with low back pain?",
+          "volume": "61",
+          "author": "JM Hush",
+          "year": "2009",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "ref64",
+          "doi-asserted-by": "crossref",
+          "first-page": "1182",
+          "DOI": "10.1002/j.1532-2149.2014.00467.x",
+          "article-title": "Predicting rapid recovery from acute low back pain based on the intensity, duration and history of pain: a validation study",
+          "volume": "18",
+          "author": "CM Williams",
+          "year": "2014",
+          "journal-title": "Eur J Pain"
+        }
+      ],
+      "container-title": [
+        "PLOS Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://dx.plos.org/10.1371/journal.pmed.1002019",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            9,
+            19
+          ]
+        ],
+        "date-time": "2020-09-19T22:56:45Z",
+        "timestamp": 1600556205000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://dx.plos.org/10.1371/journal.pmed.1002019"
+        }
+      },
+      "subtitle": [],
+      "editor": [
+        {
+          "given": "Andrew S.C.",
+          "family": "Rice",
+          "sequence": "first",
+          "affiliation": []
+        }
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            5,
+            17
+          ]
+        ]
+      },
+      "references-count": 64,
+      "journal-issue": {
+        "issue": "5",
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              5,
+              17
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1371/journal.pmed.1002019",
+      "relation": {},
+      "ISSN": [
+        "1549-1676"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1549-1676"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            5,
+            17
+          ]
+        ]
+      }
+    }
+  }
+}

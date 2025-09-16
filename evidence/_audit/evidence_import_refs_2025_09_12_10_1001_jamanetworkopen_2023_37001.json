@@ -1,0 +1,850 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1001_jamanetworkopen_2023_37001.md",
+  "id": "evidence_import_refs_2025_09_12_10_1001_jamanetworkopen_2023_37001",
+  "doi": "10.1001/jamanetworkopen.2023.37001",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:11.991367Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T12:31:24Z",
+        "timestamp": 1757680284061
+      },
+      "reference-count": 56,
+      "publisher": "American Medical Association (AMA)",
+      "issue": "10",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "JAMA Netw Open"
+      ],
+      "abstract": "<jats:sec id=\"ab-zoi231079-4\"><jats:title>Importance</jats:title><jats:p>There is a plethora of treatment options for patients with de Quervain tenosynovitis (DQT), but there are limited data on their effectiveness and no definitive management guidelines.</jats:p></jats:sec><jats:sec id=\"ab-zoi231079-5\"><jats:title>Objective</jats:title><jats:p>To assess and compare the effectiveness associated with available treatment options for DQT to guide musculoskeletal practitioners and inform guidelines.</jats:p></jats:sec><jats:sec id=\"ab-zoi231079-6\"><jats:title>Data Sources</jats:title><jats:p>Medline, Embase, PubMed, Cochrane Central, Scopus, OpenGrey.eu, and WorldCat.org were searched for published studies, and the World Health Organization International Clinical Trials Registry Platform, ClinicalTrials.gov, The European Union Clinical Trials Register, and the ISRCTN registry were searched for unpublished and ongoing studies from inception to August 2022.</jats:p></jats:sec><jats:sec id=\"ab-zoi231079-7\"><jats:title>Study Selection</jats:title><jats:p>All randomized clinical trials assessing the effectiveness of any intervention for the management of DQT.</jats:p></jats:sec><jats:sec id=\"ab-zoi231079-8\"><jats:title>Data Extraction and Synthesis</jats:title><jats:p>This study was prospectively registered on PROSPERO and conducted and reported per Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension Statement for Reporting of Systematic Reviews Incorporating Network Meta-analyses of Health Care Interventions (PRISMA-NMA) and PRISMA in Exercise, Rehabilitation, Sport Medicine and Sports Science (PERSIST) guidance. The Cochrane Risk of Bias tool and the Grading of Recommendations, Assessment, Development, and Evaluations tool were used for risk of bias and certainty of evidence assessment for each outcome.</jats:p></jats:sec><jats:sec id=\"ab-zoi231079-9\"><jats:title>Main Outcomes and Measures</jats:title><jats:p>Pairwise and network meta-analyses were performed for patient-reported pain using a visual analogue scale (VAS) and for function using the quick disabilities of the arm, shoulder, and hand (Q-DASH) scale. Mean differences (MD) with their 95% CIs were calculated for the pairwise meta-analyses.</jats:p></jats:sec><jats:sec id=\"ab-zoi231079-10\"><jats:title>Results</jats:title><jats:p>A total of 30 studies with 1663 patients (mean [SD] age, 46 [7] years; 80% female) were included, of which 19 studies were included in quantitative analyses. From the pairwise meta-analyses, based on evidence of moderate certainty, adding thumb spica immobilization for 3 to 4 weeks to a corticosteroid injection (CSI) was associated with statistically but not clinically significant functional benefits in the short-term (MD, 10.5 [95% CI, 6.8-14.1] points) and mid-term (MD, 9.4 [95% CI, 7.0-11.9] points). In the network meta-analysis, interventions that included ultrasonography-guided CSI ranked at the top for pain. CSI with thumb spica immobilization had the highest probability of being the most effective intervention for short- and mid-term function.</jats:p></jats:sec><jats:sec id=\"ab-zoi231079-11\"><jats:title>Conclusions and Relevance</jats:title><jats:p>This network meta-analysis found that adding a short period of thumb spica immobilization to CSI was associated with statistically but not clinically significant short- and mid-term benefits. These findings suggest that administration of CSI followed by 3 to 4 weeks immobilization should be considered as a first-line treatment for patients with DQT.</jats:p></jats:sec>",
+      "DOI": "10.1001/jamanetworkopen.2023.37001",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            27
+          ]
+        ],
+        "date-time": "2023-10-27T15:31:33Z",
+        "timestamp": 1698420693000
+      },
+      "page": "e2337001",
+      "source": "Crossref",
+      "is-referenced-by-count": 16,
+      "title": [
+        "Management of de Quervain Tenosynovitis"
+      ],
+      "prefix": "10.1001",
+      "volume": "6",
+      "author": [
+        {
+          "given": "Dimitris",
+          "family": "Challoumas",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Infection and Immunity, College of Medicine, Veterinary and Life Sciences, University of Glasgow, Glasgow, Scotland"
+            }
+          ]
+        },
+        {
+          "given": "Rohan",
+          "family": "Ramasubbu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Infection and Immunity, College of Medicine, Veterinary and Life Sciences, University of Glasgow, Glasgow, Scotland"
+            }
+          ]
+        },
+        {
+          "given": "Elliot",
+          "family": "Rooney",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Infection and Immunity, College of Medicine, Veterinary and Life Sciences, University of Glasgow, Glasgow, Scotland"
+            }
+          ]
+        },
+        {
+          "given": "Emily",
+          "family": "Seymour-Jackson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Infection and Immunity, College of Medicine, Veterinary and Life Sciences, University of Glasgow, Glasgow, Scotland"
+            }
+          ]
+        },
+        {
+          "given": "Amit",
+          "family": "Putti",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Forth Valley Royal Hospital, Larbert, Scotland"
+            }
+          ]
+        },
+        {
+          "given": "Neal L.",
+          "family": "Millar",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Infection and Immunity, College of Medicine, Veterinary and Life Sciences, University of Glasgow, Glasgow, Scotland"
+            }
+          ]
+        }
+      ],
+      "member": "10",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            27
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "8",
+          "key": "zoi231079r1",
+          "doi-asserted-by": "publisher",
+          "first-page": "1095",
+          "DOI": "10.2522/ptj.20130069",
+          "article-title": "Consensus on a multidisciplinary treatment guideline for de Quervain disease: results from the European HANDGUIDE study.",
+          "volume": "94",
+          "author": "Huisstede",
+          "year": "2014",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "issue": "12",
+          "key": "zoi231079r2",
+          "article-title": "Treatments for de Quervain tenosynovitis.",
+          "volume": "97",
+          "author": "Skef",
+          "year": "2018",
+          "journal-title": "Am Fam Physician"
+        },
+        {
+          "issue": "3",
+          "key": "zoi231079r4",
+          "doi-asserted-by": "publisher",
+          "first-page": "348",
+          "DOI": "10.1177/1558944718810864",
+          "article-title": "Prevalence of a septated first dorsal compartment among patients with and without de Quervain tenosynovitis: an in vivo anatomical study.",
+          "volume": "15",
+          "author": "Beutel",
+          "year": "2020",
+          "journal-title": "Hand (N Y)"
+        },
+        {
+          "issue": "6",
+          "key": "zoi231079r5",
+          "doi-asserted-by": "publisher",
+          "first-page": "927",
+          "DOI": "10.1016/j.jse.2009.03.021",
+          "article-title": "Minimal clinically important differences (MCID) and patient acceptable symptomatic state (PASS) for visual analog scales (VAS) measuring pain in patients treated for rotator cuff disease.",
+          "volume": "18",
+          "author": "Tashjian",
+          "year": "2009",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "issue": "1",
+          "key": "zoi231079r6",
+          "doi-asserted-by": "publisher",
+          "first-page": "30",
+          "DOI": "10.2519/jospt.2014.4893",
+          "article-title": "Minimal clinically important difference of the disabilities of the arm, shoulder and hand outcome measure (DASH) and its shortened version (QuickDASH).",
+          "volume": "44",
+          "author": "Franchignoni",
+          "year": "2014",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "zoi231079r7",
+          "doi-asserted-by": "publisher",
+          "first-page": "l4898",
+          "DOI": "10.1136/bmj.l4898",
+          "article-title": "ROB 2: a revised tool for assessing risk of bias in randomised trials.",
+          "volume": "366",
+          "author": "Sterne",
+          "year": "2019",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "zoi231079r8",
+          "doi-asserted-by": "publisher",
+          "first-page": "g5630",
+          "DOI": "10.1136/bmj.g5630",
+          "article-title": "A GRADE Working Group approach for rating the quality of treatment effect estimates from network meta-analysis.",
+          "volume": "349",
+          "author": "Puhan",
+          "year": "2014",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "zoi231079r9",
+          "doi-asserted-by": "publisher",
+          "first-page": "S5",
+          "DOI": "10.1016/0895-4356(96)89170-0",
+          "article-title": "Treatment of de Quervain tenosynovitis: a prospective randomized controlled study comparing the results of steroid injection with and without immobilization in a splint.",
+          "volume": "49",
+          "author": "Kosuwon",
+          "year": "1996",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "2",
+          "key": "zoi231079r10",
+          "doi-asserted-by": "publisher",
+          "first-page": "160",
+          "DOI": "10.1097/BCO.0000000000000734",
+          "article-title": "Effect of dose of the corticosteroid injected locally on inflammatory diseases.",
+          "volume": "20",
+          "author": "Heshmati",
+          "year": "2019",
+          "journal-title": "Curr Orthop Pract"
+        },
+        {
+          "issue": "5",
+          "key": "zoi231079r11",
+          "first-page": "4",
+          "article-title": "De Quervain’s disease—a randomised prospective study evaluating the efficacy of steroid and conservative management.",
+          "volume": "3",
+          "author": "Ansari",
+          "year": "2014",
+          "journal-title": "Int J Pharm Sci Invent"
+        },
+        {
+          "issue": "2",
+          "key": "zoi231079r12",
+          "doi-asserted-by": "publisher",
+          "first-page": "322",
+          "DOI": "10.1053/jhsu.2002.32084",
+          "article-title": "Comparison of nonsurgical treatment measures for de Quervain’s disease of pregnancy and lactation.",
+          "volume": "27",
+          "author": "Avci",
+          "year": "2002",
+          "journal-title": "J Hand Surg Am"
+        },
+        {
+          "issue": "12",
+          "key": "zoi231079r13",
+          "doi-asserted-by": "publisher",
+          "first-page": "730",
+          "DOI": "10.1016/S0031-9406(05)60716-X",
+          "article-title": "Effect of low level lasers in de Quervains tenosynovitis: prospective study with ultrasonographic assessment.",
+          "volume": "88",
+          "author": "Sharma",
+          "year": "2002",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "issue": "12",
+          "key": "zoi231079r14",
+          "doi-asserted-by": "publisher",
+          "first-page": "2700",
+          "DOI": "10.2106/00004623-200412000-00017",
+          "article-title": "Treatment of de Quervain disease with triamcinolone injection with or without nimesulide: a randomized, double-blind, placebo-controlled trial.",
+          "volume": "86",
+          "author": "Jirarattanaphochai",
+          "year": "2004",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "issue": "10",
+          "key": "zoi231079r15",
+          "doi-asserted-by": "publisher",
+          "first-page": "1513",
+          "DOI": "10.1016/j.jhsa.2007.08.002",
+          "article-title": "Extra-articular steroid injection: early patient response and the incidence of flare reaction.",
+          "volume": "32",
+          "author": "Goldfarb",
+          "year": "2007",
+          "journal-title": "J Hand Surg Am"
+        },
+        {
+          "issue": "1",
+          "key": "zoi231079r16",
+          "doi-asserted-by": "publisher",
+          "first-page": "131",
+          "DOI": "10.1186/1471-2474-10-131",
+          "article-title": "Randomised controlled trial of local corticosteroid injections for de Quervain’s tenosynovitis in general practice.",
+          "volume": "10",
+          "author": "Peters-Veluthamaningal",
+          "year": "2009",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "4",
+          "key": "zoi231079r17",
+          "first-page": "270",
+          "article-title": "Methylprednisolone acetate injection plus casting versus casting alone for the treatment of de Quervain’s tenosynovitis.",
+          "volume": "13",
+          "author": "Mehdinasab",
+          "year": "2010",
+          "journal-title": "Arch Iran Med"
+        },
+        {
+          "issue": "2",
+          "key": "zoi231079r18",
+          "doi-asserted-by": "publisher",
+          "first-page": "398",
+          "DOI": "10.1177/0363546510382858",
+          "article-title": "Improved corticosteroid treatment of recalcitrant de Quervain tenosynovitis with a novel 4-point injection technique.",
+          "volume": "39",
+          "author": "Pagonis",
+          "year": "2011",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "issue": "2",
+          "key": "zoi231079r19",
+          "doi-asserted-by": "publisher",
+          "first-page": "91",
+          "DOI": "10.5001/omj.2011.23",
+          "article-title": "De Qeurvian tenosynovitis: clinical outcomes of surgical treatment with longitudinal and transverse incision.",
+          "volume": "26",
+          "author": "Abrisham",
+          "year": "2011",
+          "journal-title": "Oman Med J"
+        },
+        {
+          "issue": "2",
+          "key": "zoi231079r20",
+          "doi-asserted-by": "publisher",
+          "first-page": "263",
+          "DOI": "10.5372/1905-7415.0502.035",
+          "article-title": "Elastic bandage vs neoprene thumb stabilizer splint in acute De Quervain’s tenosynovitis.",
+          "volume": "5",
+          "author": "Jongprasitkul",
+          "year": "2011",
+          "journal-title": "Asian Biomed"
+        },
+        {
+          "issue": "6",
+          "key": "zoi231079r21",
+          "doi-asserted-by": "publisher",
+          "first-page": "523",
+          "DOI": "10.1177/1753193411427829",
+          "article-title": "In de Quervain’s with a separate EPB compartment, ultrasound-guided steroid injection is more effective than a clinical injection technique: a prospective open-label study.",
+          "volume": "37",
+          "author": "Kume",
+          "year": "2012",
+          "journal-title": "J Hand Surg Eur Vol"
+        },
+        {
+          "issue": "7",
+          "key": "zoi231079r22",
+          "doi-asserted-by": "publisher",
+          "first-page": "947",
+          "DOI": "10.1302/0301-620X.95B7.31486",
+          "article-title": "Endoscopic versus open release in patients with de Quervain’s tenosynovitis: a randomised trial.",
+          "volume": "95-B",
+          "author": "Kang",
+          "year": "2013",
+          "journal-title": "Bone Joint J"
+        },
+        {
+          "issue": "4",
+          "key": "zoi231079r23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1142/S021895771350019X",
+          "article-title": "Comparison between kinesio taping and physiotherapy in the treatment of de Quervain’s disease.",
+          "volume": "16",
+          "author": "Homayouni",
+          "year": "2013",
+          "journal-title": "J Musculoskelet Res"
+        },
+        {
+          "issue": "3",
+          "key": "zoi231079r24",
+          "doi-asserted-by": "publisher",
+          "first-page": "115",
+          "DOI": "10.1016/j.jams.2013.10.003",
+          "article-title": "Efficacy of acupuncture versus local methylprednisolone acetate injection in De Quervain’s tenosynovitis: a randomized controlled trial.",
+          "volume": "7",
+          "author": "Hadianfard",
+          "year": "2014",
+          "journal-title": "J Acupunct Meridian Stud"
+        },
+        {
+          "issue": "1",
+          "key": "zoi231079r25",
+          "doi-asserted-by": "publisher",
+          "first-page": "37",
+          "DOI": "10.1016/j.jhsa.2013.10.013",
+          "article-title": "Corticosteroid injection with or without thumb spica cast for de Quervain tenosynovitis.",
+          "volume": "39",
+          "author": "Mardani-Kivi",
+          "year": "2014",
+          "journal-title": "J Hand Surg Am"
+        },
+        {
+          "issue": "1",
+          "key": "zoi231079r26",
+          "doi-asserted-by": "publisher",
+          "first-page": "49",
+          "DOI": "10.1007/s12306-015-0388-6",
+          "article-title": "Outcome of longitudinal versus transverse incision in de Quervain’s disease and its implications in Indian population.",
+          "volume": "100",
+          "author": "Kumar",
+          "year": "2016",
+          "journal-title": "Musculoskelet Surg"
+        },
+        {
+          "issue": "5",
+          "key": "zoi231079r27",
+          "doi-asserted-by": "publisher",
+          "first-page": "1512",
+          "DOI": "10.1007/s00330-014-3515-0",
+          "article-title": "Ultrasound-guided percutaneous injection to treat de Quervain’s disease using three different techniques: a randomized controlled trial.",
+          "volume": "25",
+          "author": "Orlandi",
+          "year": "2015",
+          "journal-title": "Eur Radiol"
+        },
+        {
+          "issue": "1",
+          "key": "zoi231079r28",
+          "doi-asserted-by": "publisher",
+          "first-page": "2",
+          "DOI": "10.1016/j.jotr.2014.04.001",
+          "article-title": "De Quervain’s tenosynovitis and phonophoresis: a randomised controlled trial in pregnant females.",
+          "volume": "19",
+          "author": "Tabinda",
+          "year": "2015",
+          "journal-title": "J Orthop Trauma Rehabil."
+        },
+        {
+          "issue": "8",
+          "key": "zoi231079r29",
+          "doi-asserted-by": "publisher",
+          "first-page": "1563",
+          "DOI": "10.1007/s00264-015-2779-6",
+          "article-title": "A prospective randomized clinical trial of prescription of full-time versus as-desired splint wear for de Quervain tendinopathy.",
+          "volume": "39",
+          "author": "Menendez",
+          "year": "2015",
+          "journal-title": "Int Orthop"
+        },
+        {
+          "issue": "5",
+          "key": "zoi231079r30",
+          "doi-asserted-by": "publisher",
+          "first-page": "542",
+          "DOI": "10.4103/0019-5413.164050",
+          "article-title": "Outcome of low level lasers versus ultrasonic therapy in de Quervain’s tenosynovitis.",
+          "volume": "49",
+          "author": "Sharma",
+          "year": "2015",
+          "journal-title": "Indian J Orthop"
+        },
+        {
+          "issue": "4",
+          "key": "zoi231079r31",
+          "doi-asserted-by": "publisher",
+          "first-page": "691",
+          "DOI": "10.3233/BMR-160591",
+          "article-title": "Effectiveness of therapeutic ultrasound with or without thumb spica splint in the management of de Quervain’s disease.",
+          "volume": "30",
+          "author": "Awan",
+          "year": "2017",
+          "journal-title": "J Back Musculoskelet Rehabil"
+        },
+        {
+          "issue": "12",
+          "key": "zoi231079r32",
+          "doi-asserted-by": "publisher",
+          "first-page": "1344",
+          "DOI": "10.1166/jbt.2017.1703",
+          "article-title": "A prospective randomized clinical trial of platelet-rich plasma used in surgery for de Quervain tendinopathy.",
+          "volume": "7",
+          "author": "Lu",
+          "year": "2019",
+          "journal-title": "J Biomater Tissue Eng"
+        },
+        {
+          "issue": "4",
+          "key": "zoi231079r33",
+          "doi-asserted-by": "publisher",
+          "first-page": "145",
+          "DOI": "10.4103/ijoth.ijoth_26_19",
+          "article-title": "Comparison between myofascial release and myofascial taping as an adjunct to conventional occupational therapy in the management of dequervain’s tenosynovitis: a randomized controlled trial.",
+          "volume": "51",
+          "author": "Abdulkader",
+          "year": "2019",
+          "journal-title": "Indian J Occup Therapy"
+        },
+        {
+          "issue": "6",
+          "key": "zoi231079r34",
+          "doi-asserted-by": "publisher",
+          "first-page": "628",
+          "DOI": "10.1097/SAP.0000000000001860",
+          "article-title": "Tendon subluxation after surgical release of the first dorsal compartment in de Quervain disease.",
+          "volume": "82",
+          "author": "Kim",
+          "year": "2019",
+          "journal-title": "Ann Plast Surg"
+        },
+        {
+          "issue": "2",
+          "key": "zoi231079r35",
+          "doi-asserted-by": "publisher",
+          "first-page": "215",
+          "DOI": "10.1177/1558944718791187",
+          "article-title": "Nonsurgical treatment of de Quervain tenosynovitis: a prospective randomized trial.",
+          "volume": "15",
+          "author": "Ippolito",
+          "year": "2020",
+          "journal-title": "Hand (N Y)"
+        },
+        {
+          "issue": "8",
+          "key": "zoi231079r36",
+          "doi-asserted-by": "publisher",
+          "first-page": "1314",
+          "DOI": "10.5455/JPMA.",
+          "article-title": "Methylprednisolone acetate injection with casting versus casting alone for the treatment of de Quervain’s tenosynovitis: a randomized controlled trial.",
+          "volume": "70",
+          "author": "Akhtar",
+          "year": "2020",
+          "journal-title": "J Pak Med Assoc"
+        },
+        {
+          "issue": "8",
+          "key": "zoi231079r37",
+          "first-page": "5635",
+          "article-title": "Management of de Quervain tendinitis using corticosteroid injection (CSI) with or without thumb spica cast (TSC).",
+          "volume": "7",
+          "author": "Kumar",
+          "year": "2021",
+          "journal-title": "Eur J Mol Clin Med"
+        },
+        {
+          "issue": "2",
+          "key": "zoi231079r38",
+          "doi-asserted-by": "publisher",
+          "first-page": "301",
+          "DOI": "10.1016/j.otsr.2019.11.015",
+          "article-title": "Prospective randomized comparison of ultrasonography-guided and blind corticosteroid injection for de Quervain’s disease.",
+          "volume": "106",
+          "author": "Shin",
+          "year": "2020",
+          "journal-title": "Orthop Traumatol Surg Res"
+        },
+        {
+          "issue": "8",
+          "key": "zoi231079r39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5812/semj",
+          "article-title": "The effect of extracorporeal shockwave therapy on de Quervain tenosynovitis: a clinical trial.",
+          "volume": "22",
+          "author": "Haghighat",
+          "year": "2021",
+          "journal-title": "Shiraz E Med J"
+        },
+        {
+          "issue": "8",
+          "key": "zoi231079r40",
+          "doi-asserted-by": "publisher",
+          "first-page": "1391",
+          "DOI": "10.1007/s00484-021-02111-2",
+          "article-title": "Paraffin bath therapy in de Quervain’s tenosynovitis: a single-blind randomized controlled trial.",
+          "volume": "65",
+          "author": "Karlibel",
+          "year": "2021",
+          "journal-title": "Int J Biometeorol"
+        },
+        {
+          "issue": "1",
+          "key": "zoi231079r41",
+          "doi-asserted-by": "publisher",
+          "first-page": "35",
+          "DOI": "10.4103/jms.jms_125_20",
+          "article-title": "Efficacy of thumb abduction orthosis versus local methylprednisolone acetate injection in de Quervain’s tenosynovitis: a randomized controlled trial.",
+          "volume": "35",
+          "author": "Das",
+          "year": "2021",
+          "journal-title": "J Med Soc"
+        },
+        {
+          "issue": "35",
+          "key": "zoi231079r42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/MD.0000000000027067",
+          "article-title": "The effectiveness of corticosteroid injection and splint in diabetic de Quervain’s tenosynovitis patients: a single-blind, randomized clinical consort study.",
+          "volume": "100",
+          "author": "Basar",
+          "year": "2021",
+          "journal-title": "Medicine (Baltimore)"
+        },
+        {
+          "issue": "10",
+          "key": "zoi231079r43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/ijcp.v75.10",
+          "article-title": "Effects of local anaesthetics (neural therapy) on pain and hand functions in patients with de Quervain tenosynovitis: a prospective randomised controlled study.",
+          "volume": "75",
+          "author": "Bölük Senlikci",
+          "year": "2021",
+          "journal-title": "Int J Clin Pract"
+        },
+        {
+          "issue": "5",
+          "key": "zoi231079r44",
+          "doi-asserted-by": "publisher",
+          "first-page": "377",
+          "DOI": "10.1055/s-0041-1725171",
+          "article-title": "Is Pulley reconstruction better than pulley release for de Quervain’s tenosynovitis: a double-blind randomized controlled trial.",
+          "volume": "10",
+          "author": "Salim",
+          "year": "2021",
+          "journal-title": "J Wrist Surg"
+        },
+        {
+          "issue": "4",
+          "key": "zoi231079r45",
+          "doi-asserted-by": "publisher",
+          "first-page": "762",
+          "DOI": "10.1097/CORR.0000000000002018",
+          "article-title": "Is a steroid injection in both compartments more effective than an injection in the extensor pollicis brevis subcompartment alone in patients with de Quervain Disease: a randomized, controlled trial.",
+          "volume": "480",
+          "author": "Jung",
+          "year": "2022",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "issue": "5",
+          "key": "zoi231079r46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/GOX.0000000000004305",
+          "article-title": "Surgical treatment outcome of de Quervain’s disease: a systematic review and meta-analysis.",
+          "volume": "10",
+          "author": "Bosman",
+          "year": "2022",
+          "journal-title": "Plast Reconstr Surg Glob Open"
+        },
+        {
+          "issue": "3",
+          "key": "zoi231079r47",
+          "doi-asserted-by": "publisher",
+          "first-page": "348",
+          "DOI": "10.1177/1558944718810864",
+          "article-title": "Prevalence of a septated first dorsal compartment among patients with and without de Quervain tenosynovitis: an in vivo anatomical study.",
+          "volume": "15",
+          "author": "Beutel",
+          "year": "2020",
+          "journal-title": "Hand (N Y)"
+        },
+        {
+          "issue": "4",
+          "key": "zoi231079r48",
+          "doi-asserted-by": "publisher",
+          "first-page": "719",
+          "DOI": "10.1016/j.jhsa.2008.12.015",
+          "article-title": "Thumb interphalangeal joint extension by the extensor pollicis brevis: association with a subcompartment and de Quervain’s disease.",
+          "volume": "34",
+          "author": "Alemohammad",
+          "year": "2009",
+          "journal-title": "J Hand Surg Am"
+        },
+        {
+          "issue": "5",
+          "key": "zoi231079r49",
+          "doi-asserted-by": "publisher",
+          "first-page": "840",
+          "DOI": "10.1016/S0363-5023(98)80160-3",
+          "article-title": "Limited surgical treatment of de Quervain’s disease: decompression of only the extensor pollicis brevis subcompartment.",
+          "volume": "23",
+          "author": "Yuasa",
+          "year": "1998",
+          "journal-title": "J Hand Surg Am"
+        },
+        {
+          "issue": "1",
+          "key": "zoi231079r50",
+          "doi-asserted-by": "publisher",
+          "first-page": "14",
+          "DOI": "10.1097/BTH.0000000000000402",
+          "article-title": "Partial resection of first dorsal compartment extensor retinaculum in de Quervain’s stenosing tendovaginitis release.",
+          "volume": "27",
+          "author": "Monárrez",
+          "year": "2023",
+          "journal-title": "Tech Hand Up Extrem Surg"
+        },
+        {
+          "issue": "1",
+          "key": "zoi231079r51",
+          "doi-asserted-by": "publisher",
+          "first-page": "831",
+          "DOI": "10.1186/s12891-022-05784-x",
+          "article-title": "Comparison of the effect of ketorolac versus triamcinolone acetonide injections for the treatment of de Quervain’s tenosynovitis: a double-blind randomized controlled trial.",
+          "volume": "23",
+          "author": "Suwannaphisit",
+          "year": "2022",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "3",
+          "key": "zoi231079r52",
+          "article-title": "Corticosteroid injection for de Quervain’s tenosynovitis.",
+          "author": "Peters-Veluthamaningal",
+          "year": "2009",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "zoi231079r53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.amsu.2022.103620",
+          "article-title": "Effectiveness of surgical interventions for treating de Quervain’s disease: a systematic review and meta-analysis.",
+          "volume": "77",
+          "author": "Suwannaphisit",
+          "year": "2022",
+          "journal-title": "Ann Med Surg (Lond)"
+        },
+        {
+          "issue": "2",
+          "key": "zoi231079r54",
+          "doi-asserted-by": "publisher",
+          "first-page": "149",
+          "DOI": "10.1007/s00590-012-1164-z",
+          "article-title": "Systematic review and meta-analysis on steroid injection therapy for de Quervain’s tenosynovitis in adults.",
+          "volume": "24",
+          "author": "Ashraf",
+          "year": "2014",
+          "journal-title": "Eur J Orthop Surg Traumatol"
+        },
+        {
+          "issue": "1",
+          "key": "zoi231079r55",
+          "doi-asserted-by": "publisher",
+          "first-page": "3",
+          "DOI": "10.1016/j.jht.2015.10.004",
+          "article-title": "Hand therapy versus corticosteroid injections in the treatment of de Quervain’s disease: a systematic review and meta-analysis.",
+          "volume": "29",
+          "author": "Cavaleri",
+          "year": "2016",
+          "journal-title": "J Hand Ther"
+        },
+        {
+          "issue": "8",
+          "key": "zoi231079r56",
+          "doi-asserted-by": "publisher",
+          "first-page": "1635",
+          "DOI": "10.1016/j.apmr.2017.07.014",
+          "article-title": "Effectiveness of conservative, surgical, and postsurgical interventions for trigger finger, Dupuytren disease, and de Quervain disease: a systematic review.",
+          "volume": "99",
+          "author": "Huisstede",
+          "year": "2018",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "zoi231079r3",
+          "first-page": "1392",
+          "volume-title": "Rosen’s Emergency Medicine: Concepts and Clinical Practice",
+          "author": "Hogrefe",
+          "year": "2018"
+        }
+      ],
+      "container-title": [
+        "JAMA Network Open"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2811119/challoumas_2023_oi_231079_1697662039.63331.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            27
+          ]
+        ],
+        "date-time": "2023-10-27T15:31:40Z",
+        "timestamp": 1698420700000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2811119"
+        }
+      },
+      "subtitle": [
+        "A Systematic Review and Network Meta-Analysis"
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            27
+          ]
+        ]
+      },
+      "references-count": 56,
+      "journal-issue": {
+        "issue": "10",
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              10,
+              2
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1001/jamanetworkopen.2023.37001",
+      "relation": {},
+      "ISSN": [
+        "2574-3805"
+      ],
+      "issn-type": [
+        {
+          "value": "2574-3805",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            27
+          ]
+        ]
+      }
+    }
+  }
+}

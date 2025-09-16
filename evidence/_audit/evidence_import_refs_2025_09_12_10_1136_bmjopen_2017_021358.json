@@ -1,0 +1,581 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_bmjopen_2017_021358.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_bmjopen_2017_021358",
+  "doi": "10.1136/bmjopen-2017-021358",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:51.349563Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            4
+          ]
+        ],
+        "date-time": "2025-05-04T22:04:06Z",
+        "timestamp": 1746396246475,
+        "version": "3.37.3"
+      },
+      "reference-count": 41,
+      "publisher": "BMJ",
+      "issue": "9",
+      "funder": [
+        {
+          "DOI": "10.13039/501100023490",
+          "name": "IMK Foundation",
+          "doi-asserted-by": "crossref",
+          "id": [
+            {
+              "id": "10.13039/501100023490",
+              "id-type": "DOI",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100010099",
+          "name": "Dansk Kiropraktor Forening",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100010099",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100006356",
+          "name": "Syddansk Universitet",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100006356",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100004825",
+          "name": "Nordea-fonden",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100004825",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "BMJ Open"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2018,
+            8,
+            10
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            9
+          ]
+        ]
+      },
+      "abstract": "<jats:sec><jats:title>Background</jats:title><jats:p>A substantial number of children experience spinal pain, that is, back and/or neck pain. Today, no ‘gold-standard’ treatment for spinal pain in children exists, but manipulative therapy is increasingly being used in spite of a lack of evidence of its effectiveness. This study investigates the effectiveness of adding manipulative therapy to other conservative care for spinal pain in a school-based cohort of Danish children aged 9–15 years.</jats:p></jats:sec><jats:sec><jats:title>Methods and findings</jats:title><jats:p>The design was a two-arm pragmatic randomised controlled trial, nested in a longitudinal open cohort study in Danish public schools. 238 children from 13 public schools were randomised individually from February 2012 to April 2014. A text message system and clinical examinations were used for data collection. Interventions included either (1) advice, exercises and soft-tissue treatment or (2) advice, exercises and soft-tissue treatment plus manipulative therapy. The primary outcome was number of recurrences of spinal pain. Secondary outcomes were duration of spinal pain, change in pain intensity and Global Perceived Effect.</jats:p><jats:p>We found no significant difference between groups in the primary outcome (control group median 1 (IQR 1–3) and intervention group 2 (IQR 0–4), p=0.07). Children in the group receiving manipulative therapy reported a higher Global Perceived Effect: OR 2.22, (95% CI 1.19 to 4.15). No adverse events were reported. Main limitations are the potential discrepancy between parental and child reporting and that the study population may not be comparable to a normal care-seeking population.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>Adding manipulative therapy to other conservative care in school children with spinal pain did not result in fewer recurrent episodes. The choice of treatment—if any—for spinal pain in children therefore relies on personal preferences, and could include conservative care with and without manipulative therapy. Participants in this trial may differ from a normal care-seeking population.</jats:p></jats:sec><jats:sec><jats:title>Trial registration number</jats:title><jats:p><jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"NCT01504698\" ext-link-type=\"clintrialgov\" specific-use=\"clinicaltrial results\">NCT01504698</jats:ext-link>; Results.</jats:p></jats:sec>",
+      "DOI": "10.1136/bmjopen-2017-021358",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2020,
+            5,
+            7
+          ]
+        ],
+        "date-time": "2020-05-07T22:08:12Z",
+        "timestamp": 1588889292000
+      },
+      "page": "e021358",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 18,
+      "title": [
+        "Conservative care with or without manipulative therapy in the management of back and/or neck pain in Danish children aged 9–15: a randomised controlled trial nested in a school-based cohort"
+      ],
+      "prefix": "10.1136",
+      "volume": "8",
+      "clinical-trial-number": [
+        {
+          "clinical-trial-number": "nct01504698",
+          "registry": "10.18810/clinical-trials-gov",
+          "type": "results"
+        }
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-0589-0121",
+          "authenticated-orcid": false,
+          "given": "Kristina Boe",
+          "family": "Dissing",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Jan",
+          "family": "Hartvigsen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Niels",
+          "family": "Wedderkopp",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lise",
+          "family": "Hestbæk",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            9,
+            10
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2024051712245784000_8.9.e021358.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-199801150-00015"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.2",
+          "doi-asserted-by": "crossref",
+          "first-page": "187",
+          "DOI": "10.1186/1471-2474-15-187",
+          "article-title": "Spinal pain in adolescents: prevalence, incidence, and course: a school-based two-year prospective cohort study in 1,300 Danes aged 11-13",
+          "volume": "15",
+          "author": "Aartun",
+          "year": "2014",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.3",
+          "doi-asserted-by": "crossref",
+          "first-page": "67",
+          "DOI": "10.1186/s12891-017-1424-5",
+          "article-title": "Spinal pain in Danish school children – how often and how long? The CHAMPS Study-DK",
+          "volume": "18",
+          "author": "Dissing",
+          "year": "2017",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.4",
+          "doi-asserted-by": "crossref",
+          "first-page": "275",
+          "DOI": "10.1590/bjpt-rbf.2014.0149",
+          "article-title": "Musculoskeletal pain in children and adolescents",
+          "volume": "20",
+          "author": "Kamper",
+          "year": "2016",
+          "journal-title": "Braz J Phys Ther"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-199705150-00013"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.6",
+          "doi-asserted-by": "crossref",
+          "first-page": "807",
+          "DOI": "10.1007/s00431-017-2915-y",
+          "article-title": "Spinal pain and co-occurrence with stress and general well-being among young adolescents: a study within the Danish National Birth Cohort",
+          "volume": "176",
+          "author": "Stallknecht",
+          "year": "2017",
+          "journal-title": "Eur J Pediatr"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ejpain.2003.08.001"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000199958.04073.d9"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.9",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1186/1746-1340-18-15",
+          "article-title": "The evidence base for chiropractic treatment of musculoskeletal conditions in children and adolescents: The emperor’s new suit?",
+          "volume": "18",
+          "author": "Hestbaek",
+          "year": "2010",
+          "journal-title": "Chiropr Osteopat"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.10",
+          "unstructured": "Thomas F , Bergmann DHP . Chiropractic Technique. Principles and Procedures. 3rd ed. Missouri: United States of America:  Elsevier Mosby, 2011:35–74."
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.11",
+          "first-page": "1",
+          "article-title": "Use of complementary health approaches among children aged 4-17 years in the United States: National Health Interview Survey, 2007-2012",
+          "volume": "78",
+          "author": "Black",
+          "year": "2015",
+          "journal-title": "Natl Health Stat Report"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1089/acm.2011.0268"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.13",
+          "doi-asserted-by": "crossref",
+          "first-page": "648",
+          "DOI": "10.1016/j.jelekin.2012.01.006",
+          "article-title": "Epidemiology: spinal manipulation utilization",
+          "volume": "22",
+          "author": "Hurwitz",
+          "year": "2012",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1746-1340-18-3"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.15",
+          "doi-asserted-by": "crossref",
+          "first-page": "627",
+          "DOI": "10.1097/BRS.0b013e31827733e7",
+          "article-title": "Adding chiropractic manipulative therapy to standard medical care for patients with acute low back pain: results of a pragmatic randomized comparative effectiveness study",
+          "volume": "38",
+          "author": "Goertz",
+          "year": "2013",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.16",
+          "doi-asserted-by": "crossref",
+          "first-page": "201",
+          "DOI": "10.1002/ejp.931",
+          "article-title": "Clinical practice guidelines for the noninvasive management of low back pain: A systematic review by the Ontario Protocol for Traffic Injury Management (OPTIMa) Collaboration",
+          "volume": "21",
+          "author": "Wong",
+          "year": "2017",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.17",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Stochkendahl MJ , Kjaer P , Hartvigsen J , et al . National Clinical Guidelines for non-surgical treatment of patients with recent onset low back pain or lumbar radiculopathy. Eur Spine J 2018;27.doi:10.1007/s00586-017-5099-2",
+          "DOI": "10.1007/s00586-017-5099-2"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-010-1502-y"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.19",
+          "doi-asserted-by": "crossref",
+          "first-page": "1297",
+          "DOI": "10.1097/j.pain.0000000000001211",
+          "article-title": "Spinal manipulation and exercise for low back pain in adolescents: a randomized trial",
+          "volume": "159",
+          "author": "Evans",
+          "year": "2018",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.20",
+          "first-page": "128",
+          "article-title": "The use of spinal manipulative therapy for pediatric health conditions: a systematic review of the literature",
+          "volume": "56",
+          "author": "Gleberzon",
+          "year": "2012",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2431-12-128"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.22",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1186/s12998-016-0086-y",
+          "article-title": "Conservative care with or without manipulative therapy in the management of back and neck pain in Danish children aged 9-15. Study protocol for a randomized controlled trial",
+          "volume": "24",
+          "author": "Dissing",
+          "year": "2016",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2009.03.002"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmpt.2006.06.011"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.25",
+          "doi-asserted-by": "crossref",
+          "first-page": "154",
+          "DOI": "10.1179/2042618615Y.0000000012",
+          "article-title": "Safety of thrust joint manipulation in the thoracic spine: a systematic review",
+          "volume": "23",
+          "author": "Puentedura",
+          "year": "2015",
+          "journal-title": "J Man Manip Ther"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.26",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Todd AJ , Carroll MT , Robinson A , et al . Adverse Events Due to Chiropractic and Other Manual Therapies for Infants and Children: A Review of the Literature. J Manipulative Physiol Ther 2015;38.doi:10.1016/j.jmpt.2014.09.008",
+          "DOI": "10.1016/j.jmpt.2014.09.008"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.27",
+          "first-page": "37",
+          "article-title": "Compensation claims for chiropractic in Denmark and Norway 2004-2012",
+          "volume": "22",
+          "author": "Jevne",
+          "year": "2014",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.28",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1186/1471-2474-15-77",
+          "article-title": "Adverse events after manual therapy among patients seeking care for neck and/or back pain: a randomized controlled trial",
+          "volume": "15",
+          "author": "Paanalahti",
+          "year": "2014",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-014-3461-1"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ejpain.2009.07.002"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.31",
+          "doi-asserted-by": "crossref",
+          "first-page": "297",
+          "DOI": "10.1016/j.jpain.2012.12.004",
+          "article-title": "Is the verbal numerical rating scale a valid tool for assessing pain intensity in children below 8 years of age?",
+          "volume": "14",
+          "author": "Castarlenas",
+          "year": "2013",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ejpain.2003.09.004"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1213/ANE.0b013e318203f495"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2009.09.009"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.35",
+          "doi-asserted-by": "crossref",
+          "first-page": "888",
+          "DOI": "10.1007/s00586-013-3149-y",
+          "article-title": "\"I know it’s changed\": a mixed-methods study of the meaning of Global Perceived Effect in chronic neck pain patients",
+          "volume": "23",
+          "author": "Evans",
+          "year": "2014",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.36",
+          "doi-asserted-by": "crossref",
+          "first-page": "67",
+          "DOI": "10.1186/s12891-017-1424-5",
+          "article-title": "Spinal pain in Danish school children - how often and how long? The CHAMPS Study-DK",
+          "volume": "18",
+          "author": "Dissing",
+          "year": "2017",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2011.07.012"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1746-1340-18-10"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.39",
+          "doi-asserted-by": "crossref",
+          "first-page": "24:24",
+          "DOI": "10.1186/s12998-016-0104-0",
+          "article-title": "Whose pain is it anyway? Comparability of pain reports from children and their parents",
+          "volume": "24",
+          "author": "Kamper",
+          "year": "2016",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.40",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/1471-2458-6-276",
+          "article-title": "Child-parent agreement on reports of disease, injury and pain",
+          "volume": "6",
+          "author": "Sundblad",
+          "year": "2006",
+          "journal-title": "BMC Public Health"
+        },
+        {
+          "key": "2024051712245784000_8.9.e021358.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/AJP.0b013e31817fc62d"
+        }
+      ],
+      "container-title": [
+        "BMJ Open"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2017-021358",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            17
+          ]
+        ],
+        "date-time": "2024-05-17T21:40:53Z",
+        "timestamp": 1715982053000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2017-021358"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            9
+          ]
+        ]
+      },
+      "references-count": 41,
+      "journal-issue": {
+        "issue": "9",
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              9,
+              10
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bmjopen-2017-021358"
+      ],
+      "URL": "https://doi.org/10.1136/bmjopen-2017-021358",
+      "relation": {},
+      "ISSN": [
+        "2044-6055",
+        "2044-6055"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2044-6055"
+        },
+        {
+          "type": "electronic",
+          "value": "2044-6055"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            9
+          ]
+        ]
+      }
+    }
+  }
+}

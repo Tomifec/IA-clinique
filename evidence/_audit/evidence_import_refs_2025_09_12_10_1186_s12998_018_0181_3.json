@@ -1,0 +1,611 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_s12998_018_0181_3.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_s12998_018_0181_3",
+  "doi": "10.1186/s12998-018-0181-3",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:10.897689Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            5
+          ]
+        ],
+        "date-time": "2025-05-05T15:28:18Z",
+        "timestamp": 1746458898845,
+        "version": "3.37.3"
+      },
+      "reference-count": 32,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                4,
+                19
+              ]
+            ],
+            "date-time": "2018-04-19T00:00:00Z",
+            "timestamp": 1524096000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Institut Franco Européen de Chiropraxie (IFEC), FRANCE"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Chiropr Man Therap"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1186/s12998-018-0181-3",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            1
+          ]
+        ],
+        "date-time": "2018-03-01T10:52:32Z",
+        "timestamp": 1519901552000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 32,
+      "title": [
+        "The regional effect of spinal manipulation on the pressure pain threshold in asymptomatic subjects: a systematic literature review"
+      ],
+      "prefix": "10.1186",
+      "volume": "26",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-3462-5781",
+          "authenticated-orcid": false,
+          "given": "Margaux",
+          "family": "Honoré",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Charlotte",
+          "family": "Leboeuf-Yde",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Olivier",
+          "family": "Gagey",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            4,
+            19
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "5",
+          "key": "181_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "648",
+          "DOI": "10.1016/j.jelekin.2012.01.006",
+          "volume": "22",
+          "author": "EL Hurwitz",
+          "year": "2012",
+          "unstructured": "Hurwitz EL. Epidemiology: spinal manipulation utilization. J Electromyogr Kinesiol. 2012;22(5):648–54.",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "issue": "7",
+          "key": "181_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "442",
+          "DOI": "10.1016/j.jmpt.2004.06.002",
+          "volume": "27",
+          "author": "SP Phelan",
+          "year": "2004",
+          "unstructured": "Phelan SP, Armstrong RC, Knox DG, Hubka MJ, Ainbinder DA. An evaluation of medical and chiropractic provider utilization and costs: treating injured workers in North Carolina. J Manip Physiol Ther. 2004;27(7):442–8.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "181_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "3",
+          "DOI": "10.1186/1746-1340-18-3",
+          "volume": "18",
+          "author": "G Bronfort",
+          "year": "2010",
+          "unstructured": "Bronfort G, Haas M, Evans R, Leininger B, Triano J. Effectiveness of manual therapies: the UK evidence report. Chiropr Osteopat. 2010;18:3.",
+          "journal-title": "Chiropr Osteopat"
+        },
+        {
+          "issue": "1",
+          "key": "181_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "68",
+          "DOI": "10.1016/j.jmpt.2004.12.009",
+          "volume": "28",
+          "author": "H Vernon",
+          "year": "2005",
+          "unstructured": "Vernon H, Mrozek J. A revised definition of manipulation. J Manip Physiol Ther. 2005;28(1):68–72.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "issue": "3",
+          "key": "181_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "280",
+          "DOI": "10.1016/j.jbmt.2010.03.004",
+          "volume": "14",
+          "author": "W Herzog",
+          "year": "2010",
+          "unstructured": "Herzog W. The biomechanics of spinal manipulation. J Bodyw Mov Ther. 2010;14(3):280–6.",
+          "journal-title": "J Bodyw Mov Ther"
+        },
+        {
+          "issue": "5",
+          "key": "181_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "962",
+          "DOI": "10.1212/WNL.44.5.962",
+          "volume": "44",
+          "author": "SH Horowitz",
+          "year": "1994",
+          "unstructured": "Horowitz SH. Peripheral nerve injury and causalgia secondary to routine venipuncture. Neurology. 1994;44(5):962–4.",
+          "journal-title": "Neurology"
+        },
+        {
+          "issue": "5",
+          "key": "181_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "336",
+          "DOI": "10.1016/S1297-319X(03)00074-5",
+          "volume": "70",
+          "author": "JY Maigne",
+          "year": "2003",
+          "unstructured": "Maigne JY, Vautravers P. Mechanism of action of spinal manipulative therapy. Joint Bone Spine. 2003;70(5):336–41.",
+          "journal-title": "Joint Bone Spine"
+        },
+        {
+          "key": "181_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "13",
+          "DOI": "10.1186/1746-1340-16-13",
+          "volume": "16",
+          "author": "S Malmqvist",
+          "year": "2008",
+          "unstructured": "Malmqvist S, Leboeuf-Yde C, Ahola T, Andersson O, Ekstrom K, Pekkarinen H, Turpeinen M, Wedderkopp N. The Nordic back pain subpopulation program: predicting outcome among chiropractic patients in Finland. Chiropr Osteopat. 2008;16:13.",
+          "journal-title": "Chiropr Osteopat"
+        },
+        {
+          "issue": "5",
+          "key": "181_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "752",
+          "DOI": "10.1016/j.jelekin.2011.12.013",
+          "volume": "22",
+          "author": "RA Coronado",
+          "year": "2012",
+          "unstructured": "Coronado RA, Gay CW, Bialosky JE, Carnaby GD, Bishop MD, George SZ. Changes in pain sensitivity following spinal manipulation: a systematic review and meta-analysis. J Electromyogr Kinesiol. 2012;22(5):752–67.",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "issue": "1",
+          "key": "181_CR10",
+          "first-page": "26",
+          "volume": "20",
+          "author": "M Millan",
+          "year": "2012",
+          "unstructured": "Millan M, Leboeuf-Yde C, Budgell B, Amorim MA. The effect of spinal manipulative therapy on experimentally induced pain: a systematic literature review. Chiropr Osteopat. 2012;20(1):26.",
+          "journal-title": "Chiropr Osteopat"
+        },
+        {
+          "issue": "3",
+          "key": "181_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "143",
+          "DOI": "10.1016/j.ijosm.2012.10.004",
+          "volume": "16",
+          "author": "PM Laura Frank",
+          "year": "2013",
+          "unstructured": "Laura Frank PM, Vaughan B. The repeatability of pressure algometry in asymptomatic individuals over consecutive days. International Journal of Osteopathic Medicine. 2013;16(3):143–52.",
+          "journal-title": "International Journal of Osteopathic Medicine"
+        },
+        {
+          "issue": "1",
+          "key": "181_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "115",
+          "DOI": "10.1016/0304-3959(87)90089-3",
+          "volume": "30",
+          "author": "AA Fischer",
+          "year": "1987",
+          "unstructured": "Fischer AA. Pressure algometry over normal muscles. Standard values, validity and reproducibility of pressure threshold. Pain. 1987;30(1):115–26.",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "181_CR13",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Oliver Thomson LH, Mansfield H. The effects of high-velocity low-amplitude thrust manipulation and mobilisation techniques on pressure pain threshold in the lumbar spine. International Journal of Osteopathic Medicine. 2009.",
+          "DOI": "10.1016/j.ijosm.2008.07.003"
+        },
+        {
+          "key": "181_CR14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/srep11774",
+          "volume": "5",
+          "author": "A Chaibi",
+          "year": "2015",
+          "unstructured": "Chaibi A, Šaltytė Benth J, Bjørn Russell M. Validation of placebo in manual therapy randomized controlled trial. Nature, Sci Rep. 2015;5:11774. https://doi.org/10.1038/srep1174 .",
+          "journal-title": "Nature, Sci Rep"
+        },
+        {
+          "issue": "6",
+          "key": "181_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "437",
+          "DOI": "10.1016/j.jmpt.2012.07.001",
+          "volume": "35",
+          "author": "X Yu",
+          "year": "2012",
+          "unstructured": "Yu X, Wang X, Zhang J, Wang Y. Changes in pressure pain thresholds and basal electromyographic activity after instrument-assisted spinal manipulative therapy in asymptomatic participants: a randomized, controlled trial. J Manip Physiol Ther. 2012;35(6):437–45.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "issue": "8",
+          "key": "181_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "578",
+          "DOI": "10.1016/j.jmpt.2007.07.014",
+          "volume": "30",
+          "author": "M Ruiz-Saez",
+          "year": "2007",
+          "unstructured": "Ruiz-Saez M, Fernandez-de-las-Penas C, Blanco CR, Martinez-Segura R, Garcia-Leon R. Changes in pressure pain sensitivity in latent myofascial trigger points in the upper trapezius muscle after a cervical spine manipulation in pain-free subjects. J Manip Physiol Ther. 2007;30(8):578–83.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "issue": "6",
+          "key": "181_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "333",
+          "DOI": "10.1016/j.jmpt.2013.01.005",
+          "volume": "36",
+          "author": "JZ Srbely",
+          "year": "2013",
+          "unstructured": "Srbely JZ, Vernon H, Lee D, Polgar M. Immediate effects of spinal manipulative therapy on regional antinociceptive effects in myofascial tissues in healthy young adults. J Manip Physiol Ther. 2013;36(6):333–41.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "issue": "5",
+          "key": "181_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "332",
+          "DOI": "10.1016/j.jmpt.2008.04.006",
+          "volume": "31",
+          "author": "C Fernandez-de-Las-Penas",
+          "year": "2008",
+          "unstructured": "Fernandez-de-Las-Penas C, Alonso-Blanco C, Cleland JA, Rodriguez-Blanco C, Alburquerque-Sendin F. Changes in pressure pain thresholds over C5-C6 zygapophyseal joint after a cervicothoracic junction manipulation in healthy subjects. J Manip Physiol Ther. 2008;31(5):332–7.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "issue": "6",
+          "key": "181_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "325",
+          "DOI": "10.2519/jospt.2007.2542",
+          "volume": "37",
+          "author": "C Fernandez-de-las-Penas",
+          "year": "2007",
+          "unstructured": "Fernandez-de-las-Penas C, Perez-de-Heredia M, Brea-Rivero M, Miangolarra-Page JC. Immediate effects on pressure pain threshold following a single cervical spine manipulation in healthy subjects. J Orthop Sports Phys Ther. 2007;37(6):325–9.",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "181_CR20",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Luke Hamilton CB, Fryer G. The effects of high-velocity, low-amplitude manipulation and muscle energy technique on suboccipital tenderness. International Journal of Osteopathic Medicine. 2007.",
+          "DOI": "10.1016/j.ijosm.2007.08.002"
+        },
+        {
+          "key": "181_CR21",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Fryer JC G, Mclver S. He effect of manipulation and mobilisation on pressure pain thresholds in the thoracic spine. Journal of Osteopathic Medicine. 2004.",
+          "DOI": "10.1016/S1443-8461(04)80003-0"
+        },
+        {
+          "key": "181_CR22",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Jose Luis Alonso-Perez AL-L, La Touche R, Lerma-Lara S, Suarez E, Rojas J, Bishop MD, Villafane JH, Fernandez-Carnero J. Hypoalgesic effects of three different manual therapy techniques on cervical spine and psychological interaction: a randomized clinical trial. J Bodyw Mov Ther. 2017;21(4):798–803. https://doi.org/10.1016/j.jbmt.2016.12.005 .",
+          "DOI": "10.1016/j.jbmt.2016.12.005"
+        },
+        {
+          "key": "181_CR23",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Oliveira-Campelo NM, Rubens-Rebelatto J, Martí N-Vallejo FJ, Alburquerque-Sendí NF, Fernández-de-Las-Peñas C. The immediate effects of Atlanto-occipital joint manipulation and suboccipital muscle inhibition technique on active mouth opening and pressure pain sensitivity over latent myofascial trigger points in the masticatory muscles. J Orthop Sports Phys Ther. 2010;40(5).",
+          "DOI": "10.2519/jospt.2010.3257"
+        },
+        {
+          "key": "181_CR24",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Max K Jordon PFB, D’Urso S, Scriven S. Spinal manipulation does not affect pressure pain thresholds in the absence of neuromodulators: a randomized controlled trial. J Man Manip Ther. 2016.",
+          "DOI": "10.1080/10669817.2016.1230352"
+        },
+        {
+          "issue": "5",
+          "key": "181_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "440",
+          "DOI": "10.1016/j.spinee.2011.03.001",
+          "volume": "11",
+          "author": "MD Bishop",
+          "year": "2011",
+          "unstructured": "Bishop MD, Beneciuk JM, George SZ. Immediate reduction in temporal sensory summation after thoracic spinal manipulation. Spine J. 2011;11(5):440–6.",
+          "journal-title": "Spine J"
+        },
+        {
+          "issue": "5",
+          "key": "181_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "411",
+          "DOI": "10.1016/j.math.2014.02.007",
+          "volume": "19",
+          "author": "F Molina-Ortega",
+          "year": "2014",
+          "unstructured": "Molina-Ortega F, Lomas-Vega R, Hita-Contreras F, Plaza Manzano G, Achalandabaso A, Ramos-Morcillo AJ, Martinez-Amat A. Immediate effects of spinal manipulation on nitric oxide, substance P and pain perception. Man Ther. 2014;19(5):411–7.",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "181_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "25",
+          "DOI": "10.1186/s12998-015-0069-4",
+          "volume": "23",
+          "author": "S O'Neill",
+          "year": "2015",
+          "unstructured": "O'Neill S, Odegaard-Olsen O, Sovde B. The effect of spinal manipulation on deep experimental muscle pain in healthy volunteers. Chiropr Man Therap. 2015;23:25.",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "key": "181_CR28",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Solis F. Effect of spinal manipulation and body based interventions in a model of experimentally induced low back. Pain. 2015.",
+          "DOI": "10.1016/j.jpain.2015.01.393"
+        },
+        {
+          "key": "181_CR29",
+          "doi-asserted-by": "publisher",
+          "first-page": "47",
+          "DOI": "10.1186/s12998-016-0128-5",
+          "volume": "24",
+          "author": "SL Dorron",
+          "year": "2016",
+          "unstructured": "Dorron SL, BEL PDD, Walker BF. Effect of lumbar spinal manipulation on local and remote pressure pain threshold and pinprick sensitivity in asymptomatic individuals: a randomised trial. Chiropr Man Therap. 2016;24:47.",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "issue": "2",
+          "key": "181_CR30",
+          "first-page": "2016",
+          "volume": "60",
+          "author": "HV Laframboise Michelle",
+          "year": "2016",
+          "unstructured": "Laframboise Michelle HV, Srbely J. Effect of two consecutive spinal manipulations in a single session on myofascial pain pressure sensitivity: a randomized controlled trial. J Can Chiropr Assoc. 2016;60(2):2016.",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "key": "181_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "227",
+          "DOI": "10.1016/j.math.2015.08.009",
+          "volume": "21",
+          "author": "CA Wassinger",
+          "year": "2016",
+          "unstructured": "Wassinger CA, Rich D, Cameron N, Clark S, Davenport S, Lingelbach M, Smith A, Baxter GD, Davidson J. Cervical & thoracic manipulations: acute effects upon pain pressure threshold and self-reported pain in experimentally induced shoulder pain. Man Ther. 2016;21:227–32.",
+          "journal-title": "Man Ther"
+        },
+        {
+          "issue": "8",
+          "key": "181_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "e0160866",
+          "DOI": "10.1371/journal.pone.0160866",
+          "volume": "11",
+          "author": "R Balaguier",
+          "year": "2016",
+          "unstructured": "Balaguier R, Madeleine P, Vuillerme N. Is One Trial Sufficient to Obtain Excellent Pressure Pain Threshold Reliability in the Low Back of Asymptomatic Individuals? A Test-Retest Study. PLoS One. 2016 Aug 11;11(8):e0160866. https://doi.org/10.1371/journal.pone.0160866 .",
+          "journal-title": "PLoS One"
+        }
+      ],
+      "container-title": [
+        "Chiropractic &amp; Manual Therapies"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s12998-018-0181-3.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1186/s12998-018-0181-3/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s12998-018-0181-3.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            11
+          ]
+        ],
+        "date-time": "2019-10-11T23:19:53Z",
+        "timestamp": 1570835993000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://chiromt.biomedcentral.com/articles/10.1186/s12998-018-0181-3"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            4,
+            19
+          ]
+        ]
+      },
+      "references-count": 32,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "181"
+      ],
+      "URL": "https://doi.org/10.1186/s12998-018-0181-3",
+      "relation": {},
+      "ISSN": [
+        "2045-709X"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2045-709X"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            4,
+            19
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "12 October 2017",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "15 February 2018",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "19 April 2018",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "Not applicable",
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethics approval and consent to participate"
+          }
+        },
+        {
+          "value": "All authors consented to publication.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Consent for publication"
+          }
+        },
+        {
+          "value": "All authors declare that they have no competing interests.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interest"
+          }
+        },
+        {
+          "value": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+          "order": 4,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Publisher’s Note"
+          }
+        }
+      ],
+      "article-number": "11"
+    }
+  }
+}

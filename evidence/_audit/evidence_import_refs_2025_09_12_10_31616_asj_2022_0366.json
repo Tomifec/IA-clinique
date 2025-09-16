@@ -1,0 +1,597 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_31616_asj_2022_0366.md",
+  "id": "evidence_import_refs_2025_09_12_10_31616_asj_2022_0366",
+  "doi": "10.31616/asj.2022.0366",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:45.790804Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T13:34:30Z",
+        "timestamp": 1757684070218,
+        "version": "3.37.3"
+      },
+      "reference-count": 59,
+      "publisher": "Asian Spine Journal (ASJ)",
+      "issue": "5",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                10,
+                21
+              ]
+            ],
+            "date-time": "2022-10-21T00:00:00Z",
+            "timestamp": 1666310400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "asianspinejournal.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Asian Spine J"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            31
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Patients with lumbar spinal stenosis (LSS) may experience neuropathic symptoms, such as back pain, radiating pain, and neurogenic claudication. Although the long-term outcomes of both nonsurgical and surgical treatments are similar, surgery may provide shortterm benefits, including improved symptoms and lower risk of falling. Decompression is mainly used for surgical treatment, and depending on the decompression degree and associated instability, combination therapy may be given. Minimally invasive surgery has been demonstrated to produce excellent results in the treatment of LSS. Thus, an approach aimed at understanding the overall pathophysiology and treatment methods of LSS is expected to have a better therapeutic effect.</jats:p>",
+      "DOI": "10.31616/asj.2022.0366",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            21
+          ]
+        ],
+        "date-time": "2022-10-21T02:17:32Z",
+        "timestamp": 1666318652000
+      },
+      "page": "789-798",
+      "update-policy": "https://doi.org/10.31616/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 60,
+      "title": [
+        "Lumbar Spinal Stenosis: Review Update 2022"
+      ],
+      "prefix": "10.31616",
+      "volume": "16",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-4880-5310",
+          "authenticated-orcid": true,
+          "given": "Ji-won",
+          "family": "Kwon",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5165-1159",
+          "authenticated-orcid": true,
+          "given": "Seong-Hwan",
+          "family": "Moon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1216-901X",
+          "authenticated-orcid": true,
+          "given": "Si-Young",
+          "family": "Park",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0155-6409",
+          "authenticated-orcid": true,
+          "given": "Sang-Jun",
+          "family": "Park",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8869-9810",
+          "authenticated-orcid": true,
+          "given": "Sub-Ri",
+          "family": "Park",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0633-2658",
+          "authenticated-orcid": true,
+          "given": "Kyung-Soo",
+          "family": "Suk",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8330-4688",
+          "authenticated-orcid": true,
+          "given": "Hak-Sun",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7235-4981",
+          "authenticated-orcid": true,
+          "given": "Byung Ho",
+          "family": "Lee",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "16744",
+      "reference": [
+        {
+          "key": "ref1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/nejmcp0708097"
+        },
+        {
+          "key": "ref2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2022.5921"
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2020.0472"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-198712000-00012"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2020.0026"
+        },
+        {
+          "key": "ref6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-198803000-00015"
+        },
+        {
+          "key": "ref7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000162396.97739.76"
+        },
+        {
+          "key": "ref8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4184/asj.2015.9.5.818"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2017.10.003"
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/brs.0b013e3181e0f04d"
+        },
+        {
+          "key": "ref11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2019.0105"
+        },
+        {
+          "key": "ref12",
+          "first-page": "389",
+          "volume-title": "Spine update: lumbar foraminal stenosis",
+          "author": "Jenis",
+          "year": "2000"
+        },
+        {
+          "key": "ref13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/jcm10194475"
+        },
+        {
+          "key": "ref14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/s0883-5403(06)80089-6"
+        },
+        {
+          "key": "ref15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/00004623-198769020-00027"
+        },
+        {
+          "key": "ref16",
+          "first-page": "1239",
+          "volume-title": "ISSLS Prize Winner: consensus on the clinical diagnosis of lumbar spinal stenosis: results of an international Delphi study",
+          "author": "Tomkins-Lane",
+          "year": "2016"
+        },
+        {
+          "key": "ref17",
+          "first-page": "E469",
+          "volume-title": "Diagnosis of lumbar spinal stenosis: an updated systematic review of the accuracy of diagnostic tests",
+          "author": "de Schepper",
+          "year": "2013"
+        },
+        {
+          "key": "ref18",
+          "first-page": "1168",
+          "volume-title": "Diagnosis of lumbar spinal stenosis: a systematic review of the accuracy of diagnostic tests",
+          "author": "de Graaf",
+          "year": "2006"
+        },
+        {
+          "key": "ref19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2019.0380"
+        },
+        {
+          "key": "ref20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3340/jkns.2009.46.3.265"
+        },
+        {
+          "key": "ref21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2019.0340"
+        },
+        {
+          "key": "ref22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.joca.2013.02.656"
+        },
+        {
+          "key": "ref23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12891-022-05510-7"
+        },
+        {
+          "key": "ref24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.17085/apm.2016.11.1.14"
+        },
+        {
+          "key": "ref25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2020.06.022"
+        },
+        {
+          "key": "ref26",
+          "first-page": "e110",
+          "volume-title": "Comparison of effects of nonoperative treatment and decompression surgery on risk of patients with lumbar spinal stenosis falling: evaluation with functional mobility tests",
+          "author": "Lee",
+          "year": "2014"
+        },
+        {
+          "key": "ref27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4103/0019-5413.96379"
+        },
+        {
+          "key": "ref28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.clineuro.2016.06.016"
+        },
+        {
+          "key": "ref29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3349/ymj.2017.58.6.1177"
+        },
+        {
+          "key": "ref30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2022.0290.r1"
+        },
+        {
+          "key": "ref31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2020.0087"
+        },
+        {
+          "key": "ref32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2214/ajr.12.10163"
+        },
+        {
+          "key": "ref33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2020.0593"
+        },
+        {
+          "key": "ref34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.mric.2007.04.001"
+        },
+        {
+          "key": "ref35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2020.0648"
+        },
+        {
+          "key": "ref36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2020.0133"
+        },
+        {
+          "key": "ref37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2214/ajr.158.5.1533084"
+        },
+        {
+          "key": "ref38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/00004623-200211000-00008"
+        },
+        {
+          "key": "ref39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2010.3211"
+        },
+        {
+          "key": "ref40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2016.02.049"
+        },
+        {
+          "key": "ref41",
+          "first-page": "547",
+          "volume-title": "Fluoroscopically guided caudal epidural steroid injections in degenerative lumbar spine stenosis",
+          "author": "Botwin",
+          "year": "2007"
+        },
+        {
+          "key": "ref42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2017.02.029"
+        },
+        {
+          "key": "ref43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/nejmoa1313265"
+        },
+        {
+          "key": "ref44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00256-009-0860-1"
+        },
+        {
+          "key": "ref45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2021.0164"
+        },
+        {
+          "key": "ref46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/jcm9041144"
+        },
+        {
+          "key": "ref47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2020.0072"
+        },
+        {
+          "key": "ref48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2021.0371"
+        },
+        {
+          "key": "ref49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2020.0485"
+        },
+        {
+          "key": "ref50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2020.0384"
+        },
+        {
+          "key": "ref51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2021.0064"
+        },
+        {
+          "key": "ref52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2020.0405"
+        },
+        {
+          "key": "ref53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31616/asj.2020.0084"
+        },
+        {
+          "key": "ref54",
+          "first-page": "e26812",
+          "volume-title": "Outcomes of lumbar spinal fusion in super-elderly patients aged 80 years and over: comparison with patients aged 65 years and over, and under 80 years",
+          "author": "Son",
+          "year": "2021"
+        },
+        {
+          "key": "ref55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.wneu.2020.01.080"
+        },
+        {
+          "key": "ref56",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2019.09.015"
+        },
+        {
+          "key": "ref57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/21925682221083271"
+        },
+        {
+          "key": "ref58",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2020.2.spine191452"
+        },
+        {
+          "key": "ref59",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.21037/jss.2019.12.13"
+        }
+      ],
+      "container-title": [
+        "Asian Spine Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://www.asianspinejournal.org/upload/pdf/asj-2022-0366.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://www.asianspinejournal.org/journal/view.php?doi=10.31616/asj.2022.0366",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://www.asianspinejournal.org/upload/pdf/asj-2022-0366.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            31
+          ]
+        ],
+        "date-time": "2022-10-31T07:21:14Z",
+        "timestamp": 1667200874000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://www.asianspinejournal.org/journal/view.php?doi=10.31616/asj.2022.0366"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            31
+          ]
+        ]
+      },
+      "references-count": 59,
+      "journal-issue": {
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              10
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.31616/asj.2022.0366",
+      "relation": {},
+      "ISSN": [
+        "1976-1902",
+        "1976-7846"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1976-1902"
+        },
+        {
+          "type": "electronic",
+          "value": "1976-7846"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            31
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2022-09-25",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2022-09-27",
+          "order": 1,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2022-10-21",
+          "order": 2,
+          "name": "published",
+          "label": "Published online",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2022-10-31",
+          "order": 3,
+          "name": "published",
+          "label": "Print publication",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

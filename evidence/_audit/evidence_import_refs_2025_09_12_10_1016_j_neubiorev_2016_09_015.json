@@ -1,0 +1,1375 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_neubiorev_2016_09_015.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_neubiorev_2016_09_015",
+  "doi": "10.1016/j.neubiorev.2016.09.015",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:58.369757Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T20:43:36Z",
+        "timestamp": 1757450616110,
+        "version": "3.40.5"
+      },
+      "reference-count": 110,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2016-12-01T00:00:00Z",
+            "timestamp": 1480550400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Neuroscience &amp; Biobehavioral Reviews"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.neubiorev.2016.09.015",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2016,
+            9,
+            18
+          ]
+        ],
+        "date-time": "2016-09-18T23:14:09Z",
+        "timestamp": 1474240449000
+      },
+      "page": "328-341",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 143,
+      "special_numbering": "C",
+      "title": [
+        "Pain in the body. Altered interoception in chronic pain conditions: A systematic review"
+      ],
+      "prefix": "10.1016",
+      "volume": "71",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6850-6866",
+          "authenticated-orcid": false,
+          "given": "Daniele",
+          "family": "Di Lernia",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8422-1358",
+          "authenticated-orcid": false,
+          "given": "Silvia",
+          "family": "Serino",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Giuseppe",
+          "family": "Riva",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0005",
+          "doi-asserted-by": "crossref",
+          "first-page": "47",
+          "DOI": "10.3389/fpsyt.2013.00047",
+          "article-title": "The computational anatomy of psychosis",
+          "volume": "4",
+          "author": "Adams",
+          "year": "2013",
+          "journal-title": "Front. Psychiatry"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0010",
+          "doi-asserted-by": "crossref",
+          "first-page": "1827",
+          "DOI": "10.1152/jappl.1998.84.6.1827",
+          "article-title": "Effect of arterial occlusion on responses of group III and IV afferents to dynamic exercise",
+          "volume": "84",
+          "author": "Adreani",
+          "year": "1998",
+          "journal-title": "J. Appl. Physiol. (1985)"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0015",
+          "first-page": "33",
+          "article-title": "Il costo sociale del dolore cronico in Italia",
+          "volume": "2",
+          "author": "Allegri",
+          "year": "2015",
+          "journal-title": "GRHTA"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0020",
+          "doi-asserted-by": "crossref",
+          "first-page": "1398",
+          "DOI": "10.1523/JNEUROSCI.4123-07.2008",
+          "article-title": "Beyond feeling: chronic pain hurts the brain, disrupting the default-mode network dynamics",
+          "volume": "28",
+          "author": "Baliki",
+          "year": "2008",
+          "journal-title": "J. Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0025",
+          "doi-asserted-by": "crossref",
+          "first-page": "510",
+          "DOI": "10.1097/00006842-198809000-00007",
+          "article-title": "The amplification of somatic symptoms",
+          "volume": "50",
+          "author": "Barsky",
+          "year": "1988",
+          "journal-title": "Psychosom. Med."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0030",
+          "doi-asserted-by": "crossref",
+          "first-page": "323",
+          "DOI": "10.1016/0022-3956(90)90004-A",
+          "article-title": "The somatosensory amplification scale and its relationship to hypochondriasis",
+          "volume": "24",
+          "author": "Barsky",
+          "year": "1990",
+          "journal-title": "J. Psychiatr. Res."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0035",
+          "doi-asserted-by": "crossref",
+          "first-page": "3829",
+          "DOI": "10.1097/00001756-200011270-00046",
+          "article-title": "The neural basis of romantic love",
+          "volume": "11",
+          "author": "Bartels",
+          "year": "2000",
+          "journal-title": "Neuroreport"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "537",
+          "DOI": "10.1007/BF00998738",
+          "article-title": "The relationship between muscle discrimination ability and response to relaxation training in three kinds of headaches",
+          "volume": "6",
+          "author": "Blanchard",
+          "year": "1981",
+          "journal-title": "Biofeedback Self Regul."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0045",
+          "doi-asserted-by": "crossref",
+          "first-page": "11818",
+          "DOI": "10.1073/pnas.191355898",
+          "article-title": "Intensely pleasurable responses to music correlate with activity in brain regions implicated in reward and emotion",
+          "volume": "98",
+          "author": "Blood",
+          "year": "2001",
+          "journal-title": "Proc. Natl. Acad. Sci. U. S. A."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0050",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1016/j.bandc.2015.10.002",
+          "article-title": "Attentional focus on subjective interoceptive experience in patients with fibromyalgia",
+          "volume": "101",
+          "author": "Borg",
+          "year": "2015",
+          "journal-title": "Brain Cogn."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0055",
+          "doi-asserted-by": "crossref",
+          "first-page": "93",
+          "DOI": "10.1016/j.pneurobio.2013.02.003",
+          "article-title": "Pain and analgesia: the value of salience circuits",
+          "volume": "104",
+          "author": "Borsook",
+          "year": "2013",
+          "journal-title": "Prog. Neurobiol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0060",
+          "doi-asserted-by": "crossref",
+          "first-page": "287",
+          "DOI": "10.1016/j.ejpain.2005.06.009",
+          "article-title": "Survey of chronic pain in Europe: prevalence, impact on daily life, and treatment",
+          "volume": "10",
+          "author": "Breivik",
+          "year": "2006",
+          "journal-title": "Eur. J. Pain"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0065",
+          "doi-asserted-by": "crossref",
+          "first-page": "763",
+          "DOI": "10.1016/0031-9384(74)90259-5",
+          "article-title": "Interoceptive discrimination in intact humans: detection of cardiac activity",
+          "volume": "13",
+          "author": "Brener",
+          "year": "1974",
+          "journal-title": "Physiol. Behav."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "554",
+          "DOI": "10.1111/j.1469-8986.1988.tb01891.x",
+          "article-title": "Heartbeat detection: judgments of the simultaneity of external stimuli and heartbeats",
+          "volume": "25",
+          "author": "Brener",
+          "year": "1988",
+          "journal-title": "Psychophysiology"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0075",
+          "doi-asserted-by": "crossref",
+          "first-page": "293",
+          "DOI": "10.1006/nimg.2001.0974",
+          "article-title": "fMRI of thermal pain: effects of stimulus laterality and attention",
+          "volume": "15",
+          "author": "Brooks",
+          "year": "2002",
+          "journal-title": "Neuroimage"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0080",
+          "doi-asserted-by": "crossref",
+          "first-page": "1202",
+          "DOI": "10.3389/fpsyg.2015.01202",
+          "article-title": "Investigating the relationship between interoceptive accuracy, interoceptive awareness, and emotional susceptibility",
+          "volume": "6",
+          "author": "Cali",
+          "year": "2015",
+          "journal-title": "Front. Psychol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0085",
+          "doi-asserted-by": "crossref",
+          "first-page": "697",
+          "DOI": "10.1097/00006842-200109000-00001",
+          "article-title": "Interoception: the inside story–a model for psychosomatic processes",
+          "volume": "63",
+          "author": "Cameron",
+          "year": "2001",
+          "journal-title": "Psychosom. Med."
+        },
+        {
+          "year": "1963",
+          "series-title": "Bodily Changes in Pain, Hunger, Fear and Rage, an Account of Researches into the Function of Emotional Excitement",
+          "author": "Cannon",
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0090"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0095",
+          "first-page": "323",
+          "volume": "3",
+          "author": "Caprara",
+          "year": "1983",
+          "journal-title": "Psicol. Clin."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0100",
+          "doi-asserted-by": "crossref",
+          "first-page": "665",
+          "DOI": "10.1016/0191-8869(85)90077-7",
+          "article-title": "Indicators of impulsive aggression: present status of research on irritability and emotional susceptibility scales",
+          "volume": "6",
+          "author": "Caprara",
+          "year": "1985",
+          "journal-title": "Pers. Individ. Dif."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0105",
+          "doi-asserted-by": "crossref",
+          "first-page": "374",
+          "DOI": "10.1016/0166-2236(92)90182-8",
+          "article-title": "Visceral nociceptors: a new world order?",
+          "volume": "15",
+          "author": "Cervero",
+          "year": "1992",
+          "journal-title": "Trends Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0110",
+          "doi-asserted-by": "crossref",
+          "first-page": "426",
+          "DOI": "10.1016/j.biopsycho.2012.09.012",
+          "article-title": "Accuracy and awareness of perception: related, yet distinct (commentary on Herbert, 2012)",
+          "volume": "92",
+          "author": "Ceunen",
+          "year": "2013",
+          "journal-title": "Biol. Psychol."
+        },
+        {
+          "year": "1988",
+          "series-title": "Statistical Power Analysis for the Social Sciences",
+          "author": "Cohen",
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0115"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0120",
+          "doi-asserted-by": "crossref",
+          "first-page": "655",
+          "DOI": "10.1038/nrn894",
+          "article-title": "How do you feel? Interoception: the sense of the physiological condition of the body",
+          "volume": "3",
+          "author": "Craig",
+          "year": "2002",
+          "journal-title": "Nat. Rev. Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0125",
+          "doi-asserted-by": "crossref",
+          "first-page": "500",
+          "DOI": "10.1016/S0959-4388(03)00090-4",
+          "article-title": "Interoception: the sense of the physiological condition of the body",
+          "volume": "13",
+          "author": "Craig",
+          "year": "2003",
+          "journal-title": "Curr. Opin. Neurobiol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0130",
+          "doi-asserted-by": "crossref",
+          "first-page": "1933",
+          "DOI": "10.1098/rstb.2009.0008",
+          "article-title": "Emotional moments across time: a possible neural basis for time perception in the anterior insula",
+          "volume": "364",
+          "author": "Craig",
+          "year": "2009",
+          "journal-title": "Philos. Trans. R. Soc. B Biol. Sci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0135",
+          "doi-asserted-by": "crossref",
+          "first-page": "189",
+          "DOI": "10.1038/nn1176",
+          "article-title": "Neural systems supporting interoceptive awareness",
+          "volume": "7",
+          "author": "Critchley",
+          "year": "2004",
+          "journal-title": "Nat. Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0140",
+          "doi-asserted-by": "crossref",
+          "first-page": "1049",
+          "DOI": "10.1038/79871",
+          "article-title": "Subcortical and cortical brain activity during the feeling of self-generated emotions",
+          "volume": "3",
+          "author": "Damasio",
+          "year": "2000",
+          "journal-title": "Nat. Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0145",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1016/S0304-3959(98)00034-7",
+          "article-title": "Cerebral responses to a continual tonic pain stimulus measured using positron emission tomography",
+          "volume": "76",
+          "author": "Derbyshire",
+          "year": "1998",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0150",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/fnins.2016.00314",
+          "article-title": "Ghosts in the machine. interoceptive modeling for chronic pain treatment",
+          "author": "Di Lernia",
+          "year": "2016",
+          "journal-title": "Front. Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0155",
+          "doi-asserted-by": "crossref",
+          "first-page": "1921",
+          "DOI": "10.1016/j.brat.2006.09.008",
+          "article-title": "Heartbeat perception in depression",
+          "volume": "45",
+          "author": "Dunn",
+          "year": "2007",
+          "journal-title": "Behav. Res. Ther."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0160",
+          "doi-asserted-by": "crossref",
+          "first-page": "1133",
+          "DOI": "10.1016/j.brat.2010.07.006",
+          "article-title": "Can you feel the beat? Interoceptive awareness is an interactive function of anxiety- and depression-specific symptom dimensions",
+          "volume": "48",
+          "author": "Dunn",
+          "year": "2010",
+          "journal-title": "Behav. Res. Ther."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0165",
+          "first-page": "1",
+          "article-title": "Diminished interoceptive awareness in fibromyalgia syndrome",
+          "author": "Duschek",
+          "year": "2015",
+          "journal-title": "Behav. Med."
+        },
+        {
+          "year": "2014",
+          "series-title": "Rayyan: A Systematic Reviews Web App for Exploring and Filtering Searches for Eligible Studies for Cochrane Reviews. Evidence-Informed Public Health: Opportunities and Challenges. Abstracts of the 22nd Cochrane Colloquium; 21–26 Sep",
+          "author": "Elmagarmid",
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0170"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0175",
+          "doi-asserted-by": "crossref",
+          "first-page": "763",
+          "DOI": "10.3389/fpsyg.2015.00763",
+          "article-title": "Interoception, contemplative practice, and health",
+          "volume": "6",
+          "author": "Farb",
+          "year": "2015",
+          "journal-title": "Front. Psychol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0180",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1007/BF01000401",
+          "article-title": "Discrimination of muscle tension in chronic pain patients and healthy controls",
+          "volume": "17",
+          "author": "Flor",
+          "year": "1992",
+          "journal-title": "Biofeedback Self Regul."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0185",
+          "doi-asserted-by": "crossref",
+          "first-page": "55",
+          "DOI": "10.1023/A:1022847131149",
+          "article-title": "Deficient discrimination of EMG levels and overestimation of perceived tension in chronic pain patients",
+          "volume": "24",
+          "author": "Flor",
+          "year": "1999",
+          "journal-title": "Appl. Psychophysiol. Biofeedback"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0190",
+          "doi-asserted-by": "crossref",
+          "first-page": "293",
+          "DOI": "10.1016/j.tics.2009.04.005",
+          "article-title": "The free-energy principle: a rough guide to the brain?",
+          "volume": "13",
+          "author": "Friston",
+          "year": "2009",
+          "journal-title": "Trends Cogn. Sci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0195",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1038/nrn2787",
+          "article-title": "The free-energy principle: a unified brain theory?",
+          "volume": "11",
+          "author": "Friston",
+          "year": "2010",
+          "journal-title": "Nat. Rev. Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0200",
+          "doi-asserted-by": "crossref",
+          "first-page": "231",
+          "DOI": "10.1093/scan/nss140",
+          "article-title": "Interoception, emotion and brain: new insights link internal physiology to social behaviour. Commentary on: anterior insular cortex mediates bodily sensibility and social anxiety by Terasawa (2012)",
+          "volume": "8",
+          "author": "Garfinkel",
+          "year": "2013",
+          "journal-title": "Soc. Cogn. Affect. Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0205",
+          "doi-asserted-by": "crossref",
+          "first-page": "65",
+          "DOI": "10.1016/j.biopsycho.2014.11.004",
+          "article-title": "Knowing your own heart: distinguishing interoceptive accuracy from interoceptive awareness",
+          "volume": "104",
+          "author": "Garfinkel",
+          "year": "2015",
+          "journal-title": "Biol. Psychol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0210",
+          "doi-asserted-by": "crossref",
+          "first-page": "570",
+          "DOI": "10.1016/j.neuron.2008.08.022",
+          "article-title": "The brain in chronic CRPS pain: abnormal gray-white matter interactions in emotional and autonomic regions",
+          "volume": "60",
+          "author": "Geha",
+          "year": "2008",
+          "journal-title": "Neuron"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0215",
+          "doi-asserted-by": "crossref",
+          "first-page": "193",
+          "DOI": "10.1113/jphysiol.1979.sp012846",
+          "article-title": "A comparison between the discharges of human nociceptive nerve fibres and the subject's ratings of his sensations",
+          "volume": "292",
+          "author": "Gybels",
+          "year": "1979",
+          "journal-title": "J. Physiol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0220",
+          "doi-asserted-by": "crossref",
+          "first-page": "e36646",
+          "DOI": "10.1371/journal.pone.0036646",
+          "article-title": "Interoception across modalities: on the relationship between cardiac awareness and the sensitivity for gastric functions",
+          "volume": "7",
+          "author": "Herbert",
+          "year": "2012",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0225",
+          "doi-asserted-by": "crossref",
+          "first-page": "402",
+          "DOI": "10.1152/jn.2001.86.1.402",
+          "article-title": "Cortical representation of the sensory dimension of pain",
+          "volume": "86",
+          "author": "Hofbauer",
+          "year": "2001",
+          "journal-title": "J. Neurophysiol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0230",
+          "doi-asserted-by": "crossref",
+          "first-page": "199",
+          "DOI": "10.1016/0301-0511(95)05155-4",
+          "article-title": "Detection, discrimination and sensation of visceral stimuli",
+          "volume": "42",
+          "author": "Holzl",
+          "year": "1996",
+          "journal-title": "Biol. Psychol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0235",
+          "doi-asserted-by": "crossref",
+          "first-page": "337",
+          "DOI": "10.1113/jphysiol.1960.sp006491",
+          "article-title": "Cutaneous mechanoreceptors with afferent C fibres",
+          "volume": "152",
+          "author": "Iggo",
+          "year": "1960",
+          "journal-title": "J. Physiol."
+        },
+        {
+          "year": "2006",
+          "series-title": "The Integrative Action of the Autonomic Nervous System: Neurobiology of Homeostasis",
+          "author": "Jänig",
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0240"
+        },
+        {
+          "year": "1955",
+          "series-title": "The Principles of Psychology",
+          "author": "James",
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0245"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0250",
+          "doi-asserted-by": "crossref",
+          "first-page": "300",
+          "DOI": "10.1111/j.1469-8986.1987.tb00300.x",
+          "article-title": "The effect of body position on the perception of cardiac sensations: an experiment and theoretical implications",
+          "volume": "24",
+          "author": "Jones",
+          "year": "1987",
+          "journal-title": "Psychophysiology"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0255",
+          "doi-asserted-by": "crossref",
+          "first-page": "1130",
+          "DOI": "10.1111/j.1469-8986.2009.00859.x",
+          "article-title": "Interoceptive awareness declines with age",
+          "volume": "46",
+          "author": "Khalsa",
+          "year": "2009",
+          "journal-title": "Psychophysiology"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0260",
+          "doi-asserted-by": "crossref",
+          "first-page": "386",
+          "DOI": "10.3389/fnhum.2013.00386",
+          "article-title": "The social modulation of pain: others as predictive signals of salience − a systematic review",
+          "volume": "7",
+          "author": "Krahe",
+          "year": "2013",
+          "journal-title": "Front. Hum. Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0265",
+          "doi-asserted-by": "crossref",
+          "first-page": "86",
+          "DOI": "10.1016/j.tins.2014.11.006",
+          "article-title": "The dynamic pain connectome",
+          "volume": "38",
+          "author": "Kucyi",
+          "year": "2015",
+          "journal-title": "Trends Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0270",
+          "doi-asserted-by": "crossref",
+          "first-page": "295",
+          "DOI": "10.1016/S0304-3959(00)00295-5",
+          "article-title": "Positron emission tomography study of a chronic pain patient successfully treated with somatosensory thalamic stimulation",
+          "volume": "87",
+          "author": "Kupers",
+          "year": "2000",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0275",
+          "doi-asserted-by": "crossref",
+          "first-page": "2329",
+          "DOI": "10.1212/01.wnl.0000314649.38527.93",
+          "article-title": "Motor cortex stimulation for chronic pain: systematic review and meta-analysis of the literature",
+          "volume": "70",
+          "author": "Lima",
+          "year": "2008",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0280",
+          "doi-asserted-by": "crossref",
+          "first-page": "655",
+          "DOI": "10.1016/j.neuropsychologia.2009.08.022",
+          "article-title": "More than skin deep: body representation beyond primary somatosensory cortex",
+          "volume": "48",
+          "author": "Longo",
+          "year": "2010",
+          "journal-title": "Neuropsychologia"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0285",
+          "doi-asserted-by": "crossref",
+          "first-page": "216",
+          "DOI": "10.1016/j.neuroimage.2010.11.061",
+          "article-title": "Activation of central sympathetic networks during innocuous and noxious somatosensory stimulation",
+          "volume": "55",
+          "author": "Maihofner",
+          "year": "2011",
+          "journal-title": "Neuroimage"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0290",
+          "doi-asserted-by": "crossref",
+          "first-page": "353",
+          "DOI": "10.1097/00006842-200203000-00020",
+          "article-title": "Somatosensory amplification and its relationship to heartbeat detection ability",
+          "volume": "64",
+          "author": "Mailloux",
+          "year": "2002",
+          "journal-title": "Psychosom. Med."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0295",
+          "doi-asserted-by": "crossref",
+          "first-page": "e48230",
+          "DOI": "10.1371/journal.pone.0048230",
+          "article-title": "The multidimensional assessment of interoceptive awareness (MAIA)",
+          "volume": "7",
+          "author": "Mehling",
+          "year": "2012",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0300",
+          "doi-asserted-by": "crossref",
+          "first-page": "403",
+          "DOI": "10.2147/JPR.S42418",
+          "article-title": "Self-reported interoceptive awareness in primary care patients with past or current low back pain",
+          "volume": "6",
+          "author": "Mehling",
+          "year": "2013",
+          "journal-title": "J. Pain Res."
+        },
+        {
+          "issue": "Suppl",
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0305",
+          "doi-asserted-by": "crossref",
+          "first-page": "S121",
+          "DOI": "10.1016/S0304-3959(99)00145-1",
+          "article-title": "From the gate to the neuromatrix",
+          "volume": "6",
+          "author": "Melzack",
+          "year": "1999",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0310",
+          "doi-asserted-by": "crossref",
+          "first-page": "880",
+          "DOI": "10.1034/j.1399-6576.1999.430903.x",
+          "article-title": "Pain–an overview",
+          "volume": "43",
+          "author": "Melzack",
+          "year": "1999",
+          "journal-title": "Acta Anaesthesiol. Scand."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0315",
+          "doi-asserted-by": "crossref",
+          "first-page": "1378",
+          "DOI": "10.1002/j.0022-0337.2001.65.12.tb03497.x",
+          "article-title": "Pain and the neuromatrix in the brain",
+          "volume": "65",
+          "author": "Melzack",
+          "year": "2001",
+          "journal-title": "J. Dent. Educ."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0320",
+          "doi-asserted-by": "crossref",
+          "first-page": "85",
+          "DOI": "10.1111/j.1533-2500.2005.05203.x",
+          "article-title": "Evolution of the neuromatrix theory of pain the prithvi raj lecture: presented at the third world congress of world institute of pain, barcelona 2004",
+          "volume": "5",
+          "author": "Melzack",
+          "year": "2005",
+          "journal-title": "Pain Pract."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0325",
+          "doi-asserted-by": "crossref",
+          "first-page": "403",
+          "DOI": "10.1113/jphysiol.1985.sp015718",
+          "article-title": "Different types of slowly conducting afferent units in cat skeletal muscle and tendon",
+          "volume": "363",
+          "author": "Mense",
+          "year": "1985",
+          "journal-title": "J. Physiol."
+        },
+        {
+          "year": "1994",
+          "series-title": "Classification of Chronic Pain: Descriptions of Chronic Pain Syndromes and Definitions of Pain Terms",
+          "author": "Merskey",
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0330"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0335",
+          "doi-asserted-by": "crossref",
+          "first-page": "603",
+          "DOI": "10.1016/j.concog.2010.11.013",
+          "article-title": "The tickly homunculus and the origins of spontaneous sensations arising on the hands",
+          "volume": "20",
+          "author": "Michael",
+          "year": "2011",
+          "journal-title": "Conscious. Cogn."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0340",
+          "doi-asserted-by": "crossref",
+          "first-page": "113",
+          "DOI": "10.1016/j.physbeh.2015.02.030",
+          "article-title": "My heart is in my hands: the interoceptive nature of the spontaneous sensations felt on the hands",
+          "volume": "143",
+          "author": "Michael",
+          "year": "2015",
+          "journal-title": "Physiol. Behav."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0345",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1000097",
+          "DOI": "10.1371/journal.pmed.1000097",
+          "article-title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+          "volume": "6",
+          "author": "Moher",
+          "year": "2009",
+          "journal-title": "PLoS Med."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0350",
+          "doi-asserted-by": "crossref",
+          "first-page": "179",
+          "DOI": "10.1111/j.1533-2500.2004.04301.x",
+          "article-title": "Chronic pain as a disease in its own right",
+          "volume": "4",
+          "author": "Niv",
+          "year": "2004",
+          "journal-title": "Pain Pract."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0355",
+          "doi-asserted-by": "crossref",
+          "first-page": "53",
+          "DOI": "10.1016/S0167-8760(98)00004-X",
+          "article-title": "Differences in heartbeat awareness among males with higher and lower levels of systolic blood pressure",
+          "volume": "29",
+          "author": "O'Brien",
+          "year": "1998",
+          "journal-title": "Int. J. Psychophysiol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0360",
+          "article-title": "The role of interoceptive inference in theory of mind",
+          "author": "Ondobaka",
+          "year": "2015",
+          "journal-title": "Brain Cogn."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0365",
+          "doi-asserted-by": "crossref",
+          "first-page": "298",
+          "DOI": "10.1007/s12671-012-0181-7",
+          "article-title": "Exploring the relationship between mindfulness and cardiac perception",
+          "volume": "5",
+          "author": "Parkin",
+          "year": "2014",
+          "journal-title": "Mindfulness"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0370",
+          "doi-asserted-by": "crossref",
+          "first-page": "1737",
+          "DOI": "10.1126/science.1067176",
+          "article-title": "Placebo and opioid analgesia? imaging a shared neuronal network",
+          "volume": "295",
+          "author": "Petrovic",
+          "year": "2002",
+          "journal-title": "Science"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0375",
+          "doi-asserted-by": "crossref",
+          "first-page": "1979",
+          "DOI": "10.1126/science.284.5422.1979",
+          "article-title": "Dissociating pain from its anticipation in the human brain",
+          "volume": "284",
+          "author": "Ploghaus",
+          "year": "1999",
+          "journal-title": "Science"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0380",
+          "doi-asserted-by": "crossref",
+          "first-page": "381",
+          "DOI": "10.1016/j.eatbeh.2008.02.001",
+          "article-title": "Reduced perception of bodily signals in anorexia nervosa",
+          "volume": "9",
+          "author": "Pollatos",
+          "year": "2008",
+          "journal-title": "Eat. Behav."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0385",
+          "doi-asserted-by": "crossref",
+          "first-page": "167",
+          "DOI": "10.1002/da.20504",
+          "article-title": "Differential effects of anxiety and depression on interoceptive accuracy",
+          "volume": "26",
+          "author": "Pollatos",
+          "year": "2009",
+          "journal-title": "Depress. Anxiety"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0390",
+          "doi-asserted-by": "crossref",
+          "first-page": "232",
+          "DOI": "10.1016/j.jpsychores.2011.03.012",
+          "article-title": "Autonomic imbalance is associated with reduced facial recognition in somatoform disorders",
+          "volume": "71",
+          "author": "Pollatos",
+          "year": "2011",
+          "journal-title": "J. Psychosom. Res."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0395",
+          "doi-asserted-by": "crossref",
+          "first-page": "1680",
+          "DOI": "10.1016/j.pain.2012.04.030",
+          "article-title": "On the generalised embodiment of pain: how interoceptive sensitivity modulates cutaneous pain perception",
+          "volume": "153",
+          "author": "Pollatos",
+          "year": "2012",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0400",
+          "doi-asserted-by": "crossref",
+          "first-page": "466",
+          "DOI": "10.1016/j.neuroimage.2012.09.038",
+          "article-title": "The ‘where' and the ‘when' of the BOLD response to pain in the insular cortex. Discussion on amplitudes and latencies",
+          "volume": "64",
+          "author": "Pomares",
+          "year": "2013",
+          "journal-title": "Neuroimage"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0405",
+          "doi-asserted-by": "crossref",
+          "first-page": "354",
+          "DOI": "10.1177/1073858403253660",
+          "article-title": "Functional imaging and pain: behavior, perception, and modulation",
+          "volume": "9",
+          "author": "Porro",
+          "year": "2003",
+          "journal-title": "Neuroscientist"
+        },
+        {
+          "issue": "Suppl. 16",
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0410",
+          "first-page": "4",
+          "article-title": "The application of positron emission tomography to the study of normal and pathologic emotions",
+          "volume": "58",
+          "author": "Reiman",
+          "year": "1997",
+          "journal-title": "J. Clin. Psychiatry"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0415",
+          "doi-asserted-by": "crossref",
+          "first-page": "22",
+          "DOI": "10.1016/j.ijosm.2014.08.003",
+          "article-title": "Interoception, body awareness and chronic pain: results from a case-control study",
+          "volume": "18",
+          "author": "Ribera d'Alcalà",
+          "year": "2015",
+          "journal-title": "I. J. Osteopath. Med."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0420",
+          "doi-asserted-by": "crossref",
+          "first-page": "193",
+          "DOI": "10.1016/j.biopsycho.2014.12.010",
+          "article-title": "Effects of heartbeat feedback on beliefs about heart rate and heartbeat counting: a cautionary tale about interoceptive awareness",
+          "volume": "104",
+          "author": "Ring",
+          "year": "2015",
+          "journal-title": "Biol. Psychol."
+        },
+        {
+          "year": "2000",
+          "series-title": "Nervous System Plasticity and Chronic Pain",
+          "author": "Sandkühler",
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0425"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0430",
+          "doi-asserted-by": "crossref",
+          "first-page": "120",
+          "DOI": "10.1016/j.bbi.2005.11.006",
+          "article-title": "Brain mechanisms of expectation associated with insula and amygdala response to aversive taste: implications for placebo",
+          "volume": "20",
+          "author": "Sarinopoulos",
+          "year": "2006",
+          "journal-title": "Brain Behav. Immun."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0435",
+          "doi-asserted-by": "crossref",
+          "first-page": "7438",
+          "DOI": "10.1523/JNEUROSCI.20-19-07438.2000",
+          "article-title": "Expectation of pain enhances responses to nonpainful somatosensory stimulation in the anterior cingulate cortex and parietal operculum/posterior insula: an event-related functional magnetic resonance imaging study",
+          "volume": "20",
+          "author": "Sawamoto",
+          "year": "2000",
+          "journal-title": "J. Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0440",
+          "doi-asserted-by": "crossref",
+          "first-page": "719",
+          "DOI": "10.1037/a0028509",
+          "article-title": "Is interoceptive awareness really altered in somatoform disorders? Testing competing theories with two paradigms of heartbeat perception",
+          "volume": "121",
+          "author": "Schaefer",
+          "year": "2012",
+          "journal-title": "J. Abnorm. Psychol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0445",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.1016/j.biopsycho.2014.05.012",
+          "article-title": "Improving heartbeat perception in patients with medically unexplained symptoms reduces symptom distress",
+          "volume": "101",
+          "author": "Schaefer",
+          "year": "2014",
+          "journal-title": "Biol. Psychol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0450",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1152/jn.1983.49.1.35",
+          "article-title": "Activation of groups III and IV sensory units in medial articular nerve by local mechanical stimulation of knee joint",
+          "volume": "49",
+          "author": "Schaible",
+          "year": "1983",
+          "journal-title": "J. Neurophysiol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0455",
+          "doi-asserted-by": "crossref",
+          "first-page": "243",
+          "DOI": "10.3109/00207459008986611",
+          "article-title": "Enhancement of heartbeat-related brain potentials through cardiac awareness training",
+          "volume": "53",
+          "author": "Schandry",
+          "year": "1990",
+          "journal-title": "Int. J. Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0460",
+          "doi-asserted-by": "crossref",
+          "first-page": "467",
+          "DOI": "10.1111/j.1469-8986.1993.tb02070.x",
+          "article-title": "On the relation between cardiodynamics and heartbeat perception",
+          "volume": "30",
+          "author": "Schandry",
+          "year": "1993",
+          "journal-title": "Psychophysiology"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0465",
+          "doi-asserted-by": "crossref",
+          "first-page": "483",
+          "DOI": "10.1111/j.1469-8986.1981.tb02486.x",
+          "article-title": "Heart beat perception and emotional experience",
+          "volume": "18",
+          "author": "Schandry",
+          "year": "1981",
+          "journal-title": "Psychophysiology"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0470",
+          "doi-asserted-by": "crossref",
+          "first-page": "22",
+          "DOI": "10.1186/2050-7283-2-22",
+          "article-title": "Rumination and interoceptive accuracy predict the occurrence of the thermal grill illusion of pain",
+          "volume": "2",
+          "author": "Scheuren",
+          "year": "2014",
+          "journal-title": "BMC Psychol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0475",
+          "doi-asserted-by": "crossref",
+          "first-page": "258",
+          "DOI": "10.1007/s12529-014-9433-3",
+          "article-title": "The relevance of accuracy of heartbeat perception in noncardiac and cardiac chest pain",
+          "volume": "22",
+          "author": "Schroeder",
+          "year": "2015",
+          "journal-title": "Int. J. Behav. Med."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0480",
+          "doi-asserted-by": "crossref",
+          "first-page": "167",
+          "DOI": "10.1016/j.biopsycho.2013.01.007",
+          "article-title": "Cold pressor stress induces opposite effects on cardioceptive accuracy dependent on assessment paradigm",
+          "volume": "93",
+          "author": "Schulz",
+          "year": "2013",
+          "journal-title": "Biol. Psychol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0485",
+          "doi-asserted-by": "crossref",
+          "first-page": "2349",
+          "DOI": "10.1523/JNEUROSCI.5587-06.2007",
+          "article-title": "Dissociable intrinsic connectivity networks for salience processing and executive control",
+          "volume": "27",
+          "author": "Seeley",
+          "year": "2007",
+          "journal-title": "J. Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0490",
+          "doi-asserted-by": "crossref",
+          "first-page": "26",
+          "DOI": "10.1016/j.neulet.2010.08.053",
+          "article-title": "Brain resting state is disrupted in chronic back pain patients",
+          "volume": "485",
+          "author": "Tagliazucchi",
+          "year": "2010",
+          "journal-title": "Neurosci. Lett."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0495",
+          "doi-asserted-by": "crossref",
+          "first-page": "1003",
+          "DOI": "10.1097/j.pain.0000000000000160",
+          "article-title": "A classification of chronic pain for ICD-11",
+          "volume": "156",
+          "author": "Treede",
+          "year": "2015",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0500",
+          "doi-asserted-by": "crossref",
+          "first-page": "55",
+          "DOI": "10.1038/nrn3857",
+          "article-title": "Salience processing and insular cortical function and dysfunction",
+          "volume": "16",
+          "author": "Uddin",
+          "year": "2015",
+          "journal-title": "Nat. Rev. Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0505",
+          "doi-asserted-by": "crossref",
+          "first-page": "2753",
+          "DOI": "10.1152/jn.1999.81.6.2753",
+          "article-title": "Unmyelinated afferents constitute a second system coding tactile stimuli of the human hairy skin",
+          "volume": "81",
+          "author": "Vallbo",
+          "year": "1999",
+          "journal-title": "J. Neurophysiol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0510",
+          "doi-asserted-by": "crossref",
+          "first-page": "377",
+          "DOI": "10.1159/000365107",
+          "article-title": "On the interaction of self-regulation, interoception and pain perception",
+          "volume": "47",
+          "author": "Weiss",
+          "year": "2014",
+          "journal-title": "Psychopathology"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0515",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1027/0269-8803.23.1.35",
+          "article-title": "The relationship between pain perception and interoception",
+          "volume": "23",
+          "author": "Werner",
+          "year": "2009",
+          "journal-title": "J. Psychophysiol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0520",
+          "doi-asserted-by": "crossref",
+          "first-page": "552",
+          "DOI": "10.1111/j.1469-8986.1980.tb02296.x",
+          "article-title": "Perception of gastric contractions and self-control of gastric motility",
+          "volume": "17",
+          "author": "Whitehead",
+          "year": "1980",
+          "journal-title": "Psychophysiology"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0525",
+          "doi-asserted-by": "crossref",
+          "first-page": "317",
+          "DOI": "10.1007/BF00998623",
+          "article-title": "Realtion of heart rate control to heartbeat perception",
+          "volume": "2",
+          "author": "Whitehead",
+          "year": "1977",
+          "journal-title": "Biofeedback Self Regul."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0530",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1080/030097400446571",
+          "article-title": "Neuroimaging of chronic pain: phantom limb and musculoskeletal pain",
+          "volume": "113",
+          "author": "Wiech",
+          "year": "2000",
+          "journal-title": "Scand. J. Rheumatol. Suppl."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0535",
+          "doi-asserted-by": "crossref",
+          "first-page": "16324",
+          "DOI": "10.1523/JNEUROSCI.2087-10.2010",
+          "article-title": "Anterior insula integrates information about salience into perceptual decisions about pain",
+          "volume": "30",
+          "author": "Wiech",
+          "year": "2010",
+          "journal-title": "J. Neurosci."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0540",
+          "doi-asserted-by": "crossref",
+          "first-page": "1641",
+          "DOI": "10.1152/jn.00609.2001",
+          "article-title": "Activation of spinobulbar lamina I neurons by static muscle contraction",
+          "volume": "87",
+          "author": "Wilson",
+          "year": "2002",
+          "journal-title": "J. Neurophysiol."
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0545",
+          "doi-asserted-by": "crossref",
+          "first-page": "806",
+          "DOI": "10.1136/bmj.39335.541782.AD",
+          "article-title": "Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies",
+          "volume": "335",
+          "author": "von Elm",
+          "year": "2007",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.neubiorev.2016.09.015_bib0550",
+          "doi-asserted-by": "crossref",
+          "first-page": "1141",
+          "DOI": "10.1016/S0005-7967(98)00202-2",
+          "article-title": "Interoceptive accuracy and panic",
+          "volume": "37",
+          "author": "Zoellner",
+          "year": "1999",
+          "journal-title": "Behav. Res. Ther."
+        }
+      ],
+      "container-title": [
+        "Neuroscience &amp; Biobehavioral Reviews"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0149763416300197?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0149763416300197?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            7,
+            8
+          ]
+        ],
+        "date-time": "2022-07-08T18:57:44Z",
+        "timestamp": 1657306664000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0149763416300197"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            12
+          ]
+        ]
+      },
+      "references-count": 110,
+      "alternative-id": [
+        "S0149763416300197"
+      ],
+      "URL": "https://doi.org/10.1016/j.neubiorev.2016.09.015",
+      "relation": {},
+      "ISSN": [
+        "0149-7634"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0149-7634"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            12
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Pain in the body. Altered interoception in chronic pain conditions: A systematic review",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Neuroscience & Biobehavioral Reviews",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.neubiorev.2016.09.015",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2016 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

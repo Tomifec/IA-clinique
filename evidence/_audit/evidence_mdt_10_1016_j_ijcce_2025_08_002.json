@@ -1,0 +1,1107 @@
+{
+  "file": "evidence\\evidence_mdt_10_1016_j_ijcce_2025_08_002.md",
+  "id": "evidence_mdt_10_1016_j_ijcce_2025_08_002",
+  "doi": "10.1016/j.ijcce.2025.08.002",
+  "pmid": "39915132",
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:09:08.644798Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            11
+          ]
+        ],
+        "date-time": "2025-09-11T20:41:30Z",
+        "timestamp": 1757623290295,
+        "version": "3.44.0"
+      },
+      "reference-count": 73,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2026-12-01T00:00:00Z",
+            "timestamp": 1796083200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2026-12-01T00:00:00Z",
+            "timestamp": 1796083200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                8,
+                21
+              ]
+            ],
+            "date-time": "2025-08-21T00:00:00Z",
+            "timestamp": 1755734400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100018928",
+          "name": "Metropolitan Institute of Technology",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100018928",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "International Journal of Cognitive Computing in Engineering"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.ijcce.2025.08.002",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            21
+          ]
+        ],
+        "date-time": "2025-08-21T21:24:08Z",
+        "timestamp": 1755811448000
+      },
+      "page": "26-39",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "special_numbering": "C",
+      "title": [
+        "Integrating artificial intelligence and quantum computing: A systematic literature review of features and applications"
+      ],
+      "prefix": "10.1016",
+      "volume": "7",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-3418-8956",
+          "authenticated-orcid": false,
+          "given": "Vanessa García",
+          "family": "Pineda",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9434-6923",
+          "authenticated-orcid": false,
+          "given": "Alejandro",
+          "family": "Valencia-Arias",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0446-4307",
+          "authenticated-orcid": false,
+          "given": "Francisco Eugenio López",
+          "family": "Giraldo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5626-2320",
+          "authenticated-orcid": false,
+          "given": "Edison Andrés",
+          "family": "Zapata-Ochoa",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0002",
+          "series-title": "Proceedings - 2020 IEEE 3rd International Conference on Artificial Intelligence and Knowledge Engineering, AIKE 2020",
+          "first-page": "198",
+          "article-title": "Overview on Quantum computing and its applications in artificial intelligence",
+          "author": "Abdelgaber",
+          "year": "2020"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0003",
+          "doi-asserted-by": "crossref",
+          "first-page": "1488",
+          "DOI": "10.1257/aer.20160696",
+          "article-title": "The race between man and machine: Implications of technology for growth, factor shares, and employment",
+          "volume": "108",
+          "author": "Acemoglu",
+          "year": "2018",
+          "journal-title": "American Economic Review"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0004",
+          "first-page": "386",
+          "author": "Agarwal",
+          "year": "2022",
+          "journal-title": "Insurtech Fostering Automated Insurance Process using Deep Learning Approach"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0006",
+          "article-title": "Machine learning method for state preparation and gate synthesis on photonic quantum computers",
+          "volume": "4",
+          "author": "Arrazola",
+          "year": "2019"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0007",
+          "doi-asserted-by": "crossref",
+          "first-page": "47",
+          "DOI": "10.1007/s42484-024-00180-1",
+          "article-title": "SoK: Quantum computing methods for machine learning optimization",
+          "volume": "6",
+          "author": "Baniata",
+          "year": "2024",
+          "journal-title": "Quantum Machine Intelligence"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0008",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1103/PhysRevLett.114.110504",
+          "article-title": "Entanglement-based machine learning on a quantum computer",
+          "volume": "114",
+          "author": "Cai",
+          "year": "2015",
+          "journal-title": "Physical Review Letters"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0009",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1103/PhysRevA.103.022613",
+          "article-title": "Quantum optimal control with quantum computers: A hybrid algorithm featuring machine learning optimization",
+          "volume": "103",
+          "author": "Castaldo",
+          "year": "2021",
+          "journal-title": "Physical Review A"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0010",
+          "doi-asserted-by": "crossref",
+          "first-page": "3738",
+          "DOI": "10.1007/s11227-023-05616-2",
+          "article-title": "Security in internet of things: A review on approaches based on blockchain, machine learning, cryptography, and quantum computing",
+          "volume": "80",
+          "author": "Cherbal",
+          "year": "2024",
+          "journal-title": "The Journal of Supercomputing"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0012",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1103/PhysRevResearch.2.033051",
+          "article-title": "Quantum criticality of loops with topologically constrained dynamics",
+          "volume": "2",
+          "author": "Dai",
+          "year": "2020",
+          "journal-title": "Physical Review Research"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0013",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Damaševičius, R., & Misra, S. (2024). The rise of industry 6.0 (pp. 478–494). doi:10.4018/979-8-3693-2081-5.ch020.",
+          "DOI": "10.4018/979-8-3693-2081-5.ch020"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0015",
+          "series-title": "2024 IEEE Mediterranean and Middle-East Geoscience and Remote Sensing Symposium (M2GARSS)",
+          "first-page": "371",
+          "article-title": "Quantum-assisted machine learning by means of adiabatic Quantum computing",
+          "author": "Duarte",
+          "year": "2024"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0016",
+          "doi-asserted-by": "crossref",
+          "first-page": "521",
+          "DOI": "10.1049/cmu2.12284",
+          "article-title": "A sequential roadmap to industry 6.0: Exploring future manufacturing trends",
+          "volume": "16",
+          "author": "Duggal",
+          "year": "2022",
+          "journal-title": "IET Communications"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0017",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Espuny, M., da Motta Reis, J.S., Monteiro Diogo, G.M., Reis Campos, T.L., de Mello Santos, V.H., Ferreira Costa, A.C., Gonçalves, G.S., Tasinaffo, P.M., Vieira Dias, L.A., da Cunha, A.M., de Souza Sampaio, N.A., Rodrigues, A.M., & de Oliveira, O.J. (2021). COVID-19: The importance of artificial intelligence and digital health during a pandemic (pp. 27–32). doi:10.1007/978-3-030-70416-2_4.",
+          "DOI": "10.1007/978-3-030-70416-2_4"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0018",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/qute.202300219",
+          "article-title": "Nuclear physics in the era of Quantum computing and Quantum machine learning",
+          "author": "García-Ramos",
+          "year": "2024",
+          "journal-title": "Advanced Quantum Technologies"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0020",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.eneco.2024.108017",
+          "article-title": "Dynamic connectedness of quantum computing, artificial intelligence, and big data stocks on renewable and sustainable energy",
+          "volume": "140",
+          "author": "Ghaemi Asl",
+          "year": "2024",
+          "journal-title": "Energy Economics"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0021",
+          "first-page": "20",
+          "article-title": "View of Quantum machine learning_ bridging the gap between classical and quantum computing",
+          "author": "Ghodke",
+          "year": "2024",
+          "journal-title": "Journal of Electrical Systems"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0022",
+          "first-page": "116",
+          "article-title": "Machine learning and quantum computing for reactive turbulence modeling and simulation",
+          "author": "Givi",
+          "year": "2021",
+          "journal-title": "Mechanics Research Communications"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0023",
+          "doi-asserted-by": "crossref",
+          "first-page": "102",
+          "DOI": "10.17549/gbfr.2020.25.1.102",
+          "article-title": "Analysis of the current and future of the artificial intelligence in financial industry with big data techniques",
+          "volume": "25",
+          "author": "Go",
+          "year": "2020",
+          "journal-title": "Global Business Finance Review"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0025",
+          "article-title": "Unsupervised quantum gate control for gate-model quantum computers",
+          "volume": "10",
+          "author": "Gyongyosi",
+          "year": "2020",
+          "journal-title": "Scientific Reports"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0026",
+          "doi-asserted-by": "crossref",
+          "first-page": "135",
+          "DOI": "10.1038/s41598-019-56689-0",
+          "article-title": "Optimizing high-efficiency quantum memory with Quantum machine learning for near-term quantum devices",
+          "volume": "10",
+          "author": "Gyongyosi",
+          "year": "2020",
+          "journal-title": "Scientific Reports"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0027",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/cl2.1230",
+          "article-title": "PRISMA2020 : An R package and Shiny app for producing PRISMA 2020-compliant flow diagrams, with interactivity for optimised digital transparency and Open synthesis",
+          "volume": "18",
+          "author": "Haddaway",
+          "year": "2022",
+          "journal-title": "Campbell Systematic Reviews"
+        },
+        {
+          "issue": "6696",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0028",
+          "doi-asserted-by": "crossref",
+          "first-page": "647",
+          "DOI": "10.1126/science.adk9749",
+          "article-title": "Large quantum anomalous Hall effect in spin-orbit proximitized rhombohedral graphene",
+          "volume": "384",
+          "author": "Han",
+          "year": "2024",
+          "journal-title": "Science"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0029",
+          "article-title": "Quantum computation with machine-learning-controlled quantum stuff",
+          "volume": "2",
+          "author": "Hardy",
+          "year": "2020",
+          "journal-title": "Machine Learning: Science and Technology"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0030",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Harrow, A.W. (2023). Approximate orthogonality of permutation operators, with application to quantum information. doi:10.1007/s11005-023-01744-1.",
+          "DOI": "10.1007/s11005-023-01744-1"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0031",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1103/PRXQuantum.6.010316",
+          "article-title": "Optimal quantum circuit cuts with application to clustered hamiltonian simulation",
+          "volume": "6",
+          "author": "Harrow",
+          "year": "2025",
+          "journal-title": "PRX Quantum"
+        },
+        {
+          "issue": "14",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0032",
+          "doi-asserted-by": "crossref",
+          "first-page": "6049",
+          "DOI": "10.1021/acs.jctc.4c00697",
+          "article-title": "Energetic information from information-theoretic approach in density functional theory as quantitative measures of physicochemical properties",
+          "volume": "20",
+          "author": "He",
+          "year": "2024",
+          "journal-title": "Journal of Chemical Theory and Computation"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0034",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1049/qtc2.12086",
+          "article-title": "Quantum computer based feature selection in machine learning",
+          "author": "Hellstern",
+          "year": "2024",
+          "journal-title": "IET Quantum Communication"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0036",
+          "doi-asserted-by": "crossref",
+          "first-page": "1050",
+          "DOI": "10.1038/s41567-020-0932-7",
+          "article-title": "Predicting many properties of a quantum system from very few measurements",
+          "volume": "16",
+          "author": "Huang",
+          "year": "2020",
+          "journal-title": "Nature Physics"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0037",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1038/s41598-022-22940-4",
+          "article-title": "Noise-robust optimization of quantum machine learning models for polymer properties using a simulator and validated on the IonQ quantum computer",
+          "volume": "12",
+          "author": "Ishiyama",
+          "year": "2022",
+          "journal-title": "Scientific Reports"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0038",
+          "doi-asserted-by": "crossref",
+          "first-page": "466",
+          "DOI": "10.1021/acs.jpca.3c05630",
+          "article-title": "Reformulation of all ONIOM-type molecular fragmentation approaches and many-body theories using graph-theory-based projection operators: Applications to dynamics, molecular potential surfaces, machine learning, and quantum computing",
+          "volume": "128",
+          "author": "Iyengar",
+          "year": "2024",
+          "journal-title": "Journal of Physical Chemistry A"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0039",
+          "series-title": "Deep learning tools for predicting stock market movements",
+          "first-page": "123",
+          "article-title": "Artificial intelligence and quantum computing techniques for stock market predictions",
+          "author": "Iyer",
+          "year": "2024"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0040",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jlumin.2024.120906",
+          "article-title": "Luminescent perovskite quantum dots: Progress in fabrication, modelling and machine learning approaches for advanced photonic and quantum computing applications",
+          "volume": "277",
+          "author": "Jayan K",
+          "year": "2025",
+          "journal-title": "Journal of Luminescence"
+        },
+        {
+          "issue": "Issue 14s",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0041",
+          "article-title": "International Journal of INTELLIGENT SYSTEMS AND APPLICATIONS IN ENGINEERING Quantum Computing and Healthcare: Drug discovery and Molecular Simulation with machine learning",
+          "author": "Jeyalakshmi",
+          "year": "2024",
+          "journal-title": "Original Research Paper International Journal of Intelligent Systems and Applications in Engineering IJISAE"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0042",
+          "series-title": "2024 S International Conference on Advances in Information Technology (ICAIT)",
+          "first-page": "1",
+          "article-title": "Machine learning approach for Parkinson’s disease prediction through Quantum computing techniques",
+          "author": "K",
+          "year": "2024"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0043",
+          "series-title": "Quantum-Safe cryptography algorithms and approaches",
+          "first-page": "159",
+          "article-title": "12 Review and significance of cryptography and machine learning in quantum computing",
+          "author": "Kishor",
+          "year": "2023"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0044",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1109/TQE.2021.3068355",
+          "article-title": "Survey on quantum circuit compilation for noisy intermediate-scale quantum computers: Artificial intelligence to heuristics",
+          "volume": "2",
+          "author": "Kusyk",
+          "year": "2021",
+          "journal-title": "IEEE Transactions on Quantum Engineering"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0047",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.sbi.2024.102919",
+          "article-title": "The next revolution in computational simulations: Harnessing AI and quantum computing in molecular dynamics",
+          "volume": "89",
+          "author": "Lappala",
+          "year": "2024",
+          "journal-title": "Current Opinion in Structural Biology"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0048",
+          "first-page": "135",
+          "article-title": "Harvesting chemical understanding with machine learning and quantum computers",
+          "volume": "Vol. 4",
+          "author": "Liu",
+          "year": "2024"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0050",
+          "doi-asserted-by": "crossref",
+          "first-page": "313",
+          "DOI": "10.1016/j.ijcce.2025.01.010",
+          "article-title": "An improved quantum-inspired particle swarm optimisation approach to reduce energy consumption in IoT networks",
+          "volume": "6",
+          "author": "Mahmoudi",
+          "year": "2025",
+          "journal-title": "International Journal of Cognitive Computing in Engineering"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0051",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1103/PhysRevA.108.032616",
+          "article-title": "Machine-learning-inspired quantum optimal control of nonadiabatic geometric quantum computation via reverse engineering",
+          "volume": "108",
+          "author": "Mao",
+          "year": "2023",
+          "journal-title": "Physical Review A"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0052",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Marshall, S.C., Gyurik, C., & Dunjko, V. (2022). High dimensional quantum machine learning with small quantum computers. doi:10.22331/q-2023-08-09-1078.",
+          "DOI": "10.22331/q-2023-08-09-1078"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0053",
+          "first-page": "12",
+          "article-title": "Noise fingerprints in quantum computers: Machine learning software tools[Formula presented]",
+          "author": "Martina",
+          "year": "2022",
+          "journal-title": "Software Impacts"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0055",
+          "doi-asserted-by": "crossref",
+          "first-page": "213",
+          "DOI": "10.1007/s11192-015-1765-5",
+          "article-title": "The journal coverage of Web of Science and Scopus: A comparative analysis",
+          "volume": "106",
+          "author": "Mongeon",
+          "year": "2016",
+          "journal-title": "Scientometrics"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0056",
+          "doi-asserted-by": "crossref",
+          "first-page": "89",
+          "DOI": "10.1007/s13748-014-0059-0",
+          "article-title": "Can artificial intelligence benefit from quantum computing?",
+          "volume": "3",
+          "author": "Moret-Bonillo",
+          "year": "2015",
+          "journal-title": "Progress in Artificial Intelligence"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0057",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.47172/2965-730X.SDGsReview.v5.n02.pe04549",
+          "article-title": "Artificial intelligence, Quantum computing, autonomous operation, emotional intelligence: Key drivers of industry 6.0 and sustainabile development goals (SDG-8,9,12,17) for business sustainability in the oil and gas industry",
+          "volume": "5",
+          "author": "Murugan",
+          "year": "2025",
+          "journal-title": "Journal of Lifestyle and SDGs Review"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0058",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.47172/2965-730X.SDGsReview.v5.n02.pe04549",
+          "article-title": "Artificial intelligence, Quantum computing, autonomous operation, emotional intelligence: Key drivers of industry 6.0 and sustainabile development goals (SDG-8,9,12,17) for business sustainability in the oil and gas industry",
+          "volume": "5",
+          "author": "Murugan",
+          "year": "2025",
+          "journal-title": "Journal of Lifestyle and SDGs Review"
+        },
+        {
+          "journal-title": "Quantum Cloud Computing: A Review, Open Problems, and Future Directions",
+          "year": "2024",
+          "author": "Nguyen",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0059"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0061",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1038/s41598-023-44113-7",
+          "article-title": "Quantum computing and machine learning for arabic language sentiment classification in social media",
+          "volume": "13",
+          "author": "Omar",
+          "year": "2023",
+          "journal-title": "Scientific Reports"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0063",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ijsu.2021.105906",
+          "article-title": "The PRISMA 2020 statement: An updated guideline for reporting systematic reviews",
+          "volume": "88",
+          "author": "Page",
+          "year": "2021",
+          "journal-title": "International Journal of Surgery"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0065",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Pathak, S., Arora, K., & Quraishi, S.J. (2024). Strategic challenges of Human resources management in the industry 6.0 (pp. 169–190). doi:10.4018/978-1-6684-9596-4.ch009.",
+          "DOI": "10.4018/978-1-6684-9596-4.ch009"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0066",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Peixoto, M.C., Castro, N.F., Romão, M.C., Oliveira, M.G.J., & Ochoa, I. (2022). Fitting a collider in a quantum computer: Tackling the challenges of quantum machine learning for big datasets. doi:10.3389/frai.2023.1268852.",
+          "DOI": "10.3389/frai.2023.1268852"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0069",
+          "article-title": "Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers",
+          "volume": "3",
+          "author": "Perdomo-Ortiz",
+          "year": "2018"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "12",
+          "DOI": "10.3390/publications9010012",
+          "article-title": "Web of science (WoS) and Scopus: The titans of bibliographic information in Today’s academic world",
+          "volume": "9",
+          "author": "Pranckutė",
+          "year": "2021",
+          "journal-title": "Publications"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0071",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1145/3723153",
+          "article-title": "Beyond NISQ: The megaquop Machine",
+          "volume": "6",
+          "author": "Preskill",
+          "year": "2025",
+          "journal-title": "ACM Transactions on Quantum Computing"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0072",
+          "series-title": "Quantum computing for healthcare data",
+          "first-page": "139",
+          "article-title": "Integration of quantum artificial intelligence in healthcare system",
+          "author": "Pujahari",
+          "year": "2025"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0073",
+          "doi-asserted-by": "crossref",
+          "first-page": "28",
+          "DOI": "10.1080/23742917.2024.2312671",
+          "article-title": "Cyber diplomacy: Defining the opportunities for cybersecurity and risks from Artificial Intelligence, IoT, Blockchains, and Quantum computing",
+          "volume": "9",
+          "author": "Radanliev",
+          "year": "2025",
+          "journal-title": "Journal of Cyber Security Technology"
+        },
+        {
+          "year": "2024",
+          "series-title": "Industry 6.0",
+          "author": "Reddy",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0074"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0075",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1109/JIOT.2025.3535414",
+          "article-title": "A new alliance of Machine Learning and Quantum Computing: Concepts, attacks, and challenges in IoT networks",
+          "author": "Rishiwal",
+          "year": "2025",
+          "journal-title": "IEEE Internet of Things Journal"
+        },
+        {
+          "issue": "67",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0076",
+          "doi-asserted-by": "crossref",
+          "first-page": "137",
+          "DOI": "10.31439/UNISCI-223",
+          "article-title": "Cybersecurity implications of quantum computing and its combined use with artificial intelligence",
+          "volume": "23",
+          "author": "Rodriguez",
+          "year": "2025",
+          "journal-title": "UNISCI Journal"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0077",
+          "doi-asserted-by": "crossref",
+          "first-page": "3572",
+          "DOI": "10.3390/en16083572",
+          "article-title": "Quantum Computing and Machine learning for cybersecurity: Distributed denial of service (DDoS) attack detection on smart micro-grid",
+          "volume": "16",
+          "author": "Said",
+          "year": "2023",
+          "journal-title": "Energies"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0078",
+          "doi-asserted-by": "crossref",
+          "first-page": "544",
+          "DOI": "10.1007/s11082-023-06187-5",
+          "article-title": "RETRACTED ARTICLE: Neuro quantum computing based optoelectronic artificial intelligence in electroencephalogram signal analysis",
+          "volume": "56",
+          "author": "Sangeetha",
+          "year": "2024",
+          "journal-title": "Optical and Quantum Electronics"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0080",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1063/5.0099469",
+          "article-title": "Extending the reach of quantum computing for materials science with machine learning potentials",
+          "volume": "12",
+          "author": "Schuhmacher",
+          "year": "2022",
+          "journal-title": "AIP Advances"
+        },
+        {
+          "volume": "2024",
+          "year": "2024",
+          "author": "Shrivastava",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0082"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0083",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jenvman.2024.120977",
+          "article-title": "The role of artificial intelligence and fintech in promoting eco-friendly investments and non-greenwashing practices in the US market",
+          "volume": "359",
+          "author": "Si Mohammed",
+          "year": "2024",
+          "journal-title": "Journal of Environmental Management"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0084",
+          "first-page": "463",
+          "article-title": "The potential of quantum computing and machine learning to advance clinical research and change the practice of medicine",
+          "volume": "115",
+          "author": "Solenov",
+          "year": "2018",
+          "journal-title": "Missouri Medicine"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0086",
+          "doi-asserted-by": "crossref",
+          "first-page": "1553",
+          "DOI": "10.1007/s13132-020-00683-9",
+          "article-title": "Total Quality Management and Innovation: Linkages and evidence from the agro-food industry",
+          "volume": "12",
+          "author": "Sotirelis",
+          "year": "2021",
+          "journal-title": "Journal of the Knowledge Economy"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0088",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1093/pnasnexus/pgac133",
+          "article-title": "High-fidelity control of spin ensemble dynamics via artificial intelligence: From quantum computing to NMR spectroscopy and imaging",
+          "volume": "1",
+          "author": "Subrahmanian",
+          "year": "2022",
+          "journal-title": "PNAS Nexus"
+        },
+        {
+          "key": "10.1016/j.ijcce.2025.08.002_bib0089",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1021/acs.jcim.1c00294",
+          "article-title": "Implementation of quantum machine learning for electronic structure calculations of periodic systems on Quantum computing devices",
+          "author": "Sureshbabu",
+          "year": "2021",
+          "journal-title": "Journal of Chemical Information and Modeling"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0090",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1038/s41524-020-0282-0",
+          "article-title": "Framework for atomic-level characterisation of quantum computer arrays by machine learning",
+          "volume": "6",
+          "author": "Usman",
+          "year": "2020",
+          "journal-title": "Npj Computational Materials"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0092",
+          "doi-asserted-by": "crossref",
+          "first-page": "537",
+          "DOI": "10.3233/AIC-160699",
+          "article-title": "Artificial intelligence and a universal quantum computer",
+          "volume": "29",
+          "author": "Wichert",
+          "year": "2016",
+          "journal-title": "AI Communications"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0094",
+          "doi-asserted-by": "crossref",
+          "first-page": "727",
+          "DOI": "10.1016/j.tree.2023.04.001",
+          "article-title": "Quantum computing: A new paradigm for ecology",
+          "volume": "38",
+          "author": "Woolnough",
+          "year": "2023",
+          "journal-title": "Trends in Ecology & Evolution"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0095",
+          "first-page": "48",
+          "article-title": "Application of quantum machine learning using the quantum variational classifier method to high energy physics analysis at the LHC on IBM quantum computer simulator and hardware with 10 qubits",
+          "author": "Wu",
+          "year": "2021",
+          "journal-title": "Journal of Physics G: Nuclear and Particle Physics"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.ijcce.2025.08.002_bib0097",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1103/PhysRevApplied.18.064016",
+          "article-title": "Hybrid entanglement distribution between remote microwave quantum computers empowered by machine learning",
+          "volume": "18",
+          "author": "Zhang",
+          "year": "2022",
+          "journal-title": "Physical Review Applied"
+        }
+      ],
+      "container-title": [
+        "International Journal of Cognitive Computing in Engineering"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S266630742500035X?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S266630742500035X?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T05:12:14Z",
+        "timestamp": 1757394734000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S266630742500035X"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      },
+      "references-count": 73,
+      "alternative-id": [
+        "S266630742500035X"
+      ],
+      "URL": "https://doi.org/10.1016/j.ijcce.2025.08.002",
+      "relation": {},
+      "ISSN": [
+        "2666-3074"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2666-3074"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Integrating artificial intelligence and quantum computing: A systematic literature review of features and applications",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "International Journal of Cognitive Computing in Engineering",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.ijcce.2025.08.002",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2025 The Authors. Publishing Services by Elsevier B.V. on behalf of KeAi Communications Co. Ltd.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    },
+    "pubmed_summary": {
+      "uid": "39915132",
+      "pubdate": "2025 Mar 1",
+      "epubdate": "2025 Feb 5",
+      "source": "Environ Res",
+      "authors": [
+        {
+          "name": "Christina B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thanigaimani K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sudhakaran R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohan S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arumugam N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Almansour AI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mahalingam SM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mahalingam SM",
+      "title": "Retraction notice to \"Pyto-Architechture of Ag, Au and Ag-Au bi-metallic nanoparticles using waste orange peel extract for enable carcinogenic Congo red dye degradation\" [Environ. Res. 242 (2024) 117625].",
+      "sorttitle": "retraction notice to pyto architechture of ag au and ag au bi metallic nanoparticles using waste orange peel extract for enable carcinogenic congo red dye degradation environ res 242 2024 117625",
+      "volume": "268",
+      "issue": "",
+      "pages": "120991",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147621",
+      "issn": "0013-9351",
+      "essn": "1096-0953",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39915132"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.envres.2025.120991"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0013-9351(25)00242-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/02/07 00:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/02/07 00:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/02/06 21:57"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Environ Res. 2024 Feb 1;242:117625. doi: 10.1016/j.envres.2023.117625.",
+          "reftype": "Retraction of",
+          "pmid": 38007079,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Environmental research",
+      "elocationid": "doi: 10.1016/j.envres.2025.120991",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/03/01 00:00",
+      "sortfirstauthor": "Christina B",
+      "vernaculartitle": ""
+    }
+  }
+}

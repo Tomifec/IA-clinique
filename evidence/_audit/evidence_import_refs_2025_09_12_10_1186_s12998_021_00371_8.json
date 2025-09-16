@@ -1,0 +1,616 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_s12998_021_00371_8.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_s12998_021_00371_8",
+  "doi": "10.1186/s12998-021-00371-8",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:14.778147Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            5
+          ]
+        ],
+        "date-time": "2025-08-05T12:20:26Z",
+        "timestamp": 1754396426824,
+        "version": "3.37.3"
+      },
+      "reference-count": 28,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                4,
+                19
+              ]
+            ],
+            "date-time": "2021-04-19T00:00:00Z",
+            "timestamp": 1618790400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                4,
+                19
+              ]
+            ],
+            "date-time": "2021-04-19T00:00:00Z",
+            "timestamp": 1618790400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "the Foundation for Chiropractic Research and Postgraduate Education",
+          "award": [
+            "14/1206"
+          ]
+        },
+        {
+          "name": "The European Centre for Chiropractic Research Excellence",
+          "award": [
+            "21‐2017‐DK‐LVH"
+          ]
+        },
+        {
+          "name": "the Fund for General Practice",
+          "award": [
+            "15/2421"
+          ]
+        },
+        {
+          "name": "Region of Southern Denmark",
+          "award": [
+            "18/51849"
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Chiropr Man Therap"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            12
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Background</jats:title><jats:p>Chiropractic care is commonly used to treat infantile colic. However large trials with parental blinding are missing. Therefore, the purpose of this study is to evaluate the effect of chiropractic care on infantile colic.</jats:p></jats:sec><jats:sec><jats:title>Method</jats:title><jats:p>This is a multicenter, single-blind randomized controlled trial conducted in four Danish chiropractic clinics, 2015–2019. Information was distributed in the maternity wards and by maternal and child health nurses. Children aged 2–14 weeks with unexplained excessive crying were recruited through home visits and randomized (1:1) to either chiropractic care or control group. Both groups attended the chiropractic clinic twice a week for 2 weeks. The intervention group received chiropractic care, while the control group was not treated. The parents were not present in the treatment room and unaware of their child’s allocation.</jats:p><jats:p>The primary outcome was change in daily hours of crying before and after treatment. Secondary outcomes were changes in hours of sleep, hours being awake and content, gastrointestinal symptoms, colic status and satisfaction. All outcomes were based on parental diaries and a final questionnaire.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>Of 200 recruited children, 185 completed the trial (treatment group<jats:italic>n</jats:italic> = 96; control group<jats:italic>n</jats:italic> = 89). Duration of crying in the treatment group was reduced by 1.5 h compared with 1 h in the control group (mean difference − 0.6, 95% CI − 1.1 to − 0.1;<jats:italic>P</jats:italic> = 0.026), but when adjusted for baseline hours of crying, age and chiropractic clinic, the difference was not significant (<jats:italic>P</jats:italic> = 0.066). The proportion obtaining a clinically important reduction of 1 h of crying was 63% in the treatment group and 47% in the control group (<jats:italic>p</jats:italic> = 0.037), and NNT was 6.5. We found no effect on any of the secondary outcomes.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>Excessive crying was reduced by half an hour in favor of the group receiving chiropractic care compared with the control group, but not at a statistically significant level after adjustments. From a clinical perspective, the mean difference between the groups was small, but there were large individual differences, which emphasizes the need to investigate if subgroups of children, e.g. those with musculoskeletal problems, benefit more than others from chiropractic care.</jats:p></jats:sec><jats:sec><jats:title>Trial registration</jats:title><jats:p>Clinical Trials<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://clinicaltrials.gov/ct2/show/NCT02595515\">NCT02595515</jats:ext-link>, registered 2 November 2015</jats:p></jats:sec>",
+      "DOI": "10.1186/s12998-021-00371-8",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            19
+          ]
+        ],
+        "date-time": "2021-04-19T07:03:01Z",
+        "timestamp": 1618815781000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 10,
+      "title": [
+        "The effect of chiropractic care on infantile colic: results from a single-blind randomised controlled trial"
+      ],
+      "prefix": "10.1186",
+      "volume": "29",
+      "author": [
+        {
+          "given": "Lise Vilstrup",
+          "family": "Holm",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Dorte Ejg",
+          "family": "Jarbøl",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Henrik Wulff",
+          "family": "Christensen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jens",
+          "family": "Søndergaard",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1620-4556",
+          "authenticated-orcid": false,
+          "given": "Lise",
+          "family": "Hestbæk",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            19
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "371_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "55",
+          "DOI": "10.1016/j.jpeds.2017.02.020",
+          "volume": "185",
+          "author": "D Wolke",
+          "year": "2017",
+          "unstructured": "Wolke D, Bilgin A, Samara M. Systematic review and meta-analysis: fussing and crying durations and prevalence of colic in infants. J Pediatr. 2017;185:55–61.e4.",
+          "journal-title": "J Pediatr"
+        },
+        {
+          "issue": "5",
+          "key": "371_CR2",
+          "doi-asserted-by": "crossref",
+          "first-page": "421",
+          "DOI": "10.1542/peds.14.5.421",
+          "volume": "14",
+          "author": "MA Wessel",
+          "year": "1954",
+          "unstructured": "Wessel MA, Cobb JC, Jackson EB, Harris GS Jr, Detwiler AC. Paroxysmal fussing in infancy, sometimes called colic. Pediatrics. 1954;14(5):421–35.",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "371_CR3",
+          "unstructured": "Benninga MA, Faure C, Hyman PE, St James Roberts I, Schechter NL, Nurko S. Childhood functional gastrointestinal disorders: neonate/toddler. Gastroenterology. 2016;S0016-5085(16)00182-7."
+        },
+        {
+          "issue": "8",
+          "key": "371_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "479",
+          "DOI": "10.1038/s41575-018-0008-7",
+          "volume": "15",
+          "author": "J Zeevenhooven",
+          "year": "2018",
+          "unstructured": "Zeevenhooven J, Browne PD, L'Hoir MP, de Weerth C, Benninga MA. Infant colic: mechanisms and management. Nat Rev Gastroenterol Hepatol. 2018;15(8):479–96. https://doi.org/10.1038/s41575-018-0008-7.",
+          "journal-title": "Nat Rev Gastroenterol Hepatol"
+        },
+        {
+          "issue": "11",
+          "key": "371_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "979",
+          "DOI": "10.1007/s13312-018-1423-0",
+          "volume": "55",
+          "author": "JM Sarasu",
+          "year": "2018",
+          "unstructured": "Sarasu JM, Narang M, Shah D. Infantile Colic: An Update. Indian Pediatr. 2018;55(11):979–87. https://doi.org/10.1007/s13312-018-1423-0.",
+          "journal-title": "Indian Pediatr"
+        },
+        {
+          "issue": "4",
+          "key": "371_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "573",
+          "DOI": "10.1111/apa.13642",
+          "volume": "106",
+          "author": "F Savino",
+          "year": "2017",
+          "unstructured": "Savino F, Quartieri A, De Marco A, Garro M, Amaretti A, Raimondi S, et al. Comparison of formula-fed infants with and without colic revealed significant differences in total bacteria, Enterobacteriaceae and faecal ammonia. Acta Paediatr. 2017;106(4):573–8. https://doi.org/10.1111/apa.13642.",
+          "journal-title": "Acta Paediatr"
+        },
+        {
+          "issue": "1",
+          "key": "371_CR7",
+          "first-page": "1097",
+          "volume": "14",
+          "author": "J Miller",
+          "year": "2013",
+          "unstructured": "Miller J, Weber S. Is infant colic an allergic response to cow’s milk? What is the evidence? J Clin Chiropr Pediatr. 2013;14(1):1097–102.",
+          "journal-title": "J Clin Chiropr Pediatr"
+        },
+        {
+          "issue": "2",
+          "key": "371_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "313",
+          "DOI": "10.1016/j.neubiorev.2005.01.001",
+          "volume": "29",
+          "author": "I St James-Roberts",
+          "year": "2005",
+          "unstructured": "St James-Roberts I, Conroy S. Do pregnancy and childbirth adversities predict infant crying and colic? Findings and recommendations. Neurosci Biobehav Rev. 2005;29(2):313–20. https://doi.org/10.1016/j.neubiorev.2005.01.001.",
+          "journal-title": "Neurosci Biobehav Rev"
+        },
+        {
+          "issue": "5",
+          "key": "371_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "341",
+          "DOI": "10.1016/j.earlhumdev.2005.09.016",
+          "volume": "82",
+          "author": "H Wurmser",
+          "year": "2006",
+          "unstructured": "Wurmser H, Rieger M, Domogalla C, Kahnt A, Buchwald J, Kowatsch M, et al. Association between life stress during pregnancy and infant crying in the first six months postpartum: a prospective longitudinal study. Early Hum Dev. 2006;82(5):341–9. https://doi.org/10.1016/j.earlhumdev.2005.09.016.",
+          "journal-title": "Early Hum Dev"
+        },
+        {
+          "issue": "9",
+          "key": "371_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "1351",
+          "DOI": "10.1111/j.1742-1241.2009.02133.x",
+          "volume": "63",
+          "author": "E Ernst",
+          "year": "2009",
+          "unstructured": "Ernst E. Chiropractic spinal manipulation for infant colic: a systematic review of randomised clinical trials. Int J Clin Pract. 2009;63(9):1351–3. https://doi.org/10.1111/j.1742-1241.2009.02133.x.",
+          "journal-title": "Int J Clin Pract"
+        },
+        {
+          "issue": "1",
+          "key": "371_CR11",
+          "first-page": "958",
+          "volume": "13",
+          "author": "J Langkau",
+          "year": "2012",
+          "unstructured": "Langkau J, Miller J. An investigation of musuculoskeletal dysfunction in infants includes a case series of kiss diagnosed children. J Clin Chiro. 2012;13(1):958–67.",
+          "journal-title": "J Clin Chiro"
+        },
+        {
+          "key": "371_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "149",
+          "DOI": "10.1016/j.copsyc.2017.02.009",
+          "volume": "15",
+          "author": "DM Zeifman",
+          "year": "2017",
+          "unstructured": "Zeifman DM, St James-Roberts I. Parenting the crying infant. Curr Opin Psychol. 2017;15:149–54. https://doi.org/10.1016/j.copsyc.2017.02.009.",
+          "journal-title": "Curr Opin Psychol"
+        },
+        {
+          "key": "371_CR13",
+          "unstructured": "Lucassen P. Colic in infants. BMJ Clin Evid. 2015;2015;0309."
+        },
+        {
+          "issue": "1",
+          "key": "371_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "14",
+          "DOI": "10.1177/0009922808323116",
+          "volume": "48",
+          "author": "J Cohen-Silver",
+          "year": "2009",
+          "unstructured": "Cohen-Silver J, Ratnapalan S. Management of infantile colic: a review. Clin Pediatr (Phila). 2009;48(1):14–7. https://doi.org/10.1177/0009922808323116.",
+          "journal-title": "Clin Pediatr (Phila)"
+        },
+        {
+          "issue": "5",
+          "key": "371_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "372",
+          "DOI": "10.1016/j.jmpt.2012.04.008",
+          "volume": "35",
+          "author": "AM Marchand",
+          "year": "2012",
+          "unstructured": "Marchand AM. Chiropractic care of children from birth to adolescence and classification of reported conditions: an internet cross-sectional survey of 956 European chiropractors. J Manip Physiol Ther. 2012;35(5):372–80. https://doi.org/10.1016/j.jmpt.2012.04.008.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "371_CR16",
+          "unstructured": "Source: Statistics Denmark. Number of chiropractic visits for pediatric 0–12 months old in Denmark in the time period 2008–2018 [in Danish]. Accessed 20 May 2020. Available from: https://www.statistikbanken.dk/statbank5a/default.asp?w=1882"
+        },
+        {
+          "issue": "8",
+          "key": "371_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "607",
+          "DOI": "10.1016/j.jmpt.2009.08.024",
+          "volume": "32",
+          "author": "L Hestbaek",
+          "year": "2009",
+          "unstructured": "Hestbaek L, Jørgensen A, Hartvigsen J. A description of children and adolescents in Danish chiropractic practice: results from a nationwide survey. J Manip Physiol Ther. 2009;32(8):607–15. https://doi.org/10.1016/j.jmpt.2009.08.024.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "371_CR18",
+          "first-page": "Cd004796",
+          "volume": "12",
+          "author": "D Dobson",
+          "year": "2012",
+          "unstructured": "Dobson D, Lucassen PL, Miller JJ, Vlieger AM, Prescott P, Lewith G. Manipulative therapies for infantile colic. Cochrane Database Syst Rev. 2012;12:Cd004796.",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "371_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "e019040",
+          "DOI": "10.1136/bmjopen-2017-019040",
+          "volume": "8",
+          "author": "D Carnes",
+          "year": "2018",
+          "unstructured": "Carnes D, Plunkett A, Ellwood J, Miles C. Manual therapy for unsettled, distressed and excessively crying infants: a systematic review and meta-analyses. BMJ Open. 2018;8(1):e019040. https://doi.org/10.1136/bmjopen-2017-019040.",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "issue": "1",
+          "key": "371_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "17",
+          "DOI": "10.1186/s12998-018-0188-9",
+          "volume": "26",
+          "author": "LV Holm",
+          "year": "2018",
+          "unstructured": "Holm LV, Jarbøl DE, Christensen HW, Søndergaard J, Hestbæk L. The effect of chiropractic treatment on infantile colic: study protocol for a single-blind randomized controlled trial. Chiropr Man Therap. 2018;26(1):17. https://doi.org/10.1186/s12998-018-0188-9.",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "issue": "4",
+          "key": "371_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "380",
+          "DOI": "10.1136/adc.63.4.380",
+          "volume": "63",
+          "author": "RG Barr",
+          "year": "1988",
+          "unstructured": "Barr RG, Kramer MS, Boisjoly C, McVey-White L, Pless IB. Parental diary of infant cry and fuss behaviour. Arch Dis Child. 1988;63(4):380–7. https://doi.org/10.1136/adc.63.4.380.",
+          "journal-title": "Arch Dis Child"
+        },
+        {
+          "issue": "8",
+          "key": "371_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "600",
+          "DOI": "10.1016/j.jmpt.2012.09.010",
+          "volume": "35",
+          "author": "JE Miller",
+          "year": "2012",
+          "unstructured": "Miller JE, Newell D, Bolton JE. Efficacy of chiropractic manual therapy on infant colic: a pragmatic single-blind, randomized controlled trial. J Manip Physiol Ther. 2012;35(8):600–7. https://doi.org/10.1016/j.jmpt.2012.09.010.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "issue": "3",
+          "key": "371_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "664",
+          "DOI": "10.1093/ije/dym088",
+          "volume": "36",
+          "author": "DL Sackett",
+          "year": "2007",
+          "unstructured": "Sackett DL. Commentary: measuring the success of blinding in RCTs: don't, must, can't or needn't? Int J Epidemiol. 2007;36(3):664–5. https://doi.org/10.1093/ije/dym088.",
+          "journal-title": "Int J Epidemiol"
+        },
+        {
+          "issue": "1",
+          "key": "371_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "271",
+          "DOI": "10.1186/s13643-019-1191-5",
+          "volume": "8",
+          "author": "R Perry",
+          "year": "2019",
+          "unstructured": "Perry R, Leach V, Penfold C, Davies P. An overview of systematic reviews of complementary and alternative therapies for infantile colic. Syst Rev. 2019;8(1):271. https://doi.org/10.1186/s13643-019-1191-5.",
+          "journal-title": "Syst Rev"
+        },
+        {
+          "key": "371_CR25",
+          "unstructured": "Source: Statistics Denmark. Highest attained education among persons 25–39 years old in the Region of Southern Denmark 2019 [in Danish]. Accessed 20 May 2020. Available from: https://www.statistikbanken.dk/10139"
+        },
+        {
+          "key": "371_CR26",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Saavedra MA, da Costa JS, Garcias G, Horta BL, Tomasi E, Mendonça R. [Infantile colic incidence and associated risk factors: a cohort study]. J Pediatr (Rio J). 2003;79(2):115–22.",
+          "DOI": "10.2223/JPED.962"
+        },
+        {
+          "issue": "1",
+          "key": "371_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "37",
+          "DOI": "10.1186/s12998-014-0037-4",
+          "volume": "22",
+          "author": "J Jevne",
+          "year": "2014",
+          "unstructured": "Jevne J, Hartvigsen J, Christensen HW. Compensation claims for chiropractic in Denmark and Norway 2004-2012. Chiropr Man Therap. 2014;22(1):37. https://doi.org/10.1186/s12998-014-0037-4.",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "issue": "1",
+          "key": "371_CR28",
+          "first-page": "40",
+          "volume": "56",
+          "author": "J Miller",
+          "year": "2012",
+          "unstructured": "Miller J, Newell D. Prognostic significance of subgroup classification for infant patients with crying disorders: a prospective cohort study. J Can Chiropr Assoc. 2012;56(1):40–8.",
+          "journal-title": "J Can Chiropr Assoc"
+        }
+      ],
+      "container-title": [
+        "Chiropractic &amp; Manual Therapies"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/s12998-021-00371-8.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1186/s12998-021-00371-8/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/s12998-021-00371-8.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            24
+          ]
+        ],
+        "date-time": "2022-12-24T17:09:13Z",
+        "timestamp": 1671901753000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://chiromt.biomedcentral.com/articles/10.1186/s12998-021-00371-8"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            19
+          ]
+        ]
+      },
+      "references-count": 28,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "371"
+      ],
+      "URL": "https://doi.org/10.1186/s12998-021-00371-8",
+      "relation": {},
+      "ISSN": [
+        "2045-709X"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2045-709X"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            19
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "15 January 2021",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "26 March 2021",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "19 April 2021",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Declarations"
+          }
+        },
+        {
+          "value": "No serious or lasting side effect of this type of treatment and no compensation claims have been reported for this type of treatment in this age group in Denmark. As no standardised and effective treatment exists in this area, there was no compelling treatment that the child missed out on by participating in the trial. The study was approved by the Regional Committee on Health Research Ethics (S-2015001), and data were handled according to regulations by the Danish Data Protection Agency. The Regional Committee on Health Research Ethics reviewed an annual safety report and any amendments made in the protocol or the documents used in the trial. All parents gave written informed consent for their child to participate in the study. The parents could withdraw their child from the study at any time without consequences for their child.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethics approval and consent to participate"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Consent for publication"
+          }
+        },
+        {
+          "value": "All authors have completed the ICMJE uniform disclosure form at.They declare that LVH has received grants from the Foundation for Chiropractic Research and Postgraduate Education, the European Centre for Chiropractic Research Excellence, the Fund for General Practice, the General Practitioners’ Foundation for Education and Development, and the Research Fund for the Region of Southern Denmark at different times during the project period; LH and HWC have received grants and are supported partly by the Foundation for Chiropractic Research and Postgraduate Education; JS and DJ have no financial relationship with any organisation that might have an interest in the submitted work in the previous 3 years; no other relationship or activities that could appear to have influenced the submitted work.",
+          "order": 4,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        }
+      ],
+      "article-number": "15"
+    }
+  }
+}

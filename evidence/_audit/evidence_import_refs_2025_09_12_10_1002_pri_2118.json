@@ -1,0 +1,563 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1002_pri_2118.md",
+  "id": "evidence_import_refs_2025_09_12_10_1002_pri_2118",
+  "doi": "10.1002/pri.2118",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:19.282520Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            30
+          ]
+        ],
+        "date-time": "2025-07-30T10:06:16Z",
+        "timestamp": 1753869976666,
+        "version": "3.41.2"
+      },
+      "reference-count": 43,
+      "publisher": "Wiley",
+      "issue": "4",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                8,
+                12
+              ]
+            ],
+            "date-time": "2024-08-12T00:00:00Z",
+            "timestamp": 1723420800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Physiotherapy Res Intl"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            10
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Background</jats:title><jats:p>Hip osteoarthritis (OA) is a prevalent and burdensome condition that leads to impaired quality of life and a substantial economic burden. Encouraging physical activity, particularly walking, is crucial for OA management, but many individuals with hip OA fail to meet recommended activity levels. Prefabricated contoured foot orthoses have shown promise in improving hip muscle efficiency during walking in laboratory settings, but their real‐world feasibility and efficacy remain uncertain.</jats:p></jats:sec><jats:sec><jats:title>Objective</jats:title><jats:p>The aim of this study was to assess the feasibility of conducting a fully powered randomised controlled trial (RCT) to evaluate the effectiveness of prefabricated contoured foot orthoses, prescribed via telehealth, in people with hip OA.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>This feasibility trial randomised 27 participants with hip OA into two groups: prefabricated contoured foot orthoses or flat shoe inserts. Feasibility outcomes were assessed, including recruitment rate, adherence, logbook completion, and dropout rate. Patient‐reported outcomes and accelerometer‐measured physical activity were collected as secondary outcomes.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>While the recruitment rate was low (0.88 people/week), adherence to the intervention (59%), logbook completion (93%), and dropout rates (7%) met or exceeded our predefined feasibility parameters. Participants found the intervention acceptable, and practicality was demonstrated with minor adverse events. Preliminary efficacy testing indicated that prefabricated contoured foot orthoses positively affected physical activity (adjusted mean difference = 2590 [260 to 4920] steps/day), with comparable outcomes for hip‐related quality of life and pain.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>This trial supports proceeding to a fully powered RCT to assess the effect of teleheath prescribed prefabricated contoured foot orthoses on physical activity in people with hip OA.</jats:p></jats:sec><jats:sec><jats:title>Study Registration Number</jats:title><jats:p>National Institutes of Health Trial Registry (NCT05138380).</jats:p></jats:sec>",
+      "DOI": "10.1002/pri.2118",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            12
+          ]
+        ],
+        "date-time": "2024-08-12T12:24:09Z",
+        "timestamp": 1723465449000
+      },
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Prefabricated contoured foot orthoses to reduce pain and increase physical activity in people with hip osteoarthritis: A randomised feasibility trial"
+      ],
+      "prefix": "10.1002",
+      "volume": "29",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-0470-5924",
+          "authenticated-orcid": false,
+          "given": "Matthew G.",
+          "family": "King",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Discipline of Physiotherapy La Trobe University  Melbourne Victoria Australia"
+            },
+            {
+              "name": "La Trobe Sport and Exercise Medicine Research Centre La Trobe University  Melbourne Victoria Australia"
+            }
+          ]
+        },
+        {
+          "given": "Ryan",
+          "family": "Hon",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Northern Health  Epping Victoria Australia"
+            }
+          ]
+        },
+        {
+          "given": "Eliza",
+          "family": "Roughead",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "La Trobe Sport and Exercise Medicine Research Centre La Trobe University  Melbourne Victoria Australia"
+            }
+          ]
+        },
+        {
+          "given": "Joanne L.",
+          "family": "Kemp",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "La Trobe Sport and Exercise Medicine Research Centre La Trobe University  Melbourne Victoria Australia"
+            }
+          ]
+        },
+        {
+          "given": "Tania",
+          "family": "Pizzari",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Discipline of Physiotherapy La Trobe University  Melbourne Victoria Australia"
+            },
+            {
+              "name": "La Trobe Sport and Exercise Medicine Research Centre La Trobe University  Melbourne Victoria Australia"
+            }
+          ]
+        },
+        {
+          "given": "Justin",
+          "family": "Wong",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Northern Health  Epping Victoria Australia"
+            }
+          ]
+        },
+        {
+          "given": "Hylton B.",
+          "family": "Menz",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Discipline of Podiatry La Trobe University  Melbourne Victoria Australia"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9474-2504",
+          "authenticated-orcid": false,
+          "given": "Nicholas F.",
+          "family": "Taylor",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Discipline of Physiotherapy La Trobe University  Melbourne Victoria Australia"
+            },
+            {
+              "name": "La Trobe Sport and Exercise Medicine Research Centre La Trobe University  Melbourne Victoria Australia"
+            },
+            {
+              "name": "Allied Health Clinical Research Office Eastern Health  Box Hill Victoria Australia"
+            }
+          ]
+        },
+        {
+          "given": "Anton",
+          "family": "Harms",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Northern Health  Epping Victoria Australia"
+            }
+          ]
+        },
+        {
+          "given": "Jodie A.",
+          "family": "McClelland",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Discipline of Physiotherapy La Trobe University  Melbourne Victoria Australia"
+            }
+          ]
+        },
+        {
+          "given": "Adam I.",
+          "family": "Semciw",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Discipline of Physiotherapy La Trobe University  Melbourne Victoria Australia"
+            },
+            {
+              "name": "Northern Health  Epping Victoria Australia"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            12
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "volume-title": "Counting the cost Part 1: Healthcare costs: The current and future burden of arthritis",
+          "year": "2016",
+          "author": "Ackerman I.",
+          "key": "e_1_2_13_2_1"
+        },
+        {
+          "key": "e_1_2_13_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12891‐019‐2411‐9"
+        },
+        {
+          "key": "e_1_2_13_4_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jsams.2018.12.004"
+        },
+        {
+          "key": "e_1_2_13_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/art.1780340502"
+        },
+        {
+          "key": "e_1_2_13_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ptsp.2021.02.002"
+        },
+        {
+          "key": "e_1_2_13_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12891‐018‐2131‐6"
+        },
+        {
+          "key": "e_1_2_13_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/msc.1191"
+        },
+        {
+          "key": "e_1_2_13_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/jmir.2662"
+        },
+        {
+          "key": "e_1_2_13_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.amepre.2009.02.002"
+        },
+        {
+          "key": "e_1_2_13_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s13047‐018‐0304‐z"
+        },
+        {
+          "key": "e_1_2_13_12_1",
+          "article-title": "Foot orthoses and physiotherapy in the treatment of patellofemoral pain syndrome: Randomised clinical trial",
+          "volume": "337",
+          "author": "Collins N",
+          "year": "2008",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "e_1_2_13_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1249/01.mss.0000078924.61453.fb"
+        },
+        {
+          "key": "e_1_2_13_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/s0005‐7916(00)00012‐4"
+        },
+        {
+          "key": "e_1_2_13_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s40814‐016‐0105‐8"
+        },
+        {
+          "key": "e_1_2_13_16_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.joca.2023.11.011"
+        },
+        {
+          "key": "e_1_2_13_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.325.7365.652"
+        },
+        {
+          "key": "e_1_2_13_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.joca.2018.09.017"
+        },
+        {
+          "key": "e_1_2_13_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1123/japa.16.2.201"
+        },
+        {
+          "key": "e_1_2_13_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jbi.2019.103208"
+        },
+        {
+          "key": "e_1_2_13_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jbi.2008.08.010"
+        },
+        {
+          "key": "e_1_2_13_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jelekin.2005.07.014"
+        },
+        {
+          "key": "e_1_2_13_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ard.16.4.494"
+        },
+        {
+          "key": "e_1_2_13_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2018.7941"
+        },
+        {
+          "key": "e_1_2_13_25_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmjopen‐2022‐062954"
+        },
+        {
+          "key": "e_1_2_13_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/msc.1826"
+        },
+        {
+          "key": "e_1_2_13_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/03009740310000409"
+        },
+        {
+          "key": "e_1_2_13_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1046/j.1525‐1497.2001.016009606.x"
+        },
+        {
+          "key": "e_1_2_13_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/acr.22750"
+        },
+        {
+          "key": "e_1_2_13_30_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s13047‐023‐00677‐1"
+        },
+        {
+          "key": "e_1_2_13_31_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports‐2011‐090204"
+        },
+        {
+          "key": "e_1_2_13_32_1",
+          "unstructured": "National Institute for Health and Clinical Excellence. (2014).NICE guideline on osteoarthritis: The care and management of osteoarthritis in adults NICE clinical guideline 177."
+        },
+        {
+          "key": "e_1_2_13_33_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2018.8275"
+        },
+        {
+          "key": "e_1_2_13_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s13063‐018‐2873‐3"
+        },
+        {
+          "key": "e_1_2_13_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.gaitpost.2021.07.003"
+        },
+        {
+          "key": "e_1_2_13_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/imj.15105"
+        },
+        {
+          "key": "e_1_2_13_37_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/acr.21626"
+        },
+        {
+          "key": "e_1_2_13_38_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jelekin.2023.102784"
+        },
+        {
+          "key": "e_1_2_13_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s40814‐019‐0469‐7"
+        },
+        {
+          "key": "e_1_2_13_40_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12966‐020‐01045‐z"
+        },
+        {
+          "key": "e_1_2_13_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471‐2474‐9‐27"
+        },
+        {
+          "key": "e_1_2_13_42_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.joca.2013.08.003"
+        },
+        {
+          "key": "e_1_2_13_43_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/rmdopen‐2019‐001048"
+        },
+        {
+          "key": "e_1_2_13_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12916‐018‐1151‐2"
+        }
+      ],
+      "container-title": [
+        "Physiotherapy Research International"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/pri.2118",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            4
+          ]
+        ],
+        "date-time": "2025-04-04T11:04:25Z",
+        "timestamp": 1743764665000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://onlinelibrary.wiley.com/doi/10.1002/pri.2118"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            12
+          ]
+        ]
+      },
+      "references-count": 43,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              10
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1002/pri.2118"
+      ],
+      "URL": "https://doi.org/10.1002/pri.2118",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "1358-2267",
+        "1471-2865"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1358-2267"
+        },
+        {
+          "type": "electronic",
+          "value": "1471-2865"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            12
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2024-04-09",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2024-08-04",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2024-08-12",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "article-number": "e2118"
+    }
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1111_acem_12811.md",
+  "id": "evidence_import_refs_2025_09_12_10_1111_acem_12811",
+  "doi": "10.1111/acem.12811",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:36.911306Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2025-09-08T05:55:34Z",
+        "timestamp": 1757310934534
+      },
+      "reference-count": 34,
+      "publisher": "Wiley",
+      "issue": "11",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                10,
+                19
+              ]
+            ],
+            "date-time": "2015-10-19T00:00:00Z",
+            "timestamp": 1445212800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Academic Emergency Medicine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            11
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Objectives</jats:title><jats:p>The objective was to determine the incidence of subarachnoid hemorrhage (<jats:styled-content style=\"fixed-case\">SAH</jats:styled-content>) diagnosed by lumbar puncture (<jats:styled-content style=\"fixed-case\">LP</jats:styled-content>) when the head computed tomography (<jats:styled-content style=\"fixed-case\">CT</jats:styled-content>) was reported as demonstrating no subarachnoid blood.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>Data were obtained on patients who received <jats:styled-content style=\"fixed-case\">LP</jats:styled-content> to diagnose or exclude <jats:styled-content style=\"fixed-case\">SAH</jats:styled-content> attending six hospitals over 5 years. Subsequent investigations and outcomes were reviewed in all patients with <jats:styled-content style=\"fixed-case\">LP</jats:styled-content>s that did not exclude <jats:styled-content style=\"fixed-case\">SAH</jats:styled-content>.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>A total of 2,248 patients were included. A total of 1,898 <jats:styled-content style=\"fixed-case\">LP</jats:styled-content>s were suitable for biochemical analysis, of which 92 (4.8%) were positive for blood, suggesting <jats:styled-content style=\"fixed-case\">SAH</jats:styled-content>; 1,507 (79.4%) were negative; and 299 (15.6%) were inconclusive. Of the 92 patients with positive cerebrospinal fluid analysis, eight patients (0.4%) had aneurysms on further imaging, and one had a carotid cavernous fistula.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>In patients presenting to the emergency department with acute severe headache, <jats:styled-content style=\"fixed-case\">LP</jats:styled-content> to diagnose or exclude <jats:styled-content style=\"fixed-case\">SAH</jats:styled-content> after negative head <jats:styled-content style=\"fixed-case\">CT</jats:styled-content> has a very low diagnostic yield, due to low prevalence of the disease and uninterpretable or inconclusive samples. A clinical decision rule may improve diagnostic yield by selecting patients requiring further evaluation with <jats:styled-content style=\"fixed-case\">LP</jats:styled-content> following nondiagnostic or normal noncontrast <jats:styled-content style=\"fixed-case\">CT</jats:styled-content> brain imaging.</jats:p></jats:sec>",
+      "DOI": "10.1111/acem.12811",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2015,
+            10,
+            20
+          ]
+        ],
+        "date-time": "2015-10-20T10:55:49Z",
+        "timestamp": 1445338549000
+      },
+      "page": "1267-1273",
+      "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 39,
+      "title": [
+        "An Observational Study of 2,248 Patients Presenting With Headache, Suggestive of Subarachnoid Hemorrhage, Who Received Lumbar Punctures Following Normal Computed Tomography of the Head"
+      ],
+      "prefix": "10.1111",
+      "volume": "22",
+      "author": [
+        {
+          "given": "David",
+          "family": "Sayer",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Neurosurgery Queen's Hospital Barking, Havering and Redbridge NHS Trust Romford Essex"
+            }
+          ]
+        },
+        {
+          "given": "Ben",
+          "family": "Bloom",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Emergency Medicine Bart's Health NHS Trust London UK"
+            }
+          ]
+        },
+        {
+          "given": "Katalin",
+          "family": "Fernando",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Emergency Medicine St. Thomas Hospital London UK"
+            }
+          ]
+        },
+        {
+          "given": "Stuart",
+          "family": "Jones",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Pathology Queen's Hospital Barking, Havering and Redbridge NHS Trust Romford Essex"
+            }
+          ]
+        },
+        {
+          "given": "Sally",
+          "family": "Benton",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biochemistry Royal London Hospital London UK"
+            }
+          ]
+        },
+        {
+          "given": "Shumontha",
+          "family": "Dev",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Emergency Medicine St. Thomas Hospital London UK"
+            }
+          ]
+        },
+        {
+          "given": "Sathish",
+          "family": "Deverapalli",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Emergency Medicine Bart's Health NHS Trust London UK"
+            }
+          ]
+        },
+        {
+          "given": "Tim",
+          "family": "Harris",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Emergency Medicine Bart's Health NHS Trust London UK"
+            },
+            {
+              "name": "Department of Emergency Medicine Queen Mary University of London London UK"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "published-online": {
+        "date-parts": [
+          [
+            2015,
+            10,
+            19
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_8_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1468-2982.2006.01093.x"
+        },
+        {
+          "key": "e_1_2_8_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJM200001063420106"
+        },
+        {
+          "key": "e_1_2_8_4_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.STR.27.4.625"
+        },
+        {
+          "key": "e_1_2_8_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.STR.29.1.251"
+        },
+        {
+          "key": "e_1_2_8_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.STR.28.3.660"
+        },
+        {
+          "key": "e_1_2_8_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jemermed.2007.10.003"
+        },
+        {
+          "key": "e_1_2_8_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0733-8619(18)31172-1"
+        },
+        {
+          "key": "e_1_2_8_9_1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1093/med/9780198570677.001.0001",
+          "volume-title": "The Neurosurgeon's Handbook",
+          "author": "Samandouras G",
+          "year": "2010"
+        },
+        {
+          "key": "e_1_2_8_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.STR.16.4.591"
+        },
+        {
+          "key": "e_1_2_8_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.STR.23.2.205"
+        },
+        {
+          "key": "e_1_2_8_12_1",
+          "first-page": "985",
+          "article-title": "Report of World Federation of Neurological Surgeons Committee on a Universal Subarachnoid Hemorrhage Grading Scale",
+          "volume": "68",
+          "year": "1988",
+          "journal-title": "J Neurosurg"
+        },
+        {
+          "key": "e_1_2_8_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.e8557"
+        },
+        {
+          "key": "e_1_2_8_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jemermed.2005.02.002"
+        },
+        {
+          "key": "e_1_2_8_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1553-2712.1996.tb03526.x"
+        },
+        {
+          "key": "e_1_2_8_16_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/jnnp.58.3.357"
+        },
+        {
+          "key": "e_1_2_8_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1258/000456303322326399"
+        },
+        {
+          "key": "e_1_2_8_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1258/acb.2008.007256"
+        },
+        {
+          "key": "e_1_2_8_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5858/2002-126-0413-X"
+        },
+        {
+          "key": "e_1_2_8_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/STR.0b013e3182587839"
+        },
+        {
+          "key": "e_1_2_8_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/archinte.1985.00360030105020"
+        },
+        {
+          "key": "e_1_2_8_22_1",
+          "unstructured": "National Health Service.Emergency Care Weekly Situation Report. Definitions and FAQs. Available at:http://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2013/03/EC-Weekly-Sitrep-Definitions-v1.0.doc. Accessed Aug 15 2015."
+        },
+        {
+          "key": "e_1_2_8_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1046/j.1526-4610.2000.00004.x"
+        },
+        {
+          "key": "e_1_2_8_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/emermed-2013-202573"
+        },
+        {
+          "key": "e_1_2_8_25_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.d4277"
+        },
+        {
+          "key": "e_1_2_8_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3109/02688697.2013.771137"
+        },
+        {
+          "key": "e_1_2_8_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/jns.1987.66.1.0023"
+        },
+        {
+          "key": "e_1_2_8_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1227/01.neu.0000430291.31422.dd"
+        },
+        {
+          "key": "e_1_2_8_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/STROKEAHA.113.001234"
+        },
+        {
+          "key": "e_1_2_8_30_1",
+          "first-page": "286",
+          "article-title": "CSF xanthochromia: a review of positive results from our hospital in the past 5 years [abstract]",
+          "volume": "27",
+          "author": "Razak AA",
+          "year": "2013",
+          "journal-title": "Br J Neurosurg"
+        },
+        {
+          "key": "e_1_2_8_31_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00415-013-6846-x"
+        },
+        {
+          "key": "e_1_2_8_32_1",
+          "first-page": "297",
+          "article-title": "Worst headache and subarachnoid hemorrhage: prospective, modern computed tomography and spinal fluid analysis",
+          "volume": "32",
+          "author": "Morgenstern LB",
+          "year": "1998",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "key": "e_1_2_8_33_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/jnnp-2013-305955"
+        },
+        {
+          "key": "e_1_2_8_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3171/2014.3.JNS132239"
+        },
+        {
+          "key": "e_1_2_8_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/brain/awm256"
+        }
+      ],
+      "container-title": [
+        "Academic Emergency Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Facem.12811",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/acem.12811",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2023-09-24T12:57:44Z",
+        "timestamp": 1695560264000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://onlinelibrary.wiley.com/doi/10.1111/acem.12811"
+        }
+      },
+      "subtitle": [],
+      "editor": [
+        {
+          "given": "Peter D.",
+          "family": "Panagos",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2015,
+            10,
+            19
+          ]
+        ]
+      },
+      "references-count": 34,
+      "journal-issue": {
+        "issue": "11",
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              11
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1111/acem.12811"
+      ],
+      "URL": "https://doi.org/10.1111/acem.12811",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "1069-6563",
+        "1553-2712"
+      ],
+      "issn-type": [
+        {
+          "value": "1069-6563",
+          "type": "print"
+        },
+        {
+          "value": "1553-2712",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            10,
+            19
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2015-01-28",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2015-06-14",
+          "order": 1,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2015-10-19",
+          "order": 2,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

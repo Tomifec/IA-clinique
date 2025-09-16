@@ -1,0 +1,330 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_7326_0003_4819_156_1_201201030_00004.md",
+  "id": "evidence_import_refs_2025_09_12_10_7326_0003_4819_156_1_201201030_00004",
+  "doi": "10.7326/0003-4819-156-1-201201030-00004",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:59.230336Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T12:56:17Z",
+        "timestamp": 1757681777892,
+        "version": "3.37.0"
+      },
+      "reference-count": 12,
+      "publisher": "American College of Physicians",
+      "issue": "1_Part_1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                1,
+                3
+              ]
+            ],
+            "date-time": "2012-01-03T00:00:00Z",
+            "timestamp": 1325548800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.acpjournals.org/journal/aim/text-and-data-mining"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Ann Intern Med"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2012,
+            1,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.7326/0003-4819-156-1-201201030-00004",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2013,
+            4,
+            12
+          ]
+        ],
+        "date-time": "2013-04-12T19:22:07Z",
+        "timestamp": 1365794527000
+      },
+      "page": "19-26",
+      "source": "Crossref",
+      "is-referenced-by-count": 117,
+      "title": [
+        "Comparison of Hospital Risk-Standardized Mortality Rates Calculated by Using In-Hospital and 30-Day Models: An Observational Study With Implications for Hospital Profiling"
+      ],
+      "prefix": "10.7326",
+      "volume": "156",
+      "author": [
+        {
+          "given": "Elizabeth E.",
+          "family": "Drye",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "From Yale University School of Medicine, Yale-New Haven Hospital Center for Outcomes Research and Evaluation, and Yale University, New Haven, Connecticut; Harvard Medical School and Harvard School of Public Health, Boston, Massachusetts; Dartmouth Medical School, Hanover, New Hampshire; Centers for Medicare & Medicaid Services, Baltimore, Maryland; and George Washington University School of Medicine and Health Sciences, Washington, DC."
+            }
+          ]
+        },
+        {
+          "given": "Sharon-Lise T.",
+          "family": "Normand",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From Yale University School of Medicine, Yale-New Haven Hospital Center for Outcomes Research and Evaluation, and Yale University, New Haven, Connecticut; Harvard Medical School and Harvard School of Public Health, Boston, Massachusetts; Dartmouth Medical School, Hanover, New Hampshire; Centers for Medicare & Medicaid Services, Baltimore, Maryland; and George Washington University School of Medicine and Health Sciences, Washington, DC."
+            }
+          ]
+        },
+        {
+          "given": "Yun",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From Yale University School of Medicine, Yale-New Haven Hospital Center for Outcomes Research and Evaluation, and Yale University, New Haven, Connecticut; Harvard Medical School and Harvard School of Public Health, Boston, Massachusetts; Dartmouth Medical School, Hanover, New Hampshire; Centers for Medicare & Medicaid Services, Baltimore, Maryland; and George Washington University School of Medicine and Health Sciences, Washington, DC."
+            }
+          ]
+        },
+        {
+          "given": "Joseph S.",
+          "family": "Ross",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From Yale University School of Medicine, Yale-New Haven Hospital Center for Outcomes Research and Evaluation, and Yale University, New Haven, Connecticut; Harvard Medical School and Harvard School of Public Health, Boston, Massachusetts; Dartmouth Medical School, Hanover, New Hampshire; Centers for Medicare & Medicaid Services, Baltimore, Maryland; and George Washington University School of Medicine and Health Sciences, Washington, DC."
+            }
+          ]
+        },
+        {
+          "given": "Geoffrey C.",
+          "family": "Schreiner",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From Yale University School of Medicine, Yale-New Haven Hospital Center for Outcomes Research and Evaluation, and Yale University, New Haven, Connecticut; Harvard Medical School and Harvard School of Public Health, Boston, Massachusetts; Dartmouth Medical School, Hanover, New Hampshire; Centers for Medicare & Medicaid Services, Baltimore, Maryland; and George Washington University School of Medicine and Health Sciences, Washington, DC."
+            }
+          ]
+        },
+        {
+          "given": "Lein",
+          "family": "Han",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From Yale University School of Medicine, Yale-New Haven Hospital Center for Outcomes Research and Evaluation, and Yale University, New Haven, Connecticut; Harvard Medical School and Harvard School of Public Health, Boston, Massachusetts; Dartmouth Medical School, Hanover, New Hampshire; Centers for Medicare & Medicaid Services, Baltimore, Maryland; and George Washington University School of Medicine and Health Sciences, Washington, DC."
+            }
+          ]
+        },
+        {
+          "given": "Michael",
+          "family": "Rapp",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From Yale University School of Medicine, Yale-New Haven Hospital Center for Outcomes Research and Evaluation, and Yale University, New Haven, Connecticut; Harvard Medical School and Harvard School of Public Health, Boston, Massachusetts; Dartmouth Medical School, Hanover, New Hampshire; Centers for Medicare & Medicaid Services, Baltimore, Maryland; and George Washington University School of Medicine and Health Sciences, Washington, DC."
+            }
+          ]
+        },
+        {
+          "given": "Harlan M.",
+          "family": "Krumholz",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From Yale University School of Medicine, Yale-New Haven Hospital Center for Outcomes Research and Evaluation, and Yale University, New Haven, Connecticut; Harvard Medical School and Harvard School of Public Health, Boston, Massachusetts; Dartmouth Medical School, Hanover, New Hampshire; Centers for Medicare & Medicaid Services, Baltimore, Maryland; and George Washington University School of Medicine and Health Sciences, Washington, DC."
+            }
+          ]
+        }
+      ],
+      "member": "4285",
+      "reference": [
+        {
+          "key": "r4-4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00005650-200210000-00006"
+        },
+        {
+          "key": "r5-4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.1988.03410150088036"
+        },
+        {
+          "key": "r6-4",
+          "first-page": "1449",
+          "volume": "34",
+          "author": "Rosenthal GE",
+          "year": "2000",
+          "journal-title": "Health Serv Res"
+        },
+        {
+          "key": "r7-4",
+          "first-page": "1",
+          "volume": "24",
+          "author": "Chassin MR",
+          "year": "1989",
+          "journal-title": "Health Serv Res"
+        },
+        {
+          "key": "r9-4",
+          "doi-asserted-by": "crossref",
+          "first-page": "456",
+          "DOI": "10.1161/CIRCULATIONAHA.105.170769",
+          "volume": "113",
+          "author": "Krumholz HM",
+          "year": "2006",
+          "journal-title": "Circulation"
+        },
+        {
+          "key": "r11-4",
+          "first-page": "26490",
+          "volume": "76",
+          "author": "Centers for Medicare &amp; Medicaid Services (CMS)",
+          "year": "2011",
+          "journal-title": "Fed Regist"
+        },
+        {
+          "key": "r12-4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2010.748"
+        },
+        {
+          "key": "r14-4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/CIRCULATIONAHA.105.611194"
+        },
+        {
+          "key": "r15-4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/CIRCULATIONAHA.105.611186"
+        },
+        {
+          "key": "r19-4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0017401"
+        },
+        {
+          "key": "r20-4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1214/088342307000000096"
+        },
+        {
+          "key": "r22-4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/intqhc/13.6.481"
+        }
+      ],
+      "container-title": [
+        "Annals of Internal Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.acpjournals.org/doi/pdf/10.7326/0003-4819-156-1-201201030-00004",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.acpjournals.org/doi/full-xml/10.7326/0003-4819-156-1-201201030-00004",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            9
+          ]
+        ],
+        "date-time": "2025-02-09T12:52:24Z",
+        "timestamp": 1739105544000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.acpjournals.org/doi/10.7326/0003-4819-156-1-201201030-00004"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2012,
+            1,
+            3
+          ]
+        ]
+      },
+      "references-count": 12,
+      "journal-issue": {
+        "issue": "1_Part_1",
+        "published-print": {
+          "date-parts": [
+            [
+              2012,
+              1,
+              3
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.7326/0003-4819-156-1-201201030-00004"
+      ],
+      "URL": "https://doi.org/10.7326/0003-4819-156-1-201201030-00004",
+      "relation": {},
+      "ISSN": [
+        "0003-4819",
+        "1539-3704"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0003-4819"
+        },
+        {
+          "type": "electronic",
+          "value": "1539-3704"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2012,
+            1,
+            3
+          ]
+        ]
+      }
+    }
+  }
+}

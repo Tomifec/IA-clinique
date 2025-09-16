@@ -1,0 +1,453 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_s12891_019_2543_y.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_s12891_019_2543_y",
+  "doi": "10.1186/s12891-019-2543-y",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:06.298976Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            21
+          ]
+        ],
+        "date-time": "2025-02-21T10:54:36Z",
+        "timestamp": 1740135276992,
+        "version": "3.37.3"
+      },
+      "reference-count": 22,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                4,
+                24
+              ]
+            ],
+            "date-time": "2019-04-24T00:00:00Z",
+            "timestamp": 1556064000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "BMC Musculoskelet Disord"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1186/s12891-019-2543-y",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            24
+          ]
+        ],
+        "date-time": "2019-04-24T11:04:57Z",
+        "timestamp": 1556103897000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 14,
+      "title": [
+        "Reliability of a new loaded rolling wheel system for measuring spinal stiffness in asymptomatic participants"
+      ],
+      "prefix": "10.1186",
+      "volume": "20",
+      "author": [
+        {
+          "given": "Maliheh",
+          "family": "Hadizadeh",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9487-1779",
+          "authenticated-orcid": false,
+          "given": "Greg N.",
+          "family": "Kawchuk",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Eric",
+          "family": "Parent",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            24
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "9",
+          "key": "2543_CR1",
+          "first-page": "587",
+          "volume": "19",
+          "author": "J Latimer",
+          "year": "1996",
+          "unstructured": "Latimer J, Lee M, Adams R, Moran CM. An investigation of the relationship between low Back pain and lumbar Posteroanterior stiffness. J Manip Physiol Ther. 1996;19(9):587–91.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "2543_CR2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Snodgrass SJ, Haskins R, Rivett DA. A structured review of spinal stiffness as a kinesiological outcome of manipulation: its measurement and utility in diagnosis, prognosis and treatment decision-making. J Electromyogr Kinesiol. 2012;22(5):708–723. [cited 2016 Jan 15]",
+          "DOI": "10.1016/j.jelekin.2012.04.015"
+        },
+        {
+          "key": "2543_CR3",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wong AYL, Kawchuk GN. The clinical value of assessing lumbar Posteroanterior segmental stiffness: a narrative review of manual and instrumented methods. PM R; 2016.",
+          "DOI": "10.1016/j.pmrj.2016.12.001"
+        },
+        {
+          "key": "2543_CR4",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Childs JD, Fritz JM, Flynn TW, Irrgang JJ, Johnson KK, Majkowski GR, et al. A clinical prediction rule to identify patients with low back pain most likely to benefit from spinal manipulation: a validation study. Ann Intern Med 2004;141(12):920–928.",
+          "DOI": "10.7326/0003-4819-141-12-200412210-00008"
+        },
+        {
+          "key": "2543_CR5",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Stanton TR, Kawchuk GN. Reliability of assisted indentation in measuring lumbar spinal stiffness. Man Ther. 2009;14(2):197–205. [cited 2015 Nov 22]",
+          "DOI": "10.1016/j.math.2008.01.011"
+        },
+        {
+          "issue": "3",
+          "key": "2543_CR6",
+          "first-page": "157",
+          "volume": "21",
+          "author": "J Latimer",
+          "year": "1998",
+          "unstructured": "Latimer J, Lee M, Adams RD. The effects of high and low loading forces on measured values of lumbar stiffness. J Manip Physiol Ther. 1998;21(3):157–63.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "issue": "2",
+          "key": "2543_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "71",
+          "DOI": "10.1067/mmt.2001.112568",
+          "volume": "24",
+          "author": "B Caling",
+          "year": "2001",
+          "unstructured": "Caling B, Lee M. Effect of direction of applied mobilization force on the posteroanterior response in the lumbar spine. J Manip Physiol Ther. 2001;24(2):71–8.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "2543_CR8",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Adams R. A psychophysical evaluation of manual stiffness discrimination. Aust J Physiother. 1995;41(3):161–167. Available from: \n                    https://doi.org/10.1016/S0004-9514(14)60426-8\n                    \n                  .",
+          "DOI": "10.1016/S0004-9514(14)60426-8"
+        },
+        {
+          "key": "2543_CR9",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wong AYL, Parent EC, Dhillon SS, Prasad N, Kawchuk GN. Do participants with low Back pain who respond to spinal manipulative therapy differ biomechanically from nonresponders, untreated controls or asymptomatic controls? Spine (Phila Pa 1976). 2015;40(17):1329–1337.",
+          "DOI": "10.1097/BRS.0000000000000981"
+        },
+        {
+          "key": "2543_CR10",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Fritz JM, Koppenhaver SL, Kawchuk GN, Teyhen DS, Hebert JJ, Childs JD. Preliminary investigation of the mechanisms underlying the effects of manipulation: exploration of a multivariate model including spinal stiffness, multifidus recruitment, and clinical findings. Spine (Phila Pa 1976) 2011;36(21):1772–1781.",
+          "DOI": "10.1097/BRS.0b013e318216337d"
+        },
+        {
+          "issue": "December 1996",
+          "key": "2543_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "101",
+          "DOI": "10.1002/(SICI)1097-0258(19980115)17:1<101::AID-SIM727>3.0.CO;2-E",
+          "volume": "17",
+          "author": "SD Walter",
+          "year": "1998",
+          "unstructured": "Walter SD, Eliasziw M, Donner A. Sample size and optimal designs for reliability studies. Stat Med. 1998;17(December 1996):101–10.",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "1",
+          "key": "2543_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1186/s12998-017-0153-z",
+          "volume": "25",
+          "author": "BT Brown",
+          "year": "2017",
+          "unstructured": "Brown BT, Blacke A, Carroll V, Graham PL, Kawchuk G, Downie A, et al. The comfort and safety of a novel rolling mechanical indentation device for the measurement of lumbar trunk stiffness in young adults. Chiropr Man Therap. 2017;25(1):1–10.",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "issue": "1",
+          "key": "2543_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "1331",
+          "DOI": "10.1097/01.brs.0000164099.92112.29",
+          "volume": "30",
+          "author": "JD Childs",
+          "year": "2005",
+          "unstructured": "Childs JD, Piva SR, Fritz JM. Responsiveness of the numeric pain rating scale in patients with low back pain. Spine (Phila Pa 1976). 2005;30(1):1331–4.",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "2543_CR14",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Koo TK, Li MY. A guideline of selecting and reporting Intraclass correlation coefficients for reliability research. J Chiropr Med; 2016;15(2):155–163. Available from: \n                    https://doi.org/10.1016/j.jcm.2016.02.012",
+          "DOI": "10.1016/j.jcm.2016.02.012"
+        },
+        {
+          "issue": "2",
+          "key": "2543_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "335",
+          "DOI": "10.1037/0033-2909.86.2.335",
+          "volume": "86",
+          "author": "FJ Dudek",
+          "year": "1979",
+          "unstructured": "Dudek FJ. The continuing misinterpretation of the standard error of measurement. Psychol Bull. 1979;86(2):335–7.",
+          "journal-title": "Psychol Bull"
+        },
+        {
+          "issue": "2",
+          "key": "2543_CR16",
+          "first-page": "135",
+          "volume": "8",
+          "author": "JM Bland",
+          "year": "1999",
+          "unstructured": "Bland JM, Altman DG. Measuring agreement in method comparison studies. PubMed Commons. 1999;8(2):135–60.",
+          "journal-title": "PubMed Commons"
+        },
+        {
+          "key": "2543_CR17",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wong AYL, Kawchuk G, Parent E, Prasad N. Within- and between-day reliability of spinal stiffness measurements obtained using a computer controlled mechanical indenter in individuals with and without low back pain. Man Ther. 2013;18(5):395–402. [cited 2015 Oct 8]",
+          "DOI": "10.1016/j.math.2013.02.003"
+        },
+        {
+          "key": "2543_CR18",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Latimer J, Goodsel MM, Lee M, Maher CG, Wilkinson BN, Moran CC. Evaluation of a new device for measuring responses to posteroanterior forces in a patient population, part 1: reliability testing. Phys Ther 1996;76(2):158–165.",
+          "DOI": "10.1093/ptj/76.2.158"
+        },
+        {
+          "key": "2543_CR19",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Edmondston SJ, Allison GT, Gregg CD, Purden SM, Svansson GR, Watson A. E. Effect of position on the posteroanterior stiffness of the lumbar spine. Man Ther 1998. 3 p. 21–26. Available from:",
+          "DOI": "10.1054/math.1998.0312"
+        },
+        {
+          "issue": "1",
+          "key": "2543_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "19",
+          "DOI": "10.1054/math.2001.0432",
+          "volume": "7",
+          "author": "D Shirley",
+          "year": "2002",
+          "unstructured": "Shirley D, Ellis E, Lee M. The response of posteroanterior lumbar stiffness to repeated loading. Man Ther. 2002;7(1):19–25.",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "2543_CR21",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lee M, Svensson NL. Measurement of stiffness during simulated spinal physiotherapy. Clin Phys Physiol Meas 1990;11(3):201–207.",
+          "DOI": "10.1088/0143-0815/11/3/002"
+        },
+        {
+          "key": "2543_CR22",
+          "unstructured": "Young A. Validating assessment of spinal stiffness: bench-top performance of the VerteTrack system: Masters Res thesis, Macquarie Univ North Ryde NSW; 2019."
+        }
+      ],
+      "container-title": [
+        "BMC Musculoskeletal Disorders"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s12891-019-2543-y.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1186/s12891-019-2543-y/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s12891-019-2543-y.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            22
+          ]
+        ],
+        "date-time": "2020-04-22T23:09:52Z",
+        "timestamp": 1587596992000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/s12891-019-2543-y"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            24
+          ]
+        ]
+      },
+      "references-count": 22,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "2543"
+      ],
+      "URL": "https://doi.org/10.1186/s12891-019-2543-y",
+      "relation": {},
+      "ISSN": [
+        "1471-2474"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1471-2474"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            24
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "20 July 2018",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "28 March 2019",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "24 April 2019",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "Written informed consent was obtained from all participants in accordance with protocol number Pro00061205 approved by the University of Alberta Health Research Ethics Board.",
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethics approval and consent to participate"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Consent for publication"
+          }
+        },
+        {
+          "value": "The authors declare that they have no competing interests.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        },
+        {
+          "value": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+          "order": 4,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Publisher’s Note"
+          }
+        }
+      ],
+      "article-number": "176"
+    }
+  }
+}

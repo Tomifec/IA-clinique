@@ -1,0 +1,829 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1038_s41598_024_68192_2.md",
+  "id": "evidence_import_refs_2025_09_11_10_1038_s41598_024_68192_2",
+  "doi": "10.1038/s41598-024-68192-2",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:45.331261Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T22:08:06Z",
+        "timestamp": 1757455686327
+      },
+      "reference-count": 56,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                7,
+                24
+              ]
+            ],
+            "date-time": "2024-07-24T00:00:00Z",
+            "timestamp": 1721779200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                7,
+                24
+              ]
+            ],
+            "date-time": "2024-07-24T00:00:00Z",
+            "timestamp": 1721779200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Sci Rep"
+      ],
+      "DOI": "10.1038/s41598-024-68192-2",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            24
+          ]
+        ],
+        "date-time": "2024-07-24T06:03:14Z",
+        "timestamp": 1721800994000
+      },
+      "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 6,
+      "title": [
+        "Clinical relevance of combined treatment with exercise in patients with chronic low back pain: a randomized controlled trial"
+      ],
+      "prefix": "10.1038",
+      "volume": "14",
+      "clinical-trial-number": [
+        {
+          "clinical-trial-number": "nct05544890",
+          "registry": "10.18810/clinical-trials-gov"
+        }
+      ],
+      "author": [
+        {
+          "given": "P.",
+          "family": "Blanco-Giménez",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "J.",
+          "family": "Vicente-Mampel",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "P.",
+          "family": "Gargallo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "L.",
+          "family": "Baraja-Vegas",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "I. J.",
+          "family": "Bautista",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "F.",
+          "family": "Ros-Bernal",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "C.",
+          "family": "Barrios",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            24
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "6",
+          "key": "68192_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "968",
+          "DOI": "10.1136/annrheumdis-2013-204428",
+          "volume": "73",
+          "author": "D Hoy",
+          "year": "2014",
+          "unstructured": "Hoy, D. et al. The global burden of low back pain: Estimates from the Global Burden of Disease 2010 study. Ann Rheum Dis. 73(6), 968–974 (2014).",
+          "journal-title": "Ann Rheum Dis."
+        },
+        {
+          "issue": "1",
+          "key": "68192_CR2",
+          "first-page": "94",
+          "volume": "19",
+          "author": "E Sirbu",
+          "year": "2023",
+          "unstructured": "Sirbu, E., Onofrei, R. R., Szasz, S. & Susan, M. Predictors of disability in patients with chronic low back pain. Arch Med Sci AMS. 19(1), 94 (2023).",
+          "journal-title": "Arch Med Sci AMS."
+        },
+        {
+          "key": "68192_CR3",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wu, A., March, L., Zheng, X., Huang, J., Wang, X., Zhao, J, et al. Global low back pain prevalence and years lived with disability from 1990 to 2017: Estimates from the Global Burden of Disease Study 2017. Ann. Transl. Med. 8(6) (2020).",
+          "DOI": "10.21037/atm.2020.02.175"
+        },
+        {
+          "issue": "7",
+          "key": "68192_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "350",
+          "DOI": "10.2519/jospt.2020.9971",
+          "volume": "50",
+          "author": "LM Finucane",
+          "year": "2020",
+          "unstructured": "Finucane, L. M. et al. International framework for red flags for potential serious spinal pathologies. J Orthop Sports Phys Ther. 50(7), 350–372 (2020).",
+          "journal-title": "J Orthop Sports Phys Ther."
+        },
+        {
+          "issue": "2",
+          "key": "68192_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "146",
+          "DOI": "10.1016/j.jpain.2018.07.006",
+          "volume": "20",
+          "author": "MH Pitcher",
+          "year": "2019",
+          "unstructured": "Pitcher, M. H., Von Korff, M., Bushnell, M. C. & Porter, L. Prevalence and profile of high-impact chronic pain in the United States. J Pain. 20(2), 146–160 (2019).",
+          "journal-title": "J Pain."
+        },
+        {
+          "key": "68192_CR6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hutting, N., Caneiro, J. P., Ong’wen, O. M., Miciak, M., Roberts, L. Patient-centered care in musculoskeletal practice: Key elements to support clinicians to focus on the person. Musculoskelet Sci Pract. febrero de 57, 102434 (2022).",
+          "DOI": "10.1016/j.msksp.2021.102434"
+        },
+        {
+          "issue": "6",
+          "key": "68192_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "684",
+          "DOI": "10.3390/brainsci11060684",
+          "volume": "11",
+          "author": "G Varallo",
+          "year": "2021",
+          "unstructured": "Varallo, G. et al. Does kinesiophobia mediate the relationship between pain intensity and disability in individuals with chronic low-back pain and obesity?. Brain Sci. junio de 11(6), 684 (2021).",
+          "journal-title": "Brain Sci. junio de"
+        },
+        {
+          "key": "68192_CR8",
+          "unstructured": "Kreiner, D. S., Matz, P., Bono, C. M., Cho, C. H., Easa, J. E., Ghiselli, G., et al. Guideline summary review: An evidence-based clinical guideline for the diagnosis and treatment of low back pain. Spine J Off J North Am Spine Soc. julio de 20(7), 998–1024 (2020)."
+        },
+        {
+          "key": "68192_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "102269",
+          "DOI": "10.1016/j.msksp.2020.102269",
+          "volume": "50",
+          "author": "N Hutting",
+          "year": "2020",
+          "unstructured": "Hutting, N., Oswald, W., Staal, J. B. & Heerkens, Y. F. Self-management support for people with non-specific low back pain: A qualitative survey among physiotherapists and exercise therapists. Musculoskelet Sci Pract. diciembre de 50, 102269 (2020).",
+          "journal-title": "Musculoskelet Sci Pract. diciembre de"
+        },
+        {
+          "issue": "1",
+          "key": "68192_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "e1852",
+          "DOI": "10.1002/msc.1852",
+          "volume": "22",
+          "author": "MT Gibbs",
+          "year": "2024",
+          "unstructured": "Gibbs, M. T., Last, T., Marshall, P. & Jones, M. D. Are the attitudes and beliefs of Australian exercise-based practitioners associated with their use of, and confidence in, treatment modalities for people with chronic low back pain?. Musculoskeletal Care. 22(1), e1852 (2024).",
+          "journal-title": "Musculoskeletal Care."
+        },
+        {
+          "key": "68192_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "348",
+          "DOI": "10.1016/j.jbmt.2021.07.002",
+          "volume": "28",
+          "author": "BAM da Silva",
+          "year": "2021",
+          "unstructured": "da Silva, B. A. M., Gelain, G. M. & Candotti, C. T. The influence of physical exercise on behavioral habits, kinesiophobia, and disability in people with low back pain: A retrospective cross-sectional study. J Bodyw Mov Ther. 28, 348–353 (2021).",
+          "journal-title": "J Bodyw Mov Ther."
+        },
+        {
+          "key": "68192_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "77",
+          "DOI": "10.1007/s10865-006-9085-0",
+          "volume": "30",
+          "author": "M Leeuw",
+          "year": "2007",
+          "unstructured": "Leeuw, M. et al. The fear-avoidance model of musculoskeletal pain: current state of scientific evidence. J Behav Med. 30, 77–94 (2007).",
+          "journal-title": "J Behav Med."
+        },
+        {
+          "issue": "3",
+          "key": "68192_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "317",
+          "DOI": "10.1016/S0304-3959(99)00242-0",
+          "volume": "85",
+          "author": "JW Vlaeyen",
+          "year": "2000",
+          "unstructured": "Vlaeyen, J. W. & Linton, S. J. Fear-avoidance and its consequences in chronic musculoskeletal pain: A state of the art. Pain. 85(3), 317–332 (2000).",
+          "journal-title": "Pain."
+        },
+        {
+          "key": "68192_CR14",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wideman, T. H., Finan, P. H., Edwards, R. R., Quartana, P. J., Buenaver, L. F., Haythornthwaite, J. A., et al. Increased sensitivity to physical activity among individuals with knee osteoarthritis: Relation to pain outcomes, psychological factors, and responses to quantitative sensory testing. PAIN® 155(4), 703–11 (2014).",
+          "DOI": "10.1016/j.pain.2013.12.028"
+        },
+        {
+          "issue": "2",
+          "key": "68192_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "100750",
+          "DOI": "10.1016/j.rh.2022.06.002",
+          "volume": "57",
+          "author": "AS Yamada",
+          "year": "2023",
+          "unstructured": "Yamada, A. S., Simon, D., Antunes, F. T. T., Say, K. G. & Souza, A. H. D. Psychosocial factors associated with disability in patients with non-specific chronic low back pain: A cross-sectional study. Rehabilitacion. 57(2), 100750 (2023).",
+          "journal-title": "Rehabilitacion."
+        },
+        {
+          "issue": "1",
+          "key": "68192_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.5606/tftrd.2021.8216",
+          "volume": "67",
+          "author": "A Ketenci",
+          "year": "2021",
+          "unstructured": "Ketenci, A. & Zure, M. Pharmacological and non-pharmacological treatment approaches to chronic lumbar back pain. Turk J Phys Med Rehabil. 67(1), 1 (2021).",
+          "journal-title": "Turk J Phys Med Rehabil."
+        },
+        {
+          "key": "68192_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "102920",
+          "DOI": "10.1016/j.msksp.2024.102920",
+          "volume": "70",
+          "author": "M Meilleur-Durand",
+          "year": "2024",
+          "unstructured": "Meilleur-Durand, M. et al. Conditioned pain modulation, kinesiophobia, and pain catastrophizing as prognostic factors for chronicity in a population with acute low back pain: An exploratory prospective study. Musculoskelet Sci Pract. abril de 70, 102920 (2024).",
+          "journal-title": "Musculoskelet Sci Pract. abril de"
+        },
+        {
+          "issue": "2",
+          "key": "68192_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "107",
+          "DOI": "10.1080/10669817.2020.1813472",
+          "volume": "29",
+          "author": "D Toomey",
+          "year": "2021",
+          "unstructured": "Toomey, D., Reid, D. & White, S. How manual therapy provided a gateway to a biopsychosocial management approach in an adult with chronic post-surgical low back pain: A case report. J Man Manip Ther. 29(2), 107–132 (2021).",
+          "journal-title": "J Man Manip Ther."
+        },
+        {
+          "key": "68192_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "71",
+          "DOI": "10.1016/j.physio.2019.11.002",
+          "volume": "107",
+          "author": "TA Boff",
+          "year": "2020",
+          "unstructured": "Boff, T. A. et al. Effectiveness of spinal manipulation and myofascial release compared with spinal manipulation alone on health-related outcomes in individuals with non-specific low back pain: randomized controlled trial. Physiotherapy. 107, 71–80 (2020).",
+          "journal-title": "Physiotherapy."
+        },
+        {
+          "issue": "2",
+          "key": "68192_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "66",
+          "DOI": "10.1080/10669817.2016.1184435",
+          "volume": "25",
+          "author": "G Krekoukias",
+          "year": "2017",
+          "unstructured": "Krekoukias, G. et al. Spinal mobilization vs conventional physiotherapy in the management of chronic low back pain due to spinal disk degeneration: a randomized controlled trial. J Man Manip Ther. 25(2), 66–73 (2017).",
+          "journal-title": "J Man Manip Ther."
+        },
+        {
+          "key": "68192_CR21",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Dos Santos, F. F., Braga, M. L., Barroso, M. M. F., Oliveira, V. C., Oliveira, M. X. Effects of photobiomodulation therapy combined with exercise in patients who have chronic low back pain: Protocol for a randomized controlled trial. Phys Ther. 101(11), pzab201 (2021).",
+          "DOI": "10.1093/ptj/pzab201"
+        },
+        {
+          "issue": "4",
+          "key": "68192_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "919",
+          "DOI": "10.1007/s11332-021-00750-x",
+          "volume": "17",
+          "author": "S Sharma",
+          "year": "2021",
+          "unstructured": "Sharma, S., Akmal, S. & Sharma, S. Comparison of two manual therapy approaches combined with exercise on pain, strength and electromyographic muscle activity in athletes with subacute mechanical low back pain. Sport Sci Health. 17(4), 919–929 (2021).",
+          "journal-title": "Sport Sci Health."
+        },
+        {
+          "issue": "3",
+          "key": "68192_CR23",
+          "first-page": "254",
+          "volume": "6",
+          "author": "P Page",
+          "year": "2011",
+          "unstructured": "Page, P. Cervicogenic headaches: An evidence-led approach to clinical management. Int J Sports Phys Ther. 6(3), 254 (2011).",
+          "journal-title": "Int J Sports Phys Ther."
+        },
+        {
+          "key": "68192_CR24",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jung, K. S., Jung, J. H., In, T. S. and Cho, H. Y. Influences of kinesio taping with therapeutic exercise in patients with low back pain. En Multidisciplinary Digital Publishing Institute; 927 (2021).",
+          "DOI": "10.3390/healthcare9080927"
+        },
+        {
+          "issue": "8",
+          "key": "68192_CR25",
+          "first-page": "465",
+          "volume": "102",
+          "author": "DM Flynn",
+          "year": "2020",
+          "unstructured": "Flynn, D. M. Chronic musculoskeletal pain: Nonpharmacologic, noninvasive treatments. Am Fam Physician. 102(8), 465–477 (2020).",
+          "journal-title": "Am Fam Physician."
+        },
+        {
+          "issue": "5",
+          "key": "68192_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "e1019",
+          "DOI": "10.1097/PR9.0000000000001019",
+          "volume": "7",
+          "author": "MC Mauck",
+          "year": "2022",
+          "unstructured": "Mauck, M. C. et al. Evidence-based interventions to treat chronic low back pain: Treatment selection for a personalized medicine approach. Pain Rep. 7(5), e1019 (2022).",
+          "journal-title": "Pain Rep."
+        },
+        {
+          "issue": "2",
+          "key": "68192_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "207",
+          "DOI": "10.1016/j.scispo.2021.09.006",
+          "volume": "38",
+          "author": "F Wang",
+          "year": "2023",
+          "unstructured": "Wang, F., Jiang, Y. & Hou, L. Effects of different exercise intensities on motor skill learning capability and process. Sci Sports. 38(2), 207-e1 (2023).",
+          "journal-title": "Sci Sports."
+        },
+        {
+          "key": "68192_CR28",
+          "unstructured": "Duncan, N. Declaration of Helsinki. World Med J. 59(4) (2013)."
+        },
+        {
+          "key": "68192_CR29",
+          "unstructured": "Jimenez-Pacheco, A., Jimenez-Pacheco, A. Chronic prostatitis/chronic pelvic pain syndrome: A therapeutic challenge. Rev Med Chil. agosto de 142(8), 1078–9 (2014)."
+        },
+        {
+          "issue": "1",
+          "key": "68192_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "29",
+          "DOI": "10.1054/math.2002.0484",
+          "volume": "8",
+          "author": "E Swinkels-Meewisse",
+          "year": "2003",
+          "unstructured": "Swinkels-Meewisse, E., Swinkels, R., Verbeek, A., Vlaeyen, J. & Oostendorp, R. Psychometric properties of the Tampa Scale for kinesiophobia and the fear-avoidance beliefs questionnaire in acute low back pain. Man Ther. 8(1), 29–36 (2003).",
+          "journal-title": "Man Ther."
+        },
+        {
+          "issue": "5",
+          "key": "68192_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "439",
+          "DOI": "10.1097/PHM.0b013e318287633c",
+          "volume": "92",
+          "author": "HK Vincent",
+          "year": "2013",
+          "unstructured": "Vincent, H. K. et al. Kinesiophobia and fear avoidance beliefs in overweight older adults with chronic low back pain, relationship to walking endurance: Part II. Am J Phys Med Rehabil Acad Physiatr. 92(5), 439 (2013).",
+          "journal-title": "Am J Phys Med Rehabil Acad Physiatr."
+        },
+        {
+          "issue": "13",
+          "key": "68192_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "487",
+          "DOI": "10.1157/13127277",
+          "volume": "131",
+          "author": "JG Campayo",
+          "year": "2008",
+          "unstructured": "Campayo, J. G. et al. Validación de la versión española de la escala de la catastrofización ante el dolor (Pain Catastrophizing Scale) en la fibromialgia. Med Clin (Barc). 131(13), 487–92 (2008).",
+          "journal-title": "Med Clin (Barc)."
+        },
+        {
+          "key": "68192_CR33",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ferrer-Peña, R., Gil-Martínez, A., Pardo-Montero, J., Jiménez-Penick, V., Gallego-Izquierdo, T., La Touche, R. Adaptation and validation of the Spanish version of the graded chronic pain scale. Reumatol Clínica Engl Ed. 1 de mayo de 12(3), 130–138 (2016).",
+          "DOI": "10.1016/j.reumae.2015.07.003"
+        },
+        {
+          "key": "68192_CR34",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Vanderweeën, L., Oostendorp, R. A. B., Vaes, P., Duquet, W. Pressure algometry in manual therapy. Man Ther. diciembre de 1(5), 258–265 (1996).",
+          "DOI": "10.1054/math.1996.0276"
+        },
+        {
+          "issue": "3",
+          "key": "68192_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "412",
+          "DOI": "10.5535/arm.2011.35.3.412",
+          "volume": "35",
+          "author": "G Park",
+          "year": "2011",
+          "unstructured": "Park, G., Kim, C. W., Park, S. B., Kim, M. J. & Jang, S. H. Reliability and usefulness of the pressure pain threshold measurement in patients with myofascial pain. Ann Rehabil Med. 35(3), 412 (2011).",
+          "journal-title": "Ann Rehabil Med."
+        },
+        {
+          "key": "68192_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "1729",
+          "DOI": "10.2147/CIA.S223905",
+          "volume": "14",
+          "author": "G Ozsoy",
+          "year": "2019",
+          "unstructured": "Ozsoy, G. et al. The effects of myofascial release technique combined with core stabilization exercise in elderly with non-specific low back pain: A randomized controlled, single-blind study. Clin Interv Aging. 14, 1729 (2019).",
+          "journal-title": "Clin Interv Aging."
+        },
+        {
+          "key": "68192_CR37",
+          "doi-asserted-by": "crossref",
+          "unstructured": "McCarthy, C. J., Potter, L., Oldham, J. A. Comparing targeted thrust manipulation with general thrust manipulation in patients with low back pain: A general approach is as effective as a specific one. A randomised controlled trial. BMJ Open Sport Exerc Med. 5(1), e000514 (2019).",
+          "DOI": "10.1136/bmjsem-2019-000514"
+        },
+        {
+          "key": "68192_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "18",
+          "DOI": "10.1016/j.msksp.2019.05.011",
+          "volume": "43",
+          "author": "SL Aspinall",
+          "year": "2019",
+          "unstructured": "Aspinall, S. L., Jacques, A., Leboeuf-Yde, C., Etherington, S. J. & Walker, B. F. No difference in pressure pain threshold and temporal summation after lumbar spinal manipulation compared to sham: A randomised controlled trial in adults with low back pain. Musculoskelet Sci Pract. 43, 18–25 (2019).",
+          "journal-title": "Musculoskelet Sci Pract."
+        },
+        {
+          "key": "68192_CR39",
+          "unstructured": "Bergmann, T. F., Peterson, D. H. Chiropractic technique-E-Book. Elsevier Health Sciences (2010)."
+        },
+        {
+          "issue": "2",
+          "key": "68192_CR40",
+          "doi-asserted-by": "publisher",
+          "first-page": "126",
+          "DOI": "10.5606/tftrd.2018.1896",
+          "volume": "64",
+          "author": "A Uzunkulaoğlu",
+          "year": "2018",
+          "unstructured": "Uzunkulaoğlu, A., Aytekin, M. G., Ay, S. & Ergin, S. The effectiveness of Kinesio taping on pain and clinical features in chronic non-specific low back pain: A randomized controlled clinical trial. Turk J Phys Med Rehabil. 64(2), 126 (2018).",
+          "journal-title": "Turk J Phys Med Rehabil."
+        },
+        {
+          "issue": "2",
+          "key": "68192_CR41",
+          "doi-asserted-by": "publisher",
+          "first-page": "89",
+          "DOI": "10.3109/09593985.2014.959144",
+          "volume": "31",
+          "author": "MB Shamsi",
+          "year": "2015",
+          "unstructured": "Shamsi, M. B., Sarrafzadeh, J. & Jamshidi, A. Comparing core stability and traditional trunk exercise on chronic low back pain patients using three functional lumbopelvic stability tests. Physiother THEORY Pract. febrero de 31(2), 89–98 (2015).",
+          "journal-title": "Physiother THEORY Pract. febrero de"
+        },
+        {
+          "key": "68192_CR42",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bicego, A., Monseur, J., Rousseaux, F., Faymonville, M. E., Malaise, N., Salamun, I., et al. Drop-out from chronic pain treatment programmes: Is randomization justified in biopsychosocial approaches? J. Rehabil. Med. 53(4) (2021).",
+          "DOI": "10.2340/16501977-2824"
+        },
+        {
+          "key": "68192_CR43",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Prat-Luri, A., de Los Rios-Calonge, J., Moreno-Navarro, P., Manresa-Rocamora, A., Vera-Garcia, F. J., Barbado, D. Effect of trunk-focused exercises on pain, disability, quality of life and trunk physical fitness in low back pain and how potential effect modifiers modulate their effects: A systematic review with meta-analyses. J. Orthop. Sports Phys. Ther. (0):1–26 (2023).",
+          "DOI": "10.2519/jospt.2023.11091"
+        },
+        {
+          "issue": "4",
+          "key": "68192_CR44",
+          "doi-asserted-by": "publisher",
+          "first-page": "233",
+          "DOI": "10.1016/S1356-689X(03)00053-5",
+          "volume": "8",
+          "author": "E Rasmussen-Barr",
+          "year": "2003",
+          "unstructured": "Rasmussen-Barr, E., Nilsson-Wikmar, L. & Arvidsson, I. Stabilizing training compared with manual treatment in sub-acute and chronic low-back pain. Man Ther. 8(4), 233–41 (2003).",
+          "journal-title": "Man Ther."
+        },
+        {
+          "key": "68192_CR45",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Geisser, M. E., Ranavaya, M., Haig, A. J., Roth, R. S., Zucker, R., Ambroz, C., et al. A meta-analytic review of surface electromyography among persons with low back pain and normal, healthy controls. J. Pain Off. J. Am. Pain Soc. noviembre de 6(11), 711–26 (2005).",
+          "DOI": "10.1016/j.jpain.2005.06.008"
+        },
+        {
+          "key": "68192_CR46",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Tieppo Francio, V., Westerhaus, B. D., Carayannopoulos, A. G., Sayed, D. Multifidus dysfunction and restorative neurostimulation: A scoping review. Pain Med Malden Mass. 13 de julio de;pnad098 (2023).",
+          "DOI": "10.1093/pm/pnad098"
+        },
+        {
+          "issue": "3",
+          "key": "68192_CR47",
+          "doi-asserted-by": "publisher",
+          "first-page": "174",
+          "DOI": "10.1016/j.jphys.2020.06.007",
+          "volume": "66",
+          "author": "RF de Oliveira",
+          "year": "2020",
+          "unstructured": "de Oliveira, R. F., Costa, L. O. P., Nascimento, L. P. & Rissato, L. L. Directed vertebral manipulation is not better than generic vertebral manipulation in patients with chronic low back pain: A randomised trial. J Physiother. 66(3), 174–9 (2020).",
+          "journal-title": "J Physiother."
+        },
+        {
+          "issue": "4",
+          "key": "68192_CR48",
+          "doi-asserted-by": "publisher",
+          "first-page": "848",
+          "DOI": "10.1002/msc.1637",
+          "volume": "20",
+          "author": "P Riipinen",
+          "year": "2022",
+          "unstructured": "Riipinen, P. et al. Patient’s perception of exercise for management of chronic low back pain: A qualitative study exercise for the management of low back pain. Musculoskeletal Care. 20(4), 848–59 (2022).",
+          "journal-title": "Musculoskeletal Care."
+        },
+        {
+          "issue": "9",
+          "key": "68192_CR49",
+          "doi-asserted-by": "publisher",
+          "first-page": "3023",
+          "DOI": "10.1007/s00586-023-07835-w",
+          "volume": "32",
+          "author": "M Saadat",
+          "year": "2023",
+          "unstructured": "Saadat, M. et al. To evaluate responsiveness and minimal important change (MIC) for the Persian versions of FABQ, TSK, and PCS. Eur SPINE J. septiembre de 32(9), 3023–9 (2023).",
+          "journal-title": "Eur SPINE J. septiembre de"
+        },
+        {
+          "key": "68192_CR50",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Foubert, A., Cleenders, E., Sligchers, M., Heystee, L., Meeus, M., Vaes, P., et al. Associations between psychological factors, pressure pain thresholds and conditioned pain modulation and disability in (sub)-acute low back pain: a three-month follow-up study. J. Man. Manip. Ther. 4 de julio de 31(4), 270–8 (2023).",
+          "DOI": "10.1080/10669817.2023.2174484"
+        },
+        {
+          "issue": "3",
+          "key": "68192_CR51",
+          "doi-asserted-by": "publisher",
+          "first-page": "168",
+          "DOI": "10.1016/j.jphys.2023.05.008",
+          "volume": "69",
+          "author": "L Wood",
+          "year": "2023",
+          "unstructured": "Wood, L. et al. Pain Catastrophising and Kinesiophobia mediate pain and physical function improvements with Pilates exercise in chronic low back pain: A mediation analysis of a randomised controlled trial. J Physiother. 69(3), 168–74 (2023).",
+          "journal-title": "J Physiother."
+        },
+        {
+          "issue": "9",
+          "key": "68192_CR52",
+          "doi-asserted-by": "publisher",
+          "first-page": "1555",
+          "DOI": "10.1016/j.jpain.2023.06.007",
+          "volume": "24",
+          "author": "DJ Langford",
+          "year": "2023",
+          "unstructured": "Langford, D. J. et al. Covariate adjustment in chronic pain trials: An oft-missed opportunity. J PAIN. septiembre de 24(9), 1555–69 (2023).",
+          "journal-title": "J PAIN. septiembre de"
+        },
+        {
+          "issue": "7",
+          "key": "68192_CR53",
+          "doi-asserted-by": "publisher",
+          "first-page": "3500",
+          "DOI": "10.3390/ijerph18073500",
+          "volume": "18",
+          "author": "M Borys",
+          "year": "2021",
+          "unstructured": "Borys, M. et al. Quadratus lumborum and transversus abdominis plane blocks and their impact on acute and chronic pain in patients after cesarean section: A randomized controlled study. Int J Environ Res Public Health. 18(7), 3500 (2021).",
+          "journal-title": "Int J Environ Res Public Health."
+        },
+        {
+          "key": "68192_CR54",
+          "doi-asserted-by": "publisher",
+          "first-page": "103243",
+          "DOI": "10.1016/j.ijoa.2021.103243",
+          "volume": "49",
+          "author": "X Han",
+          "year": "2022",
+          "unstructured": "Han, X. & Gu, J. The failure of transversus abdominis plane block may be related to diastasis recti abdominis after cesarean delivery. Int J Obstet Anesth. 49, 103243 (2022).",
+          "journal-title": "Int J Obstet Anesth."
+        },
+        {
+          "issue": "4",
+          "key": "68192_CR55",
+          "first-page": "167",
+          "volume": "22",
+          "author": "N Kuciel",
+          "year": "2020",
+          "unstructured": "Kuciel, N., Mazurek, J., Biernat, K., Pawik, Ł & Sutkowska, E. Abdominal muscles activity during abdominal bracing and posterior pelvic tilt in women after natural birth and after caesarean delivery. Acta Bıoeng. Bıomech. 22(4), 167–73 (2020).",
+          "journal-title": "Acta Bıoeng. Bıomech."
+        },
+        {
+          "issue": "1",
+          "key": "68192_CR56",
+          "doi-asserted-by": "publisher",
+          "first-page": "35",
+          "DOI": "10.1016/j.math.2012.06.008",
+          "volume": "18",
+          "author": "SM Henry",
+          "year": "2013",
+          "unstructured": "Henry, S. M., Van Dillen, L. R., Trombley, A. R., Dee, J. M. & Bunn, J. Y. Reliability of novice raters in using the movement system impairment approach to classify people with low back pain. Man Ther. 18(1), 35–40 (2013).",
+          "journal-title": "Man Ther."
+        }
+      ],
+      "container-title": [
+        "Scientific Reports"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.nature.com/articles/s41598-024-68192-2.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.nature.com/articles/s41598-024-68192-2",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.nature.com/articles/s41598-024-68192-2.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            24
+          ]
+        ],
+        "date-time": "2024-07-24T06:09:49Z",
+        "timestamp": 1721801389000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.nature.com/articles/s41598-024-68192-2"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            24
+          ]
+        ]
+      },
+      "references-count": 56,
+      "journal-issue": {
+        "issue": "1",
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "68192"
+      ],
+      "URL": "https://doi.org/10.1038/s41598-024-68192-2",
+      "relation": {},
+      "ISSN": [
+        "2045-2322"
+      ],
+      "issn-type": [
+        {
+          "value": "2045-2322",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            24
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "4 July 2023",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "22 July 2024",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "24 July 2024",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "The authors declare no competing interests.",
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        }
+      ],
+      "article-number": "17042"
+    }
+  }
+}

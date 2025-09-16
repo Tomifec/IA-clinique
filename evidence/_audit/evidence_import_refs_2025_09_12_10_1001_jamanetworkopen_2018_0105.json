@@ -1,0 +1,678 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1001_jamanetworkopen_2018_0105.md",
+  "id": "evidence_import_refs_2025_09_12_10_1001_jamanetworkopen_2018_0105",
+  "doi": "10.1001/jamanetworkopen.2018.0105",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:09.851211Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            11
+          ]
+        ],
+        "date-time": "2025-07-11T10:45:02Z",
+        "timestamp": 1752230702320
+      },
+      "reference-count": 44,
+      "publisher": "American Medical Association (AMA)",
+      "issue": "1",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "JAMA Netw Open"
+      ],
+      "DOI": "10.1001/jamanetworkopen.2018.0105",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            21
+          ]
+        ],
+        "date-time": "2018-05-21T21:07:46Z",
+        "timestamp": 1526936866000
+      },
+      "page": "e180105",
+      "source": "Crossref",
+      "is-referenced-by-count": 64,
+      "title": [
+        "Effect of Usual Medical Care Plus Chiropractic Care vs Usual Medical Care Alone on Pain and Disability Among US Service Members With Low Back Pain"
+      ],
+      "prefix": "10.1001",
+      "volume": "1",
+      "author": [
+        {
+          "given": "Christine M.",
+          "family": "Goertz",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Palmer College of Chiropractic, Palmer Center for Chiropractic Research, Davenport, Iowa"
+            }
+          ]
+        },
+        {
+          "given": "Cynthia R.",
+          "family": "Long",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Palmer College of Chiropractic, Palmer Center for Chiropractic Research, Davenport, Iowa"
+            }
+          ]
+        },
+        {
+          "given": "Robert D.",
+          "family": "Vining",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Palmer College of Chiropractic, Palmer Center for Chiropractic Research, Davenport, Iowa"
+            }
+          ]
+        },
+        {
+          "given": "Katherine A.",
+          "family": "Pohlman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Parker University Research Institute, Dallas, Texas"
+            }
+          ]
+        },
+        {
+          "given": "Joan",
+          "family": "Walter",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Samueli Institute for Information Biology, Silver Spring, Maryland"
+            }
+          ]
+        },
+        {
+          "given": "Ian",
+          "family": "Coulter",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "RAND Corporation, Santa Monica, California"
+            }
+          ]
+        }
+      ],
+      "member": "10",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            18
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "9859",
+          "key": "zoi180017r1",
+          "doi-asserted-by": "publisher",
+          "first-page": "2163",
+          "DOI": "10.1016/S0140-6736(12)61729-2",
+          "article-title": "Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010.",
+          "volume": "380",
+          "author": "Vos",
+          "year": "2012",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "zoi180017r3",
+          "doi-asserted-by": "publisher",
+          "first-page": "S0034-89102015000100408",
+          "DOI": "10.1590/S0034-8910.2015049005874",
+          "article-title": "Prevalence of chronic low back pain: systematic review",
+          "volume": "49",
+          "author": "Meucci",
+          "year": "2015",
+          "journal-title": "Rev Saude Publica"
+        },
+        {
+          "issue": "8",
+          "key": "zoi180017r4",
+          "doi-asserted-by": "publisher",
+          "first-page": "715",
+          "DOI": "10.1016/j.jpain.2012.03.009",
+          "article-title": "The economic costs of pain in the United States.",
+          "volume": "13",
+          "author": "Gaskin",
+          "year": "2012",
+          "journal-title": "J Pain"
+        },
+        {
+          "issue": "9",
+          "key": "zoi180017r6",
+          "doi-asserted-by": "publisher",
+          "first-page": "833",
+          "DOI": "10.1016/j.spinee.2011.10.010",
+          "article-title": "Spine-area pain in military personnel: a review of epidemiology, etiology, diagnosis, and treatment.",
+          "volume": "12",
+          "author": "Cohen",
+          "year": "2012",
+          "journal-title": "Spine J"
+        },
+        {
+          "issue": "12",
+          "key": "zoi180017r7",
+          "first-page": "8",
+          "article-title": "Diagnoses of low back pain, active component, U.S. Armed Forces, 2010-2014.",
+          "volume": "22",
+          "author": "Clark",
+          "year": "2015",
+          "journal-title": "MSMR"
+        },
+        {
+          "issue": "1",
+          "key": "zoi180017r8",
+          "doi-asserted-by": "publisher",
+          "first-page": "62",
+          "DOI": "10.3122/jabfm.2009.01.080102",
+          "article-title": "Overtreating chronic back pain: time to back off?",
+          "volume": "22",
+          "author": "Deyo",
+          "year": "2009",
+          "journal-title": "J Am Board Fam Med"
+        },
+        {
+          "issue": "3",
+          "key": "zoi180017r9",
+          "doi-asserted-by": "crossref",
+          "first-page": "E365",
+          "DOI": "10.36076/ppj/2016.19.E365",
+          "article-title": "Epidural injections for lumbar radiculopathy and spinal stenosis: a comparative systematic review and meta-analysis.",
+          "volume": "19",
+          "author": "Manchikanti",
+          "year": "2016",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "issue": "7",
+          "key": "zoi180017r10",
+          "doi-asserted-by": "publisher",
+          "first-page": "1269",
+          "DOI": "10.1136/annrheumdis-2016-210597",
+          "article-title": "Non-steroidal anti-inflammatory drugs for spinal pain: a systematic review and meta-analysis.",
+          "volume": "76",
+          "author": "Machado",
+          "year": "2017",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "issue": "8",
+          "key": "zoi180017r11",
+          "doi-asserted-by": "publisher",
+          "first-page": "1680",
+          "DOI": "10.1016/j.spinee.2013.10.015",
+          "article-title": "Incidence and risk factors for postoperative ileus following anterior, posterior, and circumferential lumbar fusion.",
+          "volume": "14",
+          "author": "Fineberg",
+          "year": "2014",
+          "journal-title": "Spine J"
+        },
+        {
+          "issue": "8",
+          "key": "zoi180017r12",
+          "doi-asserted-by": "publisher",
+          "first-page": "673",
+          "DOI": "10.1097/BRS.0000000000000197",
+          "article-title": "Cerebral vascular accidents after lumbar spine fusion.",
+          "volume": "39",
+          "author": "Marquez-Lara",
+          "year": "2014",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "1",
+          "key": "zoi180017r13",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1111/j.1475-6773.2012.01434.x",
+          "article-title": "Hospital and surgeon variation in complications and repeat surgery following incident lumbar fusion for common degenerative diagnoses.",
+          "volume": "48",
+          "author": "Martin",
+          "year": "2013",
+          "journal-title": "Health Serv Res"
+        },
+        {
+          "key": "zoi180017r14",
+          "doi-asserted-by": "publisher",
+          "first-page": "j1909",
+          "DOI": "10.1136/bmj.j1909",
+          "article-title": "Risk of acute myocardial infarction with NSAIDs in real world use: Bayesian meta-analysis of individual patient data.",
+          "volume": "357",
+          "author": "Bally",
+          "year": "2017",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "15",
+          "key": "zoi180017r15",
+          "doi-asserted-by": "publisher",
+          "first-page": "1624",
+          "DOI": "10.1001/jama.2016.1464",
+          "article-title": "CDC guideline for prescribing opioids for chronic pain—United States, 2016.",
+          "volume": "315",
+          "author": "Dowell",
+          "year": "2016",
+          "journal-title": "JAMA"
+        },
+        {
+          "issue": "6",
+          "key": "zoi180017r16",
+          "doi-asserted-by": "publisher",
+          "first-page": "e170504",
+          "DOI": "10.1001/jamasurg.2017.0504",
+          "article-title": "New persistent opioid use after minor and major surgical procedures in US adults.",
+          "volume": "152",
+          "author": "Brummett",
+          "year": "2017",
+          "journal-title": "JAMA Surg"
+        },
+        {
+          "issue": "1",
+          "key": "zoi180017r17",
+          "doi-asserted-by": "publisher",
+          "first-page": "6",
+          "DOI": "10.1186/2045-709X-20-6",
+          "article-title": "Clinical decision-making to facilitate appropriate patient management in chiropractic practice: “the 3-questions model.”",
+          "volume": "20",
+          "author": "Amorin-Woods",
+          "year": "2012",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "issue": "8",
+          "key": "zoi180017r19",
+          "doi-asserted-by": "publisher",
+          "first-page": "533",
+          "DOI": "10.1016/j.jmpt.2015.08.001",
+          "article-title": "Public perceptions of doctors of chiropractic: results of a national survey and examination of variation according to respondents’ likelihood to use chiropractic, experience with chiropractic, and chiropractic supply in local health care markets.",
+          "volume": "38",
+          "author": "Weeks",
+          "year": "2015",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "issue": "9",
+          "key": "zoi180017r20",
+          "doi-asserted-by": "publisher",
+          "first-page": "1292",
+          "DOI": "10.1016/j.mayocp.2016.06.007",
+          "article-title": "Evidence-based evaluation of complementary health approaches for pain management in the United States.",
+          "volume": "91",
+          "author": "Nahin",
+          "year": "2016",
+          "journal-title": "Mayo Clin Proc"
+        },
+        {
+          "issue": "7",
+          "key": "zoi180017r22",
+          "doi-asserted-by": "publisher",
+          "first-page": "514",
+          "DOI": "10.7326/M16-2367",
+          "article-title": "Noninvasive treatments for acute, subacute, and chronic low back pain: a clinical practice guideline from the American College of Physicians.",
+          "volume": "166",
+          "author": "Qaseem",
+          "year": "2017",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "issue": "8",
+          "key": "zoi180017r23",
+          "doi-asserted-by": "publisher",
+          "first-page": "627",
+          "DOI": "10.1097/BRS.0b013e31827733e7",
+          "article-title": "Adding chiropractic manipulative therapy to standard medical care for patients with acute low back pain: results of a pragmatic randomized comparative effectiveness study.",
+          "volume": "38",
+          "author": "Goertz",
+          "year": "2013",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "5",
+          "key": "zoi180017r25",
+          "doi-asserted-by": "publisher",
+          "first-page": "670",
+          "DOI": "10.1016/j.jelekin.2012.03.006",
+          "article-title": "Patient-centered outcomes of high-velocity, low-amplitude spinal manipulation for low back pain: a systematic review.",
+          "volume": "22",
+          "author": "Goertz",
+          "year": "2012",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "key": "zoi180017r26",
+          "doi-asserted-by": "publisher",
+          "first-page": "70",
+          "DOI": "10.1186/s13063-016-1193-8",
+          "article-title": "Assessment of chiropractic treatment for active duty, U.S. military personnel with low back pain: study protocol for a randomized controlled trial.",
+          "volume": "17",
+          "author": "Goertz",
+          "year": "2016",
+          "journal-title": "Trials"
+        },
+        {
+          "issue": "11",
+          "key": "zoi180017r27",
+          "doi-asserted-by": "publisher",
+          "first-page": "1331",
+          "DOI": "10.1097/01.brs.0000164099.92112.29",
+          "article-title": "Responsiveness of the numeric pain rating scale in patients with low back pain.",
+          "volume": "30",
+          "author": "Childs",
+          "year": "2005",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "5",
+          "key": "zoi180017r28",
+          "doi-asserted-by": "publisher",
+          "first-page": "578",
+          "DOI": "10.1097/01.brs.0000201293.57439.47",
+          "article-title": "Minimal clinically important change for pain intensity, functional status, and general health status in patients with nonspecific low back pain.",
+          "volume": "31",
+          "author": "van der Roer",
+          "year": "2006",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "11",
+          "key": "zoi180017r30",
+          "doi-asserted-by": "publisher",
+          "first-page": "1197",
+          "DOI": "10.1093/ptj/78.11.1197",
+          "article-title": "Sensitivity to change of the Roland-Morris Back Pain Questionnaire: part 2.",
+          "volume": "78",
+          "author": "Riddle",
+          "year": "1998",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "issue": "16",
+          "key": "zoi180017r31",
+          "doi-asserted-by": "publisher",
+          "first-page": "1887",
+          "DOI": "10.1097/01.brs.0000173900.46863.02",
+          "article-title": "Classification of low back pain in primary care: using “bothersomeness” to identify the most severe cases.",
+          "volume": "30",
+          "author": "Dunn",
+          "year": "2005",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "1-2",
+          "key": "zoi180017r32",
+          "doi-asserted-by": "publisher",
+          "first-page": "9",
+          "DOI": "10.1016/j.pain.2004.09.012",
+          "article-title": "Core outcome measures for chronic pain clinical trials: IMMPACT recommendations.",
+          "volume": "113",
+          "author": "Dworkin",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "7",
+          "key": "zoi180017r33",
+          "doi-asserted-by": "publisher",
+          "first-page": "760",
+          "DOI": "10.1016/j.jclinepi.2009.09.009",
+          "article-title": "Global Perceived Effect scales provided reliable assessments of health transition in people with musculoskeletal disorders, but ratings are strongly influenced by current status.",
+          "volume": "63",
+          "author": "Kamper",
+          "year": "2010",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "7",
+          "key": "zoi180017r34",
+          "doi-asserted-by": "publisher",
+          "first-page": "478",
+          "DOI": "10.7326/0003-4819-147-7-200710020-00006",
+          "article-title": "Diagnosis and treatment of low back pain: a joint clinical practice guideline from the American College of Physicians and the American Pain Society.",
+          "volume": "147",
+          "author": "Chou",
+          "year": "2007",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "issue": "2",
+          "key": "zoi180017r35",
+          "first-page": "431",
+          "article-title": "Minimal clinically important difference: low back pain: outcome measures.",
+          "volume": "28",
+          "author": "Bombardier",
+          "year": "2001",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "issue": "7",
+          "key": "zoi180017r37",
+          "doi-asserted-by": "publisher",
+          "first-page": "493",
+          "DOI": "10.7326/M16-2459",
+          "article-title": "Nonpharmacologic therapies for low back pain: a systematic review for an American College of Physicians clinical practice guideline.",
+          "volume": "166",
+          "author": "Chou",
+          "year": "2017",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "issue": "14",
+          "key": "zoi180017r38",
+          "doi-asserted-by": "publisher",
+          "first-page": "1451",
+          "DOI": "10.1001/jama.2017.3086",
+          "article-title": "Association of spinal manipulative therapy with clinical benefit and harm for acute low back pain: systematic review and meta-analysis.",
+          "volume": "317",
+          "author": "Paige",
+          "year": "2017",
+          "journal-title": "JAMA"
+        },
+        {
+          "issue": "5",
+          "key": "zoi180017r39",
+          "doi-asserted-by": "publisher",
+          "first-page": "499",
+          "DOI": "10.1016/j.jclinepi.2009.01.012",
+          "article-title": "Explanatory and pragmatic attitudes in therapeutical trials.",
+          "volume": "62",
+          "author": "Schwartz",
+          "year": "2009",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "7",
+          "key": "zoi180017r40",
+          "doi-asserted-by": "publisher",
+          "first-page": "540",
+          "DOI": "10.1097/BRS.0b013e318275d09c",
+          "article-title": "Spinal high-velocity low amplitude manipulation in acute nonspecific low back pain: a double-blinded randomized controlled trial in comparison with diclofenac and placebo.",
+          "volume": "38",
+          "author": "von Heymann",
+          "year": "2013",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "7",
+          "key": "zoi180017r41",
+          "doi-asserted-by": "publisher",
+          "first-page": "1106",
+          "DOI": "10.1016/j.spinee.2013.07.468",
+          "article-title": "Dose-response and efficacy of spinal manipulation for care of chronic low back pain: a randomized controlled trial.",
+          "volume": "14",
+          "author": "Haas",
+          "year": "2014",
+          "journal-title": "Spine J"
+        },
+        {
+          "issue": "8",
+          "key": "zoi180017r42",
+          "doi-asserted-by": "publisher",
+          "first-page": "997",
+          "DOI": "10.1682/JRRD.2009.01.0002",
+          "article-title": "Characteristics of Veterans Health Administration chiropractors and chiropractic clinics.",
+          "volume": "46",
+          "author": "Lisi",
+          "year": "2009",
+          "journal-title": "J Rehabil Res Dev"
+        },
+        {
+          "issue": "3",
+          "key": "zoi180017r43",
+          "first-page": "194",
+          "article-title": "Chiropractic practice in military and veterans health care: the state of the literature.",
+          "volume": "53",
+          "author": "Green",
+          "year": "2009",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "issue": "1",
+          "key": "zoi180017r44",
+          "doi-asserted-by": "publisher",
+          "first-page": "53",
+          "DOI": "10.2217/cer.12.74",
+          "article-title": "Pros and cons of pragmatic clinical trials.",
+          "volume": "2",
+          "author": "Lurie",
+          "year": "2013",
+          "journal-title": "J Comp Eff Res"
+        },
+        {
+          "key": "zoi180017r5",
+          "volume-title": "The Global Burden of Disease: Generating Evidence, Guiding Policy",
+          "author": "Institute for Health Metrics and Evaluation",
+          "year": "2013"
+        },
+        {
+          "key": "zoi180017r21",
+          "volume-title": "Pain Management Task Force, Final Report, May 2010: Providing a Standardized DoD and VHA Vision and Approach to Pain Management to Optimize the Care for Warriors and Their Families",
+          "author": "Office of the Army Surgeon General",
+          "year": "2010"
+        },
+        {
+          "key": "zoi180017r29",
+          "first-page": "15",
+          "volume-title": "Handbook of Pain Assessment",
+          "author": "Jensen",
+          "year": "2001",
+          "edition": "2nd ed"
+        },
+        {
+          "key": "zoi180017r36",
+          "volume-title": "Noninvasive Treatments for Low Back Pain",
+          "author": "Chou",
+          "year": "2016"
+        },
+        {
+          "key": "zoi180017r2",
+          "unstructured": "US Bone and Joint Initiative. The burden of musculoskeletal diseases in the United States. 2016. http://www.boneandjointburden.org/. Accessed February 17, 2018."
+        },
+        {
+          "key": "zoi180017r18",
+          "unstructured": "American Physical Therapy Association. Position on thrust joint manipulation provided by physical therapists. February 2009. http://www.apta.org/uploadedFiles/APTAorg/Advocacy/State/Issues/Manipulation/WhitePaperManipulation.pdf. Accessed February 20, 2009."
+        },
+        {
+          "key": "zoi180017r24",
+          "unstructured": "TRICARE. Find a military hospital or clinic. https://tricare.mil/mtf#zip=&radius=40&facility=&country=&state=&region=undefined&specialty=23&service=&pageNo=0&pageCount=5&view=map&fids=188,189,68,57,130. Accessed January 23, 2018."
+        }
+      ],
+      "container-title": [
+        "JAMA Network Open"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http:///jamanetworkopen/article-pdf/1/1/e180105/17329421/goertz_2018_oi_180017.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            8,
+            23
+          ]
+        ],
+        "date-time": "2022-08-23T23:45:18Z",
+        "timestamp": 1661298318000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://jamanetworkopen.jamanetwork.com/article.aspx?doi=10.1001/jamanetworkopen.2018.0105"
+        }
+      },
+      "subtitle": [
+        "A Comparative Effectiveness Clinical Trial"
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            18
+          ]
+        ]
+      },
+      "references-count": 44,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              18
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1001/jamanetworkopen.2018.0105",
+      "relation": {},
+      "ISSN": [
+        "2574-3805"
+      ],
+      "issn-type": [
+        {
+          "value": "2574-3805",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            18
+          ]
+        ]
+      }
+    }
+  }
+}

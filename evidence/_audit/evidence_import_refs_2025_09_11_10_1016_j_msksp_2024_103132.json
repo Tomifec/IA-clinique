@@ -1,0 +1,578 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1016_j_msksp_2024_103132.md",
+  "id": "evidence_import_refs_2025_09_11_10_1016_j_msksp_2024_103132",
+  "doi": "10.1016/j.msksp.2024.103132",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:44.522746Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            13
+          ]
+        ],
+        "date-time": "2024-12-13T02:10:01Z",
+        "timestamp": 1734055801994,
+        "version": "3.30.2"
+      },
+      "reference-count": 26,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2024-10-01T00:00:00Z",
+            "timestamp": 1727740800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2024-10-01T00:00:00Z",
+            "timestamp": 1727740800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2024-10-01T00:00:00Z",
+            "timestamp": 1727740800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2024-10-01T00:00:00Z",
+            "timestamp": 1727740800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2024-10-01T00:00:00Z",
+            "timestamp": 1727740800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2024-10-01T00:00:00Z",
+            "timestamp": 1727740800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2024-10-01T00:00:00Z",
+            "timestamp": 1727740800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "clinicalkey.com.au",
+          "clinicalkey.es",
+          "clinicalkey.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.msksp.2024.103132",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            4
+          ]
+        ],
+        "date-time": "2024-07-04T17:18:48Z",
+        "timestamp": 1720113528000
+      },
+      "page": "103132",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "special_numbering": "C",
+      "title": [
+        "Clinicians' perspectives on remote patient management: A qualitative exploration of physiotherapists using the DiAL (Direct Access Line) programme"
+      ],
+      "prefix": "10.1016",
+      "volume": "73",
+      "author": [
+        {
+          "given": "Heather",
+          "family": "Grant",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Glykeria",
+          "family": "Skamagki",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "44",
+          "key": "10.1016/j.msksp.2024.103132_bib1",
+          "article-title": "Patient-Initiated Follow-Up (PIFU) as reorganized support for increased patient involvement – focus group discussions among patients' with inflammatory arthritis",
+          "volume": "4",
+          "author": "Bech",
+          "year": "2020",
+          "journal-title": "BMC Rheumatology"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2024.103132_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "42",
+          "DOI": "10.1111/j.1365-2753.2010.01523.x",
+          "article-title": "Clinical audit and quality improvement - time for a rethink?",
+          "volume": "18",
+          "author": "Bowie",
+          "year": "2012",
+          "journal-title": "J. Eval. Clin. Pract."
+        },
+        {
+          "year": "2002",
+          "series-title": "Research Methods in Health: Investigating Health and Health Services",
+          "author": "Bowling",
+          "key": "10.1016/j.msksp.2024.103132_bib3"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2024.103132_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1191/1478088706qp063oa",
+          "article-title": "Using thematic analysis in psychology",
+          "volume": "3",
+          "author": "Braun",
+          "year": "2006",
+          "journal-title": "Qual. Res. Psychol."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2024.103132_bib5",
+          "first-page": "11",
+          "article-title": "The research audit trial-enhancing Trustworthiness in qualitative Inquiry",
+          "volume": "7",
+          "author": "Carcary",
+          "year": "2009",
+          "journal-title": "Electron. J. Bus. Res. Methods"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.msksp.2024.103132_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "547",
+          "DOI": "10.1016/S0031-9406(05)65614-3",
+          "article-title": "Conducting qualitative research in physiotherapy - a methodological example",
+          "volume": "83",
+          "author": "Carpenter",
+          "year": "1997",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2024.103132_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "380",
+          "DOI": "10.1002/msc.1534",
+          "article-title": "Patient experiences of virtual consultation during COVID 19: a musculoskeletal service evaluation",
+          "volume": "19",
+          "author": "Cliffe",
+          "year": "2021",
+          "journal-title": "Muscoskel. Care"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2024.103132_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "625",
+          "DOI": "10.1177/0269215516645148",
+          "article-title": "Real-time telerehabilitation for the treatment of musculoskeletal conditions is effective and comparable to standard practice: a systematic review and meta-analysis",
+          "volume": "31",
+          "author": "Cottrell",
+          "year": "2017",
+          "journal-title": "Clin. Rehabil."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2024.103132_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "624",
+          "DOI": "10.1016/j.math.2013.02.009",
+          "article-title": "Metastatic disease masquerading as mechanical low back pain; atypical symptoms which may raise suspicion",
+          "volume": "18",
+          "author": "Finucane",
+          "year": "2013",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2024.103132_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "245",
+          "DOI": "10.1186/s12891-021-04113-y",
+          "article-title": "A mixed-methods survey to explore issues with virtual consultations for musculoskeletal care during the COVID-19 pandemic",
+          "volume": "22",
+          "author": "Gilbert",
+          "year": "2021",
+          "journal-title": "BMC Muscoskel. Disord."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.msksp.2024.103132_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "668",
+          "DOI": "10.1038/sj.bdj.2018.815",
+          "article-title": "Interviews and focus groups in qualitative research: an update for the digital age",
+          "volume": "225",
+          "author": "Gill",
+          "year": "2018",
+          "journal-title": "Br. Dent. J."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2024.103132_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "136",
+          "DOI": "10.1002/msc.1516",
+          "article-title": "National survey of the current clinical practices of the UK rheumatology physiotherapists: a short report",
+          "volume": "19",
+          "author": "Gregory",
+          "year": "2021",
+          "journal-title": "Muscoskel. Care"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2024.103132_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "183",
+          "DOI": "10.1054/jbmt.2000.0217",
+          "article-title": "Classic Paper: clinical Observation – the Masqueraders",
+          "volume": "6",
+          "author": "Grieve",
+          "year": "2002",
+          "journal-title": "J. Bodyw. Mov. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2024.103132_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "85",
+          "DOI": "10.2147/JHL.S289176",
+          "article-title": "Where do models for change management, improvement and implementation meet? A systematic review of the applications of change management models in healthcare",
+          "volume": "13",
+          "author": "Harrison",
+          "year": "2021",
+          "journal-title": "J. Healthc. Leader"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2024.103132_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "68",
+          "DOI": "10.1093/fampra/cmac055",
+          "article-title": "The prevalence of musculoskeletal presentations in general practice: an epidemiological study",
+          "volume": "40",
+          "author": "Keavy",
+          "year": "2022",
+          "journal-title": "Fam. Pract."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2024.103132_bib18",
+          "first-page": "1",
+          "article-title": "Comparison of change Theories",
+          "volume": "8",
+          "author": "Kritsonis",
+          "year": "2004",
+          "journal-title": "International Journal of Scholarly Academic Intellectual Diversity"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2024.103132_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "23",
+          "DOI": "10.1080/10570310500506631",
+          "article-title": "Employee perspectives on implementation communication as predictors of perceptions of success and resistance",
+          "volume": "70",
+          "author": "Lewis",
+          "year": "2006",
+          "journal-title": "West. J. Commun."
+        },
+        {
+          "issue": "2–3",
+          "key": "10.1016/j.msksp.2024.103132_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "65",
+          "DOI": "10.1177/0951484813511233",
+          "article-title": "Frameworks for change in healthcare organisations: a formative evaluation of the NHS Change Model",
+          "volume": "26",
+          "author": "Martin",
+          "year": "2013",
+          "journal-title": "Health Serv. Manag. Res."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2024.103132_bib21",
+          "first-page": "1",
+          "article-title": "Remote musculoskeletal assessment framework: a guide for primary care",
+          "volume": "13",
+          "author": "Murray",
+          "year": "2021",
+          "journal-title": "Cureus"
+        },
+        {
+          "journal-title": "Delivering a “Net Zero” National Health Service",
+          "year": "2020",
+          "key": "10.1016/j.msksp.2024.103132_bib22"
+        },
+        {
+          "key": "10.1016/j.msksp.2024.103132_bib24",
+          "unstructured": "NHS England 2023/24 Priorities and Operational Planning Guidance. Available at: https://www.england.nhs.uk/publication/2023-24-priorities-and-operational-planning-guidance/(Accessed: 22/62/23)."
+        },
+        {
+          "key": "10.1016/j.msksp.2024.103132_bib26",
+          "unstructured": "NHS England (n. d) The NHS Long Term Plan. Available at: https://www.longtermplan.nhs.uk/wp-content/uploads/2019/08/nhs-long-term-plan-version-1.2.pdf (Accessed: 28/7/23)."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2024.103132_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1186/s12913-016-1349-y",
+          "article-title": "The acceptability to patients of PhysioDirect telephone assessment and advice services; A qualitative interview study",
+          "volume": "16",
+          "author": "Pearson",
+          "year": "2016",
+          "journal-title": "BMC Health Serv. Res."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2024.103132_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "1218",
+          "DOI": "10.1111/jep.12763",
+          "article-title": "Impact of co-morbidities on resource use and adherence to guidelines among commercially insured adults with new visits for back pain",
+          "volume": "23",
+          "author": "Rundell",
+          "year": "2017",
+          "journal-title": "J. Eval. Clin. Pract."
+        },
+        {
+          "key": "10.1016/j.msksp.2024.103132_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "A26",
+          "DOI": "10.1016/j.physio.2020.07.004",
+          "article-title": "Physio anywhere: digitally-enhanced outpatient care as a legacy of coronavirus 2020",
+          "volume": "110",
+          "author": "Tack",
+          "year": "2021",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2024.103132_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "113",
+          "DOI": "10.1046/j.1471-1842.2002.00378.x",
+          "article-title": "How CLIP became ECLIPSE: a mnemonic to assist in searching for health policy/management information",
+          "volume": "19",
+          "author": "Wildridge",
+          "year": "2002",
+          "journal-title": "Health Inf. Libr. J."
+        }
+      ],
+      "container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781224002273?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781224002273?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            13
+          ]
+        ],
+        "date-time": "2024-12-13T01:35:43Z",
+        "timestamp": 1734053743000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2468781224002273"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            10
+          ]
+        ]
+      },
+      "references-count": 26,
+      "alternative-id": [
+        "S2468781224002273"
+      ],
+      "URL": "https://doi.org/10.1016/j.msksp.2024.103132",
+      "relation": {},
+      "ISSN": [
+        "2468-7812"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2468-7812"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            10
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Clinicians' perspectives on remote patient management: A qualitative exploration of physiotherapists using the DiAL (Direct Access Line) programme",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Musculoskeletal Science and Practice",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.msksp.2024.103132",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2024 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "103132"
+    }
+  }
+}

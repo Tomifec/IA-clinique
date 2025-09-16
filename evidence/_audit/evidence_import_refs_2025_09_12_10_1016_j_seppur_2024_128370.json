@@ -1,0 +1,2165 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_seppur_2024_128370.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_seppur_2024_128370",
+  "doi": "10.1016/j.seppur.2024.128370",
+  "pmid": "39915132",
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:03.276463Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            10
+          ]
+        ],
+        "date-time": "2025-09-10T21:42:18Z",
+        "timestamp": 1757540538954,
+        "version": "3.32.0"
+      },
+      "reference-count": 165,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2025-01-01T00:00:00Z",
+            "timestamp": 1735689600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2025-01-01T00:00:00Z",
+            "timestamp": 1735689600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2025-01-01T00:00:00Z",
+            "timestamp": 1735689600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2025-01-01T00:00:00Z",
+            "timestamp": 1735689600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2025-01-01T00:00:00Z",
+            "timestamp": 1735689600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2025-01-01T00:00:00Z",
+            "timestamp": 1735689600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2025-01-01T00:00:00Z",
+            "timestamp": 1735689600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Separation and Purification Technology"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.seppur.2024.128370",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            9
+          ]
+        ],
+        "date-time": "2024-06-09T21:44:20Z",
+        "timestamp": 1717969460000
+      },
+      "page": "128370",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 30,
+      "special_numbering": "PA",
+      "title": [
+        "A review on hydrophobic electrospun nanofibers-based materials and membranes for water treatment: Challenges, outlook, and stability"
+      ],
+      "prefix": "10.1016",
+      "volume": "353",
+      "author": [
+        {
+          "given": "Farooque Ahmed",
+          "family": "Janjhi",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Imamdin",
+          "family": "Chandio",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Dahar",
+          "family": "Janwery",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Vahid",
+          "family": "Vatanpour",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Roberto",
+          "family": "Castro-Muñoz",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0005",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.desal.2023.116638",
+          "article-title": "Fabrication and modification of nanofiltration membranes by solution electrospinning technique: a review of influential factors and applications in water treatment",
+          "volume": "558",
+          "author": "Behroozi",
+          "year": "2023",
+          "journal-title": "Desalination"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0010",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ijbiomac.2023.125424",
+          "article-title": "Chitosan-based electrospun nanofibers for encapsulating food bioactive ingredients: A review",
+          "volume": "245",
+          "author": "Castro-Muñoz",
+          "year": "2023",
+          "journal-title": "Int J Biol Macromol"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0015",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.desal.2023.116528",
+          "article-title": "A critical review on electrospun membranes containing 2D materials for seawater desalination",
+          "volume": "555",
+          "author": "Castro-Muñoz",
+          "year": "2023",
+          "journal-title": "Desalination"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0020",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.cej.2022.137047",
+          "article-title": "A new relevant membrane application: CO2 direct air capture (DAC)",
+          "volume": "446",
+          "author": "Castro-Muñoz",
+          "year": "2022",
+          "journal-title": "Chem. Eng. J."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0025",
+          "article-title": "New insights of nanomaterials usage toward superhydrophobic membranes for water desalination via membrane distillation: A review",
+          "author": "Gontarek-Castro",
+          "year": "2021",
+          "journal-title": "Crit Rev Environ Sci Technol"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0030",
+          "article-title": "How to make membrane distillation greener: a review of environmentally friendly and sustainable aspects",
+          "author": "Gontarek-Castro",
+          "year": "2023",
+          "journal-title": "Green Chem."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0035",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.watres.2020.116428",
+          "article-title": "Breakthroughs on tailoring pervaporation membranes for water desalination: A review",
+          "volume": "187",
+          "author": "Castro-Muñoz",
+          "year": "2020",
+          "journal-title": "Water Res"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "2033",
+          "DOI": "10.1021/acsapm.9b00322",
+          "article-title": "Solvent-Free Synthesis of a Superamphiphobic Surface by Green Chemistry",
+          "volume": "1",
+          "author": "Ozbay",
+          "year": "2019",
+          "journal-title": "ACS Appl Polym Mater"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0045",
+          "doi-asserted-by": "crossref",
+          "first-page": "537",
+          "DOI": "10.1016/j.colsurfa.2015.05.049",
+          "article-title": "Superhydrophobic and oleophobic surfaces obtained by graft copolymerization of perfluoroalkyl ethyl acrylate onto SBR rubber",
+          "volume": "481",
+          "author": "Ozbay",
+          "year": "2015",
+          "journal-title": "Colloids Surf A Physicochem Eng Asp"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0050",
+          "series-title": "Handbook of Magnetic Hybrid Nanoalloys and Their Nanocomposites",
+          "first-page": "1",
+          "article-title": "Contact Angle Studies on Functional Surfaces Containing Magnetic Particles",
+          "author": "Erdogan",
+          "year": "2020"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0055",
+          "doi-asserted-by": "crossref",
+          "first-page": "884",
+          "DOI": "10.17344/acsi.2022.7655",
+          "article-title": "Cost-Effective Control of Molecular Weight in Ultrasound-Assisted Emulsion Polymerization of Styrene",
+          "volume": "69",
+          "author": "Korkut",
+          "year": "2022",
+          "journal-title": "Acta Chim Slov"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0060",
+          "unstructured": "Advanced Organic Chemistry FIFTH EDITION Part A: Structure and Mechanisms, n.d."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0065",
+          "doi-asserted-by": "crossref",
+          "first-page": "176",
+          "DOI": "10.1039/C1NR10895F",
+          "article-title": "Subtle regulation of the micro- and nanostructures of electrospun polystyrene fibers and their application in oil absorption",
+          "volume": "4",
+          "author": "Lin",
+          "year": "2012",
+          "journal-title": "Nanoscale"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "347",
+          "DOI": "10.1016/j.marpolbul.2011.11.002",
+          "article-title": "Nanoporous polystyrene fibers for oil spill cleanup",
+          "volume": "64",
+          "author": "Lin",
+          "year": "2012",
+          "journal-title": "Mar Pollut Bull"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0075",
+          "doi-asserted-by": "crossref",
+          "first-page": "1197",
+          "DOI": "10.1007/s12221-022-4652-8",
+          "article-title": "Electrospun PS/PAN Nanofiber Membranes Formed from Doped Carbon Nanotubes with a Fluffy and Multi-scale Construction for Air-Filtration Materials",
+          "volume": "23",
+          "author": "Shao",
+          "year": "2022",
+          "journal-title": "Fibers Polym."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0080",
+          "doi-asserted-by": "crossref",
+          "unstructured": "A.H. Oleiwi A.R. Jabur Q.F. Alsalhy Preparation of Polystyrene/Polyacrylonitrile Blends by Electrospinning Technique 2021 J Phys Conf Ser, IOP Publishing Ltd in 10.1088/1742-6596/1879/2/022065.",
+          "DOI": "10.1088/1742-6596/1879/2/022065"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0085",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.2478/adms-2019-0001",
+          "article-title": "Structure and Properties of Polyacrylonitrile/Polystyrene and Carbon Nanoparticle-Based Nanocomposite Foams",
+          "volume": "19",
+          "author": "Kausar",
+          "year": "2019",
+          "journal-title": "Adv. Mater. Sci."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0090",
+          "doi-asserted-by": "crossref",
+          "first-page": "147",
+          "DOI": "10.1016/j.jcis.2010.03.026",
+          "article-title": "Mechanical and wettable behavior of polyacrylonitrile reinforced fibrous polystyrene mats",
+          "volume": "347",
+          "author": "Sun",
+          "year": "2010",
+          "journal-title": "J Colloid Interface Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0095",
+          "doi-asserted-by": "crossref",
+          "first-page": "4527",
+          "DOI": "10.1021/es2002343",
+          "article-title": "Evaluation of electrospun polyvinyl chloride/polystyrene fibers as sorbent materials for oil spill cleanup",
+          "volume": "45",
+          "author": "Zhu",
+          "year": "2011",
+          "journal-title": "Environ Sci Technol"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0100",
+          "doi-asserted-by": "crossref",
+          "first-page": "20452",
+          "DOI": "10.1021/jp9076933",
+          "article-title": "Enhanced mechanical properties of superhydrophobic microfibrous polystyrene mats via polyamide 6 nanofibers",
+          "volume": "113",
+          "author": "Li",
+          "year": "2009",
+          "journal-title": "J. Phys. Chem. C"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0105",
+          "doi-asserted-by": "crossref",
+          "first-page": "99",
+          "DOI": "10.1016/j.jiec.2022.09.038",
+          "article-title": "Polyurethane-based separation membranes: A review on fabrication techniques, applications, and future prospectives",
+          "volume": "116",
+          "author": "Nasrollahi",
+          "year": "2022",
+          "journal-title": "J. Ind. Eng. Chem."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0110",
+          "doi-asserted-by": "crossref",
+          "first-page": "8",
+          "DOI": "10.1016/j.marpolbul.2016.03.037",
+          "article-title": "A review of polymer nanofibres by electrospinning and their application in oil–water separation for cleaning up marine oil spills",
+          "volume": "106",
+          "author": "Sarbatly",
+          "year": "2016",
+          "journal-title": "Mar Pollut Bull"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0115",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.jcis.2008.02.066",
+          "article-title": "One step preparation of superhydrophobic polymeric surface with polystyrene under ambient atmosphere",
+          "volume": "322",
+          "author": "Tan",
+          "year": "2008",
+          "journal-title": "J Colloid Interface Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0120",
+          "doi-asserted-by": "crossref",
+          "first-page": "4338",
+          "DOI": "10.1002/anie.200460333",
+          "article-title": "A Lotus-Leaf-like Superhydrophobic Surface: A Porous Microsphere/Nanofiber composite film prepared by electrohydrodynamics",
+          "volume": "43",
+          "author": "Jiang",
+          "year": "2004",
+          "journal-title": "Angew. Chem. Int. Ed."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0125",
+          "doi-asserted-by": "crossref",
+          "first-page": "1849",
+          "DOI": "10.1177/0731684414547554",
+          "article-title": "Electrospun polystyrene/polyacrylonitrile fiber with high oil sorption capacity",
+          "volume": "33",
+          "author": "Qiao",
+          "year": "2014",
+          "journal-title": "J. Reinf. Plast. Compos."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0130",
+          "doi-asserted-by": "crossref",
+          "first-page": "6537",
+          "DOI": "10.1021/acs.iecr.3c00057",
+          "article-title": "Polyacrylonitrile in the preparation of separation membranes: a review",
+          "volume": "62",
+          "author": "Vatanpour",
+          "year": "2023",
+          "journal-title": "Ind Eng Chem Res"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0135",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.2339/politeknik.1247175",
+          "article-title": "Statistical Modelling of process variables in the electrospinning production of PAN-Based Nanofibers",
+          "author": "Aydin",
+          "year": "2023",
+          "journal-title": "J. Polytech."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0140",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.wri.2023.100202",
+          "article-title": "MXene-based materials for removal of antibiotics and heavy metals from wastewater- a review",
+          "volume": "29",
+          "author": "Janjhi",
+          "year": "2023",
+          "journal-title": "Water Resour Ind"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0145",
+          "doi-asserted-by": "crossref",
+          "first-page": "423",
+          "DOI": "10.1016/j.memsci.2019.03.076",
+          "article-title": "Towards the dehydration of ethanol using pervaporation cross-linked poly(vinyl alcohol)/graphene oxide membranes",
+          "volume": "582",
+          "author": "Castro-Muñoz",
+          "year": "2019",
+          "journal-title": "J Memb Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0150",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.carbpol.2022.120119",
+          "article-title": "Composites based on electrospun fibers modified with cellulose nanocrystals and SiO2 for selective oil/water separation",
+          "volume": "299",
+          "author": "Wang",
+          "year": "2023",
+          "journal-title": "Carbohydr Polym"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0155",
+          "doi-asserted-by": "crossref",
+          "first-page": "11",
+          "DOI": "10.1016/j.carbon.2021.05.047",
+          "article-title": "Robust preparation of flexibly super-hydrophobic carbon fiber membrane by electrospinning for efficient oil-water separation in harsh environments",
+          "volume": "182",
+          "author": "Sun",
+          "year": "2021",
+          "journal-title": "Carbon N Y"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0160",
+          "article-title": "The High Flux of Superhydrophilic-Superhydrophobic Janus Membrane of cPVA-PVDF/PMMA/GO by Layer-By-Layer Electrospinning for High Efficiency Oil-Water Separation",
+          "volume": "14",
+          "author": "Wu",
+          "year": "2022",
+          "journal-title": "Polymers (basel)"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0165",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.seppur.2022.121532",
+          "article-title": "Janus nanofibrous membrane with special micro-nanostructure for highly efficient separation of oil–water emulsion",
+          "volume": "297",
+          "author": "Wu",
+          "year": "2022",
+          "journal-title": "Sep Purif Technol"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0170",
+          "series-title": "Defected Ag/Cu-MOF as a modifier of polyethersulfone membranes for enhancing permeability, antifouling properties and heavy metal and dye pollutant removal",
+          "first-page": "345",
+          "author": "Vatanpour",
+          "year": "2024"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0175",
+          "doi-asserted-by": "crossref",
+          "first-page": "2959",
+          "DOI": "10.1002/app.39024",
+          "article-title": "Superhydrophobic polyurethane and silica nanoparticles coating with high transparency and fluorescence",
+          "volume": "129",
+          "author": "Jiang",
+          "year": "2013",
+          "journal-title": "J Appl Polym Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0180",
+          "doi-asserted-by": "crossref",
+          "unstructured": "T.C. Chang, Y.T. Wang, Y.S. Hong, Y.S. Chiu, Organic-inorganic hybrid materials. V. Dynamics and degradation of poly(methyl methacrylate) silica hybrids, J Polym Sci A Polym Chem 38 (2000) 1972–1980. Doi: 10.1002/(SICI)1099-0518(20000601)38:11<1972::AID-POLA60>3.0.CO;2-5.",
+          "DOI": "10.1002/(SICI)1099-0518(20000601)38:11<1972::AID-POLA60>3.0.CO;2-5"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0185",
+          "doi-asserted-by": "crossref",
+          "first-page": "458",
+          "DOI": "10.1016/j.apsusc.2013.04.137",
+          "article-title": "Study on the wetting behavior and theoretical models of polydimethylsiloxane/silica coating",
+          "volume": "279",
+          "author": "Li",
+          "year": "2013",
+          "journal-title": "Appl Surf Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0190",
+          "doi-asserted-by": "crossref",
+          "first-page": "2813",
+          "DOI": "10.1016/S0032-3861(99)00478-4",
+          "article-title": "Microstructural and morphological characteristics of PS–SiO2 nanocomposites",
+          "volume": "41",
+          "author": "Hsiue",
+          "year": "2000",
+          "journal-title": "Polymer (guildf)"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0195",
+          "doi-asserted-by": "crossref",
+          "first-page": "581",
+          "DOI": "10.1016/j.memsci.2006.04.026",
+          "article-title": "Electrospun nanofibrous filtration membrane",
+          "volume": "281",
+          "author": "Gopal",
+          "year": "2006",
+          "journal-title": "J Memb Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0200",
+          "doi-asserted-by": "crossref",
+          "first-page": "1804",
+          "DOI": "10.1016/j.compscitech.2009.04.015",
+          "article-title": "Electrospun nanofibers as a platform for multifunctional, hierarchically organized nanocomposite",
+          "volume": "69",
+          "author": "Teo",
+          "year": "2009",
+          "journal-title": "Compos Sci Technol"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0205",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.hazadv.2023.100373",
+          "article-title": "Nano-electrospun membranes: Green solutions for diverse industrial needs",
+          "volume": "12",
+          "author": "Borban",
+          "year": "2023",
+          "journal-title": "Journal of Hazardous Materials Advances"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0210",
+          "article-title": "Electrospun nanomaterials for energy applications: Recent advances",
+          "volume": "9",
+          "author": "Santangelo",
+          "year": "2019",
+          "journal-title": "Applied Sciences (switzerland)"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0215",
+          "doi-asserted-by": "crossref",
+          "first-page": "14535",
+          "DOI": "10.1021/acs.iecr.8b03584",
+          "article-title": "Highly hydrophobic electrospun reduced graphene oxide/Poly(vinylidene fluoride-co-hexafluoropropylene) Membranes for Use in Membrane Distillation",
+          "volume": "57",
+          "author": "Chen",
+          "year": "2018",
+          "journal-title": "Ind Eng Chem Res"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0220",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.nanoso.2019.100268",
+          "article-title": "Carbon dioxide plasma treated PVDF electrospun membrane for the removal of crystal violet dyes and iron oxide nanoparticles from water",
+          "volume": "18",
+          "author": "Gopakumar",
+          "year": "2019",
+          "journal-title": "Nano-Structures & Nano-Objects"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0225",
+          "first-page": "35",
+          "article-title": "Superhydrophobic electrospun PVDF membranes with silanization and fluorosilanization co-functionalized CNTs for improved direct contact membrane distillation, Engineered",
+          "volume": "9",
+          "author": "Gao",
+          "year": "2020",
+          "journal-title": "Science"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0230",
+          "doi-asserted-by": "crossref",
+          "first-page": "101",
+          "DOI": "10.1016/j.memsci.2011.12.005",
+          "article-title": "Influence of electrospun fiber size on the separation efficiency of thin film nanofiltration composite membrane",
+          "volume": "392–393",
+          "author": "Kaur",
+          "year": "2012",
+          "journal-title": "J Memb Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0235",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jece.2022.108452",
+          "article-title": "A review on electrospun membranes for potential air filtration application",
+          "volume": "10",
+          "author": "Russo",
+          "year": "2022",
+          "journal-title": "J Environ Chem Eng"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0240",
+          "doi-asserted-by": "crossref",
+          "unstructured": "S. T. M., A. Bin Arshad, P.T. Lin, J. Widakdo, M. H. K., H.F.M. Austria, C.C. Hu, J.Y. Lai, W.S. Hung, A review of recent progress in polymeric electrospun nanofiber membranes in addressing safe water global issues RSC Adv 11 2021 9638 9663 10.1039/d1ra00060h.",
+          "DOI": "10.1039/D1RA00060H"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0245",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jhazmat.2020.123608",
+          "article-title": "A critical review on the electrospun nanofibrous membranes for the adsorption of heavy metals in water treatment",
+          "volume": "401",
+          "author": "Zhu",
+          "year": "2021",
+          "journal-title": "J Hazard Mater"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0250",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.seppur.2022.122919",
+          "article-title": "Towards large-scale application of nanoporous materials in membranes for separation of energy-relevant gas mixtures",
+          "volume": "308",
+          "author": "Castro-Muñoz",
+          "year": "2023",
+          "journal-title": "Sep Purif Technol"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0255",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.carbpol.2022.120230",
+          "article-title": "Zeolitic imidazolate framework (ZIF-8) modified cellulose acetate NF membranes for potential water treatment application",
+          "volume": "299",
+          "author": "Vatanpour",
+          "year": "2023",
+          "journal-title": "Carbohydr Polym"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0260",
+          "doi-asserted-by": "crossref",
+          "first-page": "1788",
+          "DOI": "10.1002/btpr.242",
+          "article-title": "Electrospun starch acetate nanofibers: Development, properties, and potential application in drug delivery",
+          "volume": "25",
+          "author": "Xu",
+          "year": "2009",
+          "journal-title": "Biotechnol Prog"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0265",
+          "doi-asserted-by": "crossref",
+          "first-page": "252",
+          "DOI": "10.1016/j.msec.2015.04.042",
+          "article-title": "Electrospun nanofibers of polyCD/PMAA polymers and their potential application as drug delivery system",
+          "volume": "C 54",
+          "author": "Oliveira",
+          "year": "2015",
+          "journal-title": "Mater. Sci. Eng."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0270",
+          "first-page": "125",
+          "article-title": "Adsorptive removal of Pb2+, Co2+ and Ni2+ by hydroxyapatite/chitosan composite from aqueous solution",
+          "volume": "43",
+          "author": "Gupta",
+          "year": "2012",
+          "journal-title": "J Taiwan Inst Chem Eng"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0275",
+          "doi-asserted-by": "crossref",
+          "first-page": "2187",
+          "DOI": "10.3390/ijms12042187",
+          "article-title": "Fabrication and intermolecular interactions of silk fibroin/hydroxybutyl chitosan blended nanofibers",
+          "volume": "12",
+          "author": "Zhang",
+          "year": "2011",
+          "journal-title": "Int J Mol Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0280",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ijbiomac.2023.124264",
+          "article-title": "Chitosan-based hollow nanofiber membranes with polyvinylpyrrolidone and polyvinyl alcohol for efficient removal and filtration of organic dyes and heavy metals",
+          "volume": "239",
+          "author": "Wu",
+          "year": "2023",
+          "journal-title": "Int J Biol Macromol"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0285",
+          "doi-asserted-by": "crossref",
+          "first-page": "132",
+          "DOI": "10.1016/j.cej.2014.12.024",
+          "article-title": "Preparation of chitosan based electrospun nanofiber membrane and its adsorptive removal of arsenate from aqueous solution",
+          "volume": "267",
+          "author": "Min",
+          "year": "2015",
+          "journal-title": "Chem. Eng. J."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0290",
+          "doi-asserted-by": "crossref",
+          "first-page": "16669",
+          "DOI": "10.1039/C4TA02363C",
+          "article-title": "Electrospun chitosan-polyvinyl alcohol composite nanofibers loaded with cerium for efficient removal of arsenic from contaminated water",
+          "volume": "2",
+          "author": "Sharma",
+          "year": "2014",
+          "journal-title": "J Mater Chem A Mater"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0295",
+          "doi-asserted-by": "crossref",
+          "first-page": "819",
+          "DOI": "10.1016/j.jhazmat.2017.11.035",
+          "article-title": "Electrospun AOPAN/RC blend nanofiber membrane for efficient removal of heavy metal ions from water",
+          "volume": "344",
+          "author": "Feng",
+          "year": "2018",
+          "journal-title": "J Hazard Mater"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0300",
+          "doi-asserted-by": "crossref",
+          "first-page": "264",
+          "DOI": "10.1016/j.carbpol.2019.01.074",
+          "article-title": "Removal of Cu2+, Cd2+ and Ni2+ ions from aqueous solution using a novel chitosan/polyvinyl alcohol adsorptive membrane",
+          "volume": "210",
+          "author": "Sahebjamee",
+          "year": "2019",
+          "journal-title": "Carbohydr Polym"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0305",
+          "doi-asserted-by": "crossref",
+          "first-page": "237",
+          "DOI": "10.1016/j.cej.2013.01.021",
+          "article-title": "Electrospun nanofiber membrane of PEO/Chitosan for the adsorption of nickel, cadmium, lead and copper ions from aqueous solution",
+          "volume": "220",
+          "author": "Aliabadi",
+          "year": "2013",
+          "journal-title": "Chem. Eng. J."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0310",
+          "doi-asserted-by": "crossref",
+          "first-page": "74",
+          "DOI": "10.1016/j.polymer.2018.12.046",
+          "article-title": "Functionalized chitosan electrospun nanofiber membranes for heavy-metal removal",
+          "volume": "163",
+          "author": "Yang",
+          "year": "2019",
+          "journal-title": "Polymer (guildf)"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0315",
+          "doi-asserted-by": "crossref",
+          "first-page": "191",
+          "DOI": "10.1016/j.memsci.2011.05.065",
+          "article-title": "Poly(ethyleneimine) nanofibrous affinity membrane fabricated via one step wet-electrospinning from poly(vinyl alcohol)-doped poly(ethyleneimine) solution system and its application",
+          "volume": "379",
+          "author": "Wang",
+          "year": "2011",
+          "journal-title": "J Memb Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0320",
+          "doi-asserted-by": "crossref",
+          "first-page": "2466",
+          "DOI": "10.1080/19443994.2015.1030453",
+          "article-title": "Adsorption of heavy metals from industrial wastewater by using polyacrylic acid hydrogel, Desalination",
+          "volume": "57",
+          "author": "Sezgin",
+          "year": "2016",
+          "journal-title": "Water Treat"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0325",
+          "doi-asserted-by": "crossref",
+          "first-page": "730",
+          "DOI": "10.1016/j.jhazmat.2014.10.040",
+          "article-title": "Polydopamine-coated electrospun poly(vinyl alcohol)/poly(acrylic acid) membranes as efficient dye adsorbent with good recyclability",
+          "volume": "283",
+          "author": "Yan",
+          "year": "2015",
+          "journal-title": "J Hazard Mater"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0330",
+          "doi-asserted-by": "crossref",
+          "first-page": "2409",
+          "DOI": "10.1002/app.31816",
+          "article-title": "Fabrication of water-stable electrospun polyacrylic acid-based nanofibrous mats for removal of copper (II) ions in aqueous solution",
+          "volume": "116",
+          "author": "Xiao",
+          "year": "2010",
+          "journal-title": "J Appl Polym Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0335",
+          "doi-asserted-by": "crossref",
+          "first-page": "405",
+          "DOI": "10.1016/j.chemosphere.2019.05.190",
+          "article-title": "Lead and cadmium adsorption by electrospun PVA/PAA nanofibers: batch, spectroscopic, and modeling study",
+          "volume": "233",
+          "author": "Zhang",
+          "year": "2019",
+          "journal-title": "Chemosphere"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0340",
+          "doi-asserted-by": "crossref",
+          "first-page": "389",
+          "DOI": "10.1039/C8NA00044A",
+          "article-title": "Electrospun superhydrophilic membranes for effective removal of Pb(ii) from water",
+          "volume": "1",
+          "author": "Zang",
+          "year": "2019",
+          "journal-title": "Nanoscale Adv"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0345",
+          "first-page": "1431",
+          "article-title": "Nanofibrous membrane of silk fibroin/cellulose acetate blend for heavy metal ion adsorption",
+          "volume": "148",
+          "author": "Zhou",
+          "year": "2011",
+          "journal-title": "Adv Mat Res"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0350",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jece.2020.103988",
+          "article-title": "Current scenario and challenges in adsorption for water treatment",
+          "volume": "8",
+          "author": "Dotto",
+          "year": "2020",
+          "journal-title": "J Environ Chem Eng"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0355",
+          "doi-asserted-by": "crossref",
+          "first-page": "14573",
+          "DOI": "10.1021/acsami.5b04598",
+          "article-title": "Synthesis of Fe3O4/polyacrylonitrile composite electrospun nanofiber mat for effective adsorption of tetracycline",
+          "volume": "7",
+          "author": "Liu",
+          "year": "2015",
+          "journal-title": "ACS Appl Mater Interfaces"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0360",
+          "doi-asserted-by": "crossref",
+          "first-page": "506",
+          "DOI": "10.1016/j.jcis.2019.05.078",
+          "article-title": "Preparation of polydopamine-modified zeolitic imidazolate framework-8 functionalized electrospun fibers for efficient removal of tetracycline",
+          "volume": "552",
+          "author": "Chao",
+          "year": "2019",
+          "journal-title": "J Colloid Interface Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0365",
+          "doi-asserted-by": "crossref",
+          "first-page": "168",
+          "DOI": "10.1016/j.chemosphere.2016.01.093",
+          "article-title": "Tetracycline adsorption onto activated carbons produced by KOH activation of tyre pyrolysis char",
+          "volume": "149",
+          "author": "Acosta",
+          "year": "2016",
+          "journal-title": "Chemosphere"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0370",
+          "doi-asserted-by": "crossref",
+          "first-page": "64",
+          "DOI": "10.1016/j.jwpe.2014.03.006",
+          "article-title": "Effective removal of amoxicillin, cephalexin, tetracycline and penicillin G from aqueous solutions using activated carbon nanoparticles prepared from vine wood",
+          "volume": "1",
+          "author": "Pouretedal",
+          "year": "2014",
+          "journal-title": "J. Water Process Eng."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0375",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.etap.2017.01.004",
+          "article-title": "Adsorption of quinolone, tetracycline, and penicillin antibiotics from aqueous solution using activated carbons",
+          "volume": "50",
+          "author": "Ahmed",
+          "year": "2017",
+          "journal-title": "Environ Toxicol Pharmacol"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0380",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.molliq.2019.111376",
+          "article-title": "Adsorption of tetracycline, ofloxacin and cephalexin antibiotics on boron nitride nanosheets from aqueous solution",
+          "volume": "293",
+          "author": "Bangari",
+          "year": "2019",
+          "journal-title": "J Mol Liq"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0385",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ecoenv.2020.111345",
+          "article-title": "Effect of phosphate on the adsorption of antibiotics onto iron oxide minerals: Comparison between tetracycline and ciprofloxacin",
+          "volume": "205",
+          "author": "Zhu",
+          "year": "2020",
+          "journal-title": "Ecotoxicol Environ Saf"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0390",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.microc.2019.103998",
+          "article-title": "Fabrication and characterization of electrospun Fe3O4/o-MWCNTs/polyamide 6 hybrid nanofibrous membrane composite as an efficient and recoverable adsorbent for removal of Pb (II)",
+          "volume": "149",
+          "author": "Bassyouni",
+          "year": "2019",
+          "journal-title": "Microchem. J."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0395",
+          "doi-asserted-by": "crossref",
+          "first-page": "5820",
+          "DOI": "10.1016/j.jece.2018.08.012",
+          "article-title": "Sorptive removal of enrofloxacin antibiotic from aqueous solution using a ligno-cellulosic substrate from wheat bran",
+          "volume": "6",
+          "author": "Sayen",
+          "year": "2018",
+          "journal-title": "J Environ Chem Eng"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0400",
+          "doi-asserted-by": "crossref",
+          "first-page": "39",
+          "DOI": "10.1016/j.scitotenv.2017.06.006",
+          "article-title": "An investigation into the rapid removal of tetracycline using multilayered graphene-phase biochar derived from waste chicken feather",
+          "volume": "603",
+          "author": "Li",
+          "year": "2017",
+          "journal-title": "Sci. Total Environ."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0405",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jece.2019.103613",
+          "article-title": "Cerium oxide nanoparticles application for rapid adsorptive removal of tetracycline in water",
+          "volume": "8",
+          "author": "Nurhasanah",
+          "year": "2020",
+          "journal-title": "J Environ Chem Eng"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0410",
+          "doi-asserted-by": "crossref",
+          "first-page": "937",
+          "DOI": "10.1016/j.chemosphere.2018.09.003",
+          "article-title": "Induced-fit adsorption of diol-based porous organic polymers for tetracycline removal",
+          "volume": "212",
+          "author": "Zhang",
+          "year": "2018",
+          "journal-title": "Chemosphere"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0415",
+          "doi-asserted-by": "crossref",
+          "first-page": "6747",
+          "DOI": "10.1007/s13762-023-04905-w",
+          "article-title": "Evaluating the ability of Iranian natural zeolite to remove lead from polluted groundwater in Fashafuye plain",
+          "volume": "20",
+          "author": "Heidarian",
+          "year": "2023",
+          "journal-title": "Int. J. Environ. Sci. Technol."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0420",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.1016/j.compositesa.2016.10.034",
+          "article-title": "Electrospun composite nanofiber mats of Cellulose@ Organically modified montmorillonite for heavy metal ion removal: Design, characterization, evaluation of absorption performance",
+          "volume": "92",
+          "author": "Cai",
+          "year": "2017",
+          "journal-title": "Compos Part A Appl Sci Manuf"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0425",
+          "doi-asserted-by": "crossref",
+          "first-page": "92",
+          "DOI": "10.1016/j.colsurfa.2017.10.014",
+          "article-title": "Polyimide-based carbon nanofibers: A versatile adsorbent for highly efficient removals of chlorophenols, dyes and antibiotics",
+          "volume": "537",
+          "author": "Zhang",
+          "year": "2018",
+          "journal-title": "Colloids Surf A Physicochem Eng Asp"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0430",
+          "doi-asserted-by": "crossref",
+          "first-page": "259",
+          "DOI": "10.1016/j.jtice.2020.06.007",
+          "article-title": "Adsorption removal of tetracycline from water using poly (vinylidene fluoride)/polyaniline-montmorillonite mixed matrix membranes",
+          "volume": "112",
+          "author": "Nguyen",
+          "year": "2020",
+          "journal-title": "J Taiwan Inst Chem Eng"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0435",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.envres.2019.109056",
+          "article-title": "Minimizing the residual antimicrobial activity of tetracycline after adsorption into the montmorillonite: Effect of organic modification",
+          "volume": "182",
+          "author": "Mosaleheh",
+          "year": "2020",
+          "journal-title": "Environ Res"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0440",
+          "doi-asserted-by": "crossref",
+          "first-page": "226",
+          "DOI": "10.3390/polym13020226",
+          "article-title": "Electrospun functional nanofiber membrane for antibiotic removal in water",
+          "volume": "13",
+          "author": "Zhao",
+          "year": "2021",
+          "journal-title": "Polymers (basel)"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0445",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jhazmat.2019.121301",
+          "article-title": "Halloysite nanoclay supported adsorptive removal of oxytetracycline antibiotic from aqueous media",
+          "volume": "384",
+          "author": "Ramanayaka",
+          "year": "2020",
+          "journal-title": "J Hazard Mater"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0450",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.clay.2019.105175",
+          "article-title": "Competitive adsorption of antibiotic tetracycline and ciprofloxacin on montmorillonite",
+          "volume": "180",
+          "author": "Wu",
+          "year": "2019",
+          "journal-title": "Appl Clay Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0455",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jwpe.2020.101497",
+          "article-title": "Montmorillonite impregnated electrospun cellulose acetate nanofiber sorptive membrane for ciprofloxacin removal from wastewater",
+          "volume": "37",
+          "author": "Das",
+          "year": "2020",
+          "journal-title": "J. Water Process Eng."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0460",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.cis.2016.10.005",
+          "article-title": "Isoelectric points and points of zero charge of metal (hydr) oxides: 50 years after Parks’ review",
+          "volume": "238",
+          "author": "Kosmulski",
+          "year": "2016",
+          "journal-title": "Adv Colloid Interface Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0465",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.1016/j.clay.2015.05.010",
+          "article-title": "Influence of pH and antibiotic solubility on the removal of ciprofloxacin from aqueous media using montmorillonite",
+          "volume": "114",
+          "author": "Jalil",
+          "year": "2015",
+          "journal-title": "Appl Clay Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0470",
+          "doi-asserted-by": "crossref",
+          "first-page": "2693",
+          "DOI": "10.1039/C8QI00543E",
+          "article-title": "New synthetic strategies to prepare metal–organic frameworks",
+          "volume": "5",
+          "author": "Li",
+          "year": "2018",
+          "journal-title": "Inorg Chem Front"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0475",
+          "doi-asserted-by": "crossref",
+          "first-page": "330",
+          "DOI": "10.1016/j.ccr.2018.10.003",
+          "article-title": "Metal–organic frameworks (MOFs) for the removal of emerging contaminants from aquatic environments",
+          "volume": "380",
+          "author": "Dhaka",
+          "year": "2019",
+          "journal-title": "Coord Chem Rev"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0480",
+          "doi-asserted-by": "crossref",
+          "first-page": "360",
+          "DOI": "10.1016/j.jcis.2018.05.105",
+          "article-title": "Magnetic copper-based metal organic framework as an effective and recyclable adsorbent for removal of two fluoroquinolone antibiotics from aqueous solutions",
+          "volume": "528",
+          "author": "Wu",
+          "year": "2018",
+          "journal-title": "J Colloid Interface Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0485",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.microc.2020.105349",
+          "article-title": "Highly selective, sensitive and stable three-dimensional luminescent metal–organic framework for detecting and removing of the antibiotic in aqueous solution",
+          "volume": "159",
+          "author": "Wu",
+          "year": "2020",
+          "journal-title": "Microchem. J."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0490",
+          "doi-asserted-by": "crossref",
+          "first-page": "439",
+          "DOI": "10.1016/j.jhazmat.2018.12.030",
+          "article-title": "Synthesis of a nanostructured pillar MOF with high adsorption capacity towards antibiotics pollutants from aqueous solution",
+          "volume": "366",
+          "author": "Abazari",
+          "year": "2019",
+          "journal-title": "J Hazard Mater"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0495",
+          "doi-asserted-by": "crossref",
+          "first-page": "678",
+          "DOI": "10.1016/j.cej.2017.09.138",
+          "article-title": "Flexibility induced high-performance MOF-based adsorbent for nitroimidazole antibiotics capture",
+          "volume": "333",
+          "author": "Peng",
+          "year": "2018",
+          "journal-title": "Chem. Eng. J."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0500",
+          "doi-asserted-by": "crossref",
+          "first-page": "8650",
+          "DOI": "10.1021/acsami.9b19583",
+          "article-title": "Highly stable zinc-based metal–organic frameworks and corresponding flexible composites for removal and detection of antibiotics in water",
+          "volume": "12",
+          "author": "Gai",
+          "year": "2020",
+          "journal-title": "ACS Appl Mater Interfaces"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0505",
+          "doi-asserted-by": "crossref",
+          "first-page": "2050046",
+          "DOI": "10.1142/S1793292020500460",
+          "article-title": "Deposition of MOFs on polydopamine-modified electrospun polyvinyl alcohol/silica nanofibers mats for chloramphenicol adsorption in water",
+          "volume": "15",
+          "author": "Li",
+          "year": "2020",
+          "journal-title": "Nano"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0510",
+          "doi-asserted-by": "crossref",
+          "first-page": "146",
+          "DOI": "10.1016/j.compositesb.2018.09.034",
+          "article-title": "Adsorption of metronidazole antibiotic using a new magnetic nanocomposite from simulated wastewater",
+          "volume": "159",
+          "author": "Nasseh",
+          "year": "2019",
+          "journal-title": "Compos B Eng"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0515",
+          "doi-asserted-by": "crossref",
+          "first-page": "14143",
+          "DOI": "10.1039/C9RA01271K",
+          "article-title": "Antibiotic removal by agricultural waste biochars with different forms of iron oxide",
+          "volume": "9",
+          "author": "Chen",
+          "year": "2019",
+          "journal-title": "RSC Adv"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0520",
+          "doi-asserted-by": "crossref",
+          "first-page": "347",
+          "DOI": "10.1016/j.chemosphere.2018.05.096",
+          "article-title": "Blend-electrospun graphene oxide/Poly (vinylidene fluoride) nanofibrous membranes with high flux, tetracycline removal and anti-fouling properties",
+          "volume": "207",
+          "author": "Park",
+          "year": "2018",
+          "journal-title": "Chemosphere"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0525",
+          "doi-asserted-by": "crossref",
+          "first-page": "392",
+          "DOI": "10.1016/j.colsurfa.2018.09.002",
+          "article-title": "Highly efficient removal of antibiotics and dyes from water by the modified carbon nanofibers composites with abundant mesoporous structure",
+          "volume": "558",
+          "author": "Li",
+          "year": "2018",
+          "journal-title": "Colloids Surf A Physicochem Eng Asp"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0530",
+          "doi-asserted-by": "crossref",
+          "first-page": "120",
+          "DOI": "10.1016/j.jcis.2015.01.042",
+          "article-title": "Adsorption of ciprofloxacin, bisphenol and 2-chlorophenol on electrospun carbon nanofibers: in comparison with powder activated carbon",
+          "volume": "447",
+          "author": "Li",
+          "year": "2015",
+          "journal-title": "J Colloid Interface Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0535",
+          "doi-asserted-by": "crossref",
+          "first-page": "1324",
+          "DOI": "10.2166/wst.2018.010",
+          "article-title": "Adsorption of tetracycline from water using glutaraldehyde-crosslinked electrospun nanofibers of chitosan/poly",
+          "volume": "77",
+          "author": "Abdolmaleki",
+          "year": "2018",
+          "journal-title": "Water Sci. Technol."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0540",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jece.2020.104049",
+          "article-title": "Adsorption of antiretroviral (ARVs) and related drugs from environmental wastewaters using nanofibers",
+          "volume": "8",
+          "author": "Kebede",
+          "year": "2020",
+          "journal-title": "J Environ Chem Eng"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0545",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.scitotenv.2020.140282",
+          "article-title": "Application of mesoporous nanofibers as sorbent for removal of veterinary drugs from water systems",
+          "volume": "738",
+          "author": "Kebede",
+          "year": "2020",
+          "journal-title": "Sci. Total Environ."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0550",
+          "article-title": "The role of new inorganic materials in composite membranes for water disinfection",
+          "volume": "10",
+          "author": "Castro-Muñoz",
+          "year": "2020",
+          "journal-title": "Membranes (basel)"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0555",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.chemosphere.2020.129421",
+          "article-title": "Ongoing progress on novel nanocomposite membranes for the separation of heavy metals from contaminated water",
+          "volume": "270",
+          "author": "Castro-Muñoz",
+          "year": "2021",
+          "journal-title": "Chemosphere"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0560",
+          "first-page": "1",
+          "article-title": "Reviewing the recent developments of using graphene-based nanosized materials in membrane separations",
+          "author": "Castro-Muñoz",
+          "year": "2021",
+          "journal-title": "Crit Rev Environ Sci Technol"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0565",
+          "doi-asserted-by": "crossref",
+          "first-page": "714",
+          "DOI": "10.1016/j.cej.2016.12.037",
+          "article-title": "Electrospinning Polyvinyl alcohol/silica-based nanofiber as highly efficient adsorbent for simultaneous and sequential removal of Bisphenol A and Cu (II) from water",
+          "volume": "314",
+          "author": "Wang",
+          "year": "2017",
+          "journal-title": "Chem. Eng. J."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0570",
+          "doi-asserted-by": "crossref",
+          "first-page": "26404",
+          "DOI": "10.1088/2053-1591/aa5a84",
+          "article-title": "Characterization and application of zeolitic imidazolate framework-8@ polyvinyl alcohol nanofibers mats prepared by electrospinning",
+          "volume": "4",
+          "author": "Fan",
+          "year": "2017",
+          "journal-title": "Mater Res Express"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0575",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1007/s11270-017-3546-7",
+          "article-title": "Flexible alumina-silica nanofibrous membrane and its high adaptability in reactive red-120 dye removal from water",
+          "volume": "228",
+          "author": "Bin Mukhlish",
+          "year": "2017",
+          "journal-title": "Water Air Soil Pollut"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0580",
+          "doi-asserted-by": "crossref",
+          "first-page": "459",
+          "DOI": "10.1016/j.jhazmat.2019.03.108",
+          "article-title": "In-situ prepared ZnO-ZnFe2O4 with 1-D nanofiber network structure: An effective adsorbent for toxic dye effluent treatment",
+          "volume": "373",
+          "author": "Appiah-Ntiamoah",
+          "year": "2019",
+          "journal-title": "J Hazard Mater"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0585",
+          "doi-asserted-by": "crossref",
+          "first-page": "9087",
+          "DOI": "10.1039/C7NJ01703K",
+          "article-title": "Solution blow spun PMMA nanofibers wrapped with reduced graphene oxide as an efficient dye adsorbent",
+          "volume": "41",
+          "author": "Mercante",
+          "year": "2017",
+          "journal-title": "New J. Chem."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0590",
+          "doi-asserted-by": "crossref",
+          "first-page": "47772",
+          "DOI": "10.1002/app.47772",
+          "article-title": "Synthesis and testing of cellulose acetate nicotinate as adsorbent for rhodamine B dye",
+          "volume": "136",
+          "author": "Olaru",
+          "year": "2019",
+          "journal-title": "J Appl Polym Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0595",
+          "doi-asserted-by": "crossref",
+          "first-page": "445",
+          "DOI": "10.1016/j.cherd.2018.01.046",
+          "article-title": "Plasma-etched electrospun nanofiber membrane as adsorbent for dye removal",
+          "volume": "132",
+          "author": "Bai",
+          "year": "2018",
+          "journal-title": "Chem. Eng. Res. Des."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0600",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.3390/nano9010127",
+          "article-title": "Fabrication and highly efficient dye removal characterization of beta-cyclodextrin-based composite polymer fibers by electrospinning",
+          "volume": "9",
+          "author": "Guo",
+          "year": "2019",
+          "journal-title": "Nanomaterials"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0605",
+          "doi-asserted-by": "crossref",
+          "first-page": "38",
+          "DOI": "10.1007/s40843-016-0117-y",
+          "article-title": "Polyethylenimine nanofibrous adsorbent for highly effective removal of anionic dyes from aqueous solution",
+          "volume": "1",
+          "author": "Ma",
+          "year": "2016",
+          "journal-title": "Sci China Mater"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0610",
+          "doi-asserted-by": "crossref",
+          "first-page": "919",
+          "DOI": "10.1016/j.ijbiomac.2019.06.008",
+          "article-title": "Chitosan coated polyacrylonitrile nanofibrous mat for dye adsorption",
+          "volume": "135",
+          "author": "Lou",
+          "year": "2019",
+          "journal-title": "Int J Biol Macromol"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0615",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.molliq.2019.111335",
+          "article-title": "Removal of methylene dye using composites of poly (styrene-co-acrylonitrile) nanofibers impregnated with adsorbent materials",
+          "volume": "291",
+          "author": "Elzain",
+          "year": "2019",
+          "journal-title": "J Mol Liq"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0620",
+          "first-page": "S100",
+          "article-title": "Preparation of mesoporous polyvinyl alcohol/chitosan/silica composite nanofiber and dye removal from wastewater, Environ Prog Sustain",
+          "volume": "38",
+          "author": "Mahmoodi",
+          "year": "2019",
+          "journal-title": "Energy"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0625",
+          "doi-asserted-by": "crossref",
+          "first-page": "179",
+          "DOI": "10.1016/j.jtice.2017.11.018",
+          "article-title": "One-step electrospinning of negatively-charged polyethersulfone nanofibrous membranes for selective removal of cationic dyes",
+          "volume": "82",
+          "author": "Chen",
+          "year": "2018",
+          "journal-title": "J Taiwan Inst Chem Eng"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0630",
+          "doi-asserted-by": "crossref",
+          "first-page": "1771",
+          "DOI": "10.1016/j.ceramint.2014.09.123",
+          "article-title": "Preparation and photocatalytic activity of fly ash incorporated TiO2 nanofibers for effective removal of organic pollutants",
+          "volume": "41",
+          "author": "Saud",
+          "year": "2015",
+          "journal-title": "Ceram Int"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0635",
+          "doi-asserted-by": "crossref",
+          "first-page": "674",
+          "DOI": "10.1016/j.apsusc.2015.01.176",
+          "article-title": "Fabrication and dye removal performance of magnetic CuFe2O4@ CeO2 nanofibers",
+          "volume": "332",
+          "author": "Zou",
+          "year": "2015",
+          "journal-title": "Appl Surf Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0640",
+          "doi-asserted-by": "crossref",
+          "first-page": "115",
+          "DOI": "10.1016/j.carbpol.2017.02.046",
+          "article-title": "Chitin nanowhisker (ChNW)-functionalized electrospun PVDF membrane for enhanced removal of Indigo carmine",
+          "volume": "165",
+          "author": "Gopi",
+          "year": "2017",
+          "journal-title": "Carbohydr Polym"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0645",
+          "doi-asserted-by": "crossref",
+          "first-page": "373",
+          "DOI": "10.1016/j.jclepro.2017.12.213",
+          "article-title": "Preparation of nanoparticle-modified polymeric adsorbent using wastage fuzzes of mechanized carpet and its application in dye removal from aqueous solution",
+          "volume": "178",
+          "author": "Rahimi",
+          "year": "2018",
+          "journal-title": "J Clean Prod"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0650",
+          "doi-asserted-by": "crossref",
+          "first-page": "747",
+          "DOI": "10.1016/j.ijbiomac.2019.08.221",
+          "article-title": "Electrospun lignin-based composite nanofiber membrane as high-performance absorbent for water purification",
+          "volume": "141",
+          "author": "Zhang",
+          "year": "2019",
+          "journal-title": "Int J Biol Macromol"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0655",
+          "doi-asserted-by": "crossref",
+          "first-page": "3645",
+          "DOI": "10.1016/j.jclepro.2016.10.103",
+          "article-title": "Highly efficient dye adsorbent based on polyaniline-coated nylon-6 nanofibers",
+          "volume": "142",
+          "author": "Zarrini",
+          "year": "2017",
+          "journal-title": "J Clean Prod"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0660",
+          "doi-asserted-by": "crossref",
+          "first-page": "557",
+          "DOI": "10.1016/j.cej.2015.08.158",
+          "article-title": "Removal of Cr (VI) from aqueous solutions using chitosan/MWCNT/Fe3O4 composite nanofibers-batch and column studies",
+          "volume": "284",
+          "author": "Beheshti",
+          "year": "2016",
+          "journal-title": "Chem. Eng. J."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0665",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jhazmat.2019.120751",
+          "article-title": "Electrospinning of polyvinyl alcohol into crosslinked nanofibers: An approach to fabricate functional adsorbent for heavy metals",
+          "volume": "378",
+          "author": "Tian",
+          "year": "2019",
+          "journal-title": "J Hazard Mater"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0670",
+          "doi-asserted-by": "crossref",
+          "first-page": "89195",
+          "DOI": "10.1039/C5RA14788C",
+          "article-title": "Electrospun polyethylene terephthalate (PET) nanofibers as a new adsorbent for micro-solid phase extraction of chromium (VI) in environmental water samples",
+          "volume": "5",
+          "author": "Sereshti",
+          "year": "2015",
+          "journal-title": "RSC Adv"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0675",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1186/s40543-019-0183-3",
+          "article-title": "ZnO-TiO2 doped polyacrylonitrile nano fiber-Mat for elimination of Cr (VI) from polluted water",
+          "volume": "10",
+          "author": "Parlayıcı",
+          "year": "2019",
+          "journal-title": "J Anal Sci Technol"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0680",
+          "doi-asserted-by": "crossref",
+          "first-page": "182",
+          "DOI": "10.1016/j.jhazmat.2016.06.028",
+          "article-title": "Chitosan/(polyvinyl alcohol)/zeolite electrospun composite nanofibrous membrane for adsorption of Cr6+, Fe3+ and Ni2+",
+          "volume": "322",
+          "author": "Habiba",
+          "year": "2017",
+          "journal-title": "J Hazard Mater"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0685",
+          "doi-asserted-by": "crossref",
+          "first-page": "159",
+          "DOI": "10.1016/j.psep.2015.01.011",
+          "article-title": "Adsorption of Pb (II) and Cu (II) ions from aqueous solution by an electrospun CeO2 nanofiber adsorbent functionalized with mercapto groups",
+          "volume": "94",
+          "author": "Yari",
+          "year": "2015",
+          "journal-title": "Process Saf. Environ. Prot."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0690",
+          "doi-asserted-by": "crossref",
+          "first-page": "32",
+          "DOI": "10.2478/pjct-2018-0020",
+          "article-title": "Batch removal of Pb (ΙΙ) ions from aqueous medium using gamma-AlO nanoparticles/ethyl cellulose adsorbent fabricated via electrospinning method: An equilibrium isotherm and characterization study",
+          "volume": "20",
+          "author": "Pouya",
+          "year": "2018",
+          "journal-title": "Pol. J. Chem. Technol."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0695",
+          "doi-asserted-by": "crossref",
+          "first-page": "333",
+          "DOI": "10.1016/j.jtice.2015.06.003",
+          "article-title": "Chitosan nanofibers functionalized by TiO2 nanoparticles for the removal of heavy metal ions",
+          "volume": "58",
+          "author": "Razzaz",
+          "year": "2016",
+          "journal-title": "J Taiwan Inst Chem Eng"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0700",
+          "doi-asserted-by": "crossref",
+          "first-page": "1162",
+          "DOI": "10.1007/s12221-016-6555-z",
+          "article-title": "Removal of Pb (II) and Cr (VI) ions from aqueous solutions using chitosan/cobalt ferrite nanofibrous adsorbent",
+          "volume": "17",
+          "author": "Aliabadi",
+          "year": "2016",
+          "journal-title": "Fibers Polym."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0705",
+          "doi-asserted-by": "crossref",
+          "first-page": "161",
+          "DOI": "10.1016/j.cej.2013.01.029",
+          "article-title": "Preparation of a novel electrospun polyvinyl alcohol/titanium oxide nanofiber adsorbent modified with mercapto groups for uranium (VI) and thorium (IV) removal from aqueous solution",
+          "volume": "220",
+          "author": "Abbasizadeh",
+          "year": "2013",
+          "journal-title": "Chem. Eng. J."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0710",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.1016/j.apsusc.2016.01.049",
+          "article-title": "Adsorption of thorium (IV) from simulated radioactive solutions using a novel electrospun PVA/TiO2/ZnO nanofiber adsorbent functionalized with mercapto groups: Study in single and multi-component systems",
+          "volume": "366",
+          "author": "Alipour",
+          "year": "2016",
+          "journal-title": "Appl Surf Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0715",
+          "doi-asserted-by": "crossref",
+          "first-page": "28",
+          "DOI": "10.1016/j.cej.2014.12.090",
+          "article-title": "Modeling of competitive ultrasonic assisted removal of the dyes–Methylene blue and Safranin-O using Fe3O4 nanoparticles",
+          "volume": "268",
+          "author": "Ghaedi",
+          "year": "2015",
+          "journal-title": "Chem. Eng. J."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0720",
+          "doi-asserted-by": "crossref",
+          "first-page": "273",
+          "DOI": "10.1016/j.jiec.2019.04.048",
+          "article-title": "Preparation of PVA/PAA nanofibers containing thiol-modified silica particles by electrospinning as an eco-friendly Cu (II) adsorbent",
+          "volume": "77",
+          "author": "Kim",
+          "year": "2019",
+          "journal-title": "J. Ind. Eng. Chem."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0725",
+          "doi-asserted-by": "crossref",
+          "first-page": "429",
+          "DOI": "10.1016/j.jcis.2011.09.088",
+          "article-title": "Adsorption of Cu (II) from aqueous solution by anatase mesoporous TiO2 nanofibers prepared via electrospinning",
+          "volume": "367",
+          "author": "Vu",
+          "year": "2012",
+          "journal-title": "J Colloid Interface Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0730",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.cej.2019.122232",
+          "article-title": "A novel electrospun β-CD/CS/PVA nanofiber membrane for simultaneous and rapid removal of organic micropollutants and heavy metal ions from water",
+          "volume": "378",
+          "author": "Fan",
+          "year": "2019",
+          "journal-title": "Chem. Eng. J."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0735",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.jhazmat.2017.11.002",
+          "article-title": "Preparation of MgAl-EDTA-LDH based electrospun nanofiber membrane and its adsorption properties of copper (II) from wastewater",
+          "volume": "345",
+          "author": "Chen",
+          "year": "2018",
+          "journal-title": "J Hazard Mater"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0740",
+          "doi-asserted-by": "crossref",
+          "first-page": "182",
+          "DOI": "10.1016/j.cherd.2017.09.022",
+          "article-title": "Electrospun fumarate ferroxane/polyacrylonitrile nanocomposite nanofibers adsorbent for lead removal from aqueous solution: characterization and process optimization by response surface methodology",
+          "volume": "129",
+          "author": "Moradi",
+          "year": "2018",
+          "journal-title": "Chem. Eng. Res. Des."
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0745",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.colsurfa.2019.123687",
+          "article-title": "Dioxide/Chitosan/poly (lactide-co-caprolactone) composite membrane with efficient Cu (II) adsorption",
+          "volume": "580",
+          "author": "He",
+          "year": "2019",
+          "journal-title": "Colloids Surf A Physicochem Eng Asp"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0750",
+          "doi-asserted-by": "crossref",
+          "first-page": "1133",
+          "DOI": "10.1039/C6TA09784G",
+          "article-title": "Branched polyethylenimine grafted electrospun polyacrylonitrile fiber membrane: a novel and effective adsorbent for Cr (VI) remediation in wastewater",
+          "volume": "5",
+          "author": "Zhao",
+          "year": "2017",
+          "journal-title": "J Mater Chem A Mater"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0755",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1186/s11671-016-1631-2",
+          "article-title": "Novel PVA/MOF nanofibres: fabrication, evaluation and adsorption of lead ions from aqueous solution",
+          "volume": "11",
+          "author": "Shooto",
+          "year": "2016",
+          "journal-title": "Nanoscale Res Lett"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0760",
+          "doi-asserted-by": "crossref",
+          "first-page": "1487",
+          "DOI": "10.1016/j.eurpolymj.2013.04.002",
+          "article-title": "Preparation of lead-ion imprinted crosslinked electro-spun chitosan nanofiber mats and application in lead ions removal from aqueous solutions",
+          "volume": "49",
+          "author": "Li",
+          "year": "2013",
+          "journal-title": "Eur Polym J"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0765",
+          "doi-asserted-by": "crossref",
+          "first-page": "122",
+          "DOI": "10.5004/dwt.2018.23001",
+          "article-title": "Preparation and characterization of polyacrylonitrile nanofiber adsorbent modified with 6-amino-1-hexanethiol hydrochloride for the adsorption of thorium (IV) ion from aqueous solution, Desalination",
+          "volume": "133",
+          "author": "Broujenia",
+          "year": "2018",
+          "journal-title": "Water Treat"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0770",
+          "doi-asserted-by": "crossref",
+          "first-page": "3508",
+          "DOI": "10.1021/es100341x",
+          "article-title": "Selective removal of Cu (II) ions by using cation-exchange resin-supported polyethyleneimine (PEI) nanoclusters",
+          "volume": "44",
+          "author": "Chen",
+          "year": "2010",
+          "journal-title": "Environ Sci Technol"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0775",
+          "doi-asserted-by": "crossref",
+          "first-page": "76",
+          "DOI": "10.1016/j.ijbiomac.2022.05.017",
+          "article-title": "Preparation and performance evaluation of chitosan/polyvinylpyrrolidone/polyvinyl alcohol electrospun nanofiber membrane for heavy metal ions and organic pollutants removal",
+          "volume": "210",
+          "author": "Wu",
+          "year": "2022",
+          "journal-title": "Int J Biol Macromol"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0780",
+          "doi-asserted-by": "crossref",
+          "first-page": "375",
+          "DOI": "10.1016/j.colsurfb.2015.09.038",
+          "article-title": "Water-insoluble sericin/β-cyclodextrin/PVA composite electrospun nanofibers as effective adsorbents towards methylene blue",
+          "volume": "136",
+          "author": "Zhao",
+          "year": "2015",
+          "journal-title": "Colloids Surf B Biointerfaces"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0785",
+          "doi-asserted-by": "crossref",
+          "first-page": "3288",
+          "DOI": "10.3390/molecules28083288",
+          "article-title": "Electrospun Nanofiber Membrane: An Efficient and Environmentally Friendly Material for the Removal of Metals and Dyes",
+          "volume": "28",
+          "author": "Li",
+          "year": "2023",
+          "journal-title": "Molecules"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0790",
+          "doi-asserted-by": "crossref",
+          "first-page": "591",
+          "DOI": "10.1016/j.jcis.2017.08.075",
+          "article-title": "Electrospun nylon 6, 6 membrane as a reusable nano-adsorbent for bisPHENOL A REMOVAL: ADSORPTION PERFORMANCE AND mechanism",
+          "volume": "508",
+          "author": "Jasni",
+          "year": "2017",
+          "journal-title": "J Colloid Interface Sci"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0795",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jece.2019.102926",
+          "article-title": "Electrospun polyurethane fibers doped with manganese oxide nanoparticles as an effective adsorbent for determination of priority pollutant mono-nitrophenols in water samples",
+          "volume": "7",
+          "author": "Eskandarpour",
+          "year": "2019",
+          "journal-title": "J Environ Chem Eng"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0800",
+          "doi-asserted-by": "crossref",
+          "first-page": "377",
+          "DOI": "10.4314/wsa.v44i3.05",
+          "article-title": "Electrospun chitosan-based nanobres for removal of phenols from drinking water",
+          "volume": "44",
+          "author": "Nthunya",
+          "year": "2018",
+          "journal-title": "Water SA"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0805",
+          "doi-asserted-by": "crossref",
+          "first-page": "780",
+          "DOI": "10.1002/pi.6013",
+          "article-title": "Selective molecularly imprinted polymer nanofiber sorbent for the extraction of bisphenol A in a water sample",
+          "volume": "69",
+          "author": "Ardekani",
+          "year": "2020",
+          "journal-title": "Polym Int"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0810",
+          "doi-asserted-by": "crossref",
+          "first-page": "40",
+          "DOI": "10.1016/j.eti.2017.04.002",
+          "article-title": "Emerging environmental contaminants: Challenges facing our next generation and potential engineering solutions",
+          "volume": "8",
+          "author": "Richardson",
+          "year": "2017",
+          "journal-title": "Environ Technol Innov"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0815",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.aca.2018.02.016",
+          "article-title": "Electrospun polystyrene fibers knitted around imprinted acrylate microspheres as sorbent for paraben derivatives",
+          "volume": "1014",
+          "author": "Demirkurt",
+          "year": "2018",
+          "journal-title": "Anal Chim Acta"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0820",
+          "doi-asserted-by": "crossref",
+          "first-page": "3465",
+          "DOI": "10.1039/C8AN00734A",
+          "article-title": "Molecularly imprinted electrospun nanofibers for adsorption of 2, 4-dinitrotoluene in water",
+          "volume": "143",
+          "author": "Xue",
+          "year": "2018",
+          "journal-title": "Analyst"
+        },
+        {
+          "key": "10.1016/j.seppur.2024.128370_b0825",
+          "doi-asserted-by": "crossref",
+          "first-page": "85495",
+          "DOI": "10.1039/C6RA14952A",
+          "article-title": "A comprehensive review: Electrospinning technique for fabrication and surface modification of membranes for water treatment application",
+          "volume": "6",
+          "author": "Ray",
+          "year": "2016",
+          "journal-title": "RSC Adv"
+        }
+      ],
+      "container-title": [
+        "Separation and Purification Technology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1383586624021099?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1383586624021099?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            7
+          ]
+        ],
+        "date-time": "2025-01-07T23:00:10Z",
+        "timestamp": 1736290810000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1383586624021099"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            1
+          ]
+        ]
+      },
+      "references-count": 165,
+      "alternative-id": [
+        "S1383586624021099"
+      ],
+      "URL": "https://doi.org/10.1016/j.seppur.2024.128370",
+      "relation": {},
+      "ISSN": [
+        "1383-5866"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1383-5866"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            1
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "A review on hydrophobic electrospun nanofibers-based materials and membranes for water treatment: Challenges, outlook, and stability",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Separation and Purification Technology",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.seppur.2024.128370",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "128370"
+    },
+    "pubmed_summary": {
+      "uid": "39915132",
+      "pubdate": "2025 Mar 1",
+      "epubdate": "2025 Feb 5",
+      "source": "Environ Res",
+      "authors": [
+        {
+          "name": "Christina B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thanigaimani K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sudhakaran R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohan S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arumugam N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Almansour AI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mahalingam SM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mahalingam SM",
+      "title": "Retraction notice to \"Pyto-Architechture of Ag, Au and Ag-Au bi-metallic nanoparticles using waste orange peel extract for enable carcinogenic Congo red dye degradation\" [Environ. Res. 242 (2024) 117625].",
+      "sorttitle": "retraction notice to pyto architechture of ag au and ag au bi metallic nanoparticles using waste orange peel extract for enable carcinogenic congo red dye degradation environ res 242 2024 117625",
+      "volume": "268",
+      "issue": "",
+      "pages": "120991",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147621",
+      "issn": "0013-9351",
+      "essn": "1096-0953",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39915132"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.envres.2025.120991"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0013-9351(25)00242-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/02/07 00:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/02/07 00:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/02/06 21:57"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Environ Res. 2024 Feb 1;242:117625. doi: 10.1016/j.envres.2023.117625.",
+          "reftype": "Retraction of",
+          "pmid": 38007079,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Environmental research",
+      "elocationid": "doi: 10.1016/j.envres.2025.120991",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/03/01 00:00",
+      "sortfirstauthor": "Christina B",
+      "vernaculartitle": ""
+    }
+  }
+}

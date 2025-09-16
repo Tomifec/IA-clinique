@@ -1,0 +1,784 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1097_j_pain_0000000000000507.md",
+  "id": "evidence_import_refs_2025_09_12_10_1097_j_pain_0000000000000507",
+  "doi": "10.1097/j.pain.0000000000000507",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:35.383998Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T20:53:00Z",
+        "timestamp": 1757451180076,
+        "version": "3.41.0"
+      },
+      "reference-count": 50,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "7",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Pain",
+        "PAIN"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1097/j.pain.0000000000000507",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2016,
+            2,
+            2
+          ]
+        ],
+        "date-time": "2016-02-02T13:55:03Z",
+        "timestamp": 1454421303000
+      },
+      "page": "1382-1386",
+      "source": "Crossref",
+      "is-referenced-by-count": 661,
+      "title": [
+        "Do we need a third mechanistic descriptor for chronic pain states?"
+      ],
+      "prefix": "10.1097",
+      "volume": "157",
+      "author": [
+        {
+          "given": "Eva",
+          "family": "Kosek",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Clinical Neuroscience, Karolinska Institutet and Stockholm Spine Center, Stockholm, Sweden"
+            }
+          ]
+        },
+        {
+          "given": "Milton",
+          "family": "Cohen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "St Vincent's Clinical School, UNSW Australia, Sydney, Australia"
+            }
+          ]
+        },
+        {
+          "given": "Ralf",
+          "family": "Baron",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Division of Neurological Pain Research and Therapy, Department of Neurology, Universitaetsklinikum Schleswig-Holstein, Campus Kiel, Kiel, Germany"
+            }
+          ]
+        },
+        {
+          "given": "Gerald F.",
+          "family": "Gebhart",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Anesthesiology, Center for Pain Research, School of Medicine, University of Pittsburgh, Pittsburgh, PA, USA"
+            }
+          ]
+        },
+        {
+          "given": "Juan-Antonio",
+          "family": "Mico",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Neuroscience, CIBER of Mental Health, CIBERSAM, University of Cadiz, Cadiz, Spain"
+            }
+          ]
+        },
+        {
+          "given": "Andrew S.C.",
+          "family": "Rice",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Surgery and Cancer, Pain Research, Imperial College, Chelsea and Westminster Hospital Campus, London, United Kingdom"
+            }
+          ]
+        },
+        {
+          "given": "Winfried",
+          "family": "Rief",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Clinical Psychology and Psychotherapy, University of Marburg, Marburg, Germany"
+            }
+          ]
+        },
+        {
+          "given": "A. Kathleen",
+          "family": "Sluka",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physical Therapy and Rehabilitation Science, University of Iowa, Iowa City, IA, USA"
+            }
+          ]
+        }
+      ],
+      "member": "276",
+      "published-online": {
+        "date-parts": [
+          [
+            2016,
+            1,
+            30
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "R1-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "10410",
+          "DOI": "10.1523/JNEUROSCI.2541-04.2004",
+          "article-title": "Chronic back pain is associated with decreased prefrontal and thalamic gray matter density",
+          "volume": "24",
+          "author": "Apkarian",
+          "year": "2004",
+          "journal-title": "J Neurosci"
+        },
+        {
+          "key": "R2-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "1262",
+          "DOI": "10.1002/art.37884",
+          "article-title": "Normalization of widespread pressure pain hypersensitivity after total hip replacement in patients with hip osteoarthritis is associated with clinical and functional improvements",
+          "volume": "65",
+          "author": "Aranda-Villalobos",
+          "year": "2013",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "R3-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "573",
+          "DOI": "10.1016/j.pain.2010.04.003",
+          "article-title": "Sensitization in patients with painful knee osteoarthritis",
+          "volume": "149",
+          "author": "Arendt-Nielsen",
+          "year": "2010",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R4-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "e106133",
+          "DOI": "10.1371/journal.pone.0106133",
+          "article-title": "Functional reorganization of the default mode network across chronic pain conditions",
+          "volume": "9",
+          "author": "Baliki",
+          "year": "2014",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "R5-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "197",
+          "DOI": "10.1016/j.jpain.2013.10.011",
+          "article-title": "Complex regional pain syndrome is associated with structural abnormalities in pain-related regions of the human brain",
+          "volume": "15",
+          "author": "Barad",
+          "year": "2014",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "R6-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "e100241",
+          "DOI": "10.1371/journal.pone.0100241",
+          "article-title": "Is the conditioned pain modulation paradigm reliable? A test-retest assessment using the nociceptive withdrawal reflex",
+          "volume": "9",
+          "author": "Biurrun Manresa",
+          "year": "2014",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "R7-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "682",
+          "DOI": "10.1097/AJP.0b013e3182177654",
+          "article-title": "Quantitative sensory testing profiles in chronic back pain are distinct from those in fibromyalgia",
+          "volume": "27",
+          "author": "Blumenstiel",
+          "year": "2011",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "R8-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "813",
+          "DOI": "10.1016/j.juro.2007.12.001",
+          "article-title": "Male and female pelvic pain disorders—Is it all in their heads?",
+          "volume": "179",
+          "author": "Clemens",
+          "year": "2008",
+          "journal-title": "J Urol"
+        },
+        {
+          "key": "R9-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "1637",
+          "DOI": "10.1111/j.1526-4637.2011.01264.x",
+          "article-title": "Stigmatization of patients with chronic pain: the “dark side” of empathy",
+          "volume": "12",
+          "author": "Cohen",
+          "year": "2011",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "R10-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "1284",
+          "DOI": "10.1111/pme.12025",
+          "article-title": "Is chronic pain a disease?",
+          "volume": "14",
+          "author": "Cohen",
+          "year": "2013",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "R11-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "965",
+          "DOI": "10.1016/S0140-6736(05)71086-2",
+          "article-title": "Pathogenesis and management of pain in osteoarthritis",
+          "volume": "365",
+          "author": "Dieppe",
+          "year": "2005",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "R12-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "76",
+          "DOI": "10.1097/01.wnp.0000241093.00844.0e",
+          "article-title": "Central processing of acute muscle pain in chronic low back pain patients: an EEG mapping study",
+          "volume": "24",
+          "author": "Diers",
+          "year": "2007",
+          "journal-title": "J Clin Neurophysiol"
+        },
+        {
+          "key": "R13-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "153",
+          "DOI": "10.1097/WNP.0b013e31817759c5",
+          "article-title": "Pain ratings and somatosensory evoked responses to repetitive intramuscular and intracutaneous stimulation in fibromyalgia syndrome",
+          "volume": "25",
+          "author": "Diers",
+          "year": "2008",
+          "journal-title": "J Clin Neurophysiol"
+        },
+        {
+          "key": "R14-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "587",
+          "DOI": "10.1089/brain.2014.0274",
+          "article-title": "Fibromyalgia is associated with decreased connectivity between pain- and sensorimotor brain areas",
+          "volume": "4",
+          "author": "Flodin",
+          "year": "2014",
+          "journal-title": "Brain Connect"
+        },
+        {
+          "key": "R15-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "765",
+          "DOI": "10.1016/j.pain.2011.11.009",
+          "article-title": "Sensory signs in complex regional pain syndrome and peripheral nerve injury",
+          "volume": "153",
+          "author": "Gierthmühlen",
+          "year": "2012",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R16-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "613",
+          "DOI": "10.1002/art.20063",
+          "article-title": "Evidence of augmented central pain processing in idiopathic chronic low back pain",
+          "volume": "50",
+          "author": "Giesecke",
+          "year": "2004",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "R17-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "2907",
+          "DOI": "10.1002/art.34466",
+          "article-title": "Normalisation of widespread hyperesthesia and facilitated spatial summation of deep-tissue pain in knee osteoarthritis patients after knee replacement",
+          "volume": "64",
+          "author": "Graven-Nielsen",
+          "year": "2012",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "R18-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "1958",
+          "DOI": "10.1007/s00586-013-2692-x",
+          "article-title": "Brain structural and psychometric alterations in chronic low back pain",
+          "volume": "22",
+          "author": "Ivo",
+          "year": "2013",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "R19-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "95",
+          "DOI": "10.1016/j.pain.2009.03.018",
+          "article-title": "Evidence of dysfunctional pain inhibition in Fibromyalgia reflected in rACC during provoked pain",
+          "volume": "144",
+          "author": "Jensen",
+          "year": "2009",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R20-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "32",
+          "DOI": "10.1186/1744-8069-8-32",
+          "article-title": "Patients with fibromyalgia display less functional connectivity in the brain's pain inhibitory network",
+          "volume": "8",
+          "author": "Jensen",
+          "year": "2012",
+          "journal-title": "Mol Pain"
+        },
+        {
+          "key": "R21-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "3488",
+          "DOI": "10.1002/art.27649",
+          "article-title": "Anxiety and depressive symptoms in fibromyalgia are related to poor perception of health but not to pain sensitivity or cerebral processing of pain",
+          "volume": "62",
+          "author": "Jensen",
+          "year": "2010",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "R22-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "3293",
+          "DOI": "10.1002/art.38170",
+          "article-title": "Overlapping structural and functional brain changes in patients with long-term exposure to fibromyalgia pain",
+          "volume": "65",
+          "author": "Jensen",
+          "year": "2013",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "R23-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "2204",
+          "DOI": "10.1016/j.pain.2011.06.017",
+          "article-title": "A new definition of neuropathic pain",
+          "volume": "152",
+          "author": "Jensen",
+          "year": "2011",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R24-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.1016/j.juro.2014.08.042",
+          "article-title": "Increased brain gray matter in the primary somatosensory cortex is associated with increased pain and mood disturbance in patients with interstitial cystitis/painful bladder syndrome",
+          "volume": "193",
+          "author": "Kairys",
+          "year": "2015",
+          "journal-title": "J Urol"
+        },
+        {
+          "key": "R25-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "947",
+          "DOI": "10.1016/j.juro.2014.03.093",
+          "article-title": "Alterations in resting state oscillations and connectivity in sensory and motor networks in women with interstitial cystitis/painful bladder syndrome",
+          "volume": "192",
+          "author": "Kilpatrick",
+          "year": "2014",
+          "journal-title": "J Urol"
+        },
+        {
+          "key": "R26-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "375",
+          "DOI": "10.1016/S0304-3959(96)03188-0",
+          "article-title": "Sensory dysfunction in fibromyalgia patients with implications for pathogenic mechanisms",
+          "volume": "68",
+          "author": "Kosek",
+          "year": "1996",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R27-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "117",
+          "DOI": "10.2340/165019771993117124",
+          "article-title": "A comparison of pressure pain thresholds in different tissues and body regions. Long-term reliability of pressure algometry in healthy volunteers",
+          "volume": "25",
+          "author": "Kosek",
+          "year": "1993",
+          "journal-title": "Scand J Rehabil Med"
+        },
+        {
+          "key": "R28-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.1016/S0304-3959(00)00310-9",
+          "article-title": "Lack of pressure pain modulation by heterotopic noxious conditioning stimulation in patients with painful osteoarthritis before, but not following, surgical pain relief",
+          "volume": "88",
+          "author": "Kosek",
+          "year": "2000",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R29-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "229",
+          "DOI": "10.1053/eujp.2000.0175",
+          "article-title": "Abnormalities of somatosensory perception in patients with painful osteoarthritis normalize following successful treatment",
+          "volume": "4",
+          "author": "Kosek",
+          "year": "2000",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "R30-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "352",
+          "DOI": "10.1097/WNP.0000000000000193",
+          "article-title": "Intraindividual Variability and Long-Term Changes of Thermal Quantitative Sensory Testing",
+          "volume": "32",
+          "author": "Krøigård",
+          "year": "2015",
+          "journal-title": "J Clin Neurophysiol"
+        },
+        {
+          "key": "R31-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "4004",
+          "DOI": "10.1523/JNEUROSCI.0098-07.2007",
+          "article-title": "Accelerated brain gray matter loss in fibromyalgia patients: premature aging of the brain?",
+          "volume": "27",
+          "author": "Kuchinad",
+          "year": "2007",
+          "journal-title": "J Neurosci"
+        },
+        {
+          "key": "R32-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "847",
+          "DOI": "10.1016/j.ejpain.2010.01.006",
+          "article-title": "Somatosensory function in patients with and without pain after traumatic peripheral nerve injury",
+          "volume": "14",
+          "author": "Landerholm",
+          "year": "2010",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "R33-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "24",
+          "DOI": "10.1016/j.pain.2012.07.029",
+          "article-title": "Default mode network connectivity encodes clinical pain: an arterial spin labeling study",
+          "volume": "154",
+          "author": "Loggia",
+          "year": "2013",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R34-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1016/0013-4694(95)00259-6",
+          "article-title": "Middle and long latency somatosensory evoked potentials after painful laser stimulation in patients with fibromyalgia syndrome",
+          "volume": "100",
+          "author": "Lorenz",
+          "year": "1996",
+          "journal-title": "Electroencephalography Clin Neurophysiol"
+        },
+        {
+          "key": "R35-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "343",
+          "DOI": "10.1016/j.tins.2014.04.002",
+          "article-title": "Synaptic plasticity in pathological pain",
+          "volume": "37",
+          "author": "Luo",
+          "year": "2014",
+          "journal-title": "Trends Neurosci"
+        },
+        {
+          "key": "R36-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "3960",
+          "DOI": "10.1002/art.24070",
+          "article-title": "White and gray matter abnormalities in the brain of patients with fibromyalgia: a diffusion-tensor and volumetric imaging study",
+          "volume": "58",
+          "author": "Lutz",
+          "year": "2008",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "R37-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "1190",
+          "DOI": "10.1016/j.clinph.2014.10.004",
+          "article-title": "Altered brain spontaneous activity and connectivity network in irritable bowel syndrome patients: a resting-state fMRI study",
+          "volume": "126",
+          "author": "Ma",
+          "year": "2015",
+          "journal-title": "Clin Neurophysiol"
+        },
+        {
+          "key": "R38-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "93",
+          "DOI": "10.1016/j.pain.2004.12.001",
+          "article-title": "Brain processing during mechanical hyperalgesia in complex regional pain syndrome: a functional MRI study",
+          "volume": "114",
+          "author": "Maihöfner",
+          "year": "2005",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R39-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "842",
+          "DOI": "10.1016/S0016-5085(00)70170-3",
+          "article-title": "Regional cerebral activation in irritable bowel syndrome and control subjects with painful and nonpainful rectal distention",
+          "volume": "118",
+          "author": "Mertz",
+          "year": "2000",
+          "journal-title": "Gastroenterology"
+        },
+        {
+          "key": "R40-20230818",
+          "first-page": "1",
+          "article-title": "Challenges in drug discovery for overcoming 'dysfunctional pain': an emerging category of chronic pain",
+          "volume": "9",
+          "author": "Nagakura",
+          "year": "2015",
+          "journal-title": "Expert Opin Drug Discov"
+        },
+        {
+          "key": "R41-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "2545",
+          "DOI": "10.1002/art.27497",
+          "article-title": "Intrinsic brain connectivity in fibromyalgia is associated with chronic pain intensity",
+          "volume": "62",
+          "author": "Napadow",
+          "year": "2010",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "R42-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "e58885",
+          "DOI": "10.1371/journal.pone.0058885",
+          "article-title": "Somatosensory abnormalities for painful and innocuous stimuli at the back and at a site distinct from the region of pain in chronic back pain patients",
+          "volume": "8",
+          "author": "Puta",
+          "year": "2013",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "R43-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "1346",
+          "DOI": "10.1111/pme.12460",
+          "article-title": "Changes in clinical pain in fibromyalgia patients correlate with changes in brain activation in the cingulate cortex in a response inhibition task",
+          "volume": "15",
+          "author": "Schmidt-Wilcke",
+          "year": "2014",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "R44-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "48",
+          "DOI": "10.1053/j.gastro.2010.03.049",
+          "article-title": "Regional gray matter density changes in brains of patients with irritable bowel syndrome",
+          "volume": "139",
+          "author": "Seminowicz",
+          "year": "2010",
+          "journal-title": "Gastroenterology"
+        },
+        {
+          "key": "R45-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "64",
+          "DOI": "10.1016/S0016-5085(97)70220-8",
+          "article-title": "Regional cerebral activity in normal and pathological perception of visceral pain",
+          "volume": "112",
+          "author": "Silverman",
+          "year": "1997",
+          "journal-title": "Gastroenterology"
+        },
+        {
+          "key": "R46-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "1003",
+          "DOI": "10.1097/j.pain.0000000000000160",
+          "article-title": "A classification of chronic pain for ICD-11",
+          "volume": "156",
+          "author": "Treede",
+          "year": "2015",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R47-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "2745",
+          "DOI": "10.1016/j.pain.2013.08.004",
+          "article-title": "Muscle hyperalgesia is widespread in patients with complex regional pain syndrome",
+          "volume": "154",
+          "author": "van Rooijen",
+          "year": "2013",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R48-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "1589",
+          "DOI": "10.1136/gutjnl-2011-300253",
+          "article-title": "The balancing act: endogenous modulation of pain in functional gastrointestinal disorders",
+          "volume": "60",
+          "author": "Wilder-Smith",
+          "year": "2011",
+          "journal-title": "Gut"
+        },
+        {
+          "key": "R49-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "663",
+          "DOI": "10.1016/j.pain.2013.11.005",
+          "article-title": "Pain modulation profile and pain therapy: between pro- and antinociception",
+          "volume": "155",
+          "author": "Yarnitsky",
+          "year": "2014",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R50-20230818",
+          "doi-asserted-by": "crossref",
+          "first-page": "100",
+          "DOI": "10.1016/j.nicl.2014.08.019",
+          "article-title": "Disrupted functional connectivity of the periaqueductal gray in chronic low back pain",
+          "volume": "23",
+          "author": "Yu",
+          "year": "2014",
+          "journal-title": "Neuroimage Clin"
+        }
+      ],
+      "container-title": [
+        "Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.lww.com/00006396-201607000-00003",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            1
+          ]
+        ],
+        "date-time": "2025-06-01T08:41:21Z",
+        "timestamp": 1748767281000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.lww.com/00006396-201607000-00003"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            1,
+            30
+          ]
+        ]
+      },
+      "references-count": 50,
+      "journal-issue": {
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2016
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1097/j.pain.0000000000000507",
+      "relation": {},
+      "ISSN": [
+        "0304-3959",
+        "1872-6623"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0304-3959"
+        },
+        {
+          "type": "electronic",
+          "value": "1872-6623"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            1,
+            30
+          ]
+        ]
+      }
+    }
+  }
+}

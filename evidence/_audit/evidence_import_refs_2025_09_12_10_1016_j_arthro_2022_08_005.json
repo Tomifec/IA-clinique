@@ -1,0 +1,386 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_arthro_2022_08_005.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_arthro_2022_08_005",
+  "doi": "10.1016/j.arthro.2022.08.005",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:32.868171Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            7
+          ]
+        ],
+        "date-time": "2025-08-07T20:56:25Z",
+        "timestamp": 1754600185757,
+        "version": "3.40.5"
+      },
+      "reference-count": 13,
+      "publisher": "Elsevier BV",
+      "issue": "12",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2022-12-01T00:00:00Z",
+            "timestamp": 1669852800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "arthroscopyjournal.org",
+          "clinicalkey.es",
+          "clinicalkey.com.au",
+          "clinicalkey.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Arthroscopy: The Journal of Arthroscopic &amp; Related Surgery"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.arthro.2022.08.005",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            30
+          ]
+        ],
+        "date-time": "2022-11-30T09:41:12Z",
+        "timestamp": 1669801272000
+      },
+      "page": "3103-3105",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 8,
+      "title": [
+        "SLAP Tears: Treatment Algorithm"
+      ],
+      "prefix": "10.1016",
+      "volume": "38",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-9125-1371",
+          "authenticated-orcid": false,
+          "given": "Luc M.",
+          "family": "Fortier",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Mariano E.",
+          "family": "Menendez",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0840-9164",
+          "authenticated-orcid": false,
+          "given": "Benjamin",
+          "family": "Kerzner",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Neil",
+          "family": "Verma",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9875-2769",
+          "authenticated-orcid": false,
+          "given": "Nikhil N.",
+          "family": "Verma",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "2 suppl",
+          "key": "10.1016/j.arthro.2022.08.005_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "S2",
+          "DOI": "10.1016/j.jse.2010.11.013",
+          "article-title": "Superior labral tears: Repair versus biceps tenodesis",
+          "volume": "20",
+          "author": "Burns",
+          "year": "2011",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.arthro.2022.08.005_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "1629",
+          "DOI": "10.1016/j.arthro.2017.03.025",
+          "article-title": "Decreased shoulder external rotation and flexion are greater predictors of injury than internal rotation deficits: Analysis of 132 pitcher-seasons in professional baseball",
+          "volume": "33",
+          "author": "Camp",
+          "year": "2017",
+          "journal-title": "Arthroscopy"
+        },
+        {
+          "key": "10.1016/j.arthro.2022.08.005_bib3",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1177/2325967119833997",
+          "article-title": "Trends in the management of isolated SLAP tears in the United States",
+          "volume": "7",
+          "author": "Cvetanovich",
+          "year": "2019",
+          "journal-title": "Orthop J Sports Med"
+        },
+        {
+          "key": "10.1016/j.arthro.2022.08.005_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "451",
+          "DOI": "10.1016/j.arthro.2011.09.005",
+          "article-title": "Long-term outcome after arthroscopic repair of type II SLAP lesions: Results according to age and workers' compensation status",
+          "volume": "28",
+          "author": "Denard",
+          "year": "2012",
+          "journal-title": "Arthroscopy"
+        },
+        {
+          "key": "10.1016/j.arthro.2022.08.005_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "1456",
+          "DOI": "10.1177/0363546510370937",
+          "article-title": "Nonoperative treatment of superior labrum anterior posterior tears: Improvements in pain, function, and quality of life",
+          "volume": "38",
+          "author": "Edwards",
+          "year": "2010",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "10.1016/j.arthro.2022.08.005_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "1155",
+          "DOI": "10.1177/0363546514528096",
+          "article-title": "Return to play after treatment of superior labral tears in professional baseball players",
+          "volume": "42",
+          "author": "Fedoriw",
+          "year": "2014",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "10.1016/j.arthro.2022.08.005_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "247",
+          "DOI": "10.1177/0363546507308194",
+          "article-title": "No advantages in repairing a type II superior labrum anterior and posterior (SLAP) lesion when associated with rotator cuff repair in patients over age 50: a randomized controlled trial",
+          "volume": "36",
+          "author": "Franceschi",
+          "year": "2008",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "10.1016/j.arthro.2022.08.005_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "522",
+          "DOI": "10.1177/0363546520921177",
+          "article-title": "Biceps tenodesis for superior labrum anterior-posterior tear in the overhead athlete: A systematic review",
+          "volume": "49",
+          "author": "Frantz",
+          "year": "2021",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "10.1016/j.arthro.2022.08.005_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "444",
+          "DOI": "10.1177/0363546512466067",
+          "article-title": "Diagnosis and management of superior labral anterior posterior tears in throwing athletes",
+          "volume": "41",
+          "author": "Knesek",
+          "year": "2013",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "10.1016/j.arthro.2022.08.005_bib10",
+          "first-page": "204",
+          "article-title": "SLAP tears and return to sport and work: current concepts",
+          "volume": "6",
+          "author": "LeVasseur",
+          "year": "2021",
+          "journal-title": "J ISAKOS"
+        },
+        {
+          "key": "10.1016/j.arthro.2022.08.005_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "880",
+          "DOI": "10.1177/0363546513477363",
+          "article-title": "A prospective analysis of 179 type 2 superior labrum anterior and posterior repairs: Outcomes and factors associated with success and failure",
+          "volume": "41",
+          "author": "Provencher",
+          "year": "2013",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "10.1016/j.arthro.2022.08.005_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "162",
+          "DOI": "10.1097/JSA.0b013e3181eaf4ef",
+          "article-title": "Surgical management of the failed SLAP repair",
+          "volume": "18",
+          "author": "Weber",
+          "year": "2010",
+          "journal-title": "Sports Med Arthrosc Rev"
+        },
+        {
+          "key": "10.1016/j.arthro.2022.08.005_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1538",
+          "DOI": "10.1177/0363546512447785",
+          "article-title": "Superior labrum anterior and posterior lesions of the shoulder: Incidence rates, complications, and outcomes as reported by American Board of Orthopedic Surgery. Part II candidates",
+          "volume": "40",
+          "author": "Weber",
+          "year": "2012",
+          "journal-title": "Am J Sports Med"
+        }
+      ],
+      "container-title": [
+        "Arthroscopy: The Journal of Arthroscopic &amp; Related Surgery"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0749806322004698?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0749806322004698?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            3,
+            14
+          ]
+        ],
+        "date-time": "2023-03-14T21:23:12Z",
+        "timestamp": 1678828992000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0749806322004698"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "references-count": 13,
+      "journal-issue": {
+        "issue": "12",
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0749806322004698"
+      ],
+      "URL": "https://doi.org/10.1016/j.arthro.2022.08.005",
+      "relation": {},
+      "ISSN": [
+        "0749-8063"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0749-8063"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "SLAP Tears: Treatment Algorithm",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Arthroscopy: The Journal of Arthroscopic & Related Surgery",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.arthro.2022.08.005",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2022 Published by Elsevier on behalf of the Arthroscopy Association of North America",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

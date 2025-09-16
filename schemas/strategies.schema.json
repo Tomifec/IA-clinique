@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "profil",
+    "securite",
+    "test_sentinelle",
+    "liens_evidence",
+    "statut"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "profil": { "type": "string" },
+    "securite": {
+      "type": "object",
+      "required": ["score"],
+      "properties": {
+        "score": { "type": "string" },
+        "stop_rules": { "type": "array", "items": { "type": "string" } }
+      },
+      "additionalProperties": true
+    },
+    "test_sentinelle": { "type": "array", "items": { "type": "string" } },
+    "mcid": { "type": "object" },
+    "protocoles": { "type": "array", "items": { "type": "string" } },
+    "liens_evidence": { "type": "array", "items": { "type": "string" } },
+    "statut": { "type": "string", "enum": ["brouillon", "valide", "rejeté"] }
+  }
+}
+

@@ -1,0 +1,179 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_2519_jospt_2021_0105.md",
+  "id": "evidence_import_refs_2025_09_11_10_2519_jospt_2021_0105",
+  "doi": "10.2519/jospt.2021.0105",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:05.965566Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            27
+          ]
+        ],
+        "date-time": "2024-08-27T00:03:30Z",
+        "timestamp": 1724717010813
+      },
+      "reference-count": 2,
+      "publisher": "Journal of Orthopaedic & Sports Physical Therapy (JOSPT)",
+      "issue": "4",
+      "content-domain": {
+        "domain": [
+          "www.jospt.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Orthopaedic &amp; Sports Physical Therapy"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            4
+          ]
+        ]
+      },
+      "abstract": "<jats:p> During the American Physical Therapy Association's virtual Combined Sections Meeting held throughout the month of February 2021, JOSPT recognized the authors of the most outstanding research manuscript published in the Journal in 2020. The JOSPT Guy G. Simoneau Excellence in Research Award was presented to Fábio Franciscatto Stieven, Giovanni Esteves Ferreira, Matheus Wiebusch, Francisco Xavier de Araújo, Luis Henrique Telles da Rosa, and Marcelo Faria Silva for their August 2020 article, “Dry Needling Combined With Guideline-Based Physical Therapy Provides No Added Benefit in the Management of Chronic Neck Pain: A Randomized Controlled Trial.” J Orthop Sports Phys Ther 2021;51(4):155. doi:10.2519/jospt.2021.0105 </jats:p>",
+      "DOI": "10.2519/jospt.2021.0105",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2021-04-01T06:39:25Z",
+        "timestamp": 1617259165000
+      },
+      "page": "155-155",
+      "update-policy": "http://dx.doi.org/10.2519/jospt.crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "JOSPT Names 2020 Award Recipients"
+      ],
+      "prefix": "10.2519",
+      "volume": "51",
+      "author": [
+        {
+          "given": "Clare L.",
+          "family": "Ardern",
+          "sequence": "first",
+          "affiliation": []
+        }
+      ],
+      "member": "1394",
+      "reference": [
+        {
+          "key": "bib1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2019.0102"
+        },
+        {
+          "key": "bib2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2020.9389"
+        }
+      ],
+      "container-title": [
+        "Journal of Orthopaedic &amp; Sports Physical Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.jospt.org/doi/pdf/10.2519/jospt.2021.0105",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            26
+          ]
+        ],
+        "date-time": "2024-08-26T13:59:34Z",
+        "timestamp": 1724680774000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.jospt.org/doi/10.2519/jospt.2021.0105"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            4
+          ]
+        ]
+      },
+      "references-count": 2,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              4
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.2519/jospt.2021.0105"
+      ],
+      "URL": "https://doi.org/10.2519/jospt.2021.0105",
+      "relation": {},
+      "ISSN": [
+        "0190-6011",
+        "1938-1344"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0190-6011"
+        },
+        {
+          "type": "electronic",
+          "value": "1938-1344"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            4
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2021-03-31",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

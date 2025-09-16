@@ -1,0 +1,868 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_msksp_2022_102663.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_msksp_2022_102663",
+  "doi": "10.1016/j.msksp.2022.102663",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:56.609266Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2025-09-08T05:34:02Z",
+        "timestamp": 1757309642606,
+        "version": "3.40.5"
+      },
+      "reference-count": 62,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2022-12-01T00:00:00Z",
+            "timestamp": 1669852800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                9,
+                4
+              ]
+            ],
+            "date-time": "2022-09-04T00:00:00Z",
+            "timestamp": 1662249600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "clinicalkey.com.au",
+          "clinicalkey.es",
+          "clinicalkey.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.msksp.2022.102663",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            9,
+            6
+          ]
+        ],
+        "date-time": "2022-09-06T04:24:27Z",
+        "timestamp": 1662438267000
+      },
+      "page": "102663",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 43,
+      "special_numbering": "C",
+      "title": [
+        "Person-centered care for musculoskeletal pain: Putting principles into practice"
+      ],
+      "prefix": "10.1016",
+      "volume": "62",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-6164-6265",
+          "authenticated-orcid": false,
+          "given": "Nathan",
+          "family": "Hutting",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "J.P.",
+          "family": "Caneiro",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Otieno Martin",
+          "family": "Ong'wen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Maxi",
+          "family": "Miciak",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lisa",
+          "family": "Roberts",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.physio.2014.03.008",
+          "article-title": "Musculoskeletal physiotherapists' use of psychological interventions: a systematic review of therapists' perceptions and practice",
+          "author": "Alexanders",
+          "year": "2015",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "375",
+          "DOI": "10.1186/s12913-017-2311-3",
+          "article-title": "Characteristics of therapeutic alliance in musculoskeletal physiotherapy and occupational therapy practice: a scoping review of the literature",
+          "volume": "17",
+          "author": "Babatunde",
+          "year": "2017",
+          "journal-title": "BMC Health Serv. Res."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "580",
+          "DOI": "10.1590/bjpt-rbf.2014.0180",
+          "article-title": "The evolving role of physical therapists in the long-term management of chronic low back pain: longitudinal care using assisted self-management strategies",
+          "volume": "20",
+          "author": "Beattie",
+          "year": "2016",
+          "journal-title": "Braz. J. Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "90",
+          "DOI": "10.7812/TPP/13-165",
+          "article-title": "Person-focused care at Kaiser permanente",
+          "volume": "18",
+          "author": "Bellows",
+          "year": "2014",
+          "journal-title": "Perm. J."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1080/21679169.2018.1496474",
+          "article-title": "A preference for dialogue: exploring the influence of patient preferences on clinical decision making and treatment in primary care physiotherapy",
+          "volume": "21",
+          "author": "Bernhardsson",
+          "year": "2019",
+          "journal-title": "Eur. J. Physiother."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "1074",
+          "DOI": "10.1080/09638288.2019.1651909",
+          "article-title": "Understanding the therapeutic alliance in stroke rehabilitation",
+          "volume": "43",
+          "author": "Bishop",
+          "year": "2021",
+          "journal-title": "Disabil. Rehabil."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "471",
+          "DOI": "10.1093/ptj/pzy012",
+          "article-title": "Physical therapists' ability to identify psychological factors and their self-reported competence to manage chronic low back pain",
+          "volume": "98",
+          "author": "Brunner",
+          "year": "2018",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "17",
+          "DOI": "10.1016/j.bjpt.2020.06.003",
+          "article-title": "Beliefs about the body and pain: the critical role in musculoskeletal pain management",
+          "volume": "25",
+          "author": "Caneiro",
+          "year": "2021",
+          "journal-title": "Braz. J. Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib9",
+          "article-title": "It is time to move beyond “body region silos” to manage musculoskeletal pain: five actions to change clinical practice",
+          "author": "Caneiro",
+          "year": "2019",
+          "journal-title": "Br. J. Sports Med."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "872",
+          "DOI": "10.3109/09638288.2010.511419",
+          "article-title": "I looked to her as a guide: the therapeutic relationship in hand therapy",
+          "volume": "33",
+          "author": "Crepeau",
+          "year": "2011",
+          "journal-title": "Disabil. Rehabil."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1080/01942638.2019.1610138",
+          "article-title": "Between the lines: a qualitative phenomenological analysis of the therapeutic alliance in pediatric physical therapy",
+          "volume": "40",
+          "author": "Crom",
+          "year": "2020",
+          "journal-title": "Phys. Occup. Ther. Pediatr."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "8",
+          "DOI": "10.1197/jamia.M2492",
+          "article-title": "Patient-centered applications: use of information technology to promote disease management and wellness. A white paper by the AMIA Knowledge in Motion Working Group",
+          "volume": "15",
+          "author": "Demiris",
+          "year": "2008",
+          "journal-title": "J. Am. Med. Inf. Assoc."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib13",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.4102/sajp.v77i1.1564",
+          "article-title": "Physiotherapy support for self-management of persisting musculoskeletal pain disorders",
+          "volume": "77",
+          "author": "Diener",
+          "year": "2021",
+          "journal-title": "S. Afr. J. Physiother."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "215",
+          "DOI": "10.1097/01.j.pain.0000460301.18207.c2",
+          "article-title": "Validating pain communication",
+          "volume": "156",
+          "author": "Edmond",
+          "year": "2015",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "93",
+          "DOI": "10.1136/qhc.12.2.93",
+          "article-title": "Shared decision making: developing the OPTION scale for measuring patient involvement",
+          "volume": "12",
+          "author": "Elwyn",
+          "year": "2003",
+          "journal-title": "Qual. Saf. Health Care"
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "688",
+          "DOI": "10.1177/2374373519878604",
+          "article-title": "Goal-based shared decision-making: developing an integrated model",
+          "volume": "7",
+          "author": "Elwyn",
+          "year": "2020",
+          "journal-title": "J. Patient Exp."
+        },
+        {
+          "year": "2014",
+          "series-title": "Supporting Self-Management",
+          "key": "10.1016/j.msksp.2022.102663_bib17"
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "132",
+          "DOI": "10.1016/j.jphys.2017.05.017",
+          "article-title": "Physiotherapists' beliefs and attitudes influence clinical practice in chronic low back pain: a systematic review of quantitative and qualitative studies",
+          "volume": "63",
+          "author": "Gardner",
+          "year": "2017",
+          "journal-title": "J. Physiother."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib19",
+          "article-title": "Experiences of responsiveness to exercise in people with chronic whiplash: a qualitative study",
+          "volume": "54",
+          "author": "Griffin",
+          "year": "2021",
+          "journal-title": "Musculoskelet. Sci. Pract."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1099",
+          "DOI": "10.2522/ptj.20090245",
+          "article-title": "The influence of the therapist-patient relationship on treatment outcome in physical rehabilitation: a systematic review",
+          "volume": "90",
+          "author": "Hall",
+          "year": "2010",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "368",
+          "DOI": "10.1080/21679169.2020.1772869",
+          "article-title": "Shared decision-making in physical therapy: a cross-sectional observational study",
+          "volume": "23",
+          "author": "Hausheer",
+          "year": "2021",
+          "journal-title": "Eur. J. Physiother."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "17",
+          "DOI": "10.1007/s12468-015-0009-2",
+          "article-title": "Ondersteunen van zelfmanagement: Wat vraagt dit van verpleegkundigen?",
+          "volume": "13",
+          "author": "Hooft",
+          "year": "2015",
+          "journal-title": "Ned. Tijdschr. voor Evid. Based Pract."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "97",
+          "DOI": "10.1186/s12913-021-06095-y",
+          "article-title": "A longitudinal study of the turning points and trajectories of therapeutic relationship development in occupational and physical therapy",
+          "volume": "21",
+          "author": "Horton",
+          "year": "2021",
+          "journal-title": "BMC Health Serv. Res."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "25",
+          "DOI": "10.2522/ptj.20100061",
+          "article-title": "Patient satisfaction with musculoskeletal physical therapy care: a systematic review",
+          "volume": "91",
+          "author": "Hush",
+          "year": "2011",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib25",
+          "article-title": "Patient-centered care in musculoskeletal practice: key elements to support clinicians to focus on the person",
+          "volume": "57",
+          "author": "Hutting",
+          "year": "2022",
+          "journal-title": "Musculoskelet. Sci. Pract."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "212",
+          "DOI": "10.2519/jospt.2019.0605",
+          "article-title": "Promoting the use of self-management strategies for people with persistent musculoskeletal disorders: the role of physical therapists",
+          "volume": "49",
+          "author": "Hutting",
+          "year": "2019",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib27",
+          "article-title": "Self-management support for people with non-specific low back pain: a qualitative survey among physiotherapists and exercise therapists",
+          "volume": "50",
+          "author": "Hutting",
+          "year": "2020",
+          "journal-title": "Musculoskelet. Sci. Pract."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib28",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jclinepi.2016.08.001",
+          "article-title": "Self-management interventions: proposal and validation of a new operational definition",
+          "author": "Jonkman",
+          "year": "2016",
+          "journal-title": "J. Clin. Epidemiol."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "886",
+          "DOI": "10.1080/09593985.2018.1516015",
+          "article-title": "The impact of therapeutic alliance in physical therapy for chronic musculoskeletal pain: a systematic review of the literature",
+          "volume": "36",
+          "author": "Kinney",
+          "year": "2020",
+          "journal-title": "Physiother. Theory Pract."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1080/09593985.2021.1999354",
+          "article-title": "An integrative review of the qualities of a ‘good’ physiotherapist",
+          "author": "Kleiner",
+          "year": "2021",
+          "journal-title": "Physiother. Theory Pract."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib31",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.bjpt.2021.05.002",
+          "article-title": "Self-management at the core of back pain care: 10 key points for clinicians",
+          "author": "Kongsted",
+          "year": "2021",
+          "journal-title": "Braz. J. Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "143",
+          "DOI": "10.1016/j.physio.2021.04.002",
+          "article-title": "Reframing how we care for people with persistent non-traumatic musculoskeletal pain. Suggestions for the rehabilitation community",
+          "volume": "112",
+          "author": "Lewis",
+          "year": "2021",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib33",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bjsports-2019-101918",
+          "article-title": "Patient-centered care: the cornerstone for high-value musculoskeletal pain management",
+          "author": "Lin",
+          "year": "2020",
+          "journal-title": "Br. J. Sports Med."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib34",
+          "article-title": "What does best practice care for musculoskeletal pain look like? Eleven consistent recommendations from high-quality clinical practice guidelines: systematic review",
+          "author": "Lin",
+          "year": "2019",
+          "journal-title": "Br. J. Sports Med."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1080/21679169.2021.2005138",
+          "article-title": "Development of the physiotherapy therapeutic relationship measure",
+          "author": "McCabe",
+          "year": "2021",
+          "journal-title": "Eur. J. Physiother."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "1087",
+          "DOI": "10.1016/S0277-9536(00)00098-8",
+          "article-title": "Patient-centeredness: a conceptual framework and review of the empirical literature",
+          "volume": "51",
+          "author": "Mead",
+          "year": "2000",
+          "journal-title": "Soc. Sci. Med."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1186/s40945-018-0044-1",
+          "article-title": "The necessary conditions of engagement for the therapeutic relationship in physiotherapy: an interpretive description study",
+          "volume": "8",
+          "author": "Miciak",
+          "year": "2018",
+          "journal-title": "Arch. Physiother."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "40",
+          "DOI": "10.1080/09593985.2018.1434707",
+          "article-title": "A framework for establishing connections in physiotherapy practice",
+          "volume": "35",
+          "author": "Miciak",
+          "year": "2019",
+          "journal-title": "Physiother. Theory Pract."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "1022",
+          "DOI": "10.1093/ptj/pzy095",
+          "article-title": "A framework and resources for shared decision making: opportunities for improved physical therapy outcomes",
+          "volume": "98",
+          "author": "Moore",
+          "year": "2018",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "year": "2021",
+          "series-title": "NICE Guideline Shared Decision Making (NG197)",
+          "key": "10.1016/j.msksp.2022.102663_bib40"
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "395",
+          "DOI": "10.2147/IJGM.S223882",
+          "article-title": "Identifying key challenges facing healthcare systems in Africa and potential solutions",
+          "volume": "12",
+          "author": "Oleribe",
+          "year": "2019",
+          "journal-title": "Int. J. Gen. Med."
+        },
+        {
+          "issue": "1–8",
+          "key": "10.1016/j.msksp.2022.102663_bib42",
+          "article-title": "Manual physical therapists' use of biopsychosocial history taking in the management of patients with back or neck pain in clinical practice",
+          "volume": "2015",
+          "author": "Oostendorp",
+          "year": "2015",
+          "journal-title": "Sci. World J."
+        },
+        {
+          "issue": "1–8",
+          "key": "10.1016/j.msksp.2022.102663_bib43",
+          "article-title": "The impact of pain invisibility on patient-centered care and empathetic attitude in chronic pain management",
+          "volume": "2018",
+          "author": "Paul-Savoie",
+          "year": "2018",
+          "journal-title": "Pain Res. Manag."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "440",
+          "DOI": "10.1037/cou0000288",
+          "article-title": "When in doubt, sit quietly: a qualitative investigation of experienced therapists' perceptions of self-disclosure",
+          "volume": "65",
+          "author": "Pinto-Coelho",
+          "year": "2018",
+          "journal-title": "J. Counsel. Psychol."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "1511",
+          "DOI": "10.1177/0146167204271184",
+          "article-title": "Interference and facilitation among personal goals: differential associations with subjective well-being and persistent goal pursuit",
+          "volume": "30",
+          "author": "Riediger",
+          "year": "2004",
+          "journal-title": "Pers. Soc. Psychol. Bull."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib46",
+          "doi-asserted-by": "crossref",
+          "first-page": "313",
+          "DOI": "10.1016/j.zefq.2011.04.012",
+          "article-title": "Measurement of shared decision making – a review of instruments",
+          "volume": "105",
+          "author": "Scholl",
+          "year": "2011",
+          "journal-title": "Z. Evid. Fortbild. Qual. Gesundhwes."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib47",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s12891-017-1831-7",
+          "article-title": "Individuals' explanations for their persistent or recurrent low back pain: a cross-sectional survey",
+          "author": "Setchell",
+          "year": "2017",
+          "journal-title": "BMC Muscoskel. Disord."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib48",
+          "doi-asserted-by": "crossref",
+          "first-page": "328",
+          "DOI": "10.1016/j.math.2014.10.004",
+          "article-title": "Physiotherapists' assessment of patients' psychosocial status: are we standing on thin ice? A qualitative descriptive study",
+          "volume": "20",
+          "author": "Singla",
+          "year": "2015",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib49",
+          "article-title": "Conceptualisation of the therapeutic alliance in physiotherapy: is it adequate?",
+          "volume": "46",
+          "author": "Søndenå",
+          "year": "2020",
+          "journal-title": "Musculoskelet. Sci. Pract."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib50",
+          "series-title": "Cochrane Database of Systematic Reviews",
+          "article-title": "Decision aids for people facing health treatment or screening decisions",
+          "author": "Stacey",
+          "year": "2014"
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib51",
+          "doi-asserted-by": "crossref",
+          "first-page": "489",
+          "DOI": "10.1080/09638288.2017.1396366",
+          "article-title": "A scoping review of the working alliance in acquired brain injury rehabilitation",
+          "volume": "41",
+          "author": "Stagg",
+          "year": "2019",
+          "journal-title": "Disabil. Rehabil."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "1390",
+          "DOI": "10.1080/09602011.2020.1778491",
+          "article-title": "The perspectives of allied health clinicians on the working alliance with people with stroke-related communication impairment",
+          "volume": "31",
+          "author": "Stagg",
+          "year": "2021",
+          "journal-title": "Neuropsychol. Rehabil."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib53",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.7812/TPP/10-148",
+          "article-title": "Is patient-centered care the same as person-focused care?",
+          "volume": "15",
+          "author": "Starfield",
+          "year": "2011",
+          "journal-title": "Perm. J."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib54",
+          "doi-asserted-by": "crossref",
+          "first-page": "2048",
+          "DOI": "10.1080/09638288.2017.1325943",
+          "article-title": "The development of a patient-specific method for physiotherapy goal setting: a user-centered design",
+          "volume": "40",
+          "author": "Stevens",
+          "year": "2018",
+          "journal-title": "Disabil. Rehabil."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib55",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.29052/IJEHSR.v7.i3.2019.131-139",
+          "article-title": "Conceptual approach of shared decision making in physical therapy: an approach for betterment of patients?",
+          "volume": "7",
+          "author": "Syed",
+          "year": "2019",
+          "journal-title": "Int. J. Endorsing Heal. Sci. Res."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib56",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1093/ptj/pzab187",
+          "article-title": "Therapeutic alliance: patients' expectations before and experiences after physical therapy for low back pain—a qualitative study with 6-month follow-up",
+          "volume": "101",
+          "author": "Unsgaard-Tøndel",
+          "year": "2021",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib57",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/pri.1932",
+          "article-title": "Building therapeutic alliances with patients in treatment for low back pain: a focus group study",
+          "volume": "27",
+          "author": "Unsgaard‐Tøndel",
+          "year": "2022",
+          "journal-title": "Physiother. Res. Int."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib58",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2018-027775",
+          "article-title": "Delineating the concept of self-management in chronic conditions: a concept analysis",
+          "volume": "9",
+          "author": "Van de Velde",
+          "year": "2019",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib59",
+          "article-title": "Experiences, barriers and needs of physiotherapists with regard to providing self-management support to people with low back pain: a qualitative study",
+          "volume": "56",
+          "author": "Van den Heuvel",
+          "year": "2021",
+          "journal-title": "Musculoskelet. Sci. Pract."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib60",
+          "doi-asserted-by": "crossref",
+          "first-page": "528",
+          "DOI": "10.1111/hex.12647",
+          "article-title": "A three-goal model for patients with multimorbidity: a qualitative approach",
+          "volume": "21",
+          "author": "Vermunt",
+          "year": "2018",
+          "journal-title": "Health Expect."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib61",
+          "doi-asserted-by": "crossref",
+          "first-page": "369",
+          "DOI": "10.1080/08870449808406757",
+          "article-title": "Predicting stage transitions for smoking cessation applying the attitude-social influence-efficacy model",
+          "volume": "13",
+          "author": "Vries",
+          "year": "1998",
+          "journal-title": "Psychol. Health"
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102663_bib62",
+          "doi-asserted-by": "crossref",
+          "first-page": "70",
+          "DOI": "10.1001/jama.2019.19003",
+          "article-title": "Practices to foster physician presence and connection with patients in the clinical encounter",
+          "volume": "323",
+          "author": "Zulman",
+          "year": "2020",
+          "journal-title": "JAMA"
+        }
+      ],
+      "container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781222001631?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781222001631?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            7
+          ]
+        ],
+        "date-time": "2022-12-07T15:38:17Z",
+        "timestamp": 1670427497000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2468781222001631"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "references-count": 62,
+      "alternative-id": [
+        "S2468781222001631"
+      ],
+      "URL": "https://doi.org/10.1016/j.msksp.2022.102663",
+      "relation": {},
+      "ISSN": [
+        "2468-7812"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2468-7812"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Person-centered care for musculoskeletal pain: Putting principles into practice",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Musculoskeletal Science and Practice",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.msksp.2022.102663",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2022 The Author(s). Published by Elsevier Ltd.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "102663"
+    }
+  }
+}

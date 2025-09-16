@@ -1,0 +1,696 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1007_s00586_018_5673_2.md",
+  "id": "evidence_import_refs_2025_09_12_10_1007_s00586_018_5673_2",
+  "doi": "10.1007/s00586-018-5673-2",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:28.335974Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T12:12:38Z",
+        "timestamp": 1757679158524,
+        "version": "3.41.0"
+      },
+      "reference-count": 36,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "11",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                7,
+                3
+              ]
+            ],
+            "date-time": "2018-07-03T00:00:00Z",
+            "timestamp": 1530576000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100002322",
+          "name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "88881.134663/2016-01"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100002322",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100000925",
+          "name": "National Health and Medical Research Council",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "APP1103022",
+            "APP1144026",
+            "APP1061400"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100000925",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Eur Spine J"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            11
+          ]
+        ]
+      },
+      "DOI": "10.1007/s00586-018-5673-2",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            7,
+            3
+          ]
+        ],
+        "date-time": "2018-07-03T09:17:56Z",
+        "timestamp": 1530609476000
+      },
+      "page": "2791-2803",
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1107,
+      "title": [
+        "Clinical practice guidelines for the management of non-specific low back pain in primary care: an updated overview"
+      ],
+      "prefix": "10.1007",
+      "volume": "27",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-6911-7018",
+          "authenticated-orcid": false,
+          "given": "Crystian B.",
+          "family": "Oliveira",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1628-7857",
+          "authenticated-orcid": false,
+          "given": "Chris G.",
+          "family": "Maher",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2775-860X",
+          "authenticated-orcid": false,
+          "given": "Rafael Z.",
+          "family": "Pinto",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1646-1907",
+          "authenticated-orcid": false,
+          "given": "Adrian C.",
+          "family": "Traeger",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6192-7238",
+          "authenticated-orcid": false,
+          "given": "Chung-Wei Christine",
+          "family": "Lin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8877-2950",
+          "authenticated-orcid": false,
+          "given": "Jean-François",
+          "family": "Chenot",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Maurits",
+          "family": "van Tulder",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0450-9969",
+          "authenticated-orcid": false,
+          "given": "Bart W.",
+          "family": "Koes",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            7,
+            3
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "5673_CR1",
+          "unstructured": "(2011) Low back pain management guideline. Philippine Academy of Rehabilitation Medicine. Available from: http://parm.com.ph/wp-content/uploads/2016/09/PARM-Low-Back-Pain-CPG-2011-1.pdf . Accessed June 2017"
+        },
+        {
+          "issue": "7",
+          "key": "5673_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "958",
+          "DOI": "10.1001/jamainternmed.2016.1251",
+          "volume": "176",
+          "author": "C Abdel Shaheed",
+          "year": "2016",
+          "unstructured": "Abdel Shaheed C, Maher CG, Williams KA, Day R, McLachlan AJ (2016) Efficacy, tolerability, and dose-dependent effects of opioid analgesics for low back pain: a systematic review and meta-analysis. JAMA Intern Med 176(7):958–968",
+          "journal-title": "JAMA Intern Med"
+        },
+        {
+          "issue": "6",
+          "key": "5673_CR3",
+          "first-page": "536",
+          "volume": "59",
+          "author": "RDVA Rached",
+          "year": "2013",
+          "unstructured": "Rached RDVA, Rosa CDPd, Alfieri FM et al (2013) Lombalgia inespecífica crônica: reabilitação. Revista da Associação Médica Brasileira 59(6):536–553",
+          "journal-title": "Revista da Associação Médica Brasileira"
+        },
+        {
+          "issue": "6",
+          "key": "5673_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "268",
+          "DOI": "10.5694/mja16.00828",
+          "volume": "206",
+          "author": "LD Bardin",
+          "year": "2017",
+          "unstructured": "Bardin LD, King P, Maher CG (2017) Diagnostic triage for low back pain: a practical approach for primary care. Med J Aust 206(6):268–273",
+          "journal-title": "Med J Aust"
+        },
+        {
+          "issue": "6",
+          "key": "5673_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "388",
+          "DOI": "10.1007/BF03044686",
+          "volume": "93",
+          "author": "W Bolten",
+          "year": "1998",
+          "unstructured": "Bolten W, Kempel-Waibel A, Pförringer W (1998) Analyse der Krankheitskosten bei Rückenschmerzen. Med Klin 93(6):388–393",
+          "journal-title": "Med Klin"
+        },
+        {
+          "key": "5673_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "149",
+          "DOI": "10.1097/00003086-200006000-00018",
+          "volume": "375",
+          "author": "M Buchner",
+          "year": "2000",
+          "unstructured": "Buchner M, Zeifang F, Brocai DR, Schiltenwolf M (2000) Epidural corticosteroid injection in the conservative management of sciatica. Clin Orthop Relat Res 375:149–156",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "key": "5673_CR7",
+          "unstructured": "Canada TOP (2015) Evidence-informed primary care management of low back pain. Edmonton (AB): toward optimized practice. http://www.topalbertadoctors.org/download/1885/LBPguideline.pdf?_20180625085852 . Accessed June 2017"
+        },
+        {
+          "issue": "24",
+          "key": "5673_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "2627",
+          "DOI": "10.1001/jama.2016.16885",
+          "volume": "316",
+          "author": "JL Dieleman",
+          "year": "2016",
+          "unstructured": "Dieleman JL, Baral R, Birger M et al (2016) Us spending on personal health care and public health, 1996–2013. JAMA 316(24):2627–2646",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "5673_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "240",
+          "DOI": "10.11604/pamj.2015.22.240.8120",
+          "volume": "22",
+          "author": "M Elleuch",
+          "year": "2015",
+          "unstructured": "Elleuch M, El Maghraoui A, Griene B, Nejmi M, Ndongo S, Serrie A (2015) Formalized consensus: clinical practice recommendations for the management of acute low back pain of the African patient. Pan Afr Med J 22:240",
+          "journal-title": "Pan Afr Med J"
+        },
+        {
+          "issue": "51–52",
+          "key": "5673_CR10",
+          "first-page": "883",
+          "volume": "114",
+          "author": "JF Chenot",
+          "year": "2017",
+          "unstructured": "Chenot JF, Greitemann B, Kladny B et al (2017) Non-specific low back pain. Dtsch Arztebl Int 114(51–52):883–890",
+          "journal-title": "Dtsch Arztebl Int"
+        },
+        {
+          "issue": "3",
+          "key": "5673_CR11",
+          "first-page": "264",
+          "volume": "79",
+          "author": "U Guevara-Lopez",
+          "year": "2011",
+          "unstructured": "Guevara-Lopez U, Covarrubias-Gomez A, Elias-Dib J, Reyes-Sanchez A, Rodriguez-Reyna TS (2011) Consensus group of practice parameters to manage low back P. Practice guidelines for the management of low back pain. Consensus group of practice parameters to manage low back pain. Cir Cir 79(3):264–279",
+          "journal-title": "Cir Cir"
+        },
+        {
+          "issue": "9802",
+          "key": "5673_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "1560",
+          "DOI": "10.1016/S0140-6736(11)60937-9",
+          "volume": "378",
+          "author": "JC Hill",
+          "year": "2011",
+          "unstructured": "Hill JC, Whitehurst DG, Lewis M et al (2011) Comparison of stratified primary care management for low back pain with current best practice (STarT Back): a randomised controlled trial. Lancet 378(9802):1560–1571",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "6",
+          "key": "5673_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "2028",
+          "DOI": "10.1002/art.34347",
+          "volume": "64",
+          "author": "D Hoy",
+          "year": "2012",
+          "unstructured": "Hoy D, Bain C, Williams G et al (2012) A systematic review of the global prevalence of low back pain. Arthritis Rheum 64(6):2028–2037",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "issue": "6",
+          "key": "5673_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "968",
+          "DOI": "10.1136/annrheumdis-2013-204428",
+          "volume": "73",
+          "author": "D Hoy",
+          "year": "2014",
+          "unstructured": "Hoy D, March L, Brooks P et al (2014) The global burden of low back pain: estimates from the Global Burden of Disease 2010 study. Ann Rheum Dis 73(6):968–974",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "key": "5673_CR15",
+          "unstructured": "Hussein AM, Choy Y, Singh D, Cardosa M, Mansor M, Hasnan N (2016) Malaysian low back pain management guideline Malaysian association for the study of pain, first edition. Available from: http://www.masp.org.my/index.cfm?&menuid=23 . Accessed June 2017"
+        },
+        {
+          "key": "5673_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "13",
+          "DOI": "10.1186/s12916-016-0774-4",
+          "volume": "15",
+          "author": "EL Karran",
+          "year": "2017",
+          "unstructured": "Karran EL, McAuley JH, Traeger AC et al (2017) Can screening instruments accurately determine poor outcome risk in adults with recent onset low back pain? A systematic review and meta-analysis. BMC Med 15:13",
+          "journal-title": "BMC Med"
+        },
+        {
+          "issue": "12",
+          "key": "5673_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "2075",
+          "DOI": "10.1007/s00586-010-1502-y",
+          "volume": "19",
+          "author": "BW Koes",
+          "year": "2010",
+          "unstructured": "Koes BW, van Tulder M, Lin CW, Macedo LG, McAuley J, Maher C (2010) An updated overview of clinical guidelines for the management of non-specific low back pain in primary care. Eur Spine J 19(12):2075–2094",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "22",
+          "key": "5673_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "2504",
+          "DOI": "10.1097/00007632-200111150-00022",
+          "volume": "26",
+          "author": "BW Koes",
+          "year": "2001",
+          "unstructured": "Koes BW, van Tulder MW, Ostelo R, Kim Burton A, Waddell G (2001) Clinical guidelines for the management of low back pain in primary care: an international comparison. Spine (Phila Pa 1976) 26(22):2504–2513 ; discussion 13-4",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "13",
+          "key": "5673_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "1050",
+          "DOI": "10.1097/BRS.0b013e3181e70488",
+          "volume": "36",
+          "author": "LC Lambeek",
+          "year": "2011",
+          "unstructured": "Lambeek LC, vanTulder MW, Swinkels IC, Koppes LL, Anema JR, vanMechelen W (2011) The trend in total cost of back pain in The Netherlands in the period 2002–2007. Spine (Phila Pa 1976) 36(13):1050–1058",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "5673_CR20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5772/33716",
+          "volume-title": "Low Back Pain",
+          "author": "E. Latorre",
+          "year": "2012",
+          "unstructured": "Latorre Marques E (2012) The treatment of low back pain and scientific evidence, low back pain. In: Norasteh AA (ed) InTech. https://doi.org/10.5772/33716 . Available from: https://www.intechopen.com/books/low-back-pain/the-treatment-of-low-back-pain-scientific-evidence . Accessed June 2017"
+        },
+        {
+          "issue": "10070",
+          "key": "5673_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "736",
+          "DOI": "10.1016/S0140-6736(16)30970-9",
+          "volume": "389",
+          "author": "C Maher",
+          "year": "2017",
+          "unstructured": "Maher C, Underwood M, Buchbinder R (2017) Non-specific low back pain. The Lancet 389(10070):736–747",
+          "journal-title": "The Lancet"
+        },
+        {
+          "issue": "6",
+          "key": "5673_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "656",
+          "DOI": "10.1001/jama.299.6.656",
+          "volume": "299",
+          "author": "BI Martin",
+          "year": "2008",
+          "unstructured": "Martin BI, Deyo RA, Mirza SK et al (2008) Expenditures and health status among adults with back and neck problems. JAMA 299(6):656–664",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "5673_CR23",
+          "volume-title": "Efficacy and safety of oral and transdermal opioid analgesics for musculoskeletal pain in older adults: a systematic review of randomized",
+          "author": "RZ Megale",
+          "year": "2017",
+          "unstructured": "Megale RZ, Deveza LA, Blyth FM et al (2017) Efficacy and safety of oral and transdermal opioid analgesics for musculoskeletal pain in older adults: a systematic review of randomized. Placebo Control Trials, J Pain"
+        },
+        {
+          "key": "5673_CR24",
+          "unstructured": "National Institute for Health and Care Excellence (2016) Low back pain and sciatica in over 16 s: assessment and management (NICE guideline NG59). Available from: ​ http://www.nice.org.uk/guidance/ng59 . Accessed June 2017"
+        },
+        {
+          "key": "5673_CR25",
+          "unstructured": "NSW Agency for Clinical Inovation (ACI) (2016) Management of people with acute low back pain model of care. Available from:  https://www.aci.health.nsw.gov.au/__data/assets/pdf_file/0007/336688/acute-low-back-pain-moc.pdf . Accessed June 2017"
+        },
+        {
+          "issue": "1",
+          "key": "5673_CR26",
+          "first-page": "92",
+          "volume": "131",
+          "author": "T Pohjolainen",
+          "year": "2015",
+          "unstructured": "Pohjolainen T, Leinonen V, Franten J et al (2015) Update on current care guideline: low back pain. Duodecim 131(1):92–94",
+          "journal-title": "Duodecim"
+        },
+        {
+          "issue": "7",
+          "key": "5673_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "514",
+          "DOI": "10.7326/M16-2367",
+          "volume": "166",
+          "author": "A Qaseem",
+          "year": "2017",
+          "unstructured": "Qaseem A, Wilt TJ, McLean RM, Forciea M (2017) For the clinical guidelines committee of the American College of P. Noninvasive treatments for acute, subacute, and chronic low back pain: a clinical practice guideline from the american college of physicians. Ann Intern Med 166(7):514–530",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "issue": "7",
+          "key": "5673_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "514",
+          "DOI": "10.7326/M16-2367",
+          "volume": "166",
+          "author": "A Qaseem",
+          "year": "2017",
+          "unstructured": "Qaseem A, Wilt TJ, McLean RM, Forciea MA (2017) Clinical guidelines committee of the American College of P. Noninvasive treatments for acute, subacute, and chronic low back pain: a clinical practice guideline from the American College of Physicians. Ann Intern Med 166(7):514–530",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "5673_CR29",
+          "first-page": "CD012230",
+          "volume": "6",
+          "author": "BT Saragiotto",
+          "year": "2016",
+          "unstructured": "Saragiotto BT, Machado GC, Ferreira ML et al (2016) Paracetamol for low back pain. Cochrane Database Syst Rev 6:CD012230",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "5673_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "60",
+          "DOI": "10.1007/s00586-017-5099-2",
+          "volume": "27",
+          "author": "MJ Stochkendahl",
+          "year": "2017",
+          "unstructured": "Stochkendahl MJ, Kjaer P, Hartvigsen J et al (2017) National clinical guidelines for non-surgical treatment of patients with recent onset low back pain or lumbar radiculopathy. Eur Spine J 27(1):60–75",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "5673_CR31",
+          "volume-title": "Ketenzorgrichtlijn aspecifieke lage rugklachten",
+          "author": "M Tulder Van",
+          "year": "2010",
+          "unstructured": "Van Tulder M, Custers J, de Bie R et al (2010) Ketenzorgrichtlijn aspecifieke lage rugklachten. KKCZ, Belgrade"
+        },
+        {
+          "key": "5673_CR32",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Van Wambeke P, Desomer A, Ailliet L et al (2017) Low back pain and radicular pain: assessment and management. Good Clinical Practice (GCP) Brussels: Belgian Health Care Knowledge Centre (KCE)",
+          "DOI": "10.57598/R287CS"
+        },
+        {
+          "issue": "1",
+          "key": "5673_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "3",
+          "DOI": "10.1186/1748-5908-9-3",
+          "volume": "9",
+          "author": "RWM Vernooij",
+          "year": "2014",
+          "unstructured": "Vernooij RWM, Sanabria AJ, Solà I, Alonso-Coello P, Martínez García L (2014) Guidance for updating clinical practice guidelines: a systematic review of methodological handbooks. Implement Sci 9(1):3",
+          "journal-title": "Implement Sci"
+        },
+        {
+          "issue": "2",
+          "key": "5673_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "79",
+          "DOI": "10.1177/101053950301500202",
+          "volume": "15",
+          "author": "BF Walker",
+          "year": "2003",
+          "unstructured": "Walker BF, Muller R, Grant WD (2003) Low back pain in australian adults: the economic burden. Asia Pac J Pub Health 15(2):79–87",
+          "journal-title": "Asia Pac J Pub Health"
+        },
+        {
+          "issue": "5",
+          "key": "5673_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "455",
+          "DOI": "10.1007/s10198-010-0258-y",
+          "volume": "12",
+          "author": "S Wieser",
+          "year": "2011",
+          "unstructured": "Wieser S, Horisberger B, Schmidhauser S et al (2011) Cost of low back pain in Switzerland in 2005. Eur J Health Econ 12(5):455–467",
+          "journal-title": "Eur J Health Econ"
+        },
+        {
+          "issue": "9954",
+          "key": "5673_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "1586",
+          "DOI": "10.1016/S0140-6736(14)60805-9",
+          "volume": "384",
+          "author": "CM Williams",
+          "year": "2014",
+          "unstructured": "Williams CM, Maher CG, Latimer J et al (2014) Efficacy of paracetamol for acute low-back pain: a double-blind, randomised controlled trial. Lancet 384(9954):1586–1596",
+          "journal-title": "Lancet"
+        }
+      ],
+      "container-title": [
+        "European Spine Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/article/10.1007/s00586-018-5673-2/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s00586-018-5673-2.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s00586-018-5673-2.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            5
+          ]
+        ],
+        "date-time": "2025-07-05T14:35:56Z",
+        "timestamp": 1751726156000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://link.springer.com/10.1007/s00586-018-5673-2"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            7,
+            3
+          ]
+        ]
+      },
+      "references-count": 36,
+      "journal-issue": {
+        "issue": "11",
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              11
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "5673"
+      ],
+      "URL": "https://doi.org/10.1007/s00586-018-5673-2",
+      "relation": {},
+      "ISSN": [
+        "0940-6719",
+        "1432-0932"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0940-6719"
+        },
+        {
+          "type": "electronic",
+          "value": "1432-0932"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            7,
+            3
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "15 March 2018",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "17 June 2018",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "3 July 2018",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Compliance with ethical standards"
+          }
+        },
+        {
+          "value": "C.G.M. reports receiving lecture fees from Pfizer. No other conflict of interest relevant to this article was declared.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Conflict of interest"
+          }
+        }
+      ]
+    }
+  }
+}

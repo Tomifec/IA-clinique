@@ -1,0 +1,524 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1155_2021_6678184.md",
+  "id": "evidence_import_refs_2025_09_12_10_1155_2021_6678184",
+  "doi": "10.1155/2021/6678184",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:55.739863Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            3
+          ]
+        ],
+        "date-time": "2025-09-03T10:49:07Z",
+        "timestamp": 1756896547940,
+        "version": "3.37.3"
+      },
+      "reference-count": 38,
+      "publisher": "Wiley",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                2,
+                5
+              ]
+            ],
+            "date-time": "2021-02-05T00:00:00Z",
+            "timestamp": 1612483200000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100001809",
+          "name": "National Natural Science Foundation of China",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "82030121",
+            "81973973",
+            "82004493",
+            "ZY (2018–2020)-CCCX-2004-02",
+            "Y2020017"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100001809",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "name": "Three-Year Action Plan for Further Speed Up the Development of Chinese Medicine in Shanghai",
+          "award": [
+            "82030121",
+            "81973973",
+            "82004493",
+            "ZY (2018–2020)-CCCX-2004-02",
+            "Y2020017"
+          ]
+        },
+        {
+          "DOI": "10.13039/501100010876",
+          "name": "Shanghai University of Traditional Chinese Medicine",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "82030121",
+            "81973973",
+            "82004493",
+            "ZY (2018–2020)-CCCX-2004-02",
+            "Y2020017"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100010876",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Evidence-Based Complementary and Alternative Medicine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            2,
+            5
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Objective. This meta-analysis aimed to evaluate the effects of manual therapy (MT) on cancer pain, so as to provide clinical evidence for application. Methods. Five English and Chinese databases were searched until February 29, 2020, for randomized controlled trials (RCTs) of MT for cancer pain. Articles published in the English or Chinese language were included. Two authors independently reviewed all articles and extracted the data, and any disagreements in the above process were discussed with other reviewers until the authors reached consensus. Review Manager 5.3 was used to calculate the effect size and 95% confidence intervals. This review was registered in PROSPERO, number CRD42020172053. Results. The intensity of cancer pain is our primary outcome measure, and compared with standard care, MT can significantly relieve the pain of patients with cancer (SMD, 0.63; 95% CI [0.18, 1.08]; <jats:inline-formula>\n                     <a:math xmlns:a=\"http://www.w3.org/1998/Math/MathML\" id=\"M1\">\n                        <a:mi>P</a:mi>\n                        <a:mo>=</a:mo>\n                        <a:mn>0.006</a:mn>\n                        <a:mo>&lt;</a:mo>\n                        <a:mn>0.01</a:mn>\n                     </a:math>\n                  </jats:inline-formula>); the effects of MT plus active activity were significantly different from AT alone (SMD, 0.79; 95% CI [0.28, 1.30]; <jats:inline-formula>\n                     <c:math xmlns:c=\"http://www.w3.org/1998/Math/MathML\" id=\"M2\">\n                        <c:mi>P</c:mi>\n                        <c:mo>=</c:mo>\n                        <c:mn>0.002</c:mn>\n                        <c:mo>&lt;</c:mo>\n                        <c:mn>0.01</c:mn>\n                     </c:math>\n                  </jats:inline-formula>); there was no statistical difference in the efficacy of MT and AT alone (SMD, -0.24; 95% CI [-1.09, 0.62]; <jats:inline-formula>\n                     <e:math xmlns:e=\"http://www.w3.org/1998/Math/MathML\" id=\"M3\">\n                        <e:mi>P</e:mi>\n                        <e:mo>=</e:mo>\n                        <e:mn>0.53</e:mn>\n                        <e:mo>&gt;</e:mo>\n                        <e:mn>0.05</e:mn>\n                     </e:math>\n                  </jats:inline-formula>). In other related symptoms, the above evidence cannot support that MT had a good effect on fatigue (SMD, 0.77; 95% CI [-0.09, 1.63]; <jats:inline-formula>\n                     <g:math xmlns:g=\"http://www.w3.org/1998/Math/MathML\" id=\"M4\">\n                        <g:mi>P</g:mi>\n                        <g:mo>=</g:mo>\n                        <g:mn>0.08</g:mn>\n                        <g:mo>&gt;</g:mo>\n                        <g:mn>0.05</g:mn>\n                     </g:math>\n                  </jats:inline-formula>), nausea (SMD, 0.24; 95% CI [-0.00, 0.48]; <jats:inline-formula>\n                     <i:math xmlns:i=\"http://www.w3.org/1998/Math/MathML\" id=\"M5\">\n                        <i:mi>P</i:mi>\n                        <i:mo>=</i:mo>\n                        <i:mn>0.05</i:mn>\n                     </i:math>\n                  </jats:inline-formula>), anxiety (SMD, 0.76; 95 % CI [-0.32, 1.84]; <jats:inline-formula>\n                     <k:math xmlns:k=\"http://www.w3.org/1998/Math/MathML\" id=\"M6\">\n                        <k:mi>P</k:mi>\n                        <k:mo>=</k:mo>\n                        <k:mn>0.17</k:mn>\n                        <k:mo>&gt;</k:mo>\n                        <k:mn>0.05</k:mn>\n                     </k:math>\n                  </jats:inline-formula>), and depression (SMD, 0.67; 95 % CI [-0.28, 1.62]; <jats:inline-formula>\n                     <m:math xmlns:m=\"http://www.w3.org/1998/Math/MathML\" id=\"M7\">\n                        <m:mi>P</m:mi>\n                        <m:mo>=</m:mo>\n                        <m:mn>0.17</m:mn>\n                        <m:mo>&gt;</m:mo>\n                        <m:mn>0.05</m:mn>\n                     </m:math>\n                  </jats:inline-formula>); however, MT intervention can improve physical function (n = 271; SMD, 0.35; 95 % CI [-0.04, 0.74]; <jats:inline-formula>\n                     <o:math xmlns:o=\"http://www.w3.org/1998/Math/MathML\" id=\"M8\">\n                        <o:mi>P</o:mi>\n                        <o:mo>=</o:mo>\n                        <o:mn>0.04</o:mn>\n                        <o:mo>&lt;</o:mo>\n                        <o:mn>0.05</o:mn>\n                     </o:math>\n                  </jats:inline-formula>) and global well-being (SMD, 0.50; 95 % CI [0.02, 0.98]; <jats:inline-formula>\n                     <q:math xmlns:q=\"http://www.w3.org/1998/Math/MathML\" id=\"M9\">\n                        <q:mi>P</q:mi>\n                        <q:mo>=</q:mo>\n                        <q:mn>0.04</q:mn>\n                        <q:mo>&lt;</q:mo>\n                        <q:mn>0.05</q:mn>\n                     </q:math>\n                  </jats:inline-formula>). In addition, MT had a significant effect on pain relief (SMD, 0.52; 95% CI [0.03, 1.01]; <jats:inline-formula>\n                     <s:math xmlns:s=\"http://www.w3.org/1998/Math/MathML\" id=\"M10\">\n                        <s:mi>P</s:mi>\n                        <s:mo>=</s:mo>\n                        <s:mn>0.04</s:mn>\n                        <s:mo>&lt;</s:mo>\n                        <s:mn>0.05</s:mn>\n                     </s:math>\n                  </jats:inline-formula>) and improvement of physical function (SMD, 0.28; 95% CI [0.02, 0.53]; <jats:inline-formula>\n                     <u:math xmlns:u=\"http://www.w3.org/1998/Math/MathML\" id=\"M11\">\n                        <u:mi>P</u:mi>\n                        <u:mo>=</u:mo>\n                        <u:mn>0.03</u:mn>\n                        <u:mo>&lt;</u:mo>\n                        <u:mn>0.05</u:mn>\n                     </u:math>\n                  </jats:inline-formula>) even after a period of time after treatment. Conclusion. MT was an effective intervention, which may have immediate effect on cancer pain and may improve physical function and global well-being. In the view of follow-up effects, MT had good effects for the reduction of pain and the recovery of physical function. However, because of limitations, the seemingly promising results should be interpreted with caution.</jats:p>",
+      "DOI": "10.1155/2021/6678184",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            2,
+            8
+          ]
+        ],
+        "date-time": "2021-02-08T22:39:43Z",
+        "timestamp": 1612823983000
+      },
+      "page": "1-14",
+      "source": "Crossref",
+      "is-referenced-by-count": 21,
+      "title": [
+        "Clinical Evidence for the Effects of Manual Therapy on Cancer Pain: A Systematic Review and Meta-Analysis"
+      ],
+      "prefix": "10.1155",
+      "volume": "2021",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-6814-2238",
+          "authenticated-orcid": true,
+          "given": "Chongjie",
+          "family": "Yao",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Yueyang Hospital of Integrated Traditional Chinese and Western Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, China"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8978-8575",
+          "authenticated-orcid": true,
+          "given": "Yanbin",
+          "family": "Cheng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Yueyang Hospital of Integrated Traditional Chinese and Western Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, China"
+            },
+            {
+              "name": "Research Institute of Tuina, Shanghai Academy of Traditional Chinese Medicine, Shanghai, China"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1392-2381",
+          "authenticated-orcid": true,
+          "given": "Qingguang",
+          "family": "Zhu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Yueyang Hospital of Integrated Traditional Chinese and Western Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, China"
+            },
+            {
+              "name": "Research Institute of Tuina, Shanghai Academy of Traditional Chinese Medicine, Shanghai, China"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3140-4721",
+          "authenticated-orcid": true,
+          "given": "Zhizhen",
+          "family": "Lv",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Yueyang Hospital of Integrated Traditional Chinese and Western Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, China"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6854-4202",
+          "authenticated-orcid": true,
+          "given": "Lingjun",
+          "family": "Kong",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Yueyang Hospital of Integrated Traditional Chinese and Western Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, China"
+            },
+            {
+              "name": "Research Institute of Tuina, Shanghai Academy of Traditional Chinese Medicine, Shanghai, China"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5241-6460",
+          "authenticated-orcid": true,
+          "given": "Min",
+          "family": "Fang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Yueyang Hospital of Integrated Traditional Chinese and Western Medicine, Shanghai University of Traditional Chinese Medicine, Shanghai, China"
+            },
+            {
+              "name": "Research Institute of Tuina, Shanghai Academy of Traditional Chinese Medicine, Shanghai, China"
+            },
+            {
+              "name": "College of Acupuncture and Tuina, Shanghai University of Traditional Chinese Medicine, Shanghai, China"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "reference": [
+        {
+          "key": "1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3322/caac.21492"
+        },
+        {
+          "key": "2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2217/fon-2016-0423"
+        },
+        {
+          "key": "3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2147/ceor.s181192"
+        },
+        {
+          "key": "4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2147/jpr.s97759"
+        },
+        {
+          "key": "5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0105900"
+        },
+        {
+          "key": "6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4103/0019-5049.130805"
+        },
+        {
+          "key": "7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.j1284"
+        },
+        {
+          "key": "8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.6004/jnccn.2019.0038"
+        },
+        {
+          "key": "9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1534735415572885"
+        },
+        {
+          "key": "10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00520-008-0569-z"
+        },
+        {
+          "key": "11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ctim.2016.06.003"
+        },
+        {
+          "key": "12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/pm/pnw100"
+        },
+        {
+          "key": "13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1188/12.onf.568-577"
+        },
+        {
+          "key": "14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0269215517730863"
+        },
+        {
+          "key": "15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pon.1508"
+        },
+        {
+          "key": "16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ctim.2016.01.001"
+        },
+        {
+          "key": "17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1155/2013/613279"
+        },
+        {
+          "key": "18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2017.03.002"
+        },
+        {
+          "issue": "1419",
+          "key": "19",
+          "first-page": "30914",
+          "article-title": "Using research to guide practice: the physiotherapy evidence database (PEDro)",
+          "volume": "S1413-3555",
+          "author": "A. M. Moseley",
+          "year": "2019",
+          "journal-title": "Brazilian Journal of Physical Therapy"
+        },
+        {
+          "key": "20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7314/apjcp.2013.14.6.3903"
+        },
+        {
+          "key": "21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1200/jco.2009.26.9860"
+        },
+        {
+          "key": "22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1089/acm.2012.0466"
+        },
+        {
+          "key": "23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ctcp.2015.04.005"
+        },
+        {
+          "key": "24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jbmt.2017.04.005"
+        },
+        {
+          "key": "25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2407-7-166"
+        },
+        {
+          "key": "26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.ncc.0000305694.74754.7b"
+        },
+        {
+          "key": "27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/0742-969x.2000.11882956"
+        },
+        {
+          "key": "28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1200/jco.2006.08.9987"
+        },
+        {
+          "key": "29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00520-012-1682-6"
+        },
+        {
+          "key": "30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00520-017-3742-4"
+        },
+        {
+          "key": "31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1534735418796954"
+        },
+        {
+          "issue": "12",
+          "key": "32",
+          "first-page": "37",
+          "article-title": "The effect of aromatherapy on the quality of life and psychology of patients with cancer pain",
+          "volume": "26",
+          "author": "Y. Qian",
+          "year": "2019",
+          "journal-title": "Dang Dai Hu Shi"
+        },
+        {
+          "issue": "32",
+          "key": "33",
+          "first-page": "27",
+          "article-title": "Clinical effect of acupoint massage on Neiguan and Zusanli combined with analgesic medication on remission of severe carcinomatous pain in patients with advanced cancer",
+          "volume": "4",
+          "author": "J. Chen",
+          "year": "2019",
+          "journal-title": "Shi Yong Lin Chuang Hu Li Xue Dian Zi Za Zhi"
+        },
+        {
+          "key": "34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-2648.2008.04712.x"
+        },
+        {
+          "key": "35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jpainsymman.2015.11.027"
+        },
+        {
+          "key": "36",
+          "article-title": "Massage with or without aromatherapy for symptom relief in people with cancer",
+          "volume": "6",
+          "author": "E. S. Shin",
+          "year": "2016",
+          "journal-title": "The Cochrane Database of Systematic Reviews"
+        },
+        {
+          "key": "37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10147-013-0635-5"
+        },
+        {
+          "key": "38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmpt.2018.12.007"
+        }
+      ],
+      "container-title": [
+        "Evidence-Based Complementary and Alternative Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://downloads.hindawi.com/journals/ecam/2021/6678184.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://downloads.hindawi.com/journals/ecam/2021/6678184.xml",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://downloads.hindawi.com/journals/ecam/2021/6678184.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            2,
+            8
+          ]
+        ],
+        "date-time": "2021-02-08T22:39:49Z",
+        "timestamp": 1612823989000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.hindawi.com/journals/ecam/2021/6678184/"
+        }
+      },
+      "subtitle": [],
+      "editor": [
+        {
+          "given": "Xia",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            2,
+            5
+          ]
+        ]
+      },
+      "references-count": 38,
+      "alternative-id": [
+        "6678184",
+        "6678184"
+      ],
+      "URL": "https://doi.org/10.1155/2021/6678184",
+      "relation": {},
+      "ISSN": [
+        "1741-4288",
+        "1741-427X"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1741-4288"
+        },
+        {
+          "type": "print",
+          "value": "1741-427X"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            2,
+            5
+          ]
+        ]
+      }
+    }
+  }
+}

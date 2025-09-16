@@ -1,0 +1,400 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_2519_jospt_2024_12081.md",
+  "id": "evidence_import_refs_2025_09_12_10_2519_jospt_2024_12081",
+  "doi": "10.2519/jospt.2024.12081",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:40.540695Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T22:19:47Z",
+        "timestamp": 1757456387076
+      },
+      "reference-count": 38,
+      "publisher": "Journal of Orthopaedic & Sports Physical Therapy (JOSPT)",
+      "issue": "5",
+      "content-domain": {
+        "domain": [
+          "www.jospt.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Orthopaedic &amp; Sports Physical Therapy"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            5
+          ]
+        ]
+      },
+      "abstract": "<jats:p> OBJECTIVE: To provide an updated overview of available prognostic models for people with chronic low back pain (LBP) in primary care. </jats:p><jats:p> DESIGN: Prognosis systematic review </jats:p><jats:p> LITERATURE SEARCH: We searched for relevant studies on MEDLINE, Embase, Web of Science, and CINAHL databases (up to July 13, 2022), and performed citation tracking in Web of Science. </jats:p><jats:p> STUDY SELECTION CRITERIA: We included observational (cohort or nested case-control) studies and randomized controlled trials that developed or validated prognostic models for adults with chronic LBP in primary care. The outcomes of interest were physical functioning, pain intensity, and health-related quality of life at any follow-up time-point. </jats:p><jats:p> DATA SYNTHESIS: Data were extracted using the CHecklist for critical Appraisal and data extraction for systematic Reviews of prediction Modelling Studies (CHARMS), and the Prediction model Risk of Bias Assessment Tool (PROBAST) tool was used to evaluate the risk of bias of the models. Due to the number of studies retrieved and the heterogeneity, we reported the results descriptively. </jats:p><jats:p> RESULTS: Ten studies (out of 5593 hits screened) with 34 models met our inclusion criteria, of which six are development studies and four are external validation studies. Five studies reported the area under the curve of the models (ranging from 0.48 to 0.84), whereas no study reported calibration indices. The most promising model is the Örebro Musculoskeletal Pain Screening Questionnaire Short-Form. </jats:p><jats:p> CONCLUSIONS: Given the high risk of bias and lack of external validation, we cannot recommend that clinicians use prognostic models for patients with chronic LBP in primary care settings. J Orthop Sports Phys Ther 2024;54(5):302-314. Epub 15 February 2024. doi:10.2519/jospt.2024.12081 </jats:p>",
+      "DOI": "10.2519/jospt.2024.12081",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            15
+          ]
+        ],
+        "date-time": "2024-02-15T08:30:47Z",
+        "timestamp": 1707985847000
+      },
+      "page": "302-314",
+      "update-policy": "http://dx.doi.org/10.2519/jospt.crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 6,
+      "title": [
+        "Prognostic Models for Chronic Low Back Pain Outcomes in Primary Care Are at High Risk of Bias and Lack Validation—High-Quality Studies Are Needed: A Systematic Review"
+      ],
+      "prefix": "10.2519",
+      "volume": "54",
+      "author": [
+        {
+          "given": "Yanyan",
+          "family": "Fu",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Daniel",
+          "family": "Feller",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bart",
+          "family": "Koes",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alessandro",
+          "family": "Chiarotto",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "1394",
+      "reference": [
+        {
+          "key": "bib1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jbmt.2018.06.007"
+        },
+        {
+          "key": "bib2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-015-3892-3"
+        },
+        {
+          "key": "bib3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMcp2032396"
+        },
+        {
+          "key": "bib4",
+          "first-page": "350g7594",
+          "author": "Collins GS",
+          "year": "2015",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "bib5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cmi.2022.07.019"
+        },
+        {
+          "key": "bib6",
+          "first-page": "356i6460",
+          "author": "Debray TP",
+          "year": "2017",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "bib7",
+          "unstructured": "Ewout WS.  Clinical Prediction Models : A Practical Approach to Development, Validation, and Updating. New York, NY: Springer; 2009."
+        },
+        {
+          "key": "bib8",
+          "first-page": "191",
+          "volume": "204",
+          "author": "Fuhro FF",
+          "year": "2021",
+          "journal-title": "J Orthop Sports Phys Ther."
+        },
+        {
+          "key": "bib9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/(SICI)1097-0258(19960229)15:4<361::AID-SIM168>3.0.CO;2-4"
+        },
+        {
+          "key": "bib10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2015.02.003"
+        },
+        {
+          "key": "bib12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2022.01.156"
+        },
+        {
+          "key": "bib13",
+          "first-page": "13143",
+          "author": "Innocenti T",
+          "year": "2021",
+          "journal-title": "J Clin Epidemiol."
+        },
+        {
+          "key": "bib14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2288-14-25"
+        },
+        {
+          "key": "bib15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12891-019-2467-6"
+        },
+        {
+          "key": "bib16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jphys.2018.02.009"
+        },
+        {
+          "key": "bib17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pmrj.12488"
+        },
+        {
+          "key": "bib18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00134-014-3227-6"
+        },
+        {
+          "key": "bib19",
+          "first-page": "1315",
+          "volume": "59",
+          "author": "Mandrekar JN",
+          "year": "2010",
+          "journal-title": "BMC Med."
+        },
+        {
+          "key": "bib20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pmed.1001744"
+        },
+        {
+          "key": "bib21",
+          "first-page": "338b375",
+          "author": "Moons KG",
+          "year": "2009",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "bib22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/M18-1377"
+        },
+        {
+          "key": "bib23",
+          "first-page": "16201",
+          "author": "Pagé I",
+          "year": "2015",
+          "journal-title": "BMC Musculoskelet. Disord."
+        },
+        {
+          "key": "bib24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/AJP.0000000000000478"
+        },
+        {
+          "key": "bib25",
+          "first-page": "338b604",
+          "author": "Royston P",
+          "year": "2009",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "bib26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jphys.2022.03.009"
+        },
+        {
+          "key": "bib27",
+          "first-page": "381e073538",
+          "author": "Snell KIE",
+          "year": "2023",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "bib28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jamanetworkopen.2020.37371"
+        },
+        {
+          "key": "bib29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pmed.1001381"
+        },
+        {
+          "key": "bib30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2012.3826"
+        },
+        {
+          "key": "bib31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pmed.1002019"
+        },
+        {
+          "key": "bib32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12916-019-1466-7"
+        },
+        {
+          "key": "bib33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2015.12.005"
+        },
+        {
+          "key": "bib34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0272989X14547233"
+        },
+        {
+          "key": "bib35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/AJP.0b013e31816719f5"
+        },
+        {
+          "key": "bib36",
+          "first-page": "377e069249",
+          "author": "Geloven N",
+          "year": "2022",
+          "journal-title": "BMJ."
+        },
+        {
+          "key": "bib37",
+          "first-page": "16205",
+          "author": "Vavrek D",
+          "year": "2015",
+          "journal-title": "BMC Musculoskelet Disord."
+        },
+        {
+          "key": "bib38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41572-018-0052-1"
+        },
+        {
+          "key": "bib39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/M18-1376"
+        }
+      ],
+      "container-title": [
+        "Journal of Orthopaedic &amp; Sports Physical Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.jospt.org/doi/pdf/10.2519/jospt.2024.12081",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            26
+          ]
+        ],
+        "date-time": "2024-08-26T13:49:19Z",
+        "timestamp": 1724680159000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.jospt.org/doi/10.2519/jospt.2024.12081"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            5
+          ]
+        ]
+      },
+      "references-count": 38,
+      "journal-issue": {
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              5
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.2519/jospt.2024.12081"
+      ],
+      "URL": "https://doi.org/10.2519/jospt.2024.12081",
+      "relation": {},
+      "ISSN": [
+        "0190-6011",
+        "1938-1344"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0190-6011"
+        },
+        {
+          "type": "electronic",
+          "value": "1938-1344"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            5
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2024-04-29",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

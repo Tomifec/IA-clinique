@@ -1,0 +1,49 @@
+{
+  "id": "evidence_exercice_therapeutique",
+  "doi": "10.1002/14651858.CD009790.pub2",
+  "pmid": "34580864",
+  "title": "Exercise therapy for chronic low back pain",
+  "journal": "Cochrane Database of Systematic Reviews",
+  "publication_date": "2021-09-28",
+  "checked_at": "2025-09-09",
+  "design": "meta-analysis",
+  "population": "Adultes, lombalgie chronique non spécifique >12 semaines",
+  "intervention": "Programme d'exercices individualisé",
+  "comparator": "Soins usuels / placebo / autres traitements conservateurs",
+  "outcomes": [
+    "douleur/100",
+    "fonction/100"
+  ],
+  "effect_sizes": [
+    {
+      "outcome": "douleur/100",
+      "model": "random",
+      "estimate": "-15.2",
+      "ci": "[-18.3;-12.2]",
+      "timepoint": "earliest"
+    },
+    {
+      "outcome": "fonction/100",
+      "model": "random",
+      "estimate": "-6.8",
+      "ci": "[-8.3;-5.3]",
+      "timepoint": "earliest"
+    }
+  ],
+  "heterogeneity": {
+    "notes": "hétérogénéité et biais de performance rapportés"
+  },
+  "risk_of_bias": {
+    "tool": "Cochrane RoB",
+    "rating": "variable",
+    "notes": "blinding difficile"
+  },
+  "sources": {
+    "crossref": {
+      "URL": "https://doi.org/10.1002/14651858.CD009790.pub2"
+    },
+    "pubmed": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34580864/"
+    }
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jmpt_2006_06_017.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jmpt_2006_06_017",
+  "doi": "10.1016/j.jmpt.2006.06.017",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:43.661255Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            16
+          ]
+        ],
+        "date-time": "2025-07-16T12:22:34Z",
+        "timestamp": 1752668554599
+      },
+      "reference-count": 24,
+      "publisher": "Elsevier BV",
+      "issue": "7",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2006,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2006-09-01T00:00:00Z",
+            "timestamp": 1157068800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Journal of Manipulative and Physiological Therapeutics"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2006,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jmpt.2006.06.017",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2006,
+            9,
+            2
+          ]
+        ],
+        "date-time": "2006-09-02T07:22:32Z",
+        "timestamp": 1157181752000
+      },
+      "page": "582-585",
+      "source": "Crossref",
+      "is-referenced-by-count": 26,
+      "title": [
+        "Spinal Epidural Hematoma After Spinal Manipulative Therapy in a Patient Undergoing Anticoagulant Therapy: A Case Report"
+      ],
+      "prefix": "10.1016",
+      "volume": "29",
+      "author": [
+        {
+          "given": "James M.",
+          "family": "Whedon",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Patricia B.",
+          "family": "Quebada",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "David W.",
+          "family": "Roberts",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tarek A.",
+          "family": "Radwan",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1355",
+          "DOI": "10.1056/NEJM197106172842405",
+          "article-title": "Spontaneous remitting spinal epidural hematoma in a patient on anticoagulants",
+          "volume": "284",
+          "author": "Harik",
+          "year": "1971",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "1405",
+          "DOI": "10.1056/NEJM199005173222001",
+          "article-title": "A randomized controlled trial of methylprednisolone or naloxone in the treatment of acute spinal cord injury: results of the Second National Acute Spinal Cord Injury Study",
+          "volume": "322",
+          "author": "Bracken",
+          "year": "1990",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "798",
+          "DOI": "10.3171/jns.1988.68.5.0798",
+          "article-title": "Traumatic epidural hematoma of the cervical spine: diagnosis with magnetic resonance imaging. Case report",
+          "volume": "68",
+          "author": "Pan",
+          "year": "1988",
+          "journal-title": "J Neurosurg"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "143",
+          "DOI": "10.3171/jns.1984.61.1.0143",
+          "article-title": "Spontaneous cervical epidural hematoma. A consideration of etiology",
+          "volume": "61",
+          "author": "Beatty",
+          "year": "1984",
+          "journal-title": "J Neurosurg"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "405",
+          "DOI": "10.1097/00007632-199303000-00020",
+          "article-title": "Chronic spontaneous cervical epidural hematoma. Report of a case presenting with only radicular symptoms",
+          "volume": "18",
+          "author": "Morio",
+          "year": "1993",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib6",
+          "first-page": "1043",
+          "article-title": "Cervical epidural hematoma after chiropractic manipulation in a healthy young woman: case report",
+          "volume": "39",
+          "author": "Segal",
+          "year": "1996",
+          "journal-title": "Neurosurgery"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "2058",
+          "DOI": "10.1001/jama.1970.03180110066020",
+          "article-title": "Spinal meningeal hematoma. Warfarin therapy, and chiropractic adjustment",
+          "volume": "214",
+          "author": "Darbert",
+          "year": "1970",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "278",
+          "DOI": "10.1227/00006123-198908000-00020",
+          "article-title": "Brown-Sequard syndrome associated with posttraumatic cervical epidural hematoma: case report and review of literature",
+          "volume": "25",
+          "author": "Zupruk",
+          "year": "1989",
+          "journal-title": "Neurosurgery"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "534",
+          "DOI": "10.1097/00002517-199912000-00015",
+          "article-title": "Thoracic epidural hematoma after spinal manipulation therapy",
+          "volume": "12",
+          "author": "Ruelle",
+          "year": "1999",
+          "journal-title": "J Spinal Disord"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "79",
+          "DOI": "10.1055/s-2004-818032",
+          "article-title": "Das ausgedehnte spinale epidurale hamatom—eine seltene komplikation nach chirotherapeutischer manipulationsbehandlung der halswirbelsaule",
+          "volume": "142",
+          "author": "Saxler",
+          "year": "2004",
+          "journal-title": "Z Orthop Ihre Grenzgeb"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "585",
+          "DOI": "10.1097/00005373-200203000-00033",
+          "article-title": "Cervical epidural hematoma after spinal manipulation therapy: case report",
+          "volume": "52",
+          "author": "Tseng",
+          "year": "2002",
+          "journal-title": "J Trauma"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib12",
+          "first-page": "627",
+          "article-title": "Cervical epidural hematoma caused by cervical twisting after epidural anesthesia: a case report",
+          "volume": "26",
+          "author": "Yagi",
+          "year": "1998",
+          "journal-title": "No Shinkei Geka"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "376",
+          "DOI": "10.1016/j.jclinane.2003.12.007",
+          "article-title": "Spinal epidural hematoma occurrence in the absence of known risk factors: a case series",
+          "volume": "16",
+          "author": "Cullen",
+          "year": "2004",
+          "journal-title": "J Clin Anesth"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "220",
+          "DOI": "10.1097/01.PHM.0000107498.91919.44",
+          "article-title": "Spinal epidural hematoma associated with oral anticoagulation therapy",
+          "volume": "83",
+          "author": "Kirazli",
+          "year": "2004",
+          "journal-title": "Am J Phys Med Rehabil"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "371",
+          "DOI": "10.1016/j.jclinane.2003.08.007",
+          "article-title": "Spontaneous spinal epidural hematoma in a pregnant patient",
+          "volume": "16",
+          "author": "Cywinski",
+          "year": "2004",
+          "journal-title": "J Clin Anesth"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "238",
+          "DOI": "10.1016/S0885-3924(00)00262-1",
+          "article-title": "Prospective investigations into the safety of spinal manipulation",
+          "volume": "21",
+          "author": "Ernst",
+          "year": "2001",
+          "journal-title": "J Pain Symptom Manage"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "566",
+          "DOI": "10.1016/S0002-9343(02)01068-9",
+          "article-title": "Risks associated with spinal manipulation",
+          "volume": "112",
+          "author": "Stevinson",
+          "year": "2002",
+          "journal-title": "Am J Med"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "73",
+          "DOI": "10.1227/00006123-199307000-00011",
+          "article-title": "A risk/benefit analysis of spinal manipulation therapy for relief of lumbar or cervical pain",
+          "volume": "33",
+          "author": "Powell",
+          "year": "1993",
+          "journal-title": "Neurosurgery"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib19",
+          "first-page": "429",
+          "article-title": "Spontaneous spinal epidural hematoma in a patient with a mechanical aortic valve taking warfarin",
+          "volume": "11",
+          "author": "Maingi",
+          "year": "1995",
+          "journal-title": "Can J Cardiol"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "166",
+          "DOI": "10.1177/107602960100700215",
+          "article-title": "Spontaneous cervical epidural hematoma associated with oral anticoagulant therapy",
+          "volume": "7",
+          "author": "Vaya",
+          "year": "2001",
+          "journal-title": "Clin Appl Thromb Hemost"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "1054",
+          "DOI": "10.1161/01.STR.32.5.1054",
+          "article-title": "Chiropractic manipulation and stroke: a population-based case-control study",
+          "volume": "32",
+          "author": "Rothwell",
+          "year": "2001",
+          "journal-title": "Stroke"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib22",
+          "series-title": "Principles and practice of chiropractic",
+          "first-page": "594",
+          "article-title": "Cerebrovascular complications of manipulation",
+          "author": "Terrett",
+          "year": "1992"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "1098",
+          "DOI": "10.1007/s00415-002-0783-4",
+          "article-title": "Stroke, cerebral artery dissection, and cervical spine manipulation therapy",
+          "volume": "249",
+          "author": "Haldeman",
+          "year": "2002",
+          "journal-title": "J Neurol"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.06.017_bib24",
+          "first-page": "905",
+          "article-title": "Arterial dissections following cervical manipulation: the chiropractic experience",
+          "volume": "165",
+          "author": "Haldeman",
+          "year": "2001",
+          "journal-title": "Can Med Assoc J"
+        }
+      ],
+      "container-title": [
+        "Journal of Manipulative and Physiological Therapeutics"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0161475406001801?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0161475406001801?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            1,
+            13
+          ]
+        ],
+        "date-time": "2019-01-13T12:24:31Z",
+        "timestamp": 1547382271000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0161475406001801"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2006,
+            9
+          ]
+        ]
+      },
+      "references-count": 24,
+      "journal-issue": {
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2006,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0161475406001801"
+      ],
+      "URL": "https://doi.org/10.1016/j.jmpt.2006.06.017",
+      "relation": {},
+      "ISSN": [
+        "0161-4754"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0161-4754"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2006,
+            9
+          ]
+        ]
+      }
+    }
+  }
+}

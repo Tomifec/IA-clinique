@@ -1,0 +1,780 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_rehab_2022_101631.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_rehab_2022_101631",
+  "doi": "10.1016/j.rehab.2022.101631",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:16.661718Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            2
+          ]
+        ],
+        "date-time": "2025-09-02T10:59:53Z",
+        "timestamp": 1756810793780,
+        "version": "3.37.3"
+      },
+      "reference-count": 37,
+      "publisher": "Elsevier BV",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2023-02-01T00:00:00Z",
+            "timestamp": 1675209600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2023-02-01T00:00:00Z",
+            "timestamp": 1675209600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                2,
+                2
+              ]
+            ],
+            "date-time": "2024-02-02T00:00:00Z",
+            "timestamp": 1706832000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 366,
+          "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2023-02-01T00:00:00Z",
+            "timestamp": 1675209600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2023-02-01T00:00:00Z",
+            "timestamp": 1675209600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2023-02-01T00:00:00Z",
+            "timestamp": 1675209600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2023-02-01T00:00:00Z",
+            "timestamp": 1675209600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2023-02-01T00:00:00Z",
+            "timestamp": 1675209600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100000069",
+          "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "5K12HD043483-18",
+            "R01AR074989"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000069",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100000002",
+          "name": "National Institutes of Health",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100000002",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100000062",
+          "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "1K01DK120631-01A1"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000062",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "clinicalkey.es",
+          "clinicalkey.com.au",
+          "clinicalkey.com",
+          "em-consulte.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Annals of Physical and Rehabilitation Medicine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            2
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.rehab.2022.101631",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            30
+          ]
+        ],
+        "date-time": "2022-11-30T08:51:31Z",
+        "timestamp": 1669798291000
+      },
+      "page": "101631",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 23,
+      "title": [
+        "Risk factors for rotator cuff disease: A systematic review and meta-analysis of diabetes, hypertension, and hyperlipidemia"
+      ],
+      "prefix": "10.1016",
+      "volume": "66",
+      "author": [
+        {
+          "given": "Ayush",
+          "family": "Giri",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9618-9968",
+          "authenticated-orcid": false,
+          "given": "Deirdre",
+          "family": "O'Hanlon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4362-8522",
+          "authenticated-orcid": false,
+          "given": "Nitin B.",
+          "family": "Jain",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0001",
+          "doi-asserted-by": "crossref",
+          "first-page": "158",
+          "DOI": "10.1302/2046-3758.17.2000115",
+          "article-title": "A systematic review of the histological and molecular changes in rotator cuff disease",
+          "volume": "1",
+          "author": "Dean",
+          "year": "2012",
+          "journal-title": "Bone Joint Res"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0002",
+          "doi-asserted-by": "crossref",
+          "first-page": "154",
+          "DOI": "10.1097/JOM.0000000000000929",
+          "article-title": "Association between cardiovascular disease risk factors and rotator cuff tendinopathy: a cross-sectional study",
+          "volume": "59",
+          "author": "Applegate",
+          "year": "2017",
+          "journal-title": "J Occup Environ Med"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0003",
+          "doi-asserted-by": "crossref",
+          "first-page": "605",
+          "DOI": "10.1002/ajim.22002",
+          "article-title": "Comparison of risk factors for shoulder pain and rotator cuff syndrome in the working population",
+          "volume": "55",
+          "author": "Bodin",
+          "year": "2012",
+          "journal-title": "Am J Ind Med"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0004",
+          "doi-asserted-by": "crossref",
+          "first-page": "e249",
+          "DOI": "10.1016/j.jse.2016.02.008",
+          "article-title": "Rotator cuff tear and sarcopenia: are these related?",
+          "volume": "25",
+          "author": "Chung",
+          "year": "2016",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0005",
+          "doi-asserted-by": "crossref",
+          "first-page": "S269",
+          "DOI": "10.1016/j.otsr.2015.06.011",
+          "article-title": "French Society For Shoulder and Elbow (SOFEC). Impact of cardiovascular risk factor on the prevalence and severity of symptomatic full-thickness rotator cuff tears",
+          "volume": "101",
+          "author": "Djerbi",
+          "year": "2015",
+          "journal-title": "Orthop Traumatol Surg Res"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0006",
+          "doi-asserted-by": "crossref",
+          "first-page": "1473",
+          "DOI": "10.1016/j.jdiacomp.2016.07.015",
+          "article-title": "Diabetes mellitus increases the risk of rotator cuff tear repair surgery: a population-based cohort study",
+          "volume": "30",
+          "author": "Huang",
+          "year": "2016",
+          "journal-title": "J Diabetes Complicat"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0007",
+          "doi-asserted-by": "crossref",
+          "first-page": "1792",
+          "DOI": "10.1016/j.ultrasmedbio.2010.08.006",
+          "article-title": "Comparison of ultrasonographic findings of the rotator cuff between diabetic and nondiabetic patients with chronic shoulder pain: a retrospective study",
+          "volume": "36",
+          "author": "Kang",
+          "year": "2010",
+          "journal-title": "Ultrasound Med Biol"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0008",
+          "doi-asserted-by": "crossref",
+          "first-page": "2126",
+          "DOI": "10.1177/0363546515588173",
+          "article-title": "The effect of diabetes, hyperlipidemia, and statins on the development of rotator cuff disease: a nationwide, 11-year, longitudinal, population-based follow-up study",
+          "volume": "43",
+          "author": "Lin",
+          "year": "2015",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0009",
+          "doi-asserted-by": "crossref",
+          "first-page": "284",
+          "DOI": "10.1136/bjsm.2008.049320",
+          "article-title": "Higher fasting plasma glucose levels within the normoglycaemic range and rotator cuff tears",
+          "volume": "43",
+          "author": "Longo",
+          "year": "2009",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0010",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.3109/17453674.2015.1119599",
+          "article-title": "Association between alcohol consumption and rotator cuff tear",
+          "volume": "87",
+          "author": "Passaretti",
+          "year": "2016",
+          "journal-title": "Acta Orthop"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0011",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1186/1471-2474-11-165",
+          "article-title": "Lifestyle and metabolic factors in relation to shoulder pain and rotator cuff tendinitis: a population-based study",
+          "volume": "11",
+          "author": "Rechardt",
+          "year": "2010",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0012",
+          "doi-asserted-by": "crossref",
+          "first-page": "502",
+          "DOI": "10.5271/sjweh.3179",
+          "article-title": "Personal, biomechanical, and psychosocial risk factors for rotator cuff syndrome in a working population",
+          "volume": "37",
+          "author": "Roquelaure",
+          "year": "2011",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0013",
+          "doi-asserted-by": "crossref",
+          "first-page": "1282",
+          "DOI": "10.1016/j.jse.2013.12.019",
+          "article-title": "Comorbidities in rotator cuff disease: a case-control study",
+          "volume": "23",
+          "author": "Titchener",
+          "year": "2014",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0014",
+          "doi-asserted-by": "crossref",
+          "first-page": "229",
+          "DOI": "10.1016/j.jse.2012.05.023",
+          "article-title": "The association between arterial hypertension and rotator cuff tear: the influence on rotator cuff tear sizes",
+          "volume": "22",
+          "author": "Gumina",
+          "year": "2013",
+          "journal-title": "J Should Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "1493",
+          "DOI": "10.1007/s11999-009-1151-9",
+          "article-title": "The effect of hypercholesterolemia on rotator cuff disease",
+          "volume": "468",
+          "author": "Abboud",
+          "year": "2010",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0016",
+          "doi-asserted-by": "crossref",
+          "first-page": "396",
+          "DOI": "10.1249/MSS.0000000000001120",
+          "article-title": "Shoulder synovial fluid lipoprotein levels and their relationship to the rotator cuff",
+          "volume": "49",
+          "author": "Davis",
+          "year": "2017",
+          "journal-title": "Med Sci Sports Exerc"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0017",
+          "doi-asserted-by": "crossref",
+          "first-page": "463",
+          "DOI": "10.5535/arm.2016.40.3.463",
+          "article-title": "Influence of hyperlipidemia on the treatment of supraspinatus tendinopathy with or without tear",
+          "volume": "40",
+          "author": "Kim",
+          "year": "2016",
+          "journal-title": "Ann Rehabil Med"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0018",
+          "doi-asserted-by": "crossref",
+          "first-page": "948",
+          "DOI": "10.1136/bjsm.2008.056440",
+          "article-title": "Triglycerides and total serum cholesterol in rotator cuff tears: do they matter?",
+          "volume": "44",
+          "author": "Longo",
+          "year": "2010",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0019",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1001/jamasurg.2021.0522",
+          "article-title": "MOOSE reporting guidelines for meta-analyses of observational studies",
+          "author": "Brooke",
+          "year": "2021",
+          "journal-title": "JAMA Surg"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0020",
+          "doi-asserted-by": "crossref",
+          "first-page": "629",
+          "DOI": "10.1136/bmj.315.7109.629",
+          "article-title": "Bias in meta-analysis detected by a simple, graphical test",
+          "volume": "315",
+          "author": "Egger",
+          "year": "1997",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0021",
+          "unstructured": "Wells G, Shea B, O'Connell D, Robertson J, Peterson J, Welch V, et al. The Newcastle-Ottawa Scale (NOS) for Assessing the Quality of Nonrandomized Studies in Meta- Analysis. Available from: http://www.ohri.ca/programs/clinical_epidemiology/oxford.htm"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0022",
+          "doi-asserted-by": "crossref",
+          "first-page": "1669",
+          "DOI": "10.1016/j.jse.2014.03.016",
+          "article-title": "The association between body fat and rotator cuff tear: the influence on rotator cuff tear sizes",
+          "volume": "23",
+          "author": "Gumina",
+          "year": "2014",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0023",
+          "doi-asserted-by": "crossref",
+          "first-page": "278",
+          "DOI": "10.1186/1471-2474-11-278",
+          "article-title": "Sonographic evaluation of the shoulder in asymptomatic elderly subjects with diabetes",
+          "volume": "11",
+          "author": "Abate",
+          "year": "2010",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0024",
+          "doi-asserted-by": "crossref",
+          "first-page": "301",
+          "DOI": "10.1016/j.coph.2004.01.007",
+          "article-title": "The AGE of the matrix: chemistry, consequence and cure",
+          "volume": "4",
+          "author": "DeGroot",
+          "year": "2004",
+          "journal-title": "Curr Opin Pharmacol"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0025",
+          "doi-asserted-by": "crossref",
+          "first-page": "11",
+          "DOI": "10.1016/j.bioorg.2006.07.005",
+          "article-title": "Non-enzymatic interactions of glyoxylate with lysine, arginine, and glucosamine: a study of advanced non-enzymatic glycation like compounds",
+          "volume": "35",
+          "author": "Dutta",
+          "year": "2007",
+          "journal-title": "Bioorg Chem"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0026",
+          "doi-asserted-by": "crossref",
+          "first-page": "23",
+          "DOI": "10.3181/00379727-218-44264",
+          "article-title": "Nonenzymatic glycation of collagen in aging and diabetes",
+          "volume": "218",
+          "author": "Reiser",
+          "year": "1998",
+          "journal-title": "Proc Soc Exp Biol Med"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0027",
+          "doi-asserted-by": "crossref",
+          "first-page": "816",
+          "DOI": "10.1161/hc0702.104183",
+          "article-title": "Advanced glycation end products activate endothelium through signal-transduction receptor RAGE: a mechanism for amplification of inflammatory responses",
+          "volume": "105",
+          "author": "Basta",
+          "year": "2002",
+          "journal-title": "Circulation"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0028",
+          "doi-asserted-by": "crossref",
+          "first-page": "597",
+          "DOI": "10.1161/CIRCULATIONAHA.106.621854",
+          "article-title": "Advanced glycation end products: sparking the development of diabetic vascular injury",
+          "volume": "114",
+          "author": "Goldin",
+          "year": "2006",
+          "journal-title": "Circulation"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0029",
+          "first-page": "740",
+          "article-title": "RAGE activation induces invasiveness of RA fibroblast-like synoviocytes in vitro",
+          "volume": "25",
+          "author": "Steenvoorden",
+          "year": "2007",
+          "journal-title": "Clin Exp Rheumatol"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0030",
+          "first-page": "274",
+          "article-title": "Current concepts of rotator cuff tendinopathy",
+          "volume": "9",
+          "author": "Factor",
+          "year": "2014",
+          "journal-title": "Int J Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0031",
+          "doi-asserted-by": "crossref",
+          "first-page": "96S",
+          "DOI": "10.1016/j.jse.2007.07.004",
+          "article-title": "Contrast-enhanced ultrasound characterization of the vascularity of the rotator cuff tendon: age- and activity-related changes in the intact asymptomatic rotator cuff",
+          "volume": "17",
+          "author": "Rudzki",
+          "year": "2008",
+          "journal-title": "J Should Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0032",
+          "first-page": "35",
+          "article-title": "The microvascular pattern of the supraspinatus tendon",
+          "author": "Lohr",
+          "year": "1990",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0033",
+          "doi-asserted-by": "crossref",
+          "first-page": "893",
+          "DOI": "10.1302/0301-620X.90B7.19918",
+          "article-title": "Measurement of blood flow in the rotator cuff using laser Doppler flowmetry",
+          "volume": "90",
+          "author": "Levy",
+          "year": "2008",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0034",
+          "doi-asserted-by": "crossref",
+          "first-page": "235",
+          "DOI": "10.1186/ar2723",
+          "article-title": "Pathogenesis of tendinopathies: inflammation or degeneration?",
+          "volume": "11",
+          "author": "Abate",
+          "year": "2009",
+          "journal-title": "Arthritis Res Ther"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0035",
+          "doi-asserted-by": "crossref",
+          "first-page": "380",
+          "DOI": "10.1002/jor.21255",
+          "article-title": "Cumulative effects of hypercholesterolemia on tendon biomechanics in a mouse model",
+          "volume": "29",
+          "author": "Beason",
+          "year": "2011",
+          "journal-title": "J Orthop Res"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0036",
+          "doi-asserted-by": "crossref",
+          "first-page": "236",
+          "DOI": "10.1111/j.1365-2362.2005.01484.x",
+          "article-title": "Pathogenesis, detection and treatment of Achilles tendon xanthomas",
+          "volume": "35",
+          "author": "Tsouli",
+          "year": "2005",
+          "journal-title": "Eur J Clin Invest"
+        },
+        {
+          "key": "10.1016/j.rehab.2022.101631_bib0037",
+          "doi-asserted-by": "crossref",
+          "first-page": "735",
+          "DOI": "10.1161/hc3101.091158",
+          "article-title": "Microcirculation in Hypertension",
+          "volume": "104",
+          "author": "Levy",
+          "year": "2001",
+          "journal-title": "Circulation"
+        }
+      ],
+      "container-title": [
+        "Annals of Physical and Rehabilitation Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1877065722000045?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1877065722000045?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            30
+          ]
+        ],
+        "date-time": "2024-05-30T02:02:13Z",
+        "timestamp": 1717034533000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1877065722000045"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            2
+          ]
+        ]
+      },
+      "references-count": 37,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              2
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1877065722000045"
+      ],
+      "URL": "https://doi.org/10.1016/j.rehab.2022.101631",
+      "relation": {},
+      "ISSN": [
+        "1877-0657"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1877-0657"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            2
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Risk factors for rotator cuff disease: A systematic review and meta-analysis of diabetes, hypertension, and hyperlipidemia",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Annals of Physical and Rehabilitation Medicine",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.rehab.2022.101631",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2022 Elsevier Masson SAS.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "101631"
+    }
+  }
+}

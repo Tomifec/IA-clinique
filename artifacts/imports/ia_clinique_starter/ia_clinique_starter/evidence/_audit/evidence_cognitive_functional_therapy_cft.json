@@ -1,0 +1,43 @@
+{
+  "id": "evidence_cognitive_functional_therapy_cft",
+  "doi": "10.1016/S0140-6736(23)00441-5",
+  "pmid": "37146623",
+  "title": "CFT with or without biofeedback versus usual care (RESTORE)",
+  "journal": "The Lancet",
+  "publication_date": "2023-06-03",
+  "checked_at": "2025-09-09",
+  "design": "randomized controlled trial",
+  "population": "Adultes avec lombalgie chronique invalidante; n~492",
+  "intervention": "CFT individualisée ≤7 séances/12w ± biofeedback; booster à 26w",
+  "comparator": "Soins usuels",
+  "outcomes": [
+    "RMDQ",
+    "QALYs",
+    "douleur"
+  ],
+  "effect_sizes": [
+    {
+      "outcome": "RMDQ 13w",
+      "model": "between-groups",
+      "estimate": "-4.6",
+      "ci": "[-5.9;-3.4]",
+      "timepoint": "13w"
+    }
+  ],
+  "heterogeneity": {
+    "notes": "essai unique"
+  },
+  "risk_of_bias": {
+    "tool": "CONSORT-based",
+    "rating": "performance",
+    "notes": "non aveuglé"
+  },
+  "sources": {
+    "crossref": {
+      "URL": "https://doi.org/10.1016/S0140-6736(23)00441-5"
+    },
+    "pubmed": {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37146623/"
+    }
+  }
+}

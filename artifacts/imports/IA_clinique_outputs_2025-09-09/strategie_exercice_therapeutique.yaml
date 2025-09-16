@@ -1,0 +1,6 @@
+id: strategie_exercice_therapeutique
+profil: "lombalgie persistante ou subaigue; adapter au phenotype"
+securite: { score: "faible", stop_rules: ["aggravation nette", "deficit progressif"] }
+test_sentinelle: ["NRS effort"]
+liens_evidence: ["evidence_exercice_therapeutique"]
+statut: "valide"

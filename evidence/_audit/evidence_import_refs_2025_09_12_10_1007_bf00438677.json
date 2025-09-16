@@ -1,0 +1,463 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1007_bf00438677.md",
+  "id": "evidence_import_refs_2025_09_12_10_1007_bf00438677",
+  "doi": "10.1007/BF00438677",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:21.878537Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            3
+          ]
+        ],
+        "date-time": "2025-09-03T10:10:29Z",
+        "timestamp": 1756894229057
+      },
+      "reference-count": 28,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                1975,
+                3,
+                1
+              ]
+            ],
+            "date-time": "1975-03-01T00:00:00Z",
+            "timestamp": 162864000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Virchows Arch. A Path. Anat. and Histol."
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            1975,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1007/bf00438677",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2004,
+            11,
+            12
+          ]
+        ],
+        "date-time": "2004-11-12T03:29:57Z",
+        "timestamp": 1100230197000
+      },
+      "page": "51-58",
+      "source": "Crossref",
+      "is-referenced-by-count": 97,
+      "title": [
+        "Calcifying tendinitis, an active cell-mediated calcification"
+      ],
+      "prefix": "10.1007",
+      "volume": "366",
+      "author": [
+        {
+          "given": "Hans K.",
+          "family": "Uhthoff",
+          "sequence": "first",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            1975,
+            3,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "BF00438677_CR1",
+          "volume-title": "The shoulder",
+          "author": "E. A. Codman",
+          "year": "1934",
+          "unstructured": "Codman, E. A.: The shoulder. Boston: Thomas Todd 1934"
+        },
+        {
+          "key": "BF00438677_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "603",
+          "DOI": "10.1016/S0002-9610(38)91106-7",
+          "volume": "42",
+          "author": "E. A. Codman",
+          "year": "1938",
+          "unstructured": "Codman, E. A.: Rupture of the supraspinatus. Amer. J. Surg. 42, 603–626 (1938)",
+          "journal-title": "Amer. J. Surg."
+        },
+        {
+          "key": "BF00438677_CR3",
+          "doi-asserted-by": "crossref",
+          "first-page": "314",
+          "DOI": "10.1302/0301-620X.46B2.314",
+          "volume": "46",
+          "author": "R. E. Cotton",
+          "year": "1964",
+          "unstructured": "Cotton, R. E., Rideout, D. F.: Tear of the humeral rotator cuff. J. Bone Jt Surg. (Br.) 46, 314–328 (1964)",
+          "journal-title": "J. Bone Jt Surg. (Br.)"
+        },
+        {
+          "key": "BF00438677_CR4",
+          "first-page": "5",
+          "volume": "22",
+          "author": "S. DeSèze",
+          "year": "1970",
+          "unstructured": "DeSèze, S., Welfling, J.: Tendinites calcifiantes. Rhumatologie 22, 5–14 (1970)",
+          "journal-title": "Rhumatologie"
+        },
+        {
+          "key": "BF00438677_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "56",
+          "DOI": "10.1016/0002-9610(57)90618-9",
+          "volume": "95",
+          "author": "M. S. Friedman",
+          "year": "1957",
+          "unstructured": "Friedman, M. S.: Calcified tendinitis of the shoulder. Amer. J. Surg. 95, 56–61 (1957)",
+          "journal-title": "Amer. J. Surg."
+        },
+        {
+          "key": "BF00438677_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "66",
+          "DOI": "10.1097/00003086-197003000-00005",
+          "volume": "69",
+          "author": "G. Gabbiani",
+          "year": "1970",
+          "unstructured": "Gabbiani, G., Tuchweber, B.: Studies of the mechanism of calcergy. Clin. Orthop. 69, 66–74 (1970)",
+          "journal-title": "Clin. Orthop."
+        },
+        {
+          "key": "BF00438677_CR7",
+          "first-page": "414",
+          "volume": "251",
+          "author": "E. Glatthaar",
+          "year": "1938-1939",
+          "unstructured": "Glatthaar, E.: Zur Pathologie der Periarthritis humeroscapularis. Dtsch. Z. Chir. 251, 414–433 (1938-1939)",
+          "journal-title": "Dtsch. Z. Chir."
+        },
+        {
+          "key": "BF00438677_CR8",
+          "unstructured": "Johnson, L.: Mineralization of the turkey leg tendon. I. Histology and histochemistry of mineralization. In: Calcification of biological systems, ed. R. F. Sognaes. American Ass. for Advancement of Science 64, 117, Washington, D.C. 1960"
+        },
+        {
+          "key": "BF00438677_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "354",
+          "DOI": "10.1097/00000658-194608000-00020",
+          "volume": "125",
+          "author": "H. L. McLaughlin",
+          "year": "1946",
+          "unstructured": "McLaughlin, H. L.: Lesions of the musculotendinous cuff of the shoulder. III. Observations on the pathology, course and treatment of calcific deposits. Ann. Surg. 125, 354–362 (1946)",
+          "journal-title": "Ann. Surg."
+        },
+        {
+          "key": "BF00438677_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "1501",
+          "DOI": "10.1016/S0039-6109(16)37135-3",
+          "volume": "43",
+          "author": "H. L. McLaughlin",
+          "year": "1963",
+          "unstructured": "McLaughlin, H. L.: The selection of calcium deposits for operation: The techniques and results of operation. Surg. Clin. N. Amer. 43, 1501–1504 (1963)",
+          "journal-title": "Surg. Clin. N. Amer."
+        },
+        {
+          "key": "BF00438677_CR11",
+          "doi-asserted-by": "crossref",
+          "first-page": "76",
+          "DOI": "10.2106/00004623-195133010-00005",
+          "volume": "A33",
+          "author": "H. F. McLaughlin",
+          "year": "1951",
+          "unstructured": "McLaughlin, H. F., Asherman, E. G.: Lesion of the musculotendinous cuff of the shoulder. IV. Some observation based upon the results of surgical repair. J. Bone Jt Surg. (Am.) A33, 76–86 (1951)",
+          "journal-title": "J. Bone Jt Surg. (Am.)"
+        },
+        {
+          "key": "BF00438677_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "646",
+          "DOI": "10.1001/archsurg.1937.01190160028002",
+          "volume": "35",
+          "author": "A. W. Meyer",
+          "year": "1937",
+          "unstructured": "Meyer, A. W.: Chronic functional lesions of the shoulder. Arch. Surg. 35, 646–674 (1937)",
+          "journal-title": "Arch. Surg."
+        },
+        {
+          "key": "BF00438677_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "1521",
+          "DOI": "10.1016/S0039-6109(16)37138-9",
+          "volume": "43",
+          "author": "H. F. Moseley",
+          "year": "1963",
+          "unstructured": "Moseley, H. F.: The vascular supply of the rotator cuff. Surg. Clin. N. Amer. 43, 1521–1522 (1963)",
+          "journal-title": "Surg. Clin. N. Amer."
+        },
+        {
+          "key": "BF00438677_CR14",
+          "doi-asserted-by": "crossref",
+          "first-page": "780",
+          "DOI": "10.1302/0301-620X.45B4.780",
+          "volume": "B45",
+          "author": "H. F. Moseley",
+          "year": "1963",
+          "unstructured": "Moseley, H. F., Goldie, I.: The arterial pattern of the rotator cuff of the shoulder. J. Bone Jt Surg. (Br.) B45, 780–789 (1963)",
+          "journal-title": "J. Bone Jt Surg. (Br.)"
+        },
+        {
+          "key": "BF00438677_CR15",
+          "first-page": "41",
+          "volume": "A54",
+          "author": "C. S. Neer II",
+          "year": "1972",
+          "unstructured": "Neer II, C. S.: Anterior acromioplasty for the chronic impingement syndrome in the shoulder. J. Bone Joint Surg. (Am.) A54, 41–50 (1972)",
+          "journal-title": "J. Bone Joint Surg. (Am.)"
+        },
+        {
+          "key": "BF00438677_CR16",
+          "first-page": "1",
+          "volume": "181",
+          "author": "O. Ollson",
+          "year": "1953",
+          "unstructured": "Ollson, O.: Degenerative changes of the shoulder and their connection with shoulder pain. Acta chir. scand., Suppl. 181, 1–130 (1953)",
+          "journal-title": "Acta chir. scand., Suppl."
+        },
+        {
+          "key": "BF00438677_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "50",
+          "DOI": "10.1001/archsurg.1951.01250030053006",
+          "volume": "62",
+          "author": "H. E. Pedersen",
+          "year": "1951",
+          "unstructured": "Pedersen, H. E., Key, J. A.: Pathology of calcareous tendinitis and subdeltoid bursitis. Arch. Surg. 62, 50–63 (1951)",
+          "journal-title": "Arch. Surg."
+        },
+        {
+          "key": "BF00438677_CR18",
+          "doi-asserted-by": "crossref",
+          "first-page": "540",
+          "DOI": "10.1302/0301-620X.52B3.540",
+          "volume": "B52",
+          "author": "J. B. Rathbun",
+          "year": "1970",
+          "unstructured": "Rathbun, J. B., MacNab, I.: The microvascular pattern of the rotator cuff. J. Bone Jt Surg. (Br.) B52, 540–553 (1970)",
+          "journal-title": "J. Bone Jt Surg. (Br.)"
+        },
+        {
+          "key": "BF00438677_CR19",
+          "first-page": "261",
+          "volume": "18",
+          "author": "C. Sandström",
+          "year": "1937",
+          "unstructured": "Sandström, C., Wahlgren, F.: Beitrag zur Kenntnis der „Peritendinitis calcarea” (sogen. „Bursitis calculosa”) speziell vom pathologisch-histologischen Gesichtspunkt. Acta radiol. (Stockh.) 18, 261–296 (1937)",
+          "journal-title": "Acta radiol. (Stockh.)"
+        },
+        {
+          "key": "BF00438677_CR20",
+          "volume-title": "Texbook of disorders and injuries of the musculoskeletal system",
+          "author": "R. Salter",
+          "year": "1970",
+          "unstructured": "Salter, R.: Texbook of disorders and injuries of the musculoskeletal system. Baltimore: Williams and Wilkins 1970"
+        },
+        {
+          "key": "BF00438677_CR21",
+          "first-page": "211",
+          "volume": "29",
+          "author": "H. Schaer",
+          "year": "1936",
+          "unstructured": "Schaer, H.: Die Periarthritis humeroscapularis. Ergeb. Chir. Orthop. 29, 211–309 (1936)",
+          "journal-title": "Ergeb. Chir. Orthop."
+        },
+        {
+          "key": "BF00438677_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "28",
+          "DOI": "10.1097/00003086-197003000-00003",
+          "volume": "69",
+          "author": "H. Selye",
+          "year": "1970",
+          "unstructured": "Selye, H., Berczi, I.: The present status of calciphylaxis and calcergy. Clin. Orthop. 69, 28–54 (1970)",
+          "journal-title": "Clin. Orthop."
+        },
+        {
+          "key": "BF00438677_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "219",
+          "DOI": "10.1002/art.1780050302",
+          "volume": "5",
+          "author": "H. Selye",
+          "year": "1962",
+          "unstructured": "Selye, H., Gentile, G., Veilleux, R.: An experimental model of calcareous subdeltoid bursitis induced by calciphylaxis. Arthritis and Rheum. 5, 219–225 (1962)",
+          "journal-title": "Arthritis and Rheum."
+        },
+        {
+          "key": "BF00438677_CR24",
+          "volume-title": "Arthritis and allied conditions",
+          "author": "O. Steinbrocker",
+          "year": "1972",
+          "unstructured": "Steinbrocker, O.: The painful shoulder. In: Arthritis and allied conditions, 8th edit., ed. J. E. Hollander. Philadelphia: Lea and Febiger 1972",
+          "edition": "8th edit."
+        },
+        {
+          "key": "BF00438677_CR25",
+          "first-page": "208",
+          "volume-title": "Immune reactions and experimental models",
+          "author": "H. K. Uhthoff",
+          "year": "1973",
+          "unstructured": "Uhthoff, H. K.: The process of ossification of vertebral ligaments in experimental adjuvantinduced arthritis. In: Immune reactions and experimental models, ed. D. A. Duncan, p. 208–217. Toronto: University of Toronto Press 1973"
+        },
+        {
+          "key": "BF00438677_CR26",
+          "first-page": "210",
+          "volume": "63",
+          "author": "M. R. Urist",
+          "year": "1969",
+          "unstructured": "Urist, M. R., De La Sierra, J., Strates, B. S.: The substratum for new bone formation in tendon. Clin. Orthop. 63, 210–221 (1969)",
+          "journal-title": "Clin. Orthop."
+        },
+        {
+          "key": "BF00438677_CR27",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.2106/00004623-197456010-00002",
+          "volume": "A56",
+          "author": "G. L. Wolfgang",
+          "year": "1974",
+          "unstructured": "Wolfgang, G. L.: Surgical repair of tears of the rotator cuff of the shoulder. J. Bone Jt Surg. (Am.) A56, 14–26 (1974)",
+          "journal-title": "J. Bone Jt Surg. (Am.)"
+        },
+        {
+          "key": "BF00438677_CR28",
+          "first-page": "259",
+          "volume": "99",
+          "author": "L. Wrede",
+          "year": "1912",
+          "unstructured": "Wrede, L.: Ueber Kalkablagerungen in der Umgebung des Schultergelenks und ihre Beziehungen zur Periarthritis scapulo-humeralis. Langenbecks Arch. klin. Chir. 99, 259–272 (1912)",
+          "journal-title": "Langenbecks Arch. klin. Chir."
+        }
+      ],
+      "container-title": [
+        "Virchows Archiv"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/BF00438677.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1007/BF00438677/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/BF00438677",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            4,
+            4
+          ]
+        ],
+        "date-time": "2019-04-04T00:37:03Z",
+        "timestamp": 1554338223000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://link.springer.com/10.1007/BF00438677"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            1975,
+            3
+          ]
+        ]
+      },
+      "references-count": 28,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              1975,
+              3
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "BF00438677"
+      ],
+      "URL": "https://doi.org/10.1007/bf00438677",
+      "relation": {},
+      "ISSN": [
+        "0945-6317",
+        "1432-2307"
+      ],
+      "issn-type": [
+        {
+          "value": "0945-6317",
+          "type": "print"
+        },
+        {
+          "value": "1432-2307",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            1975,
+            3
+          ]
+        ]
+      }
+    }
+  }
+}

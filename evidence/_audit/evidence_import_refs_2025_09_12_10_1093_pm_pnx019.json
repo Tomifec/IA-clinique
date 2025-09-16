@@ -1,0 +1,1054 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1093_pm_pnx019.md",
+  "id": "evidence_import_refs_2025_09_12_10_1093_pm_pnx019",
+  "doi": "10.1093/pm/pnx019",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:24.987149Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            23
+          ]
+        ],
+        "date-time": "2025-07-23T12:57:16Z",
+        "timestamp": 1753275436763
+      },
+      "reference-count": 66,
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "5",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            5
+          ]
+        ]
+      },
+      "DOI": "10.1093/pm/pnx019",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2017,
+            1,
+            30
+          ]
+        ],
+        "date-time": "2017-01-30T13:28:45Z",
+        "timestamp": 1485782925000
+      },
+      "page": "947-958",
+      "source": "Crossref",
+      "is-referenced-by-count": 51,
+      "title": [
+        "The ACTTION–APS–AAPM Pain Taxonomy (AAAPT) Multidimensional Approach to Classifying Acute Pain Conditions"
+      ],
+      "prefix": "10.1093",
+      "volume": "18",
+      "author": [
+        {
+          "given": "Michael L.",
+          "family": "Kent",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Patrick J.",
+          "family": "Tighe",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Inna",
+          "family": "Belfer",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Timothy J.",
+          "family": "Brennan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stephen",
+          "family": "Bruehl",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Chad M.",
+          "family": "Brummett",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "suffix": "III",
+          "given": "Chester C.",
+          "family": "Buckenmaier",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Asokumar",
+          "family": "Buvanendran",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Robert I.",
+          "family": "Cohen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Paul",
+          "family": "Desjardins",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "David",
+          "family": "Edwards",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Roger",
+          "family": "Fillingim",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jennifer",
+          "family": "Gewandter",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Debra B.",
+          "family": "Gordon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Robert W.",
+          "family": "Hurley",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Henrik",
+          "family": "Kehlet",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "John D.",
+          "family": "Loeser",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sean",
+          "family": "Mackey",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Samuel A.",
+          "family": "McLean",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rosemary",
+          "family": "Polomano",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Siamak",
+          "family": "Rahman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Srinivasa",
+          "family": "Raja",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michael",
+          "family": "Rowbotham",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Santhanam",
+          "family": "Suresh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bernard",
+          "family": "Schachtel",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kristin",
+          "family": "Schreiber",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mark",
+          "family": "Schumacher",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Brett",
+          "family": "Stacey",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Steven",
+          "family": "Stanos",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Knox",
+          "family": "Todd",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Dennis C.",
+          "family": "Turk",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Steven J.",
+          "family": "Weisman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christopher",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Daniel B.",
+          "family": "Carr",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Robert H.",
+          "family": "Dworkin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gregory",
+          "family": "Terman",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "286",
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            5,
+            8
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "3",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B1",
+          "doi-asserted-by": "crossref",
+          "first-page": "241",
+          "DOI": "10.1016/j.jpain.2014.01.004",
+          "article-title": "The ACTTION-American Pain Society Pain Taxonomy (AAPT): An evidence-based and multidimensional approach to classifying chronic pain conditions",
+          "volume": "15",
+          "year": "2014",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B2",
+          "year": "1994"
+        },
+        {
+          "issue": "9",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B3",
+          "first-page": "1806",
+          "article-title": "Acute pain medicine in the United States: A status report",
+          "volume": ";16",
+          "year": "2015",
+          "journal-title": "Pain Med"
+        },
+        {
+          "issue": "2",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B4",
+          "doi-asserted-by": "crossref",
+          "first-page": "534",
+          "DOI": "10.1213/01.ANE.0000068822.10113.9E",
+          "article-title": "Postoperative pain experience: Results from a national survey suggest postoperative pain continues to be undermanaged",
+          "volume": "97",
+          "year": "2003",
+          "journal-title": "Anesth Analg"
+        },
+        {
+          "issue": "12",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B5",
+          "doi-asserted-by": "crossref",
+          "first-page": "2277",
+          "DOI": "10.1111/pme.12751",
+          "article-title": "The incidence and severity of postoperative pain following inpatient surgery",
+          "volume": "16",
+          "year": "2015",
+          "journal-title": "Pain Med"
+        },
+        {
+          "issue": "3",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B6",
+          "doi-asserted-by": "crossref",
+          "first-page": "171",
+          "DOI": "10.1016/S0099-1767(99)70200-X",
+          "article-title": "A prospective study of ED pain management practices and the patient's perspective",
+          "volume": "25",
+          "year": "1999",
+          "journal-title": "J Emerg Nurs"
+        },
+        {
+          "issue": "3",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B7",
+          "doi-asserted-by": "crossref",
+          "first-page": "377",
+          "DOI": "10.1016/S0736-4679(98)00012-2",
+          "article-title": "One-week survey of pain intensity on admission to and discharge from the emergency department: A pilot study",
+          "volume": "16",
+          "year": "1998",
+          "journal-title": "J Emerg Med"
+        },
+        {
+          "issue": "6",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B8",
+          "doi-asserted-by": "crossref",
+          "first-page": "460",
+          "DOI": "10.1016/j.jpain.2006.12.005",
+          "article-title": "Pain in the emergency department: Results of the Pain and Emergency Medicine Initiative (PEMI) multicenter study",
+          "volume": "8",
+          "year": "2007",
+          "journal-title": "J Pain"
+        },
+        {
+          "issue": "3",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B9",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1053/ajem.2002.32643",
+          "article-title": "The high prevalence of pain in emergency medical care",
+          "volume": "20",
+          "year": "2002",
+          "journal-title": "Am J Emerg Med"
+        },
+        {
+          "issue": "5",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B10",
+          "doi-asserted-by": "crossref",
+          "first-page": "1258",
+          "DOI": "10.1097/00000539-200211000-00029",
+          "article-title": "Acute postoperative pain management at home after ambulatory surgery: A French pilot survey of general practitioners' views",
+          "volume": "95",
+          "year": "2002",
+          "journal-title": "Anesth Analg"
+        },
+        {
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B11",
+          "year": "2011"
+        },
+        {
+          "issue": "12",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B12",
+          "doi-asserted-by": "crossref",
+          "first-page": "1859",
+          "DOI": "10.1111/j.1526-4637.2010.00983.x",
+          "article-title": "Causes and consequences of inadequate management of acute pain",
+          "volume": "11",
+          "year": "2010",
+          "journal-title": "Pain Med"
+        },
+        {
+          "issue": "9",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1830",
+          "DOI": "10.1016/j.apmr.2008.04.009",
+          "article-title": "Standards of care for acute and chronic musculoskeletal pain: The bone and joint decade (2000–2010)",
+          "volume": "89",
+          "year": "2008",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "issue": "1",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B14",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.15585/mmwr.rr6501e1",
+          "article-title": "CDC guideline for prescribing opioids for chronic pain—United States, 2016",
+          "volume": "65",
+          "year": "2016",
+          "journal-title": "MMWR Recomm Rep"
+        },
+        {
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B15",
+          "author": "Interagency Pain Research Coordinating Committee. National pain strategy",
+          "year": "2015"
+        },
+        {
+          "issue": "5",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B16",
+          "doi-asserted-by": "crossref",
+          "first-page": "723",
+          "DOI": "10.1586/ern.09.20",
+          "article-title": "Transition from acute to chronic postsurgical pain: Risk factors and protective factors",
+          "volume": "9",
+          "year": "2009",
+          "journal-title": "Expert Rev Neurother"
+        },
+        {
+          "issue": "6",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B17",
+          "doi-asserted-by": "crossref",
+          "first-page": "855",
+          "DOI": "10.1038/clpt.2011.45",
+          "article-title": "Cardiovascular and gastrointestinal safety of NSAIDs: A systematic review of meta-analyses of randomized clinical trials",
+          "volume": "89",
+          "year": "2011",
+          "journal-title": "Clin Pharmacol Ther"
+        },
+        {
+          "issue": "1",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B18",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1097/MCG.0000000000000432",
+          "article-title": "NSAID-induced gastrointestinal injury: A focused update for clinicians",
+          "volume": "50",
+          "year": "2016",
+          "journal-title": "J Clin Gastroenterol"
+        },
+        {
+          "issue": "6",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B19",
+          "doi-asserted-by": "crossref",
+          "first-page": "611",
+          "DOI": "10.1097/MOG.0b013e32833e91eb",
+          "article-title": "NSAID-induced gastrointestinal and cardiovascular injury",
+          "volume": "26",
+          "year": "2010",
+          "journal-title": "Curr Opin Gastroenterol"
+        },
+        {
+          "issue": "10",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1182",
+          "DOI": "10.1111/aas.12380",
+          "article-title": "Adverse effects of perioperative paracetamol, NSAIDs, glucocorticoids, gabapentinoids and their combinations: A topical review",
+          "volume": "58",
+          "year": "2014",
+          "journal-title": "Acta Anaesthesiol Scand"
+        },
+        {
+          "issue": "5",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B21",
+          "doi-asserted-by": "crossref",
+          "first-page": "478",
+          "DOI": "10.1007/s11606-015-3539-4",
+          "article-title": "Opioid prescribing at hospital discharge contributes to chronic opioid use",
+          "volume": "31",
+          "year": "2016",
+          "journal-title": "J Gen Intern Med"
+        },
+        {
+          "issue": "1",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B22",
+          "doi-asserted-by": "crossref",
+          "first-page": "16",
+          "DOI": "10.5055/jom.2006.0003",
+          "article-title": "Iatrogenic addiction in patients treated for acute or subacute pain: A systematic review",
+          "volume": "2",
+          "year": "2006",
+          "journal-title": "J Opioid Manag"
+        },
+        {
+          "issue": "15",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B23",
+          "doi-asserted-by": "crossref",
+          "first-page": "1654",
+          "DOI": "10.1001/jama.2016.0130",
+          "article-title": "Opioids prescribed after low-risk surgical procedures in the United States, 2004–2012",
+          "volume": "315",
+          "year": "2016",
+          "journal-title": "JAMA"
+        },
+        {
+          "issue": "9",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B24",
+          "doi-asserted-by": "crossref",
+          "first-page": "1286",
+          "DOI": "10.1001/jamainternmed.2016.3298",
+          "article-title": "Incidence of and risk factors for chronic opioid use among opioid-naive patients in the postoperative period",
+          "volume": "176",
+          "year": "2016",
+          "journal-title": "JAMA Intern Med"
+        },
+        {
+          "issue": "2",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B25",
+          "first-page": "829696",
+          "article-title": "Factors associated with opioid use in a cohort of patients presenting for surgery",
+          "volume": "2015",
+          "year": "2015",
+          "journal-title": "Pain Res Treat"
+        },
+        {
+          "issue": "6",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B26",
+          "doi-asserted-by": "crossref",
+          "first-page": "954",
+          "DOI": "10.1111/pme.12439",
+          "article-title": "Self‐loathing aspects of depression reduce postoperative opioid cessation rate",
+          "volume": "15",
+          "year": "2014",
+          "journal-title": "Pain Med"
+        },
+        {
+          "issue": "3",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B27",
+          "doi-asserted-by": "crossref",
+          "first-page": "694.",
+          "DOI": "10.1213/ANE.0b013e31825c049f",
+          "article-title": "A pilot cohort study of the determinants of longitudinal opioid use after surgery",
+          "volume": "115",
+          "year": "2012",
+          "journal-title": "Anesth Analg"
+        },
+        {
+          "issue": "6",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B28",
+          "doi-asserted-by": "crossref",
+          "first-page": "1073",
+          "DOI": "10.1016/j.jpainsymman.2010.08.016",
+          "article-title": "Studies comparing numerical rating scales, verbal rating scales, and visual analogue scales for assessment of pain intensity in adults: A systematic literature review",
+          "volume": "41",
+          "year": "2011",
+          "journal-title": "J Pain Symptom Manage"
+        },
+        {
+          "issue": "2",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B29",
+          "doi-asserted-by": "crossref",
+          "first-page": "288",
+          "DOI": "10.1097/j.pain.0000000000000375",
+          "article-title": "Research design considerations for single-dose analgesic clinical trials in acute pain: IMMPACT recommendations",
+          "volume": "157",
+          "year": "2016",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "2",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B30",
+          "doi-asserted-by": "crossref",
+          "first-page": "257",
+          "DOI": "10.1016/j.jpain.2010.08.005",
+          "article-title": "Improving individual measurement of postoperative pain: The pain trajectory",
+          "volume": "12",
+          "year": "2011",
+          "journal-title": "J Pain"
+        },
+        {
+          "issue": "2",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B31",
+          "doi-asserted-by": "crossref",
+          "first-page": "158",
+          "DOI": "10.1016/j.jpain.2015.10.023",
+          "article-title": "Research gaps in practice guidelines for acute postoperative pain management in adults: Findings from a review of the evidence for an American Pain Society clinical practice guideline",
+          "volume": "17",
+          "year": "2016",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B32",
+          "author": "Administration UFAD",
+          "year": "2014"
+        },
+        {
+          "issue": "6",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B33",
+          "doi-asserted-by": "crossref",
+          "first-page": "842",
+          "DOI": "10.1093/bja/aeq265",
+          "article-title": "Efficacy and safety of paravertebral blocks in breast surgery: A meta-analysis of randomized controlled trials",
+          "volume": "105",
+          "year": "2010",
+          "journal-title": "Br J Anaesth"
+        },
+        {
+          "issue": "6",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B34",
+          "doi-asserted-by": "crossref",
+          "first-page": "2017",
+          "DOI": "10.1245/s10434-014-4248-7",
+          "article-title": "Persistent postmastectomy pain and pain-related physical and emotional functioning with and without a continuous paravertebral nerve block: A prospective 1-year follow-up assessment of a randomized, triple-masked, placebo-controlled study",
+          "volume": "22",
+          "year": "2015",
+          "journal-title": "Ann Surg Oncol"
+        },
+        {
+          "issue": "6",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B35",
+          "doi-asserted-by": "crossref",
+          "first-page": "1434",
+          "DOI": "10.1097/ALN.0b013e3182a8eb1f",
+          "article-title": "Survey criteria for fibromyalgia independently predict increased postoperative opioid consumption after lower-extremity joint arthroplastya prospective, observational cohort study",
+          "volume": "119",
+          "year": "2013",
+          "journal-title": "Anesthesiology"
+        },
+        {
+          "issue": "5",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B36",
+          "doi-asserted-by": "crossref",
+          "first-page": "1103",
+          "DOI": "10.1097/ALN.0000000000000637",
+          "article-title": "Fibromyalgia survey criteria are associated with increased postoperative opioid consumption in women undergoing hysterectomy",
+          "volume": "122",
+          "year": "2015",
+          "journal-title": "Anesthesiology"
+        },
+        {
+          "issue": "6",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B37",
+          "doi-asserted-by": "crossref",
+          "first-page": "1259",
+          "DOI": "10.1097/j.pain.0000000000000516",
+          "article-title": "Trends and predictors of opioid use after total knee and total hip arthroplasty",
+          "volume": "157",
+          "year": "2016",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "8",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B38",
+          "doi-asserted-by": "crossref",
+          "first-page": "1705",
+          "DOI": "10.1016/j.pain.2011.02.026",
+          "article-title": "Considerations for extrapolating evidence of acute and chronic pain analgesic efficacy",
+          "volume": "152",
+          "year": "2011",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "9169",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B39",
+          "doi-asserted-by": "crossref",
+          "first-page": "2051",
+          "DOI": "10.1016/S0140-6736(99)03313-9",
+          "article-title": "Acute pain",
+          "volume": "353",
+          "year": "1999",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "1–2",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B40",
+          "first-page": "148",
+          "article-title": "Natural history of pain following herpes zoster",
+          "volume": "128",
+          "year": "2007",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "9",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B41",
+          "first-page": "1227",
+          "article-title": "The natural history of pain and neuropathic pain after knee replacement: A prospective cohort study of the point prevalence of pain and neuropathic pain to a minimum three-year follow-up",
+          "volume": "96–B",
+          "year": "2014",
+          "journal-title": "Bone Joint J"
+        },
+        {
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B42",
+          "doi-asserted-by": "crossref",
+          "first-page": "801",
+          "DOI": "10.1001/jama.2016.0287",
+          "article-title": "The third international consensus definitions for sepsis and septic shock (sepsis-3)",
+          "volume": "315",
+          "year": "2016",
+          "journal-title": "JAMA"
+        },
+        {
+          "issue": "1",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B43",
+          "doi-asserted-by": "crossref",
+          "first-page": "13.",
+          "DOI": "10.1007/s13317-016-0086-x",
+          "article-title": "Infections as a cause of autoimmune rheumatic diseases",
+          "volume": "7",
+          "year": "2016",
+          "journal-title": "Auto Immun Highlights"
+        },
+        {
+          "issue": "1",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B44",
+          "doi-asserted-by": "crossref",
+          "first-page": "33",
+          "DOI": "10.1016/0304-3940(96)12418-6",
+          "article-title": "trkA, CGRP and IB4 expression in retrogradely labelled cutaneous and visceral primary sensory neurones in the rat",
+          "volume": "206",
+          "year": "1996",
+          "journal-title": "Neurosci Lett"
+        },
+        {
+          "issue": "16",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B45",
+          "doi-asserted-by": "crossref",
+          "first-page": "4437",
+          "DOI": "10.1523/JNEUROSCI.4463-05.2006",
+          "article-title": "Isolating the modulatory effect of expectation on pain transmission: A functional magnetic resonance imaging study",
+          "volume": "26",
+          "year": "2006",
+          "journal-title": "J Neurosci"
+        },
+        {
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B46",
+          "doi-asserted-by": "crossref",
+          "first-page": "245",
+          "DOI": "10.1016/S0079-6123(08)62143-3",
+          "article-title": "Pain modulation: Expectation, opioid analgesia and virtual pain",
+          "volume": "122",
+          "year": "2000",
+          "journal-title": "Prog Brain Res"
+        },
+        {
+          "issue": "5",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B47",
+          "doi-asserted-by": "crossref",
+          "first-page": "660",
+          "DOI": "10.1016/j.pain.2012.11.015",
+          "article-title": "Persistent pain in postmastectomy patients: Comparison of psychophysical, medical, surgical, and psychosocial characteristics between patients with and without pain",
+          "volume": "154",
+          "year": "2013",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "5",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B48",
+          "doi-asserted-by": "crossref",
+          "first-page": "611",
+          "DOI": "10.1097/ACO.0b013e32833c348b",
+          "article-title": "Conditioned pain modulation (the diffuse noxious inhibitory control-like effect): Its relevance for acute and chronic pain states",
+          "volume": "23",
+          "year": "2010",
+          "journal-title": "Curr Opin Anaesthesiol"
+        },
+        {
+          "issue": "5",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B49",
+          "doi-asserted-by": "crossref",
+          "first-page": "408",
+          "DOI": "10.1016/j.jpain.2009.10.009",
+          "article-title": "Perspective on diffuse noxious inhibitory controls as a model of endogenous pain modulation in clinical pain syndromes",
+          "volume": "11",
+          "year": "2010",
+          "journal-title": "J Pain"
+        },
+        {
+          "issue": "2",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B50",
+          "doi-asserted-by": "crossref",
+          "first-page": "119",
+          "DOI": "10.1080/08990229771123",
+          "article-title": "Spatial summation of heat induced pain within and between dermatomes",
+          "volume": "14",
+          "year": "1997",
+          "journal-title": "Somatosens Mot Res"
+        },
+        {
+          "issue": "10",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B51",
+          "doi-asserted-by": "crossref",
+          "first-page": "1311",
+          "DOI": "10.1002/(SICI)1097-4598(199710)20:10<1311::AID-MUS15>3.0.CO;2-5",
+          "article-title": "Temporal summation in muscles and referred pain areas: An experimental human study",
+          "volume": "20",
+          "year": "1997",
+          "journal-title": "Muscle Nerve"
+        },
+        {
+          "issue": "4",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B52",
+          "doi-asserted-by": "crossref",
+          "first-page": "321",
+          "DOI": "10.1111/j.1399-0004.2012.01936.x",
+          "article-title": "Pharmacogenetics of pain and analgesia",
+          "volume": "82",
+          "year": "2012",
+          "journal-title": "Clin Genet"
+        },
+        {
+          "issue": "3",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B53",
+          "doi-asserted-by": "crossref",
+          "first-page": "199",
+          "DOI": "10.1016/j.pain.2006.09.022",
+          "article-title": "Catechol-O-methyltransferase inhibition increases pain sensitivity through activation of both β2- and β3-adrenergic receptors",
+          "volume": "128",
+          "year": "2007",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B54",
+          "doi-asserted-by": "crossref",
+          "first-page": "25",
+          "DOI": "10.1016/j.pbb.2013.10.018",
+          "article-title": "Pharmacogenetics of OPRM1",
+          "volume": "123",
+          "year": "2014",
+          "journal-title": "Pharmacol Biochem Behav"
+        },
+        {
+          "issue": "4",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B55",
+          "doi-asserted-by": "crossref",
+          "first-page": "604",
+          "DOI": "10.1111/j.1526-4637.2012.01296.x",
+          "article-title": "CYP2D6 poor metabolizer genotype and smoking predict severe postoperative pain in female patients on arrival to the recovery room",
+          "volume": "13",
+          "year": "2012",
+          "journal-title": "Pain Med"
+        },
+        {
+          "issue": "3",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B56",
+          "doi-asserted-by": "crossref",
+          "first-page": "429",
+          "DOI": "10.1038/sj.clpt.6100095",
+          "article-title": "Pharmacogenetics of opioids",
+          "volume": "81",
+          "year": "2007",
+          "journal-title": "Clin Pharmacol Ther"
+        },
+        {
+          "issue": "7",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B57",
+          "doi-asserted-by": "crossref",
+          "first-page": "617",
+          "DOI": "10.1097/01.ajp.0000210905.57546.c1",
+          "article-title": "The exploration of the establishment of cutpoints to categorize the severity of acute postoperative pain",
+          "volume": "22",
+          "year": "2006",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "issue": "1",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B58",
+          "doi-asserted-by": "crossref",
+          "first-page": "45",
+          "DOI": "10.1002/neu.20084",
+          "article-title": "Understanding the signaling and transmission of visceral nociceptive events",
+          "volume": "61",
+          "year": "2004",
+          "journal-title": "J Neurobiol"
+        },
+        {
+          "issue": "9170",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B59",
+          "doi-asserted-by": "crossref",
+          "first-page": "2145",
+          "DOI": "10.1016/S0140-6736(99)01306-9",
+          "article-title": "Visceral pain",
+          "volume": "353",
+          "year": "1999",
+          "journal-title": "The Lancet"
+        },
+        {
+          "issue": "1",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B60",
+          "doi-asserted-by": "crossref",
+          "first-page": "17",
+          "DOI": "10.1097/SPC.0b013e32834f6ec9",
+          "article-title": "Visceral pain: The ins and outs, the ups and downs",
+          "volume": "6",
+          "year": "2012",
+          "journal-title": "Curr Opin Support Palliat Care"
+        },
+        {
+          "issue": "9 Suppl",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B61",
+          "first-page": "T10",
+          "article-title": "Assessment of Chronic Pain: Domains, Methods, and Mechanisms",
+          "volume": "17",
+          "year": "2016",
+          "journal-title": "J Pain."
+        },
+        {
+          "issue": "9 Suppl",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B62",
+          "first-page": "T108",
+          "article-title": "Applying a Lifespan Developmental Perspective to Chronic Pain: Pediatrics to Geriatrics",
+          "volume": "17",
+          "year": "2016",
+          "journal-title": "J Pain."
+        },
+        {
+          "issue": "9 Suppl",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B63",
+          "first-page": "T93",
+          "article-title": "Overlapping Chronic Pain Conditions: Implications for Diagnosis and Classification",
+          "volume": "17",
+          "year": "2016",
+          "journal-title": "J Pain."
+        },
+        {
+          "issue": "9 Suppl",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B64",
+          "first-page": "T21",
+          "article-title": "Assessment of Psychosocial and Functional Impact of Chronic Pain",
+          "volume": "17",
+          "year": "2016",
+          "journal-title": "J Pain."
+        },
+        {
+          "issue": "9 Suppl",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B65",
+          "first-page": "T50",
+          "article-title": "Toward a Mechanism-Based Approach to Pain Diagnosis",
+          "volume": "17",
+          "year": "2016",
+          "journal-title": "J Pain."
+        },
+        {
+          "issue": "9 Suppl",
+          "key": "key\n\t\t\t\t20170525075021_pnx019-B66",
+          "first-page": "T70",
+          "article-title": "The Role of Psychosocial Processes in the Development and Maintenance of Chronic Pain",
+          "volume": "17",
+          "year": "2016",
+          "journal-title": "J Pain."
+        }
+      ],
+      "container-title": [
+        "Pain Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://academic.oup.com/painmedicine/article-pdf/18/5/947/17506474/pnx019.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            7,
+            23
+          ]
+        ],
+        "date-time": "2022-07-23T01:12:13Z",
+        "timestamp": 1658538733000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://academic.oup.com/painmedicine/article-lookup/doi/10.1093/pm/pnx019"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            5
+          ]
+        ]
+      },
+      "references-count": 66,
+      "journal-issue": {
+        "issue": "5",
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              8
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              5
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1093/pm/pnx019",
+      "relation": {},
+      "ISSN": [
+        "1526-2375",
+        "1526-4637"
+      ],
+      "issn-type": [
+        {
+          "value": "1526-2375",
+          "type": "print"
+        },
+        {
+          "value": "1526-4637",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            5
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,546 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1097_bpo_0000000000002779.md",
+  "id": "evidence_import_refs_2025_09_12_10_1097_bpo_0000000000002779",
+  "doi": "10.1097/bpo.0000000000002779",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:29.254258Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            15
+          ]
+        ],
+        "date-time": "2025-08-15T00:14:36Z",
+        "timestamp": 1755216876509,
+        "version": "3.43.0"
+      },
+      "reference-count": 30,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "10",
+      "content-domain": {
+        "domain": [
+          "lww.com",
+          "ovid.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            11
+          ]
+        ]
+      },
+      "abstract": "<jats:sec>\n            <jats:title>Background:</jats:title>\n            <jats:p>One in 4 children with cerebral palsy (CP) will undergo orthopaedic surgery during their childhood. Despite its ubiquity, postoperative pain control has been poorly studied in this patient population. Moreover, poor pain management has been associated with adverse surgical outcomes. Multimodal analgesic injections have been well studied in the adult population, demonstrating safety and efficacy in reducing postoperative pain and narcotic consumption, but this modality has not been studied in pediatric patients undergoing similarly complex procedures. The objective of this study was to evaluate the efficacy of a multimodal surgical site injection for postoperative pain control following operative management of hip dysplasia in patients with CP.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Methods:</jats:title>\n            <jats:p>After obtaining IRB approval, a multicenter, randomized double-blind placebo control trial was completed. Patients below 18 years old with a diagnosis of CP who were scheduled for varus derotation osteotomy (VDRO) of the proximal femur were randomized to receive a surgical-site injection with either a combination of ropivacaine (3 mg/kg), epinephrine (0.5 mg), and ketorolac (0.5 mg/kg) (experimental group) or normal saline (control). All included patients had identical postoperative care, including immobilization, physical therapy, and standardized, multimodal postoperative pain control. Pain scores and narcotic consumption were recorded at regular intervals and compared between groups utilizing two-tailed <jats:italic toggle=\"yes\">t</jats:italic> test or a nonparametric Mann-Whitney test for quantitative variables and a Fischer exact test for categorical variables.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Results:</jats:title>\n            <jats:p>Thirty-four patients were included, evenly divided between study arms. There were no significant differences in demographic variables, gross motor function classification system (GMFCS), comorbidities, preoperative radiographic parameters, or concomitant surgeries between groups. Patients in the experimental group required significantly lower narcotic medications at all postoperative time points from PACU until hospital discharge compared with controls (0.41 ± 0.42 vs. 1.87 ± 2.05 total morphine mEQ/kg, <jats:italic toggle=\"yes\">P</jats:italic>=0.01). Similarly, patients in the experimental group were found to have significantly lower pain scores throughout their hospital stays compared with controls (1.0 ± 0.6 vs. 2.4 ± 1.1 mean pain score, <jats:italic toggle=\"yes\">P</jats:italic>&lt;0.001). There were no significant differences in operative time, OR time, blood transfusion requirements or hospital length of stay between groups. There were no adverse medication reactions or injection site complications in either group.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusions:</jats:title>\n            <jats:p>In patients with CP undergoing hip reconstruction, surgical-site injection with a multimodal analgesic combination improves pain control and reduces narcotic consumption in the early postoperative period with no observed adverse effects.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Significance:</jats:title>\n            <jats:p>Local multimodal analgesic injections should be adopted as part of standard multimodal pain control in this patient population for all osseous surgeries.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Level of Evidence:</jats:title>\n            <jats:p>Level I—therapeutic.</jats:p>\n          </jats:sec>",
+      "DOI": "10.1097/bpo.0000000000002779",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            14
+          ]
+        ],
+        "date-time": "2024-08-14T08:01:36Z",
+        "timestamp": 1723622496000
+      },
+      "page": "e921-e928",
+      "update-policy": "https://doi.org/10.1097/lww.0000000000001000",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "Efficacy of a Multimodal Surgical Site Injection for Postoperative Pain Control in Pediatric Patients With Cerebral Palsy Undergoing Hip Reconstruction: A Randomized Controlled Trial"
+      ],
+      "prefix": "10.1097",
+      "volume": "44",
+      "author": [
+        {
+          "given": "Danielle",
+          "family": "Greig",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Division of Pediatric Orthopaedic Surgery, David Geffen School of Medicine at the University of California, Los Angeles. Los Angeles, CA"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3885-7777",
+          "authenticated-orcid": false,
+          "given": "Christina A.",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Division of Pediatric Orthopaedic Surgery, David Geffen School of Medicine at the University of California, Los Angeles. Los Angeles, CA"
+            }
+          ]
+        },
+        {
+          "given": "Daniel",
+          "family": "McBride",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopedic Surgery, Division of Pediatric Orthopedic Surgery, Ann & Robert H. Lurie Children’s Hospital, Northwestern University Feinberg School of Medicine, Chicago, IL"
+            }
+          ]
+        },
+        {
+          "given": "Bailey",
+          "family": "Young",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Division of Pediatric Orthopaedic Surgery, David Geffen School of Medicine at the University of California, Los Angeles. Los Angeles, CA"
+            }
+          ]
+        },
+        {
+          "given": "Alexandra",
+          "family": "Klomhaus",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Division of Pediatric Orthopaedic Surgery, David Geffen School of Medicine at the University of California, Los Angeles. Los Angeles, CA"
+            }
+          ]
+        },
+        {
+          "given": "Vineeta T.",
+          "family": "Swaroop",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopedic Surgery, Division of Pediatric Orthopedic Surgery, Ann & Robert H. Lurie Children’s Hospital, Northwestern University Feinberg School of Medicine, Chicago, IL"
+            }
+          ]
+        },
+        {
+          "given": "Rachel M.",
+          "family": "Thompson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic Surgery, Division of Pediatric Orthopaedic Surgery, David Geffen School of Medicine at the University of California, Los Angeles. Los Angeles, CA"
+            }
+          ]
+        }
+      ],
+      "member": "276",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            14
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "R1-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "32",
+          "DOI": "10.1046/j.1365-2044.2000.01065.x",
+          "article-title": "Anaesthesia and pain management in cerebral palsy",
+          "volume": "55",
+          "author": "Nolan",
+          "year": "2000",
+          "journal-title": "Anaesthesia"
+        },
+        {
+          "key": "R2-20250804",
+          "first-page": "e30522",
+          "article-title": "Use of epidural analgesia in children with neuromuscular conditions following hip reconstruction",
+          "volume": "14",
+          "author": "Tabaie",
+          "year": "2022",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "R3-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "252",
+          "DOI": "10.1097/01376517-200410000-00004",
+          "article-title": "Pain in children with cerebral palsy: a review",
+          "volume": "36",
+          "author": "McKeranan",
+          "year": "2004",
+          "journal-title": "J Neurosci Nurs"
+        },
+        {
+          "key": "R4-20250804",
+          "first-page": "1438",
+          "article-title": "The perioperative anesthetic management of the pediatric patient with special needs: an overview of literature",
+          "volume": "9",
+          "author": "Ciccozzi",
+          "year": "2022",
+          "journal-title": "Children (Basel)"
+        },
+        {
+          "key": "R5-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "159",
+          "DOI": "10.1054/jpai.2002.123652",
+          "article-title": "Adverse events associated with postoperative opioid analgesia: a systematic review",
+          "volume": "3",
+          "author": "Wheeler",
+          "year": "2002",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "R6-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "627",
+          "DOI": "10.1016/j.bja.2019.08.014",
+          "article-title": "Preventing opioid prescription after major surgery: a scoping review of opioid-free analgesia",
+          "volume": "123",
+          "author": "Fiore",
+          "year": "2019",
+          "journal-title": "Br J Anaesth"
+        },
+        {
+          "key": "R7-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "282",
+          "DOI": "10.2106/JBJS.E.00173",
+          "article-title": "A multimodal analgesia protocol for total knee arthroplasty. A randomized, controlled study",
+          "volume": "88",
+          "author": "Vendittoli",
+          "year": "2006",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "R8-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "180",
+          "DOI": "10.1080/17453670710013654",
+          "article-title": "Reduced hospital stay and narcotic consumption, and improved mobilization with local and intraarticular infiltration after total hip arthroplasty: a randomized clinical trial of an intraarticular technique versus epidural infusion in 80 patients",
+          "volume": "78",
+          "author": "Andersen",
+          "year": "2007",
+          "journal-title": "Acta Orthop"
+        },
+        {
+          "key": "R9-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "512",
+          "DOI": "10.2106/JBJS.16.00733",
+          "article-title": "Efficacy of a surgical-site, multimodal drug injection following operative management of femoral fractures: a randomized controlled trial",
+          "volume": "99",
+          "author": "Koehler",
+          "year": "2017",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "R10-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "959",
+          "DOI": "10.2106/JBJS.E.00344",
+          "article-title": "Efficacy of a periarticular multimodal drug injection in total knee arthroplasty. A randomized trial",
+          "volume": "88",
+          "author": "Busch",
+          "year": "2006",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "R11-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "209",
+          "DOI": "10.1089/jpm.1999.2.209",
+          "article-title": "Opioid equianalgesic calculations",
+          "volume": "2",
+          "author": "Gordon",
+          "year": "1999",
+          "journal-title": "J Palliat Med"
+        },
+        {
+          "key": "R12-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "258",
+          "DOI": "10.1111/j.1460-9592.2005.01773.x",
+          "article-title": "The revised FLACC observational pain tool: improved reliability and validity for pain assessment in children with cognitive impairment",
+          "volume": "16",
+          "author": "Malviya",
+          "year": "2006",
+          "journal-title": "Paediatr Anaesth"
+        },
+        {
+          "key": "R13-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.1111/dmcn.13980",
+          "article-title": "Self-report of pain in young people and adults with spastic cerebral palsy: interrater reliability of the revised Face, Legs, Activity, Cry, and Consolability (r-FLACC) scale ratings",
+          "volume": "61",
+          "author": "Fox",
+          "year": "2019",
+          "journal-title": "Dev Med Child Neurol"
+        },
+        {
+          "key": "R14-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "221",
+          "DOI": "10.1007/s11832-015-0656-x",
+          "article-title": "Hip reconstruction is more painful than spine fusion in children with cerebral palsy",
+          "volume": "9",
+          "author": "Shrader",
+          "year": "2015",
+          "journal-title": "J Child Orthop"
+        },
+        {
+          "key": "R15-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "68",
+          "DOI": "10.1111/pan.13528",
+          "article-title": "Evaluation of the quality of acute pain management in a pediatric surgical setting: validation of a parent proxy modified version of the revised American Society Patient Outcome Questionnaire",
+          "volume": "29",
+          "author": "Chaw",
+          "year": "2019",
+          "journal-title": "Paediatr Anaesth"
+        },
+        {
+          "key": "R16-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "2250",
+          "DOI": "10.1016/j.jpedsurg.2019.02.057",
+          "article-title": "Intraoperative intercostal nerve cryoablation during the Nuss procedure reduces length of stay and opioid requirement: a randomized clinical trial",
+          "volume": "54",
+          "author": "Graves",
+          "year": "2019",
+          "journal-title": "J Pediatr Surg"
+        },
+        {
+          "key": "R17-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "210",
+          "DOI": "10.1097/BSD.0000000000000783",
+          "article-title": "Use of gabapentin in posterior spinal fusion is associated with decreased postoperative pain and opioid use in children and adolescents",
+          "volume": "32",
+          "author": "Trzcinski",
+          "year": "2019",
+          "journal-title": "Clinical Spine Surgery"
+        },
+        {
+          "key": "R18-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "392",
+          "DOI": "10.4103/joacp.joacp_336_21",
+          "article-title": "Liposomal bupivacaine reduces opioid requirements following Ravitch repair for pectus, excavatum",
+          "volume": "39",
+          "author": "Abbasi",
+          "year": "2023",
+          "journal-title": "J Anaesthesiol Clin Pharmacol"
+        },
+        {
+          "key": "R19-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "1201",
+          "DOI": "10.1007/s00383-021-04897-z",
+          "article-title": "Does epidural analgesia really enhance recovery in pediatric surgery patients?",
+          "volume": "37",
+          "author": "Mansfield",
+          "year": "2021",
+          "journal-title": "Pediatr Surg Int"
+        },
+        {
+          "key": "R20-20250804",
+          "first-page": "111",
+          "article-title": "Pre-emptive opioid-sparing medication protocol decreases pain and length of hospital stay in children undergoing posterior spinal instrumented fusion for scoliosis",
+          "volume": "43",
+          "author": "Poon",
+          "year": "2023",
+          "journal-title": "Iowa Orthop J"
+        },
+        {
+          "key": "R21-20250804",
+          "first-page": "297",
+          "article-title": "Approaches and perioperative management in periacetabular osteotomy surgery: the minimally invasive transsartorial approach",
+          "volume": "62",
+          "author": "Søballe",
+          "year": "2013",
+          "journal-title": "Instr Course Lect"
+        },
+        {
+          "key": "R22-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "1065",
+          "DOI": "10.2165/00003495-200060050-00007",
+          "article-title": "Ropivacaine: an update of its use in regional anaesthesia",
+          "volume": "60",
+          "author": "McClellan",
+          "year": "2000",
+          "journal-title": "Drugs"
+        },
+        {
+          "key": "R23-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "507",
+          "DOI": "10.1093/bja/78.5.507",
+          "article-title": "Central nervous and cardiovascular effects of i.v. infusions of ropivacaine, bupivacaine and placebo in volunteers",
+          "volume": "78",
+          "author": "Knudsen",
+          "year": "1997",
+          "journal-title": "Br J Anaesth"
+        },
+        {
+          "key": "R24-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "563",
+          "DOI": "10.1213/00000539-198911000-00003",
+          "article-title": "Acute toxicity of ropivacaine compared with that of bupivacaine",
+          "volume": "69",
+          "author": "Scott",
+          "year": "1989",
+          "journal-title": "Anesth Analg"
+        },
+        {
+          "key": "R25-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "1125",
+          "DOI": "10.1046/j.1365-2044.1998.00582.x",
+          "article-title": "Low-dose intra-articular ketorolac for pain relief following arthroscopy of the knee joint",
+          "volume": "53",
+          "author": "Convery",
+          "year": "1998",
+          "journal-title": "Anaesthesia"
+        },
+        {
+          "issue": "Pt 2",
+          "key": "R26-20250804",
+          "first-page": "30S",
+          "article-title": "The pharmacologic activity of ketorolac tromethamine",
+          "volume": "10",
+          "author": "Rooks",
+          "year": "1990",
+          "journal-title": "Pharmacotherapy"
+        },
+        {
+          "key": "R27-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "229",
+          "DOI": "10.1016/j.bpa.2004.12.004",
+          "article-title": "Advantages and disadvantages of adrenaline in regional anaesthesia",
+          "volume": "19",
+          "author": "Niemi",
+          "year": "2005",
+          "journal-title": "Best Pract Res Clin Anaesthesiol"
+        },
+        {
+          "key": "R28-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "1618",
+          "DOI": "10.1016/S0140-6736(06)68700-X",
+          "article-title": "Persistent postsurgical pain: risk factors and prevention",
+          "volume": "367",
+          "author": "Kehlet",
+          "year": "2006",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "R29-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "343",
+          "DOI": "10.1016/S0304-3959(96)03219-8",
+          "article-title": "Effect of present pain and mood on the memory of past postoperative pain in women treated surgically for breast cancer",
+          "volume": "68",
+          "author": "Tasmuth",
+          "year": "1996",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R30-20250804",
+          "doi-asserted-by": "crossref",
+          "first-page": "50",
+          "DOI": "10.1097/00002508-199603000-00009",
+          "article-title": "Acute pain after thoracic surgery predicts long-term post-thoracotomy pain",
+          "volume": "12",
+          "author": "Katz",
+          "year": "1996",
+          "journal-title": "Clin J Pain"
+        }
+      ],
+      "container-title": [
+        "Journal of Pediatric Orthopaedics"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.lww.com/10.1097/BPO.0000000000002779",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            4
+          ]
+        ],
+        "date-time": "2025-08-04T22:00:49Z",
+        "timestamp": 1754344849000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.lww.com/10.1097/BPO.0000000000002779"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            14
+          ]
+        ]
+      },
+      "references-count": 30,
+      "journal-issue": {
+        "issue": "10",
+        "published-print": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1097/bpo.0000000000002779",
+      "relation": {},
+      "ISSN": [
+        "0271-6798"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0271-6798"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            14
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,661 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_pain_2013_07_001.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_pain_2013_07_001",
+  "doi": "10.1016/j.pain.2013.07.001",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:03.166248Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T12:52:27Z",
+        "timestamp": 1757681547985
+      },
+      "reference-count": 45,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "10",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2013,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2013-10-01T00:00:00Z",
+            "timestamp": 1380585600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.pain.2013.07.001",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2013,
+            7,
+            5
+          ]
+        ],
+        "date-time": "2013-07-05T01:34:30Z",
+        "timestamp": 1372988070000
+      },
+      "page": "2198-2206",
+      "source": "Crossref",
+      "is-referenced-by-count": 104,
+      "title": [
+        "Derivation of a clinical prediction rule to identify both chronic moderate/severe disability and full recovery following whiplash injury"
+      ],
+      "prefix": "10.1097",
+      "volume": "154",
+      "author": [
+        {
+          "given": "Carrie",
+          "family": "Ritchie",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Joan",
+          "family": "Hendrikz",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Justin",
+          "family": "Kenardy",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michele",
+          "family": "Sterling",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "276",
+      "reference": [
+        {
+          "key": "R5-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "445",
+          "DOI": "10.1097/PHM.0b013e3181a0ff7d",
+          "article-title": "Preliminary clinical prediction rule for identifying patients with ankylosing spondylitis who are likely to respond to an exercise program: a pilot study.",
+          "volume": "88",
+          "author": "Alonso-Blanco",
+          "year": "2009",
+          "journal-title": "Am J Phys Med Rehabil"
+        },
+        {
+          "key": "R15-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "2937",
+          "DOI": "10.1002/sim.2770",
+          "article-title": "A comparison of regression trees, logistic regression, generalized additive models, and multivariate adaptive regression splines for predicting AMI mortality.",
+          "volume": "26",
+          "author": "Austin",
+          "year": "2007",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "R20-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "244",
+          "DOI": "10.1016/j.pain.2006.05.026",
+          "article-title": "The influence of prognostic factors on neck pain intensity, disability, anxiety and depression over a 2-year period in subjects with acute whiplash injury.",
+          "volume": "125",
+          "author": "Berglund",
+          "year": "2006",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R25-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1097/MRR.0b013e3282fc0f93",
+          "article-title": "Reliability and validity of the visual analogue scale for disability in patients with chronic musculoskeletal pain.",
+          "volume": "31",
+          "author": "Boonstra",
+          "year": "2008",
+          "journal-title": "Int J Rehabil Res"
+        },
+        {
+          "key": "R30-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "45",
+          "DOI": "10.3109/09638288.2011.587085",
+          "article-title": "How well are you recovering? The association between a simple question about recovery and patient reports of pain intensity and pain disability in whiplash-associated disorders.",
+          "volume": "34",
+          "author": "Carroll",
+          "year": "2012",
+          "journal-title": "Disabil Rehabil"
+        },
+        {
+          "key": "R35-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "248",
+          "DOI": "10.1016/j.pain.2008.04.008",
+          "article-title": "Post-trauma ratings of pre-collision pain and psychological distress predict poor outcome following acute whiplash trauma: a 12-month follow-up study.",
+          "volume": "139",
+          "author": "Carstensen",
+          "year": "2008",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R40-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.1016/j.ejpain.2011.06.002",
+          "article-title": "Are there gender differences in coping with neck pain following acute whiplash trauma? A 12-month follow-up study.",
+          "volume": "16",
+          "author": "Carstensen",
+          "year": "2012",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "R45-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "122",
+          "DOI": "10.1093/ptj/86.1.122",
+          "article-title": "Development and application of clinical prediction rules to improve decision making in physical therapist practice.",
+          "volume": "86",
+          "author": "Childs",
+          "year": "2006",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "R245-38-20210126",
+          "first-page": "E338",
+          "article-title": "What factors have influence on persistence of neck pain after a whiplash? Spine (Phila Pa 1976).",
+          "volume": "35",
+          "author": "Cobo",
+          "year": "2010",
+          "journal-title": ""
+        },
+        {
+          "key": "R55-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "1087",
+          "DOI": "10.1016/j.aap.2006.04.015",
+          "article-title": "The economic costs of road traffic crashes: Australia, states and territories.",
+          "volume": "38",
+          "author": "Connelly",
+          "year": "2006",
+          "journal-title": "Accid Anal Prev"
+        },
+        {
+          "key": "R60-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "861",
+          "DOI": "10.1002/art.22775",
+          "article-title": "Early aggressive care and delayed recovery from whiplash: Isolated finding or reproducible result?",
+          "volume": "57",
+          "author": "Cote",
+          "year": "2007",
+          "journal-title": "Arthritis Care Res"
+        },
+        {
+          "key": "R65-38-20210126",
+          "first-page": "2090",
+          "article-title": "Cervical range of motion discriminates between asymptomatic persons and those with whiplash. Spine (Phila Pa 1976).",
+          "volume": "26",
+          "author": "DallAlba",
+          "year": "2001",
+          "journal-title": ""
+        },
+        {
+          "key": "R70-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "712",
+          "DOI": "10.1177/0272989X10386232",
+          "article-title": "AHRQ White Paper: use of clinical decision rules for point-of-care decision support.",
+          "volume": "30",
+          "author": "Ebell",
+          "year": "2010",
+          "journal-title": "Med Decis Making"
+        },
+        {
+          "key": "R75-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "e21194",
+          "DOI": "10.1371/journal.pone.0021194",
+          "article-title": "The temporal development of fatty infiltrates in the neck muscles following whiplash injury: an association with pain and posttraumatic stress.",
+          "volume": "6",
+          "author": "Elliott",
+          "year": "2011",
+          "journal-title": "PLoS ONE"
+        },
+        {
+          "key": "R80-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "445",
+          "DOI": "10.1037/1040-3590.9.4.445",
+          "article-title": "The validation of a self-report measure of posttraumatic stress disorder: the Posttraumatic Diagnostic Scale.",
+          "volume": "9",
+          "author": "Foa",
+          "year": "1997",
+          "journal-title": "Psychol Assess"
+        },
+        {
+          "key": "R90-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "531",
+          "DOI": "10.1016/S0001-4575(01)00051-3",
+          "article-title": "Derivation of a clinical decision rule for whiplash associated disorders among individuals involved in rear-end collisions.",
+          "volume": "34",
+          "author": "Hartling",
+          "year": "2002",
+          "journal-title": "Accid Anal Prev"
+        },
+        {
+          "key": "R95-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "209",
+          "DOI": "10.1097/00006842-197905000-00004",
+          "article-title": "Impact of Event Scale: a measure of subjective stress.",
+          "volume": "41",
+          "author": "Horowitz",
+          "year": "1979",
+          "journal-title": "Psychosom Med"
+        },
+        {
+          "key": "R100-38-20210126",
+          "first-page": "S268",
+          "article-title": "Optimal designs for prediction studies of whiplash. Spine (Phila Pa 1976).",
+          "volume": "36",
+          "author": "Kamper",
+          "year": "2011",
+          "journal-title": ""
+        },
+        {
+          "key": "R105-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "617",
+          "DOI": "10.1016/j.pain.2008.02.019",
+          "article-title": "Course and prognostic factors of whiplash: a systematic review and meta-analysis.",
+          "volume": "138",
+          "author": "Kamper",
+          "year": "2008",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R110-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "420",
+          "DOI": "10.1016/j.pain.2004.02.017",
+          "article-title": "Systematic review of prognostic cohort studies on shoulder disorders.",
+          "volume": "109",
+          "author": "Kuijpers",
+          "year": "2004",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R115-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "927",
+          "DOI": "10.1016/j.injury.2010.02.011",
+          "article-title": "The association of compensation on longer term health status for people with musculoskeletal injuries following road traffic crashes: emergency department inception cohort study.",
+          "volume": "42",
+          "author": "Littleton",
+          "year": "2011",
+          "journal-title": "Injury"
+        },
+        {
+          "key": "R120-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "400",
+          "DOI": "10.2519/jospt.2009.2930",
+          "article-title": "Measurement properties of the neck disability index: a systematic review.",
+          "volume": "39",
+          "author": "Macdermid",
+          "year": "2009",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "R125-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "79",
+          "DOI": "10.1001/jama.284.1.79",
+          "article-title": "Users guides to the medical literature: XXII: how to use articles about clinical decision rules.",
+          "volume": "284",
+          "author": "McGinn",
+          "year": "2000",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "R135-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "157",
+          "DOI": "10.1016/S0004-9514(06)70024-1",
+          "article-title": "Clinical prediction rules: what are they and what do they tell us?",
+          "volume": "52",
+          "author": "Nelson",
+          "year": "2006",
+          "journal-title": "Aust J Physiother"
+        },
+        {
+          "key": "R140-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "1068",
+          "DOI": "10.1016/j.ejpain.2008.12.006",
+          "article-title": "Early multidisciplinary evaluation and advice was ineffective for whiplash-associated disorders.",
+          "volume": "13",
+          "author": "Pape",
+          "year": "2009",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "R145-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "201",
+          "DOI": "10.7326/0003-4819-144-3-200602070-00009",
+          "article-title": "Translating clinical research into clinical practice: impact of using prediction rules to make decisions.",
+          "volume": "144",
+          "author": "Reilly",
+          "year": "2006",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "R150-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "303",
+          "DOI": "10.1016/S0304-3959(03)00050-2",
+          "article-title": "Prognostic factors of whiplash-associated disorders: a systematic review of prospective cohort studies.",
+          "volume": "104",
+          "author": "Scholten-Peeters",
+          "year": "2003",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R250-38-20210126",
+          "first-page": "1",
+          "article-title": "Scientific monograph of Quebec Task Force of Whiplash associated disorders: redefining whiplash and its management. Spine (Phila Pa 1976).",
+          "volume": "20",
+          "author": "Spitzer",
+          "year": "1995",
+          "journal-title": ""
+        },
+        {
+          "key": "R160-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "22",
+          "DOI": "10.1016/j.pain.2010.02.013",
+          "article-title": "Compensation claim lodgement and health outcome developmental trajectories following whiplash injury: a prospective study.",
+          "volume": "150",
+          "author": "Sterling",
+          "year": "2010",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R165-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "1272",
+          "DOI": "10.1016/j.pain.2011.01.056",
+          "article-title": "Similar factors predict disability and posttraumatic stress disorder trajectories after whiplash injury.",
+          "volume": "152",
+          "author": "Sterling",
+          "year": "2011",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R170-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "1727",
+          "DOI": "10.1016/j.pain.2012.05.004",
+          "article-title": "Assessment and validation of prognostic models for poor functional recovery 12 months after whiplash injury: a multicentre inception cohort study.",
+          "volume": "153",
+          "author": "Sterling",
+          "year": "2012",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R175-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "102",
+          "DOI": "10.1016/j.pain.2006.01.014",
+          "article-title": "Physical and psychological factors maintain long-term predictive capacity post-whiplash injury.",
+          "volume": "122",
+          "author": "Sterling",
+          "year": "2006",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R180-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "509",
+          "DOI": "10.1016/S0304-3959(03)00078-2",
+          "article-title": "Sensory hypersensitivity occurs soon after whiplash injury and is associated with poor recovery.",
+          "volume": "104",
+          "author": "Sterling",
+          "year": "2003",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R185-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "141",
+          "DOI": "10.1016/j.pain.2004.12.005",
+          "article-title": "Physical and psychological factors predict outcome following whiplash injury.",
+          "volume": "114",
+          "author": "Sterling",
+          "year": "2005",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R190-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "481",
+          "DOI": "10.1016/j.pain.2003.09.013",
+          "article-title": "The development of psychological changes following whiplash injury.",
+          "volume": "106",
+          "author": "Sterling",
+          "year": "2003",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R195-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "437",
+          "DOI": "10.1016/S0196-0644(99)70309-4",
+          "article-title": "Methodologic standards for the development of clinical decision rules in emergency medicine.",
+          "volume": "33",
+          "author": "Stiell",
+          "year": "1999",
+          "journal-title": "Ann Emerg Med"
+        },
+        {
+          "key": "R200-38-20210126",
+          "first-page": "S244",
+          "article-title": "Catastrophizing and perceived injustice: risk cactors for the transition to chronicity after whiplash injury. Spine (Phila Pa 1976).",
+          "volume": "36",
+          "author": "Sullivan",
+          "year": "2011",
+          "journal-title": ""
+        },
+        {
+          "key": "R205-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "287",
+          "DOI": "10.1155/2010/106593",
+          "article-title": "A research synthesis of therapeutic interventions for whiplash-associated disorder: part 1 - overview and summary.",
+          "volume": "15",
+          "author": "Teasell",
+          "year": "2010",
+          "journal-title": "Pain Res Manag"
+        },
+        {
+          "key": "R210-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "201",
+          "DOI": "10.1016/0268-0033(95)00072-0",
+          "article-title": "Three-dimensional analysis of active cervical motion: the effect of age and gender.",
+          "volume": "11",
+          "author": "Trott",
+          "year": "1996",
+          "journal-title": "Clin Biomech"
+        },
+        {
+          "key": "R215-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "805",
+          "DOI": "10.1097/EDE.0b013e3181577511",
+          "article-title": "Strobe Initiative. Strengthening the Reporting of Observational Studies in Epidemiology (STROBE): explanation and elaboration.",
+          "volume": "18",
+          "author": "Vandenbroucke",
+          "year": "2007",
+          "journal-title": "Epidemiology"
+        },
+        {
+          "key": "R220-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "491",
+          "DOI": "10.1016/j.jmpt.2008.08.006",
+          "article-title": "The neck disability index: state-of-the-art, 1991-2008.",
+          "volume": "31",
+          "author": "Vernon",
+          "year": "2008",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R225-38-20210126",
+          "first-page": "409",
+          "article-title": "The neck disability index: a study of reliability and validity.",
+          "volume": "14",
+          "author": "Vernon",
+          "year": "1991",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R230-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "334",
+          "DOI": "10.2519/jospt.2009.2765",
+          "article-title": "Risk factors for persistent problems following whiplash injury: results of a systematic review and meta-analysis.",
+          "volume": "39",
+          "author": "Walton",
+          "year": "2009",
+          "journal-title": "J Orthopaed Sports Phys Ther"
+        },
+        {
+          "key": "R235-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "793",
+          "DOI": "10.1056/NEJM198509263131306",
+          "article-title": "Clinical prediction rules.",
+          "volume": "313",
+          "author": "Wasson",
+          "year": "1985",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "R240-38-20210126",
+          "doi-asserted-by": "crossref",
+          "first-page": "20",
+          "DOI": "10.1016/j.pain.2007.04.035",
+          "article-title": "A systematic literature review of psychological factors and the development of late whiplash syndrome.",
+          "volume": "135",
+          "author": "Williamson",
+          "year": "2008",
+          "journal-title": "PAIN"
+        }
+      ],
+      "container-title": [
+        "Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.lww.com/10.1016/j.pain.2013.07.001",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            6,
+            16
+          ]
+        ],
+        "date-time": "2021-06-16T04:47:05Z",
+        "timestamp": 1623818825000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.lww.com/00006396-201310000-00038"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            10
+          ]
+        ]
+      },
+      "references-count": 45,
+      "journal-issue": {
+        "issue": "10",
+        "published-print": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1016/j.pain.2013.07.001",
+      "relation": {},
+      "ISSN": [
+        "0304-3959"
+      ],
+      "issn-type": [
+        {
+          "value": "0304-3959",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            10
+          ]
+        ]
+      }
+    }
+  }
+}

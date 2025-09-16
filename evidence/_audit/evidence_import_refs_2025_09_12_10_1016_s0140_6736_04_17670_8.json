@@ -1,0 +1,1723 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_s0140_6736_04_17670_8.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_s0140_6736_04_17670_8",
+  "doi": "10.1016/S0140-6736(04)17670-8",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:07.771017Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T12:30:48Z",
+        "timestamp": 1757680248954
+      },
+      "reference-count": 148,
+      "publisher": "Elsevier BV",
+      "issue": "9453",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2005,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2005-01-01T00:00:00Z",
+            "timestamp": 1104537600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "The Lancet"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2005,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1016/s0140-6736(04)17670-8",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2005,
+            1,
+            6
+          ]
+        ],
+        "date-time": "2005-01-06T12:15:12Z",
+        "timestamp": 1105013712000
+      },
+      "page": "82-93",
+      "source": "Crossref",
+      "is-referenced-by-count": 1873,
+      "title": [
+        "External validity of randomised controlled trials: “To whom do the results of this trial apply?”"
+      ],
+      "prefix": "10.1016",
+      "volume": "365",
+      "author": [
+        {
+          "given": "Peter M",
+          "family": "Rothwell",
+          "sequence": "first",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib1",
+          "series-title": "Effectiveness and Efficiency: random reflections on Health Services",
+          "author": "Cochrane",
+          "year": "1972"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "3149",
+          "DOI": "10.1002/1097-0258(20001215)19:23<3149::AID-SIM617>3.0.CO;2-E",
+          "article-title": "Common sense and figures: the rhetoric of validity in medicine (Bradford Hill Memorial Lecture 1999)",
+          "volume": "19",
+          "author": "Horton",
+          "year": "2000",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib3",
+          "series-title": "Clinical trials: a practical approach",
+          "author": "Pocock",
+          "year": "1983"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib4",
+          "series-title": "Fundamentals of clinical trials",
+          "author": "Friedman",
+          "year": "1998"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib5",
+          "first-page": "23",
+          "article-title": "The limitations of evidence",
+          "volume": "32",
+          "author": "Black",
+          "year": "1998",
+          "journal-title": "J R Coll Physicians Lond"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "2807",
+          "DOI": "10.1002/sim.1284",
+          "article-title": "Size isn't everything",
+          "volume": "21",
+          "author": "Hampton",
+          "year": "2002",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "569",
+          "DOI": "10.1136/jnnp.71.5.569",
+          "article-title": "Evidence based medicine: concerns of a clinical neurologist",
+          "volume": "71",
+          "author": "Caplan",
+          "year": "2001",
+          "journal-title": "J Neurol Neurosurg Psychiatry"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "461",
+          "DOI": "10.1093/ageing/24.6.461",
+          "article-title": "Evidence-based and evidence-biased medicine",
+          "volume": "24",
+          "author": "Evans",
+          "year": "1995",
+          "journal-title": "Age Ageing"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "371",
+          "DOI": "10.1093/qjmed/91.5.371",
+          "article-title": "The rise and fall of EBM",
+          "volume": "91",
+          "author": "Charlton",
+          "year": "1998",
+          "journal-title": "Q J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "840",
+          "DOI": "10.1016/S0140-6736(95)92969-X",
+          "article-title": "Grey zones in clinical practice: some limits to evidence-based medicine",
+          "volume": "345",
+          "author": "Naylor",
+          "year": "1995",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "1511",
+          "DOI": "10.1097/00004872-199917110-00002",
+          "article-title": "Evidence-based medicine and hypertension",
+          "volume": "17",
+          "author": "Swales",
+          "year": "1999",
+          "journal-title": "J Hypertens"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "117",
+          "DOI": "10.1046/j.1365-2753.1997.00077.x",
+          "article-title": "On evidence, embellishment and efficacy",
+          "volume": "3",
+          "author": "Morgan",
+          "year": "1997",
+          "journal-title": "J Eval Clin Pract"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "529",
+          "DOI": "10.1016/S0002-9343(97)00244-1",
+          "article-title": "Problems in the “evidence” of “evidence-based medicine”",
+          "volume": "103",
+          "author": "Feinstein",
+          "year": "1997",
+          "journal-title": "Am J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "1023",
+          "DOI": "10.1016/0735-1097(94)90585-1",
+          "article-title": "Trends in use of drug therapies in patients with acute myocardial infarction: 1988–1992",
+          "volume": "23",
+          "author": "Pashos",
+          "year": "1994",
+          "journal-title": "J Am Coll Cardiol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "1050",
+          "DOI": "10.1017/S0266462300103113",
+          "article-title": "Clinical judgement and clinical practice guidelines. Int J Technol",
+          "volume": "16",
+          "author": "Garfield",
+          "year": "2000",
+          "journal-title": "Assess Health Care"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "1458",
+          "DOI": "10.1001/jama.282.15.1458",
+          "article-title": "Why don't clinicians follow clinical practice guidelines? A framework for improvement",
+          "volume": "282",
+          "author": "Cabana",
+          "year": "1999",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib17",
+          "first-page": "408",
+          "article-title": "Translating guidelines into practice, a systematic review of theoretic concepts, practical experience and research evidence in the adoption of clinical practice guidelines",
+          "volume": "157",
+          "author": "Davis",
+          "year": "1997",
+          "journal-title": "Can Med Assoc J"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "504",
+          "DOI": "10.1200/JCO.1987.5.3.504",
+          "article-title": "Effect of patient management guidelines on physician practice patterns: the community hospital oncology program experience",
+          "volume": "5",
+          "author": "Ford",
+          "year": "1987",
+          "journal-title": "J Clin Oncol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "858",
+          "DOI": "10.1136/bmj.317.7162.858",
+          "article-title": "Attributes of clinical guidelines that influence use of guidelines in general practice: observational study",
+          "volume": "317",
+          "author": "Grol",
+          "year": "1998",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "128",
+          "DOI": "10.1080/08998280.2000.11927654",
+          "article-title": "Antihypertensive therapy: β-blockers and diuretics - why do physicians not always follow guidelines?",
+          "volume": "13",
+          "author": "Messerli",
+          "year": "2000",
+          "journal-title": "Proceedings/Baylor University Medical Center"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib21",
+          "first-page": "1746",
+          "article-title": "Applicability of clinical trial results to primary care",
+          "volume": "280",
+          "author": "Sonis",
+          "year": "1998",
+          "journal-title": "J Am Med Soc"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "24",
+          "DOI": "10.1136/bmj.321.7252.24",
+          "article-title": "Randomized controlled trials in primary care: case study",
+          "volume": "321",
+          "author": "Wilson",
+          "year": "2000",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "99",
+          "DOI": "10.1093/fampra/19.1.99",
+          "article-title": "Recruiting family physicians and patients for a clinical trial: lessons learned",
+          "volume": "19",
+          "author": "Sellors",
+          "year": "2002",
+          "journal-title": "Fam Pract"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "414",
+          "DOI": "10.1093/fampra/16.4.414",
+          "article-title": "Applying research evidence to individuals in primary care: a study using non-rheumatic atrial fibrillation",
+          "volume": "16",
+          "author": "Oswald",
+          "year": "1999",
+          "journal-title": "Fam Pract"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib25",
+          "first-page": "1173",
+          "article-title": "Applying the results of clinical trials to patients in general practice: perceived problems, strengths, assumptions, and challenges for the future",
+          "volume": "48",
+          "author": "Fahey",
+          "year": "1998",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "743",
+          "DOI": "10.1016/S0140-6736(98)09102-8",
+          "article-title": "Can randomised trials inform clinical decisions about individual patients?",
+          "volume": "353",
+          "author": "Mant",
+          "year": "1999",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib27",
+          "first-page": "449",
+          "article-title": "Evidence based medicine and general practice",
+          "volume": "47",
+          "author": "Jacobson",
+          "year": "1997",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib28",
+          "first-page": "50",
+          "article-title": "The place of judgement in medicine",
+          "volume": "44",
+          "author": "McCormick",
+          "year": "1994",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "249",
+          "DOI": "10.1111/j.1365-2753.1996.tb00055.x",
+          "article-title": "Evidence-based practice in primary care: past, present and future",
+          "volume": "2",
+          "author": "Benech",
+          "year": "1996",
+          "journal-title": "J Eval Clin Prac"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "112",
+          "DOI": "10.1177/135581969900400210",
+          "article-title": "Threats to applicability of randomised trials: exclusions and selective participation",
+          "volume": "4",
+          "author": "Britton",
+          "year": "1999",
+          "journal-title": "J Health Serv Res Policy"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "377",
+          "DOI": "10.1136/jech.52.6.377",
+          "article-title": "The feasibility of creating a checklist for the assessment of the methodological quality both of randomised and non–randomised studies of health care interventions",
+          "volume": "52",
+          "author": "Downs",
+          "year": "1998",
+          "journal-title": "J Epidemiol Community Health"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/S1076-6332(96)80324-2",
+          "article-title": "The case for better research standards in peripheral thrombolysis: poor quality of randomised trials during the past decade",
+          "volume": "3",
+          "author": "Egglin",
+          "year": "1996",
+          "journal-title": "Acad Radiol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "243",
+          "DOI": "10.1034/j.1600-0447.2002.00242.x",
+          "article-title": "Randomized controlled trials in schizophrenia: a critical perspective on the literature",
+          "volume": "105",
+          "author": "Gilbody",
+          "year": "2002",
+          "journal-title": "Acta Psychiatr Scand"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "264",
+          "DOI": "10.1192/bjp.170.3.264",
+          "article-title": "Generalisability of results of randomised drug trials",
+          "volume": "170",
+          "author": "Licht",
+          "year": "1997",
+          "journal-title": "Br J Psychiatry"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "4s",
+          "DOI": "10.1016/S0197-2456(96)00068-2",
+          "article-title": "Clinical trials of arrhythmia management: methods or madness",
+          "volume": "17",
+          "author": "Camm",
+          "year": "1996",
+          "journal-title": "Control Clin Trials"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "561",
+          "DOI": "10.2337/diacare.24.3.561",
+          "article-title": "Effectiveness of self-management training in type 2 diabetes: a systematic review of randomised controlled trials",
+          "volume": "24",
+          "author": "Norris",
+          "year": "2001",
+          "journal-title": "Diabetes Care"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "149",
+          "DOI": "10.1046/j.1468-1293.2000.00019.x",
+          "article-title": "How generalisable are the results of large randomised controlled trials of antiretroviral therapy",
+          "volume": "1",
+          "author": "Moore",
+          "year": "2000",
+          "journal-title": "HIV Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "598",
+          "DOI": "10.1136/hrt.81.6.598",
+          "article-title": "Relevance of clinical trial results in myocardial infarction to medical practice: comparison of four year outcome in participants of a thrombolytic trial, patients receiving routine thrombolysis, and those deemed ineligible for thrombolysis",
+          "volume": "81",
+          "author": "Brown",
+          "year": "1999",
+          "journal-title": "Heart"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "1281",
+          "DOI": "10.1136/bmj.289.6454.1281",
+          "article-title": "Applying results of randomised trials to clinical practice: impact of losses before randomisation",
+          "volume": "289",
+          "author": "Charleson",
+          "year": "1984",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "1897",
+          "DOI": "10.1001/jama.1996.03530480039038",
+          "article-title": "Initial antidepressant choice in primary care: effectiveness of fluoxetine vs. tricyclic antidepressants",
+          "volume": "275",
+          "author": "Simon",
+          "year": "1996",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "289",
+          "DOI": "10.1016/S0895-4356(97)00293-X",
+          "article-title": "Incommunicable knowledge? Interpreting and applying the results of clinical trials and meta-analyses",
+          "volume": "51",
+          "author": "Davey",
+          "year": "1998",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib42",
+          "first-page": "487",
+          "article-title": "Measuring complexity of clinical problems",
+          "volume": "59",
+          "author": "Hennen",
+          "year": "1984",
+          "journal-title": "J Med Educ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib43",
+          "series-title": "Clinical Trials in Cardiology",
+          "first-page": "33",
+          "article-title": "Interpreting a trials report",
+          "author": "Julian",
+          "year": "1997"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "89",
+          "DOI": "10.3109/07853899409147334",
+          "article-title": "WHO guidelines for good clinical practice (GCP) for trials on pharmaceutical products: responsibilities of the investigator",
+          "volume": "26",
+          "author": "Idanpaan-Heikkila",
+          "year": "1994",
+          "journal-title": "Ann Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "252",
+          "DOI": "10.1093/ajhp/56.3.252",
+          "article-title": "Clinical research: regulatory issues",
+          "volume": "56",
+          "author": "Wermeling",
+          "year": "1999",
+          "journal-title": "Am J Health Syst Pharm"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib46",
+          "series-title": "MRC Guidelines for Good Clinical Practice in Clinical Trials",
+          "year": "1998"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib47",
+          "series-title": "Clinical Trials for Tomorrow",
+          "year": "2003"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "663",
+          "DOI": "10.7326/0003-4819-134-8-200104170-00012",
+          "article-title": "The revised CONSORT statement for reporting randomised trials: explanation and elaboration",
+          "volume": "134",
+          "author": "Altman",
+          "year": "2001",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib50",
+          "series-title": "Cochrane Reviewers' Handbook 4.2.1 [updated December 2003]. In: The Cochrane Library, Issue 1",
+          "year": "2004"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib51",
+          "first-page": "56",
+          "article-title": "Paternalistic vs egalitarian physician styles: the treatment of patients in crisis",
+          "volume": "21",
+          "author": "LeBaron",
+          "year": "1985",
+          "journal-title": "J Fam Pract"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "1200",
+          "DOI": "10.1136/bmj.294.6581.1200",
+          "article-title": "General practice consultations: is there any point in being positive?",
+          "volume": "294",
+          "author": "Thomas",
+          "year": "1987",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib53",
+          "doi-asserted-by": "crossref",
+          "first-page": "757",
+          "DOI": "10.1016/S0140-6736(00)04169-6",
+          "article-title": "Influence of context effects on health outcomes: a systematic review",
+          "volume": "357",
+          "author": "Di Blasi",
+          "year": "2001",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib54",
+          "doi-asserted-by": "crossref",
+          "first-page": "1347",
+          "DOI": "10.1016/S0140-6736(94)90699-8",
+          "article-title": "Placebo effect in double-blind clinical trials: a review of interactions with medications",
+          "volume": "344",
+          "author": "Kleijnen",
+          "year": "1994",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib55",
+          "doi-asserted-by": "crossref",
+          "first-page": "1722",
+          "DOI": "10.1016/S0140-6736(97)10111-8",
+          "article-title": "Powerful placebo: the dark side of the randomised controlled trial",
+          "volume": "351",
+          "author": "Kaptchuk",
+          "year": "1998",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib56",
+          "doi-asserted-by": "crossref",
+          "first-page": "63",
+          "DOI": "10.1016/S0090-4295(97)00494-9",
+          "article-title": "An assessment of the feasibility and impact of shared decision making in prostate cancer",
+          "volume": "51",
+          "author": "Onel",
+          "year": "1998",
+          "journal-title": "Urology"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib57",
+          "doi-asserted-by": "crossref",
+          "first-page": "873",
+          "DOI": "10.1136/bmj.325.7369.873",
+          "article-title": "Patients decisions about whether or not to take antihypertensive drugs: qualitative study",
+          "volume": "325",
+          "author": "Benson",
+          "year": "2002",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib58",
+          "doi-asserted-by": "crossref",
+          "first-page": "72",
+          "DOI": "10.1001/jama.1993.03510010078034",
+          "article-title": "Understanding patients' decisions",
+          "volume": "270",
+          "author": "Redelmeier",
+          "year": "1993",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib59",
+          "doi-asserted-by": "crossref",
+          "first-page": "226",
+          "DOI": "10.1016/0197-2456(92)90005-K",
+          "article-title": "Analysis of randomised and non-randomized patients in clinical trials using the comprehensive cohort follow-up study design",
+          "volume": "13",
+          "author": "Olschewski",
+          "year": "1992",
+          "journal-title": "Control Clin Trials"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib60",
+          "doi-asserted-by": "crossref",
+          "first-page": "1379",
+          "DOI": "10.1016/S0140-6736(97)09292-1",
+          "article-title": "Randomised trial of endarterectomy for recently symptomatic carotid stenosis: final results of the MRC European Carotid Surgery Trial (ECST)",
+          "volume": "351",
+          "year": "1998",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib61",
+          "doi-asserted-by": "crossref",
+          "first-page": "569",
+          "DOI": "10.1212/01.WNL.0000110311.09970.83",
+          "article-title": "Early risk of recurrent stroke by aetiological subtype: implications for stroke prevention",
+          "volume": "62",
+          "author": "Lovett",
+          "year": "2004",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib62",
+          "doi-asserted-by": "crossref",
+          "first-page": "339",
+          "DOI": "10.1161/01.STR.29.2.339",
+          "article-title": "Differences in medical and surgical therapy for stroke prevention between leading experts in North America and Western Europe",
+          "volume": "29",
+          "author": "Masuhr",
+          "year": "1998",
+          "journal-title": "Stroke"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib63",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.1161/01.STR.26.1.14",
+          "article-title": "Race-ethnicity and determinants of intracranial atherosclerotic cerebral infarction. The Northern Manhattan Stroke Study",
+          "volume": "26",
+          "author": "Sacco",
+          "year": "1995",
+          "journal-title": "Stroke"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib64",
+          "doi-asserted-by": "crossref",
+          "first-page": "1339",
+          "DOI": "10.1016/S0140-6736(95)92348-9",
+          "article-title": "Variation in protection by BCG: implications of and for heterologous immunity",
+          "volume": "346",
+          "author": "Fine",
+          "year": "1995",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "suppl 2",
+          "key": "10.1016/S0140-6736(04)17670-8_bib65",
+          "first-page": "133",
+          "article-title": "Between country variations in the use of medical treatments for acute stroke: An update",
+          "volume": "6",
+          "author": "Ricci",
+          "year": "1996",
+          "journal-title": "Cerebrovasc Dis"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib66",
+          "doi-asserted-by": "crossref",
+          "first-page": "2605",
+          "DOI": "10.1002/(SICI)1097-0258(19991015)18:19<2605::AID-SIM237>3.0.CO;2-N",
+          "article-title": "The implications of variation in outcome between health professionals for the design and analysis of randomized controlled trials",
+          "volume": "18",
+          "author": "Roberts",
+          "year": "1999",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib67",
+          "first-page": "241",
+          "article-title": "Systematic review of the effectiveness and safety of laparoscopic cholecystectomy",
+          "volume": "78",
+          "author": "Downs",
+          "year": "1996",
+          "journal-title": "Ann R Coll Surg Engl"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib68",
+          "doi-asserted-by": "crossref",
+          "first-page": "497",
+          "DOI": "10.1046/j.1464-410X.1996.01422.x",
+          "article-title": "The effectiveness of surgery for stress incontinence in women: a systematic review",
+          "volume": "78",
+          "author": "Black",
+          "year": "1996",
+          "journal-title": "Br J Urol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib69",
+          "doi-asserted-by": "crossref",
+          "first-page": "1421",
+          "DOI": "10.1001/jama.1995.03520420037035",
+          "article-title": "Carotid endarterectomy for patients with asymptomatic internal carotid artery stenosis",
+          "volume": "273",
+          "year": "1995",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib70",
+          "doi-asserted-by": "crossref",
+          "first-page": "323",
+          "DOI": "10.1016/S0741-5214(96)70277-X",
+          "article-title": "Surgical results: a justification of the surgeon selection process for the ACAS trial",
+          "volume": "23",
+          "author": "Moore",
+          "year": "1996",
+          "journal-title": "J Vasc Surg"
+        },
+        {
+          "issue": "suppl 4",
+          "key": "10.1016/S0140-6736(04)17670-8_bib71",
+          "first-page": "65",
+          "article-title": "High morbidity due to endarterectomy for asymptomatic carotid stenosis",
+          "volume": "16",
+          "author": "Bond",
+          "year": "2003",
+          "journal-title": "Cerebrovasc Dis"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib72",
+          "doi-asserted-by": "crossref",
+          "first-page": "1048",
+          "DOI": "10.1161/01.STR.23.8.1048",
+          "article-title": "Symptomatic carotid artery stenosis: a solvable problem. The NASCET trial",
+          "volume": "23",
+          "author": "Barnett",
+          "year": "1992",
+          "journal-title": "Stroke"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib73",
+          "doi-asserted-by": "crossref",
+          "first-page": "527",
+          "DOI": "10.1056/NEJM198902233200812",
+          "article-title": "Breast cancer therapy; exercising all our options",
+          "volume": "320",
+          "author": "De Vita",
+          "year": "1989",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib74",
+          "doi-asserted-by": "crossref",
+          "first-page": "1417",
+          "DOI": "10.1001/jama.1992.03490110055029",
+          "article-title": "The exclusion of elderly and women from clinical trials in acute myocardial infarction",
+          "volume": "268",
+          "author": "Gurwitz",
+          "year": "1992",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib75",
+          "doi-asserted-by": "crossref",
+          "first-page": "1059",
+          "DOI": "10.1136/bmj.315.7115.1059",
+          "article-title": "Exclusion of elderly people from clinical research: a descriptive study of published reports",
+          "volume": "315",
+          "author": "Bungeja",
+          "year": "1997",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib76",
+          "doi-asserted-by": "crossref",
+          "first-page": "30",
+          "DOI": "10.1136/bmj.298.6665.30",
+          "article-title": "Prevalence of symptoms of dyspepsia in the community",
+          "volume": "298",
+          "author": "Jones",
+          "year": "1989",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib77",
+          "doi-asserted-by": "crossref",
+          "first-page": "146",
+          "DOI": "10.1093/ageing/23.2.146",
+          "article-title": "Prevalence, incidence and prognosis of gastrointestinal symptoms in a random sample of an elderly population",
+          "volume": "23",
+          "author": "Kay",
+          "year": "1994",
+          "journal-title": "Age Ageing"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib78",
+          "doi-asserted-by": "crossref",
+          "first-page": "288",
+          "DOI": "10.1136/bmj.319.7205.288",
+          "article-title": "Predicted impact of intravenous thrombolysis on prognosis of general population of stroke patients: simulation model",
+          "volume": "319",
+          "author": "Jorgensen",
+          "year": "1999",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib79",
+          "doi-asserted-by": "crossref",
+          "first-page": "1581",
+          "DOI": "10.1056/NEJM199512143332401",
+          "article-title": "Tissue plasminogen activator for acute ischaemic stroke",
+          "volume": "333",
+          "year": "1995",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib80",
+          "doi-asserted-by": "crossref",
+          "first-page": "950",
+          "DOI": "10.1161/01.STR.19.8.950",
+          "article-title": "Acute stroke therapy trials: problems in patient accrual",
+          "volume": "19",
+          "author": "LaRue",
+          "year": "1988",
+          "journal-title": "Stroke"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib81",
+          "doi-asserted-by": "crossref",
+          "first-page": "529",
+          "DOI": "10.1016/0002-9149(91)90791-I",
+          "article-title": "Underutilisation of thrombolytic therapy in eligible women with acute myocardial infarction",
+          "volume": "68",
+          "author": "Maynard",
+          "year": "1991",
+          "journal-title": "Am J Cardiol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib82",
+          "doi-asserted-by": "crossref",
+          "first-page": "121",
+          "DOI": "10.1159/000110823",
+          "article-title": "Towards a model stroke trial. The single centre naftidrofuryl study",
+          "volume": "5",
+          "author": "Steiner",
+          "year": "1986",
+          "journal-title": "Neuroepidemiology"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib83",
+          "doi-asserted-by": "crossref",
+          "first-page": "29",
+          "DOI": "10.1016/S0165-5876(01)00504-3",
+          "article-title": "Generalisability of clinical trials in otitis media with effusion",
+          "volume": "60",
+          "author": "Rovers",
+          "year": "2001",
+          "journal-title": "Int J Pediatr Otorhinolaryngol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib84",
+          "doi-asserted-by": "crossref",
+          "first-page": "1191",
+          "DOI": "10.1161/01.CIR.74.6.1191",
+          "article-title": "Beyond randomised clinical trials: applying clinical experience in the treatment of patients with coronary artery disease",
+          "volume": "74",
+          "author": "Califf",
+          "year": "1986",
+          "journal-title": "Circulation"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib85",
+          "doi-asserted-by": "crossref",
+          "first-page": "527",
+          "DOI": "10.1161/01.CIR.84.2.527",
+          "article-title": "Stroke Prevention in Atrial Fibrillation Study",
+          "volume": "84",
+          "year": "1991",
+          "journal-title": "Circulation"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib86",
+          "doi-asserted-by": "crossref",
+          "first-page": "949",
+          "DOI": "10.7326/0003-4819-113-12-949",
+          "article-title": "Selection of patients with acute myocardial infarction for thrombolytic therapy",
+          "volume": "113",
+          "author": "Muller",
+          "year": "1990",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib87",
+          "first-page": "167",
+          "article-title": "Variations in the use of coronary arteriography in the UK: the RITA trial coronary arteriogram register",
+          "volume": "88",
+          "author": "Henderson",
+          "year": "1995",
+          "journal-title": "Q J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib88",
+          "doi-asserted-by": "crossref",
+          "first-page": "225",
+          "DOI": "10.1016/S1071-9164(98)80009-2",
+          "article-title": "Consecutive screening and enrolment in clinical trials: the way to representative patient samples?",
+          "volume": "4",
+          "author": "Bjorn",
+          "year": "1998",
+          "journal-title": "J Card Fail"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib89",
+          "doi-asserted-by": "crossref",
+          "first-page": "432",
+          "DOI": "10.1002/hup.470090605",
+          "article-title": "The clinical characteristics of schizophrenic patients consenting or not consenting to a placebo controlled trial of antipsychotic medication",
+          "volume": "9",
+          "author": "Bowen",
+          "year": "1994",
+          "journal-title": "Hum Psychopharmacol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib90",
+          "doi-asserted-by": "crossref",
+          "first-page": "263",
+          "DOI": "10.1002/(SICI)1097-0258(19960215)15:3<263::AID-SIM165>3.0.CO;2-K",
+          "article-title": "Randomized and non-randomized patients in clinical trials: experiences with comprehensive cohort studies",
+          "volume": "15",
+          "author": "Schmoor",
+          "year": "1996",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib91",
+          "doi-asserted-by": "crossref",
+          "first-page": "352",
+          "DOI": "10.1038/bjc.1994.306",
+          "article-title": "Centralised treatment, entry to trials and survival",
+          "volume": "70",
+          "author": "Stiller",
+          "year": "1994",
+          "journal-title": "Br J Cancer"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib92",
+          "doi-asserted-by": "crossref",
+          "first-page": "328",
+          "DOI": "10.1136/bmj.318.7179.328b",
+          "article-title": "Intravenous β blockade in acute myocardial infarction. Doubt exists about external validity of trials of intravenous β blockade",
+          "volume": "318",
+          "author": "Woods",
+          "year": "1999",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib93",
+          "first-page": "397",
+          "article-title": "Effectiveness of intravenous thrombolytic treatment in acute myocardial infarction",
+          "volume": "1",
+          "year": "1986",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib94",
+          "doi-asserted-by": "crossref",
+          "first-page": "222",
+          "DOI": "10.1001/jama.279.3.222",
+          "article-title": "Run-in periods in randomised trials: implications for the application of results in clinical practice",
+          "volume": "279",
+          "author": "Pablos-Mendez",
+          "year": "1998",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib95",
+          "doi-asserted-by": "crossref",
+          "first-page": "12",
+          "DOI": "10.1016/0197-2456(87)90021-3",
+          "article-title": "Patient compliance and the conduct and interpretation of therapeutic trials",
+          "volume": "8",
+          "author": "Haynes",
+          "year": "1987",
+          "journal-title": "Control Clin Trials"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib96",
+          "doi-asserted-by": "crossref",
+          "first-page": "408",
+          "DOI": "10.1016/0197-2456(91)90020-M",
+          "article-title": "The sodium-potassium blood pressure trial in children: design, recruitment and randomisation",
+          "volume": "12",
+          "author": "Gomez-Marin",
+          "year": "1991",
+          "journal-title": "Control Clin Trials"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib97",
+          "doi-asserted-by": "crossref",
+          "first-page": "212",
+          "DOI": "10.1161/01.CIR.92.2.212",
+          "article-title": "Effects of carvedilol, a vasodilatory β-blocker, in patients with congestive heart failure due to ischaemic heart disease",
+          "volume": "92",
+          "year": "1995",
+          "journal-title": "Circulation"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib98",
+          "doi-asserted-by": "crossref",
+          "first-page": "1349",
+          "DOI": "10.1056/NEJM199605233342101",
+          "article-title": "The effects of carvedilol on morbidity and mortality in patients with chronic heart failure",
+          "volume": "334",
+          "author": "Packer",
+          "year": "1996",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib99",
+          "doi-asserted-by": "crossref",
+          "first-page": "674",
+          "DOI": "10.1002/j.1552-4604.1975.tb05919.x",
+          "article-title": "A clinical trial design avoiding undue placebo treatment",
+          "volume": "15",
+          "author": "Amery",
+          "year": "1975",
+          "journal-title": "J Clin Pharmacol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib100",
+          "doi-asserted-by": "crossref",
+          "first-page": "283",
+          "DOI": "10.1097/00004714-198109000-00003",
+          "article-title": "Methodological problems in studies of depressive disorder: utility of the discontinuation design",
+          "volume": "1",
+          "author": "Quitkin",
+          "year": "1981",
+          "journal-title": "J Clin Psychopharmacol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib101",
+          "doi-asserted-by": "crossref",
+          "first-page": "486",
+          "DOI": "10.1016/0197-2456(91)90009-B",
+          "article-title": "Randomising responders",
+          "volume": "12",
+          "author": "Hallstrom",
+          "year": "1991",
+          "journal-title": "Control Clin Trials"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib102",
+          "doi-asserted-by": "crossref",
+          "first-page": "178",
+          "DOI": "10.1016/S0197-2456(97)00118-9",
+          "article-title": "Threats to the validity of clinical trials employing enrichment strategies for sample selection",
+          "volume": "19",
+          "author": "Leber",
+          "year": "1998",
+          "journal-title": "Control Clin Trials"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib103",
+          "doi-asserted-by": "crossref",
+          "first-page": "1253",
+          "DOI": "10.1056/NEJM199210293271801",
+          "article-title": "A double-blind, placebo-controlled multicenter study of tacrine for Alzheimer's disease",
+          "volume": "327",
+          "author": "Davis",
+          "year": "1992",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib104",
+          "doi-asserted-by": "crossref",
+          "first-page": "466",
+          "DOI": "10.1016/S0039-6060(96)80149-8",
+          "article-title": "Methodologic standards in surgical trials",
+          "volume": "119",
+          "author": "Hall",
+          "year": "1996",
+          "journal-title": "Surgery"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib105",
+          "doi-asserted-by": "crossref",
+          "first-page": "973",
+          "DOI": "10.1016/S0895-4356(00)00227-4",
+          "article-title": "Reporting the study populations of clinical trials. Clear transmission or static on the line?",
+          "volume": "53",
+          "author": "Shapiro",
+          "year": "2000",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib106",
+          "doi-asserted-by": "crossref",
+          "first-page": "1255",
+          "DOI": "10.1016/0140-6736(93)92358-Z",
+          "article-title": "Secondary prevention in non-rheumatic atrial fibrillation after transient ischaemic attack or minor stroke",
+          "volume": "342",
+          "year": "1993",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib107",
+          "doi-asserted-by": "crossref",
+          "first-page": "857",
+          "DOI": "10.1002/ana.410420606",
+          "article-title": "A randomized trial of anticoagulants versus aspirin after cerebral ischaemia of presumed arterial origin",
+          "volume": "42",
+          "author": "Algra",
+          "year": "1997",
+          "journal-title": "Ann Neurol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib108",
+          "doi-asserted-by": "crossref",
+          "first-page": "1319",
+          "DOI": "10.1212/WNL.53.6.1319",
+          "article-title": "Major bleeding during anticoagulation after cerebral ischaemia: patterns and risk factors",
+          "volume": "53",
+          "author": "Gorter",
+          "year": "1999",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib109",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1016/S0140-6736(03)12228-3",
+          "article-title": "Pooled analysis of individual patient data from randomised controlled trials of endarterectomy for symptomatic carotid stenosis",
+          "volume": "361",
+          "author": "Rothwell",
+          "year": "2003",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib110",
+          "doi-asserted-by": "crossref",
+          "first-page": "71",
+          "DOI": "10.1007/s002280100266",
+          "article-title": "Association of outpatient utilisation of non-steroidal anti-inflammatory drugs and hospitalised heart failure in the entire Swedish population",
+          "volume": "57",
+          "author": "Merlo",
+          "year": "2001",
+          "journal-title": "Eur J Clin Pharmacol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib111",
+          "doi-asserted-by": "crossref",
+          "first-page": "260",
+          "DOI": "10.1161/01.STR.27.2.260",
+          "article-title": "A systematic review of the risks of stroke and death due to carotid endarterectomy for symptomatic stenosis",
+          "volume": "27",
+          "author": "Rothwell",
+          "year": "1996",
+          "journal-title": "Stroke"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib112",
+          "doi-asserted-by": "crossref",
+          "first-page": "802",
+          "DOI": "10.1056/NEJM199003223221203",
+          "article-title": "Effect of fluoride treatment on fracture rate in postmenopausal women with osteoporosis",
+          "volume": "322",
+          "author": "Riggs",
+          "year": "1990",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib113",
+          "doi-asserted-by": "crossref",
+          "first-page": "235",
+          "DOI": "10.2165/00003495-199754020-00003",
+          "article-title": "Antiarrhythmic therapies for the prevention of sudden cardiac death",
+          "volume": "54",
+          "author": "McAlistair",
+          "year": "1997",
+          "journal-title": "Drugs"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib114",
+          "doi-asserted-by": "crossref",
+          "first-page": "406",
+          "DOI": "10.1056/NEJM198908103210629",
+          "article-title": "Preliminary report: effect of encainide and flecainide on mortality in a randomized trial of arrhythmia suppression after myocardial infarction",
+          "volume": "321",
+          "year": "1989",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib115",
+          "doi-asserted-by": "crossref",
+          "first-page": "655",
+          "DOI": "10.1212/WNL.43.4.655",
+          "article-title": "Interferon b-1b is effective in relapsing-remitting multiple sclerosis. I. Clinical results of a multicenter, randomized, double-blind, placebo-controlled trial",
+          "volume": "43",
+          "year": "1993",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib116",
+          "doi-asserted-by": "crossref",
+          "first-page": "1277",
+          "DOI": "10.1212/WNL.45.7.1277",
+          "article-title": "Interferon b-1b in the treatment of multiple sclerosis: final outcome of the randomized controlled trial",
+          "volume": "45",
+          "year": "1995",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib117",
+          "doi-asserted-by": "crossref",
+          "first-page": "285",
+          "DOI": "10.1002/ana.410390304",
+          "article-title": "Intramuscular interferon β-1a for disease progression in relapsing multiple sclerosis",
+          "volume": "39",
+          "author": "Jacobs",
+          "year": "1996",
+          "journal-title": "Ann Neurol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib118",
+          "doi-asserted-by": "crossref",
+          "first-page": "1498",
+          "DOI": "10.1016/S0140-6736(98)03334-0",
+          "article-title": "Randomised double-blind placebo-controlled study of interferon b-1a in relapsing-remitting multiple sclerosis",
+          "volume": "352",
+          "year": "1998",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib119",
+          "doi-asserted-by": "crossref",
+          "first-page": "677",
+          "DOI": "10.1056/NEJM198903163201101",
+          "article-title": "A comparison of oral milrinone, digoxin and their combination in the treatment of patients with chronic heart failure",
+          "volume": "320",
+          "author": "Di Bianco",
+          "year": "1989",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib120",
+          "doi-asserted-by": "crossref",
+          "first-page": "34A",
+          "DOI": "10.1016/S0002-9149(99)80381-6",
+          "article-title": "Safety and efficacy of epoprostenol in patients with severe congestive heart failure",
+          "volume": "75",
+          "author": "Sueta",
+          "year": "1995",
+          "journal-title": "Am J Cardiol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib121",
+          "doi-asserted-by": "crossref",
+          "first-page": "1468",
+          "DOI": "10.1056/NEJM199111213252103",
+          "article-title": "Effect of oral milrinone on mortality in severe chronic heart failure",
+          "volume": "325",
+          "author": "Packer",
+          "year": "1991",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib122",
+          "doi-asserted-by": "crossref",
+          "first-page": "44",
+          "DOI": "10.1016/S0002-8703(97)70105-4",
+          "article-title": "A randomized controlled trial of epoprostenol therapy for severe congestive heart failure",
+          "volume": "134",
+          "author": "Califf",
+          "year": "1997",
+          "journal-title": "Am Heart J"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib123",
+          "doi-asserted-by": "crossref",
+          "first-page": "1860",
+          "DOI": "10.1093/oxfordjournals.eurheartj.a015193",
+          "article-title": "Can drug effects on mortality in heart failure be predicted by any surrogate outcome measure?",
+          "volume": "18",
+          "author": "Yee",
+          "year": "1997",
+          "journal-title": "Eur Heart J"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib124",
+          "doi-asserted-by": "crossref",
+          "first-page": "971",
+          "DOI": "10.1016/S0140-6736(96)10488-8",
+          "article-title": "Randomised study of ibopamine on survival in patients with advanced severe heart failure",
+          "volume": "349",
+          "author": "Hampton",
+          "year": "1997",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib125",
+          "doi-asserted-by": "crossref",
+          "first-page": "331",
+          "DOI": "10.1002/sim.4780140402",
+          "article-title": "Methodological and statistical problems in the construction of composite measurement scales: a survery of six medical and epidemiological journals",
+          "volume": "14",
+          "author": "Coste",
+          "year": "1995",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib126",
+          "first-page": "244",
+          "article-title": "Down with stroke scales",
+          "volume": "2",
+          "author": "van Gijn",
+          "year": "1992",
+          "journal-title": "Cerebrovasc Dis"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib127",
+          "doi-asserted-by": "crossref",
+          "first-page": "31",
+          "DOI": "10.1016/0197-2456(89)90017-2",
+          "article-title": "Methodology and overt and hidden bias in reports of 196 double-blind trials of nonsteroidal antiinflammatory drugs in rheumatoid arthritis",
+          "volume": "10",
+          "author": "Gtzsche",
+          "year": "1989",
+          "journal-title": "Control Clin Trials"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib128",
+          "doi-asserted-by": "crossref",
+          "first-page": "1181",
+          "DOI": "10.1136/bmj.317.7167.1181",
+          "article-title": "Content and quality of 2000 controlled trials in schizophrenia over 50 years",
+          "volume": "317",
+          "author": "Thornley",
+          "year": "1998",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib129",
+          "doi-asserted-by": "crossref",
+          "first-page": "249",
+          "DOI": "10.1192/bjp.176.3.249",
+          "article-title": "Unpublished rating scales—a major source of bias in randomised controlled trials of treatments for schizophrenia?",
+          "volume": "176",
+          "author": "Marshall",
+          "year": "2000",
+          "journal-title": "Br J Psychiatry"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib130",
+          "doi-asserted-by": "crossref",
+          "first-page": "1580",
+          "DOI": "10.1136/bmj.314.7094.1580",
+          "article-title": "Doctors and patients don't agree: cross sectional study of patients' and doctors' perceptions and assessments of disability in multiple sclerosis",
+          "volume": "314",
+          "author": "Rothwell",
+          "year": "1997",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib131",
+          "doi-asserted-by": "crossref",
+          "first-page": "187",
+          "DOI": "10.1016/S1059-1311(05)80059-7",
+          "article-title": "Design of clinical antiepileptic drug trials",
+          "volume": "4",
+          "author": "Binnie",
+          "year": "1995",
+          "journal-title": "Seizure"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib132",
+          "doi-asserted-by": "crossref",
+          "first-page": "333",
+          "DOI": "10.1212/WNL.49.2.333",
+          "article-title": "Difficulties in extrapolating from clinical trial data to clinical practice: the case of antiepileptic drugs",
+          "volume": "49",
+          "author": "Walker",
+          "year": "1997",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib133",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/S0022-510X(96)00308-5",
+          "article-title": "Dipyridamole and acetylsalicylic acid in the secondary prevention of stroke",
+          "volume": "143",
+          "author": "Diener",
+          "year": "1996",
+          "journal-title": "J Neurol Sci"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib134",
+          "doi-asserted-by": "crossref",
+          "first-page": "1037",
+          "DOI": "10.1016/0895-4356(88)90072-8",
+          "article-title": "Rheumatoid arthritis: disappointing long-term outcomes despite successful short–term clinical trials",
+          "volume": "41",
+          "author": "Pincus",
+          "year": "1998",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib135",
+          "doi-asserted-by": "crossref",
+          "first-page": "1752",
+          "DOI": "10.1016/S0140-6736(05)79825-1",
+          "article-title": "Reporting of safety data from randomised trials",
+          "volume": "352",
+          "author": "Ioannidis",
+          "year": "1998",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib136",
+          "doi-asserted-by": "crossref",
+          "first-page": "293",
+          "DOI": "10.1136/bmj.311.7000.293",
+          "article-title": "Discontinuation of and changes in treatment after start of new courses of antihypertensive drugs: a study of a United Kingdom population",
+          "volume": "311",
+          "author": "Jones",
+          "year": "1995",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib137",
+          "doi-asserted-by": "crossref",
+          "first-page": "1125",
+          "DOI": "10.1056/NEJM199504273321703",
+          "article-title": "Discontinuation of antihyperlipidaemic drugs—do rates reported in clinical trials reflect rates in primary care settings",
+          "volume": "332",
+          "author": "Andrade",
+          "year": "1995",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib138",
+          "doi-asserted-by": "crossref",
+          "first-page": "833",
+          "DOI": "10.1136/bmj.280.6217.833",
+          "article-title": "Study of information submitted by drug companies to licensing authorities",
+          "volume": "280",
+          "author": "Hemminki",
+          "year": "1980",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib139",
+          "doi-asserted-by": "crossref",
+          "first-page": "518",
+          "DOI": "10.1136/bmj.328.7438.518",
+          "article-title": "Synthesising licensing data to assess drug safety",
+          "volume": "328",
+          "author": "McPherson",
+          "year": "2004",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib140",
+          "doi-asserted-by": "crossref",
+          "first-page": "1200",
+          "DOI": "10.1001/jama.279.15.1200",
+          "article-title": "Incidence of adverse drug reactions in hospitalised patients",
+          "volume": "279",
+          "author": "Lazarou",
+          "year": "1998",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib141",
+          "doi-asserted-by": "crossref",
+          "first-page": "315",
+          "DOI": "10.1016/0002-9343(93)90285-W",
+          "article-title": "Anticoagulant-related bleeding: clinical epidemiology, prediction, and prevention",
+          "volume": "95",
+          "author": "Landefeld",
+          "year": "1993",
+          "journal-title": "Am J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib142",
+          "first-page": "285",
+          "article-title": "A survey of atrial fibrillation in general practice",
+          "volume": "47",
+          "author": "Lip",
+          "year": "1997",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib143",
+          "doi-asserted-by": "crossref",
+          "first-page": "713",
+          "DOI": "10.1007/BF02598984",
+          "article-title": "Failure to prescribe warfarin to patients with non-rheumatic atrial fibrillation",
+          "volume": "11",
+          "author": "Antani",
+          "year": "1996",
+          "journal-title": "J Gen Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib144",
+          "doi-asserted-by": "crossref",
+          "first-page": "1215",
+          "DOI": "10.1136/bmj.312.7040.1215",
+          "article-title": "Why we need observational studies to evaluate the effectiveness of health care",
+          "volume": "312",
+          "author": "Black",
+          "year": "1996",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib145",
+          "doi-asserted-by": "crossref",
+          "first-page": "312",
+          "DOI": "10.1136/bmj.319.7205.312",
+          "article-title": "Methods in health service research. Interpreting the evidence: choosing between randomised and non-randomised studies",
+          "volume": "319",
+          "author": "McKee",
+          "year": "1999",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib146",
+          "doi-asserted-by": "crossref",
+          "first-page": "1887",
+          "DOI": "10.1056/NEJM200006223422507",
+          "article-title": "Randomised, controlled trials, observational studies, and the hierarchy of research designs",
+          "volume": "342",
+          "author": "Concato",
+          "year": "2000",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib147",
+          "doi-asserted-by": "crossref",
+          "first-page": "1878",
+          "DOI": "10.1056/NEJM200006223422506",
+          "article-title": "A comparison of observational studies and randomized controlled trials",
+          "volume": "342",
+          "author": "Benson",
+          "year": "2000",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib148",
+          "doi-asserted-by": "crossref",
+          "first-page": "1038",
+          "DOI": "10.1056/NEJM198010303031804",
+          "article-title": "Influence of adherence to treatment and response to cholesterol on mortality in the Coronary Drug Project",
+          "volume": "303",
+          "year": "1980",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(04)17670-8_bib149",
+          "doi-asserted-by": "crossref",
+          "first-page": "7",
+          "DOI": "10.1016/S0140-6736(02)09327-3",
+          "article-title": "MRC/BHF Heart Protection Study of cholesterol lowering with simvastatin in 20536 high-risk individuals: a randomised placebo-controlled trial",
+          "volume": "360",
+          "year": "2002",
+          "journal-title": "Lancet"
+        }
+      ],
+      "container-title": [
+        "The Lancet"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0140673604176708?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0140673604176708?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            5
+          ]
+        ],
+        "date-time": "2020-04-05T06:44:48Z",
+        "timestamp": 1586069088000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0140673604176708"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2005,
+            1
+          ]
+        ]
+      },
+      "references-count": 148,
+      "journal-issue": {
+        "issue": "9453",
+        "published-print": {
+          "date-parts": [
+            [
+              2005,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0140673604176708"
+      ],
+      "URL": "https://doi.org/10.1016/s0140-6736(04)17670-8",
+      "relation": {},
+      "ISSN": [
+        "0140-6736"
+      ],
+      "issn-type": [
+        {
+          "value": "0140-6736",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2005,
+            1
+          ]
+        ]
+      }
+    }
+  }
+}

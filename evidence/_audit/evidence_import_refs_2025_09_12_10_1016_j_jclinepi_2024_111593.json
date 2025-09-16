@@ -1,0 +1,881 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jclinepi_2024_111593.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jclinepi_2024_111593",
+  "doi": "10.1016/j.jclinepi.2024.111593",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:40.386586Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T21:40:37Z",
+        "timestamp": 1757454037557,
+        "version": "3.38.0"
+      },
+      "reference-count": 49,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2025-01-01T00:00:00Z",
+            "timestamp": 1735689600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2025-01-01T00:00:00Z",
+            "timestamp": 1735689600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                11,
+                7
+              ]
+            ],
+            "date-time": "2024-11-07T00:00:00Z",
+            "timestamp": 1730937600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100005416",
+          "name": "Research Council of Norway",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "324,915"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100005416",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "clinicalkey.es",
+          "clinicalkey.com.au",
+          "clinicalkey.com",
+          "jclinepi.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Clinical Epidemiology"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jclinepi.2024.111593",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            9
+          ]
+        ],
+        "date-time": "2024-11-09T10:11:01Z",
+        "timestamp": 1731147061000
+      },
+      "page": "111593",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 4,
+      "special_numbering": "C",
+      "title": [
+        "Prediction models for outcomes in people with low back pain receiving conservative treatment: a systematic review"
+      ],
+      "prefix": "10.1016",
+      "volume": "177",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-3260-8972",
+          "authenticated-orcid": false,
+          "given": "Rubens",
+          "family": "Vidal",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Margreth",
+          "family": "Grotle",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4300-5250",
+          "authenticated-orcid": false,
+          "given": "Marianne Bakke",
+          "family": "Johnsen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Louis",
+          "family": "Yvernay",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5876-7410",
+          "authenticated-orcid": false,
+          "given": "Jan",
+          "family": "Hartvigsen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Raymond",
+          "family": "Ostelo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lise Grethe",
+          "family": "Kjønø",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christian Lindtveit",
+          "family": "Enstad",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rikke Munk",
+          "family": "Killingmo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Einar Henjum",
+          "family": "Halsnes",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Guilherme H.D.",
+          "family": "Grande",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6911-7018",
+          "authenticated-orcid": false,
+          "given": "Crystian B.",
+          "family": "Oliveira",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "2",
+          "key": "10.1016/j.jclinepi.2024.111593_bib1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pmed.1001381",
+          "article-title": "Prognosis research strategy (PROGRESS) 3: prognostic model research",
+          "volume": "10",
+          "author": "Steyerberg",
+          "year": "2013",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.jclinepi.2024.111593_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "1005",
+          "DOI": "10.1056/NEJMoa021322",
+          "article-title": "The body-mass index, airflow obstruction, dyspnea, and exercise capacity index in chronic obstructive pulmonary disease",
+          "volume": "350",
+          "author": "Celli",
+          "year": "2004",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/j.jclinepi.2024.111593_bib3",
+          "article-title": "Prognostic models for outcome prediction in patients with chronic obstructive pulmonary disease: systematic review and critical appraisal",
+          "volume": "367",
+          "author": "Bellou",
+          "year": "2019",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "10090",
+          "key": "10.1016/j.jclinepi.2024.111593_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "191",
+          "DOI": "10.1016/S0140-6736(16)32586-7",
+          "article-title": "Levers for addressing medical underuse and overuse: achieving high-value health care",
+          "volume": "390",
+          "author": "Elshaug",
+          "year": "2017",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "10137",
+          "key": "10.1016/j.jclinepi.2024.111593_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "2368",
+          "DOI": "10.1016/S0140-6736(18)30489-6",
+          "article-title": "Prevention and treatment of low back pain: evidence, challenges, and promising directions",
+          "volume": "391",
+          "author": "Foster",
+          "year": "2018",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.jclinepi.2024.111593_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "863",
+          "DOI": "10.1001/jama.2020.0734",
+          "article-title": "US health care spending by payer and health condition, 1996-2016",
+          "volume": "323",
+          "author": "Dieleman",
+          "year": "2020",
+          "journal-title": "JAMA"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jclinepi.2024.111593_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "965",
+          "DOI": "10.1007/s00038-019-01211-6",
+          "article-title": "Direct healthcare costs of spinal disorders in Brazil",
+          "volume": "64",
+          "author": "Carregaro",
+          "year": "2019",
+          "journal-title": "Int J Public Health"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.jclinepi.2024.111593_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "2875",
+          "DOI": "10.1007/s00586-018-5742-6",
+          "article-title": "Cost of low back pain: results from a national register study in Sweden",
+          "volume": "27",
+          "author": "Olafsson",
+          "year": "2018",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.jclinepi.2024.111593_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "748",
+          "DOI": "10.1097/AJP.0000000000000591",
+          "article-title": "Lack of prognostic model validation in low back pain prediction studies: a systematic review",
+          "volume": "34",
+          "author": "McIntosh",
+          "year": "2018",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "issue": "1_suppl",
+          "key": "10.1016/j.jclinepi.2024.111593_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "79s",
+          "DOI": "10.1177/2192568220959037",
+          "article-title": "Prediction models in degenerative spine surgery: a systematic review",
+          "volume": "11",
+          "author": "Lubelski",
+          "year": "2021",
+          "journal-title": "Global Spine J"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jclinepi.2024.111593_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "99",
+          "DOI": "10.1016/j.jphys.2022.03.009",
+          "article-title": "No prognostic model for people with recent-onset low back pain has yet been demonstrated to be suitable for use in clinical practice: a systematic review",
+          "volume": "68",
+          "author": "Silva",
+          "year": "2022",
+          "journal-title": "J Physiother"
+        },
+        {
+          "key": "10.1016/j.jclinepi.2024.111593_bib12",
+          "article-title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+          "volume": "372",
+          "author": "Page",
+          "year": "2021",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jclinepi.2024.111593_bib13",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0032844",
+          "article-title": "Search filters for finding prognostic and diagnostic prediction studies in Medline to enhance systematic reviews",
+          "volume": "7",
+          "author": "Geersing",
+          "year": "2012",
+          "journal-title": "PLoS One"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jclinepi.2024.111593_bib14",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pmed.1001380",
+          "article-title": "Prognosis research strategy (PROGRESS) 2: prognostic factor research",
+          "volume": "10",
+          "author": "Riley",
+          "year": "2013",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.jclinepi.2024.111593_bib15",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pmed.1001744",
+          "article-title": "Critical appraisal and data extraction for systematic reviews of prediction modelling studies: the CHARMS checklist",
+          "volume": "11",
+          "author": "Moons",
+          "year": "2014",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "10.1016/j.jclinepi.2024.111593_bib16",
+          "article-title": "A guide to systematic review and meta-analysis of prediction model performance",
+          "volume": "356",
+          "author": "Debray",
+          "year": "2017",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jclinepi.2024.111593_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "51",
+          "DOI": "10.7326/M18-1376",
+          "article-title": "PROBAST: a tool to assess the risk of bias and applicability of prediction model studies",
+          "volume": "170",
+          "author": "Wolff",
+          "year": "2019",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jclinepi.2024.111593_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "128",
+          "DOI": "10.1097/EDE.0b013e3181c30fb2",
+          "article-title": "Assessing the performance of prediction models: a framework for traditional and novel measures",
+          "volume": "21",
+          "author": "Steyerberg",
+          "year": "2010",
+          "journal-title": "Epidemiology"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jclinepi.2024.111593_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "834",
+          "DOI": "10.1186/s12891-022-05718-7",
+          "article-title": "Development and internal validation of a machine learning prediction model for low back pain non-recovery in patients with an acute episode consulting a physiotherapist in primary care",
+          "volume": "23",
+          "author": "Knoop",
+          "year": "2022",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.jclinepi.2024.111593_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1008",
+          "DOI": "10.1016/j.spinee.2012.10.007",
+          "article-title": "Predicting the evolution of low back pain patients in routine clinical practice: results from a registry within the Spanish National Health Service",
+          "volume": "12",
+          "author": "Kovacs",
+          "year": "2012",
+          "journal-title": "Spine J"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jclinepi.2024.111593_bib21",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0265970",
+          "article-title": "Derivation of clinical prediction rules for identifying patients with non-acute low back pain who respond best to a lumbar stabilization exercise program at post-treatment and six-month follow-up",
+          "volume": "17",
+          "author": "Larivière",
+          "year": "2022",
+          "journal-title": "PLoS One"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jclinepi.2024.111593_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "425",
+          "DOI": "10.2519/jospt.2012.3826",
+          "article-title": "Derivation of a preliminary clinical prediction rule for identifying a subgroup of patients with low back pain likely to benefit from Pilates-based exercise",
+          "volume": "42",
+          "author": "Stolze",
+          "year": "2012",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jclinepi.2024.111593_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "102",
+          "DOI": "10.1007/s00586-013-2844-z",
+          "article-title": "Predictive factors for successful clinical outcome 1 year after an intensive combined physical and psychological programme for chronic low back pain",
+          "volume": "23",
+          "author": "van Hooff",
+          "year": "2014",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.jclinepi.2024.111593_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "847",
+          "DOI": "10.1016/j.spinee.2010.06.005",
+          "article-title": "The prognosis of chronic low back pain is determined by changes in pain and disability in the initial period",
+          "volume": "10",
+          "author": "Heymans",
+          "year": "2010",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.jclinepi.2024.111593_bib25",
+          "article-title": "Logistic model and gradient boosting machine model for physical therapy of lumbar disc herniation",
+          "volume": "2022",
+          "author": "Zhao",
+          "year": "2022",
+          "journal-title": "Comput Times"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jclinepi.2024.111593_bib26",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1097/j.pain.0000000000002768",
+          "article-title": "Estimating individualized treatment effects using a risk-modeling approach: an application to epidural steroid injections for lumbar spinal stenosis",
+          "volume": "164",
+          "author": "Liu",
+          "year": "2023",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.jclinepi.2024.111593_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "920",
+          "DOI": "10.7326/0003-4819-141-12-200412210-00008",
+          "article-title": "A clinical prediction rule to identify patients with low back pain most likely to benefit from spinal manipulation: a validation study",
+          "volume": "141",
+          "author": "Childs",
+          "year": "2004",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jclinepi.2024.111593_bib28",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pmed.1002019",
+          "article-title": "Estimating the risk of chronic pain: development and validation of a prognostic model (PICKUP) for patients with acute low back pain",
+          "volume": "13",
+          "author": "Traeger",
+          "year": "2016",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jclinepi.2024.111593_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "23",
+          "DOI": "10.1071/HC14023",
+          "article-title": "Prognostic factors associated with low back pain outcomes",
+          "volume": "6",
+          "author": "Gregg",
+          "year": "2014",
+          "journal-title": "J Prim Health Care"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jclinepi.2024.111593_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.1007/s10926-009-9166-3",
+          "article-title": "Return to work in a cohort of low back pain patients: development and validation of a clinical prediction rule",
+          "volume": "19",
+          "author": "Heymans",
+          "year": "2009",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jclinepi.2024.111593_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "383",
+          "DOI": "10.1007/s10926-007-9084-1",
+          "article-title": "Exploring the contribution of patient-reported and clinician based variables for the prediction of low back work status",
+          "volume": "17",
+          "author": "Heymans",
+          "year": "2007",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jclinepi.2024.111593_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "361",
+          "DOI": "10.1007/s10926-012-9404-y",
+          "article-title": "The predictive validity of OMPQ on the rehabilitation outcomes for patients with acute and subacute non-specific LBP in a Chinese population",
+          "volume": "23",
+          "author": "Law",
+          "year": "2013",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jclinepi.2024.111593_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "251",
+          "DOI": "10.1186/s12891-021-04122-x",
+          "article-title": "Multidisciplinary programme for rehabilitation of chronic low back pain - factors predicting successful return to work",
+          "volume": "22",
+          "author": "Leung",
+          "year": "2021",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.jclinepi.2024.111593_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "53",
+          "DOI": "10.1186/1471-2296-11-53",
+          "article-title": "Predictors of stable return-to-work in non-acute, non-specific spinal pain: low total prior sick-listing, high self prediction and young age. A two-year prospective cohort study",
+          "volume": "11",
+          "author": "Lindell",
+          "year": "2010",
+          "journal-title": "BMC Fam Pract"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jclinepi.2024.111593_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "359",
+          "DOI": "10.23736/S1973-9087.17.04398-2",
+          "article-title": "The predictive value of subsets of the Orebro Musculoskeletal Pain Screening Questionnaire for return to work in chronic low back pain",
+          "volume": "53",
+          "author": "Opsommer",
+          "year": "2017",
+          "journal-title": "Eur J Phys Rehabil Med"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jclinepi.2024.111593_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "381",
+          "DOI": "10.1016/j.jmpt.2005.06.008",
+          "article-title": "The Nordic Back Pain Subpopulation Program: validation and improvement of a predictive model for treatment outcome in patients with low back pain receiving chiropractic treatment",
+          "volume": "28",
+          "author": "Axen",
+          "year": "2005",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jclinepi.2024.111593_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1016/j.jphys.2018.02.009",
+          "article-title": "The predictive ability of the STarT Back Tool was limited in people with chronic low back pain: a prospective cohort study",
+          "volume": "64",
+          "author": "Kendell",
+          "year": "2018",
+          "journal-title": "J Physiother"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jclinepi.2024.111593_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.1097/BRS.0000000000000059",
+          "article-title": "Expectation of recovery from low back pain: a longitudinal cohort study investigating patient characteristics related to expectations and the association between expectations and 3-month outcome",
+          "volume": "39",
+          "author": "Kongsted",
+          "year": "2014",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jclinepi.2024.111593_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1186/1746-1340-16-13",
+          "article-title": "The Nordic back pain subpopulation program: predicting outcome among chiropractic patients in Finland",
+          "volume": "16",
+          "author": "Malmqvist",
+          "year": "2008",
+          "journal-title": "Chiropr Osteopathy"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.jclinepi.2024.111593_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "1427",
+          "DOI": "10.1080/09638288.2020.1799248",
+          "article-title": "Outcome of group physical therapy treatment for non-specific low back pain patients can be predicted with the cross-culturally adapted and validated Hungarian version STarT back screening tool",
+          "volume": "44",
+          "author": "Szita",
+          "year": "2022",
+          "journal-title": "Disabil Rehabil"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jclinepi.2024.111593_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "96",
+          "DOI": "10.1016/j.math.2014.07.003",
+          "article-title": "Prognostic factors and course for successful clinical outcome quality of life and patients' perceived effect after a cognitive behavior therapy for chronic non-specific low back pain: a 12-months prospective study",
+          "volume": "20",
+          "author": "Verkerk",
+          "year": "2015",
+          "journal-title": "Manual Ther"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jclinepi.2024.111593_bib42",
+          "first-page": "20",
+          "article-title": "The Nordic subpopulation research programme: prediction of treatment outcome in patients with low-back pain treated by chiropractors-does the psychological pro",
+          "volume": "47",
+          "author": "Leboeuf-Yde",
+          "year": "2010",
+          "journal-title": "J Am Chiropr Assoc"
+        },
+        {
+          "key": "10.1016/j.jclinepi.2024.111593_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "234",
+          "DOI": "10.1016/j.clineuro.2015.10.018",
+          "article-title": "Prediction of quality of life improvements in patients with lumbar stenosis following use of membrane stabilizing agents",
+          "volume": "139",
+          "author": "Lubelski",
+          "year": "2015",
+          "journal-title": "Clin Neurol Neurosurg"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jclinepi.2024.111593_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "391",
+          "DOI": "10.3171/2017.2.SPINE16760",
+          "article-title": "One-year outcomes of early-crossover patients in a cohort receiving nonoperative care for lumbar disc herniation",
+          "volume": "27",
+          "author": "Ramakrishnan",
+          "year": "2017",
+          "journal-title": "J Neurosurg Spine"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jclinepi.2024.111593_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "235",
+          "DOI": "10.1097/01.brs.0000150485.51681.80",
+          "article-title": "Predicting timely recovery and recurrence following multidisciplinary rehabilitation in patients with compensated low back pain",
+          "volume": "30",
+          "author": "Gross",
+          "year": "2005",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jclinepi.2024.111593_bib46",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.2519/jospt.2024.12081",
+          "article-title": "Prognostic models for chronic low back pain outcomes in primary care are at high risk of bias and lack validation-high quality studies are needed: a systematic review",
+          "volume": "54",
+          "author": "Fu",
+          "year": "2024",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.jclinepi.2024.111593_bib47",
+          "article-title": "Logistic model and gradient boosting machine model for physical therapy of lumbar disc herniation",
+          "volume": "2022",
+          "author": "Zhao",
+          "year": "2022",
+          "journal-title": "Comput Math Methods Med"
+        },
+        {
+          "key": "10.1016/j.jclinepi.2024.111593_bib48",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmj.g1687",
+          "article-title": "Better reporting of interventions: template for intervention description and replication (TIDieR) checklist and guide",
+          "volume": "348",
+          "author": "Hoffmann",
+          "year": "2014",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jclinepi.2024.111593_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "16",
+          "DOI": "10.1186/s41512-019-0060-y",
+          "article-title": "Methodological standards for the development and evaluation of clinical prediction rules: a review of the literature",
+          "volume": "3",
+          "author": "Cowley",
+          "year": "2019",
+          "journal-title": "Diagn Progn Res"
+        }
+      ],
+      "container-title": [
+        "Journal of Clinical Epidemiology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0895435624003494?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0895435624003494?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            3
+          ]
+        ],
+        "date-time": "2025-03-03T15:31:56Z",
+        "timestamp": 1741015916000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0895435624003494"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            1
+          ]
+        ]
+      },
+      "references-count": 49,
+      "alternative-id": [
+        "S0895435624003494"
+      ],
+      "URL": "https://doi.org/10.1016/j.jclinepi.2024.111593",
+      "relation": {},
+      "ISSN": [
+        "0895-4356"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0895-4356"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            1
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Prediction models for outcomes in people with low back pain receiving conservative treatment: a systematic review",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Journal of Clinical Epidemiology",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jclinepi.2024.111593",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2024 The Author(s). Published by Elsevier Inc.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "111593"
+    }
+  }
+}

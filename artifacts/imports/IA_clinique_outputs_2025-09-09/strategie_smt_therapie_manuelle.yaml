@@ -1,0 +1,5 @@
+id: strategie_smt_therapie_manuelle
+profil: "lombalgie mecanique aigue/subaigue sans drapeau rouge; en appoint a l'exercice actif"
+securite: { score: "faible", stop_rules: ["aggravation des symptomes", "deficit neurologique emergent"] }
+liens_evidence: ["evidence_smt_therapie_manuelle"]
+statut: "valide"

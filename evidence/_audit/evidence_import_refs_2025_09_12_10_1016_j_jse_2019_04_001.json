@@ -1,0 +1,817 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jse_2019_04_001.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jse_2019_04_001",
+  "doi": "10.1016/j.jse.2019.04.001",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:47.464947Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            31
+          ]
+        ],
+        "date-time": "2025-08-31T23:18:43Z",
+        "timestamp": 1756682323447,
+        "version": "3.37.3"
+      },
+      "reference-count": 52,
+      "publisher": "Elsevier BV",
+      "issue": "9",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2019-09-01T00:00:00Z",
+            "timestamp": 1567296000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100002322",
+          "name": "Coordination for the Improvement of Higher Education Personnel",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100002322",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "jshoulderelbow.org",
+          "clinicalkey.com.au",
+          "clinicalkey.fr",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Shoulder and Elbow Surgery"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jse.2019.04.001",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            7,
+            3
+          ]
+        ],
+        "date-time": "2019-07-03T17:50:46Z",
+        "timestamp": 1562176246000
+      },
+      "page": "1699-1706",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 75,
+      "title": [
+        "Bilateral magnetic resonance imaging findings in individuals with unilateral shoulder pain"
+      ],
+      "prefix": "10.1016",
+      "volume": "28",
+      "author": [
+        {
+          "given": "Rodrigo Py Gonçalves",
+          "family": "Barreto",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Jonathan P.",
+          "family": "Braman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Paula M.",
+          "family": "Ludewig",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Larissa Pechincha",
+          "family": "Ribeiro",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Paula Rezende",
+          "family": "Camargo",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "233",
+          "DOI": "10.1016/j.jse.2004.08.002",
+          "article-title": "Overutilization of shoulder magnetic resonance imaging as a diagnostic screening tool in patients with chronic shoulder pain",
+          "volume": "14",
+          "author": "Bradley",
+          "year": "2005",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "211",
+          "DOI": "10.1007/s11517-013-1074-1",
+          "article-title": "Shoulder impingement revisited: evolution of diagnostic understanding in orthopedic surgery and physical therapy",
+          "volume": "52",
+          "author": "Braman",
+          "year": "2014",
+          "journal-title": "Med Biol Eng Comput"
+        },
+        {
+          "year": "2013",
+          "series-title": "Nonoperative and operative treatments for rotator cuff tears: future research needs: identification of future research needs from comparative effectiveness review No. 22",
+          "author": "Butler",
+          "key": "10.1016/j.jse.2019.04.001_bib3"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "423",
+          "DOI": "10.1016/0895-4356(93)90018-V",
+          "article-title": "Bias, prevalence and kappa",
+          "volume": "46",
+          "author": "Byrt",
+          "year": "1993",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "121",
+          "DOI": "10.1080/09593985.2017.1370753",
+          "article-title": "Concurrent validity of inclinometer measures of scapular and clavicular positions in arm elevation",
+          "volume": "34",
+          "author": "Camargo",
+          "year": "2018",
+          "journal-title": "Physiother Theory Pract"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "25",
+          "DOI": "10.1016/0899-7071(92)90085-N",
+          "article-title": "MR findings in asymptomatic shoulders: a blind analysis using symptomatic shoulders as controls",
+          "volume": "16",
+          "author": "Chandnani",
+          "year": "1992",
+          "journal-title": "Clin Imaging"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "37",
+          "DOI": "10.1177/001316446002000104",
+          "article-title": "A coefficient of agreement for nominal scales",
+          "volume": "20",
+          "author": "Cohen",
+          "year": "1960",
+          "journal-title": "Educ Psychol Meas"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib8",
+          "first-page": "337",
+          "article-title": "Physician perceptions of Choosing Wisely and drivers of overuse",
+          "volume": "22",
+          "author": "Colla",
+          "year": "2016",
+          "journal-title": "Am J Manag Care"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "724",
+          "DOI": "10.1177/03635465030310051501",
+          "article-title": "Magnetic resonance imaging of the asymptomatic shoulder of overhead athletes: a 5-year follow-up study",
+          "volume": "31",
+          "author": "Connor",
+          "year": "2003",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "273",
+          "DOI": "10.1016/j.clinimag.2004.11.021",
+          "article-title": "Acromioclavicular joint osteoarthritis: comparison of findings derived from MR imaging and conventional radiography",
+          "volume": "29",
+          "author": "de Abreu",
+          "year": "2005",
+          "journal-title": "Clin Imaging"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "146",
+          "DOI": "10.1055/s-2008-1027747",
+          "article-title": "Schulterverletzungen des Überkopfsportlers: Wertigkeit der MR-Arthrografie [Shoulder injuries in overhead athletes: utility of MR arthrography]",
+          "volume": "22",
+          "author": "Dinter",
+          "year": "2008",
+          "journal-title": "Sportverletz Sportschaden"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "966",
+          "DOI": "10.1136/bjsports-2012-091285",
+          "article-title": "Do structural changes (eg, collagen/matrix) explain the response to therapeutic exercises in tendinopathy: a systematic review",
+          "volume": "48",
+          "author": "Drew",
+          "year": "2014",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "793",
+          "DOI": "10.2106/JBJS.L.01304",
+          "article-title": "Symptoms of pain do not correlate with rotator cuff tear severity: a cross-sectional study of 393 patients with a symptomatic atraumatic full-thickness rotator cuff tear",
+          "volume": "96",
+          "author": "Dunn",
+          "year": "2014",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "479",
+          "DOI": "10.1148/radiology.187.2.8475294",
+          "article-title": "Hooked acromion: prevalence on MR images of painful shoulders",
+          "volume": "187",
+          "author": "Epstein",
+          "year": "1993",
+          "journal-title": "Radiology"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "347",
+          "DOI": "10.2214/ajr.158.2.1729796",
+          "article-title": "Full-thickness tears of the rotator cuff of the shoulder: diagnosis with MR imaging",
+          "volume": "158",
+          "author": "Farley",
+          "year": "1992",
+          "journal-title": "AJR Am J Roentgenol"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "50",
+          "DOI": "10.1177/1941738112468265",
+          "article-title": "The primer for sports medicine professionals on imaging",
+          "volume": "5",
+          "author": "Farshad-Amacker",
+          "year": "2013",
+          "journal-title": "Sports Health"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "224",
+          "DOI": "10.1016/S0037-198X(05)80013-6",
+          "article-title": "Magnetic resonance imaging of the shoulder: review",
+          "volume": "30",
+          "author": "Feller",
+          "year": "1995",
+          "journal-title": "Semin Roentgenol"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "565",
+          "DOI": "10.1016/S1058-2746(99)90090-3",
+          "article-title": "Is supraspinatus pathology as defined by magnetic resonance imaging associated with clinical sign of shoulder impingement?",
+          "volume": "8",
+          "author": "Frost",
+          "year": "1999",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "599",
+          "DOI": "10.1016/S1058-2746(99)90097-6",
+          "article-title": "Fatty degeneration of the muscles of the rotator cuff: assessment by computed tomography versus magnetic resonance imaging",
+          "volume": "8",
+          "author": "Fuchs",
+          "year": "1999",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "W713",
+          "DOI": "10.2214/AJR.11.6971",
+          "article-title": "Ultrasound of the shoulder: asymptomatic findings in men",
+          "volume": "197",
+          "author": "Girish",
+          "year": "2011",
+          "journal-title": "AJR Am J Roentgenol"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "240",
+          "DOI": "10.1148/radiol.10100063",
+          "article-title": "Addressing overutilization in medical imaging",
+          "volume": "257",
+          "author": "Hendee",
+          "year": "2010",
+          "journal-title": "Radiology"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "537",
+          "DOI": "10.1016/j.jse.2011.01.003",
+          "article-title": "Shoulder MRI accuracy in the community setting",
+          "volume": "20",
+          "author": "Houtz",
+          "year": "2011",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "30",
+          "DOI": "10.1016/j.jse.2016.05.003",
+          "article-title": "Prevalence of asymptomatic rotator cuff tear and their related factors in the Korean population",
+          "volume": "26",
+          "author": "Jeong",
+          "year": "2017",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "1023",
+          "DOI": "10.1016/j.jse.2014.02.014",
+          "article-title": "A positive tangent sign predicts the repairability of rotator cuff tears",
+          "volume": "23",
+          "author": "Kissenberth",
+          "year": "2014",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "435",
+          "DOI": "10.1148/radiology.186.2.8421747",
+          "article-title": "The normal shoulder: common variations that simulate pathologic conditions at MR imaging",
+          "volume": "186",
+          "author": "Liou",
+          "year": "1993",
+          "journal-title": "Radiology"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "669",
+          "DOI": "10.1016/j.jse.2016.09.024",
+          "article-title": "Magnetic resonance imaging is comparable to computed tomography for determination of glenoid version but does not accurately distinguish between Walch B2 and C classifications",
+          "volume": "26",
+          "author": "Lowe",
+          "year": "2017",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "884",
+          "DOI": "10.26603/ijspt20170884",
+          "article-title": "Changing our diagnostic paradigm: movement system diagnostic classification",
+          "volume": "12",
+          "author": "Ludewig",
+          "year": "2017",
+          "journal-title": "Int J Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "296",
+          "DOI": "10.1302/0301-620X.77B2.7706351",
+          "article-title": "Rotator-cuff changes in asymptomatic adults. The effect of age, hand dominance and gender",
+          "volume": "77",
+          "author": "Milgrom",
+          "year": "1995",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "8",
+          "DOI": "10.1016/j.jor.2013.01.008",
+          "article-title": "Prevalence of symptomatic and asymptomatic rotator cuff tears in the general population: from mass-screening in one village",
+          "volume": "10",
+          "author": "Minagawa",
+          "year": "2013",
+          "journal-title": "J Orthop"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "66",
+          "DOI": "10.1177/03635465020300012501",
+          "article-title": "Magnetic resonance imaging of the shoulder in asymptomatic professional baseball pitchers",
+          "volume": "30",
+          "author": "Miniaci",
+          "year": "2002",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "196",
+          "DOI": "10.1302/0301-620X.91B2.21069",
+          "article-title": "Prevalence and characteristics of asymptomatic tears of the rotator cuff: an ultrasonographic and clinical study",
+          "volume": "91",
+          "author": "Moosmayer",
+          "year": "2009",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "863",
+          "DOI": "10.2214/ajr.166.4.8610564",
+          "article-title": "MR imaging of the rotator cuff: peritendinous and bone abnormalities in an asymptomatic population",
+          "volume": "166",
+          "author": "Needell",
+          "year": "1996",
+          "journal-title": "AJR Am J Roentgenol"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "1281",
+          "DOI": "10.2214/ajr.158.6.1590124",
+          "article-title": "MR imaging of the shoulder: appearance of the supraspinatus tendon in asymptomatic volunteers",
+          "volume": "158",
+          "author": "Neumann",
+          "year": "1992",
+          "journal-title": "AJR Am J Roentgenol"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "1616",
+          "DOI": "10.1016/j.apmr.2010.07.017",
+          "article-title": "Accuracy of diagnostic ultrasound in patients with suspected subacromial disorders: a systematic review and meta-analysis",
+          "volume": "91",
+          "author": "Ottenheijm",
+          "year": "2010",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "311",
+          "DOI": "10.1016/j.arthro.2007.09.004",
+          "article-title": "Physical examination and magnetic resonance imaging in the diagnosis of superior labrum anterior-posterior lesions of the shoulder: a sensitivity analysis",
+          "volume": "24",
+          "author": "Pandya",
+          "year": "2008",
+          "journal-title": "Arthroscopy"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "1316",
+          "DOI": "10.1136/bjsports-2014-094148",
+          "article-title": "Diagnostic accuracy of ultrasonography, MRI and MR arthrography in the characterisation of rotator cuff disorders: a systematic review and meta-analysis",
+          "volume": "49",
+          "author": "Roy",
+          "year": "2015",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "265",
+          "DOI": "10.2106/JBJS.M.00265",
+          "article-title": "Structural integrity after rotator cuff repair does not correlate with patient function and pain: a meta-analysis",
+          "volume": "96",
+          "author": "Russell",
+          "year": "2014",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "391",
+          "DOI": "10.1016/j.bjpt.2017.08.001",
+          "article-title": "Diagnosis and treatment of movement system impairment syndromes",
+          "volume": "21",
+          "author": "Sahrmann",
+          "year": "2017",
+          "journal-title": "Braz J Phys Ther"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "263",
+          "DOI": "10.1016/S0720-048X(03)00159-1",
+          "article-title": "Rotator cuff tears in asymptomatic individuals: a clinical and ultrasonographic screening study",
+          "volume": "51",
+          "author": "Schibany",
+          "year": "2004",
+          "journal-title": "Eur J Radiol"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "967",
+          "DOI": "10.1007/s00256-009-0680-3",
+          "article-title": "Detection of partial-thickness supraspinatus tendon tears: is a single direct MR arthrography series in ABER position as accurate as conventional MR arthrography?",
+          "volume": "38",
+          "author": "Schreinemachers",
+          "year": "2009",
+          "journal-title": "Skeletal Radiol"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib41",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1177/2325967115623212",
+          "article-title": "High prevalence of superior labral tears diagnosed by MRI in middle-aged patients with asymptomatic shoulders",
+          "volume": "4",
+          "author": "Schwartzberg",
+          "year": "2016",
+          "journal-title": "Orthop J Sports Med"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "604",
+          "DOI": "10.5435/JAAOS-20-09-604",
+          "article-title": "Glenoid bone loss in primary total shoulder arthroplasty: evaluation and management",
+          "volume": "20",
+          "author": "Sears",
+          "year": "2012",
+          "journal-title": "J Am Acad Orthop Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.2106/00004623-199501000-00002",
+          "article-title": "Abnormal findings on magnetic resonance images of asymptomatic shoulders",
+          "volume": "77",
+          "author": "Sher",
+          "year": "1995",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "393",
+          "DOI": "10.1016/j.sjopt.2012.07.005",
+          "article-title": "Recent advances in MRI technology: implications for image quality and patient safety",
+          "volume": "26",
+          "author": "Sobol",
+          "year": "2012",
+          "journal-title": "Saudi J Ophthalmol"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "238",
+          "DOI": "10.1186/1471-2474-13-238",
+          "article-title": "Population-based consultation patterns in patients with shoulder pain diagnoses",
+          "volume": "13",
+          "author": "Tekavec",
+          "year": "2012",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib46",
+          "doi-asserted-by": "crossref",
+          "first-page": "296",
+          "DOI": "10.1016/S1058-2746(99)90148-9",
+          "article-title": "Age-related prevalence of rotator cuff tears in asymptomatic shoulders",
+          "volume": "8",
+          "author": "Tempelhof",
+          "year": "1999",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib47",
+          "doi-asserted-by": "crossref",
+          "first-page": "242",
+          "DOI": "10.1007/s003300050040",
+          "article-title": "MRI of the shoulder",
+          "volume": "10",
+          "author": "Vahlensieck",
+          "year": "2000",
+          "journal-title": "Eur Radiol"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib48",
+          "doi-asserted-by": "crossref",
+          "first-page": "1405",
+          "DOI": "10.1016/j.jse.2015.05.050",
+          "article-title": "Are radiologists superior to orthopaedic surgeons in diagnosing instability-related shoulder lesions on magnetic resonance arthrography? A multicenter reproducibility and accuracy study",
+          "volume": "24",
+          "author": "van Grinsven",
+          "year": "2015",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "1842",
+          "DOI": "10.2106/JBJS.I.01003",
+          "article-title": "The rising incidence of acromioplasty",
+          "volume": "92",
+          "author": "Vitale",
+          "year": "2010",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib50",
+          "doi-asserted-by": "crossref",
+          "first-page": "909",
+          "DOI": "10.1007/s00256-006-0157-6",
+          "article-title": "Humeral head cysts and rotator cuff tears: an MR arthrographic study",
+          "volume": "35",
+          "author": "Williams",
+          "year": "2006",
+          "journal-title": "Skeletal Radiol"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib51",
+          "doi-asserted-by": "crossref",
+          "first-page": "199",
+          "DOI": "10.1067/mse.2001.113086",
+          "article-title": "Natural history of asymptomatic rotator cuff tears: a longitudinal analysis of asymptomatic tears detected sonographically",
+          "volume": "10",
+          "author": "Yamaguchi",
+          "year": "2001",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "10.1016/j.jse.2019.04.001_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "116",
+          "DOI": "10.1016/j.jse.2009.04.006",
+          "article-title": "Prevalence and risk factors of a rotator cuff tear in the general population",
+          "volume": "19",
+          "author": "Yamamoto",
+          "year": "2010",
+          "journal-title": "J Shoulder Elbow Surg"
+        }
+      ],
+      "container-title": [
+        "Journal of Shoulder and Elbow Surgery"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1058274619302344?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1058274619302344?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            12,
+            2
+          ]
+        ],
+        "date-time": "2019-12-02T09:15:49Z",
+        "timestamp": 1575278149000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1058274619302344"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            9
+          ]
+        ]
+      },
+      "references-count": 52,
+      "journal-issue": {
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1058274619302344"
+      ],
+      "URL": "https://doi.org/10.1016/j.jse.2019.04.001",
+      "relation": {},
+      "ISSN": [
+        "1058-2746"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1058-2746"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            9
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Bilateral magnetic resonance imaging findings in individuals with unilateral shoulder pain",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Journal of Shoulder and Elbow Surgery",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jse.2019.04.001",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2019 Journal of Shoulder and Elbow Surgery Board of Trustees. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

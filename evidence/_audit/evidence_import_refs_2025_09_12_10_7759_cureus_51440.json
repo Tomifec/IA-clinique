@@ -1,0 +1,326 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_7759_cureus_51440.md",
+  "id": "evidence_import_refs_2025_09_12_10_7759_cureus_51440",
+  "doi": "10.7759/cureus.51440",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:09:05.450970Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            10
+          ]
+        ],
+        "date-time": "2024-02-10T00:40:55Z",
+        "timestamp": 1707525655400
+      },
+      "reference-count": 18,
+      "publisher": "Springer Science and Business Media LLC",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.7759/cureus.51440",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2024-01-01T11:31:30Z",
+        "timestamp": 1704108690000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "The Importance of Early Detection of Spinal Tumors Through Magnetic Resonance Imaging in Chiropractic Practices"
+      ],
+      "prefix": "10.7759",
+      "author": [
+        {
+          "given": "Sharon",
+          "family": "Mok",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Eric Chun-Pu",
+          "family": "Chu",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "reference": [
+        {
+          "key": "ref1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.31758",
+          "article-title": "Lumbar schwannoma as a rare cause of radiculopathy in the chiropractic office: a case report",
+          "volume": "14",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ, Yee WJ, Ng KK. Lumbar schwannoma as a rare cause of radiculopathy in the chiropractic office: a case report. Cureus. 2022, 14:e31758. 10.7759/cureus.31758",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.radcr.2022.01.006",
+          "article-title": "Lumbar radiculopathy associated radicular schwannoma: a case report and literature review",
+          "volume": "17",
+          "author": "Hyseni F",
+          "year": "2022",
+          "unstructured": "Hyseni F, Harizi E, Blanco R, et al.. Lumbar radiculopathy associated radicular schwannoma: a case report and literature review. Radiol Case Rep. 2022, 17:1251-5. 10.1016/j.radcr.2022.01.006",
+          "journal-title": "Radiol Case Rep"
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/medicina58030357",
+          "article-title": "Do tumour size, type and localisation affect resection rate in patients with spinal schwannoma?",
+          "volume": "58",
+          "author": "Parlak A",
+          "year": "2022",
+          "unstructured": "Parlak A, Oppong MD, Jabbarli R, et al.. Do tumour size, type and localisation affect resection rate in patients with spinal schwannoma?. Medicina (Kaunas). 2022, 58:10.3390/medicina58030357",
+          "journal-title": "Medicina (Kaunas)"
+        },
+        {
+          "key": "ref4",
+          "article-title": "A 10-year unsuspected lumbar schwannoma: a case report",
+          "volume": "60",
+          "author": "Santos VM",
+          "year": "2011",
+          "unstructured": "Santos VM, Tubino PV, Santos SC, Medeiros DB, Damasceno EA. A 10-year unsuspected lumbar schwannoma: a case report. West Indian Med J. 2011, 60:232-4.",
+          "journal-title": "West Indian Med J"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1559325820919321",
+          "article-title": "Are restrictive medical radiation imaging campaigns misguided? It seems so: a case example of the American Chiropractic Association's adoption of \"Choosing Wisely\"",
+          "volume": "18",
+          "author": "Oakley PA",
+          "year": "2020",
+          "unstructured": "Oakley PA, Harrison DE. Are restrictive medical radiation imaging campaigns misguided? It seems so: a case example of the American Chiropractic Association's adoption of \"Choosing Wisely\". Dose Response. 2020, 18:1559325820919321. 10.1177/1559325820919321",
+          "journal-title": "Dose Response"
+        },
+        {
+          "key": "ref6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1559325819891043",
+          "article-title": "Repeat radiography in monitoring structural changes in the treatment of spinal disorders in chiropractic and manual medicine practice: evidence and safety",
+          "volume": "17",
+          "author": "Oakley PA",
+          "year": "2019",
+          "unstructured": "Oakley PA, Ehsani NN, Harrison DE. Repeat radiography in monitoring structural changes in the treatment of spinal disorders in chiropractic and manual medicine practice: evidence and safety. Dose Response. 2019, 17:1559325819891043. 10.1177/1559325819891043",
+          "journal-title": "Dose Response"
+        },
+        {
+          "key": "ref7",
+          "article-title": "Hoffmann Tinel Sign",
+          "author": "Ho T",
+          "year": "2023",
+          "unstructured": "Ho T, Braza ME. Hoffmann Tinel Sign. StatPearls, FL; 2023."
+        },
+        {
+          "key": "ref8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12659/MSM.938042",
+          "article-title": "Prevalence of serious pathology among adults with low back pain presenting for chiropractic care: a retrospective chart review of integrated clinics in Hong Kong",
+          "volume": "28",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ. Prevalence of serious pathology among adults with low back pain presenting for chiropractic care: a retrospective chart review of integrated clinics in Hong Kong. Med Sci Monit. 2022, 28:e938042. 10.12659/MSM.938042",
+          "journal-title": "Med Sci Monit"
+        },
+        {
+          "key": "ref9",
+          "article-title": "Schwannoma of the cauda equina",
+          "volume": "20",
+          "author": "Caputo LA",
+          "year": "1997",
+          "unstructured": "Caputo LA, Cusimano MD. Schwannoma of the cauda equina. J Manipulative Physiol Ther. 1997, 20:124-9.",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12659/AJCR.938448",
+          "article-title": "Thoracic schwannoma as an unusual cause of sciatic pain in the chiropractic office: a case report",
+          "volume": "23",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ. Thoracic schwannoma as an unusual cause of sciatic pain in the chiropractic office: a case report. Am J Case Rep. 2022, 23:e938448. 10.12659/AJCR.938448",
+          "journal-title": "Am J Case Rep"
+        },
+        {
+          "key": "ref11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jcm.2017.02.002",
+          "article-title": "Thoracic schwannoma in an adult male presenting with thoracic pain: a case report",
+          "volume": "16",
+          "author": "Rodgers AM",
+          "year": "2017",
+          "unstructured": "Rodgers AM, Khauv KB. Thoracic schwannoma in an adult male presenting with thoracic pain: a case report. J Chiropr Med. 2017, 16:242-5. 10.1016/j.jcm.2017.02.002",
+          "journal-title": "J Chiropr Med"
+        },
+        {
+          "key": "ref12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1067/mmt.2001.118203",
+          "article-title": "Schwannoma: challenging diagnosis",
+          "volume": "24",
+          "author": "Cox JM",
+          "year": "2001",
+          "unstructured": "Cox JM, Alter M. Schwannoma: challenging diagnosis. J Manipulative Physiol Ther. 2001, 24:526-8. 10.1067/mmt.2001.118203",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "ref13",
+          "article-title": "Malignant schwannoma",
+          "volume": "14",
+          "author": "Kemmet J",
+          "year": "1991",
+          "unstructured": "Kemmet J, Boline PD. Malignant schwannoma. J Manipulative Physiol Ther. 1991, 14:266-8.",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "ref14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12659/AJCR.936984",
+          "article-title": "Conservative management of low back pain related to an unresectable aggressive sacral hemangioma: a case report",
+          "volume": "23",
+          "author": "Chu EC",
+          "year": "2022",
+          "unstructured": "Chu EC, Trager RJ, Chen AT. Conservative management of low back pain related to an unresectable aggressive sacral hemangioma: a case report. Am J Case Rep. 2022, 23:e936984. 10.12659/AJCR.936984",
+          "journal-title": "Am J Case Rep"
+        },
+        {
+          "key": "ref15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.39810",
+          "article-title": "Sacral chordoma presenting as back pain in the chiropractic clinic: a case report",
+          "volume": "15",
+          "author": "Chan AK",
+          "year": "2023",
+          "unstructured": "Chan AK, Ng GS, Cheong BK, Ng KK, Chu EC. Sacral chordoma presenting as back pain in the chiropractic clinic: a case report. Cureus. 2023, 15:e39810. 10.7759/cureus.39810",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.33262",
+          "article-title": "Sacral giant cell tumor presenting as low back pain in the chiropractic office: a case report",
+          "volume": "15",
+          "author": "Chu EC",
+          "year": "2023",
+          "unstructured": "Chu EC, Trager RJ, Shum JS, Ng KK. Sacral giant cell tumor presenting as low back pain in the chiropractic office: a case report. Cureus. 2023, 15:e33262. 10.7759/cureus.33262",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7759/cureus.44653",
+          "article-title": "Sporadic desmoid tumor mimicking myofascial pain syndrome in a chiropractic clinic",
+          "volume": "15",
+          "author": "Chu EC",
+          "year": "2023",
+          "unstructured": "Chu EC, Sabourdy E. Sporadic desmoid tumor mimicking myofascial pain syndrome in a chiropractic clinic. Cureus. 2023, 15:e44653. 10.7759/cureus.44653",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00508-019-1523-4",
+          "article-title": "Outcomes research in non-specific low back pain: knowledge transfer in clinical practice",
+          "volume": "131",
+          "author": "Stamm TA",
+          "year": "2019",
+          "unstructured": "Stamm TA, Boesendorfer A, Omara M, Ritschl V, Štefanac S, Mosor E. Outcomes research in non-specific low back pain: knowledge transfer in clinical practice. Wien Klin Wochenschr. 2019, 131:550-7. 10.1007/s00508-019-1523-4",
+          "journal-title": "Wien Klin Wochenschr"
+        }
+      ],
+      "container-title": [
+        "Cureus"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.cureus.com/articles/193618-the-importance-of-early-detection-of-spinal-tumors-through-magnetic-resonance-imaging-in-chiropractic-practices",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            9
+          ]
+        ],
+        "date-time": "2024-02-09T20:12:28Z",
+        "timestamp": 1707509548000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.cureus.com/articles/193618-the-importance-of-early-detection-of-spinal-tumors-through-magnetic-resonance-imaging-in-chiropractic-practices"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ]
+      },
+      "references-count": 18,
+      "URL": "https://doi.org/10.7759/cureus.51440",
+      "relation": {},
+      "ISSN": [
+        "2168-8184"
+      ],
+      "issn-type": [
+        {
+          "value": "2168-8184",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            1
+          ]
+        ]
+      }
+    }
+  }
+}

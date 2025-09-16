@@ -1,0 +1,927 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_13_10_1016_j_berh_2011_01_019.md",
+  "id": "evidence_import_refs_2025_09_13_10_1016_j_berh_2011_01_019",
+  "doi": "10.1016/j.berh.2011.01.019",
+  "pmid": null,
+  "checked_at": "2025-09-14",
+  "fetched_at": "2025-09-14T01:56:40.108850Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            13
+          ]
+        ],
+        "date-time": "2025-09-13T15:55:46Z",
+        "timestamp": 1757778946161
+      },
+      "reference-count": 65,
+      "publisher": "Elsevier BV",
+      "issue": "6",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2010,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2010-12-01T00:00:00Z",
+            "timestamp": 1291161600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Best Practice &amp; Research Clinical Rheumatology"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.berh.2011.01.019",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2011,
+            6,
+            23
+          ]
+        ],
+        "date-time": "2011-06-23T19:32:29Z",
+        "timestamp": 1308857549000
+      },
+      "page": "783-792",
+      "source": "Crossref",
+      "is-referenced-by-count": 586,
+      "title": [
+        "The epidemiology of neck pain"
+      ],
+      "prefix": "10.1016",
+      "volume": "24",
+      "author": [
+        {
+          "given": "D.G.",
+          "family": "Hoy",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "M.",
+          "family": "Protani",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "R.",
+          "family": "De",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "R.",
+          "family": "Buchbinder",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "4 Suppl",
+          "key": "10.1016/j.berh.2011.01.019_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "S39",
+          "DOI": "10.1097/BRS.0b013e31816454c8",
+          "article-title": "The burden and determinants of neck pain in the general population: results of the bone and joint decade 2000-2010 task force on neck pain and its associated disorders",
+          "volume": "33",
+          "author": "Hogg-Johnson",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.berh.2011.01.019_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.1016/j.berh.2009.11.002",
+          "article-title": "Measuring the global burden of low back pain",
+          "volume": "24",
+          "author": "Hoy",
+          "year": "2010",
+          "journal-title": "Best Practice & Research Clinical Rheumatology"
+        },
+        {
+          "key": "10.1016/j.berh.2011.01.019_bib3",
+          "series-title": "The global burden of diseases, injuries, and risk factors: operations manual",
+          "year": "2009"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.berh.2011.01.019_bib4",
+          "first-page": "495",
+          "article-title": "The global burden of disease in 1990: summary results, sensitivity analysis and future directions",
+          "volume": "72",
+          "author": "Murray",
+          "year": "1994",
+          "journal-title": "Bull World Health Organization"
+        },
+        {
+          "issue": "4 Suppl",
+          "key": "10.1016/j.berh.2011.01.019_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "S14",
+          "DOI": "10.1097/BRS.0b013e3181643efb",
+          "article-title": "A new conceptual model of neck pain: linking onset, course, and care: the bone and joint decade 2000-2010 task force on neck pain and its associated disorders",
+          "volume": "33",
+          "author": "Guzman",
+          "year": "2008",
+          "journal-title": "Spine (PhilaPa 1976)"
+        },
+        {
+          "key": "10.1016/j.berh.2011.01.019_bib6",
+          "series-title": "Towards a common language for functioning, disability and health ICF",
+          "year": "2002"
+        },
+        {
+          "key": "10.1016/j.berh.2011.01.019_bib7",
+          "series-title": "Basic epidemiology 2nd ed",
+          "author": "Bonita",
+          "year": "2006"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.berh.2011.01.019_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "424",
+          "DOI": "10.1097/JOM.0b013e3181d44f3b",
+          "article-title": "Findings from the bone and joint decade 2000 to 2010 task force on neck pain and its associated disorders",
+          "volume": "52",
+          "author": "Haldeman",
+          "year": "2010",
+          "journal-title": "Journal of Occupational & Environmental Medicine"
+        },
+        {
+          "issue": "1–2",
+          "key": "10.1016/j.berh.2011.01.019_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "427",
+          "DOI": "10.1016/j.pain.2004.04.025",
+          "article-title": "Neck pain in adolescence. A 4-year follow-up of pain-free preadolescents",
+          "volume": "110",
+          "author": "Stahl",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.berh.2011.01.019_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "164",
+          "DOI": "10.1080/140349400444850",
+          "article-title": "Neck or shoulder pain and low back pain in Finnish adolescents",
+          "volume": "28",
+          "author": "Vikat",
+          "year": "2000",
+          "journal-title": "Scandinavian Journal of Public Health"
+        },
+        {
+          "issue": "16",
+          "key": "10.1016/j.berh.2011.01.019_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "E459",
+          "DOI": "10.1097/01.brs.0000174279.44855.02",
+          "article-title": "Predictors of outcome in neck and shoulder symptoms: a cohort study in general practice",
+          "volume": "30",
+          "author": "Bot",
+          "year": "2005",
+          "journal-title": "Spine (PhilaPa 1976)"
+        },
+        {
+          "issue": "23",
+          "key": "10.1016/j.berh.2011.01.019_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "2630",
+          "DOI": "10.1097/BRS.0b013e318158d70b",
+          "article-title": "Epidemiology of adolescent spinal pain: a systematic overview of the research literature",
+          "volume": "32",
+          "author": "Jeffries",
+          "year": "2007",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.berh.2011.01.019_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "213",
+          "DOI": "10.1016/S0161-4754(03)00006-X",
+          "article-title": "The course of low back pain in a general population. Results from a 5-year prospective study",
+          "volume": "26",
+          "author": "Hestbaek",
+          "year": "2003",
+          "journal-title": "Journal of Manipulative and Physiological Therapeutics"
+        },
+        {
+          "key": "10.1016/j.berh.2011.01.019_bib14",
+          "unstructured": "Hoy D, Brooks P, Woolf A, Blyth F, March L, Bain C, et al. Assessing risk of bias in prevalence studies: Modification of an existing tool and demonstration of inter-rater agreement. Under review. 2010."
+        },
+        {
+          "issue": "19",
+          "key": "10.1016/j.berh.2011.01.019_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "2112",
+          "DOI": "10.1097/00007632-199510000-00009",
+          "article-title": "The prevalence of low back pain in the literature. A structured review of 26 Nordic studies from 1954 to 1993",
+          "volume": "20",
+          "author": "Leboeuf-Yde",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.berh.2011.01.019_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "317",
+          "DOI": "10.1016/S0304-3959(01)00334-7",
+          "article-title": "Risk factors for neck pain: a longitudinal study in the general population",
+          "volume": "93",
+          "author": "Croft",
+          "year": "2001",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.berh.2011.01.019_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "267",
+          "DOI": "10.1016/j.pain.2004.09.004",
+          "article-title": "The annual incidence and course of neck pain in the general population: a population-based cohort study",
+          "volume": "112",
+          "author": "Côté",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.berh.2011.01.019_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "523",
+          "DOI": "10.1097/00007632-200203010-00013",
+          "article-title": "Risk factors for the development of neck and upper limb pain in adolescents",
+          "volume": "27",
+          "author": "Ehrmann Feldman",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.berh.2011.01.019_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "7",
+          "DOI": "10.1007/s00296-007-0368-8",
+          "article-title": "Musculoskeletal pain in Japan: prospective health diary study",
+          "volume": "28",
+          "author": "Tokuda",
+          "year": "2007",
+          "journal-title": "Rheumatology International"
+        },
+        {
+          "issue": "4 Suppl",
+          "key": "10.1016/j.berh.2011.01.019_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "S60",
+          "DOI": "10.1097/BRS.0b013e3181643ee4",
+          "article-title": "The burden and determinants of neck pain in workers: results of the bone and joint decade 2000-2010 task force on neck pain and its associated disorders",
+          "volume": "33",
+          "author": "Côté",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.berh.2011.01.019_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "639",
+          "DOI": "10.1016/j.pain.2004.05.002",
+          "article-title": "Prognostic factors for neck pain in general practice",
+          "volume": "110",
+          "author": "Hoving",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.berh.2011.01.019_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "169",
+          "DOI": "10.1093/rheumatology/kel164",
+          "article-title": "Prognostic indicators for non-recovery of non-traumatic complaints at arm, neck and shoulder in general practice–6 months follow-up",
+          "volume": "46",
+          "author": "Feleus",
+          "year": "2007",
+          "journal-title": "Rheumatology (Oxford)"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.berh.2011.01.019_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "572",
+          "DOI": "10.1111/j.1526-4637.2008.00456.x",
+          "article-title": "Clinical course and prognostic factors in acute neck pain: an inception cohort study in general practice",
+          "volume": "9",
+          "author": "Vos",
+          "year": "2008",
+          "journal-title": "Pain Medicine"
+        },
+        {
+          "issue": "21",
+          "key": "10.1016/j.berh.2011.01.019_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "2458",
+          "DOI": "10.1097/01.brs.0000143025.84471.79",
+          "article-title": "Clinical course in patients seeking primary care for back or neck pain: a prospective 5-year follow-up of outcome and health care consumption with subgroup analysis",
+          "volume": "29",
+          "author": "Enthoven",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.berh.2011.01.019_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "639",
+          "DOI": "10.1016/j.pain.2004.05.002",
+          "article-title": "Prognostic factors for neck pain in general practice",
+          "volume": "110",
+          "author": "Hoving",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "4 Suppl",
+          "key": "10.1016/j.berh.2011.01.019_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "S75",
+          "DOI": "10.1097/BRS.0b013e31816445be",
+          "article-title": "Course and prognostic factors for neck pain in the general population: results of the bone and joint decade 2000-2010 task force on neck pain and its associated disorders",
+          "volume": "33",
+          "author": "Carroll",
+          "year": "2008",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.berh.2011.01.019_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "1119",
+          "DOI": "10.1111/j.1651-2227.1999.tb00999.x",
+          "article-title": "Widespread pain and neck pain in schoolchildren. A prospective one-year follow-up study",
+          "volume": "88",
+          "author": "Mikkelsson",
+          "year": "1999",
+          "journal-title": "Acta Paediatrica"
+        },
+        {
+          "issue": "15",
+          "key": "10.1016/j.berh.2011.01.019_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "1648",
+          "DOI": "10.1097/01.BRS.0000132307.06321.3C",
+          "article-title": "Predicting persistent neck pain: a 1-year follow-up of a population cohort",
+          "volume": "29",
+          "author": "Hill",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.berh.2011.01.019_bib29",
+          "first-page": "1382",
+          "article-title": "Epidemiology of rheumatic disease in rural Thailand: a WHO-ILAR COPCORD study",
+          "volume": "25",
+          "author": "Chaiamnuay",
+          "year": "1998",
+          "journal-title": "Journal of Rheumatology"
+        },
+        {
+          "issue": "16",
+          "key": "10.1016/j.berh.2011.01.019_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "E540",
+          "DOI": "10.1097/01.brs.0000225999.02326.ad",
+          "article-title": "Neck pain in Hong Kong: a telephone survey on prevalence, consequences, and risk groups",
+          "volume": "31",
+          "author": "Chiu",
+          "year": "2006",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.berh.2011.01.019_bib31",
+          "first-page": "240",
+          "article-title": "Prevalence of rheumatic diseases in a rural population in western India: a WHO-ILAR COPCORD Study",
+          "volume": "49",
+          "author": "Chopra",
+          "year": "2001",
+          "journal-title": "The Journal of the Association of Physicians of India"
+        },
+        {
+          "issue": "15",
+          "key": "10.1016/j.berh.2011.01.019_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "1689",
+          "DOI": "10.1097/00007632-199808010-00015",
+          "article-title": "The Saskatchewan health and back pain survey: the prevalence of neck pain and related disability in Saskatchewan adults",
+          "volume": "23",
+          "author": "Côté",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.berh.2011.01.019_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "149",
+          "DOI": "10.1007/BF00541515",
+          "article-title": "Rheumatic pain in a Philippine village. A WHO-ILAR COPCORD Study",
+          "volume": "5",
+          "author": "Manahan",
+          "year": "1985",
+          "journal-title": "Rheumatology International"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.berh.2011.01.019_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "147",
+          "DOI": "10.1123/pes.16.2.147",
+          "article-title": "Physical fitness, physical activity, and self-reported back and neck pain in elementary schoolchildren",
+          "volume": "16",
+          "author": "Cardon",
+          "year": "2004",
+          "journal-title": "Pediatric Exercise Science"
+        },
+        {
+          "issue": "1–3",
+          "key": "10.1016/j.berh.2011.01.019_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "176",
+          "DOI": "10.1016/j.pain.2005.09.033",
+          "article-title": "Categorising the severity of neck pain: establishment of cut-points for use in clinical and epidemiological research",
+          "volume": "119",
+          "author": "Fejer",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "3–4",
+          "key": "10.1016/j.berh.2011.01.019_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "82",
+          "DOI": "10.1007/s00508-006-0532-2",
+          "article-title": "Prevalence of self - reported musculoskeletal pain in the Austrian population",
+          "volume": "118",
+          "author": "Friedrich",
+          "year": "2006",
+          "journal-title": "Wiener Klinische Wochenschrift"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.berh.2011.01.019_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "412",
+          "DOI": "10.1542/peds.2004-2766",
+          "article-title": "Neck/shoulder, low back, and arm pain in relation to computer use, physical activity, stress, and depression among Dutch adolescents",
+          "volume": "117",
+          "author": "Diepenmaat",
+          "year": "2006",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "issue": "1–2",
+          "key": "10.1016/j.berh.2011.01.019_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "293",
+          "DOI": "10.1016/S0304-3959(03)00244-6",
+          "article-title": "Presentation of pain drawings in questionnaire surveys: influence on prevalence of neck and upper limb pain in the community",
+          "volume": "105",
+          "author": "Lacey",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.berh.2011.01.019_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "1356",
+          "DOI": "10.1093/oxfordjournals.aje.a116038",
+          "article-title": "Prevalence, determinants, and consequences of chronic neck pain in Finland",
+          "volume": "134",
+          "author": "Makela",
+          "year": "1991",
+          "journal-title": "American Journal of Epidemiology"
+        },
+        {
+          "key": "10.1016/j.berh.2011.01.019_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "234",
+          "DOI": "10.1186/1471-2458-6-234",
+          "article-title": "The impact of workplace risk factors on the occurrence of neck and upper limb pain: a general population study",
+          "volume": "6",
+          "author": "Sim",
+          "year": "2006",
+          "journal-title": "BMC Public Health"
+        },
+        {
+          "issue": "1–2",
+          "key": "10.1016/j.berh.2011.01.019_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "361",
+          "DOI": "10.1016/j.pain.2004.04.017",
+          "article-title": "The prevalence of pain and pain interference in a general population of older adults: cross-sectional findings from the North Staffordshire Osteoarthritis Project (NorStOP)",
+          "volume": "110",
+          "author": "Thomas",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.berh.2011.01.019_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "649",
+          "DOI": "10.1136/ard.57.11.649",
+          "article-title": "Estimating the burden of musculoskeletal disorders in the community: the comparative prevalence of symptoms at different anatomical sites, and the relation to social deprivation",
+          "volume": "57",
+          "author": "Urwin",
+          "year": "1998",
+          "journal-title": "Annals of the Rheumatic Diseases"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.berh.2011.01.019_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "1195",
+          "DOI": "10.1097/01.BRS.0000067430.49169.01",
+          "article-title": "Prevalence and predictors of intense, chronic, and disabling neck and back pain in the UK general population",
+          "volume": "28",
+          "author": "Webb",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.berh.2011.01.019_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "656",
+          "DOI": "10.1002/art.22684",
+          "article-title": "US national prevalence and correlates of low back and neck pain among adults",
+          "volume": "57",
+          "author": "Strine",
+          "year": "2007",
+          "journal-title": "Arthritis & Rheumatism"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.berh.2011.01.019_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.1016/S0304-3959(99)00069-X",
+          "article-title": "An epidemiological comparison of pain complaints in the general population of Catalonia (Spain)",
+          "volume": "83",
+          "author": "Bassols",
+          "year": "1999",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.berh.2011.01.019_bib46",
+          "first-page": "1369",
+          "article-title": "Chronic musculoskeletal pain, prevalence rates, and sociodemographic associations in a Swedish population study",
+          "volume": "28",
+          "author": "Bergman",
+          "year": "2001",
+          "journal-title": "Journal of Rheumatology"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.berh.2011.01.019_bib47",
+          "doi-asserted-by": "crossref",
+          "first-page": "1307",
+          "DOI": "10.1097/00007632-199406000-00001",
+          "article-title": "Neck pain in the general population",
+          "volume": "19",
+          "author": "Bovim",
+          "year": "1994",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.berh.2011.01.019_bib48",
+          "doi-asserted-by": "crossref",
+          "first-page": "289",
+          "DOI": "10.1016/S0304-3959(99)00053-6",
+          "article-title": "The experience of pain from the shoulder-neck area related to the total body pain, self-experienced health and mental distress. The Malmo Shoulder-Neck Study group",
+          "volume": "82",
+          "author": "Ektor-Andersen",
+          "year": "1999",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.berh.2011.01.019_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "59",
+          "DOI": "10.1136/oem.56.1.59",
+          "article-title": "Risk factors for neck and upper limb disorders: results from 24 years of follow up",
+          "volume": "56",
+          "author": "Fredriksson",
+          "year": "1999",
+          "journal-title": "Occupational and Environmental Medicine"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.berh.2011.01.019_bib50",
+          "doi-asserted-by": "crossref",
+          "first-page": "247",
+          "DOI": "10.3109/02813438509013957",
+          "article-title": "Prediction of cervical and low-back pain based on routine school health examinations. A nine- to twelve-year follow-up study",
+          "volume": "3",
+          "author": "Hertzberg",
+          "year": "1985",
+          "journal-title": "Scandinavian Journal of Primary Health Care"
+        },
+        {
+          "issue": "13",
+          "key": "10.1016/j.berh.2011.01.019_bib51",
+          "doi-asserted-by": "crossref",
+          "first-page": "1457",
+          "DOI": "10.1097/00007632-199807010-00006",
+          "article-title": "A population-based study of spinal pain among 35-45-year-old individuals. Prevalence, sick leave, and health care use",
+          "volume": "23",
+          "author": "Linton",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.berh.2011.01.019_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.5271/sjweh.586",
+          "article-title": "Prevalence and occupational associations of neck pain in the British population",
+          "volume": "27",
+          "author": "Palmer",
+          "year": "2001",
+          "journal-title": "Scandinavian Journal of Work, Environment & Health"
+        },
+        {
+          "key": "10.1016/j.berh.2011.01.019_bib53",
+          "first-page": "15",
+          "article-title": "Rheumatic symptoms in the middle-aged population in southwestern Finland",
+          "volume": "47",
+          "author": "Takala",
+          "year": "1982",
+          "journal-title": "Scandinavian Journal of Rheumatology"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.berh.2011.01.019_bib54",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.1177/140349488000800308",
+          "article-title": "Pain from the neck-shoulder region and sick leave",
+          "volume": "8",
+          "author": "Westerling",
+          "year": "1980",
+          "journal-title": "Scandinavian Journal of Social Medicine"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.berh.2011.01.019_bib55",
+          "doi-asserted-by": "crossref",
+          "first-page": "574",
+          "DOI": "10.2105/AJPH.74.6.574",
+          "article-title": "Epidemiology of musculoskeletal impairments and associated disability",
+          "volume": "74",
+          "author": "Cunningham",
+          "year": "1984",
+          "journal-title": "American Journal of Public Health"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.berh.2011.01.019_bib56",
+          "first-page": "2245",
+          "article-title": "Prevalence of rheumatic symptoms, rheumatoid arthritis, ankylosing spondylitis, and gout in Shanghai, China: a COPCORD study",
+          "volume": "30",
+          "author": "Dai",
+          "year": "2003",
+          "journal-title": "Journal of Rheumatology"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.berh.2011.01.019_bib57",
+          "doi-asserted-by": "crossref",
+          "first-page": "E35",
+          "DOI": "10.36076/ppj.2009/12/E35",
+          "article-title": "American Society of Interventional Pain P. Comprehensive review of epidemiology, scope, and impact of spinal pain",
+          "volume": "12",
+          "author": "Manchikanti",
+          "year": "2009",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.berh.2011.01.019_bib58",
+          "doi-asserted-by": "crossref",
+          "first-page": "219",
+          "DOI": "10.3109/02813439308994834",
+          "article-title": "Headache and neck or shoulder pain–frequent and disabling complaints in the general population",
+          "volume": "11",
+          "author": "Hasvold",
+          "year": "1993",
+          "journal-title": "Scandinavian Journal of Primary Health Care"
+        },
+        {
+          "issue": "1–2",
+          "key": "10.1016/j.berh.2011.01.019_bib59",
+          "doi-asserted-by": "crossref",
+          "first-page": "45",
+          "DOI": "10.1016/j.pain.2004.01.008",
+          "article-title": "The anatomical pattern and determinants of pain in the neck and upper limbs: an epidemiologic study",
+          "volume": "109",
+          "author": "Walker-Bone",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.berh.2011.01.019_bib60",
+          "doi-asserted-by": "crossref",
+          "first-page": "411",
+          "DOI": "10.1136/oem.56.6.411",
+          "article-title": "Work related risk factors for musculoskeletal complaints in the spinning industry in Lithuania",
+          "volume": "56",
+          "author": "Gamperiene",
+          "year": "1999",
+          "journal-title": "Occupational and Environmental Medicine"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.berh.2011.01.019_bib61",
+          "doi-asserted-by": "crossref",
+          "first-page": "672",
+          "DOI": "10.1097/00007632-199206000-00006",
+          "article-title": "Low back and neck/shoulder pain in construction workers: occupational workload and psychosocial risk factors. Part 2: Relationship to neck and shoulder pain",
+          "volume": "17",
+          "author": "Holmstrom",
+          "year": "1992",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "13",
+          "key": "10.1016/j.berh.2011.01.019_bib62",
+          "doi-asserted-by": "crossref",
+          "first-page": "E363",
+          "DOI": "10.1097/01.brs.0000167819.82642.f7",
+          "article-title": "Neck/shoulder disorders in a general population. Natural course and influence of physical exercise: a 5-year follow-up",
+          "volume": "30",
+          "author": "Pernold",
+          "year": "2005",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.berh.2011.01.019_bib63",
+          "doi-asserted-by": "crossref",
+          "first-page": "447",
+          "DOI": "10.1097/00002508-200411000-00010",
+          "article-title": "Factors predicting pain reduction in chronic back and neck pain after multimodal treatment",
+          "volume": "20",
+          "author": "Michaelson",
+          "year": "2004",
+          "journal-title": "Clinical Journal of Pain"
+        },
+        {
+          "issue": "17",
+          "key": "10.1016/j.berh.2011.01.019_bib64",
+          "doi-asserted-by": "crossref",
+          "first-page": "E495",
+          "DOI": "10.1097/BRS.0b013e31810768fc",
+          "article-title": "Comorbidity and impact of chronic spinal pain in Nigeria",
+          "volume": "32",
+          "author": "Gureje",
+          "year": "2007",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.berh.2011.01.019_bib65",
+          "doi-asserted-by": "crossref",
+          "first-page": "629",
+          "DOI": "10.1016/S0304-3959(98)00268-1",
+          "article-title": "Cost-of-illness of neck pain in The Netherlands in 1996",
+          "volume": "80",
+          "author": "Borghouts",
+          "year": "1999",
+          "journal-title": "Pain"
+        }
+      ],
+      "container-title": [
+        "Best Practice &amp; Research Clinical Rheumatology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1521694211000246?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1521694211000246?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            11,
+            26
+          ]
+        ],
+        "date-time": "2021-11-26T07:02:00Z",
+        "timestamp": 1637910120000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1521694211000246"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2010,
+            12
+          ]
+        ]
+      },
+      "references-count": 65,
+      "journal-issue": {
+        "issue": "6",
+        "published-print": {
+          "date-parts": [
+            [
+              2010,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1521694211000246"
+      ],
+      "URL": "https://doi.org/10.1016/j.berh.2011.01.019",
+      "relation": {},
+      "ISSN": [
+        "1521-6942"
+      ],
+      "issn-type": [
+        {
+          "value": "1521-6942",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            12
+          ]
+        ]
+      }
+    }
+  }
+}

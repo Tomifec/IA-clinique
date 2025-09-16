@@ -1,0 +1,23 @@
+---
+'@context': http://schema.org
+'@type': Evidence
+id: evidence_import_refs_2025_09_11_10_1136_bjsports_2017_098983
+theme: import_refs_2025_09_11
+message_clinique: 'MSK: approches actives/exercices soutenus; appliquer de façon individualisée
+  et progressive.'
+doi_url: https://doi.org/10.1136/bjsports-2017-098983
+sources_snapshot: _audit/evidence_import_refs_2025_09_11_10_1136_bjsports_2017_098983.json
+statut: valide
+type_etude: synthese
+publication_date: '2018-06-20'
+last_verified: '2025-09-12'
+retraction_status: ok
+evidence_level:
+  scale: OCEBM
+  value: unspecified
+  justification: Journal clinique (JOSPT/Phys Ther/BJSM); effets généralement modestes
+    mais pertinents; sécurité bonne. Article clinique (BJSM); abstract non trouvé
+    (audit).
+---
+# Evidence Import Refs 2025 09 11 10 1136 Bjsports 2017 098983
+

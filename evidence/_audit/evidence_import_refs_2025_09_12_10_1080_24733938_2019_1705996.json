@@ -1,0 +1,628 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1080_24733938_2019_1705996.md",
+  "id": "evidence_import_refs_2025_09_12_10_1080_24733938_2019_1705996",
+  "doi": "10.1080/24733938.2019.1705996",
+  "pmid": "39452894",
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:21.877155Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            31
+          ]
+        ],
+        "date-time": "2025-08-31T23:24:37Z",
+        "timestamp": 1756682677570,
+        "version": "3.40.5"
+      },
+      "reference-count": 42,
+      "publisher": "Informa UK Limited",
+      "issue": "3",
+      "content-domain": {
+        "domain": [
+          "www.tandfonline.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Science and Medicine in Football"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            7,
+            2
+          ]
+        ]
+      },
+      "DOI": "10.1080/24733938.2019.1705996",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            12,
+            14
+          ]
+        ],
+        "date-time": "2019-12-14T18:06:35Z",
+        "timestamp": 1576346795000
+      },
+      "page": "216-224",
+      "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+      "source": "Crossref",
+      "is-referenced-by-count": 51,
+      "title": [
+        "Do Niggles Matter? - Increased injury risk following physical complaints in football (soccer)"
+      ],
+      "prefix": "10.1080",
+      "volume": "4",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-1532-7877",
+          "authenticated-orcid": false,
+          "given": "Matthew",
+          "family": "Whalan",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Centre for Human and Applied Physiology, School of Medicine, University of Wollongong, Wollongong, Australia"
+            },
+            {
+              "name": "NSW Football Medicine Association"
+            },
+            {
+              "name": "Figtree Physiotherapy, Australia"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5859-0267",
+          "authenticated-orcid": false,
+          "given": "Ric",
+          "family": "Lovell",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "NSW Football Medicine Association"
+            },
+            {
+              "name": "School of Science and Health, Western Sydney University, Australia"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6800-7757",
+          "authenticated-orcid": false,
+          "given": "John A",
+          "family": "Sampson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for Human and Applied Physiology, School of Medicine, University of Wollongong, Wollongong, Australia"
+            },
+            {
+              "name": "NSW Football Medicine Association"
+            }
+          ]
+        }
+      ],
+      "member": "301",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            12,
+            23
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "cit0001",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00167-015-3636-2"
+        },
+        {
+          "key": "cit0002",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2017-098160"
+        },
+        {
+          "key": "cit0003",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2015-095850"
+        },
+        {
+          "key": "cit0004",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1600-0838.2009.01085.x"
+        },
+        {
+          "key": "cit0005",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40279-018-0953-x"
+        },
+        {
+          "key": "cit0006",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/24733938.2016.1256579"
+        },
+        {
+          "key": "cit0007",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2013-093297"
+        },
+        {
+          "key": "cit0008",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2012-091524"
+        },
+        {
+          "key": "cit0009",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2012-092087"
+        },
+        {
+          "key": "cit0010",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ip.9.2.117"
+        },
+        {
+          "issue": "2",
+          "key": "cit0011",
+          "volume": "12",
+          "author": "Crowcroft S",
+          "year": "2016",
+          "journal-title": "Int J Sports Physiol Perform"
+        },
+        {
+          "key": "cit0012",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s40621-014-0019-y"
+        },
+        {
+          "key": "cit0013",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/sms.12216"
+        },
+        {
+          "key": "cit0014",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsm.2009.060582"
+        },
+        {
+          "key": "cit0015",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2018-099411"
+        },
+        {
+          "key": "cit0016",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2017-098001"
+        },
+        {
+          "key": "cit0017",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1527002518798681"
+        },
+        {
+          "key": "cit0018",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/24733938.2016.1256555"
+        },
+        {
+          "key": "cit0019",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsm.2005.025270"
+        },
+        {
+          "key": "cit0020",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40279-016-0651-5"
+        },
+        {
+          "key": "cit0021",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2017-097884"
+        },
+        {
+          "key": "cit0022",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2017-097890"
+        },
+        {
+          "key": "cit0023",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546516687539"
+        },
+        {
+          "key": "cit0024",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00221-015-4347-0"
+        },
+        {
+          "key": "cit0025",
+          "first-page": "16",
+          "volume": "11",
+          "author": "Hopkins WG",
+          "year": "2007",
+          "journal-title": "Sportscience"
+        },
+        {
+          "key": "cit0026",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00167-018-4996-1"
+        },
+        {
+          "key": "cit0027",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsm.30.3.213"
+        },
+        {
+          "key": "cit0028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ip.9.2.100"
+        },
+        {
+          "key": "cit0029",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2017-098473"
+        },
+        {
+          "key": "cit0030",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1123/ijspp.2017-0137"
+        },
+        {
+          "key": "cit0031",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/24733938.2016.1256554"
+        },
+        {
+          "issue": "1",
+          "key": "cit0032",
+          "first-page": "29",
+          "volume": "32",
+          "author": "Meyers MC",
+          "year": "2001",
+          "journal-title": "Int J Sport Psychol"
+        },
+        {
+          "key": "cit0033",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/sms.12869"
+        },
+        {
+          "key": "cit0034",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2017-098159"
+        },
+        {
+          "key": "cit0035",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/JSM.0b013e3180547527"
+        },
+        {
+          "key": "cit0036",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2012.03.005"
+        },
+        {
+          "issue": "2",
+          "key": "cit0037",
+          "first-page": "1",
+          "volume": "12",
+          "author": "Thorpe RT",
+          "year": "2017",
+          "journal-title": "Int J Sport Physiol"
+        },
+        {
+          "key": "cit0038",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jsams.2014.02.004"
+        },
+        {
+          "key": "cit0039",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2165/00007256-199214020-00002"
+        },
+        {
+          "key": "cit0040",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jsams.2018.05.024"
+        },
+        {
+          "key": "cit0041",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1249/JES.0000000000000205"
+        },
+        {
+          "key": "cit0042",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2016-096040"
+        }
+      ],
+      "container-title": [
+        "Science and Medicine in Football"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.1080/24733938.2019.1705996",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            5,
+            22
+          ]
+        ],
+        "date-time": "2021-05-22T20:29:56Z",
+        "timestamp": 1621715396000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.tandfonline.com/doi/full/10.1080/24733938.2019.1705996"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            12,
+            23
+          ]
+        ]
+      },
+      "references-count": 42,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              7,
+              2
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1080/24733938.2019.1705996"
+      ],
+      "URL": "https://doi.org/10.1080/24733938.2019.1705996",
+      "relation": {},
+      "ISSN": [
+        "2473-3938",
+        "2473-4446"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2473-3938"
+        },
+        {
+          "type": "electronic",
+          "value": "2473-4446"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            12,
+            23
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+          "order": 1,
+          "name": "peerreview_statement",
+          "label": "Peer Review Statement"
+        },
+        {
+          "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rsmf20",
+          "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rsmf20",
+          "order": 2,
+          "name": "aims_and_scope_url",
+          "label": "Aim & Scope"
+        },
+        {
+          "value": "2019-12-10",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2019-12-23",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    },
+    "pubmed_summary": {
+      "uid": "39452894",
+      "pubdate": "2025 Jan",
+      "epubdate": "2024 Oct 25",
+      "source": "Future Oncol",
+      "authors": [
+        {
+          "name": "Cella D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Motzer RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Suarez C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blum SI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ejzykowicz F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hamilton M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wallace JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Simsek B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ivanescu C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Choueiri TK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Apolo AB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Apolo AB",
+      "title": "Plain language summary of quality of life in CheckMate 9ER: Cabozantinib plus nivolumab in advanced renal cell carcinoma.",
+      "sorttitle": "plain language summary of quality of life in checkmate 9er cabozantinib plus nivolumab in advanced renal cell carcinoma",
+      "volume": "21",
+      "issue": "2",
+      "pages": "181-194",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101256629",
+      "issn": "1479-6694",
+      "essn": "1744-8301",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - in process",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39452894"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11792805"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11792805;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/14796694.2024.2415786"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/10/25 12:23"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/10/25 12:23"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/10/25 10:04"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2024/10/25 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Future Oncol. 2025 Apr;21(10):1281. doi: 10.1080/14796694.2024.2432128.",
+          "reftype": "Erratum in",
+          "pmid": 39580642,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Future oncology (London, England)",
+      "elocationid": "doi: 10.1080/14796694.2024.2415786",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/01/01 00:00",
+      "sortfirstauthor": "Cella D",
+      "vernaculartitle": ""
+    }
+  }
+}

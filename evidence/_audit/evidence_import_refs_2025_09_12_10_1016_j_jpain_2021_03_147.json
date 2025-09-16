@@ -1,0 +1,1784 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jpain_2021_03_147.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jpain_2021_03_147",
+  "doi": "10.1016/j.jpain.2021.03.147",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:44.939766Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2025-09-08T06:43:48Z",
+        "timestamp": 1757313828408,
+        "version": "3.40.5"
+      },
+      "reference-count": 143,
+      "publisher": "Elsevier BV",
+      "issue": "9",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2021-09-01T00:00:00Z",
+            "timestamp": 1630454400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                9,
+                11
+              ]
+            ],
+            "date-time": "2023-09-11T00:00:00Z",
+            "timestamp": 1694390400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 740,
+          "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "clinicalkey.es",
+          "clinicalkey.com.au",
+          "clinicalkey.com",
+          "jpain.org",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The Journal of Pain"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jpain.2021.03.147",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            14
+          ]
+        ],
+        "date-time": "2021-04-14T00:31:52Z",
+        "timestamp": 1618360312000
+      },
+      "page": "1015-1039",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 58,
+      "title": [
+        "Non-Surgical Interventions for Lumbar Spinal Stenosis Leading To Neurogenic Claudication: A Clinical Practice Guideline"
+      ],
+      "prefix": "10.1016",
+      "volume": "22",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2818-6949",
+          "authenticated-orcid": false,
+          "given": "André",
+          "family": "Bussières",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1883-4970",
+          "authenticated-orcid": false,
+          "given": "Carolina",
+          "family": "Cancelliere",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Carlo",
+          "family": "Ammendolia",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9847-9408",
+          "authenticated-orcid": false,
+          "given": "Christine M.",
+          "family": "Comer",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7950-8979",
+          "authenticated-orcid": false,
+          "given": "Fadi Al",
+          "family": "Zoubi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Claude-Edouard",
+          "family": "Châtillon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Greg",
+          "family": "Chernish",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "James M",
+          "family": "Cox",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jordan A",
+          "family": "Gliedt",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Danielle",
+          "family": "Haskett",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7528-3234",
+          "authenticated-orcid": false,
+          "given": "Rikke Krüger",
+          "family": "Jensen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7002-6028",
+          "authenticated-orcid": false,
+          "given": "Andrée-Anne",
+          "family": "Marchand",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christy",
+          "family": "Tomkins-Lane",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Julie",
+          "family": "O'Shaughnessy",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Steven",
+          "family": "Passmore",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michael J.",
+          "family": "Schneider",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter",
+          "family": "Shipka",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gregory",
+          "family": "Stewart",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6534-4467",
+          "authenticated-orcid": false,
+          "given": "Kent",
+          "family": "Stuber",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Albert",
+          "family": "Yee",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joseph",
+          "family": "Ornelas",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0001",
+          "doi-asserted-by": "crossref",
+          "first-page": "435",
+          "DOI": "10.1186/s12913-018-3253-0",
+          "article-title": "The effectiveness of interventions designed to increase the uptake of clinical practice guidelines and best practices among musculoskeletal professionals: a systematic review",
+          "volume": "18",
+          "author": "Al Zoubi",
+          "year": "2018",
+          "journal-title": "BMC Health Serv Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0002",
+          "doi-asserted-by": "crossref",
+          "first-page": "25",
+          "DOI": "10.1186/s12998-016-0106-y",
+          "article-title": "The boot camp program for lumbar spinal stenosis: a protocol for a randomized controlled trial",
+          "volume": "24",
+          "author": "Ammendolia",
+          "year": "2016",
+          "journal-title": "Chiroprac Manual Ther"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0003",
+          "doi-asserted-by": "crossref",
+          "first-page": "2408",
+          "DOI": "10.1016/j.apmr.2018.05.014",
+          "article-title": "Comprehensive nonsurgical treatment versus self-directed care to improve walking ability in lumbar spinal stenosis: A randomized trial",
+          "volume": "99",
+          "author": "Ammendolia",
+          "year": "2018",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0004",
+          "first-page": "18",
+          "article-title": "The physical and psychological impact of neurogenic claudication: The patients' perspectives",
+          "volume": "61",
+          "author": "Ammendolia",
+          "year": "2017",
+          "journal-title": "J Can Chiroprac Assoc"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0005",
+          "doi-asserted-by": "crossref",
+          "first-page": "1282",
+          "DOI": "10.1007/s00586-014-3262-6",
+          "article-title": "What interventions improve walking ability in neurogenic claudication with lumbar spinal stenosis? A systematic review",
+          "volume": "23",
+          "author": "Ammendolia",
+          "year": "2014",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0006",
+          "article-title": "Nonoperative treatment for lumbar spinal stenosis with neurogenic claudication",
+          "volume": "8",
+          "author": "Ammendolia",
+          "year": "2013",
+          "journal-title": "Cochrane Database of Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0007",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2018-024944",
+          "article-title": "SUcceSS, SUrgery for spinal stenosis: Protocol of a randomised, placebo-controlled trial",
+          "volume": "9",
+          "author": "Anderson",
+          "year": "2019",
+          "journal-title": "BMJ open"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0008",
+          "doi-asserted-by": "crossref",
+          "first-page": "719",
+          "DOI": "10.1016/j.jclinepi.2012.03.013",
+          "article-title": "GRADE guidelines: 14. Going from evidence to recommendations: The significance and presentation of recommendations",
+          "volume": "66",
+          "author": "Andrews",
+          "year": "2013",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0009",
+          "doi-asserted-by": "crossref",
+          "first-page": "726",
+          "DOI": "10.1016/j.jclinepi.2013.02.003",
+          "article-title": "GRADE guidelines: 15. Going from evidence to recommendation—determinants of a recommendation's direction and strength",
+          "volume": "66",
+          "author": "Andrews",
+          "year": "2013",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0010",
+          "article-title": "Current concepts and recent advances in understanding and managing lumbar spine stenosis",
+          "author": "Bagley",
+          "year": "2019",
+          "journal-title": "F1000 Faculty Rev-137"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0011",
+          "doi-asserted-by": "crossref",
+          "first-page": "856",
+          "DOI": "10.1136/bjsports-2018-100451",
+          "article-title": "Copenhagen consensus statement 2019: Physical activity and ageing",
+          "volume": "53",
+          "author": "Bangsbo",
+          "year": "2019",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0012",
+          "first-page": "1",
+          "article-title": "Trends in adults receiving a recommendation for exercise or other physical activity from a physician or other health professional",
+          "author": "Barnes",
+          "year": "2012",
+          "journal-title": "NCHS Data Brief"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0013",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.physio.2017.05.002",
+          "article-title": "Strategies to translate knowledge related to common musculoskeletal conditions into physiotherapy practice: A systematic review",
+          "volume": "104",
+          "author": "Bérubé",
+          "year": "2018",
+          "journal-title": "J Physiother"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0014",
+          "doi-asserted-by": "crossref",
+          "first-page": "236",
+          "DOI": "10.1177/135581969900400410",
+          "article-title": "Consensus development methods: A review of best practice in creating clinical guidelines",
+          "volume": "4",
+          "author": "Black",
+          "year": "1999",
+          "journal-title": "J Health Serv Res Policy"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "882",
+          "DOI": "10.1007/s00586-010-1545-0",
+          "article-title": "Sensitivity to change of the neck pain and disability scale",
+          "volume": "20",
+          "author": "Blozik",
+          "year": "2011",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0016",
+          "doi-asserted-by": "crossref",
+          "first-page": "639",
+          "DOI": "10.1016/j.spinee.2017.08.254",
+          "article-title": "Patients' experience with nonsurgical treatment for lumbar spinal stenosis: A qualitative study",
+          "volume": "18",
+          "author": "Bove",
+          "year": "2018",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0017",
+          "doi-asserted-by": "crossref",
+          "first-page": "366",
+          "DOI": "10.2471/BLT.17.204891",
+          "article-title": "Reducing the global burden of musculoskeletal conditions",
+          "volume": "96",
+          "author": "Briggs",
+          "year": "2018",
+          "journal-title": "Bull World Health Organ"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0018",
+          "doi-asserted-by": "crossref",
+          "first-page": "1308",
+          "DOI": "10.1016/j.jclinepi.2010.07.001",
+          "article-title": "AGREE II: Advancing guideline development, reporting and evaluation in health care",
+          "volume": "63",
+          "author": "Brouwers",
+          "year": "2010",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0019",
+          "first-page": "E659",
+          "article-title": "Guideline for opioid therapy and chronic noncancer pain",
+          "volume": "189",
+          "author": "Busse",
+          "year": "2017",
+          "journal-title": "CAMJ"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0020",
+          "doi-asserted-by": "crossref",
+          "first-page": "216",
+          "DOI": "10.1186/s12906-016-1175-0",
+          "article-title": "Evidence-based practice, research utilization, and knowledge translation in chiropractic: A scoping review",
+          "volume": "16",
+          "author": "Bussieres",
+          "year": "2016",
+          "journal-title": "BMC Complement Altern Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0021",
+          "doi-asserted-by": "crossref",
+          "first-page": "523",
+          "DOI": "10.1016/j.jmpt.2016.08.007",
+          "article-title": "The treatment of whiplash and neck pain associated disorders: Canadian Chiropractic Guideline Initiative clinical practice guidelines",
+          "volume": "39",
+          "author": "Bussières",
+          "year": "2016",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0022",
+          "doi-asserted-by": "crossref",
+          "first-page": "265",
+          "DOI": "10.1016/j.jmpt.2017.12.004",
+          "article-title": "Spinal manipulative therapy and other conservative treatments for low back pain: A guideline from the Canadian Chiropractic Guideline Initiative",
+          "volume": "41",
+          "author": "Bussières",
+          "year": "2018",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "unstructured": "Chou R, Deyo R, Friedly J, Skelly A, Hashimoto R, Weimer M, Fu R, Dana T, Kraegel P, Griffin J, Grusing S, E. B. Noninvasive Treatments for Low Back Pain. Comparative Effectiveness Review No. 169. (Prepared by the Pacific Northwest Evidence-based Practice Center under Contract No. 290-2012-00014-I.). AHRQ Publication No 16-EHC004-EF Rockville, MD: Agency for Healthcare Research and Quality. Available at: wwweffectivehealthcareahrqgov/reports/finalcfm. Accessed May 15, 2016",
+          "key": "10.1016/j.jpain.2021.03.147_bib0023"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0024",
+          "article-title": "Systemic pharmacologic therapies for low back pain: A systematic review for an American College of Physicians Clinical Practice Guideline",
+          "volume": "166",
+          "author": "Chou",
+          "year": "2017",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0025",
+          "doi-asserted-by": "crossref",
+          "first-page": "523",
+          "DOI": "10.3109/17453674.2015.1036696",
+          "article-title": "A proposed set of metrics for standardized outcome reporting in the management of low back pain",
+          "volume": "86",
+          "author": "Clement",
+          "year": "2015",
+          "journal-title": "Acta Orthop"
+        },
+        {
+          "year": "2010",
+          "author": "Collaboration",
+          "series-title": "ADAPTE Resource Toolkit for Guideline Adaptation Version 2.0",
+          "key": "10.1016/j.jpain.2021.03.147_bib0026"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0027",
+          "doi-asserted-by": "crossref",
+          "first-page": "816",
+          "DOI": "10.1016/j.spinee.2010.10.019",
+          "article-title": "Walking assessment in people with lumbar spinal stenosis: Capacity, performance, and self-report measures",
+          "volume": "11",
+          "author": "Conway",
+          "year": "2011",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0028",
+          "article-title": "Decompressive surgery for lumbar spinal stenosis: WFNS spine committee recommendations",
+          "volume": "7",
+          "author": "Costa",
+          "year": "2020",
+          "journal-title": "World Neurosurg X"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0029",
+          "doi-asserted-by": "crossref",
+          "first-page": "138",
+          "DOI": "10.1519/JPT.0b013e31820e0e71",
+          "article-title": "Motivators, barriers, and beliefs regarding physical activity in an older adult population",
+          "volume": "34",
+          "author": "Costello",
+          "year": "2011",
+          "journal-title": "J Geriatr Phys Ther"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0030",
+          "doi-asserted-by": "crossref",
+          "first-page": "625",
+          "DOI": "10.1016/j.spinee.2010.05.006",
+          "article-title": "Treatment of lumbar spinal stenosis: A balancing act",
+          "volume": "10",
+          "author": "Deyo",
+          "year": "2010",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0031",
+          "doi-asserted-by": "crossref",
+          "first-page": "1259",
+          "DOI": "10.1001/jama.2010.338",
+          "article-title": "Trends, major medical complications, and charges associated with surgery for lumbar spinal stenosis in older adults",
+          "volume": "303",
+          "author": "Deyo",
+          "year": "2010",
+          "journal-title": "JAMA"
+        },
+        {
+          "unstructured": "DHA. Danish Health Authority. Lumbar Spine Stenosis Guideline Search Terms and Strategies, 2019. Available at: https://www.sst.dk/en/English. Accessed December 31, 2017",
+          "key": "10.1016/j.jpain.2021.03.147_bib0032"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0033",
+          "doi-asserted-by": "crossref",
+          "first-page": "1624",
+          "DOI": "10.1001/jama.2016.1464",
+          "article-title": "CDC guideline for prescribing opioids for chronic pain–United States",
+          "volume": "315",
+          "author": "Dowell",
+          "year": "2016",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0034",
+          "doi-asserted-by": "crossref",
+          "first-page": "E786",
+          "DOI": "10.1503/cmaj.171333",
+          "article-title": "Anticonvulsants in the treatment of low back pain and lumbar radicular pain: A systematic review and meta-analysis",
+          "volume": "190",
+          "author": "Enke",
+          "year": "2018",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0035",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/14651858.CD012087",
+          "article-title": "Non-steroidal anti-inflammatory drugs for chronic low back pain",
+          "author": "Enthoven",
+          "year": "2016",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0036",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/14651858.CD010669.pub2",
+          "article-title": "Tools developed and disseminated by guideline producers to promote the uptake of their guidelines",
+          "author": "Flodgren",
+          "year": "2016",
+          "journal-title": "Cochrane Database Systematic Rev"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0037",
+          "article-title": "Local opinion leaders: Effects on professional practice and healthcare outcomes",
+          "volume": "6",
+          "author": "Flodgren",
+          "year": "2019",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0038",
+          "first-page": "30468",
+          "article-title": "Prevention and treatment of low back pain: Evidence, challenges, and promising directions",
+          "volume": "6736",
+          "author": "Foster",
+          "year": "2018",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0039",
+          "doi-asserted-by": "crossref",
+          "first-page": "11",
+          "DOI": "10.1056/NEJMoa1313265",
+          "article-title": "A randomized trial of epidural glucocorticoid injections for spinal stenosis",
+          "volume": "371",
+          "author": "Friedly",
+          "year": "2014",
+          "journal-title": "NEJM"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "324",
+          "DOI": "10.1007/s00586-016-4668-0",
+          "article-title": "The clinical course of pain and disability following surgery for spinal stenosis: A systematic review and meta-analysis of cohort studies",
+          "volume": "26",
+          "author": "Fritsch",
+          "year": "2017",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0041",
+          "doi-asserted-by": "crossref",
+          "first-page": "129",
+          "DOI": "10.1016/j.jclinepi.2019.05.024",
+          "article-title": "The clinician guideline determinants questionnaire was developed and validated to support tailored implementation planning",
+          "volume": "113",
+          "author": "Gagliardi",
+          "year": "2019",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0042",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.1186/s13012-015-0205-5",
+          "article-title": "Developing a checklist for guideline implementation planning: Review and synthesis of guideline development and implementation advice",
+          "volume": "10",
+          "author": "Gagliardi",
+          "year": "2015",
+          "journal-title": "Implemention Sci"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0043",
+          "doi-asserted-by": "crossref",
+          "first-page": "253",
+          "DOI": "10.7705/biomedica.v38i0.3991",
+          "article-title": "Effectiveness of knowledge translation and knowledge appropriation of clinical practice guidelines for patients and communities, a systematic review",
+          "volume": "38",
+          "author": "Garzón-Orjuela",
+          "year": "2018",
+          "journal-title": "Biomedica"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0044",
+          "doi-asserted-by": "crossref",
+          "first-page": "941",
+          "DOI": "10.1016/j.spinee.2017.10.003",
+          "article-title": "Clinical classification criteria for neurogenic claudication caused by lumbar spinal stenosis. The N-CLASS criteria",
+          "volume": "18",
+          "author": "Genevay",
+          "year": "2018",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0045",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pmed.1002396",
+          "article-title": "Gabapentin, opioids, and the risk of opioid-related death: A population-based nested case-control study",
+          "volume": "14",
+          "author": "Gomes",
+          "year": "2017",
+          "journal-title": "PLoS medicine"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0046",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/chp.47",
+          "article-title": "Lost in knowledge translation: Time for a map?",
+          "volume": "26",
+          "author": "Graham",
+          "year": "2006",
+          "journal-title": "J Contin Educ Health Prof"
+        },
+        {
+          "year": "2009",
+          "series-title": "GRADE Working Group. Resources",
+          "key": "10.1016/j.jpain.2021.03.147_bib0047"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0048",
+          "doi-asserted-by": "crossref",
+          "first-page": "383",
+          "DOI": "10.1016/j.jclinepi.2010.04.026",
+          "article-title": "GRADE guidelines 1. Introduction - GRADE evidence profiles and summary of findings tables",
+          "volume": "64",
+          "author": "Guyatt",
+          "year": "2011",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0049",
+          "doi-asserted-by": "crossref",
+          "first-page": "395",
+          "DOI": "10.1016/j.jclinepi.2010.09.012",
+          "article-title": "GRADE guidelines: 2. Framing the question and deciding on important outcomes",
+          "volume": "64",
+          "author": "Guyatt",
+          "year": "2011",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0050",
+          "doi-asserted-by": "crossref",
+          "first-page": "924",
+          "DOI": "10.1136/bmj.39489.470347.AD",
+          "article-title": "GRADE: An emerging consensus on rating quality of evidence and strength of recommendations",
+          "volume": "336",
+          "author": "Guyatt",
+          "year": "2008",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0051",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.1186/s13012-019-0884-4",
+          "article-title": "Physician-reported barriers to using evidence-based recommendations for low back pain in clinical practice: A systematic review and synthesis of qualitative studies using the Theoretical Domains framework",
+          "volume": "14",
+          "author": "Hall",
+          "year": "2019",
+          "journal-title": "Implementation sci"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0052",
+          "doi-asserted-by": "crossref",
+          "first-page": "430",
+          "DOI": "10.1186/s12913-017-2388-8",
+          "article-title": "Sustainability in health care by allocating resources effectively (SHARE) 7: supporting staff in evidence-based decision-making, implementation and evaluation in a local healthcare setting",
+          "volume": "17",
+          "author": "Harris",
+          "year": "2017",
+          "journal-title": "BMC Health Serv Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0053",
+          "doi-asserted-by": "crossref",
+          "first-page": "151",
+          "DOI": "10.1186/s12913-018-2932-1",
+          "article-title": "Sustainability in health care by allocating resources effectively (SHARE) 8: Developing, implementing and evaluating an evidence dissemination service in a local healthcare setting",
+          "volume": "18",
+          "author": "Harris",
+          "year": "2018",
+          "journal-title": "BMC Health Serv Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0054",
+          "doi-asserted-by": "crossref",
+          "first-page": "S240",
+          "DOI": "10.1002/acr.20543",
+          "volume": "63",
+          "author": "Hawker",
+          "year": "2011",
+          "journal-title": "Arthritis Care Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0055",
+          "doi-asserted-by": "crossref",
+          "first-page": "1045",
+          "DOI": "10.1016/j.spinee.2017.04.005",
+          "article-title": "Scoping review to develop common data elements for lumbar spinal stenosis",
+          "volume": "17",
+          "author": "Heinemann",
+          "year": "2017",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0056",
+          "first-page": "1008",
+          "article-title": "The Delphi technique: Making sense of consensus",
+          "volume": "32",
+          "author": "Hsu",
+          "year": "2007",
+          "journal-title": "J Advanced Nursing"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0057",
+          "article-title": "Can acupuncture improve chronic spinal pain? A systematic review and meta-analysis",
+          "author": "Huang",
+          "year": "2020",
+          "journal-title": "Global Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0058",
+          "doi-asserted-by": "crossref",
+          "first-page": "272",
+          "DOI": "10.1097/BSD.0000000000000841",
+          "article-title": "Lumbar spinal stenosis and degenerative spondylolisthesis",
+          "volume": "342",
+          "author": "Ilyas",
+          "year": "2019",
+          "journal-title": "Clin Spine Surg"
+        },
+        {
+          "year": "2009",
+          "author": "Iskedjian",
+          "series-title": "Overview of Anticonvulsants, Serotonin-Norepinephrine Reuptake Inhibitors, and Tricyclic Antidepressants in Management of Neuropathic Pain",
+          "key": "10.1016/j.jpain.2021.03.147_bib0059"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0060",
+          "article-title": "Audit and feedback: Effects on professional practice and healthcare outcomes (Review)",
+          "volume": "2012",
+          "author": "Ivers",
+          "year": "2012",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0061",
+          "doi-asserted-by": "crossref",
+          "first-page": "2143",
+          "DOI": "10.1007/s00586-020-06339-1",
+          "article-title": "Prevalence of lumbar spinal stenosis in general and clinical populations: A systematic review and meta-analysis",
+          "volume": "29",
+          "author": "Jensen",
+          "year": "2020",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0062",
+          "doi-asserted-by": "crossref",
+          "first-page": "1604",
+          "DOI": "10.1007/s00586-018-5520-5",
+          "article-title": "Correlation between the Oswestry disability Index and objective measurements of walking capacity and performance in patients with lumbar spinal stenosis: A systematic literature review",
+          "volume": "27",
+          "author": "Jespersen",
+          "year": "2018",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0063",
+          "doi-asserted-by": "crossref",
+          "first-page": "64",
+          "DOI": "10.1080/02813432.2017.1288815",
+          "article-title": "Patients with chronic pain may need extra support when prescribed physical activity in primary care: A qualitative study",
+          "volume": "35",
+          "author": "Joelsson",
+          "year": "2017",
+          "journal-title": "Scand J Prim Health Care"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0064",
+          "doi-asserted-by": "crossref",
+          "first-page": "818",
+          "DOI": "10.1056/NEJMcp0708097",
+          "article-title": "Lumbar spinal stenosis",
+          "volume": "358",
+          "author": "Katz",
+          "year": "2008",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0065",
+          "doi-asserted-by": "crossref",
+          "first-page": "569",
+          "DOI": "10.1093/pm/pnx324",
+          "article-title": "The effect of epidural steroid injections on bone mineral density and vertebral fracture risk: A systematic review and critical appraisal of current literature",
+          "volume": "19",
+          "author": "Kerezoudis",
+          "year": "2018",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0066",
+          "doi-asserted-by": "crossref",
+          "first-page": "756",
+          "DOI": "10.1016/j.spinee.2016.02.049",
+          "article-title": "Comparative study of the efficacy of limaprost and pregabalin as single agents and in combination for the treatment of lumbar spinal stenosis: A prospective, double-blind, randomized controlled non-inferiority trial",
+          "volume": "16",
+          "author": "Kim",
+          "year": "2016",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0067",
+          "doi-asserted-by": "crossref",
+          "first-page": "537",
+          "DOI": "10.1080/14656566.2018.1454430",
+          "article-title": "Pharmacotherapy for chronic non-specific low back pain: Current and future options",
+          "volume": "19",
+          "author": "Koes",
+          "year": "2018",
+          "journal-title": "Expert Opin Pharmacother"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0068",
+          "doi-asserted-by": "crossref",
+          "first-page": "734",
+          "DOI": "10.1016/j.spinee.2012.11.059",
+          "article-title": "An evidence-based clinical guideline for the diagnosis and treatment of degenerative lumbar spinal stenosis (update)",
+          "volume": "13",
+          "author": "Kreiner",
+          "year": "2013",
+          "journal-title": "Spine J"
+        },
+        {
+          "unstructured": "Kreiner S, Baisden J, Gilbert T, Summers J, Toton J, Hwang S, Mendel R, Reitman C. North American Spine Society (NASS). Clinical Guidelines for Multidisciplinary Spine Care. Diagnosis and treatment of degenerative lumbar spinal stenosis. North American Spine Society Technical report, 2011. Available at: https://wwwspineorg/Portals/0/assets/downloads/ResearchClinicalCare/Guidelines/LumbarStenosispdf. Accessed December 31, 2017.",
+          "key": "10.1016/j.jpain.2021.03.147_bib0069"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "40",
+          "DOI": "10.1007/s00586-010-1541-4",
+          "article-title": "A systematic review on the effectiveness of pharmacological interventions for chronic non-specific low-back pain",
+          "volume": "20",
+          "author": "Kuijpers",
+          "year": "2011",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0071",
+          "article-title": "Influence of diabetes mellitus on patients with lumbar spinal stenosis: A nationwide population-based study",
+          "volume": "14",
+          "author": "Lee",
+          "year": "2019",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0072",
+          "doi-asserted-by": "crossref",
+          "first-page": "449",
+          "DOI": "10.36076/ppj.2018.5.449",
+          "article-title": "Comparison of clinical efficacy of epidural injection with or without steroid in lumbosacral disc herniation: A systematic review and meta-analysis",
+          "volume": "21",
+          "author": "Lee",
+          "year": "2018",
+          "journal-title": "Pain Phys"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0073",
+          "doi-asserted-by": "crossref",
+          "first-page": "34",
+          "DOI": "10.1016/j.msksp.2019.01.003",
+          "article-title": "Patients' experiences of how symptoms are explained and influences on back-related health after pre-surgery physiotherapy: A qualitative study",
+          "volume": "40",
+          "author": "Lindbäck",
+          "year": "2019",
+          "journal-title": "Musculoskelet Sci Pract"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0074",
+          "first-page": "707",
+          "article-title": "Steroid for epidural injection in spinal stenosis: A systematic review and meta-analysis",
+          "volume": "9",
+          "author": "Liu",
+          "year": "2015",
+          "journal-title": "Drug Des Develop Ther"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0075",
+          "doi-asserted-by": "crossref",
+          "first-page": "h6234",
+          "DOI": "10.1136/bmj.h6234",
+          "article-title": "Management of lumbar spinal stenosis",
+          "volume": "352",
+          "author": "Lurie",
+          "year": "2016",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0076",
+          "doi-asserted-by": "crossref",
+          "first-page": "63",
+          "DOI": "10.1097/BRS.0000000000000731",
+          "article-title": "Long-term outcomes of lumbar spinal stenosis: Eight-year results of the spine patient outcomes research trial (SPORT)",
+          "volume": "40",
+          "author": "Lurie",
+          "year": "2015",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0077",
+          "doi-asserted-by": "crossref",
+          "first-page": "1303",
+          "DOI": "10.1016/j.spinee.2017.11.019",
+          "article-title": "Individuals with lumbar spinal stenosis seek education and care focused on self-management - results of focus groups among participants enrolled in a randomized controlled trial",
+          "volume": "18",
+          "author": "Lynch",
+          "year": "2018",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0078",
+          "doi-asserted-by": "crossref",
+          "first-page": "329",
+          "DOI": "10.1016/j.ijsu.2017.07.032",
+          "article-title": "Effectiveness of surgery versus conservative treatment for lumbar spinal stenosis: A system review and meta-analysis of randomized controlled trials",
+          "volume": "44",
+          "author": "Ma",
+          "year": "2017",
+          "journal-title": "Int J Surg"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0079",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/annrheumdis-2016-210597",
+          "article-title": "Non-steroidal anti-inflammatory drugs for spinal pain: A systematic review and meta-analysis",
+          "author": "Machado",
+          "year": "2017",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0080",
+          "doi-asserted-by": "crossref",
+          "first-page": "736",
+          "DOI": "10.1016/S0140-6736(16)30970-9",
+          "article-title": "Non-specific low back pain",
+          "volume": "389",
+          "author": "Maher",
+          "year": "2017",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0081",
+          "first-page": "1225",
+          "article-title": "Physical, emotional, and social impacts of restricting back pain in older adults: A qualitative Study",
+          "volume": "18",
+          "author": "Makris",
+          "year": "2016",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0082",
+          "doi-asserted-by": "crossref",
+          "first-page": "265",
+          "DOI": "10.1212/WNL.0000000000001168",
+          "article-title": "Double-blind, randomized, controlled, crossover trial of pregabalin for neurogenic claudication",
+          "volume": "84",
+          "author": "Markman",
+          "year": "2015",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0083",
+          "article-title": "Clinical practice guideline adaptation methods in resource-constrained settings: Four case studies from South Africa",
+          "author": "McCaul",
+          "year": "2019",
+          "journal-title": "BMJ Evid Based Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0084",
+          "doi-asserted-by": "crossref",
+          "first-page": "258",
+          "DOI": "10.1186/s12891-016-1110-z",
+          "article-title": "Implementation interventions to improve the management of non-specific low back pain: A systematic review",
+          "volume": "17",
+          "author": "Mesner",
+          "year": "2016",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0085",
+          "doi-asserted-by": "crossref",
+          "first-page": "693",
+          "DOI": "10.1007/s00776-013-0435-9",
+          "article-title": "The natural clinical course of lumbar spinal stenosis: A longitudinal cohort study over a minimum of 10 years",
+          "volume": "18",
+          "author": "Minamide",
+          "year": "2013",
+          "journal-title": "J Orthop Sci"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0086",
+          "doi-asserted-by": "crossref",
+          "first-page": "1310",
+          "DOI": "10.1016/j.spinee.2019.04.009",
+          "article-title": "Supervised physical therapy vs. home exercise for patients with lumbar spinal stenosis: A randomized controlled trial",
+          "volume": "19",
+          "author": "Minetama",
+          "year": "2019",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0087",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.1007/s00586-013-2889-z",
+          "article-title": "Management of catastrophising and kinesiophobia improves rehabilitation after fusion for lumbar spondylolisthesis and stenosis. A randomised controlled trial",
+          "volume": "23",
+          "author": "Monticone",
+          "year": "2014",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "unstructured": "NICE. Managing Low Back Pain and Sciatica. Updated 29 November 2016. National Institute for Health and Care Excellence. Available at: http://pathwaysniceorguk/pathways/low-back-pain-and-sciatica. Accessed February 8, 2021",
+          "key": "10.1016/j.jpain.2021.03.147_bib0088"
+        },
+        {
+          "year": "2017",
+          "series-title": "Assessing Resource Impact Process Manual: Guidelines. National Institute for Health and Care Excellence",
+          "key": "10.1016/j.jpain.2021.03.147_bib0089"
+        },
+        {
+          "unstructured": "NICE. Updating Guidelines. Chapter 14 In: Developing NICE Guidelines: the Manual Process and Methods [PMG20.]Published date: 31 October 2014 Last Updated: 31 October 2018. Available at: https://www.nice.org.uk/process/pmg20/chapter/updating-guidelines. Accessed June 2, 2020",
+          "key": "10.1016/j.jpain.2021.03.147_bib0090"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0091",
+          "doi-asserted-by": "crossref",
+          "first-page": "53",
+          "DOI": "10.1186/s13012-015-0242-0",
+          "article-title": "Making sense of implementation theories, models and frameworks",
+          "volume": "10",
+          "author": "Nilsen",
+          "year": "2015",
+          "journal-title": "Implementation Sci"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0092",
+          "doi-asserted-by": "crossref",
+          "first-page": "26",
+          "DOI": "10.1016/j.spinee.2016.10.016",
+          "article-title": "Objective measurement of free-living physical activity (performance) in lumbar spinal stenosis: Are physical activity guidelines being met?",
+          "volume": "17",
+          "author": "Norden",
+          "year": "2017",
+          "journal-title": "Spine J"
+        },
+        {
+          "year": "2008",
+          "author": "Norman",
+          "series-title": "Biostatistics: The Bare Essentials",
+          "key": "10.1016/j.jpain.2021.03.147_bib0093"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0094",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.1186/s12906-018-2087-y",
+          "article-title": "A comparative study of three conservative treatments in patients with lumbar spinal stenosis: Lumbar spinal stenosis with acupuncture and physical therapy study (LAP study)",
+          "volume": "18",
+          "author": "Oka",
+          "year": "2018",
+          "journal-title": "BMC Complement Altern Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0095",
+          "doi-asserted-by": "crossref",
+          "first-page": "e129",
+          "DOI": "10.1155/2013/120784",
+          "article-title": "A systematic review of the effectiveness of knowledge translation interventions for chronic noncancer pain management",
+          "volume": "18",
+          "author": "Ospina",
+          "year": "2013",
+          "journal-title": "Pain Res Manag"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0096",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1155/2013/590652",
+          "article-title": "Lumbar spinal stenosis has a negative impact on quality of life compared with other comorbidities: An epidemiological cross-sectional study of 1862 community-dwelling individuals",
+          "volume": "2013",
+          "author": "Otani",
+          "year": "2013",
+          "journal-title": "Sci World J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0097",
+          "article-title": "Manually-generated reminders delivered on paper: Effects on professional practice and patient outcomes",
+          "volume": "12",
+          "author": "Pantoja",
+          "year": "2019",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0098",
+          "doi-asserted-by": "crossref",
+          "first-page": "143",
+          "DOI": "10.3171/2014.3.SPINE1320",
+          "article-title": "Two-year comprehensive medical management of degenerative lumbar spine disease (lumbar spondylolisthesis, stenosis, or disc herniation): A value analysis of cost, pain, disability, and quality of life: clinical article",
+          "volume": "21",
+          "author": "Parker",
+          "year": "2014",
+          "journal-title": "J Neurosurg Spine"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0099",
+          "doi-asserted-by": "crossref",
+          "first-page": "32",
+          "DOI": "10.1186/s13012-019-0876-4",
+          "article-title": "Specifying and comparing implementation strategies across seven large implementation interventions: A practical application of theory",
+          "volume": "14",
+          "author": "Perry",
+          "year": "2019",
+          "journal-title": "Implementation Sci"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0100",
+          "doi-asserted-by": "crossref",
+          "first-page": "E357",
+          "DOI": "10.1097/BRS.0b013e318201b834",
+          "article-title": "Calcitonin treatment in lumbar spinal stenosis: A meta-analysis",
+          "volume": "36",
+          "author": "Podichetty",
+          "year": "2011",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0101",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1186/s13012-015-0209-1",
+          "article-title": "A refined compilation of implementation strategies: Results from the expert recommendations for implementing change (ERIC) project",
+          "volume": "10",
+          "author": "Powell",
+          "year": "2015",
+          "journal-title": "Implementation Sci"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0102",
+          "doi-asserted-by": "crossref",
+          "first-page": "514",
+          "DOI": "10.7326/M16-2367",
+          "article-title": "Physicians. ftCGCotACo. Noninvasive treatments for acute, subacute, and chronic low back pain: A clinical practice guideline from the American College of Physicians",
+          "volume": "166",
+          "author": "Qaseem",
+          "year": "2017",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0103",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.amjmed.2019.08.038",
+          "article-title": "Acupuncture vs noninsertive sham acupuncture in aging patients with degenerative lumbar spinal stenosis: A randomized controlled trial",
+          "volume": "133",
+          "author": "Qin",
+          "year": "2020",
+          "journal-title": "American J Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0104",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1186/1477-5751-13-13",
+          "article-title": "A double-blind, randomized controlled, prospective trial assessing the effectiveness of oral corticoids in the treatment of symptomatic lumbar canal stenosis",
+          "volume": "13",
+          "author": "Rodrigues",
+          "year": "2014",
+          "journal-title": "J Negat Res BioMedicine"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0105",
+          "doi-asserted-by": "crossref",
+          "first-page": "1386",
+          "DOI": "10.1007/s00586-019-05987-2",
+          "article-title": "Danish national clinical guidelines for surgical and nonsurgical treatment of patients with lumbar spinal stenosis",
+          "volume": "28",
+          "author": "Rousing",
+          "year": "2019",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0106",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/14651858.CD012230",
+          "article-title": "Paracetamol for low back pain",
+          "author": "Saragiotto Bruno",
+          "year": "2016",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0107",
+          "doi-asserted-by": "crossref",
+          "first-page": "82",
+          "DOI": "10.1186/s13012-016-0447-x",
+          "article-title": "Strategies for disseminating recommendations or guidelines to patients: A systematic review",
+          "volume": "11",
+          "author": "Schipper",
+          "year": "2016",
+          "journal-title": "Implementation Sci"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0108",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1001/jamanetworkopen.2018.6828",
+          "article-title": "Comparison of non-surgical treatment methods for patients with lumbar spinal stenosis: A randomized clinical trial",
+          "volume": "2",
+          "author": "Schneider",
+          "year": "2019",
+          "journal-title": "JAMA Netw Open"
+        },
+        {
+          "unstructured": "Schünemann H, Brożek J, Guyatt G, Oxman A, editors. GRADE Handbook for Grading Quality of Evidence and Strength of Recommendations. Updated October 2013. The GRADE Working Group, 2013. Available at: guidelinedevelopment.org/handbook. Accessed December 4, 2017.",
+          "key": "10.1016/j.jpain.2021.03.147_bib0109"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0110",
+          "doi-asserted-by": "crossref",
+          "first-page": "70",
+          "DOI": "10.1186/1748-5908-7-70",
+          "article-title": "Systematic review of knowledge translation strategies in the allied health professions",
+          "volume": "7",
+          "author": "Scott",
+          "year": "2012",
+          "journal-title": "Implementation Sci"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0111",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pmed.1002369",
+          "article-title": "Benefits and safety of gabapentinoids in chronic low back pain: A systematic review and meta-analysis of randomized controlled trials",
+          "volume": "14",
+          "author": "Shanthanna",
+          "year": "2017",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0112",
+          "first-page": "239",
+          "article-title": "The effectiveness and risks of fluoroscopically guided lumbar interlaminar epidural steroid injections: A systematic review with comprehensive analysis of the published data",
+          "volume": "18",
+          "author": "Sharma",
+          "year": "2017",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0113",
+          "doi-asserted-by": "crossref",
+          "first-page": "j4008",
+          "DOI": "10.1136/bmj.j4008",
+          "article-title": "AMSTAR 2: A critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both",
+          "volume": "358",
+          "author": "Shea",
+          "year": "2017",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0114",
+          "doi-asserted-by": "crossref",
+          "first-page": "62",
+          "DOI": "10.1186/1748-5908-7-62",
+          "article-title": "Developing clinical practice guidelines: Reviewing, reporting, and publishing guidelines; updating guidelines; and the emerging issues of enhancing guideline implementability and accounting for comorbid conditions in guideline development",
+          "volume": "7",
+          "author": "Shekelle",
+          "year": "2012",
+          "journal-title": "Implementation Sci"
+        },
+        {
+          "unstructured": "SIGN. Methodology Checklist for Observational Studies: Edinburgh, Scottish Intercollegiate Guidelines Network (SIGN), 2004",
+          "key": "10.1016/j.jpain.2021.03.147_bib0115"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0116",
+          "doi-asserted-by": "crossref",
+          "first-page": "800",
+          "DOI": "10.1097/AJP.0000000000000324",
+          "article-title": "Barriers to primary care clinician adherence to clinical guidelines for the management of low back pain: A systematic review and metasynthesis of qualitative studies",
+          "volume": "32",
+          "author": "Slade",
+          "year": "2016",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0117",
+          "doi-asserted-by": "crossref",
+          "first-page": "2540",
+          "DOI": "10.1097/01.BRS.0000092372.73527.BA",
+          "article-title": "Systematic review of antidepressants in the treatment of chronic low back pain",
+          "volume": "28",
+          "author": "Staiger",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0118",
+          "first-page": "1926",
+          "article-title": "Definition of nonresponse to analgesic treatment of arthritic pain: An analytical literature review of the smallest detectable difference, the minimal detectable change, and the minimal clinically important difference on the pain visual analog scale",
+          "volume": "2011",
+          "author": "Stauffer",
+          "year": "2011",
+          "journal-title": "Int J Inflam"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0119",
+          "doi-asserted-by": "crossref",
+          "first-page": "l4898",
+          "DOI": "10.1136/bmj.l4898",
+          "article-title": "RoB 2: A revised tool for assessing risk of bias in randomised trials",
+          "volume": "366",
+          "author": "Sterne",
+          "year": "2019",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0120",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1038/s41598-020-61893-4",
+          "article-title": "Objective activity tracking in spine surgery: A prospective feasibility study with a low-cost consumer grade wearable accelerometer",
+          "volume": "10",
+          "author": "Stienen",
+          "year": "2020",
+          "journal-title": "Sci Rep"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0121",
+          "doi-asserted-by": "crossref",
+          "first-page": "92",
+          "DOI": "10.1016/j.jclinepi.2018.04.008",
+          "article-title": "Scoping review identifies significant number of knowledge translation theories, models, and frameworks with limited use",
+          "volume": "100",
+          "author": "Strifler",
+          "year": "2018",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0122",
+          "doi-asserted-by": "crossref",
+          "first-page": "2628",
+          "DOI": "10.1001/jama.2010.1833",
+          "article-title": "oes this older adult with lower extremity pain have the clinical syndrome of lumbar spinal stenosis?",
+          "volume": "304",
+          "author": "Suri",
+          "year": "2010",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0123",
+          "doi-asserted-by": "crossref",
+          "first-page": "1239",
+          "DOI": "10.1097/BRS.0000000000001476",
+          "article-title": "Consensus on the clinical diagnosis of lumbar spinal stenosis: Results of an International Delphi Study",
+          "volume": "41",
+          "author": "Tomkins-Lane",
+          "year": "2016",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0124",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/1471-2474-14-322",
+          "article-title": "The spinal stenosis pedometer and nutrition lifestyle intervention (SSPANLI) randomized controlled trial protocol",
+          "volume": "14",
+          "author": "Tomkins-Lane",
+          "year": "2013",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0125",
+          "doi-asserted-by": "crossref",
+          "first-page": "577",
+          "DOI": "10.1016/j.spinee.2014.10.015",
+          "article-title": "The spinal stenosis pedometer and nutrition lifestyle intervention (SSPANLI): Development and pilot",
+          "volume": "15",
+          "author": "Tomkins-Lane",
+          "year": "2015",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0126",
+          "doi-asserted-by": "crossref",
+          "first-page": "6",
+          "DOI": "10.1186/1748-5908-8-6",
+          "article-title": "Developing and evaluating communication strategies to support informed decisions and practice based on evidence (DECIDE): Protocol and preliminary results",
+          "volume": "8",
+          "author": "Treweek",
+          "year": "2013",
+          "journal-title": "Implementation Sci"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0127",
+          "doi-asserted-by": "crossref",
+          "first-page": "239",
+          "DOI": "10.1186/s13018-018-0947-2",
+          "article-title": "The factors of deterioration in long-term clinical course of lumbar spinal canal stenosis after successful conservative treatment",
+          "volume": "13",
+          "author": "Tsubosaka",
+          "year": "2018",
+          "journal-title": "J Orthop Surg Res"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0128",
+          "doi-asserted-by": "crossref",
+          "first-page": "2226",
+          "DOI": "10.1016/S0140-6736(11)60402-9",
+          "article-title": "Treatment of chronic non-cancer pain",
+          "volume": "377",
+          "author": "Turk",
+          "year": "2011",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0129",
+          "doi-asserted-by": "crossref",
+          "first-page": "1978",
+          "DOI": "10.1097/01.BRS.0000090503.38830.AD",
+          "article-title": "Muscle relaxants for nonspecific low back pain: A systematic review within the framework of the cochrane collaboration",
+          "volume": "28",
+          "author": "van Tulder",
+          "year": "2003",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0130",
+          "doi-asserted-by": "crossref",
+          "first-page": "2611",
+          "DOI": "10.2165/0003495-200868180-00007",
+          "article-title": "Antidepressants for the treatment of chronic pain",
+          "volume": "68",
+          "author": "Verdu",
+          "year": "2008",
+          "journal-title": "Drugs"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0131",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pmed.1002207",
+          "article-title": "Reporting items for updated clinical guidelines: Checklist for the reporting of updated guidelines (CheckUp)",
+          "volume": "14",
+          "author": "Vernooij",
+          "year": "2017",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0132",
+          "first-page": "825",
+          "article-title": "Methylcobalamin as an adjuvant medication in conservative treatment of lumbar spinal stenosis",
+          "volume": "83",
+          "author": "Waikakul",
+          "year": "2000",
+          "journal-title": "J Med Assoc Thai"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0133",
+          "doi-asserted-by": "crossref",
+          "first-page": "450",
+          "DOI": "10.1007/s00586-016-4587-0",
+          "article-title": "A comparison between different outcome measures based on “meaningful important differences” in patients with lumbar spinal stenosis",
+          "volume": "26",
+          "author": "Wertli",
+          "year": "2017",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0134",
+          "doi-asserted-by": "crossref",
+          "first-page": "2536",
+          "DOI": "10.1007/s00586-017-5075-x",
+          "article-title": "Central lumbar spinal stenosis: Natural history of non-surgical patients",
+          "volume": "26",
+          "author": "Wessberg",
+          "year": "2017",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0135",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2018-022205",
+          "article-title": "Better Outcomes for Older people with Spinal Trouble (BOOST) trial: A randomised controlled trial of a combined physical and psychological intervention for older adults with neurogenic claudication, a protocol",
+          "volume": "8",
+          "author": "Williamson",
+          "year": "2018",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0136",
+          "doi-asserted-by": "crossref",
+          "first-page": "E33",
+          "DOI": "10.1111/papr.12119",
+          "article-title": "Antidepressants in the treatment for chronic low back pain: Questioning the validity of meta-analyses",
+          "volume": "14",
+          "author": "Williamson",
+          "year": "2014",
+          "journal-title": "Pain Pract"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0137",
+          "doi-asserted-by": "crossref",
+          "first-page": "34",
+          "DOI": "10.1007/s00586-015-3891-4",
+          "volume": "25",
+          "author": "Wong",
+          "year": "2016",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0138",
+          "doi-asserted-by": "crossref",
+          "first-page": "201",
+          "DOI": "10.1002/ejp.931",
+          "article-title": "Clinical practice guidelines for the noninvasive management of low back pain: A systematic review by the ontario protocol for traffic injury management (OPTIMa) collaboration",
+          "volume": "21",
+          "author": "Wong",
+          "year": "2017",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0139",
+          "doi-asserted-by": "crossref",
+          "first-page": "143",
+          "DOI": "10.14336/AD.2017.0306",
+          "article-title": "A comprehensive review of non-steroidal anti-inflammatory drug use in the elderly",
+          "volume": "9",
+          "author": "Wongrakpanich",
+          "year": "2018",
+          "journal-title": "Aging Dis"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0140",
+          "doi-asserted-by": "crossref",
+          "first-page": "939",
+          "DOI": "10.1097/01.brs.0000261029.29170.e6",
+          "article-title": "The efficiency of gabapentin therapy in patients with lumbar spinal stenosis",
+          "volume": "32",
+          "author": "Yaksi",
+          "year": "2007",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0141",
+          "article-title": "Surgical versus non-surgical treatment for lumbar spinal stenosis",
+          "volume": "29",
+          "author": "Zaina",
+          "year": "2016",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0142",
+          "doi-asserted-by": "crossref",
+          "first-page": "98",
+          "DOI": "10.14797/mdcj-12-2-98",
+          "article-title": "Coming of age: Considerations in the prescription of exercise for older adults",
+          "volume": "12",
+          "author": "Zaleski",
+          "year": "2016",
+          "journal-title": "Methodist Debakey Cardiovasc J"
+        },
+        {
+          "key": "10.1016/j.jpain.2021.03.147_bib0143",
+          "doi-asserted-by": "crossref",
+          "first-page": "488",
+          "DOI": "10.1007/s00586-016-4882-9",
+          "article-title": "Is the duration of pre-operative conservative treatment associated with the clinical outcome following surgical decompression for lumbar spinal stenosis? A study based on the Spine Tango Registry",
+          "volume": "26",
+          "author": "Zweig",
+          "year": "2017",
+          "journal-title": "Eur Spine J"
+        }
+      ],
+      "container-title": [
+        "The Journal of Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1526590021001887?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1526590021001887?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            17
+          ]
+        ],
+        "date-time": "2023-09-17T00:23:37Z",
+        "timestamp": 1694910217000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1526590021001887"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            9
+          ]
+        ]
+      },
+      "references-count": 143,
+      "journal-issue": {
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1526590021001887"
+      ],
+      "URL": "https://doi.org/10.1016/j.jpain.2021.03.147",
+      "relation": {},
+      "ISSN": [
+        "1526-5900"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1526-5900"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            9
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Non-Surgical Interventions for Lumbar Spinal Stenosis Leading To Neurogenic Claudication: A Clinical Practice Guideline",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "The Journal of Pain",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jpain.2021.03.147",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2021 The Author(s). Published by Elsevier Inc. on behalf of United States Association for the Study of Pain, Inc.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

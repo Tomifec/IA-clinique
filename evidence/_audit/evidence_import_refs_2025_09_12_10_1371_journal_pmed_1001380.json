@@ -1,0 +1,934 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1371_journal_pmed_1001380.md",
+  "id": "evidence_import_refs_2025_09_12_10_1371_journal_pmed_1001380",
+  "doi": "10.1371/journal.pmed.1001380",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:22.586872Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T12:42:04Z",
+        "timestamp": 1757680924178
+      },
+      "reference-count": 68,
+      "publisher": "Public Library of Science (PLoS)",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2013,
+                2,
+                5
+              ]
+            ],
+            "date-time": "2013-02-05T00:00:00Z",
+            "timestamp": 1360022400000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "www.plosmedicine.org"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "PLoS Med"
+      ],
+      "DOI": "10.1371/journal.pmed.1001380",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2013,
+            2,
+            5
+          ]
+        ],
+        "date-time": "2013-02-05T17:27:43Z",
+        "timestamp": 1360085263000
+      },
+      "page": "e1001380",
+      "update-policy": "http://dx.doi.org/10.1371/journal.pmed.corrections_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 606,
+      "title": [
+        "Prognosis Research Strategy (PROGRESS) 2: Prognostic Factor Research"
+      ],
+      "prefix": "10.1371",
+      "volume": "10",
+      "author": [
+        {
+          "given": "Richard D.",
+          "family": "Riley",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Jill A.",
+          "family": "Hayden",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ewout W.",
+          "family": "Steyerberg",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Karel G. M.",
+          "family": "Moons",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Keith",
+          "family": "Abrams",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Panayiotis A.",
+          "family": "Kyzas",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Núria",
+          "family": "Malats",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Andrew",
+          "family": "Briggs",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sara",
+          "family": "Schroter",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Douglas G.",
+          "family": "Altman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Harry",
+          "family": "Hemingway",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "name": "for the PROGRESS Group",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "340",
+      "published-online": {
+        "date-parts": [
+          [
+            2013,
+            2,
+            5
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref1",
+          "doi-asserted-by": "crossref",
+          "first-page": "2086",
+          "DOI": "10.1200/JCO.1994.12.10.2086",
+          "article-title": "Randomized 2×2 trial evaluating hormonal treatment and the duration of chemotherapy in node-positive breast cancer patients. German Breast Cancer Study Group",
+          "volume": "12",
+          "author": "M Schumacher",
+          "year": "1994",
+          "journal-title": "J Clin Oncol"
+        },
+        {
+          "key": "ref2",
+          "doi-asserted-by": "crossref",
+          "first-page": "e5595",
+          "DOI": "10.1136/bmj.e5595",
+          "article-title": "Prognosis research strategy (PROGRESS) 1: A framework for researching clinical outcomes",
+          "volume": "346",
+          "author": "H Hemingway",
+          "year": "2013",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "crossref",
+          "first-page": "1219",
+          "DOI": "10.1038/sj.bjc.6604999",
+          "article-title": "Prognostic markers in cancer: the evolution of evidence from single studies to meta-analysis, and beyond",
+          "volume": "100",
+          "author": "RD Riley",
+          "year": "2009",
+          "journal-title": "Br J Cancer"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "crossref",
+          "first-page": "650",
+          "DOI": "10.1093/jnci/djq057",
+          "article-title": "Association between a germline OCA2 polymorphism at chromosome 15q13.1 and estrogen receptor-negative breast cancer survival",
+          "volume": "102",
+          "author": "EM Azzato",
+          "year": "2010",
+          "journal-title": "J Natl Cancer Inst"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "crossref",
+          "first-page": "535",
+          "DOI": "10.1001/jama.2010.80",
+          "article-title": "Age- and sex-specific genomic profiles in non-small cell lung cancer",
+          "volume": "303",
+          "author": "W Mostertz",
+          "year": "2010",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "ref6",
+          "doi-asserted-by": "crossref",
+          "first-page": "4",
+          "DOI": "10.1158/1078-0432.CCR-1051-2",
+          "article-title": "A systematic review of molecular and biological tumor markers in neuroblastoma",
+          "volume": "10",
+          "author": "RD Riley",
+          "year": "2004",
+          "journal-title": "Clin Cancer Res"
+        },
+        {
+          "key": "ref7",
+          "doi-asserted-by": "crossref",
+          "first-page": "1295",
+          "DOI": "10.1001/jama.2010.344",
+          "article-title": "Will this patient develop persistent disabling low back pain?",
+          "volume": "303",
+          "author": "R Chou",
+          "year": "2010",
+          "journal-title": "JAMA"
+        },
+        {
+          "journal-title": "NICE",
+          "article-title": "NICE technology appraisal guidance 152: drug-eluting stents for the treatment of coronary artery disease (part review of NICE technology appraisal guidance 71)",
+          "year": "2008",
+          "key": "ref8"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "crossref",
+          "first-page": "466",
+          "DOI": "10.1038/ncponc0287",
+          "article-title": "An evidence-based approach to prognostic markers",
+          "volume": "2",
+          "author": "DG Altman",
+          "year": "2005",
+          "journal-title": "Nature Clin Pract Oncol"
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "crossref",
+          "first-page": "1101",
+          "DOI": "10.1373/clinchem.2008.108993",
+          "article-title": "Reporting bias in diagnostic and prognostic studies: time for action",
+          "volume": "54",
+          "author": "N Rifai",
+          "year": "2008",
+          "journal-title": "Clin Chem"
+        },
+        {
+          "key": "ref11",
+          "unstructured": "Simon R (2001) Evaluating prognostic factor studies. In: Gospodarowicz MKea, editor. Prognostic factors in cancer. Wiley-Liss. pp. 49–56."
+        },
+        {
+          "key": "ref12",
+          "unstructured": "Sauerbrei W (2005) Prognostic factors—confusion caused by bad quality of design, analysis and reporting of many studies. In: Bier H, editor. Current research in head and neck cancer. Advances in otorhinolaryngology. Karger. pp. 184–200."
+        },
+        {
+          "key": "ref13",
+          "doi-asserted-by": "crossref",
+          "first-page": "304",
+          "DOI": "10.1016/j.pain.2005.06.017",
+          "article-title": "A prognostic approach to defining chronic pain",
+          "volume": "117",
+          "author": "M Von Korff",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "ref14",
+          "doi-asserted-by": "crossref",
+          "first-page": "464",
+          "DOI": "10.1093/jnci/djq025",
+          "article-title": "Gene expression-based prognostic signatures in lung cancer: ready for clinical use?",
+          "volume": "102",
+          "author": "J Subramanian",
+          "year": "2010",
+          "journal-title": "J Natl Cancer Inst"
+        },
+        {
+          "key": "ref15",
+          "doi-asserted-by": "crossref",
+          "first-page": "653",
+          "DOI": "10.1056/NEJMoa0904832",
+          "article-title": "Micrometastases or isolated tumor cells and the outcome of breast cancer",
+          "volume": "361",
+          "author": "M De Boer",
+          "year": "2009",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "ref16",
+          "doi-asserted-by": "crossref",
+          "first-page": "e165",
+          "DOI": "10.1371/journal.pmed.0050165",
+          "article-title": "Predicting outcome after traumatic brain injury: Development and international validation of prognostic scores based on admission characteristics",
+          "volume": "5",
+          "author": "EW Steyerberg",
+          "year": "2008",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "ref17",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1001381",
+          "DOI": "10.1371/journal.pmed.1001381",
+          "article-title": "Prognosis research strategy (PROGRESS) 3: prognostic model research",
+          "volume": "10",
+          "author": "EW Steyerberg",
+          "year": "2013",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "crossref",
+          "first-page": "287",
+          "DOI": "10.1038/nrd2251",
+          "article-title": "Stratified medicine: strategic and economic implications of combining drugs and clinical biomarkers",
+          "volume": "6",
+          "author": "MR Trusheim",
+          "year": "2007",
+          "journal-title": "Nat Rev Drug Discov"
+        },
+        {
+          "journal-title": "NICE",
+          "article-title": "NICE technology appraisal guidance 192: Gefitinib for the first-line treatment of locally advanced or metastatic non-small-cell lung cancer",
+          "year": "2010",
+          "key": "ref19"
+        },
+        {
+          "key": "ref20",
+          "doi-asserted-by": "crossref",
+          "first-page": "406",
+          "DOI": "10.1016/j.molonc.2007.12.001",
+          "article-title": "Prognostic factors versus predictive factors: examples from a clinical trial of erlotinib",
+          "volume": "1",
+          "author": "GM Clark",
+          "year": "2008",
+          "journal-title": "Mol Oncol"
+        },
+        {
+          "key": "ref21",
+          "doi-asserted-by": "crossref",
+          "first-page": "e5793",
+          "DOI": "10.1136/bmj.e5793",
+          "article-title": "Prognosis research strategy (PROGRESS) 4: stratified medicine research",
+          "volume": "346",
+          "author": "A Hingorani",
+          "year": "2013",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref22",
+          "first-page": "607",
+          "article-title": "Definitions and validation criteria for biomarkers and surrogate endpoints: development and testing of a quantitative hierarchical levels of evidence schema",
+          "volume": "34",
+          "author": "MN Lassere",
+          "year": "2007",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "key": "ref23",
+          "doi-asserted-by": "crossref",
+          "first-page": "537",
+          "DOI": "10.1373/clinchem.2009.134155",
+          "article-title": "Criteria for scientific evaluation of novel markers: a perspective",
+          "volume": "56",
+          "author": "KG Moons",
+          "year": "2010",
+          "journal-title": "Clin Chem"
+        },
+        {
+          "first-page": "S4",
+          "article-title": "Diabetes Care",
+          "year": "2011",
+          "key": "ref24"
+        },
+        {
+          "key": "ref25",
+          "doi-asserted-by": "crossref",
+          "first-page": "813",
+          "DOI": "10.1136/bmj.324.7341.813",
+          "article-title": "Impact on survival of intensive follow up after curative resection for colorectal cancer: systematic review and meta-analysis of randomised trials",
+          "volume": "324",
+          "author": "AG Renehan",
+          "year": "2002",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref26",
+          "doi-asserted-by": "crossref",
+          "first-page": "3999",
+          "DOI": "10.1002/art.22273",
+          "article-title": "Fear avoidance and prognosis in back pain",
+          "volume": "54",
+          "author": "T Pincus",
+          "year": "2006",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "ref27",
+          "doi-asserted-by": "crossref",
+          "first-page": "507",
+          "DOI": "10.1136/oem.2007.036046",
+          "article-title": "Psychosocial predictors of failure to return to work in non-chronic non-specific low back pain: a systematic review",
+          "volume": "65",
+          "author": "RA Iles",
+          "year": "2008",
+          "journal-title": "Occup Environ Med"
+        },
+        {
+          "key": "ref28",
+          "doi-asserted-by": "crossref",
+          "first-page": "1028",
+          "DOI": "10.1093/aje/kwf136",
+          "article-title": "Pain catastrophizing and kinesiophobia: predictors of chronic low back pain",
+          "volume": "156",
+          "author": "HS Picavet",
+          "year": "2002",
+          "journal-title": "Am J Epidemiol"
+        },
+        {
+          "key": "ref29",
+          "doi-asserted-by": "crossref",
+          "first-page": "7",
+          "DOI": "10.1016/S0304-3959(01)00333-5",
+          "article-title": "The role of fear-avoidance beliefs in acute low back pain: relationships with current and future disability and work status",
+          "volume": "94",
+          "author": "JM Fritz",
+          "year": "2001",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "ref30",
+          "doi-asserted-by": "crossref",
+          "first-page": "323",
+          "DOI": "10.1016/j.pain.2004.11.007",
+          "article-title": "A trial of an activating intervention for chronic back pain in primary care and physical therapy settings",
+          "volume": "113",
+          "author": "M Von Korff",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "ref31",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1000439",
+          "DOI": "10.1371/journal.pmed.1000439",
+          "article-title": "Threshold haemoglobin levels and the prognosis of stable coronary disease: two new cohorts and a systematic review and meta-analysis",
+          "volume": "8",
+          "author": "AD Shah",
+          "year": "2011",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "ref32",
+          "doi-asserted-by": "crossref",
+          "first-page": "239",
+          "DOI": "10.1089/neu.2006.0036",
+          "article-title": "IMPACT database of traumatic brain injury: design and description",
+          "volume": "24",
+          "author": "A Marmarou",
+          "year": "2007",
+          "journal-title": "J Neurotrauma"
+        },
+        {
+          "key": "ref33",
+          "doi-asserted-by": "crossref",
+          "first-page": "315",
+          "DOI": "10.1089/neu.2006.0034",
+          "article-title": "Prognostic value of admission laboratory parameters in traumatic brain injury: results from the IMPACT study",
+          "volume": "24",
+          "author": "JGM Van Beek",
+          "year": "2007",
+          "journal-title": "J Neurotrauma"
+        },
+        {
+          "key": "ref34",
+          "doi-asserted-by": "crossref",
+          "first-page": "552",
+          "DOI": "10.1016/j.jclinepi.2007.08.005",
+          "article-title": "Identifying phases of investigation helps planning, appraising, and applying the results of explanatory prognosis studies",
+          "volume": "61",
+          "author": "JA Hayden",
+          "year": "2008",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "ref35",
+          "doi-asserted-by": "crossref",
+          "first-page": "1114",
+          "DOI": "10.1136/bmj.39000.486701.68",
+          "article-title": "Folic acid, homocysteine, and cardiovascular disease: judging causality in the face of inconclusive trial evidence",
+          "volume": "333",
+          "author": "DS Wald",
+          "year": "2006",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref36",
+          "doi-asserted-by": "crossref",
+          "first-page": "232",
+          "DOI": "10.1089/neu.2006.0024",
+          "article-title": "Prognosis and clinical trial design in traumatic brain injury: the IMPACT study",
+          "volume": "24",
+          "author": "AI Maas",
+          "year": "2007",
+          "journal-title": "J Neurotrauma"
+        },
+        {
+          "key": "ref37",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1002/sim.2331",
+          "article-title": "Dichotomizing continuous predictors in multiple regression: a bad idea",
+          "volume": "25",
+          "author": "P Royston",
+          "year": "2006",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "ref38",
+          "doi-asserted-by": "crossref",
+          "first-page": "41",
+          "DOI": "10.1016/j.annepidem.2005.09.007",
+          "article-title": "Randomized controlled trials with time-to-event outcomes: how much does prespecified covariate adjustment increase power?",
+          "volume": "16",
+          "author": "AV Hernandez",
+          "year": "2006",
+          "journal-title": "Ann Epidemiol"
+        },
+        {
+          "key": "ref39",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1016/j.nurt.2009.10.020",
+          "article-title": "IMPACT recommendations for improving the design and analysis of clinical trials in moderate to severe traumatic brain injury",
+          "volume": "7",
+          "author": "AI Maas",
+          "year": "2010",
+          "journal-title": "Neurotherapeutics"
+        },
+        {
+          "key": "ref40",
+          "doi-asserted-by": "crossref",
+          "first-page": "2683",
+          "DOI": "10.1097/CCM.0b013e3181ab85ec",
+          "article-title": "Baseline characteristics and statistical power in randomized controlled trials: selection, prognostic targeting, or covariate adjustment?",
+          "volume": "37",
+          "author": "B Roozenbeek",
+          "year": "2009",
+          "journal-title": "Crit Care Med"
+        },
+        {
+          "key": "ref41",
+          "doi-asserted-by": "crossref",
+          "first-page": "289",
+          "DOI": "10.1023/A:1006193704132",
+          "article-title": "Methodological challenges in the evaluation of prognostic factors in breast cancer",
+          "volume": "52",
+          "author": "DG Altman",
+          "year": "1998",
+          "journal-title": "Breast Cancer Res Treat"
+        },
+        {
+          "key": "ref42",
+          "doi-asserted-by": "crossref",
+          "first-page": "147",
+          "DOI": "10.1093/jnci/djk018",
+          "article-title": "Critical review of published microarray studies for cancer outcome and guidelines on statistical analysis and reporting",
+          "volume": "99",
+          "author": "A Dupuy",
+          "year": "2007",
+          "journal-title": "J Natl Cancer Inst"
+        },
+        {
+          "key": "ref43",
+          "doi-asserted-by": "crossref",
+          "first-page": "333",
+          "DOI": "10.1016/j.ccr.2006.05.001",
+          "article-title": "The challenges of gene expression microarrays for the study of human cancer",
+          "volume": "9",
+          "author": "AV Tinker",
+          "year": "2006",
+          "journal-title": "Cancer Cell"
+        },
+        {
+          "key": "ref44",
+          "unstructured": "Holländer N, Sauerbrei W (2006) On statistical approaches for the multivariable analysis of prognostic factor studies. In: Auget J-L, Balakrishnan N, Mesbah M, Molenberghs G, editors. Advances in statistical methods for the health sciences. Birkhäuser. pp. 19–38."
+        },
+        {
+          "key": "ref45",
+          "doi-asserted-by": "crossref",
+          "first-page": "979",
+          "DOI": "10.1038/bjc.1994.192",
+          "article-title": "Statistical aspects of prognostic factor studies in oncology",
+          "volume": "69",
+          "author": "R Simon",
+          "year": "1994",
+          "journal-title": "Br J Cancer"
+        },
+        {
+          "key": "ref46",
+          "doi-asserted-by": "crossref",
+          "first-page": "b4184",
+          "DOI": "10.1136/bmj.b4184",
+          "article-title": "Ten steps towards improving prognosis research",
+          "volume": "339",
+          "author": "H Hemingway",
+          "year": "2009",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref47",
+          "unstructured": "Schumacher M, Holländer N, Schwarzer G, Sauerbrei W (2006) Prognostic factor studies. In: Crowley J, Ankerst DP, editors. Handbook of statistics in clinical oncology. 2nd ed. Chapman &amp; Hall/CRC Press. pp. 289–333."
+        },
+        {
+          "key": "ref48",
+          "doi-asserted-by": "crossref",
+          "first-page": "829",
+          "DOI": "10.1093/jnci/86.11.829",
+          "article-title": "Dangers of using “optimal” cutpoints in the evaluation of prognostic factors",
+          "volume": "86",
+          "author": "DG Altman",
+          "year": "1994",
+          "journal-title": "J Natl Cancer Inst"
+        },
+        {
+          "key": "ref49",
+          "doi-asserted-by": "crossref",
+          "first-page": "1191",
+          "DOI": "10.1038/sj.bjc.6600886",
+          "article-title": "Reporting of prognostic markers: current problems and development of guidelines for evidence-based practice in the future",
+          "volume": "88",
+          "author": "RD Riley",
+          "year": "2003",
+          "journal-title": "Br J Cancer"
+        },
+        {
+          "key": "ref50",
+          "doi-asserted-by": "crossref",
+          "first-page": "1043",
+          "DOI": "10.1093/jnci/dji184",
+          "article-title": "Selective reporting biases in cancer prognostic factor studies",
+          "volume": "97",
+          "author": "PA Kyzas",
+          "year": "2005",
+          "journal-title": "J Natl Cancer Inst"
+        },
+        {
+          "key": "ref51",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.3310/hta7050",
+          "article-title": "A systematic review and evaluation of the use of tumour markers in paediatric oncology: Ewing&apos;s sarcoma and neuroblastoma",
+          "volume": "7",
+          "author": "RD Riley",
+          "year": "2003",
+          "journal-title": "Health Technol Assess"
+        },
+        {
+          "key": "ref52",
+          "doi-asserted-by": "crossref",
+          "first-page": "2559",
+          "DOI": "10.1016/j.ejca.2007.08.030",
+          "article-title": "Almost all articles on cancer prognostic markers report statistically significant results",
+          "volume": "43",
+          "author": "PA Kyzas",
+          "year": "2007",
+          "journal-title": "Eur J Cancer"
+        },
+        {
+          "key": "ref53",
+          "doi-asserted-by": "crossref",
+          "first-page": "224",
+          "DOI": "10.1136/bmj.323.7306.224",
+          "article-title": "Systematic reviews of evaluations of prognostic variables",
+          "volume": "323",
+          "author": "DG Altman",
+          "year": "2001",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref54",
+          "doi-asserted-by": "crossref",
+          "first-page": "678",
+          "DOI": "10.1016/S1470-2045(05)70315-6",
+          "article-title": "P53 as a prognostic marker for bladder cancer: a meta-analysis and review",
+          "volume": "6",
+          "author": "N Malats",
+          "year": "2005",
+          "journal-title": "Lancet Oncol"
+        },
+        {
+          "key": "ref55",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1000286",
+          "DOI": "10.1371/journal.pmed.1000286",
+          "article-title": "Evaluating the quality of research into a single prognostic biomarker: a systematic review and meta-analysis of 83 studies of C-reactive protein in stable coronary artery disease",
+          "volume": "7",
+          "author": "H Hemingway",
+          "year": "2010",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "ref56",
+          "doi-asserted-by": "crossref",
+          "first-page": "787",
+          "DOI": "10.1016/j.injury.2010.04.005",
+          "article-title": "A systematic review of early prognostic factors for return to work following acute orthopaedic trauma",
+          "volume": "41",
+          "author": "FJ Clay",
+          "year": "2010",
+          "journal-title": "Injury"
+        },
+        {
+          "key": "ref57",
+          "doi-asserted-by": "crossref",
+          "first-page": "617",
+          "DOI": "10.1016/j.pain.2008.02.019",
+          "article-title": "Course and prognostic factors of whiplash: a systematic review and meta-analysis",
+          "volume": "138",
+          "author": "SJ Kamper",
+          "year": "2008",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "ref58",
+          "doi-asserted-by": "crossref",
+          "first-page": "1030",
+          "DOI": "10.1016/j.ejso.2009.01.011",
+          "article-title": "Prognostic factors in localized extremity osteosarcoma: a systematic review",
+          "volume": "35",
+          "author": "JA Bramer",
+          "year": "2009",
+          "journal-title": "Eur J Surg Oncol"
+        },
+        {
+          "key": "ref59",
+          "doi-asserted-by": "crossref",
+          "first-page": "785",
+          "DOI": "10.3109/00365521003783320",
+          "article-title": "Preoperative prognostic factors for mortality in peptic ulcer perforation: a systematic review",
+          "volume": "45",
+          "author": "MH Moller",
+          "year": "2010",
+          "journal-title": "Scand J Gastroenterol"
+        },
+        {
+          "key": "ref60",
+          "doi-asserted-by": "crossref",
+          "first-page": "781",
+          "DOI": "10.1016/j.jclinepi.2008.09.004",
+          "article-title": "Systematic reviews of low back pain prognosis had variable methods and results: guidance for future prognosis reviews",
+          "volume": "62",
+          "author": "JA Hayden",
+          "year": "2009",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "ref61",
+          "doi-asserted-by": "crossref",
+          "first-page": "427",
+          "DOI": "10.7326/0003-4819-144-6-200603210-00010",
+          "article-title": "Evaluation of the quality of prognosis studies in systematic reviews",
+          "volume": "144",
+          "author": "JA Hayden",
+          "year": "2006",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "ref62",
+          "first-page": "863",
+          "article-title": "Prognosis research: toward evidence-based results and a Cochrane methods group",
+          "volume": "60",
+          "author": "RD Riley",
+          "year": "2007",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "ref63",
+          "doi-asserted-by": "crossref",
+          "first-page": "387",
+          "DOI": "10.1038/sj.bjc.6602678",
+          "article-title": "REporting recommendations for tumour MARKer prognostic studies (REMARK)",
+          "volume": "93",
+          "author": "LM McShane",
+          "year": "2005",
+          "journal-title": "Br J Cancer"
+        },
+        {
+          "key": "ref64",
+          "doi-asserted-by": "crossref",
+          "first-page": "c221",
+          "DOI": "10.1136/bmj.c221",
+          "article-title": "Meta-analysis of individual participant data: rationale, conduct, and reporting",
+          "volume": "340",
+          "author": "RD Riley",
+          "year": "2010",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref65",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1093/ije/28.1.1",
+          "article-title": "Traditional reviews, meta-analyses and pooled analyses in epidemiology",
+          "volume": "28",
+          "author": "M Blettner",
+          "year": "1999",
+          "journal-title": "Int J Epidemiol"
+        },
+        {
+          "key": "ref66",
+          "doi-asserted-by": "crossref",
+          "first-page": "56",
+          "DOI": "10.1186/1471-2288-12-56",
+          "article-title": "Individual participant data meta-analysis of prognostic factor studies: state of the art?",
+          "volume": "12",
+          "author": "G Abo-Zaid",
+          "year": "2012",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "ref67",
+          "first-page": "2408",
+          "article-title": "Criteria for evaluation of novel markers of cardiovascular risk: a scientific statement from the American Heart Association",
+          "volume": "119",
+          "author": "MA Hlatky",
+          "year": "2009",
+          "journal-title": "Circ Cardiovasc Qual Outcomes"
+        },
+        {
+          "key": "ref68",
+          "doi-asserted-by": "crossref",
+          "first-page": "537",
+          "DOI": "10.1373/clinchem.2009.134155",
+          "article-title": "Criteria for scientific evaluation of novel markers: a perspective",
+          "volume": "56",
+          "author": "KG Moons",
+          "year": "2010",
+          "journal-title": "Clin Chem"
+        }
+      ],
+      "container-title": [
+        "PLoS Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://dx.plos.org/10.1371/journal.pmed.1001380",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            7,
+            9
+          ]
+        ],
+        "date-time": "2019-07-09T04:47:09Z",
+        "timestamp": 1562647629000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://dx.plos.org/10.1371/journal.pmed.1001380"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            2,
+            5
+          ]
+        ]
+      },
+      "references-count": 68,
+      "journal-issue": {
+        "issue": "2",
+        "published-online": {
+          "date-parts": [
+            [
+              2013,
+              2,
+              5
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1371/journal.pmed.1001380",
+      "relation": {},
+      "ISSN": [
+        "1549-1676"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1549-1676"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            2,
+            5
+          ]
+        ]
+      }
+    }
+  }
+}

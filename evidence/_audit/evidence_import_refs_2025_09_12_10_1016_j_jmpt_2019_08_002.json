@@ -1,0 +1,1210 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jmpt_2019_08_002.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jmpt_2019_08_002",
+  "doi": "10.1016/j.jmpt.2019.08.002",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:43.648254Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            17
+          ]
+        ],
+        "date-time": "2024-04-17T12:34:01Z",
+        "timestamp": 1713357241127
+      },
+      "reference-count": 84,
+      "publisher": "Elsevier BV",
+      "issue": "9",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                11,
+                1
+              ]
+            ],
+            "date-time": "2019-11-01T00:00:00Z",
+            "timestamp": 1572566400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "SI"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "clinicalkey.fr",
+          "clinicalkey.com.au",
+          "jmptonline.org",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Manipulative and Physiological Therapeutics"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            11
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jmpt.2019.08.002",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            12,
+            20
+          ]
+        ],
+        "date-time": "2019-12-20T23:07:17Z",
+        "timestamp": 1576883237000
+      },
+      "page": "651-664",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 15,
+      "title": [
+        "Current Evidence for Diagnosis of Common Conditions Causing Low Back Pain: Systematic Review and Standardized Terminology Recommendations"
+      ],
+      "prefix": "10.1016",
+      "volume": "42",
+      "author": [
+        {
+          "given": "Robert D.",
+          "family": "Vining",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Zacariah K.",
+          "family": "Shannon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Amy L.",
+          "family": "Minkalis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Elissa J.",
+          "family": "Twist",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "11",
+          "key": "10.1016/j.jmpt.2019.08.002_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1688",
+          "DOI": "10.1002/acr.22890",
+          "article-title": "Epidemiology of chronic low back pain in US adults: data from the 2009-2010 National Health and Nutrition Examination Survey",
+          "volume": "68",
+          "author": "Shmagel",
+          "year": "2016",
+          "journal-title": "Arthritis Care Res (Hoboken)"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jmpt.2019.08.002_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "449",
+          "DOI": "10.1016/j.jmpt.2014.07.006",
+          "article-title": "Report of the National Institutes of Health task force on research standards for chronic low back pain",
+          "volume": "37",
+          "author": "Deyo",
+          "year": "2014",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jmpt.2019.08.002_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "83",
+          "DOI": "10.1016/j.jbmt.2010.08.001",
+          "article-title": "A theoretical framework for the role of fascia in manual therapy",
+          "volume": "16",
+          "author": "Simmonds",
+          "year": "2012",
+          "journal-title": "J Bodyw Mov Ther"
+        },
+        {
+          "key": "10.1016/j.jmpt.2019.08.002_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "226",
+          "DOI": "10.1186/s12891-016-1074-z",
+          "article-title": "Classification of patients with low back-related leg pain: a systematic review",
+          "volume": "17",
+          "author": "Stynes",
+          "year": "2016",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jmpt.2019.08.002_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "623",
+          "DOI": "10.1097/01.brs.0000202807.72292.a8",
+          "article-title": "Identifying subgroups of patients with acute/subacute “nonspecific” low back pain: results of a randomized clinical trial",
+          "volume": "31",
+          "author": "Brennan",
+          "year": "2006",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "26",
+          "key": "10.1016/j.jmpt.2019.08.002_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "E793",
+          "DOI": "10.1097/BRS.0b013e31815d001a",
+          "article-title": "Is there a subgroup of patients with low back pain likely to benefit from mechanical traction? Results of a randomized clinical trial and subgrouping analysis",
+          "volume": "32",
+          "author": "Fritz",
+          "year": "2007",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jmpt.2019.08.002_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "93",
+          "DOI": "10.1097/PHM.0b013e31827df8f5",
+          "article-title": "The chimera of low back pain etiology: a clinical rehabilitation perspective",
+          "volume": "92",
+          "author": "Negrini",
+          "year": "2013",
+          "journal-title": "Am J Phys Med Rehabil"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jmpt.2019.08.002_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "607",
+          "DOI": "10.1016/j.jpsychores.2009.08.008",
+          "article-title": "Engel’s biopsychosocial model is still relevant today",
+          "volume": "67",
+          "author": "Adler",
+          "year": "2009",
+          "journal-title": "J Psychosom Res"
+        },
+        {
+          "key": "10.1016/j.jmpt.2019.08.002_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "1249",
+          "DOI": "10.1111/pme.12538",
+          "article-title": "Report of the NIH Task Force on Research Standards for Chronic Low Back Pain",
+          "volume": "15",
+          "author": "Deyo",
+          "year": "2014",
+          "journal-title": "Pain Med"
+        },
+        {
+          "issue": "10070",
+          "key": "10.1016/j.jmpt.2019.08.002_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "736",
+          "DOI": "10.1016/S0140-6736(16)30970-9",
+          "article-title": "Non-specific low back pain",
+          "volume": "389",
+          "author": "Maher",
+          "year": "2017",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jmpt.2019.08.002_bib11",
+          "first-page": "395",
+          "article-title": "Subgroups within “nonspecific” low back pain",
+          "volume": "32",
+          "author": "Waddell",
+          "year": "2005",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jmpt.2019.08.002_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "126",
+          "DOI": "10.1007/s005860050141",
+          "article-title": "Relationship of pain drawings to invasive tests assessing intervertebral disc pathology",
+          "volume": "8",
+          "author": "Ohnmeiss",
+          "year": "1999",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jmpt.2019.08.002_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "215",
+          "DOI": "10.3233/BMR-2012-0339",
+          "article-title": "The pain provocation-based straight leg raise test for diagnosis of lumbar disc herniation, lumbar radiculopathy, and/or sciatica: a systematic review of clinical utility",
+          "volume": "25",
+          "author": "Scaia",
+          "year": "2012",
+          "journal-title": "J Back Musculoskelet Rehabil"
+        },
+        {
+          "issue": "188",
+          "key": "10.1016/j.jmpt.2019.08.002_bib15",
+          "first-page": "1",
+          "article-title": "Clinical classification in low back pain: best-evidence diagnostic rules based on systematic reviews",
+          "volume": "18",
+          "author": "Petersen",
+          "year": "2017",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jmpt.2019.08.002_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "545",
+          "DOI": "10.1016/j.spinee.2009.03.005",
+          "article-title": "Spinal stenosis prevalence and association with symptoms: the Framingham Study",
+          "volume": "9",
+          "author": "Kalichman",
+          "year": "2009",
+          "journal-title": "Spine J"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jmpt.2019.08.002_bib17",
+          "first-page": "189",
+          "article-title": "An evidence-based diagnostic classification system for low back pain",
+          "volume": "57",
+          "author": "Vining",
+          "year": "2013",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.jmpt.2019.08.002_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "665",
+          "DOI": "10.1016/j.jmpt.2019.08.003",
+          "article-title": "Development of an evidence-based practical diagnostic checklist and corresponding clinical exam for low back pain",
+          "volume": "42",
+          "author": "Vining",
+          "year": "2019",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.jmpt.2019.08.002_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "677",
+          "DOI": "10.1016/j.jmpt.2019.03.009",
+          "article-title": "Development of a clinical decision aid for chiropractic management of common conditions causing low back pain in Veterans: results of a consensus process",
+          "volume": "42",
+          "author": "Vining",
+          "year": "2019",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.jmpt.2019.08.002_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "b2535",
+          "DOI": "10.1136/bmj.b2535",
+          "article-title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+          "volume": "339",
+          "author": "Moher",
+          "year": "2009",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "21",
+          "key": "10.1016/j.jmpt.2019.08.002_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "1660",
+          "DOI": "10.1097/BRS.0000000000001061",
+          "article-title": "2015 updated method guideline for systematic reviews in the Cochrane Back and Neck Group",
+          "volume": "40",
+          "author": "Furlan",
+          "year": "2015",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jmpt.2019.08.002_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "E305",
+          "DOI": "10.36076/ppj.2012/15/E305",
+          "article-title": "A systematic evaluation of prevalence and diagnostic accuracy of sacroiliac joint interventions",
+          "volume": "15",
+          "author": "Simopoulos",
+          "year": "2012",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jmpt.2019.08.002_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.1007/s00590-017-2031-8",
+          "article-title": "Four symptoms define the piriformis syndrome: an updated systematic review of its clinical features",
+          "volume": "28",
+          "author": "Hopayian",
+          "year": "2018",
+          "journal-title": "Eur J Orthop Surg Traumatol"
+        },
+        {
+          "key": "10.1016/j.jmpt.2019.08.002_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "26",
+          "DOI": "10.1186/1746-1340-14-26",
+          "article-title": "Accuracy of spinal orthopaedic tests: a systematic review",
+          "volume": "14",
+          "author": "Simpson",
+          "year": "2006",
+          "journal-title": "Chiropr Osteopat"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jmpt.2019.08.002_bib25",
+          "first-page": "354",
+          "article-title": "Diagnostic validity of criteria for sacroiliac joint pain: a systematic review",
+          "volume": "10",
+          "author": "Szadek",
+          "year": "2009",
+          "journal-title": "J Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jmpt.2019.08.002_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1186/s12891-016-1383-2",
+          "article-title": "Accuracy of clinical neurological examination in diagnosing lumbo-sacral radiculopathy: a systematic literature review",
+          "volume": "18",
+          "author": "Tawa",
+          "year": "2017",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jmpt.2019.08.002_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "544",
+          "DOI": "10.1111/papr.12636",
+          "article-title": "Measurement properties of the central sensitization inventory: a systematic review",
+          "volume": "18",
+          "author": "Scerbo",
+          "year": "2018",
+          "journal-title": "Pain Pract"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.jmpt.2019.08.002_bib28",
+          "first-page": "899",
+          "article-title": "Diagnostic value of history and physical examination in patients suspected of sciatica due to disc herniation: a systematic review",
+          "volume": "246",
+          "author": "Vroomen",
+          "year": "1999",
+          "journal-title": "J Neurol"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jmpt.2019.08.002_bib29",
+          "first-page": "318",
+          "article-title": "On the accuracy of history, physical examination, and erythrocyte sedimentation rate in diagnosing low back pain in general practice",
+          "volume": "20",
+          "author": "van den",
+          "year": "1995",
+          "journal-title": "A criteria-based review of the literature. Spine"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.jmpt.2019.08.002_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "666",
+          "DOI": "10.1097/AJP.0000000000000311",
+          "article-title": "The diagnostic accuracy of gluteal trigger points to differentiate radicular from nonradicular low back pain",
+          "volume": "32",
+          "author": "Adelmanesh",
+          "year": "2016",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jmpt.2019.08.002_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "623",
+          "DOI": "10.1016/j.jval.2016.02.009",
+          "article-title": "A PROMIS measure of neuropathic pain quality",
+          "volume": "19",
+          "author": "Askew",
+          "year": "2016",
+          "journal-title": "Value Health"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.jmpt.2019.08.002_bib32",
+          "first-page": "1080",
+          "article-title": "The neuropathic components of chronic low back pain: a prospective multicenter study using the DN4 questionnaire",
+          "volume": "12",
+          "author": "Attal",
+          "year": "2011",
+          "journal-title": "J Pain"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jmpt.2019.08.002_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "819",
+          "DOI": "10.1097/00007632-200004010-00010",
+          "article-title": "Associations between patient report of symptoms and anatomic impairment visible on lumbar magnetic resonance imaging",
+          "volume": "25",
+          "author": "Beattie",
+          "year": "2000",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "1-2",
+          "key": "10.1016/j.jmpt.2019.08.002_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "147",
+          "DOI": "10.1016/S0304-3959(00)00482-6",
+          "article-title": "The LANSS Pain Scale: the Leeds assessment of neuropathic symptoms and signs",
+          "volume": "92",
+          "author": "Bennett",
+          "year": "2001",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jmpt.2019.08.002_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "289",
+          "DOI": "10.1016/j.pain.2006.02.002",
+          "article-title": "Can pain can be more or less neuropathic? Comparison of symptom assessment tools with ratings of certainty by clinicians",
+          "volume": "122",
+          "author": "Bennett",
+          "year": "2006",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "1-2",
+          "key": "10.1016/j.jmpt.2019.08.002_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "29",
+          "DOI": "10.1016/j.pain.2004.12.010",
+          "article-title": "Comparison of pain syndromes associated with nervous or somatic lesions and development of a new neuropathic pain diagnostic questionnaire (DN4)",
+          "volume": "114",
+          "author": "Bouhassira",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jmpt.2019.08.002_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "83",
+          "DOI": "10.2519/jospt.1999.29.2.83",
+          "article-title": "Clinical usefulness of a cluster of sacroiliac joint tests in patients with and without low back pain",
+          "volume": "29",
+          "author": "Cibulka",
+          "year": "1999",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.jmpt.2019.08.002_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "2551",
+          "DOI": "10.1016/j.pain.2014.09.015",
+          "article-title": "Tactile allodynia in patients with lumbar radicular pain (sciatica)",
+          "volume": "155",
+          "author": "Defrin",
+          "year": "2014",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jmpt.2019.08.002_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "33",
+          "DOI": "10.1016/j.pmrj.2010.09.006",
+          "article-title": "Does the location of low back pain predict its source?",
+          "volume": "3",
+          "author": "Depalma",
+          "year": "2011",
+          "journal-title": "PM R"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jmpt.2019.08.002_bib40",
+          "first-page": "221",
+          "article-title": "Lordosis manoeuvre in the diagnosis of lumbar facet syndrome",
+          "volume": "60",
+          "author": "Díez-Ulloa",
+          "year": "2016",
+          "journal-title": "Rev Esp Cir Ortop Traumatol"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jmpt.2019.08.002_bib41",
+          "first-page": "357",
+          "article-title": "Validation of the short-form McGill pain questionnaire-2 (SF-MPQ-2) in acute low back pain",
+          "volume": "16",
+          "author": "Dworkin",
+          "year": "2015",
+          "journal-title": "J Pain"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.jmpt.2019.08.002_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "1911",
+          "DOI": "10.1185/030079906X132488",
+          "article-title": "Pain DETECT : a new screening questionnaire to identify neuropathic components in patients with back pain",
+          "volume": "22",
+          "author": "Freynhagen",
+          "year": "2006",
+          "journal-title": "Curr Med Res Opin"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jmpt.2019.08.002_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "169",
+          "DOI": "10.3233/BMR-2012-00364",
+          "article-title": "Comparison of clinical and electrophysiological findings in patients with suspected radiculopathies",
+          "volume": "26",
+          "author": "Inal",
+          "year": "2013",
+          "journal-title": "J Back Musculoskelet Rehabil"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jmpt.2019.08.002_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "1048",
+          "DOI": "10.3346/jkms.2007.22.6.1048",
+          "article-title": "Usefulness of pain distribution pattern assessment in decision-making for the patients with lumbar zygapophyseal and sacroiliac joint arthropathy",
+          "volume": "22",
+          "author": "Jung",
+          "year": "2007",
+          "journal-title": "J Korean Med Sci"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.jmpt.2019.08.002_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "2306",
+          "DOI": "10.1007/s00586-012-2398-5",
+          "article-title": "Agreement of self-reported items and clinically assessed nerve root involvement (or sciatica) in a primary care setting",
+          "volume": "21",
+          "author": "Konstantinou",
+          "year": "2012",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.jmpt.2019.08.002_bib46",
+          "doi-asserted-by": "crossref",
+          "first-page": "1886",
+          "DOI": "10.1016/j.pain.2013.06.018",
+          "article-title": "Association between clinical signs assessed by manual segmental examination and findings of the lumbar facet joints on magnetic resonance scans in subjects with and without current low back pain: a prospective, single-blind study",
+          "volume": "154",
+          "author": "Mainka",
+          "year": "2013",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.jmpt.2019.08.002_bib47",
+          "doi-asserted-by": "crossref",
+          "first-page": "1465",
+          "DOI": "10.1080/03007995.2018.1465905",
+          "article-title": "Diagnostic accuracy of an identification tool for localized neuropathic pain based on the IASP criteria",
+          "volume": "34",
+          "author": "Mayoral",
+          "year": "2018",
+          "journal-title": "Curr Med Res Opin"
+        },
+        {
+          "key": "10.1016/j.jmpt.2019.08.002_bib48",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.1186/1746-1340-17-9",
+          "article-title": "Pain patterns and descriptions in patients with radicular pain: does the pain necessarily follow a specific dermatome?",
+          "volume": "17",
+          "author": "Murphy",
+          "year": "2009",
+          "journal-title": "Chiropr Osteopat"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jmpt.2019.08.002_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "372",
+          "DOI": "10.1503/cjs.016512",
+          "article-title": "The reliability of differentiating neurogenic claudication from vascular claudication based on symptomatic presentation",
+          "volume": "56",
+          "author": "Nadeau",
+          "year": "2013",
+          "journal-title": "Can J Surg"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jmpt.2019.08.002_bib50",
+          "doi-asserted-by": "crossref",
+          "first-page": "508",
+          "DOI": "10.2519/jospt.2014.5002",
+          "article-title": "The relationship between history and physical examination findings and the outcome of electrodiagnostic testing in patients with sciatica referred to physical therapy",
+          "volume": "44",
+          "author": "Savage",
+          "year": "2014",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jmpt.2019.08.002_bib51",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pmed.1000047",
+          "article-title": "A novel tool for the assessment of pain: validation in low back pain",
+          "volume": "6",
+          "author": "Scholz",
+          "year": "2009",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jmpt.2019.08.002_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1142/S1013702518500026",
+          "article-title": "Reliability and validity of a new clinical test for assessment of the sacroiliac joint dysfunction",
+          "volume": "38",
+          "author": "Shimpi",
+          "year": "2018",
+          "journal-title": "Hong Kong Physiother J"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jmpt.2019.08.002_bib53",
+          "doi-asserted-by": "crossref",
+          "first-page": "91",
+          "DOI": "10.1186/s12883-018-1094-4",
+          "article-title": "Avoiding Catch-22: validating the PainDETECT in a in a population of patients with chronic pain",
+          "volume": "18",
+          "author": "Timmerman",
+          "year": "2018",
+          "journal-title": "BMC Neurol"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.jmpt.2019.08.002_bib54",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1371/journal.pone.0166031",
+          "article-title": "Diagnosing discogenic low back pain associated with degenerative disc disease using a medical interview",
+          "volume": "11",
+          "author": "Tonosu",
+          "year": "2016",
+          "journal-title": "PLoS One"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jmpt.2019.08.002_bib55",
+          "doi-asserted-by": "crossref",
+          "first-page": "78",
+          "DOI": "10.1179/106698100790819519",
+          "article-title": "Characteristics of a mechanical assessment for chronic lumbar facet joint pain",
+          "volume": "8",
+          "author": "Young",
+          "year": "2000",
+          "journal-title": "J Man Manip Ther"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jmpt.2019.08.002_bib56",
+          "doi-asserted-by": "crossref",
+          "first-page": "212",
+          "DOI": "10.1016/j.physio.2012.09.007",
+          "article-title": "Preliminary evidence for the features of non-reducible discogenic low back pain: survey of an international physiotherapy expert panel with the Delphi technique",
+          "volume": "99",
+          "author": "Chan",
+          "year": "2013",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jmpt.2019.08.002_bib57",
+          "doi-asserted-by": "crossref",
+          "first-page": "352",
+          "DOI": "10.1016/j.math.2012.03.002",
+          "article-title": "Mechanisms-based classifications of musculoskeletal pain: part 3 of 3: symptoms and signs of nociceptive pain in patients with low back (±leg) pain",
+          "volume": "17",
+          "author": "Smart",
+          "year": "2012",
+          "journal-title": "Man Ther"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jmpt.2019.08.002_bib58",
+          "doi-asserted-by": "crossref",
+          "first-page": "243",
+          "DOI": "10.1007/s00381-015-2880-6",
+          "article-title": "Comprehensive anatomical and immunohistochemical review of the innervation of the human spine and joints with application to an improved understanding of back pain",
+          "volume": "32",
+          "author": "Youssef",
+          "year": "2016",
+          "journal-title": "Childs Nerv Syst"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jmpt.2019.08.002_bib59",
+          "doi-asserted-by": "crossref",
+          "first-page": "E333",
+          "DOI": "10.36076/ppj.2015/18/E333",
+          "article-title": "Low back pain: guidelines for the clinical classification of predominant neuropathic, nociceptive, or central sensitization pain",
+          "volume": "18",
+          "author": "Nijs",
+          "year": "2015",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jmpt.2019.08.002_bib61",
+          "doi-asserted-by": "crossref",
+          "first-page": "651",
+          "DOI": "10.1016/j.rcl.2012.04.007",
+          "article-title": "Imaging of spinal stenosis: neurogenic intermittent claudication and cervical spondylotic myelopathy",
+          "volume": "50",
+          "author": "Maus",
+          "year": "2012",
+          "journal-title": "Radiol Clin North Am"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.jmpt.2019.08.002_bib62",
+          "doi-asserted-by": "crossref",
+          "first-page": "818",
+          "DOI": "10.1056/NEJMcp0708097",
+          "article-title": "Lumbar spinal stenosis",
+          "volume": "358",
+          "author": "Katz",
+          "year": "2008",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/j.jmpt.2019.08.002_bib63",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1146/annurev.neuro.051508.135531",
+          "article-title": "Neuropathic pain: a maladaptive response of the nervous system to damage",
+          "volume": "32",
+          "author": "Costigan",
+          "year": "2009",
+          "journal-title": "Annu Rev Neurosci"
+        },
+        {
+          "issue": "3 suppl",
+          "key": "10.1016/j.jmpt.2019.08.002_bib64",
+          "doi-asserted-by": "crossref",
+          "first-page": "S2",
+          "DOI": "10.1016/j.pain.2010.09.030",
+          "article-title": "Central sensitization: implications for the diagnosis and treatment of pain",
+          "volume": "152",
+          "author": "Woolf",
+          "year": "2011",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.jmpt.2019.08.002_bib65",
+          "doi-asserted-by": "crossref",
+          "first-page": "1156",
+          "DOI": "10.1097/00007632-199705150-00017",
+          "article-title": "Entrapment neuropathy of the medial superior cluneal nerve",
+          "volume": "22",
+          "author": "Maigne",
+          "year": "1997",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "2 suppl",
+          "key": "10.1016/j.jmpt.2019.08.002_bib66",
+          "doi-asserted-by": "crossref",
+          "first-page": "SE55",
+          "DOI": "10.36076/ppj.2013/16/SE55",
+          "article-title": "An update of the systematic appraisal of the accuracy and utility of lumbar discography in chronic low back pain",
+          "volume": "16",
+          "author": "Manchikanti",
+          "year": "2013",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jmpt.2019.08.002_bib67",
+          "doi-asserted-by": "crossref",
+          "first-page": "427",
+          "DOI": "10.1016/j.berh.2007.02.014",
+          "article-title": "Myofascial pain syndromes and their evaluation",
+          "volume": "21",
+          "author": "Bennett",
+          "year": "2007",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.jmpt.2019.08.002_bib68",
+          "doi-asserted-by": "crossref",
+          "first-page": "352",
+          "DOI": "10.1007/s11916-013-0352-9",
+          "article-title": "Fascial components of the myofascial pain syndrome",
+          "volume": "17",
+          "author": "Stecco",
+          "year": "2013",
+          "journal-title": "Curr Pain Headache Rep"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jmpt.2019.08.002_bib69",
+          "doi-asserted-by": "crossref",
+          "first-page": "370",
+          "DOI": "10.1016/j.spinee.2006.01.004",
+          "article-title": "Clinical predictors of screening lumbar zygapophyseal joint blocks: development of clinical prediction rules",
+          "volume": "6",
+          "author": "Laslett",
+          "year": "2006",
+          "journal-title": "Spine J"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jmpt.2019.08.002_bib70",
+          "doi-asserted-by": "crossref",
+          "first-page": "199",
+          "DOI": "10.1016/j.pain.2006.10.034",
+          "article-title": "Using screening tools to identify neuropathic pain",
+          "volume": "127",
+          "author": "Bennett",
+          "year": "2007",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jmpt.2019.08.002_bib71",
+          "doi-asserted-by": "crossref",
+          "first-page": "399",
+          "DOI": "10.36076/ppj.2009/12/399",
+          "article-title": "Evaluation of sacroiliac joint interventions: a systematic appraisal of the literature",
+          "volume": "12",
+          "author": "Rupert",
+          "year": "2009",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.jmpt.2019.08.002_bib72",
+          "doi-asserted-by": "crossref",
+          "first-page": "1500",
+          "DOI": "10.1111/pme.12833",
+          "article-title": "Fluoroscopically guided diagnostic and therapeutic intra-articular sacroiliac joint injections: a systematic review",
+          "volume": "16",
+          "author": "Kennedy",
+          "year": "2015",
+          "journal-title": "Pain Med"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jmpt.2019.08.002_bib73",
+          "doi-asserted-by": "crossref",
+          "first-page": "E497",
+          "DOI": "10.36076/ppj.2015/18/E497",
+          "article-title": "A best-evidence systematic appraisal of the diagnostic accuracy and utility of facet (zygapophysial) joint injections in chronic spinal pain",
+          "volume": "18",
+          "author": "Boswell",
+          "year": "2015",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jmpt.2019.08.002_bib74",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.1016/j.pain.2010.07.031",
+          "article-title": "NeuPSIG guidelines on neuropathic pain assessment",
+          "volume": "152",
+          "author": "Haanpää",
+          "year": "2011",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jmpt.2019.08.002_bib75",
+          "doi-asserted-by": "crossref",
+          "first-page": "514",
+          "DOI": "10.7326/M16-2367",
+          "article-title": "Clinical Guidelines Committee of the American College of Physicians. Noninvasive treatments for acute, subacute, and chronic low back pain: a clinical practice guideline from the American College of Physicians",
+          "volume": "166",
+          "author": "Qaseem",
+          "year": "2017",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "10.1016/j.jmpt.2019.08.002_bib76",
+          "series-title": "VA/DoD clinical practice guideline for diagnosis and treatment of low back pain: clinician summary",
+          "year": "2017"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.jmpt.2019.08.002_bib77",
+          "doi-asserted-by": "crossref",
+          "first-page": "363",
+          "DOI": "10.1007/s11916-013-0363-6",
+          "article-title": "Review of neuropathic pain screening and assessment tools",
+          "volume": "17",
+          "author": "Jones",
+          "year": "2013",
+          "journal-title": "Curr Pain Headache Rep"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jmpt.2019.08.002_bib78",
+          "doi-asserted-by": "crossref",
+          "first-page": "196",
+          "DOI": "10.1016/j.jmpt.2012.02.001",
+          "article-title": "Agreement and correlation between the self-report Leeds assessment of neuropathic symptoms and signs and Douleur Neuropathique 4 Questions neuropathic pain screening tools in subjects with low back-related leg pain",
+          "volume": "35",
+          "author": "Walsh",
+          "year": "2012",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jmpt.2019.08.002_bib79",
+          "doi-asserted-by": "crossref",
+          "first-page": "43",
+          "DOI": "10.1148/radiol.2451051706",
+          "article-title": "Lumbar degenerative disk disease",
+          "volume": "245",
+          "author": "Modic",
+          "year": "2007",
+          "journal-title": "Radiology"
+        },
+        {
+          "issue": "23",
+          "key": "10.1016/j.jmpt.2019.08.002_bib80",
+          "doi-asserted-by": "crossref",
+          "first-page": "2628",
+          "DOI": "10.1001/jama.2010.1833",
+          "article-title": "Does this older adult with lower extremity pain have the clinical syndrome of lumbar spinal stenosis?",
+          "volume": "304",
+          "author": "Suri",
+          "year": "2010",
+          "journal-title": "JAMA"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jmpt.2019.08.002_bib81",
+          "doi-asserted-by": "crossref",
+          "first-page": "300",
+          "DOI": "10.1016/j.rehab.2013.03.006",
+          "article-title": "The piriformis muscle syndrome: an exploration of anatomical context, pathophysiological hypotheses and diagnostic criteria",
+          "volume": "56",
+          "author": "Michel",
+          "year": "2013",
+          "journal-title": "Ann Phys Rehabil Med"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jmpt.2019.08.002_bib82",
+          "doi-asserted-by": "crossref",
+          "first-page": "467",
+          "DOI": "10.2174/1874325001711010467",
+          "article-title": "Effectiveness of exercise and local steroid injections for the thoracolumbar junction syndrome (the Maigne’s syndrome) treatment",
+          "volume": "11",
+          "author": "Alptekin",
+          "year": "2017",
+          "journal-title": "Open Orthop J"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jmpt.2019.08.002_bib83",
+          "first-page": "331",
+          "article-title": "Rehabilitative principles in the management of thoracolumbar syndrome: a case report",
+          "volume": "16",
+          "author": "DiMond",
+          "year": "2017",
+          "journal-title": "J Chiropr Med"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jmpt.2019.08.002_bib84",
+          "doi-asserted-by": "crossref",
+          "first-page": "42",
+          "DOI": "10.1097/BSD.0000000000000359",
+          "article-title": "Sacroiliac joint pain and its treatment",
+          "volume": "29",
+          "author": "Rashbaum",
+          "year": "2016",
+          "journal-title": "Clin Spine Surg"
+        },
+        {
+          "key": "10.1016/j.jmpt.2019.08.002_bib85",
+          "doi-asserted-by": "crossref",
+          "first-page": "198",
+          "DOI": "10.1097/01.blo.0000198722.70138.96",
+          "article-title": "Spinal stenosis: surgical versus nonsurgical treatment",
+          "volume": "443",
+          "author": "Atlas",
+          "year": "2006",
+          "journal-title": "Clin Orthop"
+        },
+        {
+          "issue": "17",
+          "key": "10.1016/j.jmpt.2019.08.002_bib86",
+          "doi-asserted-by": "crossref",
+          "first-page": "2046",
+          "DOI": "10.1097/00007632-199609010-00024",
+          "article-title": "Spinal stenosis and neurogenic claudication",
+          "volume": "21",
+          "author": "Porter",
+          "year": "1996",
+          "journal-title": "Spine (Phila Pa 1976)"
+        }
+      ],
+      "container-title": [
+        "Journal of Manipulative and Physiological Therapeutics"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0161475419300715?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0161475419300715?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            9
+          ]
+        ],
+        "date-time": "2022-10-09T05:11:25Z",
+        "timestamp": 1665292285000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0161475419300715"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            11
+          ]
+        ]
+      },
+      "references-count": 84,
+      "journal-issue": {
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              11
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0161475419300715"
+      ],
+      "URL": "https://doi.org/10.1016/j.jmpt.2019.08.002",
+      "relation": {},
+      "ISSN": [
+        "0161-4754"
+      ],
+      "issn-type": [
+        {
+          "value": "0161-4754",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            11
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Current Evidence for Diagnosis of Common Conditions Causing Low Back Pain: Systematic Review and Standardized Terminology Recommendations",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Journal of Manipulative and Physiological Therapeutics",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jmpt.2019.08.002",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2019 by National University of Health Sciences.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

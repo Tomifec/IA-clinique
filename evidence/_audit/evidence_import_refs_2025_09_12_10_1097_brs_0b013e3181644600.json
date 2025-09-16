@@ -1,0 +1,530 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1097_brs_0b013e3181644600.md",
+  "id": "evidence_import_refs_2025_09_12_10_1097_brs_0b013e3181644600",
+  "doi": "10.1097/BRS.0b013e3181644600",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:31.072927Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T21:08:57Z",
+        "timestamp": 1757452137431
+      },
+      "reference-count": 37,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "Supplement",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Spine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            2
+          ]
+        ]
+      },
+      "DOI": "10.1097/brs.0b013e3181644600",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2009,
+            3,
+            5
+          ]
+        ],
+        "date-time": "2009-03-05T06:45:51Z",
+        "timestamp": 1236235551000
+      },
+      "page": "S176-S183",
+      "source": "Crossref",
+      "is-referenced-by-count": 231,
+      "title": [
+        "Risk of Vertebrobasilar Stroke and Chiropractic Care"
+      ],
+      "prefix": "10.1097",
+      "volume": "33",
+      "author": [
+        {
+          "given": "J David",
+          "family": "Cassidy",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Eleanor",
+          "family": "Boyle",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Pierre",
+          "family": "Côté",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Yaohua",
+          "family": "He",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sheilah",
+          "family": "Hogg-Johnson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Frank L.",
+          "family": "Silver",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Susan J.",
+          "family": "Bondy",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "276",
+      "reference": [
+        {
+          "key": "R1-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "629",
+          "DOI": "10.1016/S0304-3959(98)00268-1",
+          "volume": "80",
+          "author": "Borghouts",
+          "year": "1999",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R2-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1689",
+          "DOI": "10.1097/00007632-199808010-00015",
+          "volume": "23",
+          "author": "Côté",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R3-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1109",
+          "DOI": "10.1097/00007632-200005010-00012",
+          "volume": "25",
+          "author": "Côté",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R4-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "151",
+          "DOI": "10.1016/S0001-4575(99)00117-7",
+          "volume": "32",
+          "author": "Côté",
+          "year": "2000",
+          "journal-title": "Accid Anal Prev"
+        },
+        {
+          "key": "R5-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "267",
+          "DOI": "10.1016/j.pain.2004.09.004",
+          "volume": "112",
+          "author": "Côté",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R6-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "956",
+          "DOI": "10.1097/00005650-200109000-00006",
+          "volume": "39",
+          "author": "Côté",
+          "year": "2001",
+          "journal-title": "Med Care"
+        },
+        {
+          "key": "R7-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "771",
+          "DOI": "10.2105/AJPH.88.5.771",
+          "volume": "88",
+          "author": "Hurwitz",
+          "year": "1998",
+          "journal-title": "Am J Public Health"
+        },
+        {
+          "key": "R8-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.1186/1472-6963-6-49",
+          "volume": "6",
+          "author": "Hurwitz",
+          "year": "2006",
+          "journal-title": "BMC Health Serv Res"
+        },
+        {
+          "key": "R9-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1291",
+          "DOI": "10.1136/bmj.313.7068.1291",
+          "volume": "313",
+          "author": "Aker",
+          "year": "1996",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "R10-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.1054/math.2002.0465",
+          "volume": "7",
+          "author": "Gross",
+          "year": "2002",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "R11-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1746",
+          "DOI": "10.1097/00007632-199608010-00007",
+          "volume": "21",
+          "author": "Hurwitz",
+          "year": "1996",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R12-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "499",
+          "DOI": "10.1136/emj.19.6.499",
+          "volume": "19",
+          "author": "McClune",
+          "year": "2002",
+          "journal-title": "Emerg Med J"
+        },
+        {
+          "key": "R13-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "E64",
+          "DOI": "10.1097/00007632-200102150-00006",
+          "volume": "26",
+          "author": "Peeters",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R14-19-20160304",
+          "first-page": "38",
+          "volume": "163",
+          "author": "Norris",
+          "year": "2000",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "R15-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "376",
+          "DOI": "10.5694/j.1326-5377.2002.tb04459.x",
+          "volume": "176",
+          "author": "Ernst",
+          "year": "2002",
+          "journal-title": "Med J Aust"
+        },
+        {
+          "key": "R16-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "785",
+          "DOI": "10.1097/00007632-199904150-00010",
+          "volume": "24",
+          "author": "Haldeman",
+          "year": "1999",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R17-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1575",
+          "DOI": "10.1161/01.STR.0000169919.73219.30",
+          "volume": "36",
+          "author": "Rubinstein",
+          "year": "2005",
+          "journal-title": "Stroke"
+        },
+        {
+          "key": "R18-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "349",
+          "DOI": "10.1111/j.1600-0404.2005.00497.x",
+          "volume": "112",
+          "author": "Inamasu",
+          "year": "2005",
+          "journal-title": "Acta Neurol Scand"
+        },
+        {
+          "key": "R19-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "898",
+          "DOI": "10.1056/NEJM200103223441206",
+          "volume": "344",
+          "author": "Schievink",
+          "year": "2001",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "R20-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "560",
+          "DOI": "10.1111/j.1526-4610.1989.hed2909560.x",
+          "volume": "29",
+          "author": "D’Anglejan-Chatillon",
+          "year": "1989",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "R21-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "95",
+          "DOI": "10.1136/jnnp.2005.063107",
+          "volume": "77",
+          "author": "Pezzini",
+          "year": "2006",
+          "journal-title": "J Neurol Neurosurg Psychiatry"
+        },
+        {
+          "key": "R22-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2618",
+          "DOI": "10.1056/NEJMra041544",
+          "volume": "352",
+          "author": "Savitz",
+          "year": "2005",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "R23-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1809",
+          "DOI": "10.1212/01.wnl.0000244486.30455.71",
+          "volume": "67",
+          "author": "Lee",
+          "year": "2006",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "R24-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1054",
+          "DOI": "10.1161/01.STR.32.5.1054",
+          "volume": "32",
+          "author": "Rothwell",
+          "year": "2001",
+          "journal-title": "Stroke"
+        },
+        {
+          "key": "R25-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1424",
+          "DOI": "10.1212/01.WNL.0000063305.61050.E6",
+          "volume": "60",
+          "author": "Smith",
+          "year": "2003",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "R26-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2499",
+          "DOI": "10.1161/01.STR.0000240493.88473.39",
+          "volume": "37",
+          "author": "Arnold",
+          "year": "2006",
+          "journal-title": "Stroke"
+        },
+        {
+          "key": "R27-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "144",
+          "DOI": "10.1093/oxfordjournals.aje.a115853",
+          "volume": "133",
+          "author": "Maclure",
+          "year": "1991",
+          "journal-title": "Am J Epidemiol"
+        },
+        {
+          "key": "R28-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1072",
+          "DOI": "10.1136/bmj.327.7423.1072",
+          "volume": "327",
+          "author": "Kelman",
+          "year": "2003",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "R29-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1677",
+          "DOI": "10.1056/NEJM199312023292301",
+          "volume": "329",
+          "author": "Mittleman",
+          "year": "1993",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "R30-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "453",
+          "DOI": "10.1056/NEJM199702133360701",
+          "volume": "336",
+          "author": "Redelmeier",
+          "year": "1997",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "R31-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "285",
+          "DOI": "10.1002/sim.1889",
+          "volume": "24",
+          "author": "Janes",
+          "year": "2005",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "R32-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "717",
+          "DOI": "10.1097/01.ede.0000181315.18836.9d",
+          "volume": "16",
+          "author": "Janes",
+          "year": "2005",
+          "journal-title": "Epidemiology"
+        },
+        {
+          "key": "R33-19-20160304",
+          "author": "Efron",
+          "year": "1993"
+        },
+        {
+          "key": "R34-19-20160304",
+          "year": "2006"
+        },
+        {
+          "key": "R35-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "224",
+          "DOI": "10.1159/000015960",
+          "volume": "9",
+          "author": "Liu",
+          "year": "1999",
+          "journal-title": "Cerebrovasc Dis"
+        },
+        {
+          "key": "R37-19-20160304",
+          "first-page": "159",
+          "volume": "&NA;",
+          "author": "Côté",
+          "year": "1996",
+          "journal-title": "J Manip Physiol Therap"
+        },
+        {
+          "key": "R38-19-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "S184",
+          "DOI": "10.1097/BRS.0b013e31816454f8",
+          "volume": "33",
+          "author": "van der Velde",
+          "year": "2008",
+          "journal-title": "Spine"
+        }
+      ],
+      "container-title": [
+        "Spine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://journals.lww.com/00007632-200802151-00019",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            10
+          ]
+        ],
+        "date-time": "2021-04-10T06:05:09Z",
+        "timestamp": 1618034709000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://journals.lww.com/00007632-200802151-00019"
+        }
+      },
+      "subtitle": [
+        "Results of a Population-Based Case-Control and Case-Crossover Study"
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2008,
+            2
+          ]
+        ]
+      },
+      "references-count": 37,
+      "journal-issue": {
+        "issue": "Supplement"
+      },
+      "URL": "https://doi.org/10.1097/brs.0b013e3181644600",
+      "relation": {},
+      "ISSN": [
+        "0362-2436"
+      ],
+      "issn-type": [
+        {
+          "value": "0362-2436",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2008,
+            2
+          ]
+        ]
+      }
+    }
+  }
+}

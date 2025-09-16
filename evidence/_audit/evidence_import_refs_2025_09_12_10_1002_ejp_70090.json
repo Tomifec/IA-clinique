@@ -1,0 +1,762 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1002_ejp_70090.md",
+  "id": "evidence_import_refs_2025_09_12_10_1002_ejp_70090",
+  "doi": "10.1002/ejp.70090",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:15.365007Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            23
+          ]
+        ],
+        "date-time": "2025-08-23T11:10:05Z",
+        "timestamp": 1755947405614,
+        "version": "3.44.0"
+      },
+      "reference-count": 91,
+      "publisher": "Wiley",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2025-08-01T00:00:00Z",
+            "timestamp": 1754006400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "European Journal of Pain"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            9
+          ]
+        ]
+      },
+      "abstract": "<jats:title>ABSTRACT</jats:title><jats:sec><jats:title>Background and Objective</jats:title><jats:p>Guidelines recommend combining physical and psychological programmes for chronic low back pain (CLBP); however, exercise therapy (ET) and manual therapy (MT) are often delivered separately. This systematic review with meta‐analysis and meta‐regression of randomised controlled trials (RCTs) aimed to compare the efficacy of ET with MT in terms of pain intensity, disability and physical function in people with CLBP.</jats:p></jats:sec><jats:sec><jats:title>Databases and Data Treatment</jats:title><jats:p>MEDLINE, Web of Science, PEDro, Cochrane Library and Scopus were searched July–August 2024 for RCTs comparing ET with MT in participants aged 18–54 years. Outcomes were extracted for the short‐, medium‐ and long‐term follow‐up periods. Risk of bias (RoB 2.0 Cochrane Tool) and certainty of evidence (GRADE) were appraised.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>Six RCTs (743 patients) were included. Meta‐analyses showed, albeit non‐clinically relevant, a significant difference for long‐term in favour of ET for disability (SMD = −0.25, 95% CI [−0.43, −0.07], <jats:italic>p</jats:italic> = 0.007). Meta‐regression showed that the female–male ratio, treatment duration and mean age explain variability in pain intensity and disability.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>ET had a small beneficial effect on long‐term disability in people with CLBP. Nevertheless, evidence does not provide conclusive differences between both the treatments overall, influenced by heterogeneity and the number of studies included. Biopsychosocial factors may moderate the differences in outcomes. The GRADE assessment revealed very low certainty across all outcomes, highlighting the lack of high‐quality research.</jats:p></jats:sec><jats:sec><jats:title>Significance Statement</jats:title><jats:p>ET may offer small long‐term benefits over MT for disability in people with CLBP. Differences seem to be influenced by sex, age and treatment duration. The choice of ET over MT, or vice versa, as a stand‐alone treatment does not appear to be supported by current evidence.</jats:p></jats:sec><jats:sec><jats:title>PROSPERO Registration Number</jats:title><jats:p>CRD42024569120</jats:p></jats:sec>",
+      "DOI": "10.1002/ejp.70090",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2025-08-01T10:08:19Z",
+        "timestamp": 1754042899000
+      },
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Exercise Therapy Versus Manual Therapy for the Management of Pain Intensity, Disability, and Physical Function in People With Chronic Low Back Pain: A Systematic Review With Meta‐Analysis and Meta‐Regression"
+      ],
+      "prefix": "10.1002",
+      "volume": "29",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0002-0608-9790",
+          "authenticated-orcid": false,
+          "given": "Luis",
+          "family": "González‐Gómez",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Nursing and Physiotherapy University of Cadiz  Cádiz Spain"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6465-982X",
+          "authenticated-orcid": false,
+          "given": "Jose A.",
+          "family": "Moral‐Munoz",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Nursing and Physiotherapy University of Cadiz  Cádiz Spain"
+            },
+            {
+              "name": "Biomedical Research and Innovation Institute of Cadiz (INiBICA), University of Cadiz  Cádiz Spain"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6548-0007",
+          "authenticated-orcid": false,
+          "given": "Abel",
+          "family": "Rosales‐Tristancho",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Statistics and Operational Research University of Seville  Seville Spain"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0005-8623-0003",
+          "authenticated-orcid": false,
+          "given": "Alejandro",
+          "family": "Cuevas‐Moreno",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Health and Sports University Pablo de Olavide  Seville Spain"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0005-8687-2321",
+          "authenticated-orcid": false,
+          "given": "Melania",
+          "family": "Cardellat‐González",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Health and Sports University Pablo de Olavide  Seville Spain"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2719-3282",
+          "authenticated-orcid": false,
+          "given": "Álvaro‐José",
+          "family": "Rodríguez‐Domínguez",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Health and Sports University Pablo de Olavide  Seville Spain"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            8
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_7_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1590/S1413-78522013000400004"
+        },
+        {
+          "key": "e_1_2_7_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2021-103987"
+        },
+        {
+          "key": "e_1_2_7_4_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD000447.pub2"
+        },
+        {
+          "key": "e_1_2_7_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2010.07.015"
+        },
+        {
+          "key": "e_1_2_7_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neurom.2023.10.188"
+        },
+        {
+          "key": "e_1_2_7_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2018.7476"
+        },
+        {
+          "key": "e_1_2_7_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1179/106698110X12804993426929"
+        },
+        {
+          "key": "e_1_2_7_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/clinpract13060122"
+        },
+        {
+          "key": "e_1_2_7_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41598-024-68192-2"
+        },
+        {
+          "key": "e_1_2_7_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-022-07109-x"
+        },
+        {
+          "key": "e_1_2_7_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2007.10.023"
+        },
+        {
+          "key": "e_1_2_7_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2011.01.036"
+        },
+        {
+          "key": "e_1_2_7_14_1",
+          "first-page": "371",
+          "article-title": "Predictors of Functional Outcome in Patients With Chronic Low Back Pain Undergoing Back School, Individual Physiotherapy or Spinal Manipulation",
+          "volume": "48",
+          "author": "Cecchi F.",
+          "year": "2012",
+          "journal-title": "European Journal of Physical and Rehabilitation Medicine"
+        },
+        {
+          "key": "e_1_2_7_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jpain.2018.07.009"
+        },
+        {
+          "volume-title": "Cochrane Handbook for Systematic Reviews of Interventions",
+          "year": "2020",
+          "author": "Cochrane Collaboration",
+          "key": "e_1_2_7_16_1"
+        },
+        {
+          "key": "e_1_2_7_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fresc.2024.1305925"
+        },
+        {
+          "key": "e_1_2_7_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/ejp.1679"
+        },
+        {
+          "key": "e_1_2_7_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2018.01.013"
+        },
+        {
+          "key": "e_1_2_7_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3233/BMR-181355"
+        },
+        {
+          "key": "e_1_2_7_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmpt.2013.05.016"
+        },
+        {
+          "key": "e_1_2_7_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijosm.2024.100725"
+        },
+        {
+          "key": "e_1_2_7_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11136-020-02553-y"
+        },
+        {
+          "key": "e_1_2_7_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/ejp.1407"
+        },
+        {
+          "key": "e_1_2_7_25_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3138/ptc-2020-0148"
+        },
+        {
+          "key": "e_1_2_7_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsm.2009.061515"
+        },
+        {
+          "key": "e_1_2_7_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.math.2007.09.013"
+        },
+        {
+          "key": "e_1_2_7_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2006.12.008"
+        },
+        {
+          "key": "e_1_2_7_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2013.02.018"
+        },
+        {
+          "key": "e_1_2_7_30_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/physiol.00019.2013"
+        },
+        {
+          "key": "e_1_2_7_31_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/papr.13103"
+        },
+        {
+          "key": "e_1_2_7_32_1",
+          "first-page": "CD001929",
+          "article-title": "Massage for Low‐Back Pain",
+          "volume": "9",
+          "author": "Furlan A. D.",
+          "year": "2015",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "key": "e_1_2_7_33_1",
+          "article-title": "Psychometric Evaluation of the SF‐36 Health Survey in Medicare Managed Care",
+          "volume": "25",
+          "author": "Gandek B.",
+          "year": "2004",
+          "journal-title": "Health Care Financing Review"
+        },
+        {
+          "key": "e_1_2_7_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2021.0304"
+        },
+        {
+          "key": "e_1_2_7_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/j.pain.0000000000003234"
+        },
+        {
+          "key": "e_1_2_7_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000216464.37504.64"
+        },
+        {
+          "key": "e_1_2_7_37_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ptsp.2016.08.004"
+        },
+        {
+          "key": "e_1_2_7_38_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-021-06992-0"
+        },
+        {
+          "key": "e_1_2_7_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmpt.2004.10.007"
+        },
+        {
+          "key": "e_1_2_7_40_1",
+          "first-page": "CD009790",
+          "article-title": "Exercise Therapy for Chronic Low Back Pain",
+          "volume": "9",
+          "author": "Hayden J. A.",
+          "year": "2021",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "key": "e_1_2_7_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jphys.2021.09.004"
+        },
+        {
+          "key": "e_1_2_7_42_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/AJP.0b013e318226c411"
+        },
+        {
+          "key": "e_1_2_7_43_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1179/2042618613Y.0000000041"
+        },
+        {
+          "key": "e_1_2_7_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1503/cmaj.060410"
+        },
+        {
+          "volume-title": "Inferencia estadistica y analisis de datos",
+          "year": "2008",
+          "author": "Ipiña S. L.",
+          "key": "e_1_2_7_45_1"
+        },
+        {
+          "key": "e_1_2_7_46_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12891-017-1482-8"
+        },
+        {
+          "key": "e_1_2_7_47_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2022.10802"
+        },
+        {
+          "key": "e_1_2_7_48_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jos.2019.06.004"
+        },
+        {
+          "key": "e_1_2_7_49_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12998-024-00537-0"
+        },
+        {
+          "key": "e_1_2_7_50_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0319586"
+        },
+        {
+          "key": "e_1_2_7_51_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3233/BMR-200149"
+        },
+        {
+          "key": "e_1_2_7_52_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/papr.12804"
+        },
+        {
+          "key": "e_1_2_7_53_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fpubh.2023.1155225"
+        },
+        {
+          "key": "e_1_2_7_54_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/ner.12018"
+        },
+        {
+          "key": "e_1_2_7_55_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s40945-023-00168-3"
+        },
+        {
+          "key": "e_1_2_7_56_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2005.05.014"
+        },
+        {
+          "key": "e_1_2_7_57_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12913-014-0579-0"
+        },
+        {
+          "key": "e_1_2_7_58_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3906/sag-1607-78"
+        },
+        {
+          "key": "e_1_2_7_59_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1590/S0034-8910.2015049005874"
+        },
+        {
+          "key": "e_1_2_7_60_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12875-024-02274-y"
+        },
+        {
+          "key": "e_1_2_7_61_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2340/jrm.v55.4352"
+        },
+        {
+          "key": "e_1_2_7_62_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.k4817"
+        },
+        {
+          "key": "e_1_2_7_63_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.circir.2015.10.014"
+        },
+        {
+          "volume-title": "NICE Endorsed Resource—National Pathway of Care for Low Back and Radicular Pain|Low Back Pain and Sciatica in Over 16s: Assessment and Management|Guidance",
+          "year": "2017",
+          "author": "NICE",
+          "key": "e_1_2_7_64_1"
+        },
+        {
+          "volume-title": "NICE Overview|Low Back Pain and Sciatica in Over 16s: Assessment and Management|Guidance",
+          "year": "2020",
+          "author": "NICE",
+          "key": "e_1_2_7_65_1"
+        },
+        {
+          "key": "e_1_2_7_66_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/pm/pnab110"
+        },
+        {
+          "key": "e_1_2_7_67_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2016.0609"
+        },
+        {
+          "key": "e_1_2_7_68_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2019-100886"
+        },
+        {
+          "key": "e_1_2_7_69_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/jpm14050496"
+        },
+        {
+          "key": "e_1_2_7_70_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.msksp.2023.102824"
+        },
+        {
+          "key": "e_1_2_7_71_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pmn.2022.03.008"
+        },
+        {
+          "key": "e_1_2_7_72_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/M16-2367"
+        },
+        {
+          "key": "e_1_2_7_73_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/fampra/cmq072"
+        },
+        {
+          "key": "e_1_2_7_74_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S1356-689X(03)00053-5"
+        },
+        {
+          "key": "e_1_2_7_75_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jpain.2019.03.005"
+        },
+        {
+          "key": "e_1_2_7_76_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1155/2018/6358624"
+        },
+        {
+          "key": "e_1_2_7_77_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD012004"
+        },
+        {
+          "key": "e_1_2_7_78_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1055/s-2001-17414"
+        },
+        {
+          "key": "e_1_2_7_79_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.msksp.2022.102679"
+        },
+        {
+          "key": "e_1_2_7_80_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5272/jimab.2022281.4233"
+        },
+        {
+          "key": "e_1_2_7_81_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/ptj/pzae036"
+        },
+        {
+          "key": "e_1_2_7_82_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.medcli.2018.05.011"
+        },
+        {
+          "key": "e_1_2_7_83_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/ejp.4794"
+        },
+        {
+          "key": "e_1_2_7_84_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3233/BMR-169673"
+        },
+        {
+          "key": "e_1_2_7_85_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5606/tftrd.2019.3248"
+        },
+        {
+          "key": "e_1_2_7_86_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/PR9.0000000000000823"
+        },
+        {
+          "key": "e_1_2_7_87_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/j.1532-2149.2012.00252.x"
+        },
+        {
+          "key": "e_1_2_7_88_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1155/2015/292805"
+        },
+        {
+          "key": "e_1_2_7_89_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1089/acm.2018.0503"
+        },
+        {
+          "key": "e_1_2_7_90_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/pm/pny062"
+        },
+        {
+          "key": "e_1_2_7_91_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jpain.2020.04.003"
+        },
+        {
+          "key": "e_1_2_7_92_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12944-022-01737-4"
+        }
+      ],
+      "container-title": [
+        "European Journal of Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/ejp.70090",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            23
+          ]
+        ],
+        "date-time": "2025-08-23T10:37:34Z",
+        "timestamp": 1755945454000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://onlinelibrary.wiley.com/doi/10.1002/ejp.70090"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            8
+          ]
+        ]
+      },
+      "references-count": 91,
+      "journal-issue": {
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1002/ejp.70090"
+      ],
+      "URL": "https://doi.org/10.1002/ejp.70090",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "1090-3801",
+        "1532-2149"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1090-3801"
+        },
+        {
+          "type": "electronic",
+          "value": "1532-2149"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            8
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2025-04-03",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2025-07-15",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2025-08-01",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "article-number": "e70090"
+    }
+  }
+}

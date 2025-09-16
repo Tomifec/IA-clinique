@@ -1,0 +1,245 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jcm_2010_10_006.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jcm_2010_10_006",
+  "doi": "10.1016/j.jcm.2010.10.006",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:40.564121Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            2
+          ]
+        ],
+        "date-time": "2022-04-02T13:54:51Z",
+        "timestamp": 1648907691375
+      },
+      "reference-count": 8,
+      "publisher": "Elsevier BV",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2011,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2011-09-01T00:00:00Z",
+            "timestamp": 1314835200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Journal of Chiropractic Medicine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jcm.2010.10.006",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2011,
+            5,
+            18
+          ]
+        ],
+        "date-time": "2011-05-18T04:25:46Z",
+        "timestamp": 1305692746000
+      },
+      "page": "185-188",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Back pain and leg complaints that revealed non–small cell carcinoma: a case study"
+      ],
+      "prefix": "10.1016",
+      "volume": "10",
+      "author": [
+        {
+          "given": "Casey A.",
+          "family": "Crisp",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Angela N.",
+          "family": "Pierce",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "5",
+          "key": "10.1016/j.jcm.2010.10.006_bb0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "561",
+          "DOI": "10.1200/JCO.2006.06.8015",
+          "article-title": "Lung cancer in never smokers: a review",
+          "volume": "25",
+          "author": "Subramanian",
+          "year": "2007",
+          "journal-title": "J Clin Oncol"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.10.006_bb0020",
+          "series-title": "Merck manual",
+          "author": "Hong",
+          "year": "2009"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.10.006_bb0025",
+          "series-title": "Global cancer facts and figures, 2007",
+          "first-page": "13",
+          "author": "Garcia",
+          "year": "2007"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jcm.2010.10.006_bb0030",
+          "article-title": "Small cell lung cancer",
+          "volume": "17",
+          "author": "Rost",
+          "year": "2006",
+          "journal-title": "Ann Oncol"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.10.006_bb0035",
+          "author": "Altekruse"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jcm.2010.10.006_bb0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.3810/pgm.1997.03.178",
+          "article-title": "Curable lung cancer: how to find it and treat it",
+          "volume": "101",
+          "author": "Johnston",
+          "year": "1997",
+          "journal-title": "Postgrad Med"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jcm.2010.10.006_bb0045",
+          "first-page": "56",
+          "article-title": "Lung cancer: diagnosis and management",
+          "volume": "75",
+          "author": "Collins",
+          "year": "2007",
+          "journal-title": "Am Fam Physician"
+        },
+        {
+          "key": "10.1016/j.jcm.2010.10.006_bb0050",
+          "article-title": "Lung cancer non small cell. eMedicine",
+          "author": "Huq",
+          "year": "2010",
+          "journal-title": "Oncology"
+        }
+      ],
+      "container-title": [
+        "Journal of Chiropractic Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1556370711000514?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1556370711000514?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2018,
+            12,
+            2
+          ]
+        ],
+        "date-time": "2018-12-02T20:25:20Z",
+        "timestamp": 1543782320000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1556370711000514"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2011,
+            9
+          ]
+        ]
+      },
+      "references-count": 8,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2011,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1556370711000514"
+      ],
+      "URL": "https://doi.org/10.1016/j.jcm.2010.10.006",
+      "relation": {},
+      "ISSN": [
+        "1556-3707"
+      ],
+      "issn-type": [
+        {
+          "value": "1556-3707",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            9
+          ]
+        ]
+      }
+    }
+  }
+}

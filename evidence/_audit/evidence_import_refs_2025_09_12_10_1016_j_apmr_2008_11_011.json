@@ -1,0 +1,555 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_apmr_2008_11_011.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_apmr_2008_11_011",
+  "doi": "10.1016/j.apmr.2008.11.011",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:29.076514Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            2
+          ]
+        ],
+        "date-time": "2025-08-02T05:24:55Z",
+        "timestamp": 1754112295359
+      },
+      "reference-count": 31,
+      "publisher": "Elsevier BV",
+      "issue": "5",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2009,
+                5,
+                1
+              ]
+            ],
+            "date-time": "2009-05-01T00:00:00Z",
+            "timestamp": 1241136000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Archives of Physical Medicine and Rehabilitation"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            5
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.apmr.2008.11.011",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2009,
+            4,
+            30
+          ]
+        ],
+        "date-time": "2009-04-30T09:12:25Z",
+        "timestamp": 1241082745000
+      },
+      "page": "761-767",
+      "source": "Crossref",
+      "is-referenced-by-count": 97,
+      "title": [
+        "Ultrasound Characteristics of the Deep Abdominal Muscles During the Active Straight Leg Raise Test"
+      ],
+      "prefix": "10.1016",
+      "volume": "90",
+      "author": [
+        {
+          "given": "Deydre S.",
+          "family": "Teyhen",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Jared N.",
+          "family": "Williamson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nathan H.",
+          "family": "Carlson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sean T.",
+          "family": "Suttles",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Shaun J.",
+          "family": "O'Laughlin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jackie L.",
+          "family": "Whittaker",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stephen L.",
+          "family": "Goffar",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "John D.",
+          "family": "Childs",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "793",
+          "DOI": "10.1097/00007632-199107000-00018",
+          "article-title": "The intersegmental and multisegmental muscles of the lumbar spine: a biomechanical model comparing lateral stabilizing potential",
+          "volume": "16",
+          "author": "Crisco",
+          "year": "1991",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "2560",
+          "DOI": "10.1097/01.brs.0000144410.89182.f9",
+          "article-title": "Changes in recruitment of the abdominal muscles in people with low back pain: ultrasound measurement of muscle activity",
+          "volume": "29",
+          "author": "Ferreira",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "1593",
+          "DOI": "10.1097/01.BRS.0000076821.41875.1C",
+          "article-title": "Evidence of altered lumbopelvic muscle recruitment in the presence of sacroiliac joint pain",
+          "volume": "28",
+          "author": "Hungerford",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "E1",
+          "DOI": "10.1097/00007632-200201010-00015",
+          "article-title": "Altered motor control strategies in subjects with sacroiliac joint pain during the active straight-leg-raise test",
+          "volume": "27",
+          "author": "O'Sullivan",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "1167",
+          "DOI": "10.1097/00007632-200105150-00015",
+          "article-title": "Reliability and validity of the active straight leg raise test in posterior pelvic pain since pregnancy",
+          "volume": "26",
+          "author": "Mens",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "196",
+          "DOI": "10.1097/00007632-200201150-00015",
+          "article-title": "Validity of the active straight leg raise test for measuring disease severity in patients with posterior pelvic pain after pregnancy",
+          "volume": "27",
+          "author": "Mens",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "468",
+          "DOI": "10.1007/s005860050206",
+          "article-title": "The active straight leg raising test and mobility of the pelvic joints",
+          "volume": "8",
+          "author": "Mens",
+          "year": "1999",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "114",
+          "DOI": "10.2519/jospt.1998.27.2.114",
+          "article-title": "Altered abdominal muscle recruitment in patients with chronic back pain following a specific exercise intervention",
+          "volume": "27",
+          "author": "O'Sullivan",
+          "year": "1998",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "A1",
+          "DOI": "10.2519/jospt.2006.0301",
+          "article-title": "Rehabilitative ultrasound imaging symposium San Antonio, TX, May 8-10, 2006",
+          "volume": "36",
+          "author": "Teyhen",
+          "year": "2006",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "346",
+          "DOI": "10.2519/jospt.2005.35.6.346",
+          "article-title": "The use of ultrasound imaging of the abdominal drawing-in maneuver in subjects with low back pain",
+          "volume": "35",
+          "author": "Teyhen",
+          "year": "2005",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "467",
+          "DOI": "10.2519/jospt.2007.2417",
+          "article-title": "Assessment of abdominal muscle function during a simulated unilateral weight-bearing task using ultrasound imaging",
+          "volume": "37",
+          "author": "Hides",
+          "year": "2007",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "E175",
+          "DOI": "10.1097/01.brs.0000202740.86338.df",
+          "article-title": "An MRI investigation into the function of the transversus abdominis muscle during “drawing-in” of the abdominal wall",
+          "volume": "31",
+          "author": "Hides",
+          "year": "2006",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "156",
+          "DOI": "10.1007/s192-002-8346-5",
+          "article-title": "The assessment of levator muscle strength: a validation of three ultrasound techniques",
+          "volume": "13",
+          "author": "Dietz",
+          "year": "2002",
+          "journal-title": "Int Urogynecol J Pelvic Floor Dysfunct"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "589",
+          "DOI": "10.1002/uog.100",
+          "article-title": "Three-dimensional ultrasound imaging of the pelvic floor: the effect of parturition on paravaginal support structures",
+          "volume": "21",
+          "author": "Dietz",
+          "year": "2003",
+          "journal-title": "Ultrasound Obstet Gynecol"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "104",
+          "DOI": "10.1007/PL00004030",
+          "article-title": "The influence of posture on perineal ultrasound imaging parameters",
+          "volume": "12",
+          "author": "Dietz",
+          "year": "2001",
+          "journal-title": "Int Urogynecol J Pelvic Floor Dysfunct"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "349",
+          "DOI": "10.1002/jcu.10082",
+          "article-title": "Intraurethral sonography and the test-retest reliability of urethral sphincter measurements in women",
+          "volume": "30",
+          "author": "Heit",
+          "year": "2002",
+          "journal-title": "J Clin Ultrasound"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "161",
+          "DOI": "10.1016/S0929-8266(00)00084-7",
+          "article-title": "Comparison of muscle sizes and moment arms of two rotator cuff muscles measured by ultrasonography and magnetic resonance imaging",
+          "volume": "11",
+          "author": "Juul-Kristensen",
+          "year": "2000",
+          "journal-title": "Eur J Ultrasound"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "27",
+          "DOI": "10.1007/s001920170090",
+          "article-title": "Evaluation of pelvic floor muscle strength using four different techniques",
+          "volume": "12",
+          "author": "Peschers",
+          "year": "2001",
+          "journal-title": "Int Urogynecol J Pelvic Floor Dysfunct"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "337",
+          "DOI": "10.1016/j.clinbiomech.2004.01.007",
+          "article-title": "The relationship between EMG and change in thickness of transversus abdominis",
+          "volume": "19",
+          "author": "McMeeken",
+          "year": "2004",
+          "journal-title": "Clin Biomech (Bristol, Avon)"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "682",
+          "DOI": "10.1002/mus.10375",
+          "article-title": "Measurement of muscle contraction with ultrasound imaging",
+          "volume": "27",
+          "author": "Hodges",
+          "year": "2003",
+          "journal-title": "Muscle Nerve"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "207",
+          "DOI": "10.1016/j.math.2005.01.003",
+          "article-title": "Diagnosis of sacroiliac joint pain: validity of individual provocation tests and composites of tests",
+          "volume": "10",
+          "author": "Laslett",
+          "year": "2005",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "1243",
+          "DOI": "10.1097/00007632-199405310-00009",
+          "article-title": "The reliability of selected pain provocation tests for sacroiliac joint pathology",
+          "volume": "19",
+          "author": "Laslett",
+          "year": "1994",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "E145",
+          "DOI": "10.1097/BRS.0b013e3181657f03",
+          "article-title": "Physical characteristics of women with severe pelvic girdle pain after pregnancy: a descriptive cohort study",
+          "volume": "33",
+          "author": "Ronchetti",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "794",
+          "DOI": "10.1007/s00586-008-0602-4",
+          "article-title": "European guidelines for the diagnosis and treatment of pelvic girdle pain",
+          "volume": "17",
+          "author": "Vleeming",
+          "year": "2008",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "499",
+          "DOI": "10.2519/jospt.2007.2538",
+          "article-title": "Lumbopelvic dysfunction and stress urinary incontinence: a case report applying rehabilitative ultrasound imaging",
+          "volume": "37",
+          "author": "Painter",
+          "year": "2007",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "289",
+          "DOI": "10.2519/jospt.2006.2217",
+          "article-title": "Relationships among lateral abdominal muscles, gender, body mass index, and hand dominance",
+          "volume": "36",
+          "author": "Springer",
+          "year": "2006",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "1110",
+          "DOI": "10.1097/00007632-200205150-00019",
+          "article-title": "Responsiveness of outcome measurements in rehabilitation of patients with posterior pelvic pain since pregnancy",
+          "volume": "27",
+          "author": "Mens",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "270",
+          "DOI": "10.1016/j.jmpt.2007.03.001",
+          "article-title": "Low back pain: clinimetric properties of the Trendelenburg test, active straight leg raise test, and breathing pattern during active straight leg raising",
+          "volume": "30",
+          "author": "Roussel",
+          "year": "2007",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "456",
+          "DOI": "10.1016/j.clinbiomech.2004.02.004",
+          "article-title": "Altered patterns of pelvic bone motion determined in subjects with posterior pelvic pain using skin markers",
+          "volume": "19",
+          "author": "Hungerford",
+          "year": "2004",
+          "journal-title": "Clin Biomech"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "1889",
+          "DOI": "10.1097/00007632-199608150-00012",
+          "article-title": "Results of sacroiliac joint double block and value of sacroiliac pain provocation tests in 54 patients with low back pain",
+          "volume": "21",
+          "author": "Maigne",
+          "year": "1996",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.apmr.2008.11.011_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "327",
+          "DOI": "10.1097/00007632-198903000-00014",
+          "article-title": "Roentgenographic evaluation of lumbar spine flexion-extension in asymptomatic individuals",
+          "volume": "14",
+          "author": "Hayes",
+          "year": "1989",
+          "journal-title": "Spine"
+        }
+      ],
+      "container-title": [
+        "Archives of Physical Medicine and Rehabilitation"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0003999309001208?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0003999309001208?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            8
+          ]
+        ],
+        "date-time": "2019-02-08T05:03:14Z",
+        "timestamp": 1549602194000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0003999309001208"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2009,
+            5
+          ]
+        ]
+      },
+      "references-count": 31,
+      "journal-issue": {
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              5
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0003999309001208"
+      ],
+      "URL": "https://doi.org/10.1016/j.apmr.2008.11.011",
+      "relation": {},
+      "ISSN": [
+        "0003-9993"
+      ],
+      "issn-type": [
+        {
+          "value": "0003-9993",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2009,
+            5
+          ]
+        ]
+      }
+    }
+  }
+}

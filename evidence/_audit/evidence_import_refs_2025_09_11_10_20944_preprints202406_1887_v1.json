@@ -1,0 +1,171 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_20944_preprints202406_1887_v1.md",
+  "id": "evidence_import_refs_2025_09_11_10_20944_preprints202406_1887_v1",
+  "doi": "10.20944/preprints202406.1887.v1",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:58.176672Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            30
+          ]
+        ],
+        "date-time": "2025-05-30T09:27:28Z",
+        "timestamp": 1748597248161,
+        "version": "3.37.3"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            27
+          ]
+        ]
+      },
+      "group-title": "Engineering",
+      "reference-count": 0,
+      "publisher": "MDPI AG",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                6,
+                27
+              ]
+            ],
+            "date-time": "2024-06-27T00:00:00Z",
+            "timestamp": 1719446400000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "accepted": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            25
+          ]
+        ]
+      },
+      "abstract": "<jats:p>In this systematic review, the PRISMA method was applied to examine publications from the last two decades that have investigated the noxious gaseous emissions from dairy barns. The aim was to analyse the outcomes from literature studies estimating the quantities of polluting gases produced in dairy barns, with specific focus on ammonia (NH3) emissions. The review also explores proposed methods to reduce the associated effects through mitigation strategies. Estimation of NH3 emissions is significantly influenced by the complex interactions among several factors, including animal management practices, such as controlling animal behavioral activities; manure management, like utilising practices for floor manure removal; the type of structure housing the animals, whether it is naturally or mechanically ventilated; and environmental conditions, such as the effects of temperature, wind speed, relative humidity, and ventilation rate on NH3 release in the barn. These influential components have been considered by researchers, identifying targeted mitigation strategies. Despite growing attention to the issue, gaps in the scientific literature were identified and discussed, particularly regarding the analysis of mitigation strategies and their long-term impacts (i.e., environmental, economic and productivity-wise). </jats:p>",
+      "DOI": "10.20944/preprints202406.1887.v1",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            27
+          ]
+        ],
+        "date-time": "2024-06-27T03:56:42Z",
+        "timestamp": 1719460602000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 3,
+      "title": [
+        "Ammonia Emissions and Building-Related Mitigation Strategies in Dairy Barns: A Review"
+      ],
+      "prefix": "10.20944",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0005-4027-8407",
+          "authenticated-orcid": false,
+          "given": "Serena",
+          "family": "Vitaliano",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7058-1838",
+          "authenticated-orcid": false,
+          "given": "Provvidenza Rita",
+          "family": "D'Urso",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Claudia",
+          "family": "Arcidiacono",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Giovanni",
+          "family": "Cascone",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "1968",
+      "container-title": [],
+      "original-title": [],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            23
+          ]
+        ],
+        "date-time": "2024-07-23T17:24:00Z",
+        "timestamp": 1721755440000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.preprints.org/manuscript/202406.1887/v1"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            27
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.20944/preprints202406.1887.v1",
+      "relation": {
+        "is-preprint-of": [
+          {
+            "id-type": "doi",
+            "id": "10.3390/agriculture14071148",
+            "asserted-by": "subject"
+          }
+        ]
+      },
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            27
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

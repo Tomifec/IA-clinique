@@ -1,0 +1,572 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1067_mmt_2001_116417.md",
+  "id": "evidence_import_refs_2025_09_12_10_1067_mmt_2001_116417",
+  "doi": "10.1067/mmt.2001.116417",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:18.737776Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            26
+          ]
+        ],
+        "date-time": "2025-07-26T09:26:44Z",
+        "timestamp": 1753522004865
+      },
+      "reference-count": 37,
+      "publisher": "Elsevier BV",
+      "issue": "6",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2001,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2001-07-01T00:00:00Z",
+            "timestamp": 993945600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Journal of Manipulative and Physiological Therapeutics"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2001,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1067/mmt.2001.116417",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2002,
+            8,
+            24
+          ]
+        ],
+        "date-time": "2002-08-24T18:14:26Z",
+        "timestamp": 1030212866000
+      },
+      "page": "369-377",
+      "source": "Crossref",
+      "is-referenced-by-count": 46,
+      "title": [
+        "Chronic pediatric asthma and chiropractic spinal manipulation: A prospective clinical series and randomized clinical pilot study"
+      ],
+      "prefix": "10.1067",
+      "volume": "24",
+      "author": [
+        {
+          "given": "Gert",
+          "family": "Bronfort",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Roni L.",
+          "family": "Evans",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Paul",
+          "family": "Kubic",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Patty",
+          "family": "Filkin",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1067/mmt.2001.116417_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1688",
+          "DOI": "10.1001/jama.1990.03450130060027",
+          "article-title": "Changing patterns of asthma hospitalization among children: 1979 to 1987",
+          "volume": "264",
+          "author": "Gergen",
+          "year": "1990",
+          "journal-title": "JAMA"
+        },
+        {
+          "issue": "Suppl",
+          "key": "10.1067/mmt.2001.116417_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "421",
+          "DOI": "10.1289/ehp.99107s3421",
+          "article-title": "Childhood asthma",
+          "volume": "107",
+          "author": "Clark",
+          "year": "1999",
+          "journal-title": "Environ Health Perspect"
+        },
+        {
+          "year": "1997",
+          "series-title": "Expert panel report 2: guidelines for the diagnosis and management of asthma",
+          "author": "NIH",
+          "key": "10.1067/mmt.2001.116417_bib3"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "1391",
+          "DOI": "10.1016/0140-6736(90)93098-A",
+          "article-title": "Regular inhaled beta-agonist treatment in bronchial asthma",
+          "volume": "336",
+          "author": "Sears",
+          "year": "1990",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "651",
+          "DOI": "10.1001/jama.282.7.651",
+          "article-title": "Association between use of unconventional therapies and conventional medical services",
+          "volume": "282",
+          "author": "Druss",
+          "year": "1999",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "787",
+          "DOI": "10.1136/thx.46.11.787",
+          "article-title": "Alternative and complementary medicine for asthma",
+          "volume": "46",
+          "author": "Lane",
+          "year": "1991",
+          "journal-title": "Thorax"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "153",
+          "DOI": "10.3109/02770909409044821",
+          "article-title": "What can alternative medicine offer for the treatment of asthma?",
+          "volume": "31",
+          "author": "Lane",
+          "year": "1994",
+          "journal-title": "J Asthma"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib8",
+          "first-page": "20",
+          "article-title": "Complementary therapies for asthma",
+          "volume": "3",
+          "author": "Williams",
+          "year": "1997",
+          "journal-title": "Community Nurs"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.1046/j.1440-1754.1998.00179.x",
+          "article-title": "The use of alternative therapies by children with asthma: a brief report",
+          "volume": "34",
+          "author": "Andrews",
+          "year": "1998",
+          "journal-title": "J Paediatr Child Health"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib10",
+          "first-page": "1815",
+          "article-title": "Kronisk syge smaborns kontakt til det autoriserede og det alternative behandlingssystem",
+          "volume": "151",
+          "author": "Vange",
+          "year": "1989",
+          "journal-title": "Ugeskr Laeger"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib11",
+          "first-page": "111",
+          "article-title": "Experiences in the management of asthma",
+          "volume": "3",
+          "author": "Beyeler",
+          "year": "1965",
+          "journal-title": "Ann Swiss Chiro Assoc"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib12",
+          "first-page": "s81",
+          "article-title": "A structural approach to bronchial asthma",
+          "volume": "6",
+          "author": "Goldman",
+          "year": "1969",
+          "journal-title": "ACA J Chiro"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib13",
+          "first-page": "505",
+          "article-title": "Chiropractic management of chronic obstructive pulmonary disease",
+          "volume": "11",
+          "author": "Masarsky",
+          "year": "1988",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib14",
+          "first-page": "85",
+          "article-title": "Prognostic factors in bronchial asthma in chiropractic practice",
+          "volume": "18",
+          "author": "Nilsson",
+          "year": "1988",
+          "journal-title": "J Aust Chiro Assoc"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib15",
+          "first-page": "295",
+          "article-title": "Treatment of visceral disorders by manipulative therapy",
+          "author": "Miller",
+          "year": "1975"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib16",
+          "first-page": "17",
+          "article-title": "A comparison of the effect of chiropractic treatment on respiratory function in patients with respiratory distress symptoms and patients without",
+          "volume": "26",
+          "author": "Hviid",
+          "year": "1978",
+          "journal-title": "Bull Euro Chiro Union"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib17",
+          "first-page": "137",
+          "article-title": "Asthma in a chiropractic clinic: a pilot study",
+          "volume": "16",
+          "author": "Jamison",
+          "year": "1986",
+          "journal-title": "J Aust Chiro Assoc"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "80",
+          "DOI": "10.1111/j.1365-2222.1995.tb01006.x",
+          "article-title": "Chronic asthma and chiropractic spinal manipulation: a randomized clinical trial",
+          "volume": "25",
+          "author": "Nielsen",
+          "year": "1995",
+          "journal-title": "Clin Exp Allergy"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "27",
+          "DOI": "10.1007/BF00435966",
+          "article-title": "Measuring quality of life in the parents of children with asthma",
+          "volume": "5",
+          "author": "Juniper",
+          "year": "1996",
+          "journal-title": "Qual Life Res"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1007/BF00435967",
+          "article-title": "Measuring quality of life in children with asthma",
+          "volume": "5",
+          "author": "Juniper",
+          "year": "1996",
+          "journal-title": "Qual Life Res"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "43",
+          "DOI": "10.1016/0197-2456(90)90031-V",
+          "article-title": "A comparison of seven-point and visual analogue scales. Data from a randomized trial",
+          "volume": "11",
+          "author": "Jaeschke",
+          "year": "1990",
+          "journal-title": "Control Clin Trials"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1542/peds.99.2.165",
+          "article-title": "Children and adult perceptions of childhood asthma",
+          "volume": "99",
+          "author": "Guyatt",
+          "year": "1997",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "1013",
+          "DOI": "10.1056/NEJM199810083391501",
+          "article-title": "A comparison of active and simulated chiropractic manipulation as adjunctive treatment for childhood asthma",
+          "volume": "339",
+          "author": "Balon",
+          "year": "1998",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "175",
+          "DOI": "10.1093/jpepsy/24.2.175",
+          "article-title": "Children with cystic fibrosis benefit from massage therapy",
+          "volume": "24",
+          "author": "Hernandez-Reif",
+          "year": "1999",
+          "journal-title": "J Pediatr Psychol"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "854",
+          "DOI": "10.1016/S0022-3476(98)70317-8",
+          "article-title": "Children with asthma have improved pulmonary functions after massage therapy",
+          "volume": "132",
+          "author": "Field",
+          "year": "1998",
+          "journal-title": "J Pediatr"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "354",
+          "DOI": "10.1046/j.1365-2648.1993.18030354.x",
+          "article-title": "An assessment of the value of health education in the prevention of childhood asthma",
+          "volume": "18",
+          "author": "Deaves",
+          "year": "1993",
+          "journal-title": "J Adv Nurs"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "369",
+          "DOI": "10.1016/0022-3999(86)90015-2",
+          "article-title": "Family therapy in the treatment of severe childhood asthma",
+          "volume": "30",
+          "author": "Gustafsson",
+          "year": "1986",
+          "journal-title": "J Psychosom Res"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "116",
+          "DOI": "10.1136/adc.54.2.116",
+          "article-title": "Childhood asthma. A controlled trial of family psychotherapy",
+          "volume": "54",
+          "author": "Lask",
+          "year": "1979",
+          "journal-title": "Arch Dis Child"
+        },
+        {
+          "issue": "2",
+          "key": "10.1067/mmt.2001.116417_bib29",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/14651858.CD000089",
+          "article-title": "Family therapy for asthma in children",
+          "author": "Panton",
+          "year": "2000",
+          "journal-title": "Cochrane Database Syst Rev."
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "1304",
+          "DOI": "10.1001/jama.281.14.1304",
+          "article-title": "Effects of writing about stressful experiences on symptom reduction in patients with asthma or rheumatoid arthritis. A randomized trial",
+          "volume": "281",
+          "author": "Smyth",
+          "year": "1999",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "1328",
+          "DOI": "10.1001/jama.281.14.1328",
+          "article-title": "Healing words: emotional expression and disease outcome",
+          "volume": "281",
+          "author": "Spiegel",
+          "year": "1999",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "1722",
+          "DOI": "10.1016/S0140-6736(97)10111-8",
+          "article-title": "Powerful placebo: the dark side of the randomised controlled trial",
+          "volume": "351",
+          "author": "Kaptchuk",
+          "year": "1998",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1002/jnr.490180103",
+          "article-title": "Psychoneuroimmunology: interactions between central nervous system and immune system",
+          "volume": "18",
+          "author": "Solomon",
+          "year": "1987",
+          "journal-title": "J Neurosci Res"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1037/h0079226",
+          "article-title": "Psychoneuroimmunology: a literature review",
+          "volume": "61",
+          "author": "Vollhardt",
+          "year": "1991",
+          "journal-title": "Am J Orthopsychiatry"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "1200",
+          "DOI": "10.1136/bmj.294.6581.1200",
+          "article-title": "General practice consultations: is there any point in being positive?",
+          "volume": "294",
+          "author": "Thomas",
+          "year": "1987",
+          "journal-title": "Br Med J Clin Res Ed"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "925",
+          "DOI": "10.1016/S0140-6736(94)92273-X",
+          "article-title": "Is there logic in the placebo?",
+          "volume": "344",
+          "author": "Gotzsche",
+          "year": "1994",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1067/mmt.2001.116417_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "916",
+          "DOI": "10.1016/S0140-6736(98)08024-6",
+          "article-title": "Evidence-based interventions and comprehensive treatment",
+          "volume": "353",
+          "author": "van Weel",
+          "year": "1999",
+          "journal-title": "Lancet"
+        }
+      ],
+      "container-title": [
+        "Journal of Manipulative and Physiological Therapeutics"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0161475401467376?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0161475401467376?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            9
+          ]
+        ],
+        "date-time": "2019-05-09T06:57:06Z",
+        "timestamp": 1557385026000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0161475401467376"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2001,
+            7
+          ]
+        ]
+      },
+      "references-count": 37,
+      "journal-issue": {
+        "issue": "6",
+        "published-print": {
+          "date-parts": [
+            [
+              2001,
+              7
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0161475401467376"
+      ],
+      "URL": "https://doi.org/10.1067/mmt.2001.116417",
+      "relation": {},
+      "ISSN": [
+        "0161-4754"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0161-4754"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2001,
+            7
+          ]
+        ]
+      }
+    }
+  }
+}

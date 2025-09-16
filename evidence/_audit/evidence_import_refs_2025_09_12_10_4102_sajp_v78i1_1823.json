@@ -1,0 +1,745 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_4102_sajp_v78i1_1823.md",
+  "id": "evidence_import_refs_2025_09_12_10_4102_sajp_v78i1_1823",
+  "doi": "10.4102/sajp.v78i1.1823",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:53.039544Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            3
+          ]
+        ],
+        "date-time": "2025-09-03T09:54:00Z",
+        "timestamp": 1756893240512
+      },
+      "reference-count": 52,
+      "publisher": "AOSIS",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                11,
+                30
+              ]
+            ],
+            "date-time": "2022-11-30T00:00:00Z",
+            "timestamp": 1669766400000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "South African Journal of Physiotherapy"
+      ],
+      "DOI": "10.4102/sajp.v78i1.1823",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2022-12-01T12:14:12Z",
+        "timestamp": 1669896852000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 10,
+      "title": [
+        "The effectiveness of the median nerve neurodynamic mobilisation techniques in women with mild or moderate bilateral carpal tunnel syndrome: A single-blind clinical randomised trial"
+      ],
+      "prefix": "10.4102",
+      "volume": "78",
+      "author": [
+        {
+          "given": "Hassan",
+          "family": "Beddaa",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Bouchra",
+          "family": "Kably",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Basma",
+          "family": "Marzouk",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ikrame",
+          "family": "Mouhi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Abdelghafour",
+          "family": "Marfak",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Youness",
+          "family": "Azemmour",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ismail",
+          "family": "Bouzekraoui Alaoui",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nazha",
+          "family": "Birouk",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "2580",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            30
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "CIT0001",
+          "doi-asserted-by": "publisher",
+          "first-page": "108",
+          "DOI": "10.1097/00002060-200202000-00006",
+          "volume": "81",
+          "author": "Akalin",
+          "year": "2002",
+          "journal-title": "Treatment of Carpal Tunnel Syndrome with Nerve and Tendon Gliding Exercises"
+        },
+        {
+          "key": "CIT0002",
+          "doi-asserted-by": "publisher",
+          "first-page": "296",
+          "DOI": "10.17712/nsj.2019.4.20190014",
+          "volume": "24",
+          "author": "Alanazy",
+          "year": "2019",
+          "journal-title": "Neurosciences"
+        },
+        {
+          "key": "CIT0003",
+          "first-page": "6",
+          "volume": "77",
+          "author": "Aroori",
+          "year": "2008",
+          "journal-title": "Ulster Medical Journal"
+        },
+        {
+          "key": "CIT0004",
+          "doi-asserted-by": "publisher",
+          "first-page": "655",
+          "DOI": "10.1302/0301-620X.83B5.0830655",
+          "volume": "83",
+          "author": "Bagatur",
+          "year": "2001",
+          "journal-title": "Journal of Bone and Joint Surgery – Series B"
+        },
+        {
+          "key": "CIT0005",
+          "doi-asserted-by": "publisher",
+          "first-page": "50",
+          "DOI": "10.1016/j.jmpt.2016.10.004",
+          "volume": "40",
+          "author": "Ballestero-Pérez",
+          "year": "2017",
+          "journal-title": "Journal of Manipulative and Physiological Therapeutics"
+        },
+        {
+          "key": "CIT0006",
+          "doi-asserted-by": "publisher",
+          "first-page": "218",
+          "DOI": "10.1016/j.pneurobio.2007.01.005",
+          "volume": "81",
+          "author": "Beauregard",
+          "year": "2007",
+          "journal-title": "Progress in Neurobiology"
+        },
+        {
+          "key": "CIT0007",
+          "doi-asserted-by": "publisher",
+          "first-page": "100",
+          "DOI": "10.1007/s10072-006-0580-4",
+          "volume": "27",
+          "author": "Benedetti",
+          "year": "2006",
+          "journal-title": "Neurological Sciences"
+        },
+        {
+          "key": "CIT0008",
+          "doi-asserted-by": "publisher",
+          "first-page": "709",
+          "DOI": "10.2519/jospt.2009.3117",
+          "volume": "39",
+          "author": "Bialosky",
+          "year": "2009",
+          "journal-title": "Journal of Orthopaedic and Sports Physical Therapy"
+        },
+        {
+          "key": "CIT0009",
+          "doi-asserted-by": "publisher",
+          "first-page": "45",
+          "DOI": "10.1016/j.msksp.2017.07.004",
+          "volume": "31",
+          "author": "Boudier-Revéret",
+          "year": "2017",
+          "journal-title": "Musculoskeletal Science and Practice"
+        },
+        {
+          "key": "CIT0010",
+          "doi-asserted-by": "publisher",
+          "first-page": "1429",
+          "DOI": "10.1016/j.apmr.2007.07.019",
+          "volume": "88",
+          "author": "Brininger",
+          "year": "2007",
+          "journal-title": "Archives of Physical Medicine and Rehabilitation"
+        },
+        {
+          "key": "CIT0011",
+          "author": "Butler",
+          "year": "1991",
+          "journal-title": "Mobilisation of the nervous system"
+        },
+        {
+          "key": "CIT0012",
+          "doi-asserted-by": "publisher",
+          "first-page": "429",
+          "DOI": "10.1016/j.rboe.2014.08.001",
+          "volume": "49",
+          "author": "Chammas",
+          "year": "2014",
+          "journal-title": "Revista Brasileira de Ortopedia (English Edition)"
+        },
+        {
+          "key": "CIT0013",
+          "doi-asserted-by": "publisher",
+          "first-page": "495",
+          "DOI": "10.5271/sjweh.3351",
+          "volume": "39",
+          "author": "Dale",
+          "year": "2013",
+          "journal-title": "Scandinavian Journal of Work, Environment and Health"
+        },
+        {
+          "key": "CIT0014",
+          "doi-asserted-by": "publisher",
+          "first-page": "79",
+          "DOI": "10.1016/j.pjnns.2017.09.009",
+          "volume": "52",
+          "author": "Dec",
+          "year": "2018",
+          "journal-title": "Neurologia i Neurochirurgia Polska"
+        },
+        {
+          "key": "CIT0015",
+          "doi-asserted-by": "publisher",
+          "first-page": "420",
+          "DOI": "10.1016/j.jmpt.2012.06.002",
+          "volume": "35",
+          "author": "De-la-Llave-Rincon",
+          "year": "2012",
+          "journal-title": "Journal of Manipulative and Physiological Therapeutics"
+        },
+        {
+          "key": "CIT0016",
+          "doi-asserted-by": "publisher",
+          "first-page": "151",
+          "DOI": "10.2519/jospt.2017.7090",
+          "volume": "47",
+          "author": "De-Las-Peñas",
+          "year": "2017",
+          "journal-title": "Journal of Orthopaedic and Sports Physical Therapy"
+        },
+        {
+          "key": "CIT0017",
+          "doi-asserted-by": "publisher",
+          "first-page": "2405",
+          "DOI": "10.1111/pme.12857",
+          "volume": "16",
+          "author": "Fernández-De-Las-Peñas",
+          "year": "2015a",
+          "journal-title": "Pain Medicine (United States)"
+        },
+        {
+          "key": "CIT0018",
+          "doi-asserted-by": "publisher",
+          "first-page": "1087",
+          "DOI": "10.1016/j.jpain.2015.07.012",
+          "volume": "16",
+          "author": "Fernández-De-Las Peñas",
+          "year": "2015b",
+          "journal-title": "Journal of Pain"
+        },
+        {
+          "key": "CIT0019",
+          "doi-asserted-by": "publisher",
+          "first-page": "521",
+          "DOI": "10.1016/j.jht.2020.07.005",
+          "volume": "34",
+          "author": "Hamzeh",
+          "year": "2021",
+          "journal-title": "Journal of Hand Therapy"
+        },
+        {
+          "key": "CIT0020",
+          "doi-asserted-by": "publisher",
+          "first-page": "21",
+          "DOI": "10.1089/107555302753507159",
+          "volume": "8",
+          "author": "Hawk",
+          "year": "2002",
+          "journal-title": "Journal of Alternative and Complementary Medicine"
+        },
+        {
+          "key": "CIT0021",
+          "doi-asserted-by": "crossref",
+          "first-page": "109",
+          "DOI": "10.1089/acm.2005.11.109",
+          "volume": "11",
+          "author": "Hawk",
+          "year": "2005",
+          "journal-title": "Journal of Alternative and Complementary Medicine"
+        },
+        {
+          "key": "CIT0022",
+          "doi-asserted-by": "publisher",
+          "first-page": "1073",
+          "DOI": "10.1016/j.jpainsymman.2010.08.016",
+          "volume": "41",
+          "author": "Hjermstad",
+          "year": "2011",
+          "journal-title": "Journal of Pain and Symptom Management"
+        },
+        {
+          "key": "CIT0023",
+          "doi-asserted-by": "publisher",
+          "first-page": "487",
+          "DOI": "10.1212/CON.0000000000000452",
+          "volume": "23",
+          "author": "Hobson-Webb",
+          "year": "2017",
+          "journal-title": "CONTINUUM Lifelong Learning in Neurology"
+        },
+        {
+          "key": "CIT0024",
+          "doi-asserted-by": "publisher",
+          "first-page": "435",
+          "DOI": "10.1097/PHM.0b013e318214eaaf",
+          "volume": "90",
+          "author": "Horng",
+          "year": "2011",
+          "journal-title": "American Journal of Physical Medicine and Rehabilitation"
+        },
+        {
+          "key": "CIT0025",
+          "doi-asserted-by": "publisher",
+          "first-page": "1589",
+          "DOI": "10.1212/WNL.58.11.1589",
+          "volume": "58",
+          "author": "Jablecki",
+          "year": "2002",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "CIT0026",
+          "doi-asserted-by": "publisher",
+          "first-page": "697",
+          "DOI": "10.1016/S0363-5023(98)80058-0",
+          "volume": "23",
+          "author": "Katz",
+          "year": "1998",
+          "journal-title": "Journal of Hand Surgery"
+        },
+        {
+          "key": "CIT0027",
+          "doi-asserted-by": "publisher",
+          "first-page": "75",
+          "DOI": "10.1177/1753193412442137",
+          "volume": "38",
+          "author": "Kim",
+          "year": "2013",
+          "journal-title": "Journal of Hand Surgery: European Volume"
+        },
+        {
+          "key": "CIT0028",
+          "doi-asserted-by": "publisher",
+          "first-page": "2645",
+          "DOI": "10.1589/jpts.27.2645",
+          "volume": "27",
+          "author": "Kim",
+          "year": "2015",
+          "journal-title": "Journal of Physical Therapy Science"
+        },
+        {
+          "key": "CIT0029",
+          "doi-asserted-by": "publisher",
+          "first-page": "365",
+          "DOI": "10.1016/j.ejrad.2005.05.013",
+          "volume": "56",
+          "author": "Koyuncuoglu",
+          "year": "2005",
+          "journal-title": "European Journal of Radiology"
+        },
+        {
+          "key": "CIT0030",
+          "doi-asserted-by": "publisher",
+          "first-page": "231",
+          "DOI": "10.1186/s12891-015-0685-0",
+          "volume": "16",
+          "author": "Kozak",
+          "year": "2015",
+          "journal-title": "BMC Musculoskeletal Disorders"
+        },
+        {
+          "key": "CIT0031",
+          "first-page": "952",
+          "volume": "83",
+          "author": "Leblanc",
+          "year": "2011",
+          "journal-title": "American Family Physician"
+        },
+        {
+          "key": "CIT0032",
+          "doi-asserted-by": "publisher",
+          "first-page": "1585",
+          "DOI": "10.2106/00004623-199311000-00002",
+          "volume": "75",
+          "author": "Levine",
+          "year": "1993",
+          "journal-title": "Journal of Bone and Joint Surgery"
+        },
+        {
+          "key": "CIT0033",
+          "doi-asserted-by": "publisher",
+          "first-page": "324",
+          "DOI": "10.1123/jsr.17.3.324",
+          "volume": "17",
+          "author": "McKeon",
+          "year": "2008",
+          "journal-title": "Journal of Sport Rehabilitation"
+        },
+        {
+          "key": "CIT0034",
+          "doi-asserted-by": "publisher",
+          "first-page": "566",
+          "DOI": "10.2519/jospt.2021.10533",
+          "volume": "51",
+          "author": "Núñez De Arenas-Arroyo",
+          "year": "2021",
+          "journal-title": "Journal of Orthopaedic and Sports Physical Therapy"
+        },
+        {
+          "key": "CIT0035",
+          "doi-asserted-by": "publisher",
+          "first-page": "460",
+          "DOI": "10.1053/jhsu.2001.24972",
+          "volume": "26",
+          "author": "Papanicolaou",
+          "year": "2001",
+          "journal-title": "Journal of Hand Surgery"
+        },
+        {
+          "key": "CIT0036",
+          "doi-asserted-by": "publisher",
+          "first-page": "467",
+          "DOI": "10.1007/BF02849867",
+          "volume": "22",
+          "author": "Pinar",
+          "year": "2005",
+          "journal-title": "Advances in Therapy"
+        },
+        {
+          "key": "CIT0037",
+          "doi-asserted-by": "publisher",
+          "first-page": "423",
+          "DOI": "10.1093/ageing/afr051",
+          "volume": "40",
+          "author": "Roberts",
+          "year": "2011",
+          "journal-title": "Age and Ageing"
+        },
+        {
+          "key": "CIT0038",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.3389/fmed.2015.00028",
+          "volume": "2",
+          "author": "Saint-Lary",
+          "year": "2015",
+          "journal-title": "Frontiers in Medicine"
+        },
+        {
+          "key": "CIT0039",
+          "doi-asserted-by": "publisher",
+          "first-page": "1343",
+          "DOI": "10.1002/jor.22064",
+          "volume": "30",
+          "author": "Schmid",
+          "year": "2012",
+          "journal-title": "Journal of Orthopaedic Research"
+        },
+        {
+          "key": "CIT0040",
+          "author": "Shacklock",
+          "year": "2005",
+          "journal-title": "Clinical neurodynamics: A new system of neuromusculoskeletal treatment"
+        },
+        {
+          "key": "CIT0041",
+          "doi-asserted-by": "publisher",
+          "first-page": "272",
+          "DOI": "10.1016/j.jht.2019.12.002",
+          "volume": "33",
+          "author": "Shem",
+          "year": "2020",
+          "journal-title": "Journal of Hand Therapy"
+        },
+        {
+          "key": "CIT0042",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1186/1749-799X-6-17",
+          "volume": "6",
+          "author": "Shi",
+          "year": "2011",
+          "journal-title": "Journal of Orthopaedic Surgery and Research"
+        },
+        {
+          "key": "CIT0043",
+          "doi-asserted-by": "publisher",
+          "first-page": "411",
+          "DOI": "10.1016/j.jht.2018.01.004",
+          "volume": "32",
+          "author": "Sim",
+          "year": "2019",
+          "journal-title": "Journal of Hand Therapy"
+        },
+        {
+          "key": "CIT0044",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1186/s12864-018-5236-2",
+          "volume": "19",
+          "author": "Stevens",
+          "year": "2018",
+          "journal-title": "BMC Genomics"
+        },
+        {
+          "key": "CIT0045",
+          "doi-asserted-by": "publisher",
+          "first-page": "214",
+          "DOI": "10.1054/math.2000.0355",
+          "volume": "5",
+          "author": "Tal-Akabi",
+          "year": "2000",
+          "journal-title": "Manual Therapy"
+        },
+        {
+          "key": "CIT0046",
+          "doi-asserted-by": "publisher",
+          "first-page": "905",
+          "DOI": "10.1016/j.neurol.2011.05.010",
+          "volume": "167",
+          "author": "Tuppin",
+          "year": "2011",
+          "journal-title": "Revue Neurologique"
+        },
+        {
+          "key": "CIT0047",
+          "doi-asserted-by": "publisher",
+          "first-page": "662",
+          "DOI": "10.1016/j.jmpt.2005.07.020",
+          "volume": "28",
+          "author": "Vernon",
+          "year": "2005",
+          "journal-title": "Journal of Manipulative and Physiological Therapeutics"
+        },
+        {
+          "key": "CIT0048",
+          "doi-asserted-by": "publisher",
+          "first-page": "427",
+          "DOI": "10.5604/01.3001.0010.5822",
+          "volume": "19",
+          "author": "Wolny",
+          "year": "2017",
+          "journal-title": "Ortopedia Traumatologia Rehabilitacja"
+        },
+        {
+          "key": "CIT0049",
+          "doi-asserted-by": "publisher",
+          "first-page": "843",
+          "DOI": "10.1016/j.apmr.2017.12.005",
+          "volume": "99",
+          "author": "Wolny",
+          "year": "2018",
+          "journal-title": "Archives of Physical Medicine and Rehabilitation"
+        },
+        {
+          "key": "CIT0050",
+          "doi-asserted-by": "publisher",
+          "first-page": "263",
+          "DOI": "10.1016/j.jmpt.2017.02.004",
+          "volume": "40",
+          "author": "Wolny",
+          "year": "2017",
+          "journal-title": "Journal of Manipulative and Physiological Therapeutics"
+        },
+        {
+          "key": "CIT0051",
+          "doi-asserted-by": "publisher",
+          "first-page": "925",
+          "DOI": "10.3906/sag-1709-72",
+          "volume": "48",
+          "author": "Yildirim",
+          "year": "2018",
+          "journal-title": "Turkish Journal of Medical Sciences"
+        },
+        {
+          "key": "CIT0052",
+          "doi-asserted-by": "publisher",
+          "first-page": "27",
+          "DOI": "10.1016/j.shaw.2014.01.003",
+          "volume": "5",
+          "author": "You",
+          "year": "2014",
+          "journal-title": "Safety and Health at Work"
+        }
+      ],
+      "container-title": [
+        "South African Journal of Physiotherapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://sajp.co.za/index.php/sajp/article/viewFile/1823/3099",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://sajp.co.za/index.php/sajp/article/viewFile/1823/3100",
+          "content-type": "application/epub+zip",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://sajp.co.za/index.php/sajp/article/viewFile/1823/3101",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://sajp.co.za/index.php/sajp/article/viewFile/1823/3102",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://sajp.co.za/index.php/sajp/article/viewFile/1823/3102",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            26
+          ]
+        ],
+        "date-time": "2022-12-26T15:47:31Z",
+        "timestamp": 1672069651000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://www.sajp.co.za/index.php/SAJP/article/view/1823"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            30
+          ]
+        ]
+      },
+      "references-count": 52,
+      "journal-issue": {
+        "issue": "1",
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              30
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.4102/sajp.v78i1.1823",
+      "relation": {},
+      "ISSN": [
+        "2410-8219",
+        "0379-6175"
+      ],
+      "issn-type": [
+        {
+          "value": "2410-8219",
+          "type": "electronic"
+        },
+        {
+          "value": "0379-6175",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            30
+          ]
+        ]
+      }
+    }
+  }
+}

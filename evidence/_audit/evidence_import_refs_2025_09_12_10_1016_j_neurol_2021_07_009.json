@@ -1,0 +1,1062 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_neurol_2021_07_009.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_neurol_2021_07_009",
+  "doi": "10.1016/j.neurol.2021.07.009",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:00.861092Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2025-09-08T05:38:48Z",
+        "timestamp": 1757309928663
+      },
+      "reference-count": 68,
+      "publisher": "Elsevier BV",
+      "issue": "7",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2021-09-01T00:00:00Z",
+            "timestamp": 1630454400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2021-09-01T00:00:00Z",
+            "timestamp": 1630454400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2021-09-01T00:00:00Z",
+            "timestamp": 1630454400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2021-09-01T00:00:00Z",
+            "timestamp": 1630454400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2021-09-01T00:00:00Z",
+            "timestamp": 1630454400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2021-09-01T00:00:00Z",
+            "timestamp": 1630454400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Revue Neurologique"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.neurol.2021.07.009",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            7,
+            31
+          ]
+        ],
+        "date-time": "2021-07-31T04:04:30Z",
+        "timestamp": 1627704270000
+      },
+      "page": "753-759",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 28,
+      "title": [
+        "Revised guidelines of the French headache society for the diagnosis and management of migraine in adults. Part 3: Non-pharmacological treatment"
+      ],
+      "prefix": "10.1016",
+      "volume": "177",
+      "author": [
+        {
+          "given": "G.",
+          "family": "Demarquay",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "J.",
+          "family": "Mawet",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "E.",
+          "family": "Guégan-Massardier",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "S.",
+          "family": "de Gaalon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "A.",
+          "family": "Donnet",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "P.",
+          "family": "Giraud",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "M.",
+          "family": "Lantéri-Minet",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "C.",
+          "family": "Lucas",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "X.",
+          "family": "Moisset",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "C.",
+          "family": "Roos",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "D.",
+          "family": "Valade",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "A.",
+          "family": "Ducros",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0345",
+          "unstructured": "Demarquay G, Moisset X, Lanteri-Minet M, de Gaalon S, Donnet A, Giraud P, et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 1: diagnosis and assessment. Rev Neurol in press."
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0350",
+          "unstructured": "Ducros A, de Gaalon S, Roos C, Donnet A, Giraud P, Guegan-Massardier E, et al. Revised guidelines of the French Headache Society for the diagnosis and management of migraine in adults. Part 2: Pharmacological treatment. Rev Neurol Submitt in press."
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0355",
+          "doi-asserted-by": "crossref",
+          "first-page": "39",
+          "DOI": "10.1007/s11916-020-00868-6",
+          "article-title": "Exercise and migraine prevention: a review of the literature",
+          "volume": "24",
+          "author": "Barber",
+          "year": "2020",
+          "journal-title": "Curr Pain Headache Rep"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0360",
+          "doi-asserted-by": "crossref",
+          "first-page": "965",
+          "DOI": "10.1111/sms.13625",
+          "article-title": "Is aerobic exercise helpful in patients with migraine? A systematic review and meta-analysis",
+          "volume": "30",
+          "author": "La Touche",
+          "year": "2020",
+          "journal-title": "Scand J Med Sci Sports"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0365",
+          "doi-asserted-by": "crossref",
+          "first-page": "16",
+          "DOI": "10.1186/s10194-019-0961-8",
+          "article-title": "The effect of aerobic exercise on the number of migraine days, duration and pain intensity in migraine: a systematic literature review and meta-analysis",
+          "volume": "20",
+          "author": "Lemmens",
+          "year": "2019",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0370",
+          "doi-asserted-by": "crossref",
+          "first-page": "1103",
+          "DOI": "10.1111/sms.13023",
+          "article-title": "Effects of different endurance exercise modalities on migraine days and cerebrovascular health in episodic migraineurs: a randomized controlled trial",
+          "volume": "28",
+          "author": "Hanssen",
+          "year": "2018",
+          "journal-title": "Scand J Med Sci Sports"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0375",
+          "doi-asserted-by": "crossref",
+          "first-page": "1428",
+          "DOI": "10.1177/0333102411419681",
+          "article-title": "Exercise as migraine prophylaxis: a randomized study using relaxation and topiramate as controls",
+          "volume": "31",
+          "author": "Varkey",
+          "year": "2011",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0380",
+          "doi-asserted-by": "crossref",
+          "first-page": "851",
+          "DOI": "10.1590/0004-282X20140148",
+          "article-title": "Amitriptyline and aerobic exercise or amitriptyline alone in the treatment of chronic migraine: a randomized comparative study",
+          "volume": "72",
+          "author": "Santiago",
+          "year": "2014",
+          "journal-title": "Arq Neuropsiquiatr"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0385",
+          "doi-asserted-by": "crossref",
+          "first-page": "846",
+          "DOI": "10.1007/s11606-019-05413-9",
+          "article-title": "Yoga for treating headaches: a systematic review and meta-analysis",
+          "volume": "35",
+          "author": "Anheyer",
+          "year": "2020",
+          "journal-title": "J Gen Intern Med"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0390",
+          "doi-asserted-by": "crossref",
+          "first-page": "e2203",
+          "DOI": "10.1212/WNL.0000000000009473",
+          "article-title": "Effect of yoga as add-on therapy in migraine (CONTAIN): a randomized clinical trial",
+          "volume": "94",
+          "author": "Kumar",
+          "year": "2020",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0395",
+          "doi-asserted-by": "crossref",
+          "first-page": "868",
+          "DOI": "10.1080/1028415X.2019.1572940",
+          "article-title": "Effect of coenzyme Q10 supplementation on clinical features of migraine: a systematic review and dose-response meta-analysis of randomized controlled trials",
+          "volume": "23",
+          "author": "Parohan",
+          "year": "2020",
+          "journal-title": "Nutr Neurosci"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0400",
+          "doi-asserted-by": "crossref",
+          "first-page": "648",
+          "DOI": "10.1177/0333102418821661",
+          "article-title": "The effects of concurrent Coenzyme Q10, L-carnitine supplementation in migraine prophylaxis: a randomized, placebo-controlled, double-blind trial",
+          "volume": "39",
+          "author": "Hajihashemi",
+          "year": "2019",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0405",
+          "doi-asserted-by": "crossref",
+          "first-page": "466",
+          "DOI": "10.1212/WNL.50.2.466",
+          "article-title": "Effectiveness of high-dose riboflavin in migraine prophylaxis. A randomized controlled trial",
+          "volume": "50",
+          "author": "Schoenen",
+          "year": "1998",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0410",
+          "doi-asserted-by": "crossref",
+          "first-page": "394",
+          "DOI": "10.1111/jcpt.12548",
+          "article-title": "Prophylaxis of migraine headaches with riboflavin: a systematic review",
+          "volume": "42",
+          "author": "Thompson",
+          "year": "2017",
+          "journal-title": "J Clin Pharm Ther"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0415",
+          "doi-asserted-by": "crossref",
+          "first-page": "516",
+          "DOI": "10.1186/s10194-015-0516-6",
+          "article-title": "Improvement of migraine symptoms with a proprietary supplement containing riboflavin, magnesium and Q10: a randomized, placebo- controlled, double-blind, multicenter trial",
+          "volume": "16",
+          "author": "Gaul",
+          "year": "2015",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0420",
+          "doi-asserted-by": "crossref",
+          "first-page": "912",
+          "DOI": "10.1177/0333102414564891",
+          "article-title": "An evidence-based review of oral magnesium supplementation in the preventive treatment of migraine",
+          "volume": "35",
+          "author": "Teigen",
+          "year": "2015",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0425",
+          "doi-asserted-by": "crossref",
+          "first-page": "199",
+          "DOI": "10.1111/head.13217",
+          "article-title": "Magnesium in migraine prophylaxis-is there an evidence-based rationale? A systematic review",
+          "volume": "58",
+          "author": "von Luckner",
+          "year": "2018",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0430",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1111/head.13828",
+          "article-title": "Endogenous melatonin levels and therapeutic use of exogenous melatonin in migraine: systematic review and meta-analysis",
+          "author": "Liampas",
+          "year": "2020",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0435",
+          "first-page": "CD002286",
+          "article-title": "Feverfew for preventing migraine",
+          "volume": "4",
+          "author": "Wider",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0440",
+          "doi-asserted-by": "crossref",
+          "first-page": "89",
+          "DOI": "10.1159/000076535",
+          "article-title": "The first placebo-controlled trial of a special butterbur root extract for the prevention of migraine: reanalysis of efficacy criteria",
+          "volume": "51",
+          "author": "Diener",
+          "year": "2004",
+          "journal-title": "Eur Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0445",
+          "doi-asserted-by": "crossref",
+          "first-page": "2240",
+          "DOI": "10.1212/01.WNL.0000147290.68260.11",
+          "article-title": "Petasites hybridus root (butterbur) is an effective preventive treatment for migraine",
+          "volume": "63",
+          "author": "Lipton",
+          "year": "2004",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0450",
+          "doi-asserted-by": "crossref",
+          "first-page": "1300",
+          "DOI": "10.1111/head.13836",
+          "article-title": "The role of diet and nutrition in migraine triggers and treatment: a systematic literature review",
+          "volume": "60",
+          "author": "Hindiyeh",
+          "year": "2020",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0455",
+          "first-page": "11",
+          "article-title": "A Randomized double-blind, cross-over trial of very low-calorie diet in overweight migraine patients: a possible role for ketones?",
+          "author": "Di Lorenzo",
+          "year": "2019",
+          "journal-title": "Nutrients"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0460",
+          "doi-asserted-by": "crossref",
+          "first-page": "142",
+          "DOI": "10.1186/s10194-020-01204-4",
+          "article-title": "Neuromodulation techniques for acute and preventive migraine treatment: a systematic review and meta-analysis of randomized controlled trials",
+          "volume": "21",
+          "author": "Moisset",
+          "year": "2020",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0465",
+          "doi-asserted-by": "crossref",
+          "first-page": "373",
+          "DOI": "10.1016/S1474-4422(10)70054-5",
+          "article-title": "Single-pulse transcranial magnetic stimulation for acute treatment of migraine with aura: a randomised, double-blind, parallel-group, sham-controlled trial",
+          "volume": "9",
+          "author": "Lipton",
+          "year": "2010",
+          "journal-title": "Lancet Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0470",
+          "doi-asserted-by": "crossref",
+          "first-page": "1038",
+          "DOI": "10.1177/0333102418762525",
+          "article-title": "A multicenter, prospective, single arm, open label, observational study of sTMS for migraine prevention (ESPOUSE study)",
+          "volume": "38",
+          "author": "Starling",
+          "year": "2018",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0475",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1177/0333102418811573",
+          "article-title": "Acute migraine therapy with external trigeminal neurostimulation (ACME): a randomized controlled trial",
+          "volume": "39",
+          "author": "Chou",
+          "year": "2019",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0480",
+          "article-title": "Treatment of migraine attacks by transcutaneous electrical nerve stimulation in emergency department: a randomize controlled trial",
+          "author": "Hokenek",
+          "year": "2020",
+          "journal-title": "Am J Emerg Med"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0485",
+          "first-page": "163",
+          "article-title": "Non-invasive vagus nerve stimulation (nVNS) for the acute treatment of migraine: the multicenter, double-blind, randomized, sham-controlled presto trial",
+          "volume": "58",
+          "author": "Tassorelli",
+          "year": "2018",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0490",
+          "doi-asserted-by": "crossref",
+          "first-page": "697",
+          "DOI": "10.1212/WNL.0b013e3182825055",
+          "article-title": "Migraine prevention with a supraorbital transcutaneous stimulator: a randomized controlled trial",
+          "volume": "80",
+          "author": "Schoenen",
+          "year": "2013",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0495",
+          "doi-asserted-by": "crossref",
+          "first-page": "201",
+          "DOI": "10.1212/01.wnl.0000479686.32453.cc",
+          "article-title": "Migraine prevention with a supraorbital transcutaneous stimulator: a randomized controlled trial",
+          "volume": "86",
+          "author": "Schoenen",
+          "year": "2016",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0500",
+          "first-page": "276",
+          "article-title": "Combination of flunarizine and transcutaneous supraorbital neurostimulation improves migraine prophylaxis",
+          "volume": "139",
+          "author": "Jiang",
+          "year": "2019",
+          "journal-title": "Acta Neurol Scand"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0505",
+          "doi-asserted-by": "crossref",
+          "first-page": "1006",
+          "DOI": "10.1016/j.jpain.2017.03.012",
+          "article-title": "Migraine prevention using different frequencies of transcutaneous occipital nerve stimulation: a randomized controlled trial",
+          "volume": "18",
+          "author": "Liu",
+          "year": "2017",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0510",
+          "doi-asserted-by": "crossref",
+          "first-page": "389",
+          "DOI": "10.1177/0333102414544909",
+          "article-title": "The influence of ictal cutaneous allodynia on the response to occipital transcutaneous electrical stimulation in chronic migraine and chronic tension-type headache: a randomized, sham-controlled study",
+          "volume": "35",
+          "author": "Bono",
+          "year": "2015",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0515",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1007/s00415-013-7072-2",
+          "article-title": "High-rate repetitive transcranial magnetic stimulation in migraine prophylaxis: a randomized, placebo-controlled study",
+          "author": "Misra",
+          "year": "2013",
+          "journal-title": "J Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0520",
+          "doi-asserted-by": "crossref",
+          "first-page": "2238",
+          "DOI": "10.1007/s00415-016-8257-2",
+          "article-title": "Efficacy of single versus three sessions of high rate repetitive transcranial magnetic stimulation in chronic migraine and tension-type headache",
+          "volume": "263",
+          "author": "Kalita",
+          "year": "2016",
+          "journal-title": "J Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0525",
+          "doi-asserted-by": "crossref",
+          "first-page": "771",
+          "DOI": "10.2147/JPR.S116671",
+          "article-title": "Repetitive transcranial magnetic stimulation versus botulinum toxin injection in chronic migraine prophylaxis: a pilot randomized trial",
+          "volume": "9",
+          "author": "Shehata",
+          "year": "2016",
+          "journal-title": "J Pain Res"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0530",
+          "first-page": "43",
+          "article-title": "Electroacupuncture at Qiuxu (GB 40) for treatment of migraine – a clinical multicentral random controlled study",
+          "volume": "29",
+          "author": "Jia",
+          "year": "2009",
+          "journal-title": "J Tradit Chin Med Chung Tsa Chih Ying Wen Pan"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0535",
+          "doi-asserted-by": "crossref",
+          "first-page": "401",
+          "DOI": "10.1503/cmaj.110551",
+          "article-title": "Acupuncture for migraine prophylaxis: a randomized controlled trial",
+          "volume": "184",
+          "author": "Li",
+          "year": "2012",
+          "journal-title": "CMAJ Can Med Assoc J"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0540",
+          "doi-asserted-by": "crossref",
+          "first-page": "e8108",
+          "DOI": "10.1097/MD.0000000000008108",
+          "article-title": "Effect of percutaneous electrical nerve stimulation for the treatment of migraine",
+          "volume": "96",
+          "author": "Li",
+          "year": "2017",
+          "journal-title": "Medicine (Baltimore)"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0545",
+          "doi-asserted-by": "crossref",
+          "first-page": "543",
+          "DOI": "10.1186/s10194-015-0543-3",
+          "article-title": "Treatment of chronic migraine with transcutaneous stimulation of the auricular branch of the vagal nerve (auricular t-VNS): a randomized, monocentric clinical trial",
+          "volume": "16",
+          "author": "Straube",
+          "year": "2015",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0550",
+          "doi-asserted-by": "crossref",
+          "first-page": "529",
+          "DOI": "10.1212/WNL.0000000000002918",
+          "article-title": "Chronic migraine headache prevention with noninvasive vagus nerve stimulation: the EVENT study",
+          "volume": "87",
+          "author": "Silberstein",
+          "year": "2016",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0555",
+          "doi-asserted-by": "crossref",
+          "first-page": "643",
+          "DOI": "10.1016/j.brs.2019.01.008",
+          "article-title": "Inter-ictal assay of peripheral circulating inflammatory mediators in migraine patients under adjunctive cervical non-invasive vagus nerve stimulation (nVNS): a proof-of-concept study",
+          "volume": "12",
+          "author": "Chaudhry",
+          "year": "2019",
+          "journal-title": "Brain Stimulat"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0560",
+          "doi-asserted-by": "crossref",
+          "first-page": "1475",
+          "DOI": "10.1177/0333102419876920",
+          "article-title": "Non-invasive vagus nerve stimulation (nVNS) for the preventive treatment of episodic migraine: the multicentre, double-blind, randomised, sham-controlled PREMIUM trial",
+          "volume": "39",
+          "author": "Diener",
+          "year": "2019",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0565",
+          "doi-asserted-by": "crossref",
+          "first-page": "271",
+          "DOI": "10.1177/0333102410381142",
+          "article-title": "Occipital nerve stimulation for the treatment of intractable chronic migraine headache: ONSTIM feasibility study",
+          "volume": "31",
+          "author": "Saper",
+          "year": "2011",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0570",
+          "doi-asserted-by": "crossref",
+          "first-page": "245",
+          "DOI": "10.36076/ppj.2012/15/245",
+          "article-title": "Occipital nerve stimulation for chronic migraine: a randomized trial",
+          "volume": "15",
+          "author": "Serra",
+          "year": "2012",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0575",
+          "doi-asserted-by": "crossref",
+          "first-page": "1165",
+          "DOI": "10.1177/0333102412462642",
+          "article-title": "Safety and efficacy of peripheral nerve stimulation of the occipital nerves for the management of chronic migraine: results from a randomized, multicenter, double-blinded, controlled study",
+          "volume": "32",
+          "author": "Silberstein",
+          "year": "2012",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0580",
+          "first-page": "CD001218",
+          "article-title": "Acupuncture for the prevention of episodic migraine",
+          "author": "Linde",
+          "year": "2016",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0585",
+          "doi-asserted-by": "crossref",
+          "first-page": "309",
+          "DOI": "10.1111/head.13723",
+          "article-title": "Systematic review: acupuncture vs standard pharmacological therapy for migraine prevention",
+          "volume": "60",
+          "author": "Zhang",
+          "year": "2020",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0590",
+          "doi-asserted-by": "crossref",
+          "first-page": "375",
+          "DOI": "10.1007/s40120-020-00216-1",
+          "article-title": "Acupuncture and its role in the treatment of migraine headaches",
+          "volume": "9",
+          "author": "Urits",
+          "year": "2020",
+          "journal-title": "Neurol Ther"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0595",
+          "doi-asserted-by": "crossref",
+          "first-page": "207",
+          "DOI": "10.1080/14737175.2020.1715212",
+          "article-title": "Mindfulness in migraine: a narrative review",
+          "volume": "20",
+          "author": "Wells",
+          "year": "2020",
+          "journal-title": "Expert Rev Neurother"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0600",
+          "first-page": "CD012295",
+          "article-title": "Psychological therapies for the prevention of migraine in adults",
+          "volume": "7",
+          "author": "Sharpe",
+          "year": "2019",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0605",
+          "doi-asserted-by": "crossref",
+          "first-page": "17",
+          "DOI": "10.1186/s10194-019-0965-4",
+          "article-title": "Efficacy of psychological treatment for headache disorder: a systematic review and meta-analysis",
+          "volume": "20",
+          "author": "Lee",
+          "year": "2019",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0610",
+          "doi-asserted-by": "crossref",
+          "first-page": "213",
+          "DOI": "10.1177/2049463715578291",
+          "article-title": "Systematic review of cognitive behavioural therapy for the management of headaches and migraines in adults",
+          "volume": "9",
+          "author": "Harris",
+          "year": "2015",
+          "journal-title": "Br J Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0615",
+          "doi-asserted-by": "crossref",
+          "first-page": "c4871",
+          "DOI": "10.1136/bmj.c4871",
+          "article-title": "Effect of preventive (beta blocker) treatment, behavioural migraine management, or their combination on outcomes of optimised acute treatment in frequent migraine: randomised controlled trial",
+          "volume": "341",
+          "author": "Holroyd",
+          "year": "2010",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0620",
+          "doi-asserted-by": "crossref",
+          "first-page": "829",
+          "DOI": "10.4103/0366-6999.228242",
+          "article-title": "Mindfulness meditation for primary headache pain: a meta-analysis",
+          "volume": "131",
+          "author": "Gu",
+          "year": "2018",
+          "journal-title": "Chin Med J (Engl)"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0625",
+          "doi-asserted-by": "crossref",
+          "first-page": "544",
+          "DOI": "10.1177/0333102418781795",
+          "article-title": "Mindfulness-based stress reduction for treating chronic headache: a systematic review and meta-analysis",
+          "volume": "39",
+          "author": "Anheyer",
+          "year": "2019",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0630",
+          "doi-asserted-by": "crossref",
+          "first-page": "1837",
+          "DOI": "10.1097/j.pain.0000000000001860",
+          "article-title": "Enhanced mindfulness-based stress reduction in episodic migraine: a randomized clinical trial with magnetic resonance imaging outcomes",
+          "volume": "161",
+          "author": "Seminowicz",
+          "year": "2020",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0635",
+          "doi-asserted-by": "crossref",
+          "first-page": "317",
+          "DOI": "10.1001/jamainternmed.2020.7090",
+          "article-title": "Effectiveness of Mindfulness Meditation vs Headache Education for Adults With Migraine: A Randomized Clinical Trial",
+          "volume": "181",
+          "author": "Wells",
+          "year": "2021",
+          "journal-title": "JAMA Intern Med"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0640",
+          "doi-asserted-by": "crossref",
+          "first-page": "343",
+          "DOI": "10.1080/00207144.2018.1494432",
+          "article-title": "Systematic review of the effectiveness of hypnosis for the management of headache",
+          "volume": "66",
+          "author": "Flynn",
+          "year": "2018",
+          "journal-title": "Int J Clin Exp Hypn"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0645",
+          "doi-asserted-by": "crossref",
+          "first-page": "371",
+          "DOI": "10.1080/00207144.2018.1494444",
+          "article-title": "A comparison of the efficacy of acupuncture and hypnotherapy in patients with migraine",
+          "volume": "66",
+          "author": "Tastan",
+          "year": "2018",
+          "journal-title": "Int J Clin Exp Hypn"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0650",
+          "doi-asserted-by": "crossref",
+          "first-page": "313",
+          "DOI": "10.1080/00207144.2019.1612674",
+          "article-title": "Effect of an online hypnosis intervention in reducing migraine symptoms: a randomized controlled trial",
+          "volume": "67",
+          "author": "Flynn",
+          "year": "2019",
+          "journal-title": "Int J Clin Exp Hypn"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0655",
+          "doi-asserted-by": "crossref",
+          "first-page": "2029",
+          "DOI": "10.1093/eurheartj/ehw027",
+          "article-title": "Percutaneous closure of patent foramen ovale in migraine with aura, a randomized controlled trial",
+          "volume": "37",
+          "author": "Mattle",
+          "year": "2016",
+          "journal-title": "Eur Heart J"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0660",
+          "doi-asserted-by": "crossref",
+          "first-page": "1397",
+          "DOI": "10.1161/CIRCULATIONAHA.107.727271",
+          "volume": "117",
+          "author": "Dowson",
+          "year": "2008",
+          "journal-title": "Circulation"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0665",
+          "doi-asserted-by": "crossref",
+          "first-page": "2766",
+          "DOI": "10.1016/j.jacc.2017.09.1105",
+          "article-title": "Percutaneous closure of patent foramen ovale in patients with migraine: the PREMIUM trial",
+          "volume": "70",
+          "author": "Tobis",
+          "year": "2017",
+          "journal-title": "J Am Coll Cardiol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0670",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1111/ene.14892",
+          "article-title": "Patent foramen ovale closure in stroke patients with migraine in the close trial. The Close-mig study",
+          "author": "Mas",
+          "year": "2021",
+          "journal-title": "Eur J Neurol"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0675",
+          "doi-asserted-by": "crossref",
+          "first-page": "1156",
+          "DOI": "10.1177/0333102416639515",
+          "article-title": "Invasive pericranial nerve interventions",
+          "volume": "36",
+          "author": "Ambrosini",
+          "year": "2016",
+          "journal-title": "Cephalalgia Int J Headache"
+        },
+        {
+          "key": "10.1016/j.neurol.2021.07.009_bib0680",
+          "doi-asserted-by": "crossref",
+          "first-page": "89",
+          "DOI": "10.3389/fneur.2019.00089",
+          "article-title": "Extracranial trigger site surgery for migraine: a systematic review with meta-analysis on elimination of headache symptoms",
+          "volume": "10",
+          "author": "Vincent",
+          "year": "2019",
+          "journal-title": "Front Neurol"
+        }
+      ],
+      "container-title": [
+        "Revue Neurologique"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0035378721006202?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0035378721006202?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            30
+          ]
+        ],
+        "date-time": "2022-12-30T16:58:44Z",
+        "timestamp": 1672419524000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0035378721006202"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            9
+          ]
+        ]
+      },
+      "references-count": 68,
+      "journal-issue": {
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0035378721006202"
+      ],
+      "URL": "https://doi.org/10.1016/j.neurol.2021.07.009",
+      "relation": {},
+      "ISSN": [
+        "0035-3787"
+      ],
+      "issn-type": [
+        {
+          "value": "0035-3787",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            9
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Revised guidelines of the French headache society for the diagnosis and management of migraine in adults. Part 3: Non-pharmacological treatment",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Revue Neurologique",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.neurol.2021.07.009",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2021 Published by Elsevier Masson SAS.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

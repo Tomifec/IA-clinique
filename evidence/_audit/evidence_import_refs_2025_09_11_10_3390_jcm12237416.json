@@ -1,0 +1,714 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_3390_jcm12237416.md",
+  "id": "evidence_import_refs_2025_09_11_10_3390_jcm12237416",
+  "doi": "10.3390/jcm12237416",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:04.480342Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T14:02:01Z",
+        "timestamp": 1757685721512,
+        "version": "3.37.3"
+      },
+      "reference-count": 46,
+      "publisher": "MDPI AG",
+      "issue": "23",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                11,
+                29
+              ]
+            ],
+            "date-time": "2023-11-29T00:00:00Z",
+            "timestamp": 1701216000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "JCM"
+      ],
+      "abstract": "<jats:p>Background: Shoulder pain is a disabling musculoskeletal disorder worldwide. Thus, it is important to identify interventions able to improve pain and disability. Objective: To investigate the effects of mobilization with movement (MWM) on pain, disability, and range of motion in patients with shoulder pain and movement impairment. Methods: A systematic search of different databases was performed. The systematic review protocol has been registered in PROSPERO (CRD42023404128). A random-effects model for meta-analysis was used to determine the mean difference (MD), standardized mean differences (SMD), and 95% confidence interval for the outcome of interest. Results: Twenty-six studies were included. Of these, eighteen were included in the meta-analysis. MWM improved pain during movement with a moderate effect SMD of (−0.6; 95% confidence interval, −1.1 to −0.1, I2 = 0%; N = 66;) and shoulder abduction MD of (12.7°; 1.3 to 24.0; I2 = 73%; N = 90) compared to sham MWM in the short term (0–6 weeks). Combined MWM and conventional rehabilitation improved pain at rest, with a MD of (−1.2; −2.2 to −0.2; I2 = 61%; N = 100), and disability SMD of (−1.3; confidence interval −2.2 to −0.4; I2 = 87%; N = 185) compared to conventional rehabilitation alone in the short term. Combined MWM and conventional rehabilitation also resulted in improvement in shoulder abduction and external rotation. Compared to Maitland, MWM resulted in improvement in the shoulder abduction MD (20.4°; confidence interval 4.3 to 36.5; I2 = 89%; N = 130) in the short term. There is no information regarding long-term effects. Conclusion: Evidence suggests that MWM may reduce shoulder pain and restore shoulder range of motion and function. Our findings are promising, but the evidence is not strong enough to recommend it pragmatically.</jats:p>",
+      "DOI": "10.3390/jcm12237416",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            29
+          ]
+        ],
+        "date-time": "2023-11-29T17:01:00Z",
+        "timestamp": 1701277260000
+      },
+      "page": "7416",
+      "source": "Crossref",
+      "is-referenced-by-count": 6,
+      "title": [
+        "Effect of Mobilization with Movement on Pain, Disability, and Range of Motion in Patients with Shoulder Pain and Movement Impairment: A Systematic Review and Meta-Analysis"
+      ],
+      "prefix": "10.3390",
+      "volume": "12",
+      "author": [
+        {
+          "given": "Daniela",
+          "family": "Dias",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Physiotherapy Department, Multidisciplinary Institute of Rehabilitation and Health, Federal University of Bahia (UFBA), Salvador 40110-170, Brazil"
+            },
+            {
+              "name": "Postgraduate Program in Interactive Processes of Organs and Systems, Federal University of Bahia (UFBA), Salvador 40170-110, Brazil"
+            },
+            {
+              "name": "Physiotherapy Research Group, Physiotherapy Department, Federal University of Bahia (UFBA), Salvador 40210-905, Brazil"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0717-9694",
+          "authenticated-orcid": false,
+          "given": "Mansueto Gomes",
+          "family": "Neto",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Physiotherapy Department, Multidisciplinary Institute of Rehabilitation and Health, Federal University of Bahia (UFBA), Salvador 40110-170, Brazil"
+            },
+            {
+              "name": "Postgraduate Program in Interactive Processes of Organs and Systems, Federal University of Bahia (UFBA), Salvador 40170-110, Brazil"
+            },
+            {
+              "name": "Physiotherapy Research Group, Physiotherapy Department, Federal University of Bahia (UFBA), Salvador 40210-905, Brazil"
+            }
+          ]
+        },
+        {
+          "given": "Stephane da Silva Ribeiro",
+          "family": "Sales",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Physiotherapy Research Group, Physiotherapy Department, Federal University of Bahia (UFBA), Salvador 40210-905, Brazil"
+            }
+          ]
+        },
+        {
+          "given": "Bárbara dos Santos",
+          "family": "Cavalcante",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Physiotherapy Research Group, Physiotherapy Department, Federal University of Bahia (UFBA), Salvador 40210-905, Brazil"
+            }
+          ]
+        },
+        {
+          "suffix": "Jr.",
+          "given": "Palmiro",
+          "family": "Torrierri",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Physiotherapy Research Group, Physiotherapy Department, Federal University of Bahia (UFBA), Salvador 40210-905, Brazil"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7517-5548",
+          "authenticated-orcid": false,
+          "given": "Leonardo",
+          "family": "Roever",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Clinical Research, Brazilian Evidence-Based Health Network, Uberlândia 38408-100, Brazil"
+            },
+            {
+              "name": "Gilbert and Rose-Marie Chagoury School of Medicine, Lebanese American University, Beirut 1401, Lebanon"
+            }
+          ]
+        },
+        {
+          "given": "Roberto Paulo Correia de",
+          "family": "Araújo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Postgraduate Program in Interactive Processes of Organs and Systems, Federal University of Bahia (UFBA), Salvador 40170-110, Brazil"
+            },
+            {
+              "name": "Biochemistry Department, Federal University of Bahia (UFBA), Salvador 40170-110, Brazil"
+            }
+          ]
+        }
+      ],
+      "member": "1968",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            29
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "791",
+          "DOI": "10.2522/ptj.20140156",
+          "article-title": "Staged Approach for Rehabilitation Classification: Shoulder Disorders (STAR-Shoulder)",
+          "volume": "95",
+          "author": "McClure",
+          "year": "2015",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "ref_2",
+          "doi-asserted-by": "crossref",
+          "first-page": "1124",
+          "DOI": "10.1136/bmj.331.7525.1124",
+          "article-title": "Shoulder pain: Diagnosis and management in primary care",
+          "volume": "331",
+          "author": "Mitchell",
+          "year": "2005",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref_3",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Cadogan, A., Laslett, M., Hing, W.A., McNair, P.J., and Coates, M.H. (2011). A prospective study of shoulder pain in primary care: Prevalence of imaged pathology and response to guided diagnostic blocks. BMC Musculoskelet. Disord., 12.",
+          "DOI": "10.1186/1471-2474-12-119"
+        },
+        {
+          "key": "ref_4",
+          "doi-asserted-by": "crossref",
+          "first-page": "721",
+          "DOI": "10.1002/msc.1628",
+          "article-title": "Red flags useful to screen for gastrointestinal and hepatic diseases in patients with shoulder pain: A scoping review",
+          "volume": "20",
+          "author": "Pennella",
+          "year": "2022",
+          "journal-title": "Musculoskelet. Care"
+        },
+        {
+          "key": "ref_5",
+          "doi-asserted-by": "crossref",
+          "first-page": "1129",
+          "DOI": "10.1097/SMJ.0b013e3181f5e85f",
+          "article-title": "Evaluation and management of shoulder pain in primary care clinics",
+          "volume": "103",
+          "author": "House",
+          "year": "2010",
+          "journal-title": "South. Med. J."
+        },
+        {
+          "key": "ref_6",
+          "doi-asserted-by": "crossref",
+          "first-page": "1357",
+          "DOI": "10.1080/09638288.2016.1198431",
+          "article-title": "Surgery or conservative treatment for rotator cuff tear: A meta-analysis",
+          "volume": "39",
+          "author": "Laimi",
+          "year": "2017",
+          "journal-title": "Disabil. Rehabil."
+        },
+        {
+          "key": "ref_7",
+          "doi-asserted-by": "crossref",
+          "first-page": "815",
+          "DOI": "10.1016/j.apmr.2015.07.025",
+          "article-title": "Efficacy of Different Types of Mobilization Techniques in Patients with Primary Adhesive Capsulitis of the Shoulder: A Systematic Review",
+          "volume": "97",
+          "author": "Noten",
+          "year": "2016",
+          "journal-title": "Arch. Phys. Med. Rehabil."
+        },
+        {
+          "key": "ref_8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1391",
+          "DOI": "10.1589/jpts.27.1391",
+          "article-title": "Comparison of Maitland and Kaltenborn mobilization techniques for improving shoulder pain and range of motion in frozen shoulders",
+          "volume": "27",
+          "author": "Lim",
+          "year": "2015",
+          "journal-title": "J. Phys. Ther. Sci."
+        },
+        {
+          "key": "ref_9",
+          "first-page": "144",
+          "article-title": "Mulligan’s mobilization with movement: A review of the tenets and prescription of MWMs",
+          "volume": "36",
+          "author": "Hing",
+          "year": "2008",
+          "journal-title": "N. Z. J. Physiother."
+        },
+        {
+          "key": "ref_10",
+          "doi-asserted-by": "crossref",
+          "first-page": "86",
+          "DOI": "10.31254/sportmed.4211",
+          "article-title": "Joint Mobilization: Theory and evidence review",
+          "volume": "4",
+          "author": "Anggiat",
+          "year": "2020",
+          "journal-title": "Int. J. Sport. Exerc. Health Res."
+        },
+        {
+          "key": "ref_11",
+          "doi-asserted-by": "crossref",
+          "first-page": "463",
+          "DOI": "10.1016/j.math.2009.03.008",
+          "article-title": "The effectiveness of manual therapy in the management of musculoskeletal disorders of the shoulder: A systematic review",
+          "volume": "14",
+          "author": "Ho",
+          "year": "2009",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "ref_12",
+          "doi-asserted-by": "crossref",
+          "first-page": "439",
+          "DOI": "10.1016/j.jmpt.2019.04.001",
+          "article-title": "Effectiveness of mulligan’s mobilization with movement techniques on range of motion in peripheral joint pathologies: A Systematic review with meta-analysis between 2008 and 2018",
+          "volume": "42",
+          "author": "Stathopoulos",
+          "year": "2019",
+          "journal-title": "J. Manip. Physiol. Ther."
+        },
+        {
+          "key": "ref_13",
+          "doi-asserted-by": "crossref",
+          "first-page": "n71",
+          "DOI": "10.1136/bmj.n71",
+          "article-title": "The PRISMA 2020 statement: An updated guideline for reporting systematic reviews",
+          "volume": "372",
+          "author": "Page",
+          "year": "2021",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref_14",
+          "unstructured": "Higgins, J.P.T., Thomas, J., Chandler, J., Cumpston, M., Li, T., and Page, M. (2022, February 12). Cochrane Handbook for Systematic Reviews of Interventions Version 6.2 (Updated February 2021). Cochrane. Available online: www.training.cochrane.org/handbook."
+        },
+        {
+          "key": "ref_15",
+          "doi-asserted-by": "crossref",
+          "first-page": "156",
+          "DOI": "10.2522/ptj.20070147",
+          "article-title": "Scales to assess the quality of randomized controlled trials: A systematic review",
+          "volume": "88",
+          "author": "Olivo",
+          "year": "2008",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "ref_16",
+          "doi-asserted-by": "crossref",
+          "first-page": "920",
+          "DOI": "10.1016/j.jclinepi.2009.10.005",
+          "article-title": "There was evidence of convergent and construct validity of Physiotherapy Evidence Database quality scale for physiotherapy trials",
+          "volume": "63",
+          "author": "Macedo",
+          "year": "2010",
+          "journal-title": "J. Clin. Epidemiol."
+        },
+        {
+          "key": "ref_17",
+          "doi-asserted-by": "crossref",
+          "first-page": "713",
+          "DOI": "10.1093/ptj/83.8.713",
+          "article-title": "Reliability of the PEDro scale for rating of quality randomized controlled trials",
+          "volume": "83",
+          "author": "Maher",
+          "year": "2003",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "ref_18",
+          "doi-asserted-by": "crossref",
+          "first-page": "557",
+          "DOI": "10.1136/bmj.327.7414.557",
+          "article-title": "Measuring inconsistency in meta-analyses",
+          "volume": "327",
+          "author": "Higgins",
+          "year": "2003",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref_19",
+          "unstructured": "(Review Manager (RevMan) [Computer Program], 2020). Review Manager (RevMan) [Computer Program], Version 5.4."
+        },
+        {
+          "key": "ref_20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.26452/ijrps.v12i1.3904",
+          "article-title": "A comparative study on the effectiveness of Mulligan mobilization versus Positional release therapy technique in patients with Adhesive capsulitis",
+          "volume": "12",
+          "author": "Chandrasekaran",
+          "year": "2021",
+          "journal-title": "Int. J. Res. Pharm. Sci."
+        },
+        {
+          "key": "ref_21",
+          "first-page": "2561",
+          "article-title": "Effectiveness of Maitland vs. Mulligan Mobilization Techniques in Adhesive Capsulitis of Shoulder Joint",
+          "volume": "15",
+          "author": "Rana",
+          "year": "2021",
+          "journal-title": "Pak. J. Med. Health Sci."
+        },
+        {
+          "key": "ref_22",
+          "first-page": "18",
+          "article-title": "Effectiveness of Kaltenborn Mobilization Technique Versus Mulligan’s MWM in Patients with Adhesive Capsulitis of Shoulder",
+          "volume": "14",
+          "author": "Fernandes",
+          "year": "2020",
+          "journal-title": "Indian J. Physiother. Occup. Ther."
+        },
+        {
+          "key": "ref_23",
+          "first-page": "901",
+          "article-title": "Effectiveness of Mobilization with Movement in weight bearing position on pain, shoulder range of motion and function in patients with shoulder dysfunction",
+          "volume": "11",
+          "author": "Subhash",
+          "year": "2020",
+          "journal-title": "Indian J. Public. Health Res. Dev."
+        },
+        {
+          "key": "ref_24",
+          "doi-asserted-by": "crossref",
+          "first-page": "171",
+          "DOI": "10.3233/BMR-181230",
+          "article-title": "The effect of Mulligan mobilization on pain and life quality of patients with Rotator cuff syndrome: A randomized controlled trial",
+          "volume": "32",
+          "author": "Menek",
+          "year": "2019",
+          "journal-title": "J. Back Musculoskelet. Rehabil."
+        },
+        {
+          "key": "ref_25",
+          "first-page": "1",
+          "article-title": "Comparison of Effectiveness of Mulligan ‘MWM’ Technique versus Kaltenborn Mobilization Technique on Pain and End Range of Motion in Patients with Adhesive Capsulitis of Shoulder Joint: A Randomized Controlled Trial",
+          "volume": "15",
+          "author": "Ragav",
+          "year": "2019",
+          "journal-title": "J. Exerc. Sci. Physiother."
+        },
+        {
+          "key": "ref_26",
+          "first-page": "25638",
+          "article-title": "Efficacy of mulligan technique versus muscle energy technique on Functional ability in subjects with adhesive capsulitis",
+          "volume": "9",
+          "author": "Rayudu",
+          "year": "2018",
+          "journal-title": "Int. J. Recent. Sci. Res."
+        },
+        {
+          "key": "ref_27",
+          "first-page": "1",
+          "article-title": "Comparison of Mobilisation with Movement and Cryotherapy in Shoulder Impingement Syndrome-A Randomised Clinical Trial",
+          "volume": "12",
+          "author": "Srivastava",
+          "year": "2018",
+          "journal-title": "J. Clin. Diagn. Res."
+        },
+        {
+          "key": "ref_28",
+          "first-page": "1",
+          "article-title": "Effectiveness of movement with mobilization in adhesive capsulitis of shoulder: Randomized controlled trial",
+          "volume": "4",
+          "author": "Yeole",
+          "year": "2017",
+          "journal-title": "Indian J. Med. Res. Pharm. Sci."
+        },
+        {
+          "key": "ref_29",
+          "doi-asserted-by": "crossref",
+          "first-page": "605",
+          "DOI": "10.1016/j.jmpt.2016.08.001",
+          "article-title": "Immediate Effects of Mobilization with Movement vs Sham Technique on Range of Motion, Strength, and Function in Patients with Shoulder Impingement Syndrome: Randomized Clinical Trial",
+          "volume": "39",
+          "author": "Salvini",
+          "year": "2016",
+          "journal-title": "J. Manip. Physiol. Ther."
+        },
+        {
+          "key": "ref_30",
+          "first-page": "2761",
+          "article-title": "Comparison of Mulligan Mobilization with Movement and End-Range Mobilization Following Maitland Techniques in Patients with Frozen Shoulder in Improving Range of Motion",
+          "volume": "4",
+          "author": "Arshad",
+          "year": "2015",
+          "journal-title": "Int. J. Health Sci. Res."
+        },
+        {
+          "key": "ref_31",
+          "doi-asserted-by": "crossref",
+          "first-page": "1650014",
+          "DOI": "10.1142/S0218957716500147",
+          "article-title": "Effect of Mulligan’s posterolateral glide on shoulder rotator strength, scapular upward rotation in shoulder pain subjects—A randomized controlled trial",
+          "volume": "19",
+          "author": "Neelapala",
+          "year": "2016",
+          "journal-title": "J. Musculoskelet. Res."
+        },
+        {
+          "key": "ref_32",
+          "doi-asserted-by": "crossref",
+          "first-page": "245",
+          "DOI": "10.1016/j.jmpt.2014.12.008",
+          "article-title": "Effects of mobilization with movement on pain and range of motion in patients with unilateral shoulder impingement syndrome: A randomized controlled trial",
+          "volume": "38",
+          "author": "Cleland",
+          "year": "2015",
+          "journal-title": "J. Manip. Physiol. Ther."
+        },
+        {
+          "key": "ref_33",
+          "first-page": "55",
+          "article-title": "A randomized controlled trial to investigate the effect of Mlligan’s MWM and conventional therapy in stage II Adhesive capsulitis",
+          "volume": "3",
+          "author": "Reddy",
+          "year": "2015",
+          "journal-title": "Indian. J. Phys. Ther."
+        },
+        {
+          "key": "ref_34",
+          "doi-asserted-by": "crossref",
+          "first-page": "249",
+          "DOI": "10.1016/j.jcm.2015.03.001",
+          "article-title": "Mobilization with Movement for Shoulder Dysfunction in Older Adults: A Pilot Trial",
+          "volume": "14",
+          "author": "Romero",
+          "year": "2015",
+          "journal-title": "J. Chiropr. Med."
+        },
+        {
+          "key": "ref_35",
+          "doi-asserted-by": "crossref",
+          "first-page": "324",
+          "DOI": "10.1016/j.jmpt.2015.04.003",
+          "article-title": "Efficacy of hand behind back mobilization with movement for acute shoulder pain and movement impairment: A randomized controlled trial",
+          "volume": "38",
+          "author": "Satpute",
+          "year": "2015",
+          "journal-title": "J. Manip. Physiol. Ther."
+        },
+        {
+          "key": "ref_36",
+          "doi-asserted-by": "crossref",
+          "first-page": "804",
+          "DOI": "10.15621/ijphy/2015/v2i5/78238",
+          "article-title": "Mulligan mobilization is more effective in treating diabetic frozen shoulder than the maitland technique",
+          "volume": "2",
+          "author": "Youssef",
+          "year": "2015",
+          "journal-title": "Int. J. Physiother."
+        },
+        {
+          "key": "ref_37",
+          "first-page": "257",
+          "article-title": "To compare effects of maitland and mulligan’s mobilization techniques in the treatment of frozen shoulder",
+          "volume": "20",
+          "author": "Haider",
+          "year": "2014",
+          "journal-title": "Annals"
+        },
+        {
+          "key": "ref_38",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.2340/16501977-1064",
+          "article-title": "Evaluation of Mulligan’s technique for adhesive capsulitis of the shoulder",
+          "volume": "45",
+          "author": "Doner",
+          "year": "2013",
+          "journal-title": "J. Rehabil. Med."
+        },
+        {
+          "key": "ref_39",
+          "unstructured": "Patrício, R.I.T. (2013). Efeitos Imediatos da Mobilização com Movimento na Dor, Amplitude de Movimento e Actividade Electromiográfica dos Músculos da Cintura Escapular em Indivíduos com Síndrome do Conflito Subacromial. [Master’s Thesis, Escola Superior de Tecnologia da Saúde do Porto, Instituto Politécnico do Porto]."
+        },
+        {
+          "key": "ref_40",
+          "doi-asserted-by": "crossref",
+          "first-page": "372",
+          "DOI": "10.1016/j.math.2013.01.001",
+          "article-title": "One-week time course of the effects of Mulligan’s Mobilisation with Movement and taping in painful shoulders",
+          "volume": "18",
+          "author": "Teys",
+          "year": "2013",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "ref_41",
+          "doi-asserted-by": "crossref",
+          "first-page": "454",
+          "DOI": "10.1016/j.jmpt.2012.07.006",
+          "article-title": "Mobilization with movement and kinesiotaping compared with a supervised exercise program for painful shoulder: Results of a clinical trial",
+          "volume": "35",
+          "author": "Djordjevic",
+          "year": "2012",
+          "journal-title": "J. Manip. Physiol. Ther."
+        },
+        {
+          "key": "ref_42",
+          "first-page": "12",
+          "article-title": "Randomized Controlled Study of Mulligan’s Vs. Maitland’s Mobilization Technique in Adhesive Capsulitis of Shoulder Joint",
+          "volume": "5",
+          "author": "Shrivastava",
+          "year": "2011",
+          "journal-title": "Indian J. Physiother. Occup. Ther. Int. J."
+        },
+        {
+          "key": "ref_43",
+          "doi-asserted-by": "crossref",
+          "first-page": "238",
+          "DOI": "10.1179/106698108790818314",
+          "article-title": "Comparison of manual therapy techniques with therapeutic exercise in the treatment of shoulder impingement: A randomized controlled pilot clinical trial",
+          "volume": "16",
+          "author": "Kachingwe",
+          "year": "2008",
+          "journal-title": "J. Man. Manip. Ther."
+        },
+        {
+          "key": "ref_44",
+          "doi-asserted-by": "crossref",
+          "first-page": "37",
+          "DOI": "10.1016/j.math.2006.07.011",
+          "article-title": "The initial effects of a Mulligan’s mobilization with movement technique on range of movement and pressure pain threshold in pain-limited shoulders",
+          "volume": "13",
+          "author": "Teys",
+          "year": "2008",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "ref_45",
+          "doi-asserted-by": "crossref",
+          "first-page": "1307",
+          "DOI": "10.2522/ptj.20060295",
+          "article-title": "Mobilization techniques in subjects with frozen shoulder syndrome: Randomized multiple-treatment trial",
+          "volume": "87",
+          "author": "Yang",
+          "year": "2007",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "ref_46",
+          "doi-asserted-by": "crossref",
+          "first-page": "e028777",
+          "DOI": "10.1136/bmjopen-2018-028777",
+          "article-title": "Minimal important differences for improvement in shoulder condition patient-reported outcomes: A systematic review to inform a BMJ Rapid Recommendation",
+          "volume": "9",
+          "author": "Hao",
+          "year": "2019",
+          "journal-title": "BMJ Open"
+        }
+      ],
+      "container-title": [
+        "Journal of Clinical Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.mdpi.com/2077-0383/12/23/7416/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            29
+          ]
+        ],
+        "date-time": "2023-11-29T18:10:28Z",
+        "timestamp": 1701281428000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.mdpi.com/2077-0383/12/23/7416"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            29
+          ]
+        ]
+      },
+      "references-count": 46,
+      "journal-issue": {
+        "issue": "23",
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "jcm12237416"
+      ],
+      "URL": "https://doi.org/10.3390/jcm12237416",
+      "relation": {},
+      "ISSN": [
+        "2077-0383"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2077-0383"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            29
+          ]
+        ]
+      }
+    }
+  }
+}

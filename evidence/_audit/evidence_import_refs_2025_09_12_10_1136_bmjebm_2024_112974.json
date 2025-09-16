@@ -1,0 +1,497 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_bmjebm_2024_112974.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_bmjebm_2024_112974",
+  "doi": "10.1136/bmjebm-2024-112974",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:48.995713Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            30
+          ]
+        ],
+        "date-time": "2025-08-30T16:48:43Z",
+        "timestamp": 1756572523775,
+        "version": "3.40.1"
+      },
+      "reference-count": 48,
+      "publisher": "BMJ",
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "BMJ EBM"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            10
+          ]
+        ]
+      },
+      "abstract": "<jats:sec><jats:title>Objectives</jats:title><jats:p>To investigate the efficacy of non-surgical and non-interventional treatments for adults with low back pain compared with placebo.</jats:p></jats:sec><jats:sec><jats:title>Eligibility criteria</jats:title><jats:p>Randomised controlled trials evaluating non-surgical and non-interventional treatments compared with placebo or sham in adults (≥18 years) reporting non-specific low back pain.</jats:p></jats:sec><jats:sec><jats:title>Information sources</jats:title><jats:p>MEDLINE, CINAHL, EMBASE, PsychInfo and Cochrane Central Register of Controlled Trials were searched from inception to 14 April 2023.</jats:p></jats:sec><jats:sec><jats:title>Risk of bias</jats:title><jats:p>Risk of bias of included studies was assessed using the 0 to 10 PEDro Scale.</jats:p></jats:sec><jats:sec><jats:title>Synthesis of results</jats:title><jats:p>Random effects meta-analysis was used to estimate pooled effects and corresponding 95% confidence intervals on outcome pain intensity (0 to 100 scale) at first assessment post-treatment for each treatment type and by duration of low back pain—(sub)acute (&lt;12 weeks) and chronic (≥12 weeks). Certainty of the evidence was assessed using the Grading of Recommendations Assessment (GRADE) approach.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>A total of 301 trials (377 comparisons) provided data on 56 different treatments or treatment combinations. One treatment for acute low back pain (non-steroidal anti-inflammatory drugs (NSAIDs)), and five treatments for chronic low back pain (exercise, spinal manipulative therapy, taping, antidepressants, transient receptor potential vanilloid 1 (TRPV1) agonists) were efficacious; effect sizes were small and of moderate certainty. Three treatments for acute low back pain (exercise, glucocorticoid injections, paracetamol), and two treatments for chronic low back pain (antibiotics, anaesthetics) were not efficacious and are unlikely to be suitable treatment options; moderate certainty evidence. Evidence is inconclusive for remaining treatments due to small samples, imprecision, or low and very low certainty evidence.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>The current evidence shows that one in 10 non-surgical and non-interventional treatments for low back pain are efficacious, providing only small analgesic effects beyond placebo. The efficacy for the majority of treatments is uncertain due to the limited number of randomised participants and poor study quality. Further high-quality, placebo-controlled trials are warranted to address the remaining uncertainty in treatment efficacy along with greater consideration for placebo-control design of non-surgical and non-interventional treatments.</jats:p></jats:sec><jats:sec><jats:title>Trial registration number</jats:title><jats:p>OSF Registries;<jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://osf.io/2dk9z\">https://osf.io/2dk9z</jats:ext-link>.</jats:p></jats:sec>",
+      "DOI": "10.1136/bmjebm-2024-112974",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            19
+          ]
+        ],
+        "date-time": "2025-03-19T00:00:12Z",
+        "timestamp": 1742342412000
+      },
+      "page": "bmjebm-2024-112974",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 3,
+      "title": [
+        "Analgesic effects of non-surgical and non-interventional treatments for low back pain: a systematic review and meta-analysis of placebo-controlled randomised trials"
+      ],
+      "prefix": "10.1136",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-4190-7912",
+          "authenticated-orcid": false,
+          "given": "Aidan G",
+          "family": "Cashin",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Bradley M",
+          "family": "Furlong",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Steven J",
+          "family": "Kamper",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Diana",
+          "family": "De Carvalho",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Luciana AC",
+          "family": "Machado",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Simon RE",
+          "family": "Davidson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Krystal K",
+          "family": "Bursey",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christina",
+          "family": "Abdel Shaheed",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Amanda M",
+          "family": "Hall",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            18
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/art.34347"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(20)30925-9"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(18)30480-X"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMcp2032396"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(18)30488-4"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-018-5673-2"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/s0140-6736(18)30489-6"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/rheumatology/ken470"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.9",
+          "unstructured": "OSF Registries . Analgesic effects of conservative treatments for non-specific low back pain and sciatica: an updated meta-analysis of placebo-controlled randomized trials. Available: https://osf.io/2dk9z [Accessed 08 Nov 2022]."
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.10",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmj.n71",
+          "article-title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+          "volume": "372",
+          "author": "Page",
+          "year": "2021",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.11",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Cashin AG , McAuley JH , Lamb SE , et al . Disentangling contextual effects from musculoskeletal treatments. In: Osteoarthritis and Cartilage. W.B. Saunders Ltd, 2021: 297–9.",
+          "DOI": "10.1016/j.joca.2020.12.011"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.12",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmj.m1668",
+          "article-title": "Placebos in chronic pain: evidence, theory, ethics, and use in clinical practice",
+          "volume": "370",
+          "author": "Kaptchuk",
+          "year": "2020",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/j.pain.0000000000002919"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.332.7555.1430"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(16)30970-9"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e3181a103b1"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-015-3892-3"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.physio.2021.03.005"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/art.24162"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0000000000001061"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.21",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Higgins JP , Thomas J , Chandler J , et al . Cochrane Handbook for Systematic Reviews of Interventions. 2nd edn. Chichester (UK): John Wiley & Sons, 2019. Available: https://training.cochrane.org/handbook/current",
+          "DOI": "10.1002/9781119536604"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/ptj/83.8.713"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jphys.2019.08.005"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2020.06.025"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2010.07.015"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.39489.470347.AD"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/j.pain.0000000000002723"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3899/jrheum.141440"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.29",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s12874-022-01763-x",
+          "article-title": "Rescaling pain intensity measures for meta-analyses of analgesic medicines for low back pain appears justified: an empirical examination from randomised trials",
+          "volume": "22",
+          "author": "Wewege",
+          "year": "2022",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.30",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmj-2022-072415",
+          "article-title": "Efficacy, safety, and tolerability of antidepressants for pain in adults: overview of systematic reviews",
+          "volume": "380",
+          "author": "Ferreira",
+          "year": "2023",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/M16-2458"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmjebm-2021-111836"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/annrheumdis-2016-210597"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.34",
+          "article-title": "Exercise therapy for chronic low back pain",
+          "volume": "9",
+          "author": "Hayden",
+          "year": "2021",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2020.11.002"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.36",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wilhelmus Strijkers RH , Schreijenberg M , Gerger H , et al . Effectiveness of placebo interventions for patients with non-specific low back pain. Pain 2021. doi:10.1097/j.pain.0000000000002272",
+          "DOI": "10.1097/j.pain.0000000000002272"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.37",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmj-2021-067718",
+          "article-title": "Psychological interventions for chronic, non-specific low back pain: systematic review with network meta-analysis",
+          "volume": "376",
+          "author": "Ho",
+          "year": "2022",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(19)33137-X"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2012-091472"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/medethics-2016-103964"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.41",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Mu J , Furlan AD , Lam WY , et al . Acupuncture for chronic nonspecific low back pain. The Cochrane database of systematic reviews. NLM (Medline) 2020.:CD013814. doi:10.1002/14651858.CD013814",
+          "DOI": "10.1002/14651858.CD013814"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.42",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s13643-021-01599-4",
+          "article-title": "Efficacy, acceptability, and safety of antidepressants for low back pain: a systematic review and meta-analysis",
+          "volume": "10",
+          "author": "Ferraro",
+          "year": "2021",
+          "journal-title": "Syst Rev"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.43",
+          "article-title": "Pharmacological treatments for low back pain in adults: an overview of Cochrane Reviews",
+          "volume": "4",
+          "author": "Cashin",
+          "year": "2023",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.44",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bagg MK , O’Hagan E , Zahara P , et al . Reviews may overestimate the effectiveness of medicines for back pain: systematic review and meta-analysis. J Clin Epidemiol 2019. doi:10.1016/j.jclinepi.2019.12.006",
+          "DOI": "10.1016/j.jclinepi.2019.12.006"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.45",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmj.n1446",
+          "article-title": "Efficacy, acceptability, and safety of muscle relaxants for adults with non-specific low back pain: systematic review and meta-analysis",
+          "volume": "374",
+          "author": "Cashin",
+          "year": "2021",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.bjpt.2019.04.004"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/j.pain.0000000000002273"
+        },
+        {
+          "key": "2025031817000824000_bmjebm-2024-112974v1.48",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmj-2022-072108",
+          "article-title": "Recommendations for the development, implementation, and reporting of control interventions in efficacy and mechanistic trials of physical, psychological, and self-management therapies: the CoPPS Statement",
+          "volume": "381",
+          "author": "Hohenschurz-Schmidt",
+          "year": "2023",
+          "journal-title": "BMJ"
+        }
+      ],
+      "container-title": [
+        "BMJ Evidence-Based Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjebm-2024-112974",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            19
+          ]
+        ],
+        "date-time": "2025-03-19T00:00:22Z",
+        "timestamp": 1742342422000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://ebm.bmj.com/lookup/doi/10.1136/bmjebm-2024-112974"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            18
+          ]
+        ]
+      },
+      "references-count": 48,
+      "alternative-id": [
+        "10.1136/bmjebm-2024-112974"
+      ],
+      "URL": "https://doi.org/10.1136/bmjebm-2024-112974",
+      "relation": {},
+      "ISSN": [
+        "2515-446X",
+        "2515-4478"
+      ],
+      "issn-type": [
+        {
+          "value": "2515-446X",
+          "type": "print"
+        },
+        {
+          "value": "2515-4478",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            18
+          ]
+        ]
+      }
+    }
+  }
+}

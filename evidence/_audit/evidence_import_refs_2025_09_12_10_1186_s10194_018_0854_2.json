@@ -1,0 +1,548 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_s10194_018_0854_2.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_s10194_018_0854_2",
+  "doi": "10.1186/s10194-018-0854-2",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:04.285678Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T20:39:01Z",
+        "timestamp": 1757450341723,
+        "version": "3.37.3"
+      },
+      "reference-count": 24,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                3,
+                20
+              ]
+            ],
+            "date-time": "2018-03-20T00:00:00Z",
+            "timestamp": 1521504000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "J Headache Pain"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1186/s10194-018-0854-2",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            4,
+            3
+          ]
+        ],
+        "date-time": "2018-04-03T22:09:33Z",
+        "timestamp": 1522793373000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 44,
+      "title": [
+        "The epidemiology of headache disorders: a face-to-face interview of participants in HUNT4"
+      ],
+      "prefix": "10.1186",
+      "volume": "19",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-2111-8895",
+          "authenticated-orcid": false,
+          "given": "Knut",
+          "family": "Hagen",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Anders Nikolai",
+          "family": "Åsberg",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Benjamin L.",
+          "family": "Uhlig",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Erling",
+          "family": "Tronvik",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Eiliv",
+          "family": "Brenner",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Marit",
+          "family": "Stjern",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Grethe",
+          "family": "Helde",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gøril Bruvik",
+          "family": "Gravdahl",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Trond",
+          "family": "Sand",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            20
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "854_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "1147",
+          "DOI": "10.1016/0895-4356(91)90147-2",
+          "volume": "44",
+          "author": "BK Rasmussen",
+          "year": "1991",
+          "unstructured": "Rasmussen BK, Jensen R, Schroll M, Olesen J (1991) Epidemiology of headache in a general population - a prevalence study. J Clin Epideiol 44:1147–1157",
+          "journal-title": "J Clin Epideiol"
+        },
+        {
+          "key": "854_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "190",
+          "DOI": "10.1046/j.1526-4610.1999.3903190.x",
+          "volume": "39",
+          "author": "J Castillo",
+          "year": "1999",
+          "unstructured": "Castillo J, Muñoz P, Guitera V, Pascual J (1999) Epidemiology of chronic daily headache in the general population. Headache 39:190–196",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "854_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "207",
+          "DOI": "10.1046/j.1468-2982.2001.00189.x",
+          "volume": "21",
+          "author": "O Sjaastad",
+          "year": "2001",
+          "unstructured": "Sjaastad O, Pettersen H, Bakketeig LS (2001) The Vågå study, epidemiology of headache. The prevalence of ultrashort paroxysms. Cephalalgia 21:207–215",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "854_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "243",
+          "DOI": "10.1007/s10654-004-6519-2",
+          "volume": "20",
+          "author": "AC Lyngberg",
+          "year": "2005",
+          "unstructured": "Lyngberg AC, Rasmussen BK, Jorgensen T, Jensen R (2005) Has the prevalence of migraine and tension-type headache changed over a 12-year period? A Danish population survey. Eur J Epidemiol 20:243–249",
+          "journal-title": "Eur J Epidemiol"
+        },
+        {
+          "key": "854_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "76",
+          "DOI": "10.1159/000116244",
+          "volume": "30",
+          "author": "RB Grande",
+          "year": "2008",
+          "unstructured": "Grande RB, Aaseth K, Gulbransen P, Lundquist C, Russell MB (2008) Prevalence of primary chronic headache in a population-based sample of 30- to 44-year-old persons. The Akershus study of chronic headache. Neuroepidemiology 30:76–83",
+          "journal-title": "Neuroepidemiology"
+        },
+        {
+          "key": "854_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "289",
+          "DOI": "10.1007/s10194-008-0062-6",
+          "volume": "9",
+          "author": "K Hagen",
+          "year": "2008",
+          "unstructured": "Hagen K, Zwart JA, Aamodt AH, Nilsen KB, Bråthen G, Helde G, Stjern M, Tronvik EA, Stovner LJ (2008) A face-to-face interview of participants in HUNT 3: the impact of the screening question on headache prevalence. J Headache Pain 9:289–294",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "854_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "358",
+          "DOI": "10.1177/0333102411434811",
+          "volume": "32",
+          "author": "T Ferrante",
+          "year": "2012",
+          "unstructured": "Ferrante T, Castellini P, Abrignani G, Latte L, Russo M, Camarda C, Veronesi L, Pasquarella C, Manzoni GC, Torelli P (2012) The PACE study: past-year prevalence of migraine in Parma’s adult general population. Cephalalgia 32:358–365",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "854_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "35",
+          "DOI": "10.1007/s10072-014-1888-0",
+          "volume": "36",
+          "author": "T Ferrante",
+          "year": "2015",
+          "unstructured": "Ferrante T, Manzoni GC, Russo M, Taga A, Camarda C, Veronesi L, Pasquarella C, Sansebastiano G, Torelli P (2015) The PACE study: past-year prevalence of tension-type headache and its subtypes in Parma's adult general population. Neurol Sci 36:35–42",
+          "journal-title": "Neurol Sci"
+        },
+        {
+          "key": "854_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "232",
+          "DOI": "10.1080/01616412.2015.1114232",
+          "volume": "38",
+          "author": "MR Kandil",
+          "year": "2016",
+          "unstructured": "Kandil MR, Hamed SA, Fadel KA, Khalifa HE, Ghanem MK, Mohamed KO (2016) Migraine in Assiut governorate, Egypt: epidemiology, risk factors, comorbid conditions and predictors of change from episodic to chronic migraine. Neurol Res 38:232–241",
+          "journal-title": "Neurol Res"
+        },
+        {
+          "issue": "suppl. 187",
+          "key": "854_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "59",
+          "DOI": "10.1111/j.1600-0404.2007.00849.x",
+          "volume": "115",
+          "author": "MB Russell",
+          "year": "2007",
+          "unstructured": "Russell MB, Aaseth K, Grande RB, Gulbrandsen P, Lundqvist C (2007) Which strategy should be applied? Design of a Norwegian epidemiological survey on chronic headache. Acta Neurol Scand 115(suppl. 187):59–63",
+          "journal-title": "Acta Neurol Scand"
+        },
+        {
+          "key": "854_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "5",
+          "DOI": "10.1186/1129-2377-15-5",
+          "volume": "15",
+          "author": "LJ Stovner",
+          "year": "2014",
+          "unstructured": "Stovner LJ, Al Jumah M, Birbeck GL, Gururaj G, Jensen R, Katsarava Z, Queiroz LP, Scher AI, Tekle-Haimanot R, Wang SJ, Steiner TJ (2014) The methodology of population surveys of headache prevalence, burden and cost: principles and recommendations from the global campaign against headache. J Headache Pain 15:5",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "854_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "244",
+          "DOI": "10.1046/j.1468-2982.2000.00049.x",
+          "volume": "20",
+          "author": "K Hagen",
+          "year": "2000",
+          "unstructured": "Hagen K, Zwart JA, Vatten L, Stovner LJ, Bovim G (2000) Head-HUNT: validity and reliability of a headache questionnaire in a large population-based study in Norway. Cephalalgia 20:244–251",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "854_CR13",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Headache Classification Committee of the International Headache Society (IHS). The international classification of headache disorders (IHS), 3rd edition (2018). 38:1–211. Cephalalgia",
+          "DOI": "10.1177/0333102417738202"
+        },
+        {
+          "key": "854_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "173",
+          "DOI": "10.1111/j.1600-0404.2007.00962.x",
+          "volume": "117",
+          "author": "O Sjaastad",
+          "year": "2008",
+          "unstructured": "Sjaastad O, Bakketeig LS (2008) Prevalence of cervicogenic headache: Vågå study of headache epidemiology. Acta Neurol Scand 117:173–180",
+          "journal-title": "Acta Neurol Scand"
+        },
+        {
+          "key": "854_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "377",
+          "DOI": "10.1111/j.1600-0404.2007.00966.x",
+          "volume": "117",
+          "author": "O Sjaastad",
+          "year": "2008",
+          "unstructured": "Sjaastad O, Bakketeig LS (2008) Migraine without aura: comparison with cervicogenic headache. Vågå study of headache epidemiology. Acta Neurol Scand 117:377–383",
+          "journal-title": "Acta Neurol Scand"
+        },
+        {
+          "key": "854_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "127",
+          "DOI": "10.1007/s10194-006-0301-7",
+          "volume": "7",
+          "author": "O Sjaastad",
+          "year": "2006",
+          "unstructured": "Sjaastad O, Bakketeig LS, Petersen HC (2006) Migraine with aura: visual disturbances and interrelationship with the pain phase. Vågå study of headache epidemiology. J Headache Pain 7:127–135",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "854_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "204",
+          "DOI": "10.1016/S1474-4422(04)00703-3",
+          "volume": "3",
+          "author": "TJ Steiner",
+          "year": "2004",
+          "unstructured": "Steiner TJ (2004) Lifting the burden: the global campaign against headache. Lancet Neurol 3:204–205",
+          "journal-title": "Lancet Neurol"
+        },
+        {
+          "key": "854_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "33",
+          "DOI": "10.1186/1129-2377-15-33",
+          "volume": "15",
+          "author": "C Andrée",
+          "year": "2014",
+          "unstructured": "Andrée C, Steiner TJ, Barré J, Katsarava Z, Lainez JM, Lampl C, Lantéri-Minet M, Rastenyte D, Ruiz de la Torre E, Tassorelli C, Stovner LJ (2014) Headache yesterday in Europe. J Headache Pain 15:33",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "854_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "528",
+          "DOI": "10.1046/j.1468-2982.2003.00585.x",
+          "volume": "23",
+          "author": "O Sjaastad",
+          "year": "2003",
+          "unstructured": "Sjaastad O, Bakketeig LS (2003) Cluster headache prevalence. Vågå study of headache epidemiology. Cephalalgia 23:528–533",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "854_CR20",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Uhlig BL, Sand T, Odegård SS, Hagen K. Prevalence and associated factors of DSM-V Insomnia in Norway. The HUNT 3 study. Sleep Med 15:708–713",
+          "DOI": "10.1016/j.sleep.2014.01.018"
+        },
+        {
+          "key": "854_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "1657",
+          "DOI": "10.1111/j.1526-4637.2011.01240.x",
+          "volume": "12",
+          "author": "K Hagen",
+          "year": "2011",
+          "unstructured": "Hagen K, Linde M, Heuch I, Stovner LJ, Zwart JA (2011) Increasing prevalence of chronic musculoskeletal complaints. A large 11-year follow-up in the general population (HUNT 2 and 3). Pain Med 12:1657–1666",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "854_CR22",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Ødegård SS, Sand T, Engstrøm M, Stovner LJ, Zwart JA, Hagen K (2011) The long-term effect of insomnia on primary headaches. A prospective population-based cohort study. Headache 51(4):570–80. doi: https://doi.org/10.1111/j.1526-4610.2011.01859.x",
+          "DOI": "10.1111/j.1526-4610.2011.01859.x"
+        },
+        {
+          "key": "854_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "24",
+          "DOI": "10.1186/1129-2377-14-24",
+          "volume": "14",
+          "author": "SS Ødegård",
+          "year": "2013",
+          "unstructured": "Ødegård SS, Sand T, Engstrøm M, Zwart JA, Hagen K (2013) The impact of headache and chronic musculoskeletal complaints on the risk of insomnia: longitudinal data from the Nord-Trøndelag health study. J Headache Pain 14:24",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "854_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "745",
+          "DOI": "10.1177/0333102414540058",
+          "volume": "34",
+          "author": "BL Uhlig",
+          "year": "2014",
+          "unstructured": "Uhlig BL, Engstrøm M, Ødegård SS, Hagen K, Sand T (2014) Headache and insomnia in population-based studies. Cephalalgia 34:745–751",
+          "journal-title": "Cephalalgia"
+        }
+      ],
+      "container-title": [
+        "The Journal of Headache and Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/article/10.1186/s10194-018-0854-2/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s10194-018-0854-2.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s10194-018-0854-2.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            13
+          ]
+        ],
+        "date-time": "2019-10-13T21:18:47Z",
+        "timestamp": 1571001527000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://thejournalofheadacheandpain.biomedcentral.com/articles/10.1186/s10194-018-0854-2"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            20
+          ]
+        ]
+      },
+      "references-count": 24,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "854"
+      ],
+      "URL": "https://doi.org/10.1186/s10194-018-0854-2",
+      "relation": {},
+      "ISSN": [
+        "1129-2369",
+        "1129-2377"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1129-2369"
+        },
+        {
+          "type": "electronic",
+          "value": "1129-2377"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            20
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "14 February 2018",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "14 March 2018",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "20 March 2018",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "The authors declare that they have no competing interests..",
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        },
+        {
+          "value": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Publisher’s Note"
+          }
+        }
+      ],
+      "article-number": "25"
+    }
+  }
+}

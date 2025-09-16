@@ -1,0 +1,992 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1038_s41598_017_09429_1.md",
+  "id": "evidence_import_refs_2025_09_12_10_1038_s41598_017_09429_1",
+  "doi": "10.1038/s41598-017-09429-1",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:13.541921Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            4
+          ]
+        ],
+        "date-time": "2025-07-04T11:49:40Z",
+        "timestamp": 1751629780301
+      },
+      "reference-count": 69,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                8,
+                29
+              ]
+            ],
+            "date-time": "2017-08-29T00:00:00Z",
+            "timestamp": 1503964800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                8,
+                29
+              ]
+            ],
+            "date-time": "2017-08-29T00:00:00Z",
+            "timestamp": 1503964800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Sci Rep"
+      ],
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>Does <jats:italic>feeling</jats:italic> back stiffness actually reflect <jats:italic>having</jats:italic> a stiff back? This research interrogates the long-held question of what informs our subjective experiences of bodily state. We propose a new hypothesis: <jats:italic>feelings</jats:italic> of back stiffness are a protective perceptual construct, rather than reflecting biomechanical properties of the back. This has far-reaching implications for treatment of pain/stiffness but also for our understanding of bodily feelings. Over three experiments, we challenge the prevailing view by showing that <jats:italic>feeling</jats:italic> stiff does not relate to objective spinal measures of stiffness and objective back stiffness does not differ between those who report <jats:italic>feeling</jats:italic> stiff and those who do not. Rather, those who report <jats:italic>feeling</jats:italic> stiff exhibit self-protective responses: they significantly overestimate force applied to their spine, yet are better at detecting changes in this force than those who do not report <jats:italic>feeling</jats:italic> stiff. This perceptual error can be manipulated: providing auditory input in synchrony to forces applied to the spine modulates prediction accuracy in both groups, without altering actual stiffness, demonstrating that feeling stiff is a multisensory perceptual inference consistent with protection. Together, this presents a compelling argument against the prevailing view that <jats:italic>feeling</jats:italic> stiff is an isomorphic marker of the biomechanical characteristics of the back.</jats:p>",
+      "DOI": "10.1038/s41598-017-09429-1",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2017,
+            8,
+            22
+          ]
+        ],
+        "date-time": "2017-08-22T11:28:50Z",
+        "timestamp": 1503401330000
+      },
+      "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 34,
+      "title": [
+        "Feeling stiffness in the back: a protective perceptual inference in chronic back pain"
+      ],
+      "prefix": "10.1038",
+      "volume": "7",
+      "author": [
+        {
+          "given": "Tasha R.",
+          "family": "Stanton",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "G. Lorimer",
+          "family": "Moseley",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Arnold Y. L.",
+          "family": "Wong",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gregory N.",
+          "family": "Kawchuk",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            8,
+            29
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "9429_CR1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Eccleston, C. Embodied: The psychology of physical sensation. 1st edn, (Oxford University Press, 2016).",
+          "DOI": "10.1093/acprof:oso/9780198727903.003.0001"
+        },
+        {
+          "key": "9429_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "807",
+          "DOI": "10.1016/j.jpain.2015.05.005",
+          "volume": "16",
+          "author": "GL Moseley",
+          "year": "2015",
+          "unstructured": "Moseley, G. L. & Butler, D. S. Fifteen years of Explaining Pain: The past, present, and future. J Pain \n                           16, 807–813 (2015).",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "9429_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "73",
+          "DOI": "10.1016/S1836-9553(12)70085-1",
+          "volume": "58",
+          "author": "MT Williams",
+          "year": "2012",
+          "unstructured": "Williams, M. T., Gerlach, Y. & Moseley, G. L. The ‘survival perceptions’: time to put some Bacon on our plates? J Physiother \n                           58, 73–75 (2012).",
+          "journal-title": "J Physiother"
+        },
+        {
+          "key": "9429_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "2601",
+          "DOI": "10.1523/JNEUROSCI.4031-11.2012",
+          "volume": "32",
+          "author": "MR Longo",
+          "year": "2012",
+          "unstructured": "Longo, M. R., Iannetti, G. D., Mancini, F., Driver, J. & Haggard, P. Linking pain and the body: Neural correlates of visually induced analgesia. The Journal of Neuroscience \n                           32, 2601–2607 (2012).",
+          "journal-title": "The Journal of Neuroscience"
+        },
+        {
+          "key": "9429_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "64",
+          "DOI": "10.1016/j.pain.2007.03.002",
+          "volume": "133",
+          "author": "GL Moseley",
+          "year": "2007",
+          "unstructured": "Moseley, G. L. & Arntz, A. The context of a noxious stimulus affects the pain it evokes. Pain \n                           133, 64–71 (2007).",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "9429_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "325",
+          "DOI": "10.1177/0956797611398496",
+          "volume": "22",
+          "author": "F Mancini",
+          "year": "2011",
+          "unstructured": "Mancini, F., Longo, M. R., Kammers, M. P. M. & Haggard, P. Visual distortion of body size modulates pain perception. Psychological Science \n                           22, 325–330 (2011).",
+          "journal-title": "Psychological Science"
+        },
+        {
+          "key": "9429_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "R1047",
+          "DOI": "10.1016/j.cub.2008.09.031",
+          "volume": "18",
+          "author": "GL Moseley",
+          "year": "2008",
+          "unstructured": "Moseley, G. L., Parsons, T. J. & Spence, C. Visual distortion of a limb modulates the pain and swelling evoked by movement. Current Biology \n                           18, R1047–R1048 (2008).",
+          "journal-title": "Current Biology"
+        },
+        {
+          "key": "9429_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "R945",
+          "DOI": "10.1016/j.cub.2011.10.039",
+          "volume": "21",
+          "author": "N Barnsley",
+          "year": "2011",
+          "unstructured": "Barnsley, N. et al. The rubber hand illusion increases histamine reactivity in the real arm. Curr Biol \n                           21, R945–946 (2011).",
+          "journal-title": "Curr Biol"
+        },
+        {
+          "key": "9429_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "13169",
+          "DOI": "10.1073/pnas.0803768105",
+          "volume": "105",
+          "author": "GL Moseley",
+          "year": "2008",
+          "unstructured": "Moseley, G. L. et al. Psychologically induced cooling of a specific body part caused by the illusory ownership of an artificial counterpart. Proc Natl Acad Sci USA \n                           105, 13169–13173 (2008).",
+          "journal-title": "Proc Natl Acad Sci USA"
+        },
+        {
+          "key": "9429_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "18798",
+          "DOI": "10.1073/pnas.0907151106",
+          "volume": "106",
+          "author": "GL Moseley",
+          "year": "2009",
+          "unstructured": "Moseley, G. L. & Brugger, P. Interdependence of movement and anatomy persists when amputees learn a physiologically impossible movement of their phantom limb. PNAS \n                           106, 18798–18802 (2009).",
+          "journal-title": "PNAS"
+        },
+        {
+          "key": "9429_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "34",
+          "DOI": "10.1016/j.neubiorev.2011.03.013",
+          "volume": "36",
+          "author": "GL Moseley",
+          "year": "2012",
+          "unstructured": "Moseley, G. L., Gallace, A. & Spence, C. Bodily illusions in health and disease: physiological and clinical perspectives and the concept of a cortical ‘body matrix’. Neurosci Biobehav Rev \n                           36, 34–46 (2012).",
+          "journal-title": "Neurosci Biobehav Rev"
+        },
+        {
+          "key": "9429_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "701",
+          "DOI": "10.1002/ana.24616",
+          "volume": "79",
+          "author": "E Reid",
+          "year": "2016",
+          "unstructured": "Reid, E. et al. A new kind of spatial inattention associated with chronic limb pain? Ann Neurol \n                           79, 701–704 (2016).",
+          "journal-title": "Ann Neurol"
+        },
+        {
+          "key": "9429_CR13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0126758",
+          "volume": "10",
+          "author": "SL Mackie",
+          "year": "2015",
+          "unstructured": "Mackie, S. L. et al. “An impediment to living life”: why and how should we measure stiffness in polymyalgia rheumatica? PloS One \n                           10, e0126758 (2015).",
+          "journal-title": "PloS One"
+        },
+        {
+          "key": "9429_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "1662",
+          "DOI": "10.1002/acr.22374",
+          "volume": "66",
+          "author": "A Orbai",
+          "year": "2014",
+          "unstructured": "Orbai, A., Smith, K. C., Bartlett, S. J., De Leon, E. & Bingham, C. O. “Stiffness has different meanings, I think, to everyone”: Examining stiffness from the perspective of people living with rheumatoid arthritis. Arthritis Care Res \n                           66, 1662–1672 (2014).",
+          "journal-title": "Arthritis Care Res"
+        },
+        {
+          "key": "9429_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "888",
+          "DOI": "10.1093/rheumatology/keg243",
+          "volume": "42",
+          "author": "RC Haigh",
+          "year": "2003",
+          "unstructured": "Haigh, R. C., McCabe, C. S., Halligan, P. W. & Blake, D. R. Joint stiffness in a phantom limb: evidence of central nervous system involvement in rheumatoid arthritis. Rheumatology \n                           42, 888–892 (2003).",
+          "journal-title": "Rheumatology"
+        },
+        {
+          "key": "9429_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "1891",
+          "DOI": "10.1111/jgs.13070",
+          "volume": "62",
+          "author": "M Thakral",
+          "year": "2014",
+          "unstructured": "Thakral, M., Shi, L., Shmerling, R. H., Bean, J. F. & Leveille, S. G. A stiff price to pay: does joint stiffness predict disability in an older population. J Am Geriatr Soc \n                           62, 1891–1899 (2014).",
+          "journal-title": "J Am Geriatr Soc"
+        },
+        {
+          "key": "9429_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "2163",
+          "DOI": "10.1016/S0140-6736(12)61729-2",
+          "volume": "380",
+          "author": "T Vos",
+          "year": "2012",
+          "unstructured": "Vos, T. et al. Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990–2010: a systematic analysis for the Global Burdent of Disease Study 2010. Lancet \n                           380, 2163–2196 (2012).",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "9429_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "656",
+          "DOI": "10.1001/jama.299.6.656",
+          "volume": "299",
+          "author": "BI Martin",
+          "year": "2008",
+          "unstructured": "Martin, B. I. et al. Expenditures and health status among adults with back and neck problems. JAMA \n                           299, 656–664 (2008).",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "9429_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "62",
+          "DOI": "10.3122/jabfm.2009.01.080102",
+          "volume": "22",
+          "author": "RA Deyo",
+          "year": "2009",
+          "unstructured": "Deyo, R. A., Mirza, S. K., Turner, J. A. & Martin, B. I. Overtreating chronic back pain: Time to back off? Journal of the American Board of Family Medicine \n                           22, 62–68 (2009).",
+          "journal-title": "Journal of the American Board of Family Medicine"
+        },
+        {
+          "key": "9429_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "1961",
+          "DOI": "10.1016/j.pain.2013.05.024",
+          "volume": "154",
+          "author": "A Tabor",
+          "year": "2013",
+          "unstructured": "Tabor, A., Catley, M. J., Gandevia, S., Thacker, M. A. & Moseley, G. L. Perceptual bias in pain: A switch looks closer when it will relieve pain than when it won’t. Pain \n                           154, 1961–1965 (2013).",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "9429_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "1772",
+          "DOI": "10.1097/BRS.0b013e318216337d",
+          "volume": "36",
+          "author": "JM Fritz",
+          "year": "2011",
+          "unstructured": "Fritz, J. M. et al. Preliminary investigation of the mechanisms underlying the effects of manipulation: exploration of a multivariate model including spinal stiffness, multifidus recruitment, and clinical findings. Spine \n                           36, 1772–1781 (2011).",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "9429_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "339",
+          "DOI": "10.3109/08990229209144782",
+          "volume": "9",
+          "author": "AW Goodwin",
+          "year": "1992",
+          "unstructured": "Goodwin, A. W. & Wheat, H. E. Magnitude estimation of contact force when objects with different shapes are applied passively to the fingerpad. Somatosens Mot Res \n                           9, 339–344 (1992).",
+          "journal-title": "Somatosens Mot Res"
+        },
+        {
+          "key": "9429_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "2503",
+          "DOI": "10.1016/0042-6989(95)00016-X",
+          "volume": "35",
+          "author": "B Treutwein",
+          "year": "1995",
+          "unstructured": "Treutwein, B. Minireview: Adaptive psychophysical procedures. Vision Res \n                           35, 2503–2522 (1995).",
+          "journal-title": "Vision Res"
+        },
+        {
+          "key": "9429_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "754",
+          "DOI": "10.1136/ard.47.9.754",
+          "volume": "47",
+          "author": "PS Helliwell",
+          "year": "1988",
+          "unstructured": "Helliwell, P. S., Howe, A. & Wright, V. Lack of objective evidence of stiffness in rheumatoid arthritis. Annals of the Rheumatic Diseases \n                           47, 754–758 (1988).",
+          "journal-title": "Annals of the Rheumatic Diseases"
+        },
+        {
+          "key": "9429_CR25",
+          "first-page": "1052",
+          "volume": "26",
+          "author": "S Lineker",
+          "year": "1999",
+          "unstructured": "Lineker, S., Badley, E., Charles, C., Hart, L. & Streiner, D. Defining morning stiffness in rheumatoid arthritis. J Rheumatol \n                           26, 1052–1057 (1999).",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "key": "9429_CR26",
+          "first-page": "203",
+          "volume": "160",
+          "author": "V Wright",
+          "year": "1960",
+          "unstructured": "Wright, V. & Johns, R. J. Physical factors concerned with the stiffness of normal and diseased joints. Bull Johns Hopkins Hosp \n                           160, 203–207 (1960).",
+          "journal-title": "Bull Johns Hopkins Hosp"
+        },
+        {
+          "key": "9429_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "169",
+          "DOI": "10.1179/108331907X223010",
+          "volume": "12",
+          "author": "GL Moseley",
+          "year": "2007",
+          "unstructured": "Moseley, G. L. Reconceptualising pain according to modern pain science. Phys Ther Rev \n                           12, 169–178 (2007).",
+          "journal-title": "Phys Ther Rev"
+        },
+        {
+          "key": "9429_CR28",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Mihelj, M. & Podobnik, J. Haptics for virtual reality and teleoperation. (Spinger, 2012).",
+          "DOI": "10.1007/978-94-007-5718-9"
+        },
+        {
+          "key": "9429_CR29",
+          "first-page": "587",
+          "volume": "19",
+          "author": "J Latimer",
+          "year": "1996",
+          "unstructured": "Latimer, J., Lee, M., Adams, R. D. & Moran, C. M. An investigation of the relationship between low back pain and lumbar posteroanterior stiffness. J Manipulative Physiol Ther \n                           19, 587–591 (1996).",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "9429_CR30",
+          "first-page": "127",
+          "volume": "7",
+          "author": "RR Brodeur",
+          "year": "1999",
+          "unstructured": "Brodeur, R. R. & DelRe, L. Stiffness of the thoraco-lumbar spine for subjects with and without low back pain. Neuromusculoskeletal System \n                           7, 127–133 (1999).",
+          "journal-title": "Neuromusculoskeletal System"
+        },
+        {
+          "key": "9429_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "1329",
+          "DOI": "10.1097/BRS.0000000000000981",
+          "volume": "40",
+          "author": "AYL Wong",
+          "year": "2015",
+          "unstructured": "Wong, A. Y. L., Parent, E. C., Dhillon, S. S., Prasad, N. & Kawchuk, G. N. Do participants with low back pain who respond to spinal manipulative therapy differ biomechanically from nonresponders, untreated controls or asymptomatic controls? Spine \n                           40, 1329–1337 (2015).",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "9429_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "239",
+          "DOI": "10.1016/j.pain.2008.08.001",
+          "volume": "140",
+          "author": "GL Moseley",
+          "year": "2008",
+          "unstructured": "Moseley, G. L. I can’t find it! Distorted body image and tactile dysfunction in patients with chronic back pain. Pain \n                           140, 239–243 (2008).",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "9429_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "317",
+          "DOI": "10.1016/j.physio.2010.02.005",
+          "volume": "96",
+          "author": "BM Wand",
+          "year": "2010",
+          "unstructured": "Wand, B. M., Di Pietro, F., George, P. & O’Connell, N. E. Tactile thresholds are preserved yet complex sensory function is impaired over the lumbar spine of chronic non-specific low back pain patients: a preliminary investigation. Physiotherapy \n                           96, 317–323 (2010).",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "9429_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "985",
+          "DOI": "10.1016/j.jpain.2014.06.009",
+          "volume": "15",
+          "author": "MJ Catley",
+          "year": "2014",
+          "unstructured": "Catley, M. J., O’Connell, N. E., Berryman, C., Ayhan, F. F. & Moseley, G. L. Is tactile acuity altered in people with chronic pain? A systematic review and meta-analysis. J Pain \n                           15, 985–1000 (2014).",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "9429_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "168",
+          "DOI": "10.1136/bjsm.2009.061978",
+          "volume": "45",
+          "author": "H Bray",
+          "year": "2011",
+          "unstructured": "Bray, H. & Moseley, G. L. Disrupted working body schema of the turnk in people with back pain. Br J Sport Med \n                           45, 168–173 (2011).",
+          "journal-title": "Br J Sport Med"
+        },
+        {
+          "key": "9429_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "437",
+          "DOI": "10.1136/bjsm.2009.060731",
+          "volume": "45",
+          "author": "H Luomajoki",
+          "year": "2011",
+          "unstructured": "Luomajoki, H. & Moseley, G. L. Tactile acuity and lumbopelvic motor control in patients with back pain and healthy controls. Br J Sports Med \n                           45, 437–440 (2011).",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "9429_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "693",
+          "DOI": "10.1212/01.WNL.0000134661.46658.B0",
+          "volume": "24",
+          "author": "C Maihofner",
+          "year": "2004",
+          "unstructured": "Maihofner, C., Handwerker, H. O., Neundorfer, B. & Birklein, F. Cortical reorganization during recovery from complex regional pain syndrome. Neurology \n                           24, 693–701 (2004).",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "9429_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "5",
+          "DOI": "10.1016/S0304-3940(97)13441-3",
+          "volume": "224",
+          "author": "H Flor",
+          "year": "1997",
+          "unstructured": "Flor, H., Braun, C., Elbert, T. & Birbaumer, N. Extensive reorganization of primary somatosensory cortex in chronic back pain patients. Neurosci Lett \n                           224, 5–8 (1997).",
+          "journal-title": "Neurosci Lett"
+        },
+        {
+          "key": "9429_CR39",
+          "doi-asserted-by": "publisher",
+          "first-page": "356",
+          "DOI": "10.1037/0033-2909.125.3.356",
+          "volume": "125",
+          "author": "C Eccleston",
+          "year": "1999",
+          "unstructured": "Eccleston, C. & Crombez, G. Pain demands attention: a cognitive-affective model of the interruptive function of pain. Psychol Bull \n                           125, 356–366 (1999).",
+          "journal-title": "Psychol Bull"
+        },
+        {
+          "key": "9429_CR40",
+          "doi-asserted-by": "publisher",
+          "first-page": "111",
+          "DOI": "10.1016/S0304-3959(02)00290-7",
+          "volume": "100",
+          "author": "S Van Damme",
+          "year": "2002",
+          "unstructured": "Van Damme, S., Crombez, G. & Eccleston, C. Retarded disengagement from pain cues: the effects of pain catastrophizing and pain expectancy. Pain \n                           100, 111–118 (2002).",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "9429_CR41",
+          "doi-asserted-by": "publisher",
+          "first-page": "227",
+          "DOI": "10.1016/j.ejpain.2003.08.005",
+          "volume": "8",
+          "author": "S Van Damme",
+          "year": "2004",
+          "unstructured": "Van Damme, S., Crombez, G., Eccleston, C. & Goubert, L. Impared disengagement from threatening cues of impending pain in a crossmodal cueing paradigm. Eur J Pain \n                           8, 227–236 (2004).",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "9429_CR42",
+          "doi-asserted-by": "publisher",
+          "first-page": "219",
+          "DOI": "10.2466/24.PMS.120v13x1",
+          "volume": "120",
+          "author": "L Van Hulle",
+          "year": "2015",
+          "unstructured": "Van Hulle, L., Durnez, W., Crombez, G. & Van Damme, S. Detection of tactile change on a bodily location where pain is expected. Percept Mot Skills \n                           120, 219–231 (2015).",
+          "journal-title": "Percept Mot Skills"
+        },
+        {
+          "key": "9429_CR43",
+          "doi-asserted-by": "publisher",
+          "first-page": "295",
+          "DOI": "10.1007/s00221-012-3311-5",
+          "volume": "224",
+          "author": "L Van Hulle",
+          "year": "2013",
+          "unstructured": "Van Hulle, L., Van Damme, S., Spence, C., Crombez, G. & Gallace, A. Spatial attention modulates tactile change detection. Exp Brain Res \n                           224, 295–302 (2013).",
+          "journal-title": "Exp Brain Res"
+        },
+        {
+          "key": "9429_CR44",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Sussman, T. J., Weinberg, A., Szekely, A., Hajcak, G. & Mohanty, A. Here comes trouble: prestimulus brain activity predicts enhanced perception of threat. Cerebral Cortex, 1–13, doi:10.1093/cercor/bhw104 (2016).",
+          "DOI": "10.1093/cercor/bhw104"
+        },
+        {
+          "key": "9429_CR45",
+          "doi-asserted-by": "publisher",
+          "first-page": "880",
+          "DOI": "10.1152/jn.00731.2011",
+          "volume": "107",
+          "author": "CF Sambo",
+          "year": "2012",
+          "unstructured": "Sambo, C. F., Liang, M., Cruccu, G. & Iannetti, G. D. Defensive peripersonal space: the blink reflex evoked by hand stimulation is increased when the hand is near the face. J Neurophysiol \n                           107, 880–889 (2012).",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "key": "9429_CR46",
+          "doi-asserted-by": "publisher",
+          "first-page": "35",
+          "DOI": "10.1016/j.pain.0000000000000014",
+          "volume": "156",
+          "author": "GL Moseley",
+          "year": "2015",
+          "unstructured": "Moseley, G. L. & Vlaeyen, J. W. S. Beyond nociception: the imprecision hypothesis of chronic pain. Pain \n                           156, 35–38 (2015).",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "9429_CR47",
+          "doi-asserted-by": "publisher",
+          "first-page": "S90",
+          "DOI": "10.1016/j.pain.2010.10.020",
+          "volume": "152",
+          "author": "P Hodges",
+          "year": "2011",
+          "unstructured": "Hodges, P. & Tucker, K. Moving differently in pain: A new theory to explain the adaptation to pain. Pain \n                           152, S90–S98 (2011).",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "9429_CR48",
+          "doi-asserted-by": "publisher",
+          "first-page": "61",
+          "DOI": "10.1016/j.jbiomech.2008.10.001",
+          "volume": "42",
+          "author": "P Hodges",
+          "year": "2009",
+          "unstructured": "Hodges, P., van den Hoorn, W., Dawson, A. & Cholewicki, J. Changes in the mechanical properties of the trunk in low back pain may be associated with recurrence. J Biomech \n                           42, 61–66 (2009).",
+          "journal-title": "J Biomech"
+        },
+        {
+          "key": "9429_CR49",
+          "doi-asserted-by": "publisher",
+          "first-page": "45",
+          "DOI": "10.1016/j.clinbiomech.2016.03.006",
+          "volume": "34",
+          "author": "AY Wong",
+          "year": "2016",
+          "unstructured": "Wong, A. Y. et al. Does experimental low back pain change posteroanterior lumbar spinal stiffness and trunk muscle activity? A randomized crossover study. Clin Biomech \n                           34, 45–52 (2016).",
+          "journal-title": "Clin Biomech"
+        },
+        {
+          "key": "9429_CR50",
+          "doi-asserted-by": "publisher",
+          "first-page": "1651",
+          "DOI": "10.1152/physrev.00048.2011",
+          "volume": "92",
+          "author": "U Proske",
+          "year": "2012",
+          "unstructured": "Proske, U. & Gandevia, S. The proprioceptive senses: their role in signaling body shape, body position and movement, and muscle force. Physiol Rev \n                           92, 1651–1697 (2012).",
+          "journal-title": "Physiol Rev"
+        },
+        {
+          "key": "9429_CR51",
+          "doi-asserted-by": "publisher",
+          "first-page": "1181",
+          "DOI": "10.1016/j.pain.2013.03.002",
+          "volume": "154",
+          "author": "C Berryman",
+          "year": "2013",
+          "unstructured": "Berryman, C. et al. Evidence for working memory deficits in chronic pain: a systematic review and meta-analysis. Pain \n                           154, 1181–1196 (2013).",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "9429_CR52",
+          "doi-asserted-by": "publisher",
+          "first-page": "520",
+          "DOI": "10.1038/nrn3742",
+          "volume": "15",
+          "author": "BE Stein",
+          "year": "2014",
+          "unstructured": "Stein, B. E., Standford, T. R. & Rowland, B. A. Development of meultisensory integration from the perspective of the individual neuron. Nature Reviews Neuroscience \n                           15, 520–535 (2014).",
+          "journal-title": "Nature Reviews Neuroscience"
+        },
+        {
+          "key": "9429_CR53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/cercor/bhs166",
+          "author": "T Ro",
+          "year": "2012",
+          "unstructured": "Ro, T., Ellmore, T. M. & Beauchamp, M. S. A neural link between feeling and hearing. Cerebral Cortex. doi:10.1093/cercor/bhs166 (2012).",
+          "journal-title": "Cerebral Cortex"
+        },
+        {
+          "key": "9429_CR54",
+          "doi-asserted-by": "publisher",
+          "first-page": "77",
+          "DOI": "10.1016/S0926-6410(00)00024-0",
+          "volume": "10",
+          "author": "JJ Foxe",
+          "year": "2000",
+          "unstructured": "Foxe, J. J. et al. Multisensory auditory-somatosensory interactions in early cortical processing revealed by high-density electrical mapping. Cognitive Brain Research \n                           10, 77–83 (2000).",
+          "journal-title": "Cognitive Brain Research"
+        },
+        {
+          "key": "9429_CR55",
+          "doi-asserted-by": "publisher",
+          "first-page": "428",
+          "DOI": "10.1038/17115",
+          "volume": "397",
+          "author": "MSA Graziano",
+          "year": "1999",
+          "unstructured": "Graziano, M. S. A., Reiss, L. A. & Gross, C. G. A neuronal representatin of the location of nearby sounds. Nature \n                           397, 428–430 (1999).",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "9429_CR56",
+          "doi-asserted-by": "publisher",
+          "first-page": "159",
+          "DOI": "10.1007/s10339-004-0021-3",
+          "volume": "5",
+          "author": "M Avillac",
+          "year": "2004",
+          "unstructured": "Avillac, M., Olivier, E., Deneve, S., Hamed, S. B. & Duhamel, J.-R. Multisensory integration in multiple reference frames in the posterior parietal cortex. Cogn Process \n                           5, 159–166 (2004).",
+          "journal-title": "Cogn Process"
+        },
+        {
+          "key": "9429_CR57",
+          "doi-asserted-by": "publisher",
+          "first-page": "287",
+          "DOI": "10.1016/S0896-6273(01)00198-2",
+          "volume": "29",
+          "author": "F Bremmer",
+          "year": "2001",
+          "unstructured": "Bremmer, F. et al. Polymodal motion processing in posterior parietal and premotor cortex: a human fMRI study strongly implies equivalencies between humans and monkeys. Neuron \n                           29, 287–296 (2001).",
+          "journal-title": "Neuron"
+        },
+        {
+          "key": "9429_CR58",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0091688",
+          "volume": "9",
+          "author": "I Senna",
+          "year": "2014",
+          "unstructured": "Senna, I., Maravita, A., Bolognini, N. & Parise, C. V. The marble-hand illusion. PLOS ONE \n                           9, e91688, doi:10.1371/journal.pone.0091688 (2014).",
+          "journal-title": "PLOS ONE"
+        },
+        {
+          "key": "9429_CR59",
+          "doi-asserted-by": "publisher",
+          "first-page": "1519",
+          "DOI": "10.1016/j.pain.2013.03.039",
+          "volume": "154",
+          "author": "A Reinersmann",
+          "year": "2013",
+          "unstructured": "Reinersmann, A. et al. The rubber hand illusion in complex regional pain syndrome: preserved ability to integrate a rubber hand indicates intact multisensory integration. Pain \n                           154, 1519–1527 (2013).",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "9429_CR60",
+          "doi-asserted-by": "publisher",
+          "first-page": "797",
+          "DOI": "10.1177/1545968314524827",
+          "volume": "28",
+          "author": "BM Wand",
+          "year": "2014",
+          "unstructured": "Wand, B. M. et al. Illusory touch temporarily improves sensation in areas of chronic numbness: a brief communication. Neurorehabilitation and Neural Repair \n                           28, 797–799 (2014).",
+          "journal-title": "Neurorehabilitation and Neural Repair"
+        },
+        {
+          "key": "9429_CR61",
+          "doi-asserted-by": "publisher",
+          "first-page": "1277",
+          "DOI": "10.1136/bjsports-2014-094386",
+          "volume": "49",
+          "author": "E Rio",
+          "year": "2015",
+          "unstructured": "Rio, E. et al. Isometric exercise induces analgesia and reduces inhibition in patellar tendinopathy. Br J Sports Med \n                           49, 1277–1283 (2015).",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "9429_CR62",
+          "doi-asserted-by": "publisher",
+          "first-page": "126",
+          "DOI": "10.1016/j.jmpt.2005.11.015",
+          "volume": "29",
+          "author": "GN Kawchuk",
+          "year": "2006",
+          "unstructured": "Kawchuk, G. N., Liddle, T. R., Fauvel, O. R. & Johnston, C. The accuracy of ultrasonic indentation in detecting simulated bone displacement: A comparison of three techniques. Journal of Manipulative and Physiological Therapeutics \n                           29, 126–133 (2006).",
+          "journal-title": "Journal of Manipulative and Physiological Therapeutics"
+        },
+        {
+          "key": "9429_CR63",
+          "doi-asserted-by": "publisher",
+          "first-page": "197",
+          "DOI": "10.1016/j.math.2008.01.011",
+          "volume": "14",
+          "author": "TR Stanton",
+          "year": "2009",
+          "unstructured": "Stanton, T. R. & Kawchuk, G. N. Reliability of assisted indentation in measuring lumbar spinal stiffness. Manual Therapy \n                           14, 197–205 (2009).",
+          "journal-title": "Manual Therapy"
+        },
+        {
+          "key": "9429_CR64",
+          "doi-asserted-by": "publisher",
+          "first-page": "395",
+          "DOI": "10.1016/j.math.2013.02.003",
+          "volume": "18",
+          "author": "AY Wong",
+          "year": "2013",
+          "unstructured": "Wong, A. Y., Kawchuk, G. N., Parent, E. & Prasad, N. Within- and between-day reliability of spinal stiffness measurements obtained using a computer controlled mechanical indenter in individuals with and without low back pain. Man Ther \n                           18, 395–402 (2013).",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "9429_CR65",
+          "doi-asserted-by": "publisher",
+          "first-page": "232",
+          "DOI": "10.1111/j.1469-7580.2006.00686.x",
+          "volume": "210",
+          "author": "R Chakraverty",
+          "year": "2007",
+          "unstructured": "Chakraverty, R., Pynsent, P. & Isaacs, K. Which spinal levels are identified by palpation of the iliac crests and the posterior superior iliac spines? J Anat \n                           210, 232–236 (2007).",
+          "journal-title": "J Anat"
+        },
+        {
+          "key": "9429_CR66",
+          "doi-asserted-by": "publisher",
+          "first-page": "694",
+          "DOI": "10.1097/BRS.0b013e318166e034",
+          "volume": "33",
+          "author": "TR Stanton",
+          "year": "2008",
+          "unstructured": "Stanton, T. R. & Kawchuk, G. N. The effect of abdominal stabilization contractions on posteroanterior spinal stiffness. Spine \n                           33, 694–701 (2008).",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "9429_CR67",
+          "doi-asserted-by": "publisher",
+          "first-page": "776",
+          "DOI": "10.1093/ptj/81.2.776",
+          "volume": "81",
+          "author": "JM Fritz",
+          "year": "2001",
+          "unstructured": "Fritz, J. M. & Irrgang, J. J. A comparison of a Modified Oswestry Disability Questionnaire and the Quebec Back Pain Disability Scale. Phys Ther \n                           81, 776–788 (2001).",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "9429_CR68",
+          "doi-asserted-by": "publisher",
+          "first-page": "25",
+          "DOI": "10.1093/occmed/46.1.25",
+          "volume": "46",
+          "author": "TL Symonds",
+          "year": "1996",
+          "unstructured": "Symonds, T. L., Burton, A. K., Tillotson, K. M. & Main, C. J. Do attitudes and beliefs influence work loss due to low back trouble? Occup Med \n                           46, 25–32 (1996).",
+          "journal-title": "Occup Med"
+        },
+        {
+          "key": "9429_CR69",
+          "doi-asserted-by": "publisher",
+          "first-page": "301",
+          "DOI": "10.1111/j.2044-8260.1992.tb00997.x",
+          "volume": "31",
+          "author": "TM Marteau",
+          "year": "1992",
+          "unstructured": "Marteau, T. M. & Bekker, H. The development of a six-item short-form of the state scale of the Spielberger State-Trait Anxiety Inventory (STAI). British Journal of Clinical Psychology \n                           31, 301–306 (1992).",
+          "journal-title": "British Journal of Clinical Psychology"
+        }
+      ],
+      "container-title": [
+        "Scientific Reports"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.nature.com/articles/s41598-017-09429-1.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.nature.com/articles/s41598-017-09429-1",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.nature.com/articles/s41598-017-09429-1.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            23
+          ]
+        ],
+        "date-time": "2022-12-23T09:35:08Z",
+        "timestamp": 1671788108000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.nature.com/articles/s41598-017-09429-1"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            8,
+            29
+          ]
+        ]
+      },
+      "references-count": 69,
+      "journal-issue": {
+        "issue": "1",
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "9429"
+      ],
+      "URL": "https://doi.org/10.1038/s41598-017-09429-1",
+      "relation": {},
+      "ISSN": [
+        "2045-2322"
+      ],
+      "issn-type": [
+        {
+          "value": "2045-2322",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            8,
+            29
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "22 December 2016",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "27 July 2017",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "29 August 2017",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "TRS received travel and accommodation support from Eli Lilly Ltd. for speaking engagements (September 2014). GLM receives royalties for books on pain and rehabilitation and speaker’s fees for lectures on these topics. In the last 5 years, he has received support from Pfizer, workers’ compensation boards in Australia, Europe and North America, Kaiser Permanente USA, Agile Physiotherapy, USA, Results Physiotherapy, USA, the International Olympic Committee and the Port Adelaide Football Club. AYLW has no conflicts to declare. GNK receives speaker’s fees for lectures on related topics. He has received support from Aspen Medical Products and the Canadian Chiropractic Research Foundation.",
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing Interests"
+          }
+        }
+      ],
+      "article-number": "9681"
+    }
+  }
+}

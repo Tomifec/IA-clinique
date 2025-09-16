@@ -1,0 +1,520 @@
+{
+  "file": "evidence\\evidence_therapie_mecanique_rachis_10_1016_j_jacr_2021_10_007.md",
+  "id": "evidence_therapie_mecanique_rachis_10_1016_j_jacr_2021_10_007",
+  "doi": "10.1016/j.jacr.2021.10.007",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:09:14.142266Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            22
+          ]
+        ],
+        "date-time": "2025-08-22T05:07:19Z",
+        "timestamp": 1755839239648,
+        "version": "3.40.5"
+      },
+      "reference-count": 30,
+      "publisher": "Elsevier BV",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2022-02-01T00:00:00Z",
+            "timestamp": 1643673600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "jacr.org",
+          "clinicalkey.fr",
+          "clinicalkey.com.au",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of the American College of Radiology"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            2
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jacr.2021.10.007",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            11,
+            28
+          ]
+        ],
+        "date-time": "2021-11-28T20:43:27Z",
+        "timestamp": 1638132207000
+      },
+      "page": "329-335",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 4,
+      "special_numbering": "PB",
+      "title": [
+        "Do-It-Yourself Business Intelligence for the Radiologist—Lessons Learned From 10-Year Trends in an Abdominal Imaging Division at a Tertiary Medical Center"
+      ],
+      "prefix": "10.1016",
+      "volume": "19",
+      "author": [
+        {
+          "given": "Janis M.",
+          "family": "Yee",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5040-4340",
+          "authenticated-orcid": false,
+          "given": "Nathan",
+          "family": "Cross",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Puneet",
+          "family": "Bhargava",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "year": "2016",
+          "series-title": "The big data value chain: definitions, concepts and theoretical approaches. New horizons for a data-driven economy: a roadmap for usage and exploitation of big data in Europe",
+          "author": "Curry",
+          "key": "10.1016/j.jacr.2021.10.007_bib1"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "97",
+          "DOI": "10.1063/1.4907823",
+          "article-title": "What is big data? A consensual definition and a review of key research topics",
+          "volume": "1644",
+          "author": "De Mauro",
+          "year": "2015",
+          "journal-title": "AIP Conference Proceedings"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "580",
+          "DOI": "10.1016/j.jacr.2017.11.035",
+          "article-title": "Protecting your patients’ interests in the era of big data, artificial intelligence, and predictive analytics",
+          "volume": "15",
+          "author": "Balthazar",
+          "year": "2018",
+          "journal-title": "J Am Coll Radiol"
+        },
+        {
+          "author": "Baker",
+          "key": "10.1016/j.jacr.2021.10.007_bib4"
+        },
+        {
+          "author": "Imhoff",
+          "key": "10.1016/j.jacr.2021.10.007_bib5"
+        },
+        {
+          "author": "Stedman",
+          "key": "10.1016/j.jacr.2021.10.007_bib6"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "229",
+          "DOI": "10.1016/j.jacr.2013.02.011",
+          "article-title": "Imaging 3.0: what is it?",
+          "volume": "10",
+          "author": "Ellenbogen",
+          "year": "2013",
+          "journal-title": "J Am Coll Radiol"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1238",
+          "DOI": "10.1016/j.jacr.2014.09.008",
+          "article-title": "Business intelligence for the radiologist: making your data work for you",
+          "volume": "11",
+          "author": "Cook",
+          "year": "2014",
+          "journal-title": "J Am Coll Radiol"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "511",
+          "DOI": "10.1016/j.jacr.2019.12.022",
+          "article-title": "The importance of data analytics and business intelligence for radiologists",
+          "volume": "17",
+          "author": "Sigler",
+          "year": "2020",
+          "journal-title": "J Am Coll Radiol"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "645",
+          "DOI": "10.1007/s10278-016-9871-3",
+          "article-title": "A business analytics software tool for monitoring and predicting radiology throughput performance",
+          "volume": "29",
+          "author": "Jones",
+          "year": "2016",
+          "journal-title": "J Digit Imaging"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "283",
+          "DOI": "10.1016/j.jacr.2012.09.030",
+          "article-title": "Utilization of dashboard technology in academic radiology departments: results of a national survey",
+          "volume": "10",
+          "author": "Mansoori",
+          "year": "2013",
+          "journal-title": "J Am Coll Radiol"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "133",
+          "DOI": "10.1007/s10278-008-9167-3",
+          "article-title": "Business intelligence tools for radiology: creating a prototype model using open-source tools",
+          "volume": "23",
+          "author": "Prevedello",
+          "year": "2010",
+          "journal-title": "J Digit Imaging"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1897",
+          "DOI": "10.1148/rg.297095701",
+          "article-title": "Informatics in radiology: automated web-based graphical dashboard for radiology operational business intelligence",
+          "volume": "29",
+          "author": "Nagy",
+          "year": "2009",
+          "journal-title": "Radiographics"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "981",
+          "DOI": "10.1016/S1076-6332(00)80182-8",
+          "article-title": "Radiology quality and performance metrics on the web: a management information and communications tool",
+          "volume": "7",
+          "author": "Seltzer",
+          "year": "2000",
+          "journal-title": "Acad Radiol"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "868",
+          "DOI": "10.1016/j.jacr.2020.11.009",
+          "article-title": "A foundational guide to understanding radiology department business operations for trainees",
+          "volume": "18",
+          "author": "Parikh",
+          "year": "2021",
+          "journal-title": "J Am Coll Radiol"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "239",
+          "DOI": "10.1148/rg.351140064",
+          "article-title": "Strategic planning and radiology practice management in the new health care environment",
+          "volume": "35",
+          "author": "Sharpe",
+          "year": "2015",
+          "journal-title": "Radiographics"
+        },
+        {
+          "author": "Kliff",
+          "key": "10.1016/j.jacr.2021.10.007_bib18"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "894",
+          "DOI": "10.1016/j.jacr.2020.05.022",
+          "article-title": "Coronavirus disease 2019 (COVID-19): radiology department financial impact and planning for post-COVID recovery",
+          "volume": "17",
+          "author": "Mossa-Basha",
+          "year": "2020",
+          "journal-title": "J Am Coll Radiol"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1872",
+          "DOI": "10.1148/rg.2018180026",
+          "article-title": "Customer service in radiology: satisfying your patients and referrers",
+          "volume": "38",
+          "author": "Towbin",
+          "year": "2018",
+          "journal-title": "Radiographics"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "319",
+          "DOI": "10.2214/ajr.175.2.1750319",
+          "article-title": "Customer service and satisfaction in radiology",
+          "volume": "175",
+          "author": "Alderson",
+          "year": "2000",
+          "journal-title": "AJR Am J Roentgenol"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "1327",
+          "DOI": "10.2214/ajr.155.6.2122689",
+          "article-title": "Physician referrals to radiologists",
+          "volume": "155",
+          "author": "Lopiano",
+          "year": "1990",
+          "journal-title": "AJR Am J Roentgenol"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "4",
+          "DOI": "10.1097/RTI.0000000000000311",
+          "article-title": "Reinventing radiology: big data and the future of medical imaging",
+          "volume": "33",
+          "author": "Morris",
+          "year": "2018",
+          "journal-title": "J Thorac Imaging"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "843",
+          "DOI": "10.1001/jama.2019.11456",
+          "article-title": "Trends in use of medical imaging in US health care systems and in Ontario, Canada, 2000-2016",
+          "volume": "322",
+          "author": "Smith-Bindman",
+          "year": "2019",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "731",
+          "DOI": "10.2214/AJR.16.16435",
+          "article-title": "The top three health care developments impacting the practice of interventional radiology in the next decade",
+          "volume": "207",
+          "author": "Kwan",
+          "year": "2016",
+          "journal-title": "AJR Am J Roentgenol"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "449",
+          "DOI": "10.1016/j.jacr.2004.02.017",
+          "article-title": "Clinical IR: it’s now or never",
+          "volume": "1",
+          "author": "Brunner",
+          "year": "2004",
+          "journal-title": "J Am Coll Radiol"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "744",
+          "DOI": "10.1016/j.jacr.2007.12.008",
+          "article-title": "Recent trends in utilization rates of abdominal imaging: the relative roles of radiologists and nonradiologist physicians",
+          "volume": "5",
+          "author": "Levin",
+          "year": "2008",
+          "journal-title": "J Am Coll Radiol"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "415",
+          "DOI": "10.1007/s00261-017-1374-2",
+          "article-title": "The role of 18F-FDG PET/CT and PET/MRI in pancreatic ductal adenocarcinoma",
+          "volume": "43",
+          "author": "Yeh",
+          "year": "2018",
+          "journal-title": "Abdom Radiol"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "730",
+          "DOI": "10.2214/AJR.20.24567",
+          "article-title": "Borderline resectable and locally advanced pancreatic cancer: FDG PET/MRI and CT tumor metrics for assessment of pathologic response to neoadjuvant therapy and prediction of survival",
+          "volume": "217",
+          "author": "Panda",
+          "year": "2021",
+          "journal-title": "AJR Am J Roentgenol"
+        },
+        {
+          "author": "Grove",
+          "key": "10.1016/j.jacr.2021.10.007_bib30"
+        },
+        {
+          "key": "10.1016/j.jacr.2021.10.007_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1067/j.cpradiol.2015.09.002",
+          "article-title": "Building a radiology service line: key elements and necessary actions",
+          "volume": "45",
+          "author": "Hawkins",
+          "year": "2016",
+          "journal-title": "Curr Probl Diagn Radiol"
+        }
+      ],
+      "container-title": [
+        "Journal of the American College of Radiology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S154614402100867X?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S154614402100867X?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            2,
+            18
+          ]
+        ],
+        "date-time": "2022-02-18T21:06:38Z",
+        "timestamp": 1645218398000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S154614402100867X"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            2
+          ]
+        ]
+      },
+      "references-count": 30,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              2
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S154614402100867X"
+      ],
+      "URL": "https://doi.org/10.1016/j.jacr.2021.10.007",
+      "relation": {},
+      "ISSN": [
+        "1546-1440"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1546-1440"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            2
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Do-It-Yourself Business Intelligence for the Radiologist—Lessons Learned From 10-Year Trends in an Abdominal Imaging Division at a Tertiary Medical Center",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Journal of the American College of Radiology",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jacr.2021.10.007",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2021 American College of Radiology",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

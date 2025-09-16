@@ -1,0 +1,310 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_amjmed_2016_04_022.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_amjmed_2016_04_022",
+  "doi": "10.1016/j.amjmed.2016.04.022",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:29.562945Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T08:50:22Z",
+        "timestamp": 1757667022931,
+        "version": "3.44.0"
+      },
+      "reference-count": 6,
+      "publisher": "Elsevier BV",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2016-08-01T00:00:00Z",
+            "timestamp": 1470009600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2016-08-01T00:00:00Z",
+            "timestamp": 1470009600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "amjmed.com",
+          "clinicalkey.com",
+          "clinicalkey.com.au",
+          "clinicalkey.es",
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The American Journal of Medicine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.amjmed.2016.04.022",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2016,
+            5,
+            5
+          ]
+        ],
+        "date-time": "2016-05-05T16:19:29Z",
+        "timestamp": 1462465169000
+      },
+      "page": "769-770",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Should We SPRINT Toward New Blood Pressure Goals or Let the Dust Settle?"
+      ],
+      "prefix": "10.1016",
+      "volume": "129",
+      "author": [
+        {
+          "given": "Franz H.",
+          "family": "Messerli",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9485-0652",
+          "authenticated-orcid": false,
+          "given": "Sripal",
+          "family": "Bangalore",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "22",
+          "key": "10.1016/j.amjmed.2016.04.022_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "2103",
+          "DOI": "10.1056/NEJMoa1511939",
+          "article-title": "A randomized trial of intensive versus standard blood-pressure control",
+          "volume": "373",
+          "author": "Group",
+          "year": "2015",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.amjmed.2016.04.022_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "692",
+          "DOI": "10.7326/M15-3123",
+          "article-title": "Let's not SPRINT to judgment about new blood pressure goals",
+          "volume": "164",
+          "author": "Ortiz",
+          "year": "2016",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "issue": "25",
+          "key": "10.1016/j.amjmed.2016.04.022_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "2909",
+          "DOI": "10.1016/j.jacc.2015.11.011",
+          "article-title": "Unraveling the complexities of statistical presentation: why it is important",
+          "volume": "66",
+          "author": "Fuster",
+          "year": "2015",
+          "journal-title": "J Am Coll Cardiol"
+        },
+        {
+          "issue": "21",
+          "key": "10.1016/j.amjmed.2016.04.022_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "2009",
+          "DOI": "10.1056/NEJMoa1600175",
+          "article-title": "Blood-Pressure Lowering in Intermediate-Risk Persons without Cardiovascular Disease",
+          "volume": "374",
+          "author": "Lonn",
+          "year": "2016",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/j.amjmed.2016.04.022_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "i717",
+          "DOI": "10.1136/bmj.i717",
+          "article-title": "Effect of antihypertensive treatment at different blood pressure levels in patients with diabetes mellitus: systematic review and meta-analyses",
+          "volume": "352",
+          "author": "Brunstrom",
+          "year": "2016",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "24",
+          "key": "10.1016/j.amjmed.2016.04.022_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "2799",
+          "DOI": "10.1161/CIRCULATIONAHA.110.016337",
+          "article-title": "Blood pressure targets in subjects with type 2 diabetes mellitus/impaired fasting glucose: observations from traditional and bayesian random-effects meta-analyses of randomized trials",
+          "volume": "123",
+          "author": "Bangalore",
+          "year": "2011",
+          "journal-title": "Circulation"
+        }
+      ],
+      "container-title": [
+        "The American Journal of Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0002934316304600?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0002934316304600?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            11
+          ]
+        ],
+        "date-time": "2025-09-11T09:08:43Z",
+        "timestamp": 1757581723000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0002934316304600"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            8
+          ]
+        ]
+      },
+      "references-count": 6,
+      "journal-issue": {
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              8
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0002934316304600"
+      ],
+      "URL": "https://doi.org/10.1016/j.amjmed.2016.04.022",
+      "relation": {},
+      "ISSN": [
+        "0002-9343"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0002-9343"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            8
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Should We SPRINT Toward New Blood Pressure Goals or Let the Dust Settle?",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "The American Journal of Medicine",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.amjmed.2016.04.022",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "simple-article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2016 Elsevier Inc. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_acupmed_2013_010410.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_acupmed_2013_010410",
+  "doi": "10.1136/acupmed-2013-010410",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:43.258480Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            4
+          ]
+        ],
+        "date-time": "2025-05-04T05:03:23Z",
+        "timestamp": 1746335003865,
+        "version": "3.38.0"
+      },
+      "reference-count": 31,
+      "publisher": "SAGE Publications",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2014-02-01T00:00:00Z",
+            "timestamp": 1391212800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.sagepub.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Acupunct Med"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            2
+          ]
+        ]
+      },
+      "abstract": "<jats:sec><jats:title>Objective</jats:title><jats:p> To investigate the feasibility and sample size required for a full-scale randomised controlled trial of the effectiveness of acupuncture with non-steroidal anti-inflammatory drugs (NSAIDs) for chronic neck pain compared with acupuncture or NSAID treatment alone. </jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p> A total of 45 patients with chronic neck pain participated in the study. For 3 weeks the acupuncture with NSAIDs treatment group took NSAIDs (zaltoprofen, 80 mg) daily while receiving acupuncture treatment three times a week. The acupuncture treatment group received treatment three times a week and the NSAID treatment group took NSAIDs daily. The primary outcomes were to determine the feasibility and to calculate the sample size. As secondary outcomes, pain intensity and pain-related symptoms for chronic neck pain were measured. </jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p> With regard to enrolment and dropout rates, 88.2% of patients consented to be recruited to the trial and 15.6% of participants were lost to follow-up. The sample size for a full-scale trial was estimated to be 120 patients. Although preliminary, there was a significant change in the visual analogue scale (VAS) for neck pain intensity between the baseline measurement and each point of assessment in all groups. However, there was no difference in VAS scores between the three groups. </jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p> This pilot study has provided the feasibility and sample size for a full-scale trial of acupuncture with NSAIDs for chronic neck pain compared with acupuncture or NSAID treatment alone. Further research is needed to validate the effects of acupuncture with NSAIDs. </jats:p></jats:sec><jats:sec><jats:title>Clinical Trial Registration</jats:title><jats:p> NIH ClinicalTrials.gov NCT01205958. </jats:p></jats:sec>",
+      "DOI": "10.1136/acupmed-2013-010410",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2013,
+            10,
+            31
+          ]
+        ],
+        "date-time": "2013-10-31T00:43:09Z",
+        "timestamp": 1383180189000
+      },
+      "page": "17-23",
+      "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 16,
+      "title": [
+        "Acupuncture with Non-Steroidal Anti-Inflammatory Drugs (Nsaids) versus Acupuncture Or Nsaids Alone for the Treatment of Chronic Neck Pain: An Assessor-Blinded Randomised Controlled Pilot Study"
+      ],
+      "prefix": "10.1177",
+      "volume": "32",
+      "author": [
+        {
+          "given": "Jae-Heung",
+          "family": "Cho",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Korean Rehabilitation Medicine, Kyung Hee University Hospital at Gangdong, Seoul, Korea"
+            }
+          ]
+        },
+        {
+          "given": "Dong-Hyun",
+          "family": "Nam",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biofunctional Medicine and Diagnostics, Kyung Hee University Hospital at Gangdong, Seoul, Korea"
+            }
+          ]
+        },
+        {
+          "given": "Ki-Tack",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopedic Surgery, Kyung Hee University Hospital at Gangdong, Seoul, Korea"
+            }
+          ]
+        },
+        {
+          "given": "Jun-Hwan",
+          "family": "Lee",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Korean Rehabilitation Medicine, Kyung Hee University Hospital at Gangdong, Seoul, Korea"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            2014,
+            2,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "3",
+          "key": "bibr1-acupmed-2013-010410",
+          "first-page": "CD004870",
+          "volume": "19",
+          "author": "Trinh K.V.",
+          "year": "2006",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "bibr2-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0304-3959(98)00268-1"
+        },
+        {
+          "key": "bibr3-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ctim.2006.05.003"
+        },
+        {
+          "key": "bibr4-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.313.7068.1291"
+        },
+        {
+          "key": "bibr5-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000252100.61002.d4"
+        },
+        {
+          "key": "bibr6-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/pubmed/fdh139"
+        },
+        {
+          "key": "bibr7-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmpt.2008.11.017"
+        },
+        {
+          "key": "bibr8-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1159/000268104"
+        },
+        {
+          "key": "bibr9-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/aim.2009.001370"
+        },
+        {
+          "key": "bibr10-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2004.01.018"
+        },
+        {
+          "key": "bibr11-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1142/S0192415X02000028"
+        },
+        {
+          "key": "bibr12-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0304-3959(02)00062-3"
+        },
+        {
+          "key": "bibr13-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0304-3959(83)90088-X"
+        },
+        {
+          "key": "bibr14-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1365-2044.1976.tb11971.x"
+        },
+        {
+          "key": "bibr15-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/PHM.0b013e3181ec98e6"
+        },
+        {
+          "key": "bibr16-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000201241.90914.22"
+        },
+        {
+          "key": "bibr17-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e3181df78e9"
+        },
+        {
+          "key": "bibr18-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00005650-199206000-00002"
+        },
+        {
+          "key": "bibr19-acupmed-2013-010410",
+          "first-page": "3",
+          "volume": "28",
+          "author": "Nam B.",
+          "year": "2003",
+          "journal-title": "J Korean Soc Health Stat"
+        },
+        {
+          "key": "bibr20-acupmed-2013-010410",
+          "first-page": "98",
+          "volume": "10",
+          "author": "Lee Y.",
+          "year": "1991",
+          "journal-title": "Korean J Clin Psychol"
+        },
+        {
+          "key": "bibr21-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3109/07853890109002087"
+        },
+        {
+          "key": "bibr22-acupmed-2013-010410",
+          "first-page": "1103",
+          "volume": "4",
+          "author": "Binder A.I.",
+          "year": "2008",
+          "journal-title": "Clin Evid (Online)"
+        },
+        {
+          "key": "bibr23-acupmed-2013-010410",
+          "first-page": "57",
+          "volume": "105",
+          "author": "McReynolds T.M.",
+          "year": "2005",
+          "journal-title": "J Am Osteopath Assoc"
+        },
+        {
+          "key": "bibr24-acupmed-2013-010410",
+          "first-page": "459",
+          "volume": "28",
+          "author": "Qin X.Y.",
+          "year": "2008",
+          "journal-title": "Zhongguo Zhen Jiu"
+        },
+        {
+          "key": "bibr25-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1749-8546-5-15"
+        },
+        {
+          "key": "bibr26-acupmed-2013-010410",
+          "first-page": "230",
+          "volume": "36",
+          "author": "Wang X.",
+          "year": "2011",
+          "journal-title": "Zhen Ci Yan Jiu"
+        },
+        {
+          "key": "bibr27-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/aje/kwj224"
+        },
+        {
+          "key": "bibr28-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00405-008-0851-1"
+        },
+        {
+          "key": "bibr29-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0304-3959(02)00269-5"
+        },
+        {
+          "key": "bibr30-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0079-6123(08)61105-X"
+        },
+        {
+          "key": "bibr31-acupmed-2013-010410",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2165/00003495-199600525-00004"
+        }
+      ],
+      "container-title": [
+        "Acupuncture in Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1136/acupmed-2013-010410",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1136/acupmed-2013-010410",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            11
+          ]
+        ],
+        "date-time": "2025-03-11T10:01:32Z",
+        "timestamp": 1741687292000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1136/acupmed-2013-010410"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2014,
+            2
+          ]
+        ]
+      },
+      "references-count": 31,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2014,
+              2
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/acupmed-2013-010410"
+      ],
+      "URL": "https://doi.org/10.1136/acupmed-2013-010410",
+      "relation": {},
+      "ISSN": [
+        "0964-5284",
+        "1759-9873"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0964-5284"
+        },
+        {
+          "type": "electronic",
+          "value": "1759-9873"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            2
+          ]
+        ]
+      }
+    }
+  }
+}

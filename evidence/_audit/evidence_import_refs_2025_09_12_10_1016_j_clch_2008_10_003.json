@@ -1,0 +1,831 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_clch_2008_10_003.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_clch_2008_10_003",
+  "doi": "10.1016/j.clch.2008.10.003",
+  "pmid": "39915132",
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:37.482356Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            29
+          ]
+        ],
+        "date-time": "2025-08-29T09:52:48Z",
+        "timestamp": 1756461168584
+      },
+      "reference-count": 49,
+      "publisher": "Elsevier BV",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2008,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2008-09-01T00:00:00Z",
+            "timestamp": 1220227200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Clinical Chiropractic"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.clch.2008.10.003",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2008,
+            11,
+            26
+          ]
+        ],
+        "date-time": "2008-11-26T13:34:41Z",
+        "timestamp": 1227706481000
+      },
+      "page": "122-129",
+      "source": "Crossref",
+      "is-referenced-by-count": 26,
+      "title": [
+        "Comparison of the short-term effects of chiropractic spinal manipulation and occipito-sacral decompression in the treatment of infant colic: A single-blinded, randomised, comparison trial"
+      ],
+      "prefix": "10.1016",
+      "volume": "11",
+      "author": [
+        {
+          "given": "Maria",
+          "family": "Browning",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Joyce",
+          "family": "Miller",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1407",
+          "DOI": "10.1016/S0031-3955(16)38227-X",
+          "article-title": "Infantile colic. Is it a gut issue?",
+          "volume": "38",
+          "author": "Miller",
+          "year": "1991",
+          "journal-title": "Pediatr Clin North Am"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.1542/peds.90.1.14",
+          "article-title": "The crying of infants with colic: a controlled empirical description",
+          "volume": "90",
+          "author": "Barr",
+          "year": "1992",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib3",
+          "first-page": "14",
+          "article-title": "Prolonged and unsoothable crying bouts in infants with and without colic",
+          "volume": "26",
+          "author": "Barr",
+          "year": "2005",
+          "journal-title": "J Dev Behav Pediatr"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "454",
+          "DOI": "10.1111/j.1651-2227.1996.tb14060.x",
+          "article-title": "Infant colic – less common than previously estimated?",
+          "volume": "85",
+          "author": "Canivet",
+          "year": "1996",
+          "journal-title": "Acta Paediatr"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "421",
+          "DOI": "10.1542/peds.14.5.421",
+          "article-title": "Paroxysmal fussing in infancy, sometimes called colic",
+          "volume": "14",
+          "author": "Wessel",
+          "year": "1954",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "1325",
+          "DOI": "10.1136/bmj.314.7090.1325",
+          "article-title": "The social origins of infant colic: questionnaire study covering 76,747 infants",
+          "volume": "314",
+          "author": "Crowcroft",
+          "year": "1997",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib7",
+          "first-page": "251",
+          "article-title": "The significance of pregnancy, delivery and post-partum factors for the development of infant colic",
+          "volume": "19",
+          "author": "Hogdall",
+          "year": "1991",
+          "journal-title": "J Perinat Med"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "533",
+          "DOI": "10.1001/archpedi.1995.02170180063009",
+          "article-title": "Infant colic. Seasonal incidence and crying profiles",
+          "volume": "149",
+          "author": "Lehtonen",
+          "year": "1995",
+          "journal-title": "Arch Pediatr Adolesc Med"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "836",
+          "DOI": "10.1542/peds.2005-0775",
+          "article-title": "Prevalence, stability and outcomes of cry-fuss and sleep problems in the first 2 years of life: prospective community-based study",
+          "volume": "117",
+          "author": "Wake",
+          "year": "2006",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "1183",
+          "DOI": "10.1001/archpedi.156.12.1183",
+          "article-title": "Sequelae of infant colic: evidence of transient infant distress and absence of lasting effects on maternal mental health",
+          "volume": "156",
+          "author": "Clifford",
+          "year": "2002",
+          "journal-title": "Arch Pediatr Adolesc Med"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "1054",
+          "DOI": "10.1542/peds.109.6.1054",
+          "article-title": "Persistent infant crying and hyperactivity problems in middle childhood",
+          "volume": "109",
+          "author": "Wolke",
+          "year": "2002",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "353",
+          "DOI": "10.1046/j.1365-2214.2002.00089.x",
+          "article-title": "Links between maternal care and persistent infant crying in the early months",
+          "volume": "24",
+          "author": "St. James-Roberts",
+          "year": "1998",
+          "journal-title": "Child Care Health Dev"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "302",
+          "DOI": "10.1136/adc.83.4.302",
+          "article-title": "Infantile colic: maternal smoking as potential risk factor",
+          "volume": "83",
+          "author": "Reijneveld",
+          "year": "2000",
+          "journal-title": "Arch Dis Child"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "417",
+          "DOI": "10.1136/adc.2005.083790",
+          "article-title": "Mothers’ postpartum psychological adjustment and infantile colic",
+          "volume": "91",
+          "author": "Akman",
+          "year": "2006",
+          "journal-title": "Arch Dis Child"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "395",
+          "DOI": "10.1046/j.1365-2214.2002.00091.x",
+          "article-title": "Persistent crying in early infancy: a non-trivial condition of risk for the developing mother–infant relationship",
+          "volume": "24",
+          "author": "Papousek",
+          "year": "1998",
+          "journal-title": "Child Care Health Dev"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "1211",
+          "DOI": "10.1056/NEJM199810223391706",
+          "article-title": "Risk factors for infant homicide in the United States",
+          "volume": "339",
+          "author": "Overpeck",
+          "year": "1998",
+          "journal-title": "Engl J Med"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "1340",
+          "DOI": "10.1016/S0140-6736(04)17191-2",
+          "article-title": "Infant crying and abuse",
+          "volume": "364",
+          "author": "Reijneveld",
+          "year": "2004",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "288",
+          "DOI": "10.1097/DBP.0b013e3180327b55",
+          "article-title": "Age-related incidence of publicly reported shaken baby syndrome cases: is crying a trigger for shaking?",
+          "volume": "28",
+          "author": "Lee",
+          "year": "2007",
+          "journal-title": "J Dev Behav Pediatr"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "12",
+          "DOI": "10.1053/jpdn.2003.3",
+          "article-title": "Infants with colic: their childhood characteristics",
+          "volume": "18",
+          "author": "Neu",
+          "year": "2003",
+          "journal-title": "J Pediatr Nurs"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "908",
+          "DOI": "10.1136/adc.2003.033233",
+          "article-title": "Infant colic and feeding difficulties",
+          "volume": "89",
+          "author": "Miller-Loncar",
+          "year": "2004",
+          "journal-title": "Arch Dis Child"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1097/00005721-200503000-00011",
+          "article-title": "Parental perceptions of the lasting effects of infant colic",
+          "volume": "30",
+          "author": "Ellett",
+          "year": "2005",
+          "journal-title": "Am J Matern Child Nurs"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "43",
+          "DOI": "10.1542/peds.96.1.43",
+          "article-title": "Infant colic: child and family three years later",
+          "volume": "96",
+          "author": "Rautava",
+          "year": "1995",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "129",
+          "DOI": "10.1080/08035320510043691",
+          "article-title": "A prospective 10-year study on children who had severe infantile colic",
+          "volume": "94",
+          "author": "Savino",
+          "year": "2005",
+          "journal-title": "Acta Paediatr Suppl"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1080/080352500750028988",
+          "article-title": "Infant colic. Follow-up at four years of age: still more emotional",
+          "volume": "89",
+          "author": "Canivet",
+          "year": "2000",
+          "journal-title": "Acta Paediatr"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "989",
+          "DOI": "10.1136/adc.2003.039198",
+          "article-title": "Long term cognitive development in children with prolonged crying",
+          "volume": "89",
+          "author": "Rao",
+          "year": "2004",
+          "journal-title": "Arch Dis Child"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "446",
+          "DOI": "10.1111/j.1651-2227.1985.tb11001.x",
+          "article-title": "Treatment of infant colic with surface active substance (simethicone)",
+          "volume": "74",
+          "author": "Danielsson",
+          "year": "1985",
+          "journal-title": "Acta Paediatr Scand"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "29",
+          "DOI": "10.1542/peds.94.1.29",
+          "article-title": "Simethicone in the treatment of infant colic: a randomized, placebo-controlled, multicenter trial",
+          "volume": "94",
+          "author": "Metcalf",
+          "year": "1994",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "125",
+          "DOI": "10.1111/j.1442-200X.2006.02182.x",
+          "article-title": "Oral hypertonic glucose solution in the treatment of infantile colic",
+          "volume": "48",
+          "author": "Akcam",
+          "year": "2006",
+          "journal-title": "Pediatr Int"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "437",
+          "DOI": "10.1136/bmj.323.7310.437",
+          "article-title": "Extracts from “clinical evidence”: infantile colic",
+          "volume": "323",
+          "author": "Wade",
+          "year": "2001",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "356",
+          "DOI": "10.1136/adc.76.4.356",
+          "article-title": "Use of sucrose as a treatment for infant colic",
+          "volume": "76",
+          "author": "Markestad",
+          "year": "1997",
+          "journal-title": "Arch Dis Child"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "1498",
+          "DOI": "10.1136/bmj.310.6993.1498",
+          "article-title": "The analgesic effect of sucrose in full term infants: a randomised controlled trial",
+          "volume": "310",
+          "author": "Haouari",
+          "year": "1995",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "623",
+          "DOI": "10.1542/peds.87.5.623",
+          "article-title": "Carrying as colic “therapy”: a randomized controlled trial",
+          "volume": "87",
+          "author": "Barr",
+          "year": "1991",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "381",
+          "DOI": "10.1542/peds.95.3.381",
+          "article-title": "Supplementary carrying compared with advice to increase responsive parenting as interventions to prevent persistent infant crying",
+          "volume": "95",
+          "author": "St. James-Roberts",
+          "year": "1995",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "e84",
+          "DOI": "10.1542/peds.105.6.e84",
+          "article-title": "Infant massage compared with crib vibrator in the treatment of colicky infants",
+          "volume": "105",
+          "author": "Huhtala",
+          "year": "2000",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "161",
+          "DOI": "10.1901/jaba.1991.24-161",
+          "article-title": "Does SleepTight work? A behavioral analysis of the effectiveness of SleepTight for the management of infant colic",
+          "volume": "24",
+          "author": "Sosland",
+          "year": "1991",
+          "journal-title": "J Appl Behav Anal"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "256",
+          "DOI": "10.1016/S0891-5245(98)90206-1",
+          "article-title": "New strategies for the treatment of colic: modifying the parent/infant interaction",
+          "volume": "12",
+          "author": "Dihigo",
+          "year": "1998",
+          "journal-title": "J Pediatr Health Care"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "563",
+          "DOI": "10.1046/j.1440-1754.2002.00042.x",
+          "article-title": "Effectiveness of an individualized multidisciplinary programme for managing unsettled infants",
+          "volume": "38",
+          "author": "Don",
+          "year": "2002",
+          "journal-title": "J Paediatr Child Health"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "267",
+          "DOI": "10.1046/j.1365-2648.2002.02368.x",
+          "article-title": "Help in times of crying: nurses’ approach to parents with colicky infants",
+          "volume": "40",
+          "author": "Helseth",
+          "year": "2002",
+          "journal-title": "J Adv Nurs"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib39",
+          "first-page": "281",
+          "article-title": "Infant colic treated by chiropractors: a prospective study of 316 cases",
+          "volume": "12",
+          "author": "Klougart",
+          "year": "1989",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib40",
+          "series-title": "Proceedings of the 5th Biennial Congress of the World Federation of Chiropractic",
+          "first-page": "170",
+          "article-title": "The efficacy of chiropractic spinal adjustments as a treatment protocol in the management of infant colic",
+          "author": "Mercer",
+          "year": "1999"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "517",
+          "DOI": "10.1016/S0161-4754(99)70003-5",
+          "article-title": "The short-term effect of spinal manipulation in the treatment of infant colic: a randomized controlled clinical trial with a blinded observer",
+          "volume": "22",
+          "author": "Wiberg",
+          "year": "1999",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "138",
+          "DOI": "10.1136/adc.84.2.138",
+          "article-title": "Randomized controlled trial of infant colic treated with chiropractic spinal manipulation",
+          "volume": "84",
+          "author": "Olafsdottir",
+          "year": "2001",
+          "journal-title": "Arch Dis Child"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "83",
+          "DOI": "10.1016/j.ctcp.2005.12.005",
+          "article-title": "A preliminary assessment of the impact of cranial osteopathy for the relief of infant colic",
+          "volume": "12",
+          "author": "Hayden",
+          "year": "2006",
+          "journal-title": "Complement Ther Clin Pract"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "380",
+          "DOI": "10.1136/adc.63.4.380",
+          "article-title": "Parental diary of infant cry and fuss behaviour",
+          "volume": "63",
+          "author": "Barr",
+          "year": "1988",
+          "journal-title": "Arch Dis Child"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "592",
+          "DOI": "10.1542/peds.2003-0651-L",
+          "article-title": "Sleep of excessively crying infants: a 24-h ambulatory sleep polygraphy study",
+          "volume": "114",
+          "author": "Kirjavainen",
+          "year": "2004",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib46",
+          "doi-asserted-by": "crossref",
+          "first-page": "139",
+          "DOI": "10.1016/j.clch.2007.07.003",
+          "article-title": "Cry babies: a framework for chiropractic care",
+          "volume": "10",
+          "author": "Miller",
+          "year": "2007",
+          "journal-title": "Clin Chiro"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib47",
+          "doi-asserted-by": "crossref",
+          "first-page": "886",
+          "DOI": "10.1016/S0091-6749(95)70224-5",
+          "article-title": "A low allergen diet is a significant intervention in infantile colic: results of a community-based study",
+          "volume": "96",
+          "author": "Hill",
+          "year": "1995",
+          "journal-title": "J Allergy Clin Immunol"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib48",
+          "doi-asserted-by": "crossref",
+          "first-page": "641",
+          "DOI": "10.1542/peds.77.5.641",
+          "article-title": "Increased carrying reduces infant crying: a randomized controlled trial",
+          "volume": "77",
+          "author": "Hunziker",
+          "year": "1986",
+          "journal-title": "Pediatrics"
+        },
+        {
+          "key": "10.1016/j.clch.2008.10.003_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "951",
+          "DOI": "10.1111/j.1469-7610.1991.tb01922.x",
+          "article-title": "Infant crying in the first year: normal community and clinical findings",
+          "volume": "32",
+          "author": "St. James-Roberts",
+          "year": "1991",
+          "journal-title": "J Child Psychol Psychiatry"
+        }
+      ],
+      "container-title": [
+        "Clinical Chiropractic"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1479235408000643?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1479235408000643?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            5,
+            21
+          ]
+        ],
+        "date-time": "2023-05-21T13:58:55Z",
+        "timestamp": 1684677535000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1479235408000643"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2008,
+            9
+          ]
+        ]
+      },
+      "references-count": 49,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1479235408000643"
+      ],
+      "URL": "https://doi.org/10.1016/j.clch.2008.10.003",
+      "relation": {},
+      "ISSN": [
+        "1479-2354"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1479-2354"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2008,
+            9
+          ]
+        ]
+      }
+    },
+    "pubmed_summary": {
+      "uid": "39915132",
+      "pubdate": "2025 Mar 1",
+      "epubdate": "2025 Feb 5",
+      "source": "Environ Res",
+      "authors": [
+        {
+          "name": "Christina B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thanigaimani K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sudhakaran R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohan S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arumugam N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Almansour AI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mahalingam SM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Mahalingam SM",
+      "title": "Retraction notice to \"Pyto-Architechture of Ag, Au and Ag-Au bi-metallic nanoparticles using waste orange peel extract for enable carcinogenic Congo red dye degradation\" [Environ. Res. 242 (2024) 117625].",
+      "sorttitle": "retraction notice to pyto architechture of ag au and ag au bi metallic nanoparticles using waste orange peel extract for enable carcinogenic congo red dye degradation environ res 242 2024 117625",
+      "volume": "268",
+      "issue": "",
+      "pages": "120991",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0147621",
+      "issn": "0013-9351",
+      "essn": "1096-0953",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39915132"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.envres.2025.120991"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0013-9351(25)00242-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/02/07 00:21"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/02/07 00:20"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/02/06 21:57"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Environ Res. 2024 Feb 1;242:117625. doi: 10.1016/j.envres.2023.117625.",
+          "reftype": "Retraction of",
+          "pmid": 38007079,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Environmental research",
+      "elocationid": "doi: 10.1016/j.envres.2025.120991",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/03/01 00:00",
+      "sortfirstauthor": "Christina B",
+      "vernaculartitle": ""
+    }
+  }
+}

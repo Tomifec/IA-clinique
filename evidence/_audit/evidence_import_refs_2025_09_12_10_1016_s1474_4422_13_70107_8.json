@@ -1,0 +1,1968 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_s1474_4422_13_70107_8.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_s1474_4422_13_70107_8",
+  "doi": "10.1016/S1474-4422(13)70107-8",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:11.480722Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            2
+          ]
+        ],
+        "date-time": "2025-09-02T10:45:39Z",
+        "timestamp": 1756809939101
+      },
+      "reference-count": 160,
+      "publisher": "Elsevier BV",
+      "issue": "7",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2013,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2013-07-01T00:00:00Z",
+            "timestamp": 1372636800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "mdconsult.com",
+          "thelancet.com",
+          "em-consulte.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The Lancet Neurology"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1016/s1474-4422(13)70107-8",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2013,
+            6,
+            12
+          ]
+        ],
+        "date-time": "2013-06-12T14:46:45Z",
+        "timestamp": 1371048405000
+      },
+      "page": "706-715",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 204,
+      "title": [
+        "Vestibular migraine: clinical aspects and pathophysiology"
+      ],
+      "prefix": "10.1016",
+      "volume": "12",
+      "author": [
+        {
+          "given": "Joseph M",
+          "family": "Furman",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Dawn A",
+          "family": "Marcus",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Carey D",
+          "family": "Balaban",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "141",
+          "DOI": "10.1093/brain/87.1.141",
+          "article-title": "Benign paroxysmal vertigo of childhood",
+          "volume": "87",
+          "author": "Basser",
+          "year": "1964",
+          "journal-title": "Brain"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "1123",
+          "DOI": "10.1093/brain/107.4.1123",
+          "article-title": "Neuro-otological manifestations of migraine",
+          "volume": "107",
+          "author": "Kayan",
+          "year": "1984",
+          "journal-title": "Brain"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "167",
+          "DOI": "10.3233/VES-2012-0453",
+          "article-title": "Vestibular migraine: diagnostic criteria",
+          "volume": "22",
+          "author": "Lempert",
+          "year": "2012",
+          "journal-title": "J Vestib Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "217",
+          "DOI": "10.1007/s11916-009-0036-7",
+          "article-title": "Basilar-type migraine",
+          "volume": "13",
+          "author": "Kaniecki",
+          "year": "2009",
+          "journal-title": "Curr Pain Headache Rep"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "408",
+          "DOI": "10.1111/j.1526-4610.1985.hed2508408.x",
+          "article-title": "Basilar artery migraine: a follow-up study of 82 cases",
+          "volume": "25",
+          "author": "Sturzenegger",
+          "year": "1985",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "880",
+          "DOI": "10.1212/01.wnl.0000203647.48422.dd",
+          "article-title": "Basilar-type migraine: clinical, epidemiologic, and genetic features",
+          "volume": "66",
+          "author": "Kirchmann",
+          "year": "2006",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "217",
+          "DOI": "10.1007/s11916-007-0193-5",
+          "article-title": "Migraine-related vertigo: diagnosis and treatment",
+          "volume": "11",
+          "author": "Eggers",
+          "year": "2007",
+          "journal-title": "Curr Pain Headache Rep"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "436",
+          "DOI": "10.1212/WNL.56.4.436",
+          "article-title": "The interrelations of migraine, vertigo, and migrainous vertigo",
+          "volume": "56",
+          "author": "Neuhauser",
+          "year": "2001",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "473",
+          "DOI": "10.1055/s-0029-1241043",
+          "article-title": "Vertigo: epidemiologic aspects",
+          "volume": "29",
+          "author": "Neuhauser",
+          "year": "2009",
+          "journal-title": "Semin Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "906",
+          "DOI": "10.1177/0333102411405228",
+          "article-title": "Vestibular migraine—validity of clinical diagnostic criteria",
+          "volume": "31",
+          "author": "Radtke",
+          "year": "2011",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "379",
+          "DOI": "10.1016/j.ncl.2008.11.004",
+          "article-title": "Vestibular migraine",
+          "volume": "27",
+          "author": "Neuhauser",
+          "year": "2009",
+          "journal-title": "Neurol Clin"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "1393",
+          "DOI": "10.1111/j.1526-4610.2011.01934.x",
+          "article-title": "Migraine and vestibular symptoms—identifying clinical features that predict “vestibular migraine”",
+          "volume": "51",
+          "author": "Cohen",
+          "year": "2011",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "330",
+          "DOI": "10.1097/MAO.0b013e3182040b21",
+          "article-title": "Vestibular migraine: perspectives of otology versus neurology",
+          "volume": "32",
+          "author": "Millen",
+          "year": "2011",
+          "journal-title": "Otol Neurotol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "367",
+          "DOI": "10.1016/j.otc.2011.01.008",
+          "article-title": "Migraine-associated vertigo",
+          "volume": "44",
+          "author": "Cherchi",
+          "year": "2011",
+          "journal-title": "Otolaryngol Clin North Am"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "333",
+          "DOI": "10.1007/s00415-009-0149-2",
+          "article-title": "Epidemiology of vertigo, migraine and vestibular migraine",
+          "volume": "256",
+          "author": "Lempert",
+          "year": "2009",
+          "journal-title": "J Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "1028",
+          "DOI": "10.1212/01.wnl.0000237539.09942.06",
+          "article-title": "Migrainous vertigo: prevalence and impact on quality of life",
+          "volume": "67",
+          "author": "Neuhauser",
+          "year": "2006",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "83",
+          "DOI": "10.1111/j.1468-2982.2004.00662.x",
+          "article-title": "Vertigo and dizziness related to migraine: a diagnostic challenge",
+          "volume": "24",
+          "author": "Neuhauser",
+          "year": "2004",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1177/0333102410373152",
+          "article-title": "Prevalence and impact of migrainous vertigo in mid-life women: a community-based study",
+          "volume": "31",
+          "author": "Hsu",
+          "year": "2011",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "409",
+          "DOI": "10.1016/j.mehy.2009.04.054",
+          "article-title": "Vestibular migraine may be an important cause of dizziness/vertigo in perimenopausal period",
+          "volume": "75",
+          "author": "Park",
+          "year": "2010",
+          "journal-title": "Med Hypotheses"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "821",
+          "DOI": "10.1177/0333102409360676",
+          "article-title": "Migraine and vertigo: a prospective diary study",
+          "volume": "30",
+          "author": "Salhofer",
+          "year": "2010",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "365",
+          "DOI": "10.1093/brain/awh351",
+          "article-title": "Acute migrainous vertigo: clinical and oculographic findings",
+          "volume": "128",
+          "author": "von Brevern",
+          "year": "2005",
+          "journal-title": "Brain"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "469",
+          "DOI": "10.1212/01.WNL.0000106949.55346.CD",
+          "article-title": "Migrainous vertigo presenting as episodic positional vertigo",
+          "volume": "62",
+          "author": "von Brevern",
+          "year": "2004",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "241",
+          "DOI": "10.1159/000255440",
+          "article-title": "Nystagmus during attacks of vestibular migraine: an aid in diagnosis",
+          "volume": "15",
+          "author": "Polensek",
+          "year": "2009",
+          "journal-title": "Audiol Neurootol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "961",
+          "DOI": "10.1097/MAO.0b013e3181b4e780",
+          "article-title": "Otoneurologic dysfunctions in migraine patients with or without vertigo",
+          "volume": "30",
+          "author": "Casani",
+          "year": "2009",
+          "journal-title": "Otol Neurotol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "182",
+          "DOI": "10.1177/000348949710600302",
+          "article-title": "Migraine-related vestibulopathy",
+          "volume": "106",
+          "author": "Cass",
+          "year": "1997",
+          "journal-title": "Ann Otol Rhinol Laryngol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "72",
+          "DOI": "10.1111/j.1468-2982.2007.01474.x",
+          "article-title": "Migrainous vertigo: clinical, oculographic and posturographic findings",
+          "volume": "28",
+          "author": "Celebisoy",
+          "year": "2008",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "435",
+          "DOI": "10.1111/j.1526-4610.2009.01338.x",
+          "article-title": "Migrainous vertigo: results of caloric testing and stabilometric findings",
+          "volume": "49",
+          "author": "Teggi",
+          "year": "2009",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "1211",
+          "DOI": "10.1177/0333102411409074",
+          "article-title": "Vestibular sensitivity in vestibular migraine: VEMPs and motion sickness susceptibility",
+          "volume": "31",
+          "author": "Boldingh",
+          "year": "2011",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "1447",
+          "DOI": "10.1007/s00415-009-5132-4",
+          "article-title": "Vestibular-evoked myogenic potentials in vestibular migraine",
+          "volume": "256",
+          "author": "Baier",
+          "year": "2009",
+          "journal-title": "J Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1097/WCO.0b013e3282f41ca0",
+          "article-title": "Recent advances in the genetics of recurrent vertigo and vestibulopathy",
+          "volume": "21",
+          "author": "Jen",
+          "year": "2008",
+          "journal-title": "Curr Opin Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "1136",
+          "DOI": "10.1111/j.1526-4610.2006.00504.x",
+          "article-title": "Migrainous vertigo: mutation analysis of the candidate genes CACNA1A, ATP1A2, SCN1A, and CACNB4",
+          "volume": "46",
+          "author": "von Brevern",
+          "year": "2006",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "195",
+          "DOI": "10.1007/s10048-007-0091-3",
+          "article-title": "Association of progesterone receptor with migraine-associated vertigo",
+          "volume": "8",
+          "author": "Lee",
+          "year": "2007",
+          "journal-title": "Neurogenetics"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "670",
+          "DOI": "10.1177/000348940911800912",
+          "article-title": "Locus for familial migrainous vertigo disease maps to chromosome 5q35",
+          "volume": "118",
+          "author": "Bahmad",
+          "year": "2009",
+          "journal-title": "Ann Otol Rhinol Laryngol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "638",
+          "DOI": "10.1212/WNL.0b013e3181b38a04",
+          "article-title": "Vertigo as a migraine trigger",
+          "volume": "73",
+          "author": "Murdin",
+          "year": "2009",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "1700",
+          "DOI": "10.1212/01.WNL.0000036903.22461.39",
+          "article-title": "Migraine and Meniere's disease: is there a link?",
+          "volume": "59",
+          "author": "Radtke",
+          "year": "2002",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.3766/jaaa.17.1.7",
+          "article-title": "Differentiation of Meniere's disease and migraine-associated dizziness: a review",
+          "volume": "17",
+          "author": "Shepard",
+          "year": "2006",
+          "journal-title": "J Am Acad Audiol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "93",
+          "DOI": "10.1097/mao.0b013e31815c2abb",
+          "article-title": "Familial clustering of migraine, episodic vertigo, and Meniere's disease",
+          "volume": "29",
+          "author": "Cha",
+          "year": "2008",
+          "journal-title": "Otol Neurotol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "377",
+          "DOI": "10.1177/000348940010900407",
+          "article-title": "Migraine and benign positional vertigo",
+          "volume": "109",
+          "author": "Ishiyama",
+          "year": "2000",
+          "journal-title": "Ann Otol Rhinol Laryngol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib39",
+          "first-page": "1176",
+          "article-title": "Migraine and benign positional vertigo",
+          "volume": "109",
+          "author": "Lempert",
+          "year": "2000",
+          "journal-title": "Ann Otol Rhinol Laryngol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "420",
+          "DOI": "10.1007/s00415-008-0697-x",
+          "article-title": "Psychiatric comorbidity in different organic vertigo syndromes",
+          "volume": "255",
+          "author": "Eckhardt-Henn",
+          "year": "2008",
+          "journal-title": "J Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1136/jnnp.2004.048926",
+          "article-title": "Migraine-anxiety related dizziness (MARD): a new disorder?",
+          "volume": "76",
+          "author": "Furman",
+          "year": "2005",
+          "journal-title": "J Neurol Neurosurg Psychiatry"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "58",
+          "DOI": "10.1007/s00415-009-0038-8",
+          "article-title": "Psychiatric morbidity and comorbidity in different vestibular vertigo syndromes. Results of a prospective longitudinal study over one year",
+          "volume": "256",
+          "author": "Best",
+          "year": "2009",
+          "journal-title": "J Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "1579",
+          "DOI": "10.1016/j.neuroscience.2009.09.034",
+          "article-title": "Who is at risk for ongoing dizziness and psychological strain after a vestibular disorder?",
+          "volume": "164",
+          "author": "Best",
+          "year": "2009",
+          "journal-title": "Neuroscience"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "300",
+          "DOI": "10.1016/j.pneurobio.2010.04.001",
+          "article-title": "Migraine and motion sickness: what is the link?",
+          "volume": "91",
+          "author": "Cuomo-Granston",
+          "year": "2010",
+          "journal-title": "Prog Neurobiol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "905",
+          "DOI": "10.1007/s00415-009-5435-5",
+          "article-title": "Vestibular dysfunction in migraine: effects of associated vertigo and motion sickness",
+          "volume": "257",
+          "author": "Jeong",
+          "year": "2010",
+          "journal-title": "J Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib46",
+          "doi-asserted-by": "crossref",
+          "first-page": "882",
+          "DOI": "10.1212/01.WNL.0000049476.40047.A3",
+          "article-title": "Zolmitriptan for treatment of migrainous vertigo: a pilot randomized placebo-controlled trial",
+          "volume": "60",
+          "author": "Neuhauser",
+          "year": "2003",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib47",
+          "doi-asserted-by": "crossref",
+          "first-page": "1528",
+          "DOI": "10.1097/00005537-200009000-00022",
+          "article-title": "Physical therapy for migraine-related vestibulopathy and vestibular dysfunction with history of migraine",
+          "volume": "110",
+          "author": "Whitney",
+          "year": "2000",
+          "journal-title": "Laryngoscope"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib48",
+          "doi-asserted-by": "crossref",
+          "first-page": "1782",
+          "DOI": "10.1097/01.mlg.0000231302.77922.c5",
+          "article-title": "Migraine-related vertigo: diagnostic criteria and prophylactic treatment",
+          "volume": "116",
+          "author": "Maione",
+          "year": "2006",
+          "journal-title": "Laryngoscope"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "711",
+          "DOI": "10.1007/s00415-009-5050-5",
+          "article-title": "Vestibular migraine: a critical review of treatment trials",
+          "volume": "256",
+          "author": "Fotuhi",
+          "year": "2009",
+          "journal-title": "J Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib50",
+          "doi-asserted-by": "crossref",
+          "first-page": "183",
+          "DOI": "10.1177/1756285611401647",
+          "article-title": "Management of vestibular migraine",
+          "volume": "4",
+          "author": "Bisdorff",
+          "year": "2011",
+          "journal-title": "Ther Adv Neurol Disord"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib51",
+          "doi-asserted-by": "crossref",
+          "first-page": "436",
+          "DOI": "10.1007/s00415-009-0111-3",
+          "article-title": "“Vestibular migraine”: effects of prophylactic therapy with various drugs. A retrospective study",
+          "volume": "256",
+          "author": "Baier",
+          "year": "2009",
+          "journal-title": "J Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "257",
+          "DOI": "10.1056/NEJMra010917",
+          "article-title": "Migraine: current understanding and treatment",
+          "volume": "346",
+          "author": "Goadsby",
+          "year": "2002",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib53",
+          "doi-asserted-by": "crossref",
+          "first-page": "573",
+          "DOI": "10.1038/nrneurol.2010.127",
+          "article-title": "CGRP and its receptors provide new insights into migraine pathophysiology",
+          "volume": "6",
+          "author": "Ho",
+          "year": "2010",
+          "journal-title": "Nat Rev Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib54",
+          "first-page": "16",
+          "article-title": "Neurogenic inflammation in the pathophysiology and treatment of migraine",
+          "volume": "43",
+          "author": "Moskowitz",
+          "year": "1993",
+          "journal-title": "Neurology"
+        },
+        {
+          "issue": "suppl 1",
+          "key": "10.1016/S1474-4422(13)70107-8_bib55",
+          "doi-asserted-by": "crossref",
+          "first-page": "58",
+          "DOI": "10.1111/j.1526-4610.2007.00678.x",
+          "article-title": "Pathophysiology of headache—past and present",
+          "volume": "47",
+          "author": "Moskowitz",
+          "year": "2007",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib56",
+          "doi-asserted-by": "crossref",
+          "first-page": "386",
+          "DOI": "10.1038/nrn1102",
+          "article-title": "Neurobiology of migraine",
+          "volume": "4",
+          "author": "Pietrobon",
+          "year": "2003",
+          "journal-title": "Nat Rev Neurosci"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib57",
+          "doi-asserted-by": "crossref",
+          "first-page": "115",
+          "DOI": "10.1097/00004647-199902000-00001",
+          "article-title": "The trigeminovascular system in humans: pathophysiologic implications for primary headache syndromes of the neural influences on the cerebral circulation",
+          "volume": "19",
+          "author": "May",
+          "year": "1999",
+          "journal-title": "J Cereb Blood Flow Metab"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib58",
+          "doi-asserted-by": "crossref",
+          "first-page": "110",
+          "DOI": "10.1038/nm0202-110",
+          "article-title": "From CSD to headache: a long and winding road",
+          "volume": "8",
+          "author": "Iadecola",
+          "year": "2002",
+          "journal-title": "Nat Med"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib59",
+          "doi-asserted-by": "crossref",
+          "first-page": "379",
+          "DOI": "10.1586/ern.11.19",
+          "article-title": "Neurologic bases for comorbidity of balance disorders, anxiety disorders and migraine: neurotherapeutic implications",
+          "volume": "11",
+          "author": "Balaban",
+          "year": "2011",
+          "journal-title": "Expert Rev Neurother"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib60",
+          "doi-asserted-by": "crossref",
+          "first-page": "315",
+          "DOI": "10.3233/VES-2011-0428",
+          "article-title": "Migraine, vertigo and migrainous vertigo: links between vestibular and pain mechanisms",
+          "volume": "21",
+          "author": "Balaban",
+          "year": "2011",
+          "journal-title": "J Vestib Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib61",
+          "doi-asserted-by": "crossref",
+          "first-page": "53",
+          "DOI": "10.1016/S0887-6185(00)00042-6",
+          "article-title": "Neurological bases for balance-anxiety links",
+          "volume": "15",
+          "author": "Balaban",
+          "year": "2001",
+          "journal-title": "J Anxiety Disord"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib62",
+          "doi-asserted-by": "crossref",
+          "first-page": "919",
+          "DOI": "10.1016/j.neuroscience.2003.12.030",
+          "article-title": "Co-localization of the vanilloid capsaicin receptor and substance P in sensory nerve fibers innervating cochlear and vertebro-basilar arteries",
+          "volume": "124",
+          "author": "Vass",
+          "year": "2004",
+          "journal-title": "Neuroscience"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib63",
+          "doi-asserted-by": "crossref",
+          "first-page": "559",
+          "DOI": "10.1016/S0306-4522(97)00503-4",
+          "article-title": "Direct evidence of trigeminal innervation of the cochlear blood vessels",
+          "volume": "84",
+          "author": "Vass",
+          "year": "1998",
+          "journal-title": "Neuroscience"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib64",
+          "doi-asserted-by": "crossref",
+          "first-page": "1310",
+          "DOI": "10.1111/j.1468-2982.2006.01208.x",
+          "article-title": "Serotonin-induced plasma extravasation in the murine inner ear: possible mechanism of migraine-associated inner ear dysfunction",
+          "volume": "26",
+          "author": "Koo",
+          "year": "2006",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib65",
+          "doi-asserted-by": "crossref",
+          "first-page": "189",
+          "DOI": "10.1016/S0306-4522(00)00521-2",
+          "article-title": "Capsaicin stimulation of the cochlea and electric stimulation of the trigeminal ganglion mediate vascular permeability in cochlear and vertebro-basilar arteries: a potential cause of inner ear dysfunction in headache",
+          "volume": "103",
+          "author": "Vass",
+          "year": "2001",
+          "journal-title": "Neuroscience"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib66",
+          "doi-asserted-by": "crossref",
+          "first-page": "424",
+          "DOI": "10.1046/j.1468-2982.2002.00378.x",
+          "article-title": "An immunocytochemical investigation of human trigeminal nucleus caudalis: CGRP, substance P and 5-HT1D-receptor immunoreactivities are expressed by trigeminal sensory fibres",
+          "volume": "22",
+          "author": "Smith",
+          "year": "2002",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib67",
+          "doi-asserted-by": "crossref",
+          "first-page": "819",
+          "DOI": "10.3109/00016489709114207",
+          "article-title": "Guinea pig vestibular blood flow in response to calcitonin-gene related peptide",
+          "volume": "117",
+          "author": "Burgio",
+          "year": "1997",
+          "journal-title": "Acta Otolaryngol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib68",
+          "doi-asserted-by": "crossref",
+          "first-page": "225",
+          "DOI": "10.1007/s00232-002-1017-5",
+          "article-title": "CGRP receptors in the gerbil spiral modiolar artery mediate a sustained vasodilation via a transient cAMP-mediated Ca2+-decrease",
+          "volume": "189",
+          "author": "Herzog",
+          "year": "2002",
+          "journal-title": "J Membr Biol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib69",
+          "first-page": "56",
+          "article-title": "Influence of calcitonin-gene related peptide on cochlear blood flow and electrophysiology",
+          "volume": "15",
+          "author": "Quirk",
+          "year": "1994",
+          "journal-title": "Am J Otol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib70",
+          "doi-asserted-by": "crossref",
+          "first-page": "2965",
+          "DOI": "10.1161/01.STR.0000043673.22993.FD",
+          "article-title": "Endothelin-1-induced vasospasms of spiral modiolar artery are mediated by rho-kinase-induced Ca(2+) sensitization of contractile apparatus and reversed by calcitonin gene-related Peptide",
+          "volume": "33",
+          "author": "Scherer",
+          "year": "2002",
+          "journal-title": "Stroke"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib71",
+          "doi-asserted-by": "crossref",
+          "first-page": "33",
+          "DOI": "10.1016/S0196-0709(83)80005-2",
+          "article-title": "Histochemical localization of carbonic anhydrase in the inner ear",
+          "volume": "4",
+          "author": "Lim",
+          "year": "1983",
+          "journal-title": "Am J Otolaryngol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib72",
+          "doi-asserted-by": "crossref",
+          "first-page": "205",
+          "DOI": "10.1016/0378-5955(90)90229-I",
+          "article-title": "Immunolocalization of Na+,K(+)-ATPase and carbonic anhydrase in the gerbil's vestibular system",
+          "volume": "43",
+          "author": "Spicer",
+          "year": "1990",
+          "journal-title": "Hear Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib73",
+          "doi-asserted-by": "crossref",
+          "first-page": "1259",
+          "DOI": "10.2165/00003495-200060060-00003",
+          "article-title": "Triptans in migraine: a comparative review of pharmacology, pharmacokinetics and efficacy",
+          "volume": "60",
+          "author": "Tfelt-Hansen",
+          "year": "2000",
+          "journal-title": "Drugs"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib74",
+          "doi-asserted-by": "crossref",
+          "first-page": "92",
+          "DOI": "10.1016/j.brainres.2010.05.057",
+          "article-title": "Distribution of 5-HT1B and 5-HT1D receptors in the inner ear",
+          "volume": "1346",
+          "author": "Ahn",
+          "year": "2010",
+          "journal-title": "Brain Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib75",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1007/s10194-010-0258-4",
+          "article-title": "Why pharmacokinetic differences among oral triptans have little clinical importance: a comment",
+          "volume": "12",
+          "author": "Ferrari",
+          "year": "2011",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib76",
+          "doi-asserted-by": "crossref",
+          "first-page": "6",
+          "DOI": "10.1093/brain/awn321",
+          "article-title": "The vascular theory of migraine—a great story wrecked by the facts",
+          "volume": "132",
+          "author": "Goadsby",
+          "year": "2009",
+          "journal-title": "Brain"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib77",
+          "doi-asserted-by": "crossref",
+          "first-page": "1378",
+          "DOI": "10.1111/j.1526-4610.2009.01486.x",
+          "article-title": "The stress and migraine interaction",
+          "volume": "49",
+          "author": "Sauro",
+          "year": "2009",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib78",
+          "doi-asserted-by": "crossref",
+          "first-page": "1937",
+          "DOI": "10.1523/JNEUROSCI.4496-10.2011",
+          "article-title": "Trigeminal nociceptive transmission in migraineurs predicts migraine attacks",
+          "volume": "31",
+          "author": "Stankewitz",
+          "year": "2011",
+          "journal-title": "J Neurosci"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib79",
+          "doi-asserted-by": "crossref",
+          "first-page": "809",
+          "DOI": "10.1111/j.1468-2982.2008.01814.x",
+          "article-title": "Migraine and the hypothalamus",
+          "volume": "29",
+          "author": "Alstadhaug",
+          "year": "2009",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib80",
+          "doi-asserted-by": "crossref",
+          "first-page": "1418",
+          "DOI": "10.1111/j.1526-4610.2007.00776.x",
+          "article-title": "Hypothalamic activation in spontaneous migraine attacks",
+          "volume": "47",
+          "author": "Denuelle",
+          "year": "2007",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib81",
+          "doi-asserted-by": "crossref",
+          "first-page": "476",
+          "DOI": "10.1212/WNL.0b013e318227e4a8",
+          "article-title": "Increased limbic and brainstem activity during migraine attacks following olfactory stimulation",
+          "volume": "77",
+          "author": "Stankewitz",
+          "year": "2011",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib82",
+          "doi-asserted-by": "crossref",
+          "first-page": "838",
+          "DOI": "10.1002/ana.22537",
+          "article-title": "Altered functional magnetic resonance imaging resting-state connectivity in periaqueductal gray networks in migraine",
+          "volume": "70",
+          "author": "Mainero",
+          "year": "2011",
+          "journal-title": "Ann Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib83",
+          "doi-asserted-by": "crossref",
+          "first-page": "721",
+          "DOI": "10.1016/0196-9781(85)90178-0",
+          "article-title": "Calcitonin gene-related peptide: detailed immunohistochemical distribution in the central nervous system",
+          "volume": "6",
+          "author": "Skofitsch",
+          "year": "1985",
+          "journal-title": "Peptides"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib84",
+          "doi-asserted-by": "crossref",
+          "first-page": "115",
+          "DOI": "10.1016/S0306-4522(00)00245-1",
+          "article-title": "Calcitonin gene-related peptide-like immunoreactivity marks putative visceral sensory pathways in human brain",
+          "volume": "100",
+          "author": "de Lacalle",
+          "year": "2000",
+          "journal-title": "Neuroscience"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib85",
+          "doi-asserted-by": "crossref",
+          "first-page": "747",
+          "DOI": "10.1016/0306-4522(85)90076-4",
+          "article-title": "Topographic localization of calcitonin gene-related peptide in the rat brain: an immunohistochemical analysis",
+          "volume": "15",
+          "author": "Kawai",
+          "year": "1985",
+          "journal-title": "Neuroscience"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib86",
+          "doi-asserted-by": "crossref",
+          "first-page": "409",
+          "DOI": "10.1507/endocrj1954.36.409",
+          "article-title": "Calcitonin gene-related peptide in the human hypothalamus",
+          "volume": "36",
+          "author": "Takahashi",
+          "year": "1989",
+          "journal-title": "Endocrinol Jpn"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib87",
+          "doi-asserted-by": "crossref",
+          "first-page": "2538",
+          "DOI": "10.1093/brain/awn042",
+          "article-title": "Functional brain imaging of peripheral and central vestibular disorders",
+          "volume": "131",
+          "author": "Dieterich",
+          "year": "2008",
+          "journal-title": "Brain"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib88",
+          "doi-asserted-by": "crossref",
+          "first-page": "441",
+          "DOI": "10.1016/S0926-6410(01)00080-5",
+          "article-title": "Cortical and subcortical vestibular response to caloric stimulation detected by functional magnetic resonance imaging",
+          "volume": "12",
+          "author": "Suzuki",
+          "year": "2001",
+          "journal-title": "Brain Res Cogn Brain Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib89",
+          "doi-asserted-by": "crossref",
+          "first-page": "120",
+          "DOI": "10.1002/ana.410440118",
+          "article-title": "Cerebral functional magnetic resonance imaging of vestibular, auditory, and nociceptive areas during galvanic stimulation",
+          "volume": "44",
+          "author": "Bucher",
+          "year": "1998",
+          "journal-title": "Ann Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib90",
+          "doi-asserted-by": "crossref",
+          "first-page": "2699",
+          "DOI": "10.1152/jn.1998.80.5.2699",
+          "article-title": "Functional MRI of galvanic vestibular stimulation",
+          "volume": "80",
+          "author": "Lobel",
+          "year": "1998",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib91",
+          "doi-asserted-by": "crossref",
+          "first-page": "1384",
+          "DOI": "10.1006/nimg.2002.1241",
+          "article-title": "Human vestibular cortex as identified with caloric stimulation in functional magnetic resonance imaging",
+          "volume": "17",
+          "author": "Fasold",
+          "year": "2002",
+          "journal-title": "Neuroimage"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib92",
+          "doi-asserted-by": "crossref",
+          "first-page": "2639",
+          "DOI": "10.1152/jn.00599.2002",
+          "article-title": "Cortical projection of peripheral vestibular signaling",
+          "volume": "89",
+          "author": "Emri",
+          "year": "2003",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib93",
+          "doi-asserted-by": "crossref",
+          "first-page": "611",
+          "DOI": "10.1002/hbm.20205",
+          "article-title": "Identifying human parieto-insular vestibular cortex using fMRI and cytoarchitectonic mapping",
+          "volume": "27",
+          "author": "Eickhoff",
+          "year": "2006",
+          "journal-title": "Hum Brain Mapp"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib94",
+          "doi-asserted-by": "crossref",
+          "first-page": "243",
+          "DOI": "10.1016/S0079-6123(08)61868-3",
+          "article-title": "Involvement of the spino-parabrachio -amygdaloid and -hypothalamic pathways in the autonomic and affective emotional aspects of pain",
+          "volume": "107",
+          "author": "Bernard",
+          "year": "1996",
+          "journal-title": "Prog Brain Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib95",
+          "doi-asserted-by": "crossref",
+          "first-page": "506",
+          "DOI": "10.1002/cne.903530404",
+          "article-title": "Topographic organization of spinal and trigeminal somatosensory pathways to the rat parabrachial and Kolliker-Fuse nuclei",
+          "volume": "353",
+          "author": "Feil",
+          "year": "1995",
+          "journal-title": "J Comp Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib96",
+          "doi-asserted-by": "crossref",
+          "first-page": "3751",
+          "DOI": "10.1523/JNEUROSCI.17-10-03751.1997",
+          "article-title": "Transneuronal labeling of a nociceptive pathway, the spino-(trigemino-)parabrachio-amygdaloid, in the rat",
+          "volume": "17",
+          "author": "Jasmin",
+          "year": "1997",
+          "journal-title": "J Neurosci"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib97",
+          "doi-asserted-by": "crossref",
+          "first-page": "367",
+          "DOI": "10.1007/BF00227260",
+          "article-title": "Vestibular nucleus projections to the parabrachial nucleus in rabbits: implications for vestibular influences on the autonomic nervous system",
+          "volume": "108",
+          "author": "Balaban",
+          "year": "1996",
+          "journal-title": "Exp Brain Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib98",
+          "doi-asserted-by": "crossref",
+          "first-page": "3175",
+          "DOI": "10.1152/jn.00499.2002",
+          "article-title": "Responses of primate caudal parabrachial nucleus and Kolliker-fuse nucleus neurons to whole body rotation",
+          "volume": "88",
+          "author": "Balaban",
+          "year": "2002",
+          "journal-title": "J Neurophysiol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib99",
+          "doi-asserted-by": "crossref",
+          "first-page": "271",
+          "DOI": "10.1007/s00221-009-2130-9",
+          "article-title": "Parabrachial nucleus neuronal responses to off-vertical axis rotation in macaques",
+          "volume": "202",
+          "author": "McCandless",
+          "year": "2010",
+          "journal-title": "Exp Brain Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib100",
+          "doi-asserted-by": "crossref",
+          "first-page": "63",
+          "DOI": "10.1016/S0957-4271(96)00138-3",
+          "article-title": "Connections between the vestibular nuclei and brain stem regions that mediate autonomic function in the rat",
+          "volume": "7",
+          "author": "Porter",
+          "year": "1997",
+          "journal-title": "J Vestib Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib101",
+          "doi-asserted-by": "crossref",
+          "first-page": "117",
+          "DOI": "10.1046/j.1468-2982.2002.00332.x",
+          "article-title": "Motion sickness and migraine: optokinetic stimulation increases scalp tenderness, pain sensitivity in the fingers and photophobia",
+          "volume": "22",
+          "author": "Drummond",
+          "year": "2002",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib102",
+          "doi-asserted-by": "crossref",
+          "first-page": "653",
+          "DOI": "10.1111/j.1526-4610.2005.05132.x",
+          "article-title": "Triggers of motion sickness in migraine sufferers",
+          "volume": "45",
+          "author": "Drummond",
+          "year": "2005",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib103",
+          "doi-asserted-by": "crossref",
+          "first-page": "526",
+          "DOI": "10.1093/brain/awh061",
+          "article-title": "Facial pain increases nausea and headache during motion sickness in migraine sufferers",
+          "volume": "127",
+          "author": "Drummond",
+          "year": "2004",
+          "journal-title": "Brain"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib104",
+          "doi-asserted-by": "crossref",
+          "first-page": "325",
+          "DOI": "10.1111/j.1526-4610.2005.05069.x",
+          "article-title": "Trigeminal stimulation elicits a peripheral vestibular imbalance in migraine patients",
+          "volume": "45",
+          "author": "Marano",
+          "year": "2005",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib105",
+          "doi-asserted-by": "crossref",
+          "first-page": "459",
+          "DOI": "10.1038/nrn2632",
+          "article-title": "The neuro-symphony of stress",
+          "volume": "10",
+          "author": "Joels",
+          "year": "2009",
+          "journal-title": "Nat Rev Neurosci"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib106",
+          "doi-asserted-by": "crossref",
+          "first-page": "2691",
+          "DOI": "10.1517/14656566.6.15.2691",
+          "article-title": "Motion sickness in migraine sufferers",
+          "volume": "6",
+          "author": "Marcus",
+          "year": "2005",
+          "journal-title": "Expert Opin Pharmacother"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib107",
+          "series-title": "Springer handbook of auditory research: the vestibular system",
+          "doi-asserted-by": "crossref",
+          "first-page": "286",
+          "DOI": "10.1007/0-387-21567-0_7",
+          "article-title": "Vestibulo-autonomic interactions: a teleologic perspective",
+          "author": "Balaban",
+          "year": "2004"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib108",
+          "doi-asserted-by": "crossref",
+          "first-page": "104",
+          "DOI": "10.1016/j.neuroscience.2010.12.011",
+          "article-title": "Direct projections from the caudal vestibular nuclei to the ventrolateral medulla in the rat",
+          "volume": "175",
+          "author": "Holstein",
+          "year": "2011",
+          "journal-title": "Neuroscience"
+        },
+        {
+          "year": "1984",
+          "series-title": "The cerebellum and neural control",
+          "author": "Ito",
+          "key": "10.1016/S1474-4422(13)70107-8_bib109"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib110",
+          "doi-asserted-by": "crossref",
+          "first-page": "1270",
+          "DOI": "10.1001/archneur.62.8.1270",
+          "article-title": "A positron emission tomographic study in spontaneous migraine",
+          "volume": "62",
+          "author": "Afridi",
+          "year": "2005",
+          "journal-title": "Arch Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib111",
+          "doi-asserted-by": "crossref",
+          "first-page": "932",
+          "DOI": "10.1093/brain/awh416",
+          "article-title": "A PET study exploring the laterality of brainstem activation in migraine using glyceryl trinitrate",
+          "volume": "128",
+          "author": "Afridi",
+          "year": "2005",
+          "journal-title": "Brain"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib112",
+          "doi-asserted-by": "crossref",
+          "first-page": "333",
+          "DOI": "10.1016/j.mcn.2010.10.005",
+          "article-title": "Cerebellar distribution of calcitonin gene-related peptide (CGRP) and its receptor components calcitonin receptor-like receptor (CLR) and receptor activity modifying protein 1 (RAMP1) in rat",
+          "volume": "46",
+          "author": "Edvinsson",
+          "year": "2011",
+          "journal-title": "Mol Cell Neurosci"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib113",
+          "doi-asserted-by": "crossref",
+          "first-page": "153",
+          "DOI": "10.1002/(SICI)1096-9861(19990621)409:1<153::AID-CNE11>3.0.CO;2-#",
+          "article-title": "Organisation of reciprocal connections between trigeminal and vestibular nuclei in the rat",
+          "volume": "409",
+          "author": "Buisseret-Delmas",
+          "year": "1999",
+          "journal-title": "J Comp Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib114",
+          "doi-asserted-by": "crossref",
+          "first-page": "759",
+          "DOI": "10.1002/cne.20964",
+          "article-title": "Trigeminovestibular and trigeminospinal pathways in rats: retrograde tracing compared with glutamic acid decarboxylase and glutamate immunohistochemistry",
+          "volume": "496",
+          "author": "Diagne",
+          "year": "2006",
+          "journal-title": "J Comp Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib115",
+          "doi-asserted-by": "crossref",
+          "first-page": "439",
+          "DOI": "10.1002/cne.902550310",
+          "article-title": "Spinal and trigeminal projections to the nucleus of the solitary tract: a possible substrate for somatovisceral and viscerovisceral reflex activation",
+          "volume": "255",
+          "author": "Menetrey",
+          "year": "1987",
+          "journal-title": "J Comp Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib116",
+          "doi-asserted-by": "crossref",
+          "first-page": "200",
+          "DOI": "10.1007/BF00228409",
+          "article-title": "Vestibular nucleus projections to nucleus tractus solitarius and the dorsal motor nucleus of the vagus nerve: potential substrates for vestibulo-autonomic interactions",
+          "volume": "98",
+          "author": "Balaban",
+          "year": "1994",
+          "journal-title": "Exp Brain Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib117",
+          "first-page": "974",
+          "article-title": "Organization of vestibular inputs to nucleus tractus solitarius and adjacent structures in cat brain stem",
+          "volume": "267",
+          "author": "Yates",
+          "year": "1994",
+          "journal-title": "Am J Physiol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib118",
+          "doi-asserted-by": "crossref",
+          "first-page": "529",
+          "DOI": "10.1002/cne.903530405",
+          "article-title": "Cervical primary afferent input to vestibulospinal neurons projecting to the cervical dorsal horn: an anterograde and retrograde tracing study in the cat",
+          "volume": "353",
+          "author": "Bankoul",
+          "year": "1995",
+          "journal-title": "J Comp Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib119",
+          "doi-asserted-by": "crossref",
+          "first-page": "231",
+          "DOI": "10.1002/cne.902800206",
+          "article-title": "Central distribution of cervical primary afferents in the rat, with emphasis on proprioceptive projections to vestibular, perihypoglossal, and upper thoracic spinal nuclei",
+          "volume": "280",
+          "author": "Neuhuber",
+          "year": "1989",
+          "journal-title": "J Comp Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib120",
+          "doi-asserted-by": "crossref",
+          "first-page": "655",
+          "DOI": "10.1038/nrn894",
+          "article-title": "How do you feel? Interoception: the sense of the physiological condition of the body",
+          "volume": "3",
+          "author": "Craig",
+          "year": "2002",
+          "journal-title": "Nat Rev Neurosci"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib121",
+          "doi-asserted-by": "crossref",
+          "first-page": "59",
+          "DOI": "10.1038/nrn2555",
+          "article-title": "How do you feel–now? The anterior insula and human awareness",
+          "volume": "10",
+          "author": "Craig",
+          "year": "2009",
+          "journal-title": "Nat Rev Neurosci"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib122",
+          "doi-asserted-by": "crossref",
+          "first-page": "149",
+          "DOI": "10.1002/cne.902730203",
+          "article-title": "Distribution of calcitonin gene-related peptide immunoreactivity in relation to the rat central somatosensory projection",
+          "volume": "273",
+          "author": "Kruger",
+          "year": "1988",
+          "journal-title": "J Comp Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib123",
+          "doi-asserted-by": "crossref",
+          "first-page": "223",
+          "DOI": "10.1016/0006-8993(88)90395-2",
+          "article-title": "Calcitonin gene-related peptide (CGRP) in the rat central nervous system: patterns of immunoreactivity and receptor binding sites",
+          "volume": "463",
+          "author": "Kruger",
+          "year": "1988",
+          "journal-title": "Brain Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib124",
+          "doi-asserted-by": "crossref",
+          "first-page": "487",
+          "DOI": "10.1002/cne.902900404",
+          "article-title": "Calcitonin gene-related peptide immunoreactivity in the visceral sensory cortex, thalamus, and related pathways in the rat",
+          "volume": "290",
+          "author": "Yasui",
+          "year": "1989",
+          "journal-title": "J Comp Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib125",
+          "doi-asserted-by": "crossref",
+          "first-page": "96",
+          "DOI": "10.1046/j.1468-2982.2001.00140.x",
+          "article-title": "Neuropeptide localization in the “migraine generator” region of the human brainstem",
+          "volume": "21",
+          "author": "Tajti",
+          "year": "2001",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib126",
+          "doi-asserted-by": "crossref",
+          "first-page": "126",
+          "DOI": "10.1016/j.brainres.2003.10.026",
+          "article-title": "Projections from the parabrachial nucleus to the vestibular nuclei: potential substrates for autonomic and limbic influences on vestibular responses",
+          "volume": "996",
+          "author": "Balaban",
+          "year": "2004",
+          "journal-title": "Brain Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib127",
+          "doi-asserted-by": "crossref",
+          "first-page": "153",
+          "DOI": "10.1002/cne.902400205",
+          "article-title": "Spinal and trigeminal dorsal horn projections to the parabrachial nucleus in the rat",
+          "volume": "240",
+          "author": "Cechetto",
+          "year": "1985",
+          "journal-title": "J Comp Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib128",
+          "doi-asserted-by": "crossref",
+          "first-page": "93",
+          "DOI": "10.1002/(SICI)1096-9861(19981207)402:1<93::AID-CNE7>3.0.CO;2-A",
+          "article-title": "Efferent and collateral organization of paratrigeminal nucleus projections: an anterograde and retrograde fluorescent tracer study in the rat",
+          "volume": "402",
+          "author": "Saxon",
+          "year": "1998",
+          "journal-title": "J Comp Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib129",
+          "doi-asserted-by": "crossref",
+          "first-page": "318",
+          "DOI": "10.1002/(SICI)1096-9861(19990510)407:3<318::AID-CNE2>3.0.CO;2-H",
+          "article-title": "Projections of the vestibular nuclei to the thalamus in the rat: a Phaseolus vulgaris leucoagglutinin study",
+          "volume": "407",
+          "author": "Shiroyama",
+          "year": "1999",
+          "journal-title": "J Comp Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib130",
+          "doi-asserted-by": "crossref",
+          "first-page": "70",
+          "DOI": "10.1016/j.neulet.2008.04.094",
+          "article-title": "Projections from the vestibular nuclei and nucleus prepositus hypoglossi to dorsal raphe nucleus in rats",
+          "volume": "439",
+          "author": "Cuccurazzu",
+          "year": "2008",
+          "journal-title": "Neurosci Lett"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib131",
+          "doi-asserted-by": "crossref",
+          "first-page": "573",
+          "DOI": "10.1016/S0306-4522(02)00952-1",
+          "article-title": "Organization of projections from the raphe nuclei to the vestibular nuclei in rats",
+          "volume": "120",
+          "author": "Halberstadt",
+          "year": "2003",
+          "journal-title": "Neuroscience"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib132",
+          "doi-asserted-by": "crossref",
+          "first-page": "1067",
+          "DOI": "10.1016/j.neuroscience.2006.02.053",
+          "article-title": "Serotonergic and nonserotonergic neurons in the dorsal raphe nucleus send collateralized projections to both the vestibular nuclei and the central amygdaloid nucleus",
+          "volume": "140",
+          "author": "Halberstadt",
+          "year": "2006",
+          "journal-title": "Neuroscience"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib133",
+          "doi-asserted-by": "crossref",
+          "first-page": "641",
+          "DOI": "10.1016/j.neuroscience.2006.08.013",
+          "article-title": "Anterograde tracing of projections from the dorsal raphe nucleus to the vestibular nuclei",
+          "volume": "143",
+          "author": "Halberstadt",
+          "year": "2006",
+          "journal-title": "Neuroscience"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib134",
+          "doi-asserted-by": "crossref",
+          "first-page": "189",
+          "DOI": "10.1016/S0165-0173(99)00015-6",
+          "article-title": "Organization of the coeruleo-vestibular pathway in rats, rabbits, and monkeys",
+          "volume": "30",
+          "author": "Schuerger",
+          "year": "1999",
+          "journal-title": "Brain Res Rev"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib135",
+          "doi-asserted-by": "crossref",
+          "first-page": "501",
+          "DOI": "10.1016/S0079-6123(08)63830-3",
+          "article-title": "Discharge of noradrenergic locus coeruleus neurons in behaving rats and monkeys suggests a role in vigilance",
+          "volume": "88",
+          "author": "Aston-Jones",
+          "year": "1991",
+          "journal-title": "Prog Brain Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib136",
+          "doi-asserted-by": "crossref",
+          "first-page": "521",
+          "DOI": "10.1016/S0079-6123(08)63831-5",
+          "article-title": "Electrophysiological evidence for the involvement of the locus coeruleus in alerting, orienting, and attending",
+          "volume": "88",
+          "author": "Foote",
+          "year": "1991",
+          "journal-title": "Prog Brain Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib137",
+          "doi-asserted-by": "crossref",
+          "first-page": "28",
+          "DOI": "10.1002/(SICI)1098-2396(199605)23:1<28::AID-SYN4>3.0.CO;2-J",
+          "article-title": "Noradrenergic mechanisms in stress and anxiety: I. Preclinical studies",
+          "volume": "23",
+          "author": "Bremner",
+          "year": "1996",
+          "journal-title": "Synapse"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib138",
+          "doi-asserted-by": "crossref",
+          "first-page": "55",
+          "DOI": "10.1016/0143-4179(88)90010-8",
+          "article-title": "Human brain calcitonin gene-related peptide (CGRP) is concentrated in the locus caeruleus",
+          "volume": "11",
+          "author": "Tiller-Borcich",
+          "year": "1988",
+          "journal-title": "Neuropeptides"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib139",
+          "doi-asserted-by": "crossref",
+          "first-page": "565",
+          "DOI": "10.1016/j.neubiorev.2004.08.008",
+          "article-title": "Serotonin 1B receptors: from protein to physiological function and behavior",
+          "volume": "28",
+          "author": "Sari",
+          "year": "2004",
+          "journal-title": "Neurosci Biobehav Rev"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib140",
+          "doi-asserted-by": "crossref",
+          "first-page": "899",
+          "DOI": "10.1016/S0306-4522(98)00256-5",
+          "article-title": "Cellular and subcellular localization of 5-hydroxytryptamine1B receptors in the rat central nervous system: immunocytochemical, autoradiographic and lesion studies",
+          "volume": "88",
+          "author": "Sari",
+          "year": "1999",
+          "journal-title": "Neuroscience"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib141",
+          "doi-asserted-by": "crossref",
+          "first-page": "346",
+          "DOI": "10.1016/0166-2236(93)90090-9",
+          "article-title": "5-HT and motor control: a hypothesis",
+          "volume": "16",
+          "author": "Jacobs",
+          "year": "1993",
+          "journal-title": "Trends Neurosci"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib142",
+          "doi-asserted-by": "crossref",
+          "first-page": "173",
+          "DOI": "10.1124/pr.57.2.4",
+          "article-title": "The blood-brain barrier/neurovascular unit in health and disease",
+          "volume": "57",
+          "author": "Hawkins",
+          "year": "2005",
+          "journal-title": "Pharmacol Rev"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib143",
+          "doi-asserted-by": "crossref",
+          "first-page": "47",
+          "DOI": "10.1111/j.1748-1716.2011.02256.x",
+          "article-title": "The neurovascular unit in brain function and disease",
+          "volume": "203",
+          "author": "Lecrux",
+          "year": "2011",
+          "journal-title": "Acta Physiol (Oxf)"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib144",
+          "doi-asserted-by": "crossref",
+          "first-page": "276",
+          "DOI": "10.1002/ana.20035",
+          "article-title": "Deciphering migraine mechanisms: clues from familial hemiplegic migraine genotypes",
+          "volume": "55",
+          "author": "Moskowitz",
+          "year": "2004",
+          "journal-title": "Ann Neurol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib145",
+          "doi-asserted-by": "crossref",
+          "first-page": "558",
+          "DOI": "10.1038/sj.bjp.0705456",
+          "article-title": "Voltage-dependent calcium channels are involved in neurogenic dural vasodilatation via a presynaptic transmitter release mechanism",
+          "volume": "140",
+          "author": "Akerman",
+          "year": "2003",
+          "journal-title": "Br J Pharmacol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib146",
+          "doi-asserted-by": "crossref",
+          "first-page": "203",
+          "DOI": "10.1016/j.neuroscience.2004.08.054",
+          "article-title": "Calcium channels modulate nociceptive transmission in the trigeminal nucleus of the cat",
+          "volume": "135",
+          "author": "Shields",
+          "year": "2005",
+          "journal-title": "Neuroscience"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib147",
+          "doi-asserted-by": "crossref",
+          "first-page": "510",
+          "DOI": "10.1016/j.neuroscience.2010.10.032",
+          "article-title": "Role for voltage gated calcium channels in calcitonin gene-related peptide release in the rat trigeminovascular system",
+          "volume": "172",
+          "author": "Amrutkar",
+          "year": "2011",
+          "journal-title": "Neuroscience"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib148",
+          "doi-asserted-by": "crossref",
+          "first-page": "1871",
+          "DOI": "10.1113/jphysiol.2010.188003",
+          "article-title": "Insights into migraine mechanisms and CaV2.1 calcium channel function from mouse models of familial hemiplegic migraine",
+          "volume": "588",
+          "author": "Pietrobon",
+          "year": "2010",
+          "journal-title": "J Physiol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib149",
+          "doi-asserted-by": "crossref",
+          "first-page": "1764",
+          "DOI": "10.1242/jeb.017350",
+          "article-title": "Ion channels in mammalian vestibular afferents may set regularity of firing",
+          "volume": "211",
+          "author": "Eatock",
+          "year": "2008",
+          "journal-title": "J Exp Biol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib150",
+          "doi-asserted-by": "crossref",
+          "first-page": "52",
+          "DOI": "10.1016/j.heares.2011.01.016",
+          "article-title": "Complex distribution patterns of voltage-gated calcium channel alpha-subunits in the spiral ganglion",
+          "volume": "278",
+          "author": "Chen",
+          "year": "2011",
+          "journal-title": "Hear Res"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib151",
+          "doi-asserted-by": "crossref",
+          "first-page": "67",
+          "DOI": "10.1007/s004050000304",
+          "article-title": "Occurrence of NaK-ATPase isoforms during rat inner ear development and functional implications",
+          "volume": "258",
+          "author": "Peters",
+          "year": "2001",
+          "journal-title": "Eur Arch Otorhinolaryngol"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib152",
+          "doi-asserted-by": "crossref",
+          "first-page": "220",
+          "DOI": "10.1124/jpet.109.151183",
+          "article-title": "Use-dependent block of voltage-gated Cav2.1 Ca2+ channels by petasins and eudesmol isomers",
+          "volume": "330",
+          "author": "Horak",
+          "year": "2009",
+          "journal-title": "J Pharmacol Exp Ther"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib153",
+          "doi-asserted-by": "crossref",
+          "first-page": "120",
+          "DOI": "10.1111/j.1527-3458.2008.00041.x",
+          "article-title": "Molecular pharmacodynamics, clinical therapeutics, and pharmacokinetics of topiramate",
+          "volume": "14",
+          "author": "Shank",
+          "year": "2008",
+          "journal-title": "CNS Neurosci Ther"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib154",
+          "doi-asserted-by": "crossref",
+          "first-page": "1124",
+          "DOI": "10.1002/lary.21723",
+          "article-title": "Abnormal motion perception in vestibular migraine",
+          "volume": "121",
+          "author": "Lewis",
+          "year": "2011",
+          "journal-title": "Laryngoscope"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib155",
+          "first-page": "1",
+          "article-title": "Prevention of motion sickness with rizatriptan: a double-blind, placebo-controlled pilot study",
+          "volume": "12",
+          "author": "Marcus",
+          "year": "2006",
+          "journal-title": "Med Sci Monit"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib156",
+          "doi-asserted-by": "crossref",
+          "first-page": "212",
+          "DOI": "10.7150/ijms.6.212",
+          "article-title": "A pilot study of rizatriptan and visually-induced motion sickness in migraineurs",
+          "volume": "6",
+          "author": "Furman",
+          "year": "2009",
+          "journal-title": "Int J Med Sci"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib157",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.1007/s10194-010-0250-z",
+          "article-title": "Rizatriptan reduces vestibular-induced motion sickness in migraineurs",
+          "volume": "12",
+          "author": "Furman",
+          "year": "2011",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib158",
+          "doi-asserted-by": "crossref",
+          "first-page": "673",
+          "DOI": "10.1111/j.1601-0825.2008.01458.x",
+          "article-title": "Genetic contributions to pain: a review of findings in humans",
+          "volume": "14",
+          "author": "Fillingim",
+          "year": "2008",
+          "journal-title": "Oral Dis"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib159",
+          "doi-asserted-by": "crossref",
+          "first-page": "1569",
+          "DOI": "10.1038/nn.2941",
+          "article-title": "Pain sensitivity and vasopressin analgesia are mediated by a gene-sex-environment interaction",
+          "volume": "14",
+          "author": "Mogil",
+          "year": "2011",
+          "journal-title": "Nat Neurosci"
+        },
+        {
+          "key": "10.1016/S1474-4422(13)70107-8_bib160",
+          "doi-asserted-by": "crossref",
+          "first-page": "684",
+          "DOI": "10.1002/ana.22502",
+          "article-title": "Pharmacogenomics in neurology: current state and future steps",
+          "volume": "70",
+          "author": "Chan",
+          "year": "2011",
+          "journal-title": "Ann Neurol"
+        }
+      ],
+      "container-title": [
+        "The Lancet Neurology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1474442213701078?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1474442213701078?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            12
+          ]
+        ],
+        "date-time": "2024-05-12T08:54:04Z",
+        "timestamp": 1715504044000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1474442213701078"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            7
+          ]
+        ]
+      },
+      "references-count": 160,
+      "journal-issue": {
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2013,
+              7
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1474442213701078"
+      ],
+      "URL": "https://doi.org/10.1016/s1474-4422(13)70107-8",
+      "relation": {},
+      "ISSN": [
+        "1474-4422"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1474-4422"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            7
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Vestibular migraine: clinical aspects and pathophysiology",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "The Lancet Neurology",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/S1474-4422(13)70107-8",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "Copyright © 2013 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

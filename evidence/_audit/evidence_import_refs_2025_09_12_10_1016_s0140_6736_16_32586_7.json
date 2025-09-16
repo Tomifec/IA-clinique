@@ -1,0 +1,1321 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_s0140_6736_16_32586_7.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_s0140_6736_16_32586_7",
+  "doi": "10.1016/S0140-6736(16)32586-7",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:10.240244Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            3
+          ]
+        ],
+        "date-time": "2025-09-03T09:54:54Z",
+        "timestamp": 1756893294628
+      },
+      "reference-count": 102,
+      "publisher": "Elsevier BV",
+      "issue": "10090",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2017-07-01T00:00:00Z",
+            "timestamp": 1498867200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "clinicalkey.com.au",
+          "clinicalkey.fr",
+          "thelancet.com",
+          "em-consulte.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The Lancet"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1016/s0140-6736(16)32586-7",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2017,
+            1,
+            9
+          ]
+        ],
+        "date-time": "2017-01-09T00:45:27Z",
+        "timestamp": 1483922727000
+      },
+      "page": "191-202",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 226,
+      "title": [
+        "Levers for addressing medical underuse and overuse: achieving high-value health care"
+      ],
+      "prefix": "10.1016",
+      "volume": "390",
+      "author": [
+        {
+          "given": "Adam G",
+          "family": "Elshaug",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Meredith B",
+          "family": "Rosenthal",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "John N",
+          "family": "Lavis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Shannon",
+          "family": "Brownlee",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Harald",
+          "family": "Schmidt",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Somil",
+          "family": "Nagpal",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter",
+          "family": "Littlejohns",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Divya",
+          "family": "Srivastava",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sean",
+          "family": "Tunis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Vikas",
+          "family": "Saini",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/S0140-6736(16)32585-5",
+          "article-title": "Evidence of overuse of medical services around the world",
+          "author": "Brownlee",
+          "year": "2017",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib2",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/S0140-6736(16)30946-1",
+          "article-title": "Evidence for underuse of effective medical services around the world",
+          "author": "Glasziou",
+          "year": "2017",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib3",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/S0140-6736(16)30947-3",
+          "article-title": "Drivers of poor medical care",
+          "author": "Saini",
+          "year": "2017",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "e8239",
+          "DOI": "10.1136/bmj.e8239",
+          "article-title": "When managers rule",
+          "volume": "345",
+          "author": "Jarman",
+          "year": "2012",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "1693",
+          "DOI": "10.1001/jamainternmed.2014.3401",
+          "article-title": "Creating an effective campaign for change: strategies for teaching value",
+          "volume": "174",
+          "author": "Moriates",
+          "year": "2014",
+          "journal-title": "JAMA Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "438",
+          "DOI": "10.1016/S0140-6736(14)60582-1",
+          "article-title": "Every Newborn: health-systems bottlenecks and strategies to accelerate scale-up in countries",
+          "volume": "384",
+          "author": "Dickson",
+          "year": "2014",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "179",
+          "DOI": "10.5694/mja14.01664",
+          "article-title": "In search of professional consensus in defining and reducing low-value care",
+          "volume": "203",
+          "author": "Scott",
+          "year": "2015",
+          "journal-title": "Med J Aust"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.37757/MR2015.V17.N4.2",
+          "article-title": "To the editors and reply",
+          "volume": "17",
+          "author": "Waitzkin",
+          "year": "2015",
+          "journal-title": "MEDICC Rev"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "928",
+          "DOI": "10.1016/S0140-6736(15)60244-6",
+          "article-title": "Public health, universal health coverage, and sustainable development goals: can they coexist?",
+          "volume": "386",
+          "author": "Schmidt",
+          "year": "2015",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "652",
+          "DOI": "10.1136/bmj.319.7211.652",
+          "article-title": "Can it work? Does it work? Is it worth it?",
+          "volume": "319",
+          "author": "Haynes",
+          "year": "1999",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib13",
+          "series-title": "Essential health benefits: balancing coverage and cost",
+          "year": "2011"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib14",
+          "author": "Elshaug"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "715",
+          "DOI": "10.1215/03616878-24-4-715",
+          "article-title": "The which-hunt: assembling health technologies for assessment and rationing",
+          "volume": "24",
+          "author": "Giacomini",
+          "year": "1999",
+          "journal-title": "J Health Polit Policy Law"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "d4519",
+          "DOI": "10.1136/bmj.d4519",
+          "article-title": "Disinvestment from low value clinical interventions: NICEly done?",
+          "volume": "343",
+          "author": "Garner",
+          "year": "2011",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "556",
+          "DOI": "10.5694/mja12.11083",
+          "article-title": "Over 150 potentially low-value health care practices: an Australian study",
+          "volume": "197",
+          "author": "Elshaug",
+          "year": "2012",
+          "journal-title": "Med J Aust"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "167",
+          "DOI": "10.1136/bmjqs-2014-003821",
+          "article-title": "‘Choosing Wisely’: a growing international campaign",
+          "volume": "24",
+          "author": "Levinson",
+          "year": "2015",
+          "journal-title": "BMJ Qual Saf"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "269",
+          "DOI": "10.5694/j.1326-5377.2009.tb02394.x",
+          "article-title": "Identifying existing health care services that do not provide value for money",
+          "volume": "190",
+          "author": "Elshaug",
+          "year": "2009",
+          "journal-title": "Med J Aust"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "23",
+          "DOI": "10.1186/1743-8462-4-23",
+          "article-title": "Challenges in Australian policy processes for disinvestment from existing, ineffective health care practices",
+          "volume": "4",
+          "author": "Elshaug",
+          "year": "2007",
+          "journal-title": "Aust New Zealand Health Policy"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "1390",
+          "DOI": "10.1056/NEJMp1101475",
+          "article-title": "How CER could pay for itself—insights from vertebral fracture treatments",
+          "volume": "364",
+          "author": "Elshaug",
+          "year": "2011",
+          "journal-title": "N Eng J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "203",
+          "DOI": "10.1056/NEJMp1409696",
+          "article-title": "Addressing the challenge of gray-zone medicine",
+          "volume": "372",
+          "author": "Chandra",
+          "year": "2015",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "981",
+          "DOI": "10.1136/bmjqs-2014-002816",
+          "article-title": "Outcomes in patients with heart failure treated in hospitals with varying admission rates: population-based cohort study",
+          "volume": "23",
+          "author": "Bhatia",
+          "year": "2014",
+          "journal-title": "BMJ Qual Saf"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "1923",
+          "DOI": "10.1111/j.1475-6773.2008.00920.x",
+          "article-title": "The underuse of overuse research",
+          "volume": "43",
+          "author": "Keyhani",
+          "year": "2008",
+          "journal-title": "Health Serv Res"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib25",
+          "author": "Lavis"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "397",
+          "DOI": "10.1038/nbt.1865",
+          "article-title": "Reforming direct-to-consumer advertising",
+          "volume": "29",
+          "author": "Liang",
+          "year": "2011",
+          "journal-title": "Nat Biotechnol"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "252",
+          "DOI": "10.1186/1472-6963-8-252",
+          "article-title": "A retrospective analysis of health systems in Denmark and Kaiser Permanente",
+          "volume": "8",
+          "author": "Frolich",
+          "year": "2008",
+          "journal-title": "BMC Health Serv Res"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "6",
+          "DOI": "10.1258/jhsrp.2012.012044",
+          "article-title": "Reducing ineffective practice: challenges in identifying low-value health care using Cochrane systematic reviews",
+          "volume": "18",
+          "author": "Garner",
+          "year": "2013",
+          "journal-title": "J Health Serv Res Policy"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "774",
+          "DOI": "10.1016/j.jacc.2014.12.019",
+          "article-title": "The first decade of appropriate use criteria: is the glass half empty or half full?",
+          "volume": "65",
+          "author": "Miller",
+          "year": "2015",
+          "journal-title": "J Am Coll Cardiol"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "592",
+          "DOI": "10.7326/M15-0418",
+          "article-title": "Self-regulation in the era of big data: appropriate use of appropriate use criteria",
+          "volume": "162",
+          "author": "Doll",
+          "year": "2015",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "1067",
+          "DOI": "10.1001/jamainternmed.2014.1541",
+          "article-title": "Measuring low-value care in Medicare",
+          "volume": "174",
+          "author": "Schwartz",
+          "year": "2014",
+          "journal-title": "JAMA Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib33",
+          "article-title": "Audit and feedback: effects on professional practice and healthcare outcomes",
+          "volume": "6",
+          "author": "Ivers",
+          "year": "2012",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "519",
+          "DOI": "10.1200/JCO.2008.16.6215",
+          "article-title": "Can women with early-stage breast cancer make an informed decision for mastectomy?",
+          "volume": "27",
+          "author": "Collins",
+          "year": "2009",
+          "journal-title": "J Clin Oncol"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "1642",
+          "DOI": "10.1016/S0140-6736(15)60123-4",
+          "article-title": "Use of a decision aid including information on overdetection to support informed choice about breast cancer screening: a randomised controlled trial",
+          "volume": "385",
+          "author": "Hersch",
+          "year": "2015",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib36",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/14651858.CD001431.pub3",
+          "article-title": "Decision aids for people facing health treatment or screening decisions",
+          "volume": "10",
+          "author": "Stacey",
+          "year": "2011",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib37",
+          "first-page": "1559",
+          "article-title": "The value of sharing treatment decision making with patients: expecting too much?",
+          "volume": "310",
+          "author": "Katz",
+          "year": "2013",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "418",
+          "DOI": "10.1017/S0266462313000494",
+          "article-title": "Health technology reassessment: the art of the possible",
+          "volume": "29",
+          "author": "MacKean",
+          "year": "2013",
+          "journal-title": "Int J Technol Assess Health Care"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "2366",
+          "DOI": "10.1016/j.ophtha.2013.04.024",
+          "article-title": "Cost-utility of cataract surgery: the real issues",
+          "volume": "120",
+          "author": "Ginsburg",
+          "year": "2013",
+          "journal-title": "Ophthalmology"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib41",
+          "first-page": "e229",
+          "article-title": "A systematic review of value-based insurance design in chronic diseases",
+          "volume": "20",
+          "author": "Tang",
+          "year": "2014",
+          "journal-title": "Am J Manag Care"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib42",
+          "first-page": "32",
+          "article-title": "Value-based insurance design: benefits beyond cost and utilization",
+          "volume": "21",
+          "author": "Gibson",
+          "year": "2015",
+          "journal-title": "Am J Manag Care"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "w195",
+          "DOI": "10.1377/hlthaff.26.2.w195",
+          "article-title": "Value-based insurance design",
+          "volume": "26",
+          "author": "Chernew",
+          "year": "2007",
+          "journal-title": "Health Aff"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "905",
+          "DOI": "10.1007/s40273-015-0293-8",
+          "article-title": "Disinvestment and value-based purchasing strategies for pharmaceuticals: an international review",
+          "volume": "33",
+          "author": "Parkinson",
+          "year": "2015",
+          "journal-title": "PharmacoEconomics"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "885",
+          "DOI": "10.1016/j.jval.2016.03.2003",
+          "article-title": "A comprehensive algorithm for approval of health technologies with, without, or only in research: the key principles for informing coverage decisions",
+          "volume": "19",
+          "author": "Claxton",
+          "year": "2016",
+          "journal-title": "Value Health"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib46",
+          "doi-asserted-by": "crossref",
+          "first-page": "44",
+          "DOI": "10.1136/bmj.39381.509213.AE",
+          "article-title": "Upper airway surgery should not be first line treatment for obstructive sleep apnoea in adults",
+          "volume": "336",
+          "author": "Elshaug",
+          "year": "2008",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib47",
+          "doi-asserted-by": "crossref",
+          "first-page": "213",
+          "DOI": "10.1258/hsmr.2011.011014",
+          "article-title": "Organizational readiness for innovation in health care: some lessons from the recent literature",
+          "volume": "24",
+          "author": "Williams",
+          "year": "2011",
+          "journal-title": "Health Services Manage Res"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib48",
+          "doi-asserted-by": "crossref",
+          "first-page": "53",
+          "DOI": "10.1186/1748-5908-3-53",
+          "article-title": "Evidence-informed health policy 1-synthesis of findings from a multi-method study of organizations that support the use of research evidence",
+          "volume": "3",
+          "author": "Lavis",
+          "year": "2008",
+          "journal-title": "Implement Sci"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "1704",
+          "DOI": "10.1056/NEJMsa1404026",
+          "article-title": "Changes in health care spending and quality 4 years into global payment",
+          "volume": "371",
+          "author": "Song",
+          "year": "2014",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib50",
+          "doi-asserted-by": "crossref",
+          "first-page": "1715",
+          "DOI": "10.1056/NEJMsa1406552",
+          "article-title": "Changes in patients' experiences in Medicare Accountable Care Organizations",
+          "volume": "371",
+          "author": "McWilliams",
+          "year": "2014",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib51",
+          "author": "Budryk"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.3310/phr01040",
+          "article-title": "Community engagement to reduce inequalities in health: a systematic review, meta-analysis and economic analysis",
+          "volume": "1",
+          "author": "O'Mara-Eves",
+          "year": "2013",
+          "journal-title": "Public Health Res"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib53",
+          "doi-asserted-by": "crossref",
+          "first-page": "2094",
+          "DOI": "10.1377/hlthaff.2011.0686",
+          "article-title": "Introducing decision aids at Group Health was linked to sharply lower hip and knee surgery rates and costs",
+          "volume": "31",
+          "author": "Arterburn",
+          "year": "2012",
+          "journal-title": "Health Aff"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib54",
+          "doi-asserted-by": "crossref",
+          "first-page": "g1172",
+          "DOI": "10.1136/bmj.g1172",
+          "article-title": "Treatment decision aids are unlikely to cut healthcare costs",
+          "volume": "348",
+          "author": "Katz",
+          "year": "2014",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib55",
+          "doi-asserted-by": "crossref",
+          "first-page": "89",
+          "DOI": "10.1215/03616878-1898812",
+          "article-title": "Public engagement in health technology assessment and coverage decisions: a study of experiences in France, Germany, and the United Kingdom",
+          "volume": "38",
+          "author": "Kreis",
+          "year": "2013",
+          "journal-title": "J Health Polit Policy Law"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib56",
+          "first-page": "5",
+          "article-title": "Public deliberation in health policy and bioethics: mapping an emerging, interdisciplinary field",
+          "volume": "9",
+          "author": "Abelson",
+          "year": "2013",
+          "journal-title": "J Public Deliberation"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib57",
+          "series-title": "Clinical practice guidelines: directions for a new program",
+          "year": "1990"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib58",
+          "doi-asserted-by": "crossref",
+          "first-page": "888",
+          "DOI": "10.1111/j.1365-2753.2008.01014.x",
+          "article-title": "The effectiveness of clinical guideline implementation strategies—a synthesis of systematic review findings",
+          "volume": "14",
+          "author": "Prior",
+          "year": "2008",
+          "journal-title": "J Eval Clin Pract"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib59",
+          "doi-asserted-by": "crossref",
+          "first-page": "e000665",
+          "DOI": "10.1136/bmjopen-2011-000665",
+          "article-title": "CareTrack Australia: assessing the appropriateness of adult healthcare: protocol for a retrospective medical record review",
+          "volume": "2",
+          "author": "Hunt",
+          "year": "2012",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib60",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.1186/1748-5908-9-14",
+          "article-title": "No more ‘business as usual’ with audit and feedback interventions: towards an agenda for a reinvigorated intervention",
+          "volume": "9",
+          "author": "Ivers",
+          "year": "2014",
+          "journal-title": "Implement Sci"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib61",
+          "first-page": "1423",
+          "article-title": "No magic bullets: a systematic review of 102 trials of interventions to improve professional practice",
+          "volume": "153",
+          "author": "Oxman",
+          "year": "1995",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib62",
+          "doi-asserted-by": "crossref",
+          "first-page": "1225",
+          "DOI": "10.1016/S0140-6736(03)14546-1",
+          "article-title": "From best evidence to best practice: effective implementation of change in patients' care",
+          "volume": "362",
+          "author": "Grol",
+          "year": "2003",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib63",
+          "doi-asserted-by": "crossref",
+          "first-page": "62",
+          "DOI": "10.1093/ageing/afs100",
+          "article-title": "Guidelines for people not for diseases: the challenges of applying UK clinical guidelines to people with multimorbidity",
+          "volume": "42",
+          "author": "Hughes",
+          "year": "2013",
+          "journal-title": "Age Ageing"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib64",
+          "doi-asserted-by": "crossref",
+          "first-page": "831",
+          "DOI": "10.1001/jama.2009.205",
+          "article-title": "Scientific evidence underlying the ACC/AHA clinical practice guidelines",
+          "volume": "301",
+          "author": "Tricoci",
+          "year": "2009",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib65",
+          "doi-asserted-by": "crossref",
+          "first-page": "f5535",
+          "DOI": "10.1136/bmj.f5535",
+          "article-title": "Ensuring the integrity of clinical practice guidelines: a tool for protecting patients",
+          "volume": "347",
+          "author": "Lenzer",
+          "year": "2013",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib66",
+          "doi-asserted-by": "crossref",
+          "first-page": "e37413",
+          "DOI": "10.1371/journal.pone.0037413",
+          "article-title": "Conflict of interest policies for organizations producing a large number of clinical practice guidelines",
+          "volume": "7",
+          "author": "Norris",
+          "year": "2012",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib67",
+          "doi-asserted-by": "crossref",
+          "first-page": "1624",
+          "DOI": "10.1001/jama.290.12.1624",
+          "article-title": "Practical clinical trials: increasing the value of clinical research for decision making in clinical and health policy",
+          "volume": "290",
+          "author": "Tunis",
+          "year": "2003",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib68",
+          "doi-asserted-by": "crossref",
+          "first-page": "101",
+          "DOI": "10.1016/S0140-6736(13)62329-6",
+          "article-title": "Biomedical research: increasing value, reducing waste",
+          "volume": "383",
+          "author": "Macleod",
+          "year": "2014",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib69",
+          "doi-asserted-by": "crossref",
+          "first-page": "156",
+          "DOI": "10.1016/S0140-6736(13)62229-1",
+          "article-title": "How to increase value and reduce waste when research priorities are set",
+          "volume": "383",
+          "author": "Chalmers",
+          "year": "2014",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib70",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1080/08989621.2013.768931",
+          "article-title": "The cycle of bias in health research: a framework and toolbox for critical appraisal training",
+          "volume": "20",
+          "author": "Odierna",
+          "year": "2013",
+          "journal-title": "Account Res"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib71",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1001500",
+          "DOI": "10.1371/journal.pmed.1001500",
+          "article-title": "Expanding disease definitions in guidelines and expert panel ties to industry: a cross-sectional study of common conditions in the United States",
+          "volume": "10",
+          "author": "Moynihan",
+          "year": "2013",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib72",
+          "doi-asserted-by": "crossref",
+          "first-page": "150",
+          "DOI": "10.1093/intqhc/mzv123",
+          "article-title": "Lean interventions in healthcare: do they actually work? A systematic literature review",
+          "volume": "28",
+          "author": "Moraros",
+          "year": "2016",
+          "journal-title": "Int J Qual Health Care"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib73",
+          "doi-asserted-by": "crossref",
+          "first-page": "421",
+          "DOI": "10.1097/ACM.0000000000000545",
+          "article-title": "Defining competencies for education in health care value: recommendations from the University of California, San Francisco Center for Healthcare Value Training Initiative",
+          "volume": "90",
+          "author": "Moriates",
+          "year": "2014",
+          "journal-title": "Acad Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib74",
+          "doi-asserted-by": "crossref",
+          "first-page": "831",
+          "DOI": "10.1111/1475-6773.00149",
+          "article-title": "The contribution of primary care systems to health outcomes within Organization for Economic Cooperation and Development (OECD) countries, 1970–1998",
+          "volume": "38",
+          "author": "Macinko",
+          "year": "2003",
+          "journal-title": "Health Serv Res"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib75",
+          "doi-asserted-by": "crossref",
+          "first-page": "457",
+          "DOI": "10.1111/j.1468-0009.2005.00409.x",
+          "article-title": "Contribution of primary care to health systems and health",
+          "volume": "83",
+          "author": "Starfield",
+          "year": "2005",
+          "journal-title": "Milbank Q"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib76",
+          "doi-asserted-by": "crossref",
+          "first-page": "424",
+          "DOI": "10.1056/NEJM199208063270613",
+          "article-title": "Gatekeeping revisited—protecting patients from overtreatment",
+          "volume": "327",
+          "author": "Franks",
+          "year": "1992",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib77",
+          "doi-asserted-by": "crossref",
+          "first-page": "708",
+          "DOI": "10.1007/s11606-013-2672-1",
+          "article-title": "The impact of cost displays on primary care physician laboratory test ordering",
+          "volume": "29",
+          "author": "Horn",
+          "year": "2014",
+          "journal-title": "J Gen Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib78",
+          "doi-asserted-by": "crossref",
+          "first-page": "1267",
+          "DOI": "10.1097/MLR.0b013e31817e18ae",
+          "article-title": "Electronic health record components and the quality of care",
+          "volume": "46",
+          "author": "Keyhani",
+          "year": "2008",
+          "journal-title": "Med Care"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib79",
+          "doi-asserted-by": "crossref",
+          "first-page": "152",
+          "DOI": "10.1186/s13012-014-0152-6",
+          "article-title": "Are multifaceted interventions more effective than single-component interventions in changing health-care professionals' behaviours? An overview of systematic reviews",
+          "volume": "9",
+          "author": "Squires",
+          "year": "2014",
+          "journal-title": "Implement Sci"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib80",
+          "first-page": "15",
+          "article-title": "Towards better test utilization—strategies to improve physician ordering and their impact on patient outcomes",
+          "volume": "26",
+          "author": "Freedman",
+          "year": "2015",
+          "journal-title": "EJIFCC"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib81",
+          "doi-asserted-by": "crossref",
+          "first-page": "514",
+          "DOI": "10.1016/j.ijmedinf.2006.02.004",
+          "article-title": "The impact of computerised physician order entry systems on pathology services: a systematic review",
+          "volume": "76",
+          "author": "Georgiou",
+          "year": "2007",
+          "journal-title": "Int J Med Inform"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib82",
+          "series-title": "Delivering high-quality cancer care: charting a new course for a system in crisis",
+          "year": "2013"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib83",
+          "first-page": "471",
+          "article-title": "Medical reversal: why we must raise the bar before adopting new technologies",
+          "volume": "84",
+          "author": "Prasad",
+          "year": "2011",
+          "journal-title": "Yale J Biol Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib84",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1001276",
+          "DOI": "10.1371/journal.pmed.1001276",
+          "article-title": "How does medical device regulation perform in the United States and the European union? A systematic review",
+          "volume": "9",
+          "author": "Kramer",
+          "year": "2012",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib85",
+          "doi-asserted-by": "crossref",
+          "first-page": "172",
+          "DOI": "10.1111/j.1365-2362.2009.02240.x",
+          "article-title": "Industry sponsorship and selection of comparators in randomized clinical trials",
+          "volume": "40",
+          "author": "Lathyris",
+          "year": "2010",
+          "journal-title": "Eur J Clin Invest"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib86",
+          "doi-asserted-by": "crossref",
+          "first-page": "811",
+          "DOI": "10.1016/j.jclinepi.2014.12.016",
+          "article-title": "Head-to-head randomized trials are mostly industry sponsored and almost always favor the industry sponsor",
+          "volume": "68",
+          "author": "Flacco",
+          "year": "2015",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "issue": "suppl web exclusives",
+          "key": "10.1016/S0140-6736(16)32586-7_bib87",
+          "doi-asserted-by": "crossref",
+          "first-page": "W96",
+          "DOI": "10.1377/hlthaff.W2.96",
+          "article-title": "Geography and the debate over Medicare reform",
+          "author": "Wennberg",
+          "year": "2002",
+          "journal-title": "Health Aff (Millwood)"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib88",
+          "doi-asserted-by": "crossref",
+          "first-page": "2205",
+          "DOI": "10.1377/hlthaff.2013.0879",
+          "article-title": "Access, affordability, and insurance complexity are often worse in the United States compare to ten other countries",
+          "volume": "32",
+          "author": "Schoen",
+          "year": "2013",
+          "journal-title": "Health Aff"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib89",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1001186",
+          "DOI": "10.1371/journal.pmed.1001186",
+          "article-title": "Guidance for evidence-informed policies about health systems: linking guidance development to policy development",
+          "volume": "9",
+          "author": "Lavis",
+          "year": "2012",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib90",
+          "doi-asserted-by": "crossref",
+          "first-page": "51",
+          "DOI": "10.1080/23288604.2016.1124169",
+          "article-title": "Accounting for technical, ethical, and political factors in priority setting",
+          "volume": "2",
+          "author": "Kieslich",
+          "year": "2016",
+          "journal-title": "Health Systems & Reform"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib91",
+          "doi-asserted-by": "crossref",
+          "first-page": "236",
+          "DOI": "10.1017/S0266462315000392",
+          "article-title": "From talk to action: Policy stakeholders, appropriateness, and selective disinvestment",
+          "volume": "31",
+          "author": "Paprica",
+          "year": "2015",
+          "journal-title": "Int J Technol Assess Health Care"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib93",
+          "doi-asserted-by": "crossref",
+          "first-page": "e48",
+          "DOI": "10.1016/S0140-6736(13)62559-3",
+          "article-title": "Health technology assessment in universal health coverage",
+          "volume": "382",
+          "author": "Chalkidou",
+          "year": "2013",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib96",
+          "doi-asserted-by": "crossref",
+          "first-page": "247",
+          "DOI": "10.1186/1472-6963-10-247",
+          "article-title": "Systematic review: effects, design choices, and context of pay-for-performance in health care",
+          "volume": "10",
+          "author": "Van Herck",
+          "year": "2010",
+          "journal-title": "BMC Health Serv Res"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib97",
+          "series-title": "Paying for performance in health care. Implications for health system performance and accountability",
+          "author": "Cashin",
+          "year": "2014"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib98",
+          "doi-asserted-by": "crossref",
+          "first-page": "1573",
+          "DOI": "10.1056/NEJMp078184",
+          "article-title": "Nonpayment for performance? Medicare's new reimbursement rule",
+          "volume": "357",
+          "author": "Rosenthal",
+          "year": "2007",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib99",
+          "author": "Charlesworth"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib100",
+          "doi-asserted-by": "crossref",
+          "first-page": "1175",
+          "DOI": "10.1056/NEJMp1300122",
+          "article-title": "A path forward on Medicare readmissions",
+          "volume": "368",
+          "author": "Joynt",
+          "year": "2013",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib101",
+          "doi-asserted-by": "crossref",
+          "first-page": "426",
+          "DOI": "10.1377/hlthaff.2011.0912",
+          "article-title": "Early results from adoption of bundled payment for diabetes care in the Netherlands show improvement in care coordination",
+          "volume": "31",
+          "author": "de Bakker",
+          "year": "2012",
+          "journal-title": "Health Aff"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib103",
+          "doi-asserted-by": "crossref",
+          "first-page": "1815",
+          "DOI": "10.1001/jamainternmed.2015.4525",
+          "article-title": "Changes in low-value services in year 1 of the medicare pioneer accountable care organization program",
+          "volume": "175",
+          "author": "Schwartz",
+          "year": "2015",
+          "journal-title": "JAMA Int Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib105",
+          "doi-asserted-by": "crossref",
+          "first-page": "62",
+          "DOI": "10.7326/0003-4819-158-1-201301010-00012",
+          "article-title": "The unintended consequences of bundled payments",
+          "volume": "158",
+          "author": "Weeks",
+          "year": "2013",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib106",
+          "doi-asserted-by": "crossref",
+          "first-page": "27",
+          "DOI": "10.7326/0003-4819-158-1-201301010-00006",
+          "article-title": "The association between health care quality and cost: a systematic review",
+          "volume": "158",
+          "author": "Hussey",
+          "year": "2013",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib107",
+          "series-title": "Government-sponsored health insurance in India: are you covered?",
+          "author": "La Forgia",
+          "year": "2012"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib108",
+          "doi-asserted-by": "crossref",
+          "first-page": "2334",
+          "DOI": "10.1377/hlthaff.2012.0338",
+          "article-title": "The new era of payment reform, spending targets, and cost containment in Massachusetts: early lessons for the nation",
+          "volume": "31",
+          "author": "Mechanic",
+          "year": "2012",
+          "journal-title": "Health Aff"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib109",
+          "doi-asserted-by": "crossref",
+          "first-page": "1977",
+          "DOI": "10.1377/hlthaff.2012.0350",
+          "article-title": "Fee-for-service will remain a feature of major payment reforms, requiring more changes in Medicare physician payment",
+          "volume": "31",
+          "author": "Ginsburg",
+          "year": "2012",
+          "journal-title": "Health Aff (Millwood)"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib110",
+          "doi-asserted-by": "crossref",
+          "first-page": "278",
+          "DOI": "10.1377/hlthaff.25.1.278",
+          "article-title": "No-fault compensation in New Zealand: harmonizing injury compensation, provider accountability, and patient safety",
+          "volume": "25",
+          "author": "Bismark",
+          "year": "2006",
+          "journal-title": "Health Aff"
+        },
+        {
+          "key": "10.1016/S0140-6736(16)32586-7_bib111",
+          "series-title": "The prince. P.F",
+          "author": "Machiavelli",
+          "year": "1910"
+        }
+      ],
+      "container-title": [
+        "The Lancet"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0140673616325867?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0140673616325867?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            4
+          ]
+        ],
+        "date-time": "2022-03-04T06:34:25Z",
+        "timestamp": 1646375665000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0140673616325867"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            7
+          ]
+        ]
+      },
+      "references-count": 102,
+      "journal-issue": {
+        "issue": "10090",
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              7
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0140673616325867"
+      ],
+      "URL": "https://doi.org/10.1016/s0140-6736(16)32586-7",
+      "relation": {},
+      "ISSN": [
+        "0140-6736"
+      ],
+      "issn-type": [
+        {
+          "value": "0140-6736",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            7
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Levers for addressing medical underuse and overuse: achieving high-value health care",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "The Lancet",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/S0140-6736(16)32586-7",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "https://doi.org/10.1016/S0140-6736(16)32588-0",
+          "name": "associatedlink",
+          "label": "CrossRef DOI link to the associated document"
+        },
+        {
+          "value": "https://doi.org/10.1016/S0140-6736(16)32570-3",
+          "name": "associatedlink",
+          "label": "CrossRef DOI link to the associated document"
+        },
+        {
+          "value": "https://doi.org/10.1016/S0140-6736(16)32573-9",
+          "name": "associatedlink",
+          "label": "CrossRef DOI link to the associated document"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2017 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

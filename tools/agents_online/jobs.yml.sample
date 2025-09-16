@@ -1,0 +1,6 @@
+jobs:
+  - name: httpbin
+    url: https://httpbin.org/get
+    method: GET
+    params:
+      q: test

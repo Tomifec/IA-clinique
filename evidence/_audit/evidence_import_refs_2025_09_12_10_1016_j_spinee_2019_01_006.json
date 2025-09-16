@@ -1,0 +1,770 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_spinee_2019_01_006.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_spinee_2019_01_006",
+  "doi": "10.1016/j.spinee.2019.01.006",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:10.753213Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2025-09-08T06:51:01Z",
+        "timestamp": 1757314261590
+      },
+      "reference-count": 47,
+      "publisher": "Elsevier BV",
+      "issue": "6",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2019-06-01T00:00:00Z",
+            "timestamp": 1559347200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "clinicalkey.fr",
+          "clinicalkey.com.au",
+          "thespinejournalonline.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The Spine Journal"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.spinee.2019.01.006",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            1,
+            30
+          ]
+        ],
+        "date-time": "2019-01-30T10:19:14Z",
+        "timestamp": 1548843554000
+      },
+      "page": "1009-1018",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 16,
+      "title": [
+        "Comparison of the history and physical examination for hip osteoarthritis and lumbar spinal stenosis"
+      ],
+      "prefix": "10.1016",
+      "volume": "19",
+      "author": [
+        {
+          "given": "James",
+          "family": "Rainville",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "James V.",
+          "family": "Bono",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Eric B.",
+          "family": "Laxer",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "David H.",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "John M.",
+          "family": "Lavelle",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Aage",
+          "family": "Indahl",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "David G.",
+          "family": "Borenstein",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Andy J.",
+          "family": "Haig",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jeffrey N.",
+          "family": "Katz",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0001",
+          "doi-asserted-by": "crossref",
+          "first-page": "168",
+          "DOI": "10.1097/00007632-197903000-00014",
+          "article-title": "Lumbar spinal stenosis. A cause of continued pain and disability in patients after total hip arthroplasty",
+          "volume": "4",
+          "author": "Bohl",
+          "year": "1979",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0002",
+          "doi-asserted-by": "crossref",
+          "first-page": "316",
+          "DOI": "10.1097/00007632-198304000-00014",
+          "article-title": "Hip-spine syndrome",
+          "volume": "8",
+          "author": "Offierski",
+          "year": "1983",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0003",
+          "doi-asserted-by": "crossref",
+          "first-page": "2089",
+          "DOI": "10.1097/BRS.0b013e31825d213d",
+          "article-title": "Difficulty of diagnosing the origin of lower leg pain in patients with both lumbar spinal stenosis and hip joint osteoarthritis",
+          "volume": "37",
+          "author": "Saito",
+          "year": "2012",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0004",
+          "doi-asserted-by": "crossref",
+          "first-page": "173",
+          "DOI": "10.3928/0147-7447-20030201-20",
+          "article-title": "Overdiagnosed sciatica and stenosis, underdiagnosed hip arthritis",
+          "volume": "26",
+          "author": "Swezey",
+          "year": "2003",
+          "journal-title": "Orthopedics"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0005",
+          "doi-asserted-by": "crossref",
+          "first-page": "273",
+          "DOI": "10.1016/S0883-5403(06)80089-6",
+          "article-title": "Lumbar spinal stenosis and lower extremity arthroplasty",
+          "volume": "8",
+          "author": "McNamara",
+          "year": "1999",
+          "journal-title": "J Arthroplasty"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0006",
+          "doi-asserted-by": "crossref",
+          "first-page": "403",
+          "DOI": "10.2106/00004623-199072030-00013",
+          "article-title": "Abnormal magnetic-resonance scans of the lumbar spine in asymptomatic subjects",
+          "volume": "72",
+          "author": "Boden",
+          "year": "1990",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0007",
+          "doi-asserted-by": "crossref",
+          "first-page": "713",
+          "DOI": "10.1080/00016470410004085",
+          "article-title": "Radiographic case definitions and prevalence of osteoarthrosis of the hip: a survey of 4151 subjects in the Osteoarthritis Substudy of the Copenhagen City Heart Study",
+          "volume": "75",
+          "author": "Jacobsen",
+          "year": "2004",
+          "journal-title": "Acta Orthop Scand"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0008",
+          "doi-asserted-by": "crossref",
+          "first-page": "545",
+          "DOI": "10.1016/j.spinee.2009.03.005",
+          "article-title": "Spinal stenosis prevalence and association with symptoms: the Framingham Study",
+          "volume": "9",
+          "author": "Kalichman",
+          "year": "2009",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0009",
+          "doi-asserted-by": "crossref",
+          "first-page": "809",
+          "DOI": "10.3899/jrheum.080677",
+          "article-title": "Prevalence of hip symptoms and radiographic and symptomatic hip osteoarthritis in African Americans and Caucasians: the Johnston County Osteoarthritis Project",
+          "volume": "36",
+          "author": "Jordan",
+          "year": "2009",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0010",
+          "doi-asserted-by": "crossref",
+          "first-page": "783",
+          "DOI": "10.1016/j.joca.2013.02.656",
+          "article-title": "Associations between radiographic lumbar spinal stenosis and clinical symptoms in the general population: the Wakayama Spine Study",
+          "volume": "21",
+          "author": "Ishimoto",
+          "year": "2013",
+          "journal-title": "Osteoarthritis Cartilage"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0011",
+          "doi-asserted-by": "crossref",
+          "first-page": "h5983",
+          "DOI": "10.1136/bmj.h5983",
+          "article-title": "Association of hip pain with radiographic evidence of hip osteoarthritis: diagnostic test study",
+          "volume": "351",
+          "author": "Kim",
+          "year": "2015",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0012",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1016/0049-0172(89)90057-7",
+          "article-title": "Spinal stenosis: a comprehensive review of the literature",
+          "volume": "19",
+          "author": "Moreland",
+          "year": "1989",
+          "journal-title": "Semin Arthritis Rheum"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0013",
+          "doi-asserted-by": "crossref",
+          "first-page": "514",
+          "DOI": "10.1093/oxfordjournals.aje.a115687",
+          "article-title": "Defining osteoarthritis of the hip for epidemiologic studies",
+          "volume": "132",
+          "author": "Croft",
+          "year": "1990",
+          "journal-title": "Am J Epidemiol"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0014",
+          "doi-asserted-by": "crossref",
+          "first-page": "291",
+          "DOI": "10.4103/0019-5413.96386",
+          "article-title": "Prevalence of hip pathology in patients over age 50 with spinal conditions requiring surgery",
+          "volume": "46",
+          "author": "Lee",
+          "year": "2012",
+          "journal-title": "Indian J Orthop"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "E27",
+          "DOI": "10.1097/BRS.0b013e31818b8882",
+          "article-title": "How often is low back pain not coming from the back?",
+          "volume": "34",
+          "author": "Sembrano",
+          "year": "2009",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0016",
+          "doi-asserted-by": "crossref",
+          "first-page": "677",
+          "DOI": "10.1093/neurosurgery/30.CN_suppl_1.677",
+          "article-title": "Diagnosis and management of lumbar spinal stenosis",
+          "volume": "30",
+          "author": "Weinstein",
+          "year": "1983",
+          "journal-title": "Clin Neurosurg"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0017",
+          "doi-asserted-by": "crossref",
+          "first-page": "123",
+          "DOI": "10.3928/0147-7447-19980201-05",
+          "article-title": "Referral patterns of hip pain in patients undergoing total hip replacement",
+          "volume": "21",
+          "author": "Khan",
+          "year": "1998",
+          "journal-title": "Orthopedics"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0018",
+          "doi-asserted-by": "crossref",
+          "first-page": "31",
+          "DOI": "10.3109/03009748709102175",
+          "article-title": "Criteria for the classification of osteoarthritis of the knee and hip",
+          "volume": "65",
+          "author": "Altman",
+          "year": "1987",
+          "journal-title": "Scand J Rheumatol (Suppl)"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0019",
+          "doi-asserted-by": "crossref",
+          "first-page": "355",
+          "DOI": "10.1093/rheumatology/38.4.355",
+          "article-title": "Determinants of WOMAC function, pain and stiffness scores: evidence for the role of low back pain, symptom counts, fatigue and depression in osteoarthritis, rheumatoid arthritis and fibromyalgia",
+          "volume": "38",
+          "author": "Wolfe",
+          "year": "1999",
+          "journal-title": "Rheumatology"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0020",
+          "doi-asserted-by": "crossref",
+          "first-page": "1736",
+          "DOI": "10.1097/00007632-199708010-00010",
+          "article-title": "Groin pain associated with lower lumbar disc herniation",
+          "volume": "22",
+          "author": "Yukawa",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0021",
+          "doi-asserted-by": "crossref",
+          "first-page": "119",
+          "DOI": "10.1308/003588404322827518",
+          "article-title": "Hip osteoarthritis: where is the pain?",
+          "volume": "86",
+          "author": "Khan",
+          "year": "2004",
+          "journal-title": "Ann R Coll Surg Engl"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0022",
+          "doi-asserted-by": "crossref",
+          "first-page": "22",
+          "DOI": "10.1111/j.1526-4637.2006.00153.x",
+          "article-title": "Hip joint pain referral patterns: a descriptive study",
+          "volume": "9",
+          "author": "Lesher",
+          "year": "2008",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0023",
+          "doi-asserted-by": "crossref",
+          "first-page": "1282",
+          "DOI": "10.1097/BRS.0b013e31828f463e",
+          "article-title": "Comparison of radicular symptoms caused by lumbar disc herniation and lumbar spinal stenosis in the elderly",
+          "volume": "38",
+          "author": "Rainville",
+          "year": "2013",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0024",
+          "doi-asserted-by": "crossref",
+          "first-page": "1236",
+          "DOI": "10.1002/art.1780380910",
+          "article-title": "Degenerative lumbar spinal stenosis: diagnostic value of the history and physical examination",
+          "volume": "38",
+          "author": "Katz",
+          "year": "1995",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0025",
+          "doi-asserted-by": "crossref",
+          "first-page": "434",
+          "DOI": "10.5435/JAAOS-20-07-434",
+          "article-title": "Hip-spine syndrome",
+          "volume": "20",
+          "author": "Devin",
+          "year": "2012",
+          "journal-title": "J Am Acad Orthop Surg"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0026",
+          "doi-asserted-by": "crossref",
+          "first-page": "1239",
+          "DOI": "10.1097/BRS.0000000000001476",
+          "article-title": "ISSLS prize winner: consensus on the clinical diagnosis of lumbar spinal stenosis: results of an International Delphi Study",
+          "volume": "41",
+          "author": "Tomkins-Lane",
+          "year": "2016",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0027",
+          "doi-asserted-by": "crossref",
+          "first-page": "471",
+          "DOI": "10.1016/S0889-857X(21)00058-2",
+          "article-title": "Diagnosis of lumbar spinal stenosis",
+          "volume": "20",
+          "author": "Katz",
+          "year": "1994",
+          "journal-title": "Rheum Dis Clin North Am"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0028",
+          "doi-asserted-by": "crossref",
+          "first-page": "1296",
+          "DOI": "10.1093/ptj/81.7.1296",
+          "article-title": "Examination findings and self-reported walking capacity in patients with lumbar spinal stenosis",
+          "volume": "81",
+          "author": "Iversen",
+          "year": "2001",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0029",
+          "doi-asserted-by": "crossref",
+          "first-page": "242",
+          "DOI": "10.1159/000082369",
+          "article-title": "The clinical syndrome associated with lumbar spinal stenosis",
+          "volume": "52",
+          "author": "Goh",
+          "year": "2004",
+          "journal-title": "Eur Neurol"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0030",
+          "doi-asserted-by": "crossref",
+          "first-page": "120",
+          "DOI": "10.1093/ptj/85.2.120",
+          "article-title": "Relationship of physical examination findings and self-reported symptom severity and physical function in patients with degenerative lumbar conditions",
+          "volume": "85",
+          "author": "Lyle",
+          "year": "2005",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0031",
+          "doi-asserted-by": "crossref",
+          "first-page": "373",
+          "DOI": "10.1002/art.23310",
+          "article-title": "Reliability of the hip examination in osteoarthritis: effect of standardization",
+          "volume": "59",
+          "author": "Cibere",
+          "year": "2008",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0032",
+          "doi-asserted-by": "crossref",
+          "first-page": "161",
+          "DOI": "10.1016/j.arthro.2009.07.015",
+          "article-title": "The pattern and technique in the clinical evaluation of the adult hip: the common physical examination tests of hip specialists",
+          "volume": "26",
+          "author": "Martin",
+          "year": "2010",
+          "journal-title": "Arthroscopy"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0033",
+          "doi-asserted-by": "crossref",
+          "first-page": "2628",
+          "DOI": "10.1001/jama.2010.1833",
+          "article-title": "Do older adults with lower extremity pain have the clinical syndrome of lumbar spinal stenosis",
+          "volume": "304",
+          "author": "Suri",
+          "year": "2010",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0034",
+          "doi-asserted-by": "crossref",
+          "first-page": "280",
+          "DOI": "10.1097/00003086-200402000-00044",
+          "article-title": "Differential diagnosis of hip disease versus spine disease",
+          "volume": "419",
+          "author": "Brown",
+          "year": "2004",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0035",
+          "first-page": "54",
+          "article-title": "Misdiagnosis of hip pain could lead to unnecessary spinal surgery",
+          "volume": "9",
+          "author": "van Zyl",
+          "year": "2010",
+          "journal-title": "SA Orthop J"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0036",
+          "doi-asserted-by": "crossref",
+          "first-page": "E1",
+          "DOI": "10.3171/2011.7.FOCUS11114",
+          "article-title": "Diagnostic pitfalls in spine surgery: masqueraders of surgical spine disease",
+          "volume": "31",
+          "author": "Walcott",
+          "year": "2011",
+          "journal-title": "Neurosurg Focus"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0037",
+          "doi-asserted-by": "crossref",
+          "first-page": "1241",
+          "DOI": "10.1007/s00586-011-2057-2",
+          "article-title": "Development of an assessment schedule for patients with low back-associated leg pain in primary care: a Delphi consensus study",
+          "volume": "21",
+          "author": "Konstantinou",
+          "year": "2012",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0038",
+          "first-page": "422",
+          "article-title": "The value of bupivacaine hip injection in the differentiation of coxarthrosis from lower extremity neuropathy",
+          "volume": "18",
+          "author": "Kleiner",
+          "year": "1991",
+          "journal-title": "J Reumatol"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0039",
+          "doi-asserted-by": "crossref",
+          "first-page": "1375",
+          "DOI": "10.1016/j.spinee.2014.05.002",
+          "article-title": "Report of the NIH task force on research standards for chronic low back pain",
+          "volume": "14",
+          "author": "Deyo",
+          "year": "2014",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "1179",
+          "DOI": "10.1016/j.jclinepi.2010.04.011",
+          "article-title": "The Patient-Reported Outcome Measurement System (PROMIS) developed and tested its first wave of adult self-reported health outcome item banks: 2005-2008",
+          "volume": "63",
+          "author": "Cella",
+          "year": "2010",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0041",
+          "doi-asserted-by": "crossref",
+          "first-page": "185",
+          "DOI": "10.3109/17453674.2012.665331",
+          "article-title": "Radiographic evidence of osteoarthritis of the hip: an inter-observer study of 61 hips treated for late-detected developmental hip dislocation",
+          "volume": "83",
+          "author": "Terjesen",
+          "year": "2012",
+          "journal-title": "Acta Orthop"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0042",
+          "doi-asserted-by": "crossref",
+          "first-page": "1605",
+          "DOI": "10.1097/BRS.0b013e3181791af3",
+          "article-title": "Reliability of readings of magnetic resonance imaging features of lumbar spinal stenosis",
+          "volume": "33",
+          "author": "Lurie",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0043",
+          "doi-asserted-by": "crossref",
+          "first-page": "768",
+          "DOI": "10.1007/s11606-008-0583-3",
+          "article-title": "The STARD statement for reporting diagnostic accuracy studies: application to the history and physical examination",
+          "volume": "23",
+          "author": "Simel",
+          "year": "2008",
+          "journal-title": "J Gen Intern Med"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0044",
+          "doi-asserted-by": "crossref",
+          "first-page": "647",
+          "DOI": "10.1046/j.1525-1497.2002.10750.x",
+          "article-title": "Simplifying likelihood ratios",
+          "volume": "17",
+          "author": "McGee",
+          "year": "2002",
+          "journal-title": "J Gen Intern Med"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0045",
+          "series-title": "Designing Clinical Research",
+          "author": "Hulley",
+          "year": "1988"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0046",
+          "doi-asserted-by": "crossref",
+          "first-page": "496",
+          "DOI": "10.1111/j.1365-2923.2007.02994.x",
+          "article-title": "Initial diagnostic hypotheses bias analytic information processing in non-visual domains",
+          "volume": "42",
+          "author": "McLaughlin",
+          "year": "2008",
+          "journal-title": "Med Educ"
+        },
+        {
+          "key": "10.1016/j.spinee.2019.01.006_bib0047",
+          "doi-asserted-by": "crossref",
+          "first-page": "23",
+          "DOI": "10.1097/ACM.0000000000001421",
+          "article-title": "The Causes of errors in clinical reasoning: cognitive biases, knowledge deficits, and dual process thinking",
+          "volume": "92",
+          "author": "Norman",
+          "year": "2017",
+          "journal-title": "Acad Med"
+        }
+      ],
+      "container-title": [
+        "The Spine Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1529943019300336?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1529943019300336?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            9,
+            11
+          ]
+        ],
+        "date-time": "2022-09-11T03:50:14Z",
+        "timestamp": 1662868214000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1529943019300336"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            6
+          ]
+        ]
+      },
+      "references-count": 47,
+      "journal-issue": {
+        "issue": "6",
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              6
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1529943019300336"
+      ],
+      "URL": "https://doi.org/10.1016/j.spinee.2019.01.006",
+      "relation": {},
+      "ISSN": [
+        "1529-9430"
+      ],
+      "issn-type": [
+        {
+          "value": "1529-9430",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            6
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Comparison of the history and physical examination for hip osteoarthritis and lumbar spinal stenosis",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "The Spine Journal",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.spinee.2019.01.006",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2019 Elsevier Inc. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

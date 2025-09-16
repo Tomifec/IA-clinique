@@ -1,0 +1,425 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jcm_2009_12_004.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jcm_2009_12_004",
+  "doi": "10.1016/j.jcm.2009.12.004",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:40.466070Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            22
+          ]
+        ],
+        "date-time": "2023-01-22T07:28:00Z",
+        "timestamp": 1674372480607
+      },
+      "reference-count": 24,
+      "publisher": "Elsevier BV",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2010,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2010-03-01T00:00:00Z",
+            "timestamp": 1267401600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Journal of Chiropractic Medicine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jcm.2009.12.004",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2010,
+            3,
+            17
+          ]
+        ],
+        "date-time": "2010-03-17T09:32:19Z",
+        "timestamp": 1268818339000
+      },
+      "page": "11-16",
+      "source": "Crossref",
+      "is-referenced-by-count": 4,
+      "title": [
+        "Abdominal and back pain in a 65-year-old patient with metastatic prostate cancer"
+      ],
+      "prefix": "10.1016",
+      "volume": "9",
+      "author": [
+        {
+          "suffix": "Jr",
+          "given": "Theodore L.",
+          "family": "Johnson",
+          "sequence": "first",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib1",
+          "series-title": "Cancer facts & figures 2009",
+          "year": "2009"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "264",
+          "DOI": "10.3322/caac.20026",
+          "article-title": "Screening for prostate cancer",
+          "volume": "59",
+          "author": "Brawley",
+          "year": "2009",
+          "journal-title": "CA Cancer J Clin"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jcm.2009.12.004_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "164",
+          "DOI": "10.1016/j.amepre.2007.10.003",
+          "article-title": "Screening for prostate cancer in U.S. men: ACPM position statement on preventive practice",
+          "volume": "34",
+          "author": "Lim",
+          "year": "2008",
+          "journal-title": "Am J Prev Med"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "185",
+          "DOI": "10.7326/0003-4819-149-3-200808050-00008",
+          "article-title": "Screening for prostate cancer: U.S. Preventive Services Task Force recommendation statement",
+          "volume": "149",
+          "author": "U.S. Preventive Services Task Force",
+          "year": "2008",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "161",
+          "DOI": "10.3322/CA.2007.0017",
+          "article-title": "Cancer screening in the United States, 2008: a review of current American Cancer Society guidelines and cancer screening issues",
+          "volume": "58",
+          "author": "Smith",
+          "year": "2008",
+          "journal-title": "CA Cancer J Clin"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "859",
+          "DOI": "10.1016/S0140-6736(03)12713-4",
+          "article-title": "Prostate cancer epidemiology",
+          "volume": "361",
+          "author": "Grönberg",
+          "year": "2003",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jcm.2009.12.004_bib7",
+          "first-page": "258",
+          "article-title": "An overview of prostate cancer: diagnosis and treatment",
+          "volume": "17",
+          "author": "Strief",
+          "year": "2008",
+          "journal-title": "Medsurg Nurs"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jcm.2009.12.004_bib8",
+          "first-page": "5",
+          "article-title": "Acute onset-low back pain and hip pain secondary to metastatic prostate cancer: a case report",
+          "volume": "48",
+          "author": "Lishchyna",
+          "year": "2004",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib9",
+          "first-page": "756",
+          "article-title": "Clinical features of prostate cancer before diagnosis: a population-based, case-control study",
+          "volume": "56",
+          "author": "Hamilton",
+          "year": "2006",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "1108",
+          "DOI": "10.1016/j.juro.2006.04.075",
+          "article-title": "Sexual behavior, sexually transmitted diseases and prostatitis: the risk of prostate cancer in black men",
+          "volume": "176",
+          "author": "Sarma",
+          "year": "2006",
+          "journal-title": "J Urol"
+        },
+        {
+          "issue": "13",
+          "key": "10.1016/j.jcm.2009.12.004_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "1853",
+          "DOI": "10.1503/cmaj.060955",
+          "article-title": "Prostate-specific antigen in the early detection of prostate cancer",
+          "volume": "176",
+          "author": "Thompson",
+          "year": "2007",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "20",
+          "DOI": "10.1186/1471-2490-8-20",
+          "article-title": "Prostate cancer—to screen, or not to screen, is that the question?",
+          "volume": "8",
+          "author": "Rosser",
+          "year": "2008",
+          "journal-title": "BMC Urol"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1310",
+          "DOI": "10.1056/NEJMoa0810696",
+          "article-title": "PLCO Project Team. Mortality results from a randomized prostate-cancer screening trial",
+          "volume": "360",
+          "author": "Andriole",
+          "year": "2009",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "1320",
+          "DOI": "10.1056/NEJMoa0810084",
+          "article-title": "Screening and prostate-cancer mortality in a randomized European study",
+          "volume": "360",
+          "author": "Fritz",
+          "year": "2009",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "24",
+          "DOI": "10.1111/j.1532-5415.2008.02091.x",
+          "article-title": "Cause of death in older men after the diagnosis of prostate cancer",
+          "volume": "57",
+          "author": "Ketchandji",
+          "year": "2009",
+          "journal-title": "J Am Geriatr Soc"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jcm.2009.12.004_bib16",
+          "first-page": "317",
+          "article-title": "The cost of treating skeletal-related events in patients with prostate cancer",
+          "volume": "14",
+          "author": "Lage",
+          "year": "2008",
+          "journal-title": "Am J Manag Care"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "748",
+          "DOI": "10.1016/j.urology.2007.06.1105",
+          "article-title": "Prostate cancer risk with positive family history, normal prostate examination findings, and PSA less than 4.0 ng/mL",
+          "volume": "70",
+          "author": "Canby-Hagino",
+          "year": "2007",
+          "journal-title": "Urol"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "2239",
+          "DOI": "10.1056/NEJMoa031918",
+          "article-title": "Prevalence of prostate cancer among men with a prostate-specific antigen level ≤4.0 ng per milliliter",
+          "volume": "350",
+          "author": "Thompson",
+          "year": "2004",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "161",
+          "DOI": "10.1007/s11845-007-0018-x",
+          "article-title": "Is digital rectal examination still necessary in the early detection of prostate cancer?",
+          "volume": "176",
+          "author": "Quinlan",
+          "year": "2007",
+          "journal-title": "Ir J Med Sci"
+        },
+        {
+          "issue": "Suppl 1",
+          "key": "10.1016/j.jcm.2009.12.004_bib20",
+          "first-page": "61",
+          "article-title": "Comparison of digital rectal examination and prostate specific antigen in early detection of prostate cancer",
+          "volume": "27",
+          "author": "Galic",
+          "year": "2003",
+          "journal-title": "Coll Antropol"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "1661",
+          "DOI": "10.1002/cncr.10446",
+          "article-title": "Prospective study of cancer detection in black and white men with normal digital rectal examination but prostate specific antigen equal or greater than 4.0 ng/mL",
+          "volume": "94",
+          "author": "Fowler",
+          "year": "2002",
+          "journal-title": "Cancer"
+        },
+        {
+          "issue": "Suppl 1",
+          "key": "10.1016/j.jcm.2009.12.004_bib22",
+          "first-page": "3",
+          "article-title": "Update on the diagnosis and management of prostate cancer",
+          "volume": "15",
+          "author": "LaSpina",
+          "year": "2008",
+          "journal-title": "Can J Urol"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jcm.2009.12.004_bib23",
+          "first-page": "4078",
+          "article-title": "Outcome analysis of prostate cancer patients with pre-treatment PSA greater than 50 ng/ml",
+          "volume": "15",
+          "author": "Wiebe",
+          "year": "2008",
+          "journal-title": "Can J Urol"
+        },
+        {
+          "key": "10.1016/j.jcm.2009.12.004_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "1990",
+          "DOI": "10.1016/S0022-5347(05)64279-6",
+          "article-title": "The accuracy of the increased prostate specific antigen level (greater than or equal to 20 ng./ml.) in predicting prostate cancer: is biopsy always required?",
+          "volume": "168",
+          "author": "Gerstenbluth",
+          "year": "2002",
+          "journal-title": "J Urol"
+        }
+      ],
+      "container-title": [
+        "Journal of Chiropractic Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1556370710000052?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1556370710000052?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2018,
+            12,
+            12
+          ]
+        ],
+        "date-time": "2018-12-12T14:24:10Z",
+        "timestamp": 1544624650000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1556370710000052"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2010,
+            3
+          ]
+        ]
+      },
+      "references-count": 24,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2010,
+              3
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1556370710000052"
+      ],
+      "URL": "https://doi.org/10.1016/j.jcm.2009.12.004",
+      "relation": {},
+      "ISSN": [
+        "1556-3707"
+      ],
+      "issn-type": [
+        {
+          "value": "1556-3707",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            3
+          ]
+        ]
+      }
+    }
+  }
+}

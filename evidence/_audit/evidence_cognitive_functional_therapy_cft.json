@@ -1,0 +1,779 @@
+{
+  "file": "evidence\\evidence_cognitive_functional_therapy_cft.md",
+  "id": "evidence_cognitive_functional_therapy_cft",
+  "doi": "10.1016/S0140-6736(23)00441-5",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:32.158862Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T13:08:40Z",
+        "timestamp": 1757682520771,
+        "version": "3.37.3"
+      },
+      "reference-count": 32,
+      "publisher": "Elsevier BV",
+      "issue": "10391",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2023-06-01T00:00:00Z",
+            "timestamp": 1685577600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2023-06-01T00:00:00Z",
+            "timestamp": 1685577600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2023-06-01T00:00:00Z",
+            "timestamp": 1685577600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2023-06-01T00:00:00Z",
+            "timestamp": 1685577600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2023-06-01T00:00:00Z",
+            "timestamp": 1685577600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2023-06-01T00:00:00Z",
+            "timestamp": 1685577600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100000925",
+          "name": "National Health and Medical Research Council",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "1145271"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100000925",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100001797",
+          "name": "Curtin University of Technology",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100001797",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "clinicalkey.com.au",
+          "clinicalkey.es",
+          "clinicalkey.com",
+          "em-consulte.com",
+          "thelancet.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The Lancet"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1016/s0140-6736(23)00441-5",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2023,
+            5,
+            2
+          ]
+        ],
+        "date-time": "2023-05-02T22:30:48Z",
+        "timestamp": 1683066648000
+      },
+      "page": "1866-1877",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 131,
+      "title": [
+        "Cognitive functional therapy with or without movement sensor biofeedback versus usual care for chronic, disabling low back pain (RESTORE): a randomised, controlled, three-arm, parallel group, phase 3, clinical trial"
+      ],
+      "prefix": "10.1016",
+      "volume": "401",
+      "author": [
+        {
+          "given": "Peter",
+          "family": "Kent",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Terry",
+          "family": "Haines",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter",
+          "family": "O'Sullivan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Anne",
+          "family": "Smith",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Amity",
+          "family": "Campbell",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Robert",
+          "family": "Schutze",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stephanie",
+          "family": "Attwell",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "J P",
+          "family": "Caneiro",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Robert",
+          "family": "Laird",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kieran",
+          "family": "O'Sullivan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alison",
+          "family": "McGregor",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jan",
+          "family": "Hartvigsen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Den-Ching A",
+          "family": "Lee",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alistair",
+          "family": "Vickery",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mark",
+          "family": "Hancock",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "220",
+          "DOI": "10.1186/s12891-016-1071-2",
+          "article-title": "What have we learned from ten years of trajectory research in low back pain?",
+          "volume": "17",
+          "author": "Kongsted",
+          "year": "2016",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "2356",
+          "DOI": "10.1016/S0140-6736(18)30480-X",
+          "article-title": "What low back pain is and why we need to pay attention",
+          "volume": "391",
+          "author": "Hartvigsen",
+          "year": "2018",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "715",
+          "DOI": "10.1016/j.jpain.2012.03.009",
+          "article-title": "The economic costs of pain in the United States",
+          "volume": "13",
+          "author": "Gaskin",
+          "year": "2012",
+          "journal-title": "J Pain"
+        },
+        {
+          "year": "2016",
+          "series-title": "Low back pain and sciatica in over 16s: assessment and management",
+          "key": "10.1016/S0140-6736(23)00441-5_bib4"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib5",
+          "article-title": "Exercise therapy for chronic low back pain",
+          "volume": "9",
+          "author": "Hayden",
+          "year": "2021",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib6",
+          "article-title": "Psychological therapies for the management of chronic pain (excluding headache) in adults",
+          "volume": "8",
+          "author": "Williams",
+          "year": "2020",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "h444",
+          "DOI": "10.1136/bmj.h444",
+          "article-title": "Multidisciplinary biopsychosocial rehabilitation for chronic low back pain: Cochrane systematic review and meta-analysis",
+          "volume": "350",
+          "author": "Kamper",
+          "year": "2015",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "916",
+          "DOI": "10.1002/j.1532-2149.2012.00252.x",
+          "article-title": "Efficacy of classification-based cognitive functional therapy in patients with non-specific chronic low back pain: a randomized controlled trial",
+          "volume": "17",
+          "author": "Vibe Fersum",
+          "year": "2013",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "782",
+          "DOI": "10.1136/bjsports-2019-100780",
+          "article-title": "Cognitive functional therapy compared with a group-based exercise and education intervention for chronic low back pain: a multicentre randomised controlled trial (RCT)",
+          "volume": "54",
+          "author": "O'Keeffe",
+          "year": "2020",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "2430",
+          "DOI": "10.1097/j.pain.0000000000002644",
+          "article-title": "Cognitive functional therapy compared with core exercise and manual therapy in patients with chronic low back pain: randomised controlled trial",
+          "volume": "163",
+          "author": "Castro",
+          "year": "2022",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.1186/s12891-015-0591-5",
+          "article-title": "The effect of changing movement and posture using motion-sensor biofeedback, versus guidelines-based care, on the clinical outcomes of people with sub-acute or chronic low back pain-a multicentre, cluster-randomised, placebo-controlled, pilot trial",
+          "volume": "16",
+          "author": "Kent",
+          "year": "2015",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "year": "1994",
+          "series-title": "SF-36 health survey scoring manual for English language applications: Australia/New Zealand, Canada, United Kingdom",
+          "key": "10.1016/S0140-6736(23)00441-5_bib12"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib13",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2019-031133",
+          "article-title": "RESTORE-Cognitive functional therapy with or without movement sensor biofeedback versus usual care for chronic, disabling low back pain: study protocol for a randomised controlled trial",
+          "volume": "9",
+          "author": "Kent",
+          "year": "2019",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "141",
+          "DOI": "10.1097/00007632-198303000-00004",
+          "article-title": "A study of the natural history of back pain. Part I: development of a reliable and sensitive measure of disability in low-back pain",
+          "volume": "8",
+          "author": "Roland",
+          "year": "1983",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "2061",
+          "DOI": "10.1093/pm/pnaa034",
+          "article-title": "Cognitive functional therapy for people with nonspecific persistent low back pain in a secondary care setting—a propensity matched, case-control feasibility study",
+          "volume": "21",
+          "author": "Ussing",
+          "year": "2020",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "408",
+          "DOI": "10.1093/ptj/pzy022",
+          "article-title": "Cognitive functional therapy: an integrated behavioral approach for the targeted management of disabling low back pain",
+          "volume": "98",
+          "author": "O'Sullivan",
+          "year": "2018",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "309",
+          "DOI": "10.1186/s12891-018-2233-1",
+          "article-title": "Subgroups of lumbo-pelvic flexion kinematics are present in people with and without persistent low back pain",
+          "volume": "19",
+          "author": "Laird",
+          "year": "2018",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "1727",
+          "DOI": "10.1007/s11136-011-9903-x",
+          "article-title": "Development and preliminary testing of the new five-level version of EQ-5D (EQ-5D-5L)",
+          "volume": "20",
+          "author": "Herdman",
+          "year": "2011",
+          "journal-title": "Qual Life Res"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "753",
+          "DOI": "10.1016/j.jval.2015.05.009",
+          "article-title": "The iMTA productivity cost questionnaire: a standardized instrument for measuring and valuing health-related productivity losses",
+          "volume": "18",
+          "author": "Bouwmans",
+          "year": "2015",
+          "journal-title": "Value Health"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "82",
+          "DOI": "10.1186/1471-2474-7-82",
+          "article-title": "Responsiveness and minimal clinically important difference for pain and disability instruments in low back pain patients",
+          "volume": "7",
+          "author": "Lauridsen",
+          "year": "2006",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "1610",
+          "DOI": "10.1001/jama.2019.3087",
+          "article-title": "Reporting of multi-arm parallel-group randomized trials: extension of the CONSORT 2010 statement",
+          "volume": "321",
+          "author": "Juszczak",
+          "year": "2019",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "105",
+          "DOI": "10.1186/s12874-018-0559-x",
+          "article-title": "Appropriate statistical methods for analysing partially nested randomised controlled trials with continuous outcomes: a simulation study",
+          "volume": "18",
+          "author": "Candlish",
+          "year": "2018",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "279",
+          "DOI": "10.4300/JGME-D-12-00156.1",
+          "article-title": "Using effect size—or why the p value is not enough",
+          "volume": "4",
+          "author": "Sullivan",
+          "year": "2012",
+          "journal-title": "J Grad Med Educ"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "90",
+          "DOI": "10.1097/BRS.0b013e31815e3a10",
+          "article-title": "Interpreting change scores for pain and functional status in low back pain: towards international consensus regarding minimal important change",
+          "volume": "33",
+          "author": "Ostelo",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "8",
+          "DOI": "10.1111/j.1524-4733.2009.00660.x",
+          "article-title": "Good research practices for measuring drug costs in cost-effectiveness analyses: a societal perspective: the ISPOR Drug Cost Task Force report—part II",
+          "volume": "13",
+          "author": "Garrison",
+          "year": "2010",
+          "journal-title": "Value Health"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "723",
+          "DOI": "10.1002/(SICI)1099-1050(199812)7:8<723::AID-HEC392>3.0.CO;2-O",
+          "article-title": "Confidence intervals or surfaces? Uncertainty on the cost-effectiveness plane",
+          "volume": "7",
+          "author": "Briggs",
+          "year": "1998",
+          "journal-title": "Health Econ"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1093/bmb/ldq033",
+          "article-title": "Health outcomes in economic evaluation: the QALY and utilities",
+          "volume": "96",
+          "author": "Whitehead",
+          "year": "2010",
+          "journal-title": "Br Med Bull"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "1139",
+          "DOI": "10.1016/j.jpain.2017.05.003",
+          "article-title": "Development and validation of a daily pain catastrophizing scale",
+          "volume": "18",
+          "author": "Darnall",
+          "year": "2017",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib29",
+          "article-title": "Psychological interventions for chronic, non-specific low back pain: systematic review with network meta-analysis",
+          "volume": "376",
+          "author": "Ho",
+          "year": "2022",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "8",
+          "DOI": "10.1016/j.spinee.2007.10.005",
+          "article-title": "A systematic review of low back pain cost of illness studies in the United States and internationally",
+          "volume": "8",
+          "author": "Dagenais",
+          "year": "2008",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "e802",
+          "DOI": "10.1097/PR9.0000000000000802",
+          "article-title": "Improvements in clinical pain and experimental pain sensitivity after cognitive functional therapy in patients with severe persistent low back pain",
+          "volume": "5",
+          "author": "Vaegter",
+          "year": "2019",
+          "journal-title": "Pain Rep"
+        },
+        {
+          "key": "10.1016/S0140-6736(23)00441-5_bib32",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1093/ptj/pzab188",
+          "article-title": "Training of physical therapists to deliver individualized biopsychosocial interventions to treat musculoskeletal pain conditions: a scoping review",
+          "volume": "101",
+          "author": "Simpson",
+          "year": "2021",
+          "journal-title": "Phys Ther"
+        }
+      ],
+      "updated-by": [
+        {
+          "updated": {
+            "date-parts": [
+              [
+                2023,
+                9,
+                16
+              ]
+            ],
+            "date-time": "2023-09-16T00:00:00Z",
+            "timestamp": 1694822400000
+          },
+          "DOI": "10.1016/s0140-6736(23)01905-0",
+          "type": "erratum",
+          "source": "publisher",
+          "label": "Erratum"
+        },
+        {
+          "updated": {
+            "date-parts": [
+              [
+                2023,
+                6,
+                17
+              ]
+            ],
+            "date-time": "2023-06-17T00:00:00Z",
+            "timestamp": 1686960000000
+          },
+          "DOI": "10.1016/s0140-6736(23)01184-4",
+          "type": "erratum",
+          "source": "publisher",
+          "label": "Erratum"
+        }
+      ],
+      "container-title": [
+        "The Lancet"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0140673623004415?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0140673623004415?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            21
+          ]
+        ],
+        "date-time": "2024-03-21T21:58:51Z",
+        "timestamp": 1711058331000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0140673623004415"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            6
+          ]
+        ]
+      },
+      "references-count": 32,
+      "journal-issue": {
+        "issue": "10391",
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              6
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0140673623004415"
+      ],
+      "URL": "https://doi.org/10.1016/s0140-6736(23)00441-5",
+      "relation": {},
+      "ISSN": [
+        "0140-6736"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0140-6736"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            6
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Cognitive functional therapy with or without movement sensor biofeedback versus usual care for chronic, disabling low back pain (RESTORE): a randomised, controlled, three-arm, parallel group, phase 3, clinical trial",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "The Lancet",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/S0140-6736(23)00441-5",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "https://doi.org/10.1016/S0140-6736(23)00571-8",
+          "name": "associatedlink",
+          "label": "CrossRef DOI link to the associated document"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2023 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

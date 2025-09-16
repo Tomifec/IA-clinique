@@ -1,0 +1,1010 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_nrleng_2017_12_005.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_nrleng_2017_12_005",
+  "doi": "10.1016/j.nrleng.2017.12.005",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:58.835834Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            22
+          ]
+        ],
+        "date-time": "2025-08-22T05:02:20Z",
+        "timestamp": 1755838940356
+      },
+      "reference-count": 72,
+      "publisher": "Elsevier BV",
+      "issue": "7",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2021-09-01T00:00:00Z",
+            "timestamp": 1630454400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                9,
+                18
+              ]
+            ],
+            "date-time": "2019-09-18T00:00:00Z",
+            "timestamp": 1568764800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "clinicalkey.com.au",
+          "clinicalkey.fr",
+          "elsevier.es",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Neurología (English Edition)"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.nrleng.2017.12.005",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            7
+          ]
+        ],
+        "date-time": "2020-04-07T11:47:37Z",
+        "timestamp": 1586260057000
+      },
+      "page": "537-547",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 6,
+      "title": [
+        "Manual therapy in adults with tension-type headache: A systematic review"
+      ],
+      "prefix": "10.1016",
+      "volume": "36",
+      "author": [
+        {
+          "given": "C.",
+          "family": "Cumplido-Trasmonte",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "P.",
+          "family": "Fernández-González",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "I.M.",
+          "family": "Alguacil-Diego",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "F.",
+          "family": "Molina-Rueda",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0365",
+          "doi-asserted-by": "crossref",
+          "first-page": "289",
+          "DOI": "10.1007/s10194-010-0217-0",
+          "article-title": "Prevalence of headache in Europe: a review for the Eurolight project",
+          "volume": "11",
+          "author": "Stovner",
+          "year": "2010",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0370",
+          "doi-asserted-by": "crossref",
+          "first-page": "E201",
+          "DOI": "10.36076/ppj/2015.18.E201",
+          "article-title": "Pressure pain and isometric strength of neck flexors are related in chronic tension-type headache",
+          "volume": "18",
+          "author": "Castien",
+          "year": "2015",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0375",
+          "doi-asserted-by": "crossref",
+          "first-page": "205985",
+          "DOI": "10.1155/2015/205985",
+          "article-title": "Neural plasticity in common forms of chronic headaches",
+          "volume": "2015",
+          "author": "Lai",
+          "year": "2015",
+          "journal-title": "Neural Plast"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0380",
+          "doi-asserted-by": "crossref",
+          "first-page": "383",
+          "DOI": "10.1111/j.1468-2982.2007.01295.x",
+          "article-title": "Myofascial trigger points and sensitization: an updated pain model for tension-type headache",
+          "volume": "27",
+          "author": "Fernández-de-las-Peñas",
+          "year": "2007",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0385",
+          "doi-asserted-by": "crossref",
+          "first-page": "486",
+          "DOI": "10.1046/j.1468-2982.2000.00070.x",
+          "article-title": "Central sensitization in tension-type headache—possible pathophysiological mechanisms",
+          "volume": "20",
+          "author": "Bendtsen",
+          "year": "2000",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0390",
+          "first-page": "357",
+          "article-title": "Efficacy of manual therapy in the treatment of tension-type headache. A systematic review from 2000–2013",
+          "volume": "31",
+          "author": "Lozano-López",
+          "year": "2016",
+          "journal-title": "Neurologia"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0395",
+          "unstructured": "Espí-López GV, Gómez-Conesa A (dir). Eficacia del tratamiento de la cefalea tensional mediante terapia articulatoria y de tejido blando suboccipital [tesis doctoral en Internet]. Murcia: Universidad de Murcia; 2010. Available from: http://www.tdx.cat/bitstream/handle/10803/10872/EspiLopez.pdf [accessed December 2016]."
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0400",
+          "doi-asserted-by": "crossref",
+          "first-page": "133",
+          "DOI": "10.1177/0333102410377362",
+          "article-title": "Effectiveness of manual therapy for chronic tension-type headache: a pragmatic, randomised, clinical trial",
+          "volume": "31",
+          "author": "Castien",
+          "year": "2011",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0405",
+          "first-page": "447",
+          "article-title": "Do manual therapy techniques have a positive effect on quality of life in people with tension-type headache? A randomized controlled trial",
+          "volume": "52",
+          "author": "Espí-López",
+          "year": "2016",
+          "journal-title": "Eur J Phys Rehabil Med"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0410",
+          "first-page": "641",
+          "article-title": "Effect of manual therapy techniques on headache disability in patients with tension-type headache. Randomized controlled trial",
+          "volume": "50",
+          "author": "Espí-López",
+          "year": "2014",
+          "journal-title": "Eur J Phys Rehabil Med"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0415",
+          "doi-asserted-by": "crossref",
+          "first-page": "31",
+          "DOI": "10.1298/jjpta.Vol17_005",
+          "article-title": "Effectiveness of physical therapy in patients with tension-type headache: literature review",
+          "volume": "17",
+          "author": "Espí-López",
+          "year": "2014",
+          "journal-title": "J Jpn Phys Ther Assoc"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0420",
+          "doi-asserted-by": "crossref",
+          "first-page": "4",
+          "DOI": "10.1016/j.jcm.2014.01.004",
+          "article-title": "Efficacy of manual and manipulative therapy in the perception of pain and cervical motion in patients with tension-type headache: a randomized, controlled clinical trial",
+          "volume": "13",
+          "author": "Espí-López",
+          "year": "2014",
+          "journal-title": "J Chiropr Med"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0425",
+          "doi-asserted-by": "crossref",
+          "first-page": "576",
+          "DOI": "10.1016/j.jbmt.2014.01.001",
+          "article-title": "Treatment of tension-type headache with articulatory and suboccipital soft tissue therapy: a double-blind, randomized, placebo-controlled clinical trial",
+          "volume": "18",
+          "author": "Espí-López",
+          "year": "2014",
+          "journal-title": "J Bodyw Mov Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0430",
+          "doi-asserted-by": "crossref",
+          "first-page": "983",
+          "DOI": "10.1111/j.1468-2982.2006.01163.x",
+          "article-title": "Efficacy of physiotherapy including a craniocervical training programme for tension-type headache; a randomized clinical trial",
+          "volume": "26",
+          "author": "Van Ettekoven",
+          "year": "2006",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0435",
+          "doi-asserted-by": "crossref",
+          "first-page": "211",
+          "DOI": "10.1016/j.apmr.2016.08.466",
+          "article-title": "Effectiveness of a treatment involving soft tissue techniques and/or neural mobilization techniques in the management of the tension-type headache: a randomized controlled trial",
+          "volume": "98",
+          "author": "Ferragut-Garcías",
+          "year": "2017",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0440",
+          "doi-asserted-by": "crossref",
+          "first-page": "67",
+          "DOI": "10.1186/1129-2377-15-67",
+          "article-title": "Manual therapies for primary chronic headaches: a systematic review of randomized controlled trials",
+          "volume": "15",
+          "author": "Chaibi",
+          "year": "2014",
+          "journal-title": "J Headache Pain"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0445",
+          "doi-asserted-by": "crossref",
+          "first-page": "115",
+          "DOI": "10.1186/1471-2474-10-115",
+          "article-title": "Preliminary results, methodological considerations and recruitment difficulties of a randomised clinical trial comparing two treatment regimens for patients with headache and neck pain",
+          "volume": "10",
+          "author": "De Hertogh",
+          "year": "2009",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0450",
+          "doi-asserted-by": "crossref",
+          "first-page": "1323",
+          "DOI": "10.1177/0333102415576226",
+          "article-title": "Multimodal manual therapy vs. pharmacological care for management of tension type headache: a meta-analysis of randomized trials",
+          "volume": "35",
+          "author": "Mesa-Jiménez",
+          "year": "2015",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0455",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1186/1746-1340-18-3",
+          "article-title": "Effectiveness of manual therapies: the UK evidence report",
+          "volume": "18",
+          "author": "Bronfort",
+          "year": "2010",
+          "journal-title": "Chiropr Osteopat"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0460",
+          "doi-asserted-by": "crossref",
+          "first-page": "232",
+          "DOI": "10.1016/j.ctim.2011.12.001",
+          "article-title": "Spinal manipulations for tension-type headaches: a systematic review of randomized controlled trials",
+          "volume": "20",
+          "author": "Posadzki",
+          "year": "2012",
+          "journal-title": "Complement Ther Med"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0465",
+          "doi-asserted-by": "crossref",
+          "first-page": "381",
+          "DOI": "10.1016/j.pain.2004.09.026",
+          "article-title": "The effectiveness of physiotherapy and manipulation in patients with tension-type headache: a systematic review",
+          "volume": "112",
+          "author": "Lenssinck",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "Suppl. 7",
+          "key": "10.1016/j.nrleng.2017.12.005_bib0470",
+          "first-page": "1",
+          "article-title": "Classification and diagnostic criteria for headache disorders, cranial neuralgias and facial pain",
+          "volume": "8",
+          "year": "1988",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "issue": "Suppl. 1",
+          "key": "10.1016/j.nrleng.2017.12.005_bib0475",
+          "first-page": "9",
+          "article-title": "The International Classification of Headache Disorders: 2nd edition",
+          "volume": "24",
+          "year": "2004",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0480",
+          "doi-asserted-by": "crossref",
+          "first-page": "121",
+          "DOI": "10.1163/156856902760196333",
+          "article-title": "Results of two different manual therapy techniques in chronic tension-type headache",
+          "volume": "14",
+          "author": "Demirturk",
+          "year": "2002",
+          "journal-title": "Pain Clinic"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0485",
+          "doi-asserted-by": "crossref",
+          "first-page": "86",
+          "DOI": "10.1016/j.ctim.2016.01.008",
+          "article-title": "Manual therapy for tension-type headache related to quality of work life and work presenteeism: secondary analysis of a randomized controlled trial",
+          "volume": "25",
+          "author": "Monzani",
+          "year": "2016",
+          "journal-title": "Complement Ther Med"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0490",
+          "doi-asserted-by": "crossref",
+          "first-page": "302",
+          "DOI": "10.1016/S0161-4754(00)90190-8",
+          "article-title": "The effectiveness of CV-4 and resting position techniques on subjects with tension-type headaches",
+          "volume": "23",
+          "author": "Hanten",
+          "year": "2000",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0495",
+          "doi-asserted-by": "crossref",
+          "first-page": "2598",
+          "DOI": "10.1001/jama.1993.03510210084032",
+          "article-title": "User's guides to the medical literature. II. How to use an article about therapy or prevention",
+          "volume": "270",
+          "author": "Guyatt",
+          "year": "1993",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0500",
+          "series-title": "CASPe. Guías CASPe de Lectura Crítica de la Literatura Médica",
+          "first-page": "5",
+          "article-title": "Plantilla para ayudarte a entender un ensayo clínico",
+          "author": "Cabello",
+          "year": "2005"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0505",
+          "unstructured": "Oxford Centre for Evidence-based Medicine. Levels of evidence (March 2009). Available from: http://www.cebm.net/oxford-centre-evidence-based-medicine-levels-evidence-march-2009/ [accessed 02.10.16]."
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0510",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1001333",
+          "DOI": "10.1371/journal.pmed.1001333",
+          "article-title": "PRISMA-Equity 2012 extension: reporting guidelines for systematic reviews with a focus on health equity",
+          "volume": "9",
+          "author": "Welch",
+          "year": "2012",
+          "journal-title": "PLoS Med"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0515",
+          "doi-asserted-by": "crossref",
+          "first-page": "403",
+          "DOI": "10.1016/j.jmpt.2013.05.022",
+          "article-title": "Manual treatment for cervicogenic headache and active trigger point in the sternocleidomastoid muscle: a pilot randomized clinical trial",
+          "volume": "36",
+          "author": "Bodes-Pardo",
+          "year": "2013",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0520",
+          "doi-asserted-by": "crossref",
+          "first-page": "S40",
+          "DOI": "10.1053/apmr.2002.32155",
+          "article-title": "Focused review: myofascial pain",
+          "volume": "83",
+          "author": "Borg-Stein",
+          "year": "2002",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0525",
+          "doi-asserted-by": "crossref",
+          "first-page": "224",
+          "DOI": "10.1111/j.1526-4610.2009.01550.x",
+          "article-title": "Lack of efficacy of manual therapy in children and adolescents with suspected cervicogenic headache: results of a prospective, randomized, placebo-controlled, and blinded trial",
+          "volume": "50",
+          "author": "Borusiak",
+          "year": "2010",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0530",
+          "doi-asserted-by": "crossref",
+          "first-page": "96",
+          "DOI": "10.1016/S0161-4754(00)90074-5",
+          "article-title": "A combined approach for the treatment of cervical vertigo",
+          "volume": "23",
+          "author": "Bracher",
+          "year": "2000",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0535",
+          "doi-asserted-by": "crossref",
+          "first-page": "457",
+          "DOI": "10.1016/S0161-4754(01)99423-0",
+          "article-title": "Efficacy of spinal manipulation for chronic headache: a systematic review",
+          "volume": "24",
+          "author": "Bronfort",
+          "year": "2001",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0540",
+          "doi-asserted-by": "crossref",
+          "first-page": "274",
+          "DOI": "10.1016/j.jmpt.2011.04.008",
+          "article-title": "Evidence-based guidelines for the chiropractic treatment of adults with headache",
+          "volume": "34",
+          "author": "Bryans",
+          "year": "2011",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0545",
+          "doi-asserted-by": "crossref",
+          "first-page": "232",
+          "DOI": "10.1016/j.math.2007.01.009",
+          "article-title": "The influence of breathing type, expiration and cervical posture on the performance of the cranio-cervical flexion test in healthy subjects",
+          "volume": "13",
+          "author": "Cagnie",
+          "year": "2008",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0550",
+          "doi-asserted-by": "crossref",
+          "first-page": "693",
+          "DOI": "10.2519/jospt.2013.4868",
+          "article-title": "The working mechanism of manual therapy in participants with chronic tension-type headache",
+          "volume": "43",
+          "author": "Castien",
+          "year": "2013",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0555",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1186/1471-2474-10-21",
+          "article-title": "Effectiveness of manual therapy compared to usual care by the general practitioner for chronic tension-type headache: design of a randomised clinical trial",
+          "volume": "10",
+          "author": "Castien",
+          "year": "2009",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0560",
+          "doi-asserted-by": "crossref",
+          "first-page": "893",
+          "DOI": "10.1016/j.pain.2012.01.017",
+          "article-title": "Clinical variables associated with recovery in patients with chronic tension-type headache after treatment with manual therapy",
+          "volume": "153",
+          "author": "Castien",
+          "year": "2012",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0565",
+          "doi-asserted-by": "crossref",
+          "first-page": "710",
+          "DOI": "10.1177/0333102412449933",
+          "article-title": "Minimal clinically important change on the Headache Impact Test-6 questionnaire in patients with chronic tension-type headache",
+          "volume": "32",
+          "author": "Castien",
+          "year": "2012",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0570",
+          "doi-asserted-by": "crossref",
+          "first-page": "11774",
+          "DOI": "10.1038/srep11774",
+          "article-title": "Validation of placebo in a manual therapy randomized controlled trial",
+          "volume": "5",
+          "author": "Chaibi",
+          "year": "2015",
+          "journal-title": "Sci Rep"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0575",
+          "doi-asserted-by": "crossref",
+          "first-page": "40",
+          "DOI": "10.1007/s11916-016-0570-z",
+          "article-title": "Interventional treatment for post-traumatic headache",
+          "volume": "20",
+          "author": "Conidi",
+          "year": "2016",
+          "journal-title": "Curr Pain Headache Rep"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0580",
+          "doi-asserted-by": "crossref",
+          "first-page": "38",
+          "DOI": "10.1186/1471-2474-8-38",
+          "article-title": "Management of headache disorders: design of a randomised clinical trial screening for prognostic patient characteristics",
+          "volume": "8",
+          "author": "De Hertogh",
+          "year": "2007",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0585",
+          "doi-asserted-by": "crossref",
+          "first-page": "160",
+          "DOI": "10.2519/jospt.2006.36.3.160",
+          "article-title": "Methodological quality of randomized controlled trials of spinal manipulation and mobilization in tension-type headache, migraine, and cervicogenic headache",
+          "volume": "3",
+          "author": "Fernández-de-las-Peñas",
+          "year": "2006",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0590",
+          "doi-asserted-by": "crossref",
+          "first-page": "225",
+          "DOI": "10.1016/j.math.2006.07.003",
+          "article-title": "Myofascial trigger points in the suboccipital muscles in episodic tension-type headache",
+          "volume": "11",
+          "author": "Fernández-de-las-Peñas",
+          "year": "2006",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0595",
+          "doi-asserted-by": "crossref",
+          "first-page": "39",
+          "DOI": "10.1586/14737175.2014.863710",
+          "article-title": "Therapeutic options for cervicogenic headache",
+          "volume": "14",
+          "author": "Fernández-de-las-Peñas",
+          "year": "2014",
+          "journal-title": "Expert Rev Neurother"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0600",
+          "doi-asserted-by": "crossref",
+          "first-page": "278",
+          "DOI": "10.1097/01.ajp.0000173017.64741.86",
+          "article-title": "Are manual therapies effective in reducing pain from tension-type headache? A systematic review",
+          "volume": "22",
+          "author": "Fernández-de-las-Peñas",
+          "year": "2006",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "issue": "Suppl. 1",
+          "key": "10.1016/j.nrleng.2017.12.005_bib0605",
+          "doi-asserted-by": "crossref",
+          "first-page": "36",
+          "DOI": "10.1111/j.1468-2982.2008.01618.x",
+          "article-title": "Physical therapy and exercise in headache",
+          "volume": "28",
+          "author": "Fernández-de-las-Peñas",
+          "year": "2008",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0610",
+          "doi-asserted-by": "crossref",
+          "first-page": "281",
+          "DOI": "10.1016/j.mcna.2012.12.003",
+          "article-title": "Managing and treating tension-type headache",
+          "volume": "97",
+          "author": "Freitag",
+          "year": "2013",
+          "journal-title": "Med Clin North Am"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0615",
+          "doi-asserted-by": "crossref",
+          "first-page": "100",
+          "DOI": "10.2519/jospt.2007.2379",
+          "article-title": "Efficacy of a C1–C2 self-sustained natural apophyseal glide (SNAG) in the management of cervicogenic headache",
+          "volume": "37",
+          "author": "Hall",
+          "year": "2007",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0620",
+          "doi-asserted-by": "crossref",
+          "first-page": "31",
+          "DOI": "10.1016/S1443-8461(02)80033-8",
+          "article-title": "Tension-type headache or sinister masquerader?",
+          "volume": "5",
+          "author": "Michael",
+          "year": "2002",
+          "journal-title": "J Osteopath Med"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0625",
+          "doi-asserted-by": "crossref",
+          "first-page": "288",
+          "DOI": "10.1067/mmt.2000.106094",
+          "article-title": "Evidence that tension-type headache and cervicogenic headache are distinct disorders",
+          "volume": "23",
+          "author": "Nilsson",
+          "year": "2000",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0630",
+          "doi-asserted-by": "crossref",
+          "first-page": "310",
+          "DOI": "10.2519/jospt.2010.3257",
+          "article-title": "The immediate effects of atlanto-occipital joint manipulation and suboccipital muscle inhibition technique on active mouth opening and pressure pain densitivity over latent myofascial trigger points in the masticatory muscles",
+          "volume": "40",
+          "author": "Oliveira-Campelo",
+          "year": "2010",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0635",
+          "doi-asserted-by": "crossref",
+          "first-page": "156",
+          "DOI": "10.2522/ptj.20070147",
+          "article-title": "Scales to assess the quality of randomized controlled trials: a systematic review",
+          "volume": "88",
+          "author": "Olivo",
+          "year": "2008",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0640",
+          "doi-asserted-by": "crossref",
+          "first-page": "790",
+          "DOI": "10.1097/AJP.0b013e3182453e1b",
+          "article-title": "Computerized mobilization of the cervical spine for the treatment of chronic neck pain",
+          "volume": "28",
+          "author": "River",
+          "year": "2012",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0645",
+          "doi-asserted-by": "crossref",
+          "first-page": "507",
+          "DOI": "10.1097/PHM.0000000000000425",
+          "article-title": "Myofascial release therapy in the treatment of occupational mechanical neck pain: a randomized parallel group study",
+          "volume": "95",
+          "author": "Rodríguez-Fuentes",
+          "year": "2016",
+          "journal-title": "Am J Phys Med Rehabil"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0650",
+          "doi-asserted-by": "crossref",
+          "first-page": "539",
+          "DOI": "10.1007/s11916-012-0295-6",
+          "article-title": "Complementary and alternative approaches to the treatment of tension-type headache",
+          "volume": "16",
+          "author": "Sun-Edelstein",
+          "year": "2012",
+          "journal-title": "Curr Pain Headache Rep"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0655",
+          "doi-asserted-by": "crossref",
+          "first-page": "527",
+          "DOI": "10.1016/j.jmpt.2009.08.011",
+          "article-title": "Short-term effects of manual therapy on heart rate variability, mood state, and pressure pain sensitivity in patients with chronic tension-type headache: a pilot study",
+          "volume": "32",
+          "author": "Toro-Velasco",
+          "year": "2009",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0660",
+          "doi-asserted-by": "crossref",
+          "first-page": "338",
+          "DOI": "10.1016/j.jmpt.2010.05.004",
+          "article-title": "Physical examination and self-reported pain outcomes from a randomized trial on chronic cervicogenic headache",
+          "volume": "33",
+          "author": "Vavrek",
+          "year": "2010",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0665",
+          "doi-asserted-by": "crossref",
+          "first-page": "344",
+          "DOI": "10.1016/j.jmpt.2009.04.004",
+          "article-title": "A randomized, placebo-controlled clinical trial of chiropractic and medical prophylactic treatment of adults with tension-type headache: results from a stopped trial",
+          "volume": "32",
+          "author": "Vernon",
+          "year": "2009",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0670",
+          "doi-asserted-by": "crossref",
+          "first-page": "118",
+          "DOI": "10.1016/j.math.2005.04.007",
+          "article-title": "Clinical tests of musculoskeletal dysfunction in the diagnosis of cervicogenic headache",
+          "volume": "11",
+          "author": "Zito",
+          "year": "2006",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0675",
+          "first-page": "771",
+          "article-title": "La versión española del SF-36 Health Survey (Cuestionario de Salud SF-36): un instrumento para la medida de los resultados clínicos",
+          "volume": "104",
+          "author": "Alonso",
+          "year": "1995",
+          "journal-title": "Med Clin (Barc)"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0680",
+          "first-page": "526",
+          "article-title": "Reference values of the Spanish version of the SF-12v2 for the diabetic population",
+          "volume": "23",
+          "author": "Monteagudo",
+          "year": "2009",
+          "journal-title": "Gac Sanit"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0685",
+          "doi-asserted-by": "crossref",
+          "first-page": "244",
+          "DOI": "10.1111/j.1526-4610.1993.hed3305244.x",
+          "article-title": "The Headache Self-Efficacy Scale: adaptation to recurrent headaches",
+          "volume": "33",
+          "author": "Martin",
+          "year": "1993",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0690",
+          "doi-asserted-by": "crossref",
+          "first-page": "729",
+          "DOI": "10.1111/j.1526-4610.1990.hed3011729.x",
+          "article-title": "The Headache-Specific Locus of Control Scale: adaptation to recurrent headaches",
+          "volume": "30",
+          "author": "Martin",
+          "year": "1990",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0695",
+          "doi-asserted-by": "crossref",
+          "first-page": "29",
+          "DOI": "10.1111/j.1468-2982.2004.00633.x",
+          "article-title": "Physiotherapy for tension-type headache: a controlled study",
+          "volume": "24",
+          "author": "Torelli",
+          "year": "2004",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0700",
+          "doi-asserted-by": "crossref",
+          "first-page": "534",
+          "DOI": "10.1111/j.1526-4610.1995.hed3509534.x",
+          "article-title": "Headache Disability Inventory (HDI): short-term test–retest reliability and spouse perceptions",
+          "volume": "35",
+          "author": "Jacobson",
+          "year": "1995",
+          "journal-title": "Headache"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0705",
+          "doi-asserted-by": "crossref",
+          "first-page": "837",
+          "DOI": "10.1212/WNL.44.5.837",
+          "article-title": "The Henry Ford Hospital Headache Disability Inventory (HDI)",
+          "volume": "44",
+          "author": "Jacobson",
+          "year": "1994",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0710",
+          "first-page": "739",
+          "article-title": "Conductas de dolor y discapacidad en migrañas y cefaleas tensionales. Adaptación española del Pain Behavior Questionnaire (PBQ) y del Headache Disability Inventory (HDI)",
+          "volume": "26",
+          "author": "Rodríguez-Franco",
+          "year": "2000",
+          "journal-title": "Anal Modif Conducta"
+        },
+        {
+          "key": "10.1016/j.nrleng.2017.12.005_bib0715",
+          "first-page": "183",
+          "article-title": "Psychometric quality of the MOS 36-item Short-Form Health Survey (SF-36) in a Dutch population",
+          "volume": "7",
+          "author": "Van der Zee",
+          "year": "1993",
+          "journal-title": "Tijdschr Soc Gezondheidszorg"
+        },
+        {
+          "issue": "Suppl.",
+          "key": "10.1016/j.nrleng.2017.12.005_bib0720",
+          "first-page": "II73",
+          "article-title": "Practical implications of item response theory and computerized adaptive testing: a brief summary of ongoing studies of widely used headache impact scales",
+          "volume": "38",
+          "author": "Ware",
+          "year": "2000",
+          "journal-title": "Med Care"
+        }
+      ],
+      "container-title": [
+        "Neurología (English Edition)"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2173580819301233?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2173580819301233?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            9,
+            15
+          ]
+        ],
+        "date-time": "2021-09-15T11:10:00Z",
+        "timestamp": 1631704200000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2173580819301233"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            9
+          ]
+        ]
+      },
+      "references-count": 72,
+      "journal-issue": {
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S2173580819301233"
+      ],
+      "URL": "https://doi.org/10.1016/j.nrleng.2017.12.005",
+      "relation": {},
+      "ISSN": [
+        "2173-5808"
+      ],
+      "issn-type": [
+        {
+          "value": "2173-5808",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            9
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Manual therapy in adults with tension-type headache: A systematic review",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Neurología (English Edition)",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.nrleng.2017.12.005",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.nrl.2017.12.004",
+          "name": "associatedlink",
+          "label": "CrossRef DOI link to the associated document"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2018 Sociedad Española de Neurología. Published by Elsevier España, S.L.U.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

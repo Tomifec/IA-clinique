@@ -1,0 +1,724 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_s12891_020_03873_3.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_s12891_020_03873_3",
+  "doi": "10.1186/s12891-020-03873-3",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:09.371098Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            21
+          ]
+        ],
+        "date-time": "2025-02-21T10:54:27Z",
+        "timestamp": 1740135267535,
+        "version": "3.37.3"
+      },
+      "reference-count": 42,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                1,
+                6
+              ]
+            ],
+            "date-time": "2021-01-06T00:00:00Z",
+            "timestamp": 1609891200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                1,
+                6
+              ]
+            ],
+            "date-time": "2021-01-06T00:00:00Z",
+            "timestamp": 1609891200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "The Danish Chiropractic Fund for Research and Post Graduate Research",
+          "award": [
+            "78353/16"
+          ]
+        },
+        {
+          "name": "University Hospital of Southern Denmark"
+        },
+        {
+          "DOI": "10.13039/100008368",
+          "name": "Gigtforeningen",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "R156-A4929-B1294"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100008368",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "BMC Musculoskelet Disord"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            12
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>In a prior randomized trial, we demonstrated that participants receiving spinal manipulative therapy at a pain-sensitive segment instead of a stiff segment experienced increased mechanical pressure pain thresholds. We hypothesized that the targeted segment mediated this increase through a segment-dependent neurophysiological reflective pathway. Presently, it is not known if this decrease in pain sensitivity is associated with clinical improvement. Therefore, we performed an explorative analysis to examine if changes in experimental pain sensitivity (mechanical and thermal) and lumbar stiffness were further dependent on clinical improvement in disability and patient-reported low back pain.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>This study is a secondary explorative analysis of data from the randomized trial that compared 132 participants with chronic low back pain who received lumbar spinal manipulative therapy applied at either i) the stiffest segment or ii) the segment having the lowest pain threshold (i.e., the most pain-sensitive segment). We collected data at baseline, after the fourth session of spinal manipulation, and at 14-days follow-up. Participants were dichotomized into responders/non-responders using different clinical variables (disability and patient-reported low back pain) with varying threshold values (0, 30, and 50% improvement). Mixed models were used to assess changes in experimental outcomes (stiffness and pain sensitivity). The fixed interaction terms were time, segment allocation, and responder status.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>We observed a significant increase in mechanical pressure pain thresholds for the group, which received spinal manipulative therapy at the most pain-sensitive segment independent of whether they improved clinically or not. Those who received spinal manipulation at the stiffest segment also demonstrated increased mechanical pain sensitivity, but only in the subgroup with clinical improvement. We did not observe any changes in lumbar stiffness.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusion</jats:title>\n                <jats:p>Our results suggest the existence of two different mechanistic pathways associated with the spinal manipulation target. i) A decrease of mechanical pain sensitivity independent of clinical outcome (neurophysiological) and ii) a decrease as a reflection of the clinical outcome. Together, these observations may provide a novel framework that improves our understanding of why some respond to spinal manipulative therapy while others do not.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Trial registration</jats:title>\n                <jats:p><jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://clinicaltrials.gov\">ClinicalTrials.gov</jats:ext-link> identifier: NCT04086667 registered retrospectively September 11th 2019.</jats:p>\n              </jats:sec>",
+      "DOI": "10.1186/s12891-020-03873-3",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            6
+          ]
+        ],
+        "date-time": "2021-01-06T07:03:25Z",
+        "timestamp": 1609916605000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 9,
+      "title": [
+        "Changes in pain sensitivity and spinal stiffness in relation to responder status following spinal manipulative therapy in chronic low Back pain: a secondary explorative analysis of a randomized trial"
+      ],
+      "prefix": "10.1186",
+      "volume": "22",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-5845-2622",
+          "authenticated-orcid": false,
+          "given": "Casper Glissmann",
+          "family": "Nim",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Gregory Neil",
+          "family": "Kawchuk",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Berit",
+          "family": "Schiøttz-Christensen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Søren",
+          "family": "O’Neill",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            6
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "11",
+          "key": "3873_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "2791",
+          "DOI": "10.1007/s00586-018-5673-2",
+          "volume": "27",
+          "author": "CB Oliveira",
+          "year": "2018",
+          "unstructured": "Oliveira CB, Maher CG, Pinto RZ, Traeger AC, Lin C-WC, Chenot J-F, et al. Clinical practice guidelines for the management of non-specific low back pain in primary care: An updated overview. Eur Spine J. 2018 [cited 2019 Jul 4;27(11):2791–803. https://doi.org/10.1007/s00586-018-5673-2.",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "3873_CR2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Rubinstein SM, de Zoete A, van Middelkoop M, Assendelft WJJ, de Boer MR, van Tulder MW. Benefits and harms of spinal manipulative therapy for the treatment of chronic low back pain: Systematic review and meta-analysis of randomised controlled trials. BMJ. 2019 [cited 2019 Jun 26;364 Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6396088/.",
+          "DOI": "10.1136/bmj.l689"
+        },
+        {
+          "key": "#cr-split#-3873_CR3.1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Nim CG, Kawchuk GN, Schiøttz-Christensen B, O'Neill S. The effect on clinical outcomes when targeting spinal manipulation at stiffness or pain sensitivity: A randomized trial. Scientific Reports. 2020;10",
+          "DOI": "10.1038/s41598-020-71557-y"
+        },
+        {
+          "key": "#cr-split#-3873_CR3.2",
+          "unstructured": "(1) Available from: http://www.nature.com/articles/s41598-020-71557-y. [cited 2020 Oct 22]."
+        },
+        {
+          "issue": "21",
+          "key": "3873_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "1772",
+          "DOI": "10.1097/BRS.0b013e318216337d",
+          "volume": "36",
+          "author": "JM Fritz",
+          "year": "2011",
+          "unstructured": "Fritz JM, Koppenhaver SL, Kawchuk GN, Teyhen DS, Hebert JJ, Childs JD. Preliminary Investigation of the Mechanisms Underlying the Effects of Manipulation: Exploration of a Multivariate Model Including Spinal Stiffness, Multifidus Recruitment, and Clinical Findings. Spine. 2011;36(21):1772–81 Available from: https://insights.ovid.com/crossref?an=00007632-201110010-00010. [cited 2019 Nov 12].",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "17",
+          "key": "3873_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "1329",
+          "DOI": "10.1097/BRS.0000000000000981",
+          "volume": "40",
+          "author": "AYL Wong",
+          "year": "2015",
+          "unstructured": "Wong AYL, Parent EC, Dhillon SS, Prasad N, Kawchuk GN. Do participants with low back pain who respond to spinal manipulative therapy differ biomechanically from nonresponders, untreated controls or asymptomatic controls? Spine. 2015;40(17):1329–37.",
+          "journal-title": "Spine."
+        },
+        {
+          "key": "3873_CR6",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Bond BM, Kinslow CD, Yoder AW, Liu W. Effect of spinal manipulative therapy on mechanical pain sensitivity in patients with chronic nonspecific low back pain: A pilot randomized, controlled trial. J Manual Manipulative Therap. 2019:1–13. [cited 2019 Jun 21]. https://doi.org/10.1080/10669817.2019.1572986.",
+          "DOI": "10.1080/10669817.2019.1572986"
+        },
+        {
+          "issue": "1",
+          "key": "3873_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "e802",
+          "DOI": "10.1097/PR9.0000000000000802",
+          "volume": "5",
+          "author": "HB Vaegter",
+          "year": "2020",
+          "unstructured": "Vaegter HB, Ussing K, Johansen JV, Stegemejer I, Palsson TS, O’Sullivan P, et al. Improvements in clinical pain and experimental pain sensitivity after cognitive functional therapy in patients with severe persistent low back pain. PAIN Reports. 2020;5(1):e802. [cited 2020 Apr 10]. https://doi.org/10.1097/PR9.0000000000000802.",
+          "journal-title": "PAIN Reports"
+        },
+        {
+          "issue": "1",
+          "key": "3873_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "25",
+          "DOI": "10.1515/sjpain-2018-0113",
+          "volume": "19",
+          "author": "S O’Neill",
+          "year": "2019",
+          "unstructured": "O’Neill S, Larsen JB, Nim C, Arendt-Nielsen L. Topographic mapping of pain sensitivity of the lower back – a comparison of healthy controls and patients with chronic non-specific low back pain. Scandinavian J Pain. 2019;19(1):25–37 http://www.degruyter.com/view/j/sjpain.2019.19.issue-1/sjpain-2018-0113/sjpain-2018-0113.xml. [cited 2019 Jul 4].",
+          "journal-title": "Scandinavian J Pain"
+        },
+        {
+          "key": "3873_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "369",
+          "DOI": "10.2147/CLEP.S83830",
+          "volume": "7",
+          "author": "P Kent",
+          "year": "2015",
+          "unstructured": "Kent P, Kongsted A, Jensen TS, Albert HB, Schiøttz-Christensen B, Manniche C. SpineData - a Danish clinical registry of people with chronic back pain. Clin Epidemiol. 2015;7:369–80.",
+          "journal-title": "Clin Epidemiol"
+        },
+        {
+          "issue": "6",
+          "key": "3873_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "387",
+          "DOI": "10.1016/j.jmpt.2016.05.001",
+          "volume": "39",
+          "author": "RM Mieritz",
+          "year": "2016",
+          "unstructured": "Mieritz RM, Kawchuk GN. The accuracy of locating lumbar vertebrae when using palpation versus ultrasonography. J Manip Physiol Ther. 2016;39(6):387–92.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "3873_CR11",
+          "volume-title": "Chiropractic Technique: Principles and Procedures, 3e",
+          "author": "TF Bergmann",
+          "year": "2010",
+          "unstructured": "Bergmann TF, Peterson DH. Chiropractic Technique: Principles and Procedures, 3e. 3rd ed. St. Louis, Mo: Mosby; 2010.",
+          "edition": "3"
+        },
+        {
+          "key": "3873_CR12",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Xia T, Long CR, Vining RD, Gudavalli MR, DeVocht JW, Kawchuk GN, et al. Association of lumbar spine stiffness and flexion-relaxation phenomenon with patient-reported outcomes in adults with chronic low back pain – a single-arm clinical trial investigating the effects of thrust spinal manipulation. BMC Complementary and Alternative Med. 2017;17(1) [cited 2019 Jun 21]. https://doi.org/10.1186/s12906-017-1821-1.",
+          "DOI": "10.1186/s12906-017-1821-1"
+        },
+        {
+          "issue": "1",
+          "key": "3873_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "90",
+          "DOI": "10.1097/BRS.0b013e31815e3a10",
+          "volume": "33",
+          "author": "RWJG Ostelo",
+          "year": "2008",
+          "unstructured": "Ostelo RWJG, Deyo RA, Stratford P, Waddell G, Croft P, Von Korff M, et al. Interpreting Change Scores for Pain and Functional Status in Low Back Pain: Towards International Consensus Regarding Minimal Important Change. Spine. 2008;33(1):90–4 Available from: https://insights.ovid.com/crossref?an=00007632-200801010-00015. [cited 2019 Oct 3].",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "11",
+          "key": "3873_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "1705",
+          "DOI": "10.1007/s00586-006-0117-9",
+          "volume": "15",
+          "author": "HH Lauridsen",
+          "year": "2006",
+          "unstructured": "Lauridsen HH, Hartvigsen J, Manniche C, Korsholm L, Grunnet-Nilsson N. Danish version of the Oswestry Disability Index for patients with low back pain. Part 1: Cross-cultural adaptation, reliability and validity in two different populations. European Spine J. 2006;15(11):1705–16. [cited 2019 Aug 30]. https://doi.org/10.1007/s00586-006-0117-9.",
+          "journal-title": "European Spine J"
+        },
+        {
+          "issue": "3",
+          "key": "3873_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "317",
+          "DOI": "10.1016/0304-3959(94)90007-8",
+          "volume": "57",
+          "author": "C Manniche",
+          "year": "1994",
+          "unstructured": "Manniche C, Asmussen K, Lauritsen B, Vinterberg H, Kreiner S, Jordan A. Low Back Pain Rating scale: Validation of a tool for assessment of low back pain. Pain. 1994;57(3):317–26 Available from: http://content.wkhealth.com/linkback/openurl?sid=WKPTLP:landingpage&an=00006396-199406000-00007. [cited 2019 Aug 30].",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "3873_CR16",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Brown BT, Blacke A, Carroll V, Graham PL, Kawchuk G, Downie A, et al. The comfort and safety of a novel rolling mechanical indentation device for the measurement of lumbar trunk stiffness in young adults. Chiropractic Manual Therap. 2017;25(1) [cited 2019 Oct 10]. https://doi.org/10.1186/s12998-017-0153-z.",
+          "DOI": "10.1186/s12998-017-0153-z"
+        },
+        {
+          "key": "3873_CR17",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Hadizadeh M, Kawchuk GN. Parent E. Reliability of a new loaded rolling wheel system for measuring spinal stiffness in asymptomatic participants. BMC Musculoskeletal Disord. 2019;20(1) [cited 2019 Jun 25]. https://doi.org/10.1186/s12891-019-2543-y.",
+          "DOI": "10.1186/s12891-019-2543-y"
+        },
+        {
+          "issue": "5",
+          "key": "3873_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "395",
+          "DOI": "10.1016/j.math.2013.02.003",
+          "volume": "18",
+          "author": "AYL Wong",
+          "year": "2013",
+          "unstructured": "Wong AYL, Kawchuk G, Parent E, Prasad N. Within- and between-day reliability of spinal stiffness measurements obtained using a computer controlled mechanical indenter in individuals with and without low back pain. Manual Therap. 2013;18(5):395–402 Available from: https://linkinghub.elsevier.com/retrieve/pii/S1356689X13000325. [cited 2020 Sep 8].",
+          "journal-title": "Manual Therap"
+        },
+        {
+          "issue": "1",
+          "key": "3873_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "42",
+          "DOI": "10.1186/s12998-020-00331-8",
+          "volume": "28",
+          "author": "A Young",
+          "year": "2020",
+          "unstructured": "Young A, Swain MS, Kawchuk GN, Wong AYL, Downie AS. The bench-top accuracy of the VerteTrack spinal stiffness assessment device. Chiropr Man Therap. 2020;28(1):42.",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "key": "#cr-split#-3873_CR20.1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Paungmali A, Sitilertpisan P, Taneyhill K, Pirunsan U, Uthaikhup S. Intrarater Reliability of Pain Intensity, Tissue Blood Flow, Thermal Pain Threshold, Pressure Pain Threshold and Lumbo-Pelvic Stability Tests in Subjects with Low Back Pain. Asian J Sports Med. 2012;3",
+          "DOI": "10.5812/asjsm.34718"
+        },
+        {
+          "key": "#cr-split#-3873_CR20.2",
+          "unstructured": "(1) Available from: http://asjsm.com/en/articles/76714.html. [cited 2019 Aug 30]."
+        },
+        {
+          "key": "3873_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "157",
+          "DOI": "10.1016/j.neulet.2014.07.023",
+          "volume": "579",
+          "author": "IA Knutti",
+          "year": "2014",
+          "unstructured": "Knutti IA, Suter MR, Opsommer E. Test–retest reliability of thermal quantitative sensory testing on two sites within the L5 dermatome of the lumbar spine and lower extremity. Neurosci Lett. 2014;579:157–62 Available from: https://linkinghub.elsevier.com/retrieve/pii/S0304394014005965. [cited 2019 Aug 6].",
+          "journal-title": "Neurosci Lett"
+        },
+        {
+          "issue": "1",
+          "key": "3873_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.18637/jss.v067.i01",
+          "volume": "67",
+          "author": "D Bates",
+          "year": "2015",
+          "unstructured": "Bates D, Mächler M, Bolker B, Walker S. Fitting Linear Mixed-Effects Models Using lme4. J Statistical Software. 2015;67(1):1–48 Available from: https://www.jstatsoft.org/index.php/jss/article/view/v067i01. [cited 2020 Apr 29].",
+          "journal-title": "J Statistical Software"
+        },
+        {
+          "key": "3873_CR23",
+          "volume-title": "R: a language and environment for statistical computing",
+          "author": "R Development Core team",
+          "year": "2009",
+          "unstructured": "R Development Core team. R: a language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing; 2009. Available from: http://www.R-project.org."
+        },
+        {
+          "issue": "43",
+          "key": "3873_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "1686",
+          "DOI": "10.21105/joss.01686",
+          "volume": "4",
+          "author": "H Wickham",
+          "year": "2019",
+          "unstructured": "Wickham H, Averick M, Bryan J, Chang W, McGowan L, François R, et al. Welcome to the Tidyverse. J Open Source Software. 2019;4(43):1686. [cited 2020 Feb 6]. https://doi.org/10.21105/joss.01686.",
+          "journal-title": "J Open Source Software"
+        },
+        {
+          "issue": "3",
+          "key": "3873_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "346",
+          "DOI": "10.1002/bimj.200810425",
+          "volume": "50",
+          "author": "T Hothorn",
+          "year": "2008",
+          "unstructured": "Hothorn T, Bretz F, Westfall P. Simultaneous inference in general parametric models. Biom J. 2008;50(3):346–63.",
+          "journal-title": "Biom J"
+        },
+        {
+          "issue": "5",
+          "key": "3873_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "752",
+          "DOI": "10.1016/j.jelekin.2011.12.013",
+          "volume": "22",
+          "author": "RA Coronado",
+          "year": "2012",
+          "unstructured": "Coronado RA, Gay CW, Bialosky JE, Carnaby GD, Bishop MD, George SZ. Changes in pain sensitivity following spinal manipulation: A systematic review and meta-analysis. J Electromyography Kinesiol. 2012;22(5):752–67 Available from: https://linkinghub.elsevier.com/retrieve/pii/S1050641112000065. [cited 2019 Dec 6].",
+          "journal-title": "J Electromyography Kinesiol"
+        },
+        {
+          "key": "3873_CR27",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Millan M, Leboeuf-Yde C, Budgell B, Amorim M-A. The effect of spinal manipulative therapy on experimentally induced pain: A systematic literature review. Chiropractic Manual Therap. 2012;20(1) [cited 2019 Jun 20]. https://doi.org/10.1186/2045-709X-20-26.",
+          "DOI": "10.1186/2045-709X-20-26"
+        },
+        {
+          "key": "3873_CR28",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Honoré M, Leboeuf-Yde C, Gagey O. The regional effect of spinal manipulation on the pressure pain threshold in asymptomatic subjects: A systematic literature review. Chiropractic Manual Therap. 2018;26(1) [cited 2019 Jun 20]. https://doi.org/10.1186/s12998-018-0181-3.",
+          "DOI": "10.1186/s12998-018-0181-3"
+        },
+        {
+          "key": "3873_CR29",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Aspinall SL, Leboeuf-Yde C, Etherington SJ, Walker BF. Manipulation-induced hypoalgesia in musculoskeletal pain populations: A systematic critical review and meta-analysis. Chiropractic Manual Therap. 2019;27(1) [cited 2019 Jun 13]. https://doi.org/10.1186/s12998-018-0226-7.",
+          "DOI": "10.1186/s12998-018-0226-7"
+        },
+        {
+          "issue": "1–2",
+          "key": "3873_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "223",
+          "DOI": "10.1016/S0304-3959(03)00210-0",
+          "volume": "105",
+          "author": "GN Verne",
+          "year": "2003",
+          "unstructured": "Verne GN, Robinson ME, Vase L, Price DD. Reversal of visceral and cutaneous hyperalgesia by local rectal anesthesia in irritable bowel syndrome (IBS) patients. Pain. 2003;105(1–2):223–30.",
+          "journal-title": "Pain."
+        },
+        {
+          "issue": "1–2",
+          "key": "3873_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "96",
+          "DOI": "10.1016/j.pain.2009.05.020",
+          "volume": "145",
+          "author": "R Staud",
+          "year": "2009",
+          "unstructured": "Staud R, Nagel S, Robinson ME, Price DD. Enhanced central pain processing of fibromyalgia patients is maintained by muscle afferent input: a randomized, double-blind, placebo-controlled study. Pain. 2009;145(1–2):96–104.",
+          "journal-title": "Pain."
+        },
+        {
+          "key": "3873_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "102137",
+          "DOI": "10.1016/j.msksp.2020.102137",
+          "volume": "47",
+          "author": "SL Aspinall",
+          "year": "2020",
+          "unstructured": "Aspinall SL, Leboeuf-Yde C, Etherington SJ, Walker BF. Changes in pressure pain threshold and temporal summation in rapid responders and non-rapid responders after lumbar spinal manipulation and sham: A secondary analysis in adults with low back pain. Musculoskeletal Sci Pract. 2020;47:102137 Available from: https://linkinghub.elsevier.com/retrieve/pii/S2468781219303388. [cited 2020 Oct 22].",
+          "journal-title": "Musculoskeletal Sci Pract"
+        },
+        {
+          "issue": "7",
+          "key": "3873_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "450",
+          "DOI": "10.1067/mmt.2002.126473",
+          "volume": "25",
+          "author": "I Axén",
+          "year": "2002",
+          "unstructured": "Axén I, Rosenbaum A, Röbech R, Wren T, Leboeuf-Yde C. Can patient reactions to the first chiropractic treatment predict early favorable treatment outcome in persistent low back pain? J Manipulative Physiol Therapeutics. 2002;25(7):450–4 Available from: https://linkinghub.elsevier.com/retrieve/pii/S016147540200026X. [cited 2019 Jun 25].",
+          "journal-title": "J Manipulative Physiol Therapeutics"
+        },
+        {
+          "key": "3873_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "18",
+          "DOI": "10.1016/j.msksp.2019.05.011",
+          "volume": "43",
+          "author": "SL Aspinall",
+          "year": "2019",
+          "unstructured": "Aspinall SL, Jacques A, Leboeuf-Yde C, Etherington SJ, Walker BF. No difference in pressure pain threshold and temporal summation after lumbar spinal manipulation compared to sham: A randomised controlled trial in adults with low back pain. Musculoskeletal Sci Pract. 2019;43:18–25 Available from: https://linkinghub.elsevier.com/retrieve/pii/S2468781219300670. [cited 2019 Jun 13].",
+          "journal-title": "Musculoskeletal Sci Pract"
+        },
+        {
+          "issue": "10",
+          "key": "3873_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "599",
+          "DOI": "10.1038/nrrheum.2010.107",
+          "volume": "6",
+          "author": "T Graven-Nielsen",
+          "year": "2010",
+          "unstructured": "Graven-Nielsen T, Arendt-Nielsen L. Assessment of mechanisms in localized and widespread musculoskeletal pain. Nat Rev Rheumatol. 2010;6(10):599–606 Available from: http://www.nature.com/articles/nrrheum.2010.107[cited 2019 Sep 10].",
+          "journal-title": "Nat Rev Rheumatol"
+        },
+        {
+          "issue": "8",
+          "key": "3873_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "816",
+          "DOI": "10.1016/j.pmrj.2016.12.001",
+          "volume": "9",
+          "author": "W AYL",
+          "year": "2017",
+          "unstructured": "AYL W, Kawchuk GN. The Clinical Value of Assessing Lumbar Posteroanterior Segmental Stiffness: A Narrative Review of Manual and Instrumented Methods. PM&R. 2017;9(8):816–30. [cited 2019 Jun 20]. https://doi.org/10.1016/j.pmrj.2016.12.001.",
+          "journal-title": "PM&R"
+        },
+        {
+          "issue": "2",
+          "key": "3873_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "89",
+          "DOI": "10.1016/j.jmpt.2019.02.002",
+          "volume": "42",
+          "author": "GN Kawchuk",
+          "year": "2019",
+          "unstructured": "Kawchuk GN, Miazga S, Pagé I, Swain M, De Carvalho D, Funabashi M, et al. Clinicians’ Ability to Detect a Palpable Difference in Spinal Stiffness Compared With a Mechanical Device. J Manipulative Physiol Therapeutics. 2019;42(2):89–95 Available from: https://linkinghub.elsevier.com/retrieve/pii/S0161475418303543[cited 2019 Jul 4].",
+          "journal-title": "J Manipulative Physiol Therapeutics"
+        },
+        {
+          "issue": "6",
+          "key": "3873_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "797",
+          "DOI": "10.1016/j.math.2015.03.008",
+          "volume": "20",
+          "author": "WR Reed",
+          "year": "2015",
+          "unstructured": "Reed WR, Long CR, Kawchuk GN, Pickar JG. Neural responses to the mechanical characteristics of high velocity, low amplitude spinal manipulation: Effect of specific contact site. Manual Therap. 2015;20(6):797–804 Available from: https://linkinghub.elsevier.com/retrieve/pii/S1356689X15000612. [cited 2019 Aug 23].",
+          "journal-title": "Manual Therap"
+        },
+        {
+          "issue": "6",
+          "key": "3873_CR39",
+          "doi-asserted-by": "publisher",
+          "first-page": "1332",
+          "DOI": "10.1016/j.spinee.2013.07.480",
+          "volume": "15",
+          "author": "TL Edgecombe",
+          "year": "2015",
+          "unstructured": "Edgecombe TL, Kawchuk GN, Long CR, Pickar JG. The effect of application site of spinal manipulative therapy (SMT) on spinal stiffness. Spine J. 2015;15(6):1332–8 Available from: https://linkinghub.elsevier.com/retrieve/pii/S1529943013014022. [cited 2019 Aug 7].",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "3873_CR40",
+          "doi-asserted-by": "publisher",
+          "unstructured": "O’Keeffe M, O’Sullivan P, Purtill H, Bargary N, O’Sullivan K. Cognitive functional therapy compared with a group-based exercise and education intervention for chronic low back pain: A multicentre randomised controlled trial (RCT). Br J Sports Med. 2019;bjsports–2019–100780. [cited 2019 Oct 30]. https://doi.org/10.1136/bjsports-2019-100780.",
+          "DOI": "10.1136/bjsports-2019-100780"
+        }
+      ],
+      "container-title": [
+        "BMC Musculoskeletal Disorders"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s12891-020-03873-3.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1186/s12891-020-03873-3/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s12891-020-03873-3.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            6
+          ]
+        ],
+        "date-time": "2021-01-06T19:24:59Z",
+        "timestamp": 1609961099000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/s12891-020-03873-3"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            6
+          ]
+        ]
+      },
+      "references-count": 42,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "3873"
+      ],
+      "URL": "https://doi.org/10.1186/s12891-020-03873-3",
+      "relation": {},
+      "ISSN": [
+        "1471-2474"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1471-2474"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            6
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "21 May 2020",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "14 December 2020",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "6 January 2021",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "All participants gave oral and written informed consent for the study. The trial was approved by the Regional Committees on Health Research Ethics for Southern Denmark (ID: S-20160201) and the Danish Data Protection Agency.",
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethics approval and consent to participate"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Consent for publication"
+          }
+        },
+        {
+          "value": "The authors declare no competing interests.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        }
+      ],
+      "article-number": "23"
+    }
+  }
+}

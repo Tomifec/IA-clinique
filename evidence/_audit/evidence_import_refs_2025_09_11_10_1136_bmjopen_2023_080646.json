@@ -1,0 +1,678 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1136_bmjopen_2023_080646.md",
+  "id": "evidence_import_refs_2025_09_11_10_1136_bmjopen_2023_080646",
+  "doi": "10.1136/bmjopen-2023-080646",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:02.834644Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            21
+          ]
+        ],
+        "date-time": "2025-02-21T18:32:12Z",
+        "timestamp": 1740162732479,
+        "version": "3.37.3"
+      },
+      "reference-count": 47,
+      "publisher": "BMJ",
+      "issue": "7",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                7,
+                5
+              ]
+            ],
+            "date-time": "2024-07-05T00:00:00Z",
+            "timestamp": 1720137600000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 4,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100010414",
+          "name": "Health Research Board",
+          "doi-asserted-by": "crossref",
+          "award": [
+            "EIA-2019-008"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100010414",
+              "id-type": "DOI",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "BMJ Open"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            23
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            7
+          ]
+        ]
+      },
+      "abstract": "<jats:sec><jats:title>Objectives</jats:title><jats:p>To identify within-stakeholder agreement and between-stakeholder differences in beliefs regarding exercise for osteoarthritis among general practitioners (GPs), physiotherapists (PTs) and people with hip and knee osteoarthritis (PwOA). A secondary objective was to explore the association between referral patterns and beliefs of PwOA.</jats:p></jats:sec><jats:sec><jats:title>Design</jats:title><jats:p>Cross-sectional.</jats:p></jats:sec><jats:sec><jats:title>Setting</jats:title><jats:p>Online surveys administered to GPs, PTs and PwOA in Ireland via social media and healthcare networks.</jats:p></jats:sec><jats:sec><jats:title>Participants</jats:title><jats:p>421 valid responses (n=161 GPs, n=163 PTs, n=97 PwOA).</jats:p></jats:sec><jats:sec><jats:title>Primary and secondary outcome measures</jats:title><jats:p>Nine belief statements related to exercise effectiveness, safety and delivery were rated on a 5-point Likert scale and analysed for within-stakeholder consensus. χ<jats:sup>2</jats:sup>tests assessed differences in agreement between groups. Multivariable linear regression models tested associations between beliefs in PwOA and referral to/attendance at physiotherapy.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>Positive within-stakeholder consensus (&gt;75% agreement) was reached for most statements (7/9 GPs, 6/9 PTs, 5/9 PwOA). However, beliefs of PwOA were significantly less positive compared with healthcare professionals for six statements. All stakeholders disagreed that exercise is effective regardless of the level of pain. Attendance at physiotherapy (49% of PwOA), rather than referral to physiotherapy from a GP only, was associated with positive exercise beliefs for PwOA (β=0.287 (95% CI 0.299 to 1.821)).</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>Beliefs about exercise therapy for osteoarthritis are predominantly positive across all stakeholders, although less positive in PwOA. PwOA are more likely to have positive beliefs if they have seen a PT for their osteoarthritis. Knowledge translation should highlight the effectiveness of exercise for all levels of pain and osteoarthritis disease.</jats:p></jats:sec>",
+      "DOI": "10.1136/bmjopen-2023-080646",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            5
+          ]
+        ],
+        "date-time": "2024-07-05T14:45:21Z",
+        "timestamp": 1720190721000
+      },
+      "page": "e080646",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Guideline-based exercise management for hip and knee osteoarthritis: a cross-sectional comparison of healthcare professional and patient beliefs in Ireland"
+      ],
+      "prefix": "10.1136",
+      "volume": "14",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-9373-100X",
+          "authenticated-orcid": false,
+          "given": "Clodagh M",
+          "family": "Toomey",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Avantika",
+          "family": "Bhardwaj",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jacqui",
+          "family": "Browne",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ian",
+          "family": "Dowling",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stacey",
+          "family": "Grealis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter",
+          "family": "Hayes",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Niall",
+          "family": "Higgins",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Darragh",
+          "family": "Maguire",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "John",
+          "family": "O’Hora",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joseph",
+          "family": "Rector",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Arianna",
+          "family": "Wood-Thornsbury",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6047-1240",
+          "authenticated-orcid": false,
+          "given": "Norelee",
+          "family": "Kennedy",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            5
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2024070507400982000_14.7.e080646.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.joca.2014.01.003"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.2",
+          "unstructured": "National Institute for Health & Clinical Excellence . Osteoarthritis: care and management. London, 2014."
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.3",
+          "doi-asserted-by": "crossref",
+          "first-page": "iv1",
+          "DOI": "10.1093/rheumatology/key065",
+          "article-title": "Osteoarthritis: time for us all to shift the needle",
+          "volume": "57",
+          "author": "Hunter",
+          "year": "2018",
+          "journal-title": "Rheumatology (Oxford)"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.4",
+          "doi-asserted-by": "crossref",
+          "first-page": "1443",
+          "DOI": "10.1002/acr.22891",
+          "article-title": "Quality of community-based osteoarthritis care: A systematic review and meta-analysis",
+          "volume": "68",
+          "author": "Hagen",
+          "year": "2016",
+          "journal-title": "Arthritis Care Res (Hoboken)"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.5",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s12891-018-2196-2",
+          "article-title": "Uptake of the NICE osteoarthritis guidelines in primary care: a survey of older adults with joint pain",
+          "volume": "19",
+          "author": "Healey",
+          "year": "2018",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.6",
+          "doi-asserted-by": "crossref",
+          "first-page": "24",
+          "DOI": "10.1186/s41256-021-00201-7",
+          "article-title": "The need for adaptable global guidance in health systems strengthening for musculoskeletal health: a qualitative study of international key informants",
+          "volume": "6",
+          "author": "Briggs",
+          "year": "2021",
+          "journal-title": "glob health res policy"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/annrheumdis-2017-212662"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.8",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s41927-018-0023-x",
+          "article-title": "Living with osteoarthritis is a balancing act: an exploration of patients ’ beliefs about knee pain",
+          "volume": "2",
+          "author": "Darlow",
+          "year": "2018",
+          "journal-title": "BMC Rheumatol"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.9",
+          "doi-asserted-by": "crossref",
+          "first-page": "1554",
+          "DOI": "10.1002/acr.21700",
+          "article-title": "Role of exercise for knee pain: what do older adults in the community think",
+          "volume": "64",
+          "author": "Holden",
+          "year": "2012",
+          "journal-title": "Arthritis Care Res (Hoboken)"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.10",
+          "doi-asserted-by": "crossref",
+          "first-page": "1975",
+          "DOI": "10.1097/CORR.0000000000000784",
+          "article-title": "Misconceptions and the acceptance of evidence-based Nonsurgical interventions for knee osteoarthritis. A qualitative study",
+          "volume": "477",
+          "author": "Bunzli",
+          "year": "2019",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/08870440008400299"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.12",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/1471-2474-11-31",
+          "article-title": "Health beliefs before and after participation on an exercised-based rehabilitation programme for chronic knee pain: doing is believing",
+          "volume": "11",
+          "author": "Hurley",
+          "year": "2010",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/art.24829"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.14",
+          "doi-asserted-by": "crossref",
+          "first-page": "370",
+          "DOI": "10.2519/jospt.2017.0605",
+          "article-title": "Osteoarthritis management: time to change the deck",
+          "volume": "47",
+          "author": "Hunter",
+          "year": "2017",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.15",
+          "doi-asserted-by": "crossref",
+          "first-page": "219",
+          "DOI": "10.1002/acr2.1032",
+          "article-title": "Confidence and attitudes toward osteoarthritis care among the current and emerging health workforce: A multinational Interprofessional study",
+          "volume": "1",
+          "author": "Briggs",
+          "year": "2019",
+          "journal-title": "ACR Open Rheumatol"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.16",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2016-014999",
+          "article-title": "Gps ’ attitudes, beliefs and Behaviours regarding exercise for chronic knee pain: a questionnaire survey",
+          "volume": "7",
+          "author": "Cottrell",
+          "year": "2017",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.17",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2018-023457",
+          "article-title": "Qualitative study exploring the factors influencing physical therapy management of early knee osteoarthritis in Canada",
+          "volume": "8",
+          "author": "MacKay",
+          "year": "2018",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3109/09638288.2013.793409"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.19",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/1471-2296-11-4",
+          "article-title": "The attitudes, beliefs and Behaviours of Gps regarding exercise for chronic knee pain: a systematic review",
+          "volume": "11",
+          "author": "Cottrell",
+          "year": "2010",
+          "journal-title": "BMC Fam Pract"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.20",
+          "doi-asserted-by": "crossref",
+          "first-page": "260",
+          "DOI": "10.1016/j.joca.2021.11.008",
+          "article-title": "Clinicians’ beliefs and attitudes to physical activity and exercise therapy as treatment for knee and/or hip osteoarthritis: a Scoping review",
+          "volume": "30",
+          "author": "Nissen",
+          "year": "2022",
+          "journal-title": "Osteoarthr Cartil"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.21",
+          "doi-asserted-by": "crossref",
+          "first-page": "2073",
+          "DOI": "10.1080/09593985.2021.1906805",
+          "article-title": "Knowledge, confidence and learning needs of Physiotherapists treating persistent knee pain in Australia and Canada: a mixed-methods study",
+          "volume": "38",
+          "author": "Barton",
+          "year": "2022",
+          "journal-title": "Physiother Theory Pract"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.22",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s12891-022-05599-w",
+          "article-title": "Implementation of clinical guidelines for osteoarthritis together (IMPACT): protocol for a Participatory health research approach to implementing high value care",
+          "volume": "23",
+          "author": "Toomey",
+          "year": "2022",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.23",
+          "doi-asserted-by": "crossref",
+          "unstructured": "O’Regan A , Hayes P , O’Connor R , et al . The University of Limerick education and research network for general practice (ULEARN-GP): practice characteristics and general practitioner perspectives. BMC Fam Pract 2020;21. doi:10.1186/s12875-020-1100-y",
+          "DOI": "10.1186/s12875-020-1100-y"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2013.12.002"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0269215514538069"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10067-007-0579-0"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.27",
+          "doi-asserted-by": "crossref",
+          "first-page": "622",
+          "DOI": "10.1002/art.38290",
+          "article-title": "Impact of exercise type and dose on pain and disability in knee osteoarthritis A systematic review and meta-regression analysis of randomized controlled trials",
+          "volume": "66",
+          "author": "Juhl",
+          "year": "2014",
+          "journal-title": "Arthritis Rheumatol"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.28",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.2147/OARRR.S53974",
+          "article-title": "The pain-relieving qualities of exercise in knee osteoarthritis",
+          "volume": "5",
+          "author": "Fitzgerald",
+          "year": "2013",
+          "journal-title": "OARRR"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa1505467"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.30",
+          "doi-asserted-by": "crossref",
+          "first-page": "e386",
+          "DOI": "10.1016/S2665-9913(23)00122-4",
+          "article-title": "Moderators of the effect of therapeutic exercise for knee and hip osteoarthritis: a systematic review and individual participant data meta-analysis",
+          "volume": "5",
+          "author": "Holden",
+          "year": "2023",
+          "journal-title": "Lancet Rheumatol"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.31",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hurley M , Dickson K , Hallett R , et al . Exercise interventions and patient beliefs for people with hip, knee or hip and knee osteoarthritis: a mixed methods review (review). Cochrane Database Syst Rev 2018;CD010842. doi:10.1002/14651858.CD010842.pub2",
+          "DOI": "10.1002/14651858.CD010842.pub2"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40279-019-01082-0"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0749-3797(03)00177-6"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.34",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s12877-017-0584-3",
+          "article-title": "Regular group exercise contributes to balanced health in older adults in Japan: a qualitative study",
+          "volume": "17",
+          "author": "Komatsu",
+          "year": "2017",
+          "journal-title": "BMC Geriatr"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.35",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2021-049541",
+          "article-title": "Cost-effectiveness of an 8- ­ week supervised education and exercise therapy programme for knee and hip osteoarthritis: a pre – post analysis of 16 255 patients participating in good life with osteoArthritis in Denmark (GLA:D)",
+          "volume": "11",
+          "author": "Grønne",
+          "year": "2021",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.36",
+          "doi-asserted-by": "crossref",
+          "first-page": "777",
+          "DOI": "10.1016/j.jagp.2020.10.006",
+          "article-title": "The Leveraging exercise to age in place (LEAP) study: engaging older adults in community-based exercise classes to impact loneliness and social isolation",
+          "volume": "29",
+          "author": "Mays",
+          "year": "2021",
+          "journal-title": "Am J Geriatr Psychiatry"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.37",
+          "doi-asserted-by": "crossref",
+          "first-page": "174",
+          "DOI": "10.1016/j.rehab.2016.02.005",
+          "article-title": "Educating patients about the benefits of physical activity and exercise for their hip and knee osteoarthritis",
+          "volume": "59",
+          "author": "Gay",
+          "year": "2016",
+          "journal-title": "Ann Phys Rehabil Med"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jphys.2021.06.011"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.39",
+          "unstructured": "Arthritis Ireland . Living well with arthritis (and related conditions) self-management programme. 2023. Available: https://www.arthritisireland.ie/living-well-with-arthritis-and-related-conditions-self-management-programme"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/s0140-6736(20)30925-9"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3138/ptc.2011-50"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.42",
+          "doi-asserted-by": "crossref",
+          "first-page": "1865",
+          "DOI": "10.1016/j.pec.2022.01.009",
+          "article-title": "Patient and practitioner priorities and concerns about primary Healthcare interactions for osteoarthritis: A meta-Ethnography",
+          "volume": "105",
+          "author": "Vennik",
+          "year": "2022",
+          "journal-title": "Patient Educ Couns"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.43",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s40814-023-01242-0",
+          "article-title": "Personalised exercise therapy and self-management support for people with Multimorbidity: feasibility of the MOBILIZE intervention",
+          "volume": "9",
+          "author": "Skou",
+          "year": "2023",
+          "journal-title": "Pilot Feasibility Stud"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.44",
+          "doi-asserted-by": "crossref",
+          "first-page": "101",
+          "DOI": "10.1002/msc.1452",
+          "article-title": "Factors influencing the implementation of evidence-based guidelines for osteoarthritis in primary care: A systematic review and thematic synthesis",
+          "volume": "18",
+          "author": "Swaithes",
+          "year": "2020",
+          "journal-title": "Musculoskeletal Care"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2020-102736"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.46",
+          "doi-asserted-by": "crossref",
+          "first-page": "230",
+          "DOI": "10.1080/01421590802158377",
+          "article-title": "Implementing arthritis clinical practice guidelines in primary care",
+          "volume": "31",
+          "author": "Lineker",
+          "year": "2009",
+          "journal-title": "Med Teach"
+        },
+        {
+          "key": "2024070507400982000_14.7.e080646.47",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Johansson M , Guyatt G , Montori V . Guidelines should consider Clinicians ’ time needed to treat. BMJ 2023;e072953. doi:10.1136/bmj-2022-072953",
+          "DOI": "10.1136/bmj-2022-072953"
+        }
+      ],
+      "container-title": [
+        "BMJ Open"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2023-080646",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            5
+          ]
+        ],
+        "date-time": "2024-07-05T14:45:48Z",
+        "timestamp": 1720190748000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2023-080646"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            7
+          ]
+        ]
+      },
+      "references-count": 47,
+      "journal-issue": {
+        "issue": "7",
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              5
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              7
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bmjopen-2023-080646"
+      ],
+      "URL": "https://doi.org/10.1136/bmjopen-2023-080646",
+      "relation": {},
+      "ISSN": [
+        "2044-6055",
+        "2044-6055"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2044-6055"
+        },
+        {
+          "type": "electronic",
+          "value": "2044-6055"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            7
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,496 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_bjsports_2020_102216.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_bjsports_2020_102216",
+  "doi": "10.1136/bjsports-2020-102216",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:45.157308Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T20:38:42Z",
+        "timestamp": 1757450322339,
+        "version": "3.37.3"
+      },
+      "reference-count": 28,
+      "publisher": "BMJ",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                10,
+                5
+              ]
+            ],
+            "date-time": "2020-10-05T00:00:00Z",
+            "timestamp": 1601856000000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100008376",
+          "name": "Helsingin ja Uudenmaan Sairaanhoitopiiri",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100008376",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100010600",
+          "name": "Tays",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100010600",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100004012",
+          "name": "Jane ja Aatos Erkon Säätiö",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100004012",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100002341",
+          "name": "Academy of Finland",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100002341",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100006306",
+          "name": "Sigrid Juséliuksen Säätiö",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100006306",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Br J Sports Med"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2020,
+            7,
+            21
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:sec><jats:title>Objectives</jats:title><jats:p>To assess the long-term efficacy of arthroscopic subacromial decompression (ASD) by comparing it with diagnostic arthroscopy (primary comparison), a placebo surgical intervention, and with a non-operative alternative, exercise therapy (secondary comparison).</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>We conducted a multicentre, three group, randomised, controlled superiority trial. We included 210 patients aged 35–65 years, who had symptoms consistent with shoulder impingement syndrome for more than 3 months. 175 participants (83%) completed the 5 years follow-up. Patient enrolment began on 1 February 2005 and the 5-year follow-up was completed by 10 October 2018. The two primary outcomes were shoulder pain at rest and on arm activity measured with Visual Analogue Scale (VAS). Minimally important difference (MID) was set at 15. We used a mixed-model repeated measurements analysis of variance with participant as a random factor, the baseline value as a covariate and assuming a covariance structure with compound symmetry.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>In the primary intention to treat analysis (ASD vs diagnostic arthroscopy), there were no between-group differences that exceeded the MID for the primary outcomes at 5 years: the mean difference between groups (ASD minus diagnostic arthroscopy) in pain VAS were −2.0 (95% CI −8.5 to 4.6; p=0.56) at rest and −8.0 (−17.3 to 1.3; p=0.093) on arm activity. There were no between-group differences in the secondary outcomes or adverse events that exceeded the MID. In our secondary comparison (ASD vs exercise therapy), the mean differences between groups (ASD minus exercise therapy) in pain VAS were 1.0 (−5.6 to 7.6; p=0.77) at rest and −3.9 (−12.8 to 5.1; p=0.40) on arm activity. There were no significant between-group differences for the secondary outcomes or adverse events.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>ASD provided no benefit over diagnostic arthroscopy (or exercise therapy) at 5 years for patients with shoulder impingement syndrome.</jats:p></jats:sec>",
+      "DOI": "10.1136/bjsports-2020-102216",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            5
+          ]
+        ],
+        "date-time": "2020-10-05T21:25:23Z",
+        "timestamp": 1601933123000
+      },
+      "page": "99-107",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 46,
+      "title": [
+        "Subacromial decompression versus diagnostic arthroscopy for shoulder impingement: a 5-year follow-up of a randomised, placebo surgery controlled clinical trial"
+      ],
+      "prefix": "10.1136",
+      "volume": "55",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2506-2115",
+          "authenticated-orcid": false,
+          "given": "Mika",
+          "family": "Paavola",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1071-5862",
+          "authenticated-orcid": false,
+          "given": "Kari",
+          "family": "Kanto",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8287-7273",
+          "authenticated-orcid": false,
+          "given": "Jonas",
+          "family": "Ranstam",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9042-4450",
+          "authenticated-orcid": false,
+          "given": "Antti",
+          "family": "Malmivaara",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jari",
+          "family": "Inkinen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1071-5862",
+          "authenticated-orcid": false,
+          "given": "Juha",
+          "family": "Kalske",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Vesa",
+          "family": "Savolainen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ilkka",
+          "family": "Sinisaari",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6755-2983",
+          "authenticated-orcid": false,
+          "given": "Simo",
+          "family": "Taimela",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3713-956X",
+          "authenticated-orcid": false,
+          "given": "Teppo L",
+          "family": "Järvinen",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            5
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2024101110351585000_55.2.99.1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1056/NEJMvcm1212941",
+          "article-title": "VIDEOS in clinical medicine. clinical examination of the shoulder",
+          "volume": "375",
+          "author": "Beach",
+          "year": "2016",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/JBJS.I.01003"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2018-100486"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmjopen-2018-028777"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.5",
+          "first-page": "CD005619",
+          "article-title": "Subacromial decompression surgery for rotator cuff disease",
+          "volume": "1",
+          "author": "Karjalainen",
+          "year": "2019",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.l294"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1302/2046-3758.27.2000163"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.8",
+          "doi-asserted-by": "crossref",
+          "first-page": "799",
+          "DOI": "10.1302/0301-620X.99B6.BJJ-2016-0569.R1",
+          "article-title": "Arthroscopic decompression not recommended in the treatment of rotator cuff tendinopathy: a final review of a randomised controlled trial at a minimum follow-up of ten years",
+          "volume": "99-B",
+          "author": "Ketola",
+          "year": "2017",
+          "journal-title": "Bone Joint J"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546518755759"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/03009740600556167"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmjopen-2016-014087"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.k2860"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.13",
+          "doi-asserted-by": "crossref",
+          "first-page": "64",
+          "DOI": "10.1097/00003086-199005000-00010",
+          "article-title": "Diagnosis and treatment of incomplete rotator cuff tears",
+          "volume": "254",
+          "author": "Ellman",
+          "year": "1990",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0749-8063(87)80061-0"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jse.2009.03.021"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00005650-199206000-00002"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3109/07853890109002086"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jse.2014.07.003"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/JBJS.H.01296"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.joca.2016.01.008"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(17)32457-1"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa0900429"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa013259"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa0900563"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMe1302696"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.l586"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-121-3-199408010-00008"
+        },
+        {
+          "key": "2024101110351585000_55.2.99.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/art.22110"
+        }
+      ],
+      "container-title": [
+        "British Journal of Sports Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bjsports-2020-102216",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            10,
+            11
+          ]
+        ],
+        "date-time": "2024-10-11T17:37:00Z",
+        "timestamp": 1728668220000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bjsm.bmj.com/lookup/doi/10.1136/bjsports-2020-102216"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            5
+          ]
+        ]
+      },
+      "references-count": 28,
+      "journal-issue": {
+        "issue": "2",
+        "published-online": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              29
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bjsports-2020-102216"
+      ],
+      "URL": "https://doi.org/10.1136/bjsports-2020-102216",
+      "relation": {},
+      "ISSN": [
+        "0306-3674",
+        "1473-0480"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0306-3674"
+        },
+        {
+          "type": "electronic",
+          "value": "1473-0480"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            5
+          ]
+        ]
+      }
+    }
+  }
+}

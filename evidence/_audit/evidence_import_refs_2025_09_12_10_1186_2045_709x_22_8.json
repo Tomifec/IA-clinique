@@ -1,0 +1,449 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_2045_709x_22_8.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_2045_709x_22_8",
+  "doi": "10.1186/2045-709X-22-8",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:07.480014Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            2
+          ]
+        ],
+        "date-time": "2025-07-02T00:03:35Z",
+        "timestamp": 1751414615197
+      },
+      "reference-count": 19,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                2,
+                4
+              ]
+            ],
+            "date-time": "2014-02-04T00:00:00Z",
+            "timestamp": 1391472000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/2.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                2,
+                4
+              ]
+            ],
+            "date-time": "2014-02-04T00:00:00Z",
+            "timestamp": 1391472000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/2.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Chiropr Man Therap"
+      ],
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                        <jats:title>Background</jats:title>\n                        <jats:p>Meningiomas are the most common brain tumor in the adult population. This case report describes the epidemiology, the clinical presentation as well as the current treatment options for this condition.</jats:p>\n                     </jats:sec><jats:sec>\n                        <jats:title>Case presentation</jats:title>\n                        <jats:p>A 49 year-old man attended a chiropractic clinic with non-specific chronic low back pain. Upon the history taking and the systems review, he reported a loss of both smell and taste for which investigations conducted by two different otolaryngologists did not yield a specific diagnosis. The patient was referred to a neurologist who ordered a computer tomography scan that eventually revealed a compression brain tumor.</jats:p>\n                        <jats:p>Brain tumors can produce a large variety of clinical presentations, such as upper motor neuron lesion symptoms, altered consciousness or vital functions which are easy to identify. However, subtle signs, such as those presented in this case, can be neglected.</jats:p>\n                     </jats:sec><jats:sec>\n                        <jats:title>Conclusion</jats:title>\n                        <jats:p>Clinicians should be aware of uncommon clinical presentations including cranial nerve or neurological dysfunction and refer their patient to a specialist when detected.</jats:p>\n                     </jats:sec>",
+      "DOI": "10.1186/2045-709x-22-8",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2014,
+            2,
+            4
+          ]
+        ],
+        "date-time": "2014-02-04T10:02:42Z",
+        "timestamp": 1391508162000
+      },
+      "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 3,
+      "title": [
+        "Subtle clinical signs of a meningioma in an adult: a case report"
+      ],
+      "prefix": "10.1186",
+      "volume": "22",
+      "author": [
+        {
+          "given": "Andrée-Anne",
+          "family": "Marchand",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Julie",
+          "family": "O'Shaughnessy",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2014,
+            2,
+            4
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "118_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "1604",
+          "DOI": "10.1634/theoncologist.2011-0193",
+          "volume": "16",
+          "author": "S Saraf",
+          "year": "2011",
+          "unstructured": "Saraf S, McCarthy BJ, Villano JL: Update on meningiomas. Oncologist. 2011, 16: 1604-1613. 10.1634/theoncologist.2011-0193",
+          "journal-title": "Oncologist"
+        },
+        {
+          "issue": "Suppl 5",
+          "key": "118_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "v1",
+          "DOI": "10.1093/neuonc/nos218",
+          "volume": "14",
+          "author": "TA Dolecek",
+          "year": "2012",
+          "unstructured": "Dolecek TA, Propp JM, Stroup NE, Kruchko C: CBTRUS statistical report: primary brain and central nervous system tumors diagnosed in the United States in 2005–2009. Neuro Oncol. 2012, 14 (Suppl 5): v1-v49. 10.1093/neuonc/nos218",
+          "journal-title": "Neuro Oncol"
+        },
+        {
+          "key": "118_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "1905",
+          "DOI": "10.1001/jama.1984.03350140051025",
+          "volume": "252",
+          "author": "JA Ewing",
+          "year": "1984",
+          "unstructured": "Ewing JA: Detecting alcoholism. The CAGE questionnaire. JAMA. 1984, 252: 1905-1907. 10.1001/jama.1984.03350140051025",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "118_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "33",
+          "DOI": "10.1016/j.jmpt.2007.11.003",
+          "volume": "31",
+          "author": "AE Bussieres",
+          "year": "2008",
+          "unstructured": "Bussieres AE, Taylor JA, Peterson C: Diagnostic imaging practice guidelines for musculoskeletal complaints in adults-an evidence-based approach-part 3: spinal disorders. J Manipulative Physiol Ther. 2008, 31: 33-88. 10.1016/j.jmpt.2007.11.003",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "118_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "1117",
+          "DOI": "10.1007/s00701-008-0142-z",
+          "volume": "150",
+          "author": "R Gazzeri",
+          "year": "2008",
+          "unstructured": "Gazzeri R, Galarza M, Gazzeri G: Giant olfactory groove meningioma: ophthalmological and cognitive outcome after bifrontal microsurgical approach. Acta Neurochir (Wien). 2008, 150: 1117-1125. 10.1007/s00701-008-0142-z",
+          "journal-title": "Acta Neurochir (Wien)"
+        },
+        {
+          "key": "118_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "2282",
+          "DOI": "10.1002/lary.22174",
+          "volume": "121",
+          "author": "JP Pepper",
+          "year": "2011",
+          "unstructured": "Pepper JP, Hecht SL, Gebarski SS, Lin EM, Sullivan SE, Marentette LJ: Olfactory groove meningioma: discussion of clinical presentation and surgical outcomes following excision via the subcranial approach. Laryngoscope. 2011, 121: 2282-2289. 10.1002/lary.22174",
+          "journal-title": "Laryngoscope"
+        },
+        {
+          "key": "118_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "109",
+          "DOI": "10.1007/s00701-006-1075-z",
+          "volume": "149",
+          "author": "H Bassiouni",
+          "year": "2007",
+          "unstructured": "Bassiouni H, Asgari S, Stolke D: Olfactory groove meningiomas: functional outcome in a series treated microsurgically. Acta Neurochir (Wien). 2007, 149: 109-121. 10.1007/s00701-006-1075-z",
+          "journal-title": "Acta Neurochir (Wien)"
+        },
+        {
+          "key": "118_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "965",
+          "DOI": "10.1016/j.otc.2011.06.001",
+          "volume": "44",
+          "author": "ND Adappa",
+          "year": "2011",
+          "unstructured": "Adappa ND, Lee JY, Chiu AG, Palmer JN: Olfactory groove meningioma. Otolaryngol Clin North Am. 2011, 44: 965-980. ix,",
+          "journal-title": "Otolaryngol Clin North Am"
+        },
+        {
+          "key": "118_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "231",
+          "DOI": "10.1007/s11910-009-0034-5",
+          "volume": "9",
+          "author": "AD Norden",
+          "year": "2009",
+          "unstructured": "Norden AD, Drappatz J, Wen PY: Advances in meningioma therapy. Curr Neurol Neurosci Rep. 2009, 9: 231-240. 10.1007/s11910-009-0034-5",
+          "journal-title": "Curr Neurol Neurosci Rep"
+        },
+        {
+          "key": "118_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "4530",
+          "DOI": "10.1002/cncr.26625",
+          "volume": "118",
+          "author": "EB Claus",
+          "year": "2012",
+          "unstructured": "Claus EB, Calvocoressi L, Bondy ML, Schildkraut JM, Wiemels JL, Wrensch M: Dental x-rays and risk of meningioma. Cancer. 2012, 118: 4530-4537. 10.1002/cncr.26625",
+          "journal-title": "Cancer"
+        },
+        {
+          "key": "118_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "1011",
+          "DOI": "10.1093/neuonc/nor081",
+          "volume": "13",
+          "author": "DR Johnson",
+          "year": "2011",
+          "unstructured": "Johnson DR, Olson JE, Vierkant RA, Hammack JE, Wang AH, Folsom AR, Virnig BA, Cerhan JR: Risk factors for meningioma in postmenopausal women: results from the Iowa Women’s Health Study. Neuro Oncol. 2011, 13: 1011-1019. 10.1093/neuonc/nor081",
+          "journal-title": "Neuro Oncol"
+        },
+        {
+          "key": "118_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "1072",
+          "DOI": "10.3171/2011.6.JNS11129",
+          "volume": "115",
+          "author": "EB Claus",
+          "year": "2011",
+          "unstructured": "Claus EB, Calvocoressi L, Bondy ML, Schildkraut JM, Wiemels JL, Wrensch M: Family and personal medical history and risk of meningioma. J Neurosurg. 2011, 115: 1072-1077. 10.3171/2011.6.JNS11129",
+          "journal-title": "J Neurosurg"
+        },
+        {
+          "key": "118_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "507",
+          "DOI": "10.1046/j.1365-2273.1999.00303.x",
+          "volume": "24",
+          "author": "A Tsikoudas",
+          "year": "1999",
+          "unstructured": "Tsikoudas A, Martin-Hirsch DP: Olfactory groove meningiomas. Clin Otolaryngol Allied Sci. 1999, 24: 507-509. 10.1046/j.1365-2273.1999.00303.x",
+          "journal-title": "Clin Otolaryngol Allied Sci"
+        },
+        {
+          "key": "118_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "218",
+          "DOI": "10.1136/jnnp.70.2.218",
+          "volume": "70",
+          "author": "A Welge-Luessen",
+          "year": "2001",
+          "unstructured": "Welge-Luessen A, Temmel A, Quint C, Moll B, Wolf S, Hummel T: Olfactory function in patients with olfactory groove meningioma. J Neurol Neurosurg Psychiatry. 2001, 70: 218-221. 10.1136/jnnp.70.2.218",
+          "journal-title": "J Neurol Neurosurg Psychiatry"
+        },
+        {
+          "key": "118_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "435",
+          "DOI": "10.1093/neurosurgery/25.CN_suppl_1.435",
+          "volume": "25",
+          "author": "PJ Derome",
+          "year": "1978",
+          "unstructured": "Derome PJ, Guiot G: Bone problems in meningiomas invading the base of the skull. Clin Neurosurg. 1978, 25: 435-451.",
+          "journal-title": "Clin Neurosurg"
+        },
+        {
+          "key": "118_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "931",
+          "DOI": "10.1007/s00701-010-0646-1",
+          "volume": "152",
+          "author": "W Rachinger",
+          "year": "2010",
+          "unstructured": "Rachinger W, Grau S, Tonn JC: Different microsurgical approaches to meningiomas of the anterior cranial base. Acta Neurochir (Wien). 2010, 152: 931-939. 10.1007/s00701-010-0646-1",
+          "journal-title": "Acta Neurochir (Wien)"
+        },
+        {
+          "key": "118_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "259",
+          "DOI": "10.3171/2011.3.JNS101748",
+          "volume": "115",
+          "author": "KS Cahill",
+          "year": "2011",
+          "unstructured": "Cahill KS, Claus EB: Treatment and survival of patients with nonmalignant intracranial meningioma: results from the surveillance, epidemiology, and end results program of the National Cancer Institute. Clinical article. J Neurosurg. 2011, 115: 259-267. 10.3171/2011.3.JNS101748",
+          "journal-title": "J Neurosurg"
+        },
+        {
+          "key": "118_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "131",
+          "DOI": "10.1055/s-2000-9316",
+          "volume": "10",
+          "author": "WE Snyder",
+          "year": "2000",
+          "unstructured": "Snyder WE, Shah MV, Weisberger EC, Campbell RL: Presentation and patterns of late recurrence of olfactory groove meningiomas. Skull Base Surg. 2000, 10: 131-139. 10.1055/s-2000-9316",
+          "journal-title": "Skull Base Surg"
+        },
+        {
+          "key": "118_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "87",
+          "DOI": "10.1016/S0090-3019(02)00995-3",
+          "volume": "59",
+          "author": "R Bindal",
+          "year": "2003",
+          "unstructured": "Bindal R, Goodman JM, Kawasaki A, Purvin V, Kuzma B: The natural history of untreated skull base meningiomas. Surg Neurol. 2003, 59: 87-92. discussion 92,",
+          "journal-title": "Surg Neurol"
+        }
+      ],
+      "container-title": [
+        "Chiropractic &amp; Manual Therapies"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/2045-709X-22-8.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1186/2045-709X-22-8/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/2045-709X-22-8.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            10,
+            7
+          ]
+        ],
+        "date-time": "2024-10-07T12:41:54Z",
+        "timestamp": 1728304914000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://chiromt.biomedcentral.com/articles/10.1186/2045-709X-22-8"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2014,
+            2,
+            4
+          ]
+        ]
+      },
+      "references-count": 19,
+      "journal-issue": {
+        "issue": "1",
+        "published-online": {
+          "date-parts": [
+            [
+              2014,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "118"
+      ],
+      "URL": "https://doi.org/10.1186/2045-709x-22-8",
+      "relation": {},
+      "ISSN": [
+        "2045-709X"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2045-709X"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            2,
+            4
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "17 July 2013",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "17 December 2013",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "4 February 2014",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        }
+      ],
+      "article-number": "8"
+    }
+  }
+}

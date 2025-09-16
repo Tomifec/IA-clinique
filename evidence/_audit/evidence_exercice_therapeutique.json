@@ -1,0 +1,1555 @@
+{
+  "file": "evidence\\exercice_th_rapeutique.md",
+  "id": "evidence_exercice_therapeutique",
+  "doi": "10.1016/j.jshs.2025.101038",
+  "pmid": "40180212",
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:09:19.268193Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            11
+          ]
+        ],
+        "date-time": "2025-09-11T20:31:41Z",
+        "timestamp": 1757622701374,
+        "version": "3.44.0"
+      },
+      "reference-count": 105,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2025-12-01T00:00:00Z",
+            "timestamp": 1764547200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2025-12-01T00:00:00Z",
+            "timestamp": 1764547200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                4,
+                1
+              ]
+            ],
+            "date-time": "2025-04-01T00:00:00Z",
+            "timestamp": 1743465600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Sport and Health Science"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jshs.2025.101038",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            4
+          ]
+        ],
+        "date-time": "2025-04-04T16:34:16Z",
+        "timestamp": 1743784456000
+      },
+      "page": "101038",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "special_numbering": "C",
+      "title": [
+        "Benefits and harms of exercise therapy and physical activity for low back pain: An umbrella review"
+      ],
+      "prefix": "10.1016",
+      "volume": "14",
+      "author": [
+        {
+          "given": "Josielli",
+          "family": "Comachio",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Paula R.",
+          "family": "Beckenkamp",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Emma Kwan-Yee",
+          "family": "Ho",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christina Abdel",
+          "family": "Shaheed",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Emmanuel",
+          "family": "Stamatakis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Manuela Loureiro",
+          "family": "Ferreira",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Qianwen",
+          "family": "Lan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Paul Jarle",
+          "family": "Mork",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Andreas",
+          "family": "Holtermann",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Daniel Xin Mo",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Paulo H.",
+          "family": "Ferreira",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0001",
+          "doi-asserted-by": "crossref",
+          "first-page": "844",
+          "DOI": "10.1136/annrheumdis-2019-215142",
+          "article-title": "The world-wide burden of musculoskeletal diseases: A systematic analysis of the World Health Organization Burden of Diseases Database",
+          "volume": "78",
+          "author": "Sebbag",
+          "year": "2019",
+          "journal-title": "Ann Rheum Dis"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0002",
+          "doi-asserted-by": "crossref",
+          "first-page": "159",
+          "DOI": "10.1016/j.jphys.2019.04.010",
+          "article-title": "Recurrence of low back pain is common: A prospective inception cohort study",
+          "volume": "65",
+          "author": "da Silva",
+          "year": "2019",
+          "journal-title": "J Physiother"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0003",
+          "doi-asserted-by": "crossref",
+          "first-page": "2356",
+          "DOI": "10.1016/S0140-6736(18)30480-X",
+          "article-title": "What low back pain is and why we need to pay attention",
+          "volume": "391",
+          "author": "Hartvigsen",
+          "year": "2018",
+          "journal-title": "The Lancet"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0004",
+          "doi-asserted-by": "crossref",
+          "first-page": "pzac150",
+          "DOI": "10.1093/ptj/pzac150",
+          "article-title": "Influence of initial health care provider on subsequent health care utilization for patients with a new onset of low back pain: A scoping review",
+          "volume": "102",
+          "author": "Zouch",
+          "year": "2022",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0005",
+          "article-title": "Psychological interventions for chronic, non-specific low back pain: Systematic review with network meta-analysis",
+          "volume": "376",
+          "author": "Ho",
+          "year": "2022",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0006",
+          "doi-asserted-by": "crossref",
+          "first-page": "1239",
+          "DOI": "10.1097/BRS.0000000000002786",
+          "article-title": "Lancet Series: The “magnum opus” regarding the evidence on low back pain",
+          "volume": "43",
+          "author": "Ostelo",
+          "year": "2018",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "Suppl. 1",
+          "key": "10.1016/j.jshs.2025.101038_bib0007",
+          "doi-asserted-by": "crossref",
+          "first-page": "S57",
+          "DOI": "10.1097/j.pain.0000000000001869",
+          "article-title": "The Lancet Series call to action to reduce low value care for low back pain: An update",
+          "volume": "161",
+          "author": "Buchbinder",
+          "year": "2020",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0008",
+          "doi-asserted-by": "crossref",
+          "first-page": "1451",
+          "DOI": "10.1136/bjsports-2020-102955",
+          "article-title": "World Health Organization 2020 guidelines on physical activity and sedentary behaviour",
+          "volume": "54",
+          "author": "Bull",
+          "year": "2020",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0009",
+          "doi-asserted-by": "crossref",
+          "first-page": "2368",
+          "DOI": "10.1016/S0140-6736(18)30489-6",
+          "article-title": "Prevention and treatment of low back pain: Evidence, challenges, and promising directions",
+          "volume": "391",
+          "author": "Foster",
+          "year": "2018",
+          "journal-title": "The Lancet"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0010",
+          "doi-asserted-by": "crossref",
+          "first-page": "365",
+          "DOI": "10.4082/kjfm.20.0165",
+          "article-title": "Sedentary lifestyle: Overview of updated evidence of potential health risks",
+          "volume": "41",
+          "author": "Park",
+          "year": "2020",
+          "journal-title": "Korean J Fam Med"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0011",
+          "doi-asserted-by": "crossref",
+          "first-page": "8244",
+          "DOI": "10.1038/s41598-019-44664-8",
+          "article-title": "The association between physical activity and low back pain: A systematic review and meta-analysis of observational studies",
+          "volume": "9",
+          "author": "Alzahrani",
+          "year": "2019",
+          "journal-title": "Sci Rep"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0012",
+          "doi-asserted-by": "crossref",
+          "first-page": "2083",
+          "DOI": "10.1007/s00586-014-3258-2",
+          "article-title": "Heavy domestic, but not recreational, physical activity is associated with low back pain: Australian twin low BACK pain (AUTBACK) study",
+          "volume": "23",
+          "author": "Hubscher",
+          "year": "2014",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0013",
+          "doi-asserted-by": "crossref",
+          "first-page": "252",
+          "DOI": "10.1016/j.jphys.2021.09.004",
+          "article-title": "Some types of exercise are more effective than others in people with chronic low back pain: A network meta-analysis",
+          "volume": "67",
+          "author": "Hayden",
+          "year": "2021",
+          "journal-title": "J Physiother"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0014",
+          "doi-asserted-by": "crossref",
+          "first-page": "120",
+          "DOI": "10.1016/j.jphys.2017.02.012",
+          "article-title": "Low back pain and sciatica in over 16s: Assessment and management NICE Guideline [NG59]",
+          "volume": "63",
+          "author": "de Campos",
+          "year": "2017",
+          "journal-title": "J Physiother"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "257",
+          "DOI": "10.1016/j.jsams.2024.01.003",
+          "article-title": "Clinical guidelines are silent on the recommendation of physical activity and exercise therapy for low back pain: A systematic review",
+          "volume": "27",
+          "author": "Comachio",
+          "year": "2024",
+          "journal-title": "J Sci Med Sport"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0016",
+          "doi-asserted-by": "crossref",
+          "first-page": "716",
+          "DOI": "10.1055/s-2004-832488",
+          "article-title": "Guidelines for back pain",
+          "volume": "142",
+          "author": "Becker",
+          "year": "2004",
+          "journal-title": "Z Orthop Ihre Grenzgeb"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0017",
+          "doi-asserted-by": "crossref",
+          "first-page": "145",
+          "DOI": "10.1080/17512433.2019.1565992",
+          "article-title": "Guideline recommendations on the pharmacological management of non-specific low back pain in primary care–Is there a need to change?",
+          "volume": "12",
+          "author": "Schreijenberg",
+          "year": "2019",
+          "journal-title": "Expert Rev Clin Pharmacol"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0018",
+          "doi-asserted-by": "crossref",
+          "first-page": "2791",
+          "DOI": "10.1007/s00586-018-5673-2",
+          "article-title": "Clinical practice guidelines for the management of non-specific low back pain in primary care: An updated overview",
+          "volume": "27",
+          "author": "Oliveira",
+          "year": "2018",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0019",
+          "doi-asserted-by": "crossref",
+          "first-page": "335",
+          "DOI": "10.1186/s13643-019-1252-9",
+          "article-title": "Preferred reporting items for overviews of reviews (PRIOR): A protocol for development of a reporting guideline for overviews of reviews of healthcare interventions",
+          "volume": "8",
+          "author": "Pollock",
+          "year": "2019",
+          "journal-title": "Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0020",
+          "article-title": "Guidance on terminology, application, and reporting of citation searching: The TARCiS statement",
+          "volume": "385",
+          "author": "Hirt",
+          "year": "2024",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0021",
+          "first-page": "126",
+          "article-title": "Physical activity, exercise, and physical fitness: Definitions and distinctions for health-related research",
+          "volume": "100",
+          "author": "Caspersen",
+          "year": "1985",
+          "journal-title": "Public Health Rep"
+        },
+        {
+          "year": "2023",
+          "series-title": "WHO guideline for non-surgical management of chronic primary low back pain in adults in primary and community care settings",
+          "key": "10.1016/j.jshs.2025.101038_bib0022"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0023",
+          "first-page": "57",
+          "article-title": "Systematic reviews and meta-analyses",
+          "volume": "20",
+          "author": "Uman",
+          "year": "2011",
+          "journal-title": "J Can Acad Child Adolesc Psychiatry"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0024",
+          "doi-asserted-by": "crossref",
+          "first-page": "E316",
+          "DOI": "10.1097/BRS.0b013e318198d073",
+          "article-title": "Definitions of recurrence of an episode of low back pain: A systematic review",
+          "volume": "34",
+          "author": "Stanton",
+          "year": "2009",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0025",
+          "doi-asserted-by": "crossref",
+          "first-page": "481",
+          "DOI": "10.1097/j.pain.0000000000001117",
+          "article-title": "Core outcome measurement instruments for clinical trials in nonspecific low back pain",
+          "volume": "159",
+          "author": "Chiarotto",
+          "year": "2018",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0026",
+          "doi-asserted-by": "crossref",
+          "first-page": "j4008",
+          "DOI": "10.1136/bmj.j4008",
+          "article-title": "AMSTAR 2: A critical appraisal tool for systematic reviews that include randomised or non-randomised studies of healthcare interventions, or both",
+          "volume": "358",
+          "author": "Shea",
+          "year": "2017",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0027",
+          "doi-asserted-by": "crossref",
+          "first-page": "1013",
+          "DOI": "10.1016/j.jclinepi.2008.10.009",
+          "article-title": "AMSTAR is a reliable and valid measurement tool to assess the methodological quality of systematic reviews",
+          "volume": "62",
+          "author": "Shea",
+          "year": "2009",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0028",
+          "doi-asserted-by": "crossref",
+          "first-page": "d5928",
+          "DOI": "10.1136/bmj.d5928",
+          "article-title": "The Cochrane Collaboration's tool for assessing risk of bias in randomised trials",
+          "volume": "343",
+          "author": "Higgins",
+          "year": "2011",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0029",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0132634",
+          "article-title": "PEDro or Cochrane to assess the quality of clinical trials? A meta-epidemiological study",
+          "volume": "10",
+          "author": "Armijo-Olivo",
+          "year": "2015",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0030",
+          "doi-asserted-by": "crossref",
+          "first-page": "924",
+          "DOI": "10.1136/bmj.39489.470347.AD",
+          "article-title": "GRADE: An emerging consensus on rating quality of evidence and strength of recommendations",
+          "volume": "336",
+          "author": "Guyatt",
+          "year": "2008",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0031",
+          "doi-asserted-by": "crossref",
+          "first-page": "71",
+          "DOI": "10.1186/2046-4053-2-71",
+          "article-title": "Judging the quality of evidence in reviews of prognostic factor research: Adapting the GRADE framework",
+          "volume": "2",
+          "author": "Huguet",
+          "year": "2013",
+          "journal-title": "Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0032",
+          "doi-asserted-by": "crossref",
+          "first-page": "368",
+          "DOI": "10.1016/j.jclinepi.2013.11.007",
+          "article-title": "Systematic review finds overlapping reviews were not mentioned in every other overview",
+          "volume": "67",
+          "author": "Pieper",
+          "year": "2014",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0033",
+          "doi-asserted-by": "crossref",
+          "first-page": "134",
+          "DOI": "10.1002/jrsm.1390",
+          "article-title": "Examining overlap of included studies in meta-reviews: Guidance for using the corrected covered area index",
+          "volume": "11",
+          "author": "Hennessy",
+          "year": "2020",
+          "journal-title": "Res Synth Methods"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0034",
+          "doi-asserted-by": "crossref",
+          "first-page": "776",
+          "DOI": "10.1016/j.apmr.2022.10.004",
+          "article-title": "Mind-body exercise performed by physical therapists for reducing pain and disability in low back pain: A systematic review with meta-analysis",
+          "volume": "104",
+          "author": "Gilliam",
+          "year": "2023",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0035",
+          "doi-asserted-by": "crossref",
+          "first-page": "450",
+          "DOI": "10.1097/AJP.0b013e31825e1492",
+          "article-title": "A systematic review and meta-analysis of yoga for low back pain",
+          "volume": "29",
+          "author": "Cramer",
+          "year": "2013",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0036",
+          "article-title": "Effects of specific muscle activation for low back pain on activity limitation, pain, work participation, or recurrence: A systematic review",
+          "volume": "50",
+          "author": "Ford",
+          "year": "2020",
+          "journal-title": "Musculoskelet Sci Pract"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0037",
+          "doi-asserted-by": "crossref",
+          "first-page": "1155",
+          "DOI": "10.1177/0269215515570379",
+          "article-title": "Exercise interventions for the treatment of chronic low back pain: A systematic review and meta-analysis of randomised controlled trials",
+          "volume": "29",
+          "author": "Searle",
+          "year": "2015",
+          "journal-title": "Clin Rehabil"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0038",
+          "doi-asserted-by": "crossref",
+          "first-page": "193",
+          "DOI": "10.1016/j.berh.2010.01.002",
+          "article-title": "Exercise therapy for chronic nonspecific low back pain",
+          "volume": "24",
+          "author": "van Middelkoop",
+          "year": "2010",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0039",
+          "doi-asserted-by": "crossref",
+          "first-page": "416",
+          "DOI": "10.1186/1471-2474-15-416",
+          "article-title": "An update of stabilisation exercises for low back pain: A systematic review with meta-analysis",
+          "volume": "15",
+          "author": "Smith",
+          "year": "2014",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "1571",
+          "DOI": "10.1016/j.apmr.2024.02.732",
+          "article-title": "Exercise therapy for treatment of acute non-specific low back pain: A Cochrane systematic review and meta-analysis of randomised controlled trials",
+          "volume": "105",
+          "author": "IJzelenberg",
+          "year": "2024",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0041",
+          "doi-asserted-by": "crossref",
+          "first-page": "125",
+          "DOI": "10.1016/j.jbmt.2012.08.003",
+          "article-title": "Pilates-based exercise for persistent, non-specific low back pain and associated functional disability: A meta-analysis with meta-regression",
+          "volume": "17",
+          "author": "Aladro-Gonzalvo",
+          "year": "2013",
+          "journal-title": "J Bodyw Mov Ther"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0042",
+          "doi-asserted-by": "crossref",
+          "first-page": "1093",
+          "DOI": "10.1093/aje/kwx337",
+          "article-title": "Exercise for the prevention of low back pain: Systematic review and meta-analysis of controlled trials",
+          "volume": "187",
+          "author": "Shiri",
+          "year": "2018",
+          "journal-title": "Am J Epidemiol"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0043",
+          "article-title": "Pilates for low back pain",
+          "volume": "2015",
+          "author": "Yamato",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0044",
+          "doi-asserted-by": "crossref",
+          "first-page": "310",
+          "DOI": "10.1016/j.physio.2015.04.009",
+          "article-title": "Activating therapy modalities in older individuals with chronic non-specific low back pain: A systematic review",
+          "volume": "101",
+          "author": "Kuss",
+          "year": "2015",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0045",
+          "article-title": "Exercises for prevention of recurrences of low-back pain",
+          "volume": "2010",
+          "author": "Choi",
+          "year": "2010",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0046",
+          "first-page": "959",
+          "article-title": "Preventive strategies for low back pain: A systematic review and meta-analysis",
+          "volume": "10",
+          "author": "Alalmaee",
+          "year": "2020",
+          "journal-title": "Ann Med Health Sci Res"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0047",
+          "doi-asserted-by": "crossref",
+          "first-page": "1410",
+          "DOI": "10.1136/bjsports-2016-097352",
+          "article-title": "Does leisure time physical activity protect against low back pain? Systematic review and meta-analysis of 36 prospective cohort studies",
+          "volume": "51",
+          "author": "Shiri",
+          "year": "2017",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0048",
+          "doi-asserted-by": "crossref",
+          "first-page": "199",
+          "DOI": "10.1001/jamainternmed.2015.7431",
+          "article-title": "Prevention of low back pain: A systematic review and meta-analysis",
+          "volume": "176",
+          "author": "Steffens",
+          "year": "2016",
+          "journal-title": "JAMA Intern Med"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0049",
+          "doi-asserted-by": "crossref",
+          "first-page": "1251",
+          "DOI": "10.1002/ejp.1395",
+          "article-title": "Physical activity as a prognostic factor of pain intensity and disability in patients with low back pain: A systematic review",
+          "volume": "23",
+          "author": "Oliveira",
+          "year": "2019",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0050",
+          "doi-asserted-by": "crossref",
+          "first-page": "464",
+          "DOI": "10.1007/s00586-010-1616-2",
+          "article-title": "The relationship between physical activity and low back pain outcomes: A systematic review of observational studies",
+          "volume": "20",
+          "author": "Hendrick",
+          "year": "2011",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0051",
+          "doi-asserted-by": "crossref",
+          "first-page": "179",
+          "DOI": "10.1186/s12891-017-1534-0",
+          "article-title": "Restriction in lateral bending range of motion, lumbar lordosis, and hamstring flexibility predicts the development of low back pain: A systematic review of prospective cohort studies",
+          "volume": "18",
+          "author": "Sadler",
+          "year": "2017",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0052",
+          "doi-asserted-by": "crossref",
+          "first-page": "826",
+          "DOI": "10.1007/s00586-010-1680-7",
+          "article-title": "Physical activity and low back pain: A systematic review of recent literature",
+          "volume": "20",
+          "author": "Heneweer",
+          "year": "2011",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0053",
+          "doi-asserted-by": "crossref",
+          "first-page": "889",
+          "DOI": "10.3233/BMR-170920",
+          "article-title": "Aerobic vs. resistance exercise for chronic non-specific low back pain: A systematic review and meta-analysis",
+          "volume": "31",
+          "author": "Wewege",
+          "year": "2018",
+          "journal-title": "J Back Musculoskelet Rehabil"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0054",
+          "doi-asserted-by": "crossref",
+          "first-page": "523",
+          "DOI": "10.1177/0269215515590487",
+          "article-title": "Does walking improve disability status, function, or quality of life in adults with chronic low back pain? A systematic review",
+          "volume": "30",
+          "author": "Lawford",
+          "year": "2016",
+          "journal-title": "Clin Rehabil"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0055",
+          "doi-asserted-by": "crossref",
+          "first-page": "136",
+          "DOI": "10.12688/f1000research.75440.1",
+          "article-title": "The effectiveness of different aerobic exercises to improve pain intensity and disability in chronic low back pain patients: A systematic review",
+          "volume": "11",
+          "author": "Sany",
+          "year": "2022",
+          "journal-title": "F1000Res"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0056",
+          "doi-asserted-by": "crossref",
+          "first-page": "E113",
+          "DOI": "10.1519/JPT.0000000000000374",
+          "article-title": "Effects of resistance training on pain control and physical function in older adults with low back pain: A systematic review with meta-analysis",
+          "volume": "46",
+          "author": "Syroyid Syroyid",
+          "year": "2022",
+          "journal-title": "J Geriatr Phys Ther"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0057",
+          "doi-asserted-by": "crossref",
+          "first-page": "527",
+          "DOI": "10.1177/10998004231162327",
+          "article-title": "Aquatic exercise impact on pain intensity, disability and quality of life in adults with low back pain: A systematic review and meta-analysis",
+          "volume": "25",
+          "author": "Heidari",
+          "year": "2023",
+          "journal-title": "Biol Res Nurs"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0058",
+          "doi-asserted-by": "crossref",
+          "first-page": "32",
+          "DOI": "10.5114/pq.2020.95772",
+          "article-title": "The effectiveness of hydrotherapy in patients with chronic low back pain",
+          "volume": "28",
+          "author": "Christakou",
+          "year": "2020",
+          "journal-title": "Physiotherapy Quart"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0059",
+          "doi-asserted-by": "crossref",
+          "first-page": "206",
+          "DOI": "10.1519/JSC.0000000000004635",
+          "article-title": "Water-based exercise in patients with nonspecific chronic low-back pain: A systematic review with meta-analysis",
+          "volume": "38",
+          "author": "Babiloni-Lopez",
+          "year": "2024",
+          "journal-title": "J Strength Cond Res"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0060",
+          "article-title": "Back schools for chronic non-specific low back pain",
+          "volume": "8",
+          "author": "Parreira",
+          "year": "2017",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0061",
+          "doi-asserted-by": "crossref",
+          "first-page": "2160",
+          "DOI": "10.1097/j.pain.0000000000000640",
+          "article-title": "Back schools for the treatment of chronic low back pain: Possibility of benefit but no convincing evidence after 47 years of research-systematic review and meta-analysis",
+          "volume": "157",
+          "author": "Straube",
+          "year": "2016",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0062",
+          "doi-asserted-by": "crossref",
+          "first-page": "272",
+          "DOI": "10.3390/jpm14030272",
+          "article-title": "The effects of back schools on non-specific back pain: A systematic review and meta-analysis",
+          "volume": "14",
+          "author": "Hernandez-Lucas",
+          "year": "2024",
+          "journal-title": "J Pers Med"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0063",
+          "doi-asserted-by": "crossref",
+          "first-page": "109",
+          "DOI": "10.1016/j.ctim.2019.01.021",
+          "article-title": "Baduanjin exercise for low back pain: A systematic review and meta-analysis",
+          "volume": "43",
+          "author": "Li",
+          "year": "2019",
+          "journal-title": "Complement Ther Med"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0064",
+          "doi-asserted-by": "crossref",
+          "first-page": "22",
+          "DOI": "10.3390/healthcare4020022",
+          "article-title": "A systematic review of the effects of exercise and physical activity on non-specific chronic low back pain",
+          "volume": "4",
+          "author": "Gordon",
+          "year": "2016",
+          "journal-title": "Healthcare (Basel)"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0065",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0244588",
+          "article-title": "Comparing the effectiveness of group-based exercise to other non-pharmacological interventions for chronic low back pain: A systematic review",
+          "volume": "15",
+          "author": "Lemieux",
+          "year": "2020",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0066",
+          "article-title": "The McKenzie method for (sub)acute non-specific low back pain",
+          "volume": "4",
+          "author": "Almeida",
+          "year": "2023",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0067",
+          "doi-asserted-by": "crossref",
+          "first-page": "1277",
+          "DOI": "10.1136/bjsports-2019-101205",
+          "article-title": "Exercise treatment effect modifiers in persistent low back pain: An individual participant data meta-analysis of 3514 participants from 27 randomised controlled trials",
+          "volume": "54",
+          "author": "Hayden",
+          "year": "2020",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0068",
+          "doi-asserted-by": "crossref",
+          "first-page": "1023",
+          "DOI": "10.3390/jcm9041023",
+          "article-title": "Physical activity for the treatment of chronic low back pain in elderly patients: A systematic review",
+          "volume": "9",
+          "author": "Vadala",
+          "year": "2020",
+          "journal-title": "J Clin Med"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0069",
+          "doi-asserted-by": "crossref",
+          "first-page": "37",
+          "DOI": "10.3390/jfmk6020037",
+          "article-title": "Efficacy of core stability in non-specific chronic low back pain",
+          "volume": "6",
+          "author": "Frizziero",
+          "year": "2021",
+          "journal-title": "J Funct Morphol Kinesiol"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "585",
+          "DOI": "10.3233/BMR-230252",
+          "article-title": "Prevention of non-specific back pain through exercise and education: A systematic review and meta-analysis",
+          "volume": "37",
+          "author": "Hernandez-Lucas",
+          "year": "2024",
+          "journal-title": "J Back Musculoskelet Rehabil"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0071",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/fpubh.2023.1155225",
+          "article-title": "Exercise intervention for patients with chronic low back pain: A systematic review and network meta-analysis",
+          "volume": "11",
+          "author": "Li",
+          "year": "2023",
+          "journal-title": "Front Public Health"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0072",
+          "doi-asserted-by": "crossref",
+          "first-page": "636",
+          "DOI": "10.1007/s10926-023-10124-4",
+          "article-title": "Systematic review to inform a World Health Organization (WHO) clinical practice guideline: Benefits and harms of structured exercise programs for chronic primary low back pain in adults",
+          "volume": "33",
+          "author": "Verville",
+          "year": "2023",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0073",
+          "doi-asserted-by": "crossref",
+          "first-page": "3245",
+          "DOI": "10.1007/s00586-023-07857-4",
+          "article-title": "Effectiveness of pharmacological and non-pharmacological therapy on pain intensity and disability in older people with chronic nonspecific low back pain: A systematic review with meta-analysis",
+          "volume": "32",
+          "author": "Soares Fonseca",
+          "year": "2023",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0074",
+          "doi-asserted-by": "crossref",
+          "first-page": "513",
+          "DOI": "10.1186/s13018-023-03988-y",
+          "article-title": "Effects of exercise therapy on disability, mobility, and quality of life in the elderly with chronic low back pain: A systematic review and meta-analysis of randomized controlled trials",
+          "volume": "18",
+          "author": "Zhang",
+          "year": "2023",
+          "journal-title": "J Orthop Surg Res"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0075",
+          "doi-asserted-by": "crossref",
+          "first-page": "41",
+          "DOI": "10.1136/bjsports-2020-103596",
+          "article-title": "Effectiveness of treatments for acute and subacute mechanical non-specific low back pain: A systematic review with network meta-analysis",
+          "volume": "56",
+          "author": "Gianola",
+          "year": "2022",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0076",
+          "doi-asserted-by": "crossref",
+          "first-page": "1279",
+          "DOI": "10.1136/bjsports-2019-100886",
+          "article-title": "Which specific modes of exercise training are most effective for treating low back pain? Network meta-analysis",
+          "volume": "54",
+          "author": "Owen",
+          "year": "2020",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0077",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/fnins.2022.1046518",
+          "article-title": "Optimal modes of mind-body exercise for treating chronic non-specific low back pain: Systematic review and network meta-analysis",
+          "volume": "16",
+          "author": "Shi",
+          "year": "2022",
+          "journal-title": "Front Neurosci"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0078",
+          "doi-asserted-by": "crossref",
+          "first-page": "505",
+          "DOI": "10.2519/jospt.2022.10671",
+          "article-title": "Best exercise options for reducing pain and disability in adults with chronic low back pain: Pilates, strength, core-based, and mind-body. A network meta-analysis",
+          "volume": "52",
+          "author": "Fernandez-Rodriguez",
+          "year": "2022",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0079",
+          "doi-asserted-by": "crossref",
+          "first-page": "766",
+          "DOI": "10.1136/bjsports-2018-100035",
+          "article-title": "Exercise alone and exercise combined with education both prevent episodes of low back pain and related absenteeism: Systematic review and network meta-analysis of randomised controlled trials (RCTs) aimed at preventing back pain",
+          "volume": "54",
+          "author": "Huang",
+          "year": "2020",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0080",
+          "doi-asserted-by": "crossref",
+          "first-page": "E350",
+          "DOI": "10.1097/BRS.0b013e31828435fb",
+          "article-title": "Motor control exercises reduces pain and disability in chronic and recurrent low back pain: A meta-analysis",
+          "volume": "38",
+          "author": "Bystrom",
+          "year": "2013",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0081",
+          "article-title": "Motor control exercise for chronic non-specific low-back pain",
+          "volume": "2016",
+          "author": "Saragiotto",
+          "year": "2016",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0082",
+          "doi-asserted-by": "crossref",
+          "first-page": "579",
+          "DOI": "10.1097/JSM.0000000000001175",
+          "article-title": "Effects of motor control exercises in patients with chronic nonspecific low back pain: A systematic review and meta-analysis",
+          "volume": "33",
+          "author": "Capel-Alcaraz",
+          "year": "2023",
+          "journal-title": "Clin J Sport Med"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0083",
+          "doi-asserted-by": "crossref",
+          "first-page": "70",
+          "DOI": "10.2519/jospt.2011.3393",
+          "article-title": "Effects of Pilates-based exercises on pain and disability in individuals with persistent nonspecific low back pain: A systematic review with meta-analysis",
+          "volume": "41",
+          "author": "Lim",
+          "year": "2011",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0084",
+          "doi-asserted-by": "crossref",
+          "first-page": "517",
+          "DOI": "10.1590/S1413-35552012005000127",
+          "article-title": "Efficacy of the Pilates method for pain and disability in patients with chronic nonspecific low back pain: A systematic review with meta-analysis",
+          "volume": "17",
+          "author": "Miyamoto",
+          "year": "2013",
+          "journal-title": "Braz J Phys Ther"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0085",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0100402",
+          "article-title": "The effectiveness of pilates exercise in people with chronic low back pain: A systematic review",
+          "volume": "9",
+          "author": "Wells",
+          "year": "2014",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0086",
+          "doi-asserted-by": "crossref",
+          "first-page": "85",
+          "DOI": "10.1016/j.ctcp.2010.09.005",
+          "article-title": "Pilates for low back pain: A systematic review",
+          "volume": "17",
+          "author": "Posadzki",
+          "year": "2011",
+          "journal-title": "Complement Ther Clin Pract"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0087",
+          "doi-asserted-by": "crossref",
+          "first-page": "e383",
+          "DOI": "10.1097/MD.0000000000000383",
+          "article-title": "Effects of pilates exercise programs in people with chronic low back pain: A systematic review",
+          "volume": "94",
+          "author": "Patti",
+          "year": "2015",
+          "journal-title": "Medicine (Baltimore)"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0088",
+          "doi-asserted-by": "crossref",
+          "first-page": "3535",
+          "DOI": "10.1080/09638288.2023.2251404",
+          "article-title": "Effectiveness of pilates exercise on low back pain: A systematic review with meta-analysis",
+          "volume": "46",
+          "author": "Patti",
+          "year": "2024",
+          "journal-title": "Disabil Rehabil"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0089",
+          "doi-asserted-by": "crossref",
+          "first-page": "2850",
+          "DOI": "10.3390/ijerph20042850",
+          "article-title": "Efficacy of pilates on pain, functional disorders and quality of life in patients with chronic low back pain: A systematic review and meta-analysis",
+          "volume": "20",
+          "author": "Yu",
+          "year": "2023",
+          "journal-title": "Int J Environ Res Public Health"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0090",
+          "article-title": "Yoga treatment for chronic non-specific low back pain",
+          "volume": "1",
+          "author": "Wieland",
+          "year": "2017",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0091",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0238544",
+          "article-title": "Yoga compared to non-exercise or physical therapy exercise on pain, disability, and quality of life for patients with chronic low back pain: A systematic review and meta-analysis of randomized controlled trials",
+          "volume": "15",
+          "author": "Zhu",
+          "year": "2020",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0092",
+          "doi-asserted-by": "crossref",
+          "first-page": "418",
+          "DOI": "10.1177/1559827613483440",
+          "article-title": "The efficacy of yoga as an intervention for chronic low back pain: A systematic review of randomized controlled trials",
+          "volume": "7",
+          "author": "Diaz",
+          "year": "2013",
+          "journal-title": "Am J Lifestyle Med"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0093",
+          "first-page": "1",
+          "article-title": "Yoga as a treatment for chronic low back pain: A systematic review of the literature",
+          "volume": "3",
+          "author": "Chang",
+          "year": "2016",
+          "journal-title": "J Orthop Rheumatol"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0094",
+          "doi-asserted-by": "crossref",
+          "first-page": "1257",
+          "DOI": "10.1007/s10067-011-1764-8",
+          "article-title": "Yoga for low back pain: A systematic review of randomized clinical trials",
+          "volume": "30",
+          "author": "Posadzki",
+          "year": "2011",
+          "journal-title": "Clin Rheumatol"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0095",
+          "doi-asserted-by": "crossref",
+          "first-page": "1822",
+          "DOI": "10.1519/JSC.0000000000004135",
+          "article-title": "Sling exercise in the management of chronic low back pain: A systematic review and meta-analysis",
+          "volume": "38",
+          "author": "Drummond",
+          "year": "2024",
+          "journal-title": "J Strength Cond Res"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0096",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0099307",
+          "article-title": "Sling exercise for chronic low back pain: A systematic review and meta-analysis",
+          "volume": "9",
+          "author": "Yue",
+          "year": "2014",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0097",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1097/MD.0000000000017099",
+          "article-title": "Effect of Tai Chi alone or as additional therapy on low back pain: Systematic review and meta-analysis of randomized controlled trials",
+          "volume": "98",
+          "author": "Qin",
+          "year": "2019",
+          "journal-title": "Medicine (Baltimore)"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0098",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ctcp.2021.101505",
+          "article-title": "Proprioceptive neuromuscular facilitation training reduces pain and disability in individuals with chronic low back pain: A systematic review and meta-analysis",
+          "volume": "46",
+          "author": "Arcanjo",
+          "year": "2022",
+          "journal-title": "Complement Ther Clin Pract"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0099",
+          "doi-asserted-by": "crossref",
+          "first-page": "64",
+          "DOI": "10.2519/jospt.2023.11091",
+          "article-title": "Effect of trunk-focused exercises on pain, disability, quality of life, and trunk physical fitness in low back pain and how potential effect modifiers modulate their effects: A systematic review with meta-analyses",
+          "volume": "53",
+          "author": "Prat-Luri",
+          "year": "2023",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0100",
+          "article-title": "Exercise therapy for chronic low back pain",
+          "volume": "9",
+          "author": "Hayden",
+          "year": "2021",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0101",
+          "first-page": "48",
+          "article-title": "Yoga as an alternative and complementary treatment for patients with low back pain: A systematic review",
+          "volume": "18",
+          "author": "Sharma",
+          "year": "2013",
+          "journal-title": "J Evid Based Integr Med"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0102",
+          "doi-asserted-by": "crossref",
+          "first-page": "16",
+          "DOI": "10.20463/pan.2023.0003",
+          "article-title": "Effect of pilates training on pain and disability in patients with chronic low back pain: A systematic review and meta-analysis based on randomized controlled trials",
+          "volume": "27",
+          "author": "Huang",
+          "year": "2023",
+          "journal-title": "Phys Act Nutr"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0103",
+          "doi-asserted-by": "crossref",
+          "first-page": "970",
+          "DOI": "10.1186/s12913-020-05827-w",
+          "article-title": "Are clinical practice guidelines for low back pain interventions of high quality and updated? A systematic review using the AGREE II instrument",
+          "volume": "20",
+          "author": "Castellini",
+          "year": "2020",
+          "journal-title": "BMC Health Serv Res"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0104",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.1016/j.jclinepi.2019.09.025",
+          "article-title": "Overviews of reviews incompletely report methods for handling overlapping, discordant, and problematic data",
+          "volume": "118",
+          "author": "Lunny",
+          "year": "2020",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.jshs.2025.101038_bib0105",
+          "doi-asserted-by": "crossref",
+          "first-page": "108",
+          "DOI": "10.1186/1741-7015-9-108",
+          "article-title": "Barriers and progress in the treatment of low back pain",
+          "volume": "9",
+          "author": "Foster",
+          "year": "2011",
+          "journal-title": "BMC Med"
+        }
+      ],
+      "container-title": [
+        "Journal of Sport and Health Science"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S209525462500016X?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S209525462500016X?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2025-09-08T21:41:03Z",
+        "timestamp": 1757367663000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S209525462500016X"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            12
+          ]
+        ]
+      },
+      "references-count": 105,
+      "alternative-id": [
+        "S209525462500016X"
+      ],
+      "URL": "https://doi.org/10.1016/j.jshs.2025.101038",
+      "relation": {},
+      "ISSN": [
+        "2095-2546"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2095-2546"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            12
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Benefits and harms of exercise therapy and physical activity for low back pain: An umbrella review",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Journal of Sport and Health Science",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jshs.2025.101038",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2025 Published by Elsevier B.V. on behalf of Shanghai University of Sport.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "101038"
+    },
+    "pubmed_summary": {
+      "uid": "40180212",
+      "pubdate": "2025 Apr 2",
+      "epubdate": "2025 Apr 2",
+      "source": "J Sport Health Sci",
+      "authors": [
+        {
+          "name": "Comachio J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Beckenkamp PR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ho EK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shaheed CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stamatakis E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferreira ML",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lan Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mork PJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holtermann A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang DXM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferreira PH",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ferreira PH",
+      "title": "Benefits and harms of exercise therapy and physical activity for low back pain: An umbrella review.",
+      "sorttitle": "benefits and harms of exercise therapy and physical activity for low back pain an umbrella review",
+      "volume": "14",
+      "issue": "",
+      "pages": "101038",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101606001",
+      "issn": "2095-2546",
+      "essn": "2213-2961",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40180212"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC12191304"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC12191304;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.jshs.2025.101038"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2095-2546(25)00016-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/03/30 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/06/13 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/06/28 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/04/04 00:25"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2025/04/04 00:25"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/04/03 19:32"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2025/04/02 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 105,
+      "fulljournalname": "Journal of sport and health science",
+      "elocationid": "doi: 10.1016/j.jshs.2025.101038",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/04/02 00:00",
+      "sortfirstauthor": "Comachio J",
+      "vernaculartitle": ""
+    }
+  }
+}

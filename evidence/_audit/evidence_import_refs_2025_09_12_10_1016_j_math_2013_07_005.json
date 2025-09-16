@@ -1,0 +1,705 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_math_2013_07_005.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_math_2013_07_005",
+  "doi": "10.1016/j.math.2013.07.005",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:55.668057Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            31
+          ]
+        ],
+        "date-time": "2025-08-31T23:16:41Z",
+        "timestamp": 1756682201083
+      },
+      "reference-count": 44,
+      "publisher": "Elsevier BV",
+      "issue": "6",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2013,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2013-12-01T00:00:00Z",
+            "timestamp": 1385856000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "manualtherapyjournal.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Manual Therapy"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.math.2013.07.005",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2013,
+            8,
+            6
+          ]
+        ],
+        "date-time": "2013-08-06T20:00:24Z",
+        "timestamp": 1375819224000
+      },
+      "page": "468-472",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 75,
+      "title": [
+        "The central nervous system – An additional consideration in ‘rotator cuff tendinopathy’ and a potential basis for understanding response to loaded therapeutic exercise"
+      ],
+      "prefix": "10.1016",
+      "volume": "18",
+      "author": [
+        {
+          "given": "Chris",
+          "family": "Littlewood",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Peter",
+          "family": "Malliaras",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Marcus",
+          "family": "Bateman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Richmond",
+          "family": "Stace",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stephen",
+          "family": "May",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stephen",
+          "family": "Walters",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "3",
+          "key": "10.1016/j.math.2013.07.005_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "235",
+          "DOI": "10.1186/ar2723",
+          "article-title": "Pathogenesis of tendinopathies: inflammation or degeneration?",
+          "volume": "11",
+          "author": "Abate",
+          "year": "2009",
+          "journal-title": "Arthritis Res Ther"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.math.2013.07.005_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.1177/0269215510376005",
+          "article-title": "Evaluation of an exercise concept focusing on eccentric strength training of the rotator cuff for patients with subacromial impingement syndrome",
+          "volume": "25",
+          "author": "Bernhardsson",
+          "year": "2010",
+          "journal-title": "Clin Rehabil"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.math.2013.07.005_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "E8",
+          "DOI": "10.1136/oem.60.9.e8",
+          "article-title": "Prognosis of shoulder tendonitis in repetitive work: a follow up study in a cohort of Danish industrial and service workers",
+          "volume": "60",
+          "author": "Bonde",
+          "year": "2003",
+          "journal-title": "Occup Environ Med"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib4",
+          "series-title": "Explain pain",
+          "author": "Butler",
+          "year": "2003"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "766",
+          "DOI": "10.1002/art.1780340619",
+          "article-title": "Shoulder disorders in the elderly: a community survey",
+          "volume": "34",
+          "author": "Chard",
+          "year": "1991",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "409",
+          "DOI": "10.1136/bjsm.2008.051193",
+          "article-title": "Is tendon pathology a continuum? A pathology model to explain the clinical presentation of load-induced tendinopathy",
+          "volume": "43",
+          "author": "Cook",
+          "year": "2009",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "265",
+          "DOI": "10.1136/bjsm.2008.054593",
+          "article-title": "Reviving the 'biochemical' hypothesis for tendinopathy: new findings suggest the involvement of locally produced signal substances",
+          "volume": "43",
+          "author": "Danielson",
+          "year": "2009",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib8",
+          "article-title": "Do structural changes (eg, collagen/matrix) explain the response to therapeutic exercises in tendinopathy? A systematic review",
+          "author": "Drew",
+          "year": "2012",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "239",
+          "DOI": "10.1186/1471-2474-11-239",
+          "article-title": "Clinical, socio-demographic and radiological predictors of short-term outcome in rotator cuff disease",
+          "volume": "11",
+          "author": "Ekeberg",
+          "year": "2010",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "565",
+          "DOI": "10.1016/S1058-2746(99)90090-3",
+          "article-title": "Is supraspinatus pathology as defined by magnetic resonance imaging associated with clinical signs of shoulder impingement?",
+          "volume": "8",
+          "author": "Frost",
+          "year": "1999",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.math.2013.07.005_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "219",
+          "DOI": "10.2106/00004623-200402000-00002",
+          "article-title": "The outcome and repair integrity of completely arthroscopically repaired large and massive rotator cuff tears",
+          "volume": "86",
+          "author": "Galatz",
+          "year": "2004",
+          "journal-title": "J Bone Joint Surg"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib12",
+          "series-title": "Topical issues in pain 1",
+          "first-page": "67",
+          "article-title": "The 'central' mechanisms",
+          "author": "Gifford",
+          "year": "1998"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.math.2013.07.005_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "27",
+          "DOI": "10.1016/S0031-9406(05)65900-7",
+          "article-title": "Pain, the tissues and the nervous system: a conceptual model",
+          "volume": "84",
+          "author": "Gifford",
+          "year": "1998",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib14",
+          "series-title": "Topical issues in pain 1",
+          "first-page": "57",
+          "article-title": "Tissue and input related mechanisms",
+          "author": "Gifford",
+          "year": "1998"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.math.2013.07.005_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "498",
+          "DOI": "10.1302/0301-620X.93B4.25054",
+          "article-title": "Evidence that central sensitisation is present in patients with shoulder impingement syndrome and influences the outcome after surgery",
+          "volume": "93",
+          "author": "Gwilym",
+          "year": "2011",
+          "journal-title": "J Bone Joint Surg"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "e787",
+          "DOI": "10.1136/bmj.e787",
+          "article-title": "Effect of specific exercise strategy on need for surgery in patients with subacromial impingement syndrome: randomised controlled study",
+          "volume": "344",
+          "author": "Holmgren",
+          "year": "2012",
+          "journal-title": "Br Med J"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.math.2013.07.005_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "2",
+          "DOI": "10.1054/math.2001.0426",
+          "article-title": "Conceptual models for implementing biopsychosocial theory in clinical practice",
+          "volume": "7",
+          "author": "Jones",
+          "year": "2002",
+          "journal-title": "Man Ther"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.math.2013.07.005_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "76",
+          "DOI": "10.1007/s00167-004-0611-8",
+          "article-title": "Eccentric training in chronic painful impingement syndrome of the shoulder: results of a pilot study",
+          "volume": "14",
+          "author": "Jonsson",
+          "year": "2005",
+          "journal-title": "Knee Surg Sports Traumatol Arthrosc"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.1136/bjsm.34.2.81",
+          "article-title": "Where is the pain coming from in tendinopathy? It may be biochemical, not only structural, in origin",
+          "volume": "34",
+          "author": "Khan",
+          "year": "2000",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.math.2013.07.005_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "247",
+          "DOI": "10.1136/bjsm.2008.054239",
+          "article-title": "Mechanotherapy: how physical therapists' prescription of exercise promotes tissue repair",
+          "volume": "43",
+          "author": "Khan",
+          "year": "2011",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "500",
+          "DOI": "10.1111/j.1600-0838.2009.00986.x",
+          "article-title": "From mechanical loading to collagen synthesis, structural changes and function in human tendon",
+          "volume": "19",
+          "author": "Kjaer",
+          "year": "2009",
+          "journal-title": "Scand J Med Sci Sports"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "236",
+          "DOI": "10.1136/bjsm.2008.052175",
+          "article-title": "Rotator cuff tendinopathy",
+          "volume": "43",
+          "author": "Lewis",
+          "year": "2009",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "918",
+          "DOI": "10.1136/bjsm.2008.054817",
+          "article-title": "Rotator cuff tendinopathy: a model for the continuum of pathology and related management",
+          "volume": "44",
+          "author": "Lewis",
+          "year": "2010",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.math.2013.07.005_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "388",
+          "DOI": "10.1179/1743288X11Y.0000000027",
+          "article-title": "Subacromial impingement syndrome: a musculoskeletal condition or a clinical illusion?",
+          "volume": "16",
+          "author": "Lewis",
+          "year": "2011",
+          "journal-title": "Phys Ther Rev"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "101",
+          "DOI": "10.1016/j.physio.2011.08.002",
+          "article-title": "Exercise for rotator cuff tendinopathy: a systematic review",
+          "volume": "98",
+          "author": "Littlewood",
+          "year": "2012",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "64",
+          "DOI": "10.1111/j.1758-5740.2011.00164.x",
+          "article-title": "Rotator cuff disorders: survey of current UK physiotherapy practice",
+          "volume": "4",
+          "author": "Littlewood",
+          "year": "2012",
+          "journal-title": "Shoulder Elbow"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib27",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.physio.2012.12.002",
+          "article-title": "Development of a self-managed loaded exercise programme for rotator cuff tendinopathy",
+          "author": "Littlewood",
+          "year": "2013",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.math.2013.07.005_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1111/j.1600-0838.2010.01164.x",
+          "article-title": "What are the validated models for tendinopathy?",
+          "volume": "21",
+          "author": "Liu",
+          "year": "2011",
+          "journal-title": "Scand J Med Sci Sports"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "1444",
+          "DOI": "10.1093/rheumatology/ken337",
+          "article-title": "How do eccentric exercises work in tendinopathy?",
+          "volume": "47",
+          "author": "Maffulli",
+          "year": "2008",
+          "journal-title": "Rheumatology"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.math.2013.07.005_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "388",
+          "DOI": "10.1097/01.jsm.0000244603.75869.af",
+          "article-title": "Patellar tendons with normal imaging and pain: change in imaging and pain status over a volleyball season",
+          "volume": "16",
+          "author": "Malliaras",
+          "year": "2006",
+          "journal-title": "Clin J Sports Med"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.math.2013.07.005_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "179",
+          "DOI": "10.1016/j.physio.2009.12.002",
+          "article-title": "Reliability of physical examination tests used in the assessment of patients with shoulder problems: a systematic review",
+          "volume": "96",
+          "author": "May",
+          "year": "2010",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib32",
+          "series-title": "The human extremities: mechanical diagnosis & therapy",
+          "author": "McKenzie",
+          "year": "2000"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib33",
+          "series-title": "The challenge of pain",
+          "author": "Melzack",
+          "year": "2008"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "169",
+          "DOI": "10.1179/108331907X223010",
+          "article-title": "Reconceptualising pain according to modern pain science",
+          "volume": "12",
+          "author": "Moseley",
+          "year": "2007",
+          "journal-title": "Phys Ther Rev"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "383",
+          "DOI": "10.1093/ptj/82.4.383",
+          "article-title": "Tissue adaptation to physical stress: a proposed 'physical stress theory' to guide physical therapy practice, education and research",
+          "volume": "82",
+          "author": "Mueller",
+          "year": "2002",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.math.2013.07.005_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "508",
+          "DOI": "10.1093/rheumatology/kel046",
+          "article-title": "Current concepts in the management of tendon disorders",
+          "volume": "45",
+          "author": "Rees",
+          "year": "2006",
+          "journal-title": "Rheumatology"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib37",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bjsports-2013-092459.9",
+          "article-title": "Tendons – time to revisit inflammation",
+          "author": "Rees",
+          "year": "2013",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.math.2013.07.005_bib38",
+          "first-page": "174",
+          "article-title": "Adaptation of the tendon to mechanical usage",
+          "volume": "6",
+          "author": "Reeves",
+          "year": "2006",
+          "journal-title": "J Musculoskelet Neuronal Interact"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "296",
+          "DOI": "10.1016/S1058-2746(99)90148-9",
+          "article-title": "Age-related prevalence of rotator cuff tears in asymptomatic shoulders",
+          "volume": "8",
+          "author": "Templehof",
+          "year": "1999",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "issue": "410",
+          "key": "10.1016/j.math.2013.07.005_bib40",
+          "first-page": "519",
+          "article-title": "Shoulder disorders in general practice: prognostic indicators of outcome",
+          "volume": "46",
+          "author": "Van der Windt",
+          "year": "1996",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "key": "10.1016/j.math.2013.07.005_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1016/j.math.2010.06.008",
+          "article-title": "Cortical changes in chronic low back pain: current state of the art and implications for clinical practice",
+          "volume": "16",
+          "author": "Wand",
+          "year": "2011",
+          "journal-title": "Man Ther"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.math.2013.07.005_bib42",
+          "first-page": "220",
+          "article-title": "The perception of pain in others: how gender, race, and age influence pain expectations",
+          "volume": "13",
+          "author": "Wandner",
+          "year": "2012",
+          "journal-title": "J Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.math.2013.07.005_bib43",
+          "first-page": "23",
+          "article-title": "Correlation of age, acromial morphology, and rotator cuff tear pathology diagnosed by ultrasound in asymptomatic patients",
+          "volume": "12",
+          "author": "Worland",
+          "year": "2003",
+          "journal-title": "J South Orthop Assoc"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.math.2013.07.005_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "116",
+          "DOI": "10.1016/j.jse.2009.04.006",
+          "article-title": "Prevalence and risk factors of a rotator cuff tear in the general population",
+          "volume": "19",
+          "author": "Yamamoto",
+          "year": "2010",
+          "journal-title": "J Shoulder Elbow Surg"
+        }
+      ],
+      "container-title": [
+        "Manual Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1356689X13001239?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1356689X13001239?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2020-08-01T14:24:42Z",
+        "timestamp": 1596291882000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1356689X13001239"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            12
+          ]
+        ]
+      },
+      "references-count": 44,
+      "journal-issue": {
+        "issue": "6",
+        "published-print": {
+          "date-parts": [
+            [
+              2013,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1356689X13001239"
+      ],
+      "URL": "https://doi.org/10.1016/j.math.2013.07.005",
+      "relation": {},
+      "ISSN": [
+        "1356-689X"
+      ],
+      "issn-type": [
+        {
+          "value": "1356-689X",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            12
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "The central nervous system – An additional consideration in ‘rotator cuff tendinopathy’ and a potential basis for understanding response to loaded therapeutic exercise",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Manual Therapy",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.math.2013.07.005",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "Copyright © 2013 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

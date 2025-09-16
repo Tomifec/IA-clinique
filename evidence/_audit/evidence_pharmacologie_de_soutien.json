@@ -1,0 +1,1435 @@
+{
+  "file": "evidence\\pharmacologie_de_soutien.md",
+  "id": "evidence_pharmacologie_de_soutien",
+  "doi": "10.1186/s12998-022-00435-3",
+  "pmid": "35562756",
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:09:19.339405Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            27
+          ]
+        ],
+        "date-time": "2025-08-27T15:42:46Z",
+        "timestamp": 1756309366153,
+        "version": "3.37.3"
+      },
+      "reference-count": 104,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                5,
+                13
+              ]
+            ],
+            "date-time": "2022-05-13T00:00:00Z",
+            "timestamp": 1652400000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                5,
+                13
+              ]
+            ],
+            "date-time": "2022-05-13T00:00:00Z",
+            "timestamp": 1652400000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Chiropr Man Therap"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Objective</jats:title><jats:p>To identify and descriptively compare medication recommendations among low back pain (LBP) clinical practice guidelines (CPG).</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>We searched PubMed, Cochrane Database of Systematic Review, Index to Chiropractic Literature, AMED, CINAHL, and PEDro to identify CPGs that described the management of mechanical LBP in the prior five years. Two investigators independently screened titles and abstracts and potentially relevant full text were considered for eligibility. Four investigators independently applied the Appraisal of Guidelines for Research and Evaluation (AGREE) II instrument for critical appraisal. Data were extracted for pharmaceutical intervention, the strength of recommendation, and appropriateness for the duration of LBP.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>316 citations were identified, 50 full-text articles were assessed, and nine guidelines with global representation met the eligibility criteria. These CPGs addressed pharmacological treatments with or without non-pharmacological treatments. All CPGS focused on the management of acute, chronic, or unspecified duration of LBP. The mean overall AGREE II score was 89.3% (SD 3.5%). The lowest domain mean score was for<jats:italic>applicability,</jats:italic>80.4% (SD 5.2%), and the highest was<jats:italic>Scope and Purpose,</jats:italic>94.0% (SD 2.4%). There were ten classifications of medications described in the included CPGs: acetaminophen, antibiotics, anticonvulsants, antidepressants, benzodiazepines, non-steroidal anti-inflammatory drugs (NSAIDs), opioids, oral corticosteroids, skeletal muscle relaxants (SMRs), and atypical opioids.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>Nine CPGs, included ten medication classes for the management of LBP. NSAIDs were the most frequently recommended medication for the treatment of both acute and chronic LBP as a first line pharmacological therapy. Acetaminophen and SMRs were inconsistently recommended for acute LBP. Meanwhile, with less consensus among CPGs, acetaminophen and antidepressants were proposed as second-choice therapies for chronic LBP. There was significant heterogeneity of recommendations within many medication classes, although oral corticosteroids, benzodiazepines, anticonvulsants, and antibiotics were not recommended by any CPGs for acute or chronic LBP.</jats:p></jats:sec>",
+      "DOI": "10.1186/s12998-022-00435-3",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            13
+          ]
+        ],
+        "date-time": "2022-05-13T10:04:30Z",
+        "timestamp": 1652436270000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 28,
+      "title": [
+        "Systematic review of guideline-recommended medications prescribed for treatment of low back pain"
+      ],
+      "prefix": "10.1186",
+      "volume": "30",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4471-6436",
+          "authenticated-orcid": false,
+          "given": "Morgan R.",
+          "family": "Price",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Zachary A.",
+          "family": "Cupler",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Cheryl",
+          "family": "Hawk",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Edward M.",
+          "family": "Bednarz",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sheryl A.",
+          "family": "Walters",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Clinton J.",
+          "family": "Daniels",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            13
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "435_CR1",
+          "doi-asserted-by": "publisher",
+          "unstructured": "GBD 2015 Disease and Injury Incidence and Prevalence Collaborators. Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990-2015: a systematic analysis for the Global Burden of Disease Study 2015 (published correction appears in Lancet. 2017 Jan 7;389(10064):e1). Lancet 2016;388:1545–1602. https://doi.org/10.1016/S0140-6736(16)31678-6.",
+          "DOI": "10.1016/S0140-6736(16)31678-6"
+        },
+        {
+          "key": "435_CR2",
+          "unstructured": "Centers for Disease Control and Prevention. Therapeutic Drug Use. 2021. https://www.cdc.gov/nchs/fastats/drug-use-therapeutic.htm. Accessed November 9, 2021."
+        },
+        {
+          "key": "435_CR3",
+          "unstructured": "NHS Digital. Health survey for England 2016: Prescribed Medicines. 2017. http://healthsurvey.hscic.gov.uk/media/63790/HSE2016-pres-med.pdf. Accessed November 9, 2021."
+        },
+        {
+          "key": "435_CR4",
+          "unstructured": "Quintiles IMS Institute. Outlook for global medicines through 2021: Balancing cost and value. 2016. https://www.iqvia.com/-/media/iqvia/pdfs/institute-reports/global-outlook-for-medicines-through-2021.pdf. Accessed November 9, 2021."
+        },
+        {
+          "key": "435_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "430",
+          "DOI": "10.1016/j.arr.2011.03.003",
+          "volume": "10",
+          "author": "A Marengoni",
+          "year": "2011",
+          "unstructured": "Marengoni A, Angleman SRM. Aging with multimorbidity: a systematic review of the literature. Ageing Res Rev. 2011;10:430–9.",
+          "journal-title": "Ageing Res Rev"
+        },
+        {
+          "key": "435_CR6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Goertz CM, Long CR, Englign C, Meeker WC, Marchiori. Patient-reported physician treatment recommendations and compliance among U.S. adults with low back pain. J Altern Complement Med 2021;27:S99–105.",
+          "DOI": "10.1089/acm.2020.0392"
+        },
+        {
+          "key": "435_CR7",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Roseen EJ, Conyers FG, Atlas SJ, Mehta DH. Initial management of acute and chronic low back pain: responses from brief interviews of primary care providers. J Altern Complement Med 2021;27.",
+          "DOI": "10.1089/acm.2020.0391"
+        },
+        {
+          "key": "435_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "e2037371",
+          "DOI": "10.1001/jamanetworkopen.2020.37371",
+          "volume": "4",
+          "author": "JM Stevans",
+          "year": "2021",
+          "unstructured": "Stevans JM, Delitto A, Khoja SS, Patterns CG, et al. Risk factors associated with transition from acute to chronic low back pain in US patients seeking primary care. JAMA Netw Open. 2021;4:e2037371.",
+          "journal-title": "JAMA Netw Open"
+        },
+        {
+          "key": "435_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "e180105",
+          "DOI": "10.1001/jamanetworkopen.2018.0205",
+          "volume": "1",
+          "author": "CM Goertz",
+          "year": "2018",
+          "unstructured": "Goertz CM, Long CR, Vining RD, et al. Effect of usual medical care plus chiropractic care vs usual medical care alone on pain and disability among US service members with low back pain. JAMA Netw Open. 2018;1:e180105. https://doi.org/10.1001/jamanetworkopen.2018.0205.",
+          "journal-title": "JAMA Netw Open"
+        },
+        {
+          "key": "435_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "792",
+          "DOI": "10.1089/acm.2018.0218",
+          "volume": "24",
+          "author": "AJ Lisi",
+          "year": "2018",
+          "unstructured": "Lisi AJ, Salsbury SA, Twist EJ, Geortz CM. Chiropractic integration into private sector medical facilities: a multisite qualitative study. J Altern Complement Med. 2018;24:792–800.",
+          "journal-title": "J Altern Complement Med"
+        },
+        {
+          "issue": "Suppl 2",
+          "key": "435_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "S88",
+          "DOI": "10.1097/MLR.0000000000001332",
+          "volume": "58",
+          "author": "KF Giannitrapani",
+          "year": "2020",
+          "unstructured": "Giannitrapani KF, Ackland PE, Holiday J, et al. Provider perspectives of battlefield acupuncture: advantages, disadvantages and its potential role in reducing opioid use for pain. Med Care. 2020;58(Suppl 2):S88–93.",
+          "journal-title": "Med Care"
+        },
+        {
+          "key": "435_CR12",
+          "first-page": "e139",
+          "volume": "21",
+          "author": "KL Corcoran",
+          "year": "2020",
+          "unstructured": "Corcoran KL, Bastian LA, Gunderson GC, et al. Association between chiropractic use and opioid receipt among patients with spinal pain: a systematic review and meta-analysis. Pain Med. 2020;21:e139-145.",
+          "journal-title": "Pain Med"
+        },
+        {
+          "key": "435_CR13",
+          "first-page": "34",
+          "volume": "22",
+          "author": "PC Emary",
+          "year": "2014",
+          "unstructured": "Emary PC, Stuber K. Chiropractors’ attitudes toward drug prescription rights: a narrative review. Chiropr Man Ther. 2014;22:34.",
+          "journal-title": "Chiropr Man Ther"
+        },
+        {
+          "key": "435_CR14",
+          "first-page": "53",
+          "volume": "21",
+          "author": "JR Jamison",
+          "year": "1991",
+          "unstructured": "Jamison JR. Chiropracic in the Australian health care system: the chiropractors’ comment on drug therapy. Chiropr J Aust. 1991;21:53–5.",
+          "journal-title": "Chiropr J Aust"
+        },
+        {
+          "key": "435_CR15",
+          "first-page": "137",
+          "volume": "13",
+          "author": "BH Jacobson",
+          "year": "1999",
+          "unstructured": "Jacobson BH, Gemmell HA. A survey of chiropractors in Oklahoma. J Chiropr Educ. 1999;13:137–42.",
+          "journal-title": "J Chiropr Educ"
+        },
+        {
+          "key": "435_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "372",
+          "DOI": "10.1136/bmj.n71",
+          "volume": "2021",
+          "author": "MJ Page",
+          "year": "2020",
+          "unstructured": "Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, The PRISMA, et al. statement: an updated guideline for reporting systematic reviews. BMJ. 2020;2021:372. https://doi.org/10.1136/bmj.n71.",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "435_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "1461",
+          "DOI": "10.1001/jama.286.12.1461",
+          "volume": "286",
+          "author": "PG Shekelle",
+          "year": "2001",
+          "unstructured": "Shekelle PG, Ortiz E, Rhodes S, Morton SC, Eccles MP, Grimshaw JM, Woolf SH. Validity of the Agency for Healthcare Research and Quality clinical practice guidelines: how quickly do guidelines become outdated? JAMA. 2001;286:1461–71. https://doi.org/10.1001/jama.286.12.1461.",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "435_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "155",
+          "DOI": "10.1136/bmj.323.7305.155",
+          "volume": "323",
+          "author": "P Shekelle",
+          "year": "2001",
+          "unstructured": "Shekelle P, Eccles MP, Grimshaw JM, Woolf SH. When should clinical guidelines be updated? BMJ. 2001;323:155–7. https://doi.org/10.1136/bmj.323.7305.155.",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "435_CR19",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Vernooij RW, Sanabria AJ, Sola I, et al. Guidance for updating clinical practice guidelines: a systematic review of methodological handbooks. Implement Sci 2014;9.",
+          "DOI": "10.1186/1748-5908-9-3"
+        },
+        {
+          "key": "435_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "e839",
+          "DOI": "10.1503/cmaj.090449",
+          "volume": "182",
+          "author": "MC Brouwers",
+          "year": "2010",
+          "unstructured": "Brouwers MC, Kho ME, Browman GP, et al. AGREE II: Advancing guideline development, reporting and evaluation in healthcare. Can Med Assoc J. 2010;182:e839-842. https://doi.org/10.1503/cmaj.090449.",
+          "journal-title": "Can Med Assoc J"
+        },
+        {
+          "key": "435_CR21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/MD.0000000000016877",
+          "volume": "98",
+          "author": "AJ Perez-Panero",
+          "year": "2019",
+          "unstructured": "Perez-Panero AJ, Ruiz-Munoz M, Cuesta-Vargas AI, Gonzalez-Sanchez M. Prevention, assessment, diagnosis and management of diabetic foot based on clinical practice guidelines: a systematic review. Medicine (Baltimore). 2019;98: e16877. https://doi.org/10.1097/MD.0000000000016877.",
+          "journal-title": "Medicine (Baltimore)"
+        },
+        {
+          "key": "435_CR22",
+          "unstructured": "AGREE Enterprise. AGREE: advancing the science of practice guidelines: Canadian Institutes of Health Research, 2014. n.d."
+        },
+        {
+          "key": "435_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "337",
+          "DOI": "10.1136/bjsports-2017-098375",
+          "volume": "52",
+          "author": "I Lin",
+          "year": "2018",
+          "unstructured": "Lin I, Wiles L, Goucke R, Nagree Y, et al. Poor overall quality of clinical practice guidelines for musculoskeletal pain: a systematic review. Br J Sports Med. 2018;52:337–43. https://doi.org/10.1136/bjsports-2017-098375.",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "435_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "51",
+          "DOI": "10.1186/1471-2393-14-51",
+          "volume": "14",
+          "author": "C Haran",
+          "year": "2014",
+          "unstructured": "Haran C, van Driel M, Mitchell BL, et al. Clinical guidelines for postpartum women and infants in primary care-a systematic review. BMC Pregnancy Childbirth. 2014;14:51.",
+          "journal-title": "BMC Pregnancy Childbirth"
+        },
+        {
+          "key": "435_CR25",
+          "first-page": "655",
+          "volume": "14",
+          "author": "KJ Pak",
+          "year": "2014",
+          "unstructured": "Pak KJ, Hu T, Fee C, et al. Acute hypertension: a systematic review and appraisal of guidelines. Ochsner J. 2014;14:655–63.",
+          "journal-title": "Ochsner J"
+        },
+        {
+          "key": "435_CR26",
+          "unstructured": "Walls RM, Hockberger RS, Gausche-Hill M, Miner J, Burton J. Chapter 3: Pain Management. Rosen’s Emergency MEDICINE: concepts and clinical practice, 2nd edn, Philadelphia: Elsevier; 2018, p. 34–51."
+        },
+        {
+          "key": "435_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "109",
+          "DOI": "10.5055/jom.2021.0648",
+          "volume": "17",
+          "author": "L Webster",
+          "year": "2021",
+          "unstructured": "Webster L, Rauck RL. Atypical opioids and their effect on respiratory drive. J Opioid Manag. 2021;17:109–18. https://doi.org/10.5055/jom.2021.0648.",
+          "journal-title": "J Opioid Manag"
+        },
+        {
+          "key": "435_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "481",
+          "DOI": "10.1007/s40263-019-00623-5",
+          "volume": "33",
+          "author": "A Barakat",
+          "year": "2019",
+          "unstructured": "Barakat A. Revisiting tramadol: a multi-modal agent for pain management. CNS Drugs. 2019;33:481–501. https://doi.org/10.1007/s40263-019-00623-5.",
+          "journal-title": "CNS Drugs"
+        },
+        {
+          "key": "435_CR29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40122-020-00209-w",
+          "author": "J Peck",
+          "year": "2020",
+          "unstructured": "Peck J, Urits I, Peoples S, Foster L, et al. A comprehensive review of over the counter treatment for chronic low back pain. Pain Ther. 2020. https://doi.org/10.1007/s40122-020-00209-w.",
+          "journal-title": "Pain Ther"
+        },
+        {
+          "key": "435_CR30",
+          "first-page": "140",
+          "volume": "116",
+          "author": "AM LaPietra",
+          "year": "2019",
+          "unstructured": "LaPietra AM, Motov S. A country in crisis: opioid sparing solutions for acute pain management. Mo Med. 2019;116:140–5.",
+          "journal-title": "Mo Med"
+        },
+        {
+          "key": "435_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "455",
+          "DOI": "10.1016/j.spinee.2020.10.022",
+          "volume": "21",
+          "author": "DB Anderson",
+          "year": "2021",
+          "unstructured": "Anderson DB, DeLuca K, Jensen RK, Eyles JP, et al. A critical appraisal of clinical practice guidelines for the treatment of lumbar spinal stenosis. Spine J. 2021;21:455–64. https://doi.org/10.1016/j.spinee.2020.10.022.",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "435_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "1537",
+          "DOI": "10.1016/j.spinee.2017.05.030",
+          "volume": "17",
+          "author": "ML Stevens",
+          "year": "2017",
+          "unstructured": "Stevens ML, Lin CC, de Carvalho FA, Phan K, et al. Advice for acute low back pain: a comparison of what research supports and what guidelines recommend. Spine J. 2017;17:1537–46. https://doi.org/10.1016/j.spinee.2017.05.030.",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "435_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "653",
+          "DOI": "10.4184/asj.2017.11.4.653",
+          "volume": "11",
+          "author": "J Hong",
+          "year": "2017",
+          "unstructured": "Hong J, Song K, Cho JH, Lee JH. An updated overview of low back pain management in primary care. Asian Spine J. 2017;11:653–60. https://doi.org/10.4184/asj.2017.11.4.653.",
+          "journal-title": "Asian Spine J"
+        },
+        {
+          "key": "435_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "970",
+          "DOI": "10.1186/s12913-020-05827-w",
+          "volume": "20",
+          "author": "G Castellini",
+          "year": "2020",
+          "unstructured": "Castellini G, Iannicelli V, Briguglio M, Corbetta D, et al. Are clinical practice guidelines for low backpain interventions of high quality and updated? A systematic review using theAGREE II instrument. BMC Health Serv Res. 2020;20:970. https://doi.org/10.1186/s12913-020-05827-w.",
+          "journal-title": "BMC Health Serv Res"
+        },
+        {
+          "key": "435_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "1007",
+          "DOI": "10.2147/JPR.S226483",
+          "volume": "13",
+          "author": "J Gudin",
+          "year": "2020",
+          "unstructured": "Gudin J, Kaufman AG, Datta S. Are opioids needed to treat chronic low back pain? A review of treatment options and analgesics in development. J Pain Res. 2020;13:1007–22.",
+          "journal-title": "J Pain Res"
+        },
+        {
+          "key": "435_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "175",
+          "DOI": "10.1016/j.jmpt.2017.12.003",
+          "volume": "41",
+          "author": "WB Weeks",
+          "year": "2018",
+          "unstructured": "Weeks WB, Goertz CM, Long CR, Meekers WC, Marchiori DM. Association among opioid use, treatment preferences, and perceptions of physician treatment recommendations in patients with neck and back pain. J Manip Physiol Ther. 2018;41:175–80. https://doi.org/10.1016/j.jmpt.2017.12.003.",
+          "journal-title": "J Manip Physiol Ther"
+        },
+        {
+          "key": "435_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "1074",
+          "DOI": "10.1016/j.berh.2017.04.001",
+          "volume": "30",
+          "author": "H Lee",
+          "year": "2016",
+          "unstructured": "Lee H, Mansell G, McAuley JH, Kamper SJ, et al. Causal mechanisms in the clinical course and treatment of back pain. Best Pract Res Clin Rheumatol. 2016;30:1074–83. https://doi.org/10.1016/j.berh.2017.04.001.",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "435_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "2791",
+          "DOI": "10.1007/s00586-018-5673-2",
+          "volume": "27",
+          "author": "CB Oliveira",
+          "year": "2018",
+          "unstructured": "Oliveira CB, Maher CG, Pinto RZ, Traeger AC, et al. Clinical practice guidelines for the management of non-specific low back pain in primary care: an updated overview. Eur Spine J. 2018;27:2791–803. https://doi.org/10.1007/s00586-018-5673-2.",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "435_CR39",
+          "doi-asserted-by": "publisher",
+          "first-page": "1386",
+          "DOI": "10.1503/cmaj.170527",
+          "volume": "189",
+          "author": "A Traeger",
+          "year": "2017",
+          "unstructured": "Traeger A, Buchbinder R, Harris I, Maher C. Diagnosis and management of low-back pain in primary care. CMAJ. 2017;189:1386–95. https://doi.org/10.1503/cmaj.170527.",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "435_CR40",
+          "doi-asserted-by": "publisher",
+          "first-page": "629",
+          "DOI": "10.1111/papr.12323",
+          "volume": "16",
+          "author": "KM Malik",
+          "year": "2016",
+          "unstructured": "Malik KM, Nelson A, Benzon H. Disease-modifying antirheumatic drugs for the treatment of low back pain: a systematic review of the literature. Pain Pract. 2016;16:629–41. https://doi.org/10.1111/papr.12323.",
+          "journal-title": "Pain Pract"
+        },
+        {
+          "key": "435_CR41",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1186/s13012-016-0482-7",
+          "volume": "11",
+          "author": "A Suman",
+          "year": "2016",
+          "unstructured": "Suman A, Dikkers MF, Schaafsma FG, van Tulder MW, Anema JR. Effectiveness of multifaceted implementation strategies for the implementation of back and neck pain guidelines in health care: a systematic review. Implement Sci. 2016;11:1–11. https://doi.org/10.1186/s13012-016-0482-7.",
+          "journal-title": "Implement Sci"
+        },
+        {
+          "key": "435_CR42",
+          "doi-asserted-by": "publisher",
+          "first-page": "1699",
+          "DOI": "10.1016/j.mayocp.2015.10.009",
+          "volume": "90",
+          "author": "WM Hooten",
+          "year": "2015",
+          "unstructured": "Hooten WM, Cohen SP. Evaluation and treatment of low back pain: a clinically focused review for primary care specialists. Mayo Clin Proc. 2015;90:1699–718. https://doi.org/10.1016/j.mayocp.2015.10.009.",
+          "journal-title": "Mayo Clin Proc"
+        },
+        {
+          "key": "435_CR43",
+          "doi-asserted-by": "publisher",
+          "first-page": "37",
+          "DOI": "10.6859/aja.201906_57(2).0003",
+          "volume": "57",
+          "author": "S Yabuki",
+          "year": "2019",
+          "unstructured": "Yabuki S, Kuen AK, Tam CK, Murakami T, et al. Evidence-based recommendations on the pharmacological management of osteoarthritis and chronic low back pain: an Asian consensus. Asian J Anesthesiol. 2019;57:37–54. https://doi.org/10.6859/aja.201906_57(2).0003.",
+          "journal-title": "Asian J Anesthesiol"
+        },
+        {
+          "key": "435_CR44",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1002/ejp.1679",
+          "volume": "00",
+          "author": "N Corp",
+          "year": "2020",
+          "unstructured": "Corp N, Mansell G, Stynes S, Wynne-Jones G, et al. Evidence-based treatment recommendations for neck and low back pain across Europe: A systematic review of guidelines. Eur J Pain. 2020;00:1–21. https://doi.org/10.1002/ejp.1679.",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "435_CR45",
+          "doi-asserted-by": "publisher",
+          "first-page": "145",
+          "DOI": "10.1080/17512433.2019.1565992",
+          "volume": "12",
+          "author": "M Schreijenberg",
+          "year": "2019",
+          "unstructured": "Schreijenberg M, Koes BW, Lin CC. Guideline recommendations on the pharmacological management of non-specific low back pain in primary care—is there a need to change? Expert Rev Clin Pharmacol. 2019;12:145–57. https://doi.org/10.1080/17512433.2019.1565992.",
+          "journal-title": "Expert Rev Clin Pharmacol"
+        },
+        {
+          "key": "435_CR46",
+          "doi-asserted-by": "publisher",
+          "first-page": "664",
+          "DOI": "10.1136/bjsports-2018-099805",
+          "volume": "54",
+          "author": "HR Tucker",
+          "year": "2020",
+          "unstructured": "Tucker HR, Scaff K, McCloud T, Carlomagno K, et al. Harms and benefits of opioids for management of non-surgical acute and chronic low back pain: a systematic review. Br J Sports Med. 2020;54:664–75. https://doi.org/10.1136/bjsports-2018-099805.",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "435_CR47",
+          "doi-asserted-by": "publisher",
+          "first-page": "2218",
+          "DOI": "10.1111/bcp.13656",
+          "volume": "84",
+          "author": "JC McCrae",
+          "year": "2018",
+          "unstructured": "McCrae JC, Morrison EE, Dear JW, Webbs DJ. Long-term adverse effects of paracetamol–a review. Br J Clin Pharmacol. 2018;84:2218–30. https://doi.org/10.1111/bcp.13656.",
+          "journal-title": "Br J Clin Pharmacol"
+        },
+        {
+          "key": "435_CR48",
+          "doi-asserted-by": "publisher",
+          "first-page": "26",
+          "DOI": "10.1186/s40798-019-0199-7",
+          "volume": "5",
+          "author": "JR Ball",
+          "year": "2019",
+          "unstructured": "Ball JR, Harris CB, Lee J, Vives MJ. Lumbar spine injuries in sports: review of the literature and current treatment recommendations. Sports Med-Open. 2019;5:26. https://doi.org/10.1186/s40798-019-0199-7.",
+          "journal-title": "Sports Med-Open"
+        },
+        {
+          "key": "435_CR49",
+          "first-page": "404",
+          "volume": "65",
+          "author": "K Frazer",
+          "year": "2016",
+          "unstructured": "Frazer K, Stevermer J. More isn’t better with acute low back pain treatment. J Fam Pract. 2016;65:404–6.",
+          "journal-title": "J Fam Pract"
+        },
+        {
+          "key": "435_CR50",
+          "doi-asserted-by": "publisher",
+          "first-page": "736",
+          "DOI": "10.1016/S0140-6736(16)30970-9",
+          "volume": "389",
+          "author": "C Maher",
+          "year": "2017",
+          "unstructured": "Maher C, Underwood M, Buchbinder R. Non-specific low back pain. Lancet. 2017;389:736–47. https://doi.org/10.1016/S0140-6736(16)30970-9.",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "435_CR51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD012382",
+          "author": "E Rasmussen-Barr",
+          "year": "2017",
+          "unstructured": "Rasmussen-Barr E, Grooten WJA, Roelofs PPDM, Koes BW, et al. Non-steroidal anti-inflammatory drugs for sciatica (Review). Cochrane Database Syst Rev. 2017. https://doi.org/10.1002/14651858.CD012382.",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "435_CR52",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Enthoven WTM, Roelofs PD, Koes BW R. NSAIDs for chronic low back pain. JAMA n.d.;317:2327–8.",
+          "DOI": "10.1001/jama.2017.4571"
+        },
+        {
+          "key": "435_CR53",
+          "doi-asserted-by": "publisher",
+          "first-page": "823",
+          "DOI": "10.1080/17425255.2016.1191469",
+          "volume": "12",
+          "author": "MP Davis",
+          "year": "2016",
+          "unstructured": "Davis MP. Pharmacokinetic and pharmacodynamic evaluation of oxycodone and naltrexone for the treatment of chronic lower back pain. Expert Opin Drug Metab Toxicol. 2016;12:823–31. https://doi.org/10.1080/17425255.2016.1191469.",
+          "journal-title": "Expert Opin Drug Metab Toxicol"
+        },
+        {
+          "key": "435_CR54",
+          "doi-asserted-by": "publisher",
+          "first-page": "561",
+          "DOI": "10.1007/s40273-015-0258-y",
+          "volume": "33",
+          "author": "M Haas",
+          "year": "2015",
+          "unstructured": "Haas M, Lourenco RDA. Pharmacological management of chronic lower back pain: a review of cost effectiveness. Pharmacoeconomics. 2015;33:561–9. https://doi.org/10.1007/s40273-015-0258-y.",
+          "journal-title": "Pharmacoeconomics"
+        },
+        {
+          "key": "435_CR55",
+          "doi-asserted-by": "publisher",
+          "first-page": "907",
+          "DOI": "10.1177/1049909119838974",
+          "volume": "36",
+          "author": "D Trofimovitch",
+          "year": "2019",
+          "unstructured": "Trofimovitch D, Baumrucker SJ. Pharmacology update: low-dose naltrexone as a possible nonopioid modality for some chronic. Nonmalignant Pain Syndromes Pharmacol Update. 2019;36:907–12. https://doi.org/10.1177/1049909119838974.",
+          "journal-title": "Nonmalignant Pain Syndromes Pharmacol Update"
+        },
+        {
+          "key": "435_CR56",
+          "doi-asserted-by": "publisher",
+          "first-page": "2368",
+          "DOI": "10.1016/S0140-6736(18)30489-6",
+          "volume": "391",
+          "author": "NE Foster",
+          "year": "2018",
+          "unstructured": "Foster NE, Anema JR, Cherkin D, Chou R, et al. Prevention and treatment of low back pain: evidence, challenges, and promising directions. Lancet. 2018;391:2368–83. https://doi.org/10.1016/S0140-6736(18)30489-6.",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "435_CR57",
+          "doi-asserted-by": "publisher",
+          "first-page": "18",
+          "DOI": "10.1111/1742-6723.12907",
+          "volume": "30",
+          "author": "K Strudwick",
+          "year": "2018",
+          "unstructured": "Strudwick K, McPhee M, Bell A, Martin-Khan M, Russell T. Review article: Best practice management of low back pain in the emergency department (part 1 of the musculoskeletal injuries rapid review series). Emerg Med Australas. 2018;30:18–35. https://doi.org/10.1111/1742-6723.12907.",
+          "journal-title": "Emerg Med Australas"
+        },
+        {
+          "key": "435_CR58",
+          "unstructured": "Institute for Quality and Efficiency in Health Care. Systematic guideline search and appraisal, as well as extraction of relevant recommendations, for a DMP “chronic back pain.” IQWiG Rep 2015;V14–04."
+        },
+        {
+          "key": "435_CR59",
+          "doi-asserted-by": "publisher",
+          "first-page": "480",
+          "DOI": "10.7326/M16-2458",
+          "volume": "166",
+          "author": "R Chou",
+          "year": "2017",
+          "unstructured": "Chou R, Deyo R, Friedly J, Skelly A, et al. Systemic pharmacologic therapies for low back pain: a systematic review for an american college of physicians clinical practice guideline. Ann Intern Med. 2017;166:480–92. https://doi.org/10.7326/M16-2458.",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "435_CR60",
+          "doi-asserted-by": "publisher",
+          "first-page": "33",
+          "DOI": "10.1007/s40266-016-0404-z",
+          "volume": "779",
+          "author": "ML Ferreira",
+          "year": "2016",
+          "unstructured": "Ferreira ML, McLachlan A. The challenges of treating sciatica pain in older adults. Drugs Aging. 2016;779:33. https://doi.org/10.1007/s40266-016-0404-z.",
+          "journal-title": "Drugs Aging"
+        },
+        {
+          "key": "435_CR61",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1155/2019/8957847",
+          "volume": "2019",
+          "author": "K Ma",
+          "year": "2019",
+          "unstructured": "Ma K, Zhuang Z, Wang L, Liu X, et al. The Chinese Association for the Study of Pain (CASP): consensus on the assessment and management of chronic nonspecific low back pain. Pain Res Manag. 2019;2019:1–14. https://doi.org/10.1155/2019/8957847.",
+          "journal-title": "Pain Res Manag"
+        },
+        {
+          "key": "435_CR62",
+          "doi-asserted-by": "publisher",
+          "first-page": "S851",
+          "DOI": "10.1007/s00586-017-5433-8",
+          "volume": "27",
+          "author": "R Chou",
+          "year": "2018",
+          "unstructured": "Chou R, Pierre Côté P, Randhawa K, Torres P, Yu H, et al. The Global Spine Care Initiative: applying evidence-based guidelines on the non-invasive management of back and neck pain to low- and middle-income communities. Eur Spine J. 2018;27:S851–60. https://doi.org/10.1007/s00586-017-5433-8.",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "435_CR63",
+          "doi-asserted-by": "publisher",
+          "first-page": "228",
+          "DOI": "10.23736/S1973-9087.19.05984-7",
+          "volume": "56",
+          "author": "B Depreitere",
+          "year": "2020",
+          "unstructured": "Depreitere B, Jonckheer P, Coeckelberghs E, Desomer A, Van Wambecke P. the pivotal role for the multidisciplinary approach at all phases and at all levels in the national pathway for the management of low back pain and radicular pain in Belgium. Eur J Phys Rehabil Med. 2020;56:228–46. https://doi.org/10.23736/S1973-9087.19.05984-7.",
+          "journal-title": "Eur J Phys Rehabil Med"
+        },
+        {
+          "key": "435_CR64",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.22603/ssrr.1.2016-0022",
+          "volume": "1",
+          "author": "S Kikuchi",
+          "year": "2017",
+          "unstructured": "Kikuchi S. The recent trend in diagnosis and treatment of chronic low back pain. Spine Surg Relat Res. 2017;1:1–6. https://doi.org/10.22603/ssrr.1.2016-0022.",
+          "journal-title": "Spine Surg Relat Res"
+        },
+        {
+          "key": "435_CR65",
+          "doi-asserted-by": "publisher",
+          "first-page": "1199",
+          "DOI": "10.1080/03007995.2017.1298521",
+          "volume": "33",
+          "author": "G Muller-Schwefe",
+          "year": "2017",
+          "unstructured": "Muller-Schwefe G, Morlion B, Ahlbeck K, Alon E, et al. Treatment for chronic low back pain: the focus should change to multimodal management that reflects the underlying pain mechanisms. Curr Med Res Opin. 2017;33:1199–210. https://doi.org/10.1080/03007995.2017.1298521.",
+          "journal-title": "Curr Med Res Opin"
+        },
+        {
+          "key": "435_CR66",
+          "doi-asserted-by": "publisher",
+          "first-page": "79",
+          "DOI": "10.1136/bjsports-2018-099878",
+          "volume": "54",
+          "author": "I Lin",
+          "year": "2020",
+          "unstructured": "Lin I, Wiles L, Goucke R, Nagree Y, et al. What does best practice care for musculoskeletal pain look like? Eleven consistent recommendations from high-quality clinical practice guidelines: systematic review. Br J Sports Med. 2020;54:79–86. https://doi.org/10.1136/bjsports-2018-099878.",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "435_CR67",
+          "doi-asserted-by": "publisher",
+          "first-page": "90",
+          "DOI": "10.1111/papr.12318",
+          "volume": "16",
+          "author": "CJ Itz",
+          "year": "2015",
+          "unstructured": "Itz CJ, Willems PC, Zeilstra DJ, Huygen FJ. Dutch multidisciplinary guideline for invasive treatment of pain syndromes of the lumbosacral spine. Pain Pract. 2015;16:90–110. https://doi.org/10.1111/papr.12318.",
+          "journal-title": "Pain Pract"
+        },
+        {
+          "key": "435_CR68",
+          "doi-asserted-by": "publisher",
+          "first-page": "998",
+          "DOI": "10.1016/j.spinee.2020.04.006",
+          "volume": "20",
+          "author": "DS Kreiner",
+          "year": "2020",
+          "unstructured": "Kreiner DS, Matz P, Bono CM, Cho CH, Easa JE, et al. Guideline summary review: an evidence-based clinicalguideline for the diagnosis and treatment of low back pain. Spine J. 2020;20:998–1024. https://doi.org/10.1016/j.spinee.2020.04.006.",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "435_CR69",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Qaseem A, Wilt TJ, McLean RM, Forciea MA, for the Clinical Guidelines Committee of the American College of Physicians. Noninvasive treatments for acute, subacute, and chronic low back pain: a clinical practice guideline from the American College of Physicians. Ann Intern Med 2017;166:514–30. https://doi.org/10.7326/M16-2367.",
+          "DOI": "10.7326/M16-2367"
+        },
+        {
+          "key": "435_CR70",
+          "doi-asserted-by": "publisher",
+          "first-page": "2620",
+          "DOI": "10.1007/s11606-019-05086-4",
+          "volume": "34",
+          "author": "SS Pangarkar",
+          "year": "2019",
+          "unstructured": "Pangarkar SS, Kang DG, Sandbrink F, Bevevino A, Tillisch K, et al. VA/DoD clinical practice guideline: diagnosis and treatment of low back pain. J Gen Intern Med. 2019;34:2620–9. https://doi.org/10.1007/s11606-019-05086-4.",
+          "journal-title": "J Gen Intern Med"
+        },
+        {
+          "key": "435_CR71",
+          "first-page": "1",
+          "volume": "16",
+          "author": "D Thorson",
+          "year": "2018",
+          "unstructured": "Thorson D, Campbell R, Massey M, et al. Health care guideline: adult acute and subacute low back. Pain. 2018;16:1–49.",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "435_CR72",
+          "unstructured": "Van Wambeke P, Desomer A, Ailliet L, Berquin A, Demoulin C, et al. Low back pain and radicular pain: assessment and management. KCE Rep 287 2017."
+        },
+        {
+          "key": "435_CR73",
+          "unstructured": "National Institute for Health and Clinical Excellence (NICE). Low back pain and sciatica in over 16s: assessment and management (NG59). London: National Institute for Health and Clinical Excellence. 2016:1–1114."
+        },
+        {
+          "key": "435_CR74",
+          "doi-asserted-by": "publisher",
+          "first-page": "60",
+          "DOI": "10.1007/s00586-017-5099-2",
+          "volume": "27",
+          "author": "MJ Stochkendahl",
+          "year": "2018",
+          "unstructured": "Stochkendahl MJ, Kjaer P, Hartvigsen J, Kongsted A, Aaboe J, et al. National Clinical Guidelines for non-surgical treatment of patients with recent onset low back pain or lumbar radiculopathy. Eur Spine J. 2018;27:60–75. https://doi.org/10.1007/s00586-017-5099-2.",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "435_CR75",
+          "unstructured": "Toward Optimized Practice. Evidence-informed primary care management of low back pain 2017:1–49."
+        },
+        {
+          "key": "435_CR76",
+          "doi-asserted-by": "publisher",
+          "first-page": "1586",
+          "DOI": "10.1016/S0140-6736(14)60805-9",
+          "volume": "384",
+          "author": "CM Williams",
+          "year": "2014",
+          "unstructured": "Williams CM, Maher CG, Latimer J, et al. Efficacy of paracetamol for acute low-back pain: a double-blind, randomized controlled trial. Lancet. 2014;384:1586–96.",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "435_CR77",
+          "first-page": "CD012230",
+          "volume": "6",
+          "author": "BT Saragiotto",
+          "year": "2016",
+          "unstructured": "Saragiotto BT, Machado GC, Ferriera ML, Pinheiro MB, Abdel Shaheed C, Maher CG. Paracetamol for low back pain. Cochrane Database Syst Rev. 2016;6:CD012230.",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "435_CR78",
+          "doi-asserted-by": "publisher",
+          "first-page": "526",
+          "DOI": "10.1097/.ajp.0000192516.58578.a4",
+          "volume": "22",
+          "author": "M Muehlbacher",
+          "year": "2006",
+          "unstructured": "Muehlbacher M, Nickel MK, Kettler C, et al. Topiramate in treatment of patients with chronic low back pain: a randomized, double-blind, placebo-controlled study. Clin J Pain. 2006;22:526–31.",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "435_CR79",
+          "doi-asserted-by": "publisher",
+          "first-page": "103",
+          "DOI": "10.1163/156856901753420945",
+          "volume": "13",
+          "author": "GJ McCleane",
+          "year": "2001",
+          "unstructured": "McCleane GJ. Does gabapentin have an analgesic effect on background, movement and referred pain? A randomised, double-blind, placebo controlled study. Pain Clin. 2001;13:103–7.",
+          "journal-title": "Pain Clin"
+        },
+        {
+          "key": "435_CR80",
+          "doi-asserted-by": "publisher",
+          "first-page": "469",
+          "DOI": "10.3122/jabfm.2008.05.070220",
+          "volume": "21",
+          "author": "RL Holve",
+          "year": "2008",
+          "unstructured": "Holve RL, Barkan H. Oral steroids in initial treatment of acute sciatica. J Am Board Fam Med. 2008;21:469–74. https://doi.org/10.3122/jabfm.2008.05.070220.",
+          "journal-title": "J Am Board Fam Med"
+        },
+        {
+          "key": "435_CR81",
+          "doi-asserted-by": "publisher",
+          "first-page": "1915",
+          "DOI": "10.1001/jama.2015.4468",
+          "volume": "313",
+          "author": "H Goldberg",
+          "year": "2015",
+          "unstructured": "Goldberg H, Firtch W, Tyburski M, et al. Oral steroids for acute radiculopathy due to a herniated lumbar disk: a randomized clinical trial. JAMA. 2015;313:1915–23.",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "435_CR82",
+          "doi-asserted-by": "publisher",
+          "first-page": "697",
+          "DOI": "10.1007/s00586-013-2675-y",
+          "volume": "22",
+          "author": "HB Albert",
+          "year": "2013",
+          "unstructured": "Albert HB, Sorensen JS, Christensen BS, Manniche C. Antibiotic treatment in patients with chronic low back pain and vertebral bone edema (Modic type 1 changes): a double-blind randomized clinical controlled trial of efficacy. Eur Spine J. 2013;22:697–707.",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "27",
+          "key": "435_CR83",
+          "doi-asserted-by": "publisher",
+          "first-page": "1012",
+          "DOI": "10.1097/00007632-200205150-00003",
+          "volume": "2002",
+          "author": "SF Nadler",
+          "year": "1976",
+          "unstructured": "Nadler SF, Steiner DJ, Erasala GN, Hengenhold DA, et al. Continuous low-level heat wrap therapy provides more efficacy than Ibuprofen and acetaminophen for acute low back pain. Spine Phila Pa. 1976;2002(27):1012–7. https://doi.org/10.1097/00007632-200205150-00003.",
+          "journal-title": "Spine Phila Pa"
+        },
+        {
+          "key": "435_CR84",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chou R, Huffman LH, American Pain Society, American College of Physicians. Medications for acute and chronic low back pain: review of the evidence for an American Pain Society/American College of Physicians clinical practice guideline (published correction appears in Ann Intern Med. 2008 Feb 5;148(3):247–8). Ann Intern Med 2007;147:505–14.",
+          "DOI": "10.7326/0003-4819-147-7-200710020-00008"
+        },
+        {
+          "key": "435_CR85",
+          "unstructured": "Chou R, Deyo R, Friedly J, et al. Noninvasive treatments for low back pain. Rockville (MD): Agency for Healthcare Research and Quality (US); 2016."
+        },
+        {
+          "key": "435_CR86",
+          "unstructured": "Institute of Medicine (US) Committee on Standards for Developing Trustworthy Clinical Practice Guidelines; Graham R, Macher M, Miller Wolman D, et al, editors. Clinical Practice Guidelines We Can Trust. Washington (DC): National Academies Press (US); 2011."
+        },
+        {
+          "key": "435_CR87",
+          "doi-asserted-by": "publisher",
+          "first-page": "49",
+          "DOI": "10.1016/j.clinthera.2007.01.001",
+          "volume": "29",
+          "author": "AD Beaulieu",
+          "year": "2007",
+          "unstructured": "Beaulieu AD, Peloso P, Bensen W, et al. A randomized, double-blind, 8-week crossover study of once-daily controlled-release tramadol versus immediate release tramadol taken as needed for chronic noncancer pain. Clin Ther. 2007;29:49–60.",
+          "journal-title": "Clin Ther"
+        },
+        {
+          "key": "435_CR88",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lee JH, Lee CS, Ultracet ER Study Group. A randomized, double-blind, placebo-controlled, parallel-group study to evaluate the efficacy and safety of the extended-release tramadol hydrochloride/acetaminophen fixed-dose combination tablet for the treatment of chronic low back pain. Clin Ther 2013;35:1830–40.",
+          "DOI": "10.1016/j.clinthera.2013.09.017"
+        },
+        {
+          "key": "435_CR89",
+          "doi-asserted-by": "publisher",
+          "first-page": "109",
+          "DOI": "10.1080/14656566.2020.1817384",
+          "volume": "22",
+          "author": "F Migliorini",
+          "year": "2021",
+          "unstructured": "Migliorini F, Maffulli N, Eschweiler J, et al. The pharmacological management of chronic lower back pain. Expert Opin Pharmacother. 2021;22:109–19.",
+          "journal-title": "Expert Opin Pharmacother"
+        },
+        {
+          "key": "435_CR90",
+          "doi-asserted-by": "publisher",
+          "first-page": "721",
+          "DOI": "10.1016/j.joca.2020.03.001",
+          "volume": "28",
+          "author": "C Weng",
+          "year": "2020",
+          "unstructured": "Weng C, Xu J, Wang Q, Lu W, Liu Z. Efficacy and safety of duloxetine in osteoarthritis or chronic low back pain: a Systematic review and meta-analysis. Osteoarthritis Cartilage. 2020;28:721–34.",
+          "journal-title": "Osteoarthritis Cartilage"
+        },
+        {
+          "key": "435_CR91",
+          "doi-asserted-by": "crossref",
+          "first-page": "e20",
+          "DOI": "10.46747/cfp.6701e20",
+          "volume": "67",
+          "author": "MR Kolber",
+          "year": "2021",
+          "unstructured": "Kolber MR, Ton J, Thomas B, et al. PEER systematic review of randomized controlled trials: management of chronic low back pain in primary care. Can Fam Physician. 2021;67:e20-30.",
+          "journal-title": "Can Fam Physician"
+        },
+        {
+          "key": "435_CR92",
+          "first-page": "e15169",
+          "volume": "13",
+          "author": "T Hirase",
+          "year": "2021",
+          "unstructured": "Hirase T, Hirase J, Ling J, et al. Duloxetine for the treatment of chronic low back pain: a systematic review of randomized placebo-controlled trials. Cureus. 2021;13:e15169.",
+          "journal-title": "Cureus"
+        },
+        {
+          "key": "435_CR93",
+          "first-page": "CD001703",
+          "volume": "2008",
+          "author": "DM Urquhart",
+          "year": "2008",
+          "unstructured": "Urquhart DM, Hoving JL, Assendelft WW, Roland M, van Tulder MW. Antidepressants for non-specific low back pain. Cochrane Database Syst Rev. 2008;2008:CD001703.",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "435_CR94",
+          "first-page": "28",
+          "volume": "4",
+          "author": "DG Jenkins",
+          "year": "1976",
+          "unstructured": "Jenkins DG, Ebbutt AF, Evans CD. Tofranil in the treatment of low back pain. J Int Med Res. 1976;4:28–40.",
+          "journal-title": "J Int Med Res"
+        },
+        {
+          "key": "435_CR95",
+          "doi-asserted-by": "publisher",
+          "first-page": "269",
+          "DOI": "10.1097/00004714-199008000-00006",
+          "volume": "10",
+          "author": "K Goodkin",
+          "year": "1990",
+          "unstructured": "Goodkin K, Gullion CM, Agras WS. A randomized, double-blind, placebo-controlled trial of trazodone hydrochloride in chronic low back pain syndrome. J Clin Psychopharmacol. 1990;10:269–78.",
+          "journal-title": "J Clin Psychopharmacol"
+        },
+        {
+          "key": "435_CR96",
+          "doi-asserted-by": "publisher",
+          "first-page": "287",
+          "DOI": "10.1016/S0304-3959(98)00064-5",
+          "volume": "76",
+          "author": "HJ Atkinson",
+          "year": "1998",
+          "unstructured": "Atkinson HJ, Slater MA, Williams RA, Zisook S, Patterson TL, Grant I, et al. A placebo-controlled randomized clinical trial of nortriptyline for chronic low back pain. Pain. 1998;76:287–96.",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "435_CR97",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Atkinson JH, Slater MA, Wahlgren DR, Williams RA, Zisook S, Pruitt SD, et al. Effects of noradrenergic and serotonergic antidepressants on chronic low back pain intensity. Pain n.d.;1999:137–45.",
+          "DOI": "10.1016/S0304-3959(99)00082-2"
+        },
+        {
+          "key": "435_CR98",
+          "doi-asserted-by": "publisher",
+          "first-page": "656",
+          "DOI": "10.1016/j.jpain.2005.05.002",
+          "volume": "6",
+          "author": "J Katz",
+          "year": "2005",
+          "unstructured": "Katz J, Pennella-Vaughan J, Hetzel RD, Kanazi GE, Dworkin RH. A randomised, placebo-controlled trial of bupropion sustained release in chronic low back pain. J Pain. 2005;6:656–61.",
+          "journal-title": "J Pain"
+        },
+        {
+          "key": "435_CR99",
+          "doi-asserted-by": "publisher",
+          "first-page": "135",
+          "DOI": "10.1097/jcp.0b013e3180333ed5",
+          "volume": "27",
+          "author": "JH Atkinson",
+          "year": "2007",
+          "unstructured": "Atkinson JH, Slater MA, Capparelli EV, Wallace MS, Zisook S, Abramson I, et al. Efficacy of noradrenergic and serotonergic antidepressants in chronic back pain. J Clin Psychopharmacol. 2007;27:135–42.",
+          "journal-title": "J Clin Psychopharmacol"
+        },
+        {
+          "key": "435_CR100",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.m4825",
+          "volume": "372",
+          "author": "GE Ferreira",
+          "year": "2021",
+          "unstructured": "Ferreira GE, McLachlan AJ, Lin CC, et al. Efficacy and safety of antidepressants for the treatment of back pain and osteoarthritis: systematic review and meta-analysis. BMJ. 2021;372: m4825. https://doi.org/10.1136/bmj.m4825.",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "435_CR101",
+          "doi-asserted-by": "publisher",
+          "first-page": "228",
+          "DOI": "10.1002/ejp.907",
+          "volume": "21",
+          "author": "C Abdel Shaheed",
+          "year": "2017",
+          "unstructured": "Abdel Shaheed C, Maher CG, Williams KA, McLachlan AJ. Efficacy and tolerability of muscle relaxants for low back pain: Systematic review and meta-analysis. Eur J Pain. 2017;21:228–37.",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "435_CR102",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.n1446",
+          "volume": "374",
+          "author": "AG Cashin",
+          "year": "2021",
+          "unstructured": "Cashin AG, Folly T, Bagg MK, et al. Efficacy, acceptability, and safety of muscle relaxants for adults with non-specific low back pain: systematic review and meta-analysis. BMJ. 2021;374: n1446. https://doi.org/10.1136/bmj.n1446.",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "435_CR103",
+          "doi-asserted-by": "publisher",
+          "first-page": "525",
+          "DOI": "10.1016/j.jval.2016.04.020",
+          "volume": "19",
+          "author": "M Drummond",
+          "year": "2016",
+          "unstructured": "Drummond M. Clinical guidelines: a NICE way to introduce cost-effectiveness considerations? Value Health. 2016;19:525–30. https://doi.org/10.1016/j.jval.2016.04.020.",
+          "journal-title": "Value Health"
+        },
+        {
+          "key": "435_CR104",
+          "doi-asserted-by": "publisher",
+          "first-page": "283",
+          "DOI": "10.1089/can.2019.0077",
+          "volume": "5",
+          "author": "L First",
+          "year": "2020",
+          "unstructured": "First L, Douglas W, Habibi B, Singh JR, Sein MT. Cannabis use and low-back pain: a systematic review. Cannabis Cannabinoid Res. 2020;5:283–9. https://doi.org/10.1089/can.2019.0077.",
+          "journal-title": "Cannabis Cannabinoid Res"
+        }
+      ],
+      "container-title": [
+        "Chiropractic &amp; Manual Therapies"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/s12998-022-00435-3.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1186/s12998-022-00435-3/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/s12998-022-00435-3.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            2,
+            5
+          ]
+        ],
+        "date-time": "2023-02-05T04:16:50Z",
+        "timestamp": 1675570610000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://chiromt.biomedcentral.com/articles/10.1186/s12998-022-00435-3"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            13
+          ]
+        ]
+      },
+      "references-count": 104,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "435"
+      ],
+      "URL": "https://doi.org/10.1186/s12998-022-00435-3",
+      "relation": {},
+      "ISSN": [
+        "2045-709X"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2045-709X"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            13
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "10 January 2022",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "22 April 2022",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "13 May 2022",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Declarations"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethics approval and consent to participate"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Consent for publication"
+          }
+        },
+        {
+          "value": "The authors declare that they have no competing interests.",
+          "order": 4,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        }
+      ],
+      "article-number": "26"
+    },
+    "pubmed_summary": {
+      "uid": "35562756",
+      "pubdate": "2022 May 13",
+      "epubdate": "2022 May 13",
+      "source": "Chiropr Man Therap",
+      "authors": [
+        {
+          "name": "Price MR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cupler ZA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hawk C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bednarz EM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Walters SA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Daniels CJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Daniels CJ",
+      "title": "Systematic review of guideline-recommended medications prescribed for treatment of low back pain.",
+      "sorttitle": "systematic review of guideline recommended medications prescribed for treatment of low back pain",
+      "volume": "30",
+      "issue": "1",
+      "pages": "26",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101551481",
+      "issn": "",
+      "essn": "2045-709X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "35562756"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC9101938"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC9101938;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s12998-022-00435-3"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s12998-022-00435-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2022/01/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2022/04/22 00:00"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2022/05/13 23:39"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2022/05/14 06:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2022/05/18 06:00"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2022/05/13 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 104,
+      "fulljournalname": "Chiropractic & manual therapies",
+      "elocationid": "doi: 10.1186/s12998-022-00435-3",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2022/05/13 00:00",
+      "sortfirstauthor": "Price MR",
+      "vernaculartitle": ""
+    }
+  }
+}

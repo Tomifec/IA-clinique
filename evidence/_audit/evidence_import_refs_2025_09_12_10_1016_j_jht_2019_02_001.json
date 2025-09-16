@@ -1,0 +1,670 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jht_2019_02_001.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jht_2019_02_001",
+  "doi": "10.1016/j.jht.2019.02.001",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:46.725230Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            2
+          ]
+        ],
+        "date-time": "2025-08-02T04:55:31Z",
+        "timestamp": 1754110531566,
+        "version": "3.40.5"
+      },
+      "reference-count": 39,
+      "publisher": "Elsevier BV",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2020-01-01T00:00:00Z",
+            "timestamp": 1577836800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "jhandtherapy.org",
+          "clinicalkey.com.au",
+          "clinicalkey.fr",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Hand Therapy"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jht.2019.02.001",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            3,
+            11
+          ]
+        ],
+        "date-time": "2019-03-11T13:45:08Z",
+        "timestamp": 1552311908000
+      },
+      "page": "25-33",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 8,
+      "title": [
+        "Effect of weight-bearing wrist movement with carpal-stabilizing taping on pain and range of motion in subjects with dorsal wrist pain: A randomized controlled trial"
+      ],
+      "prefix": "10.1016",
+      "volume": "33",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6521-1157",
+          "authenticated-orcid": false,
+          "given": "Geun-Su",
+          "family": "Kim",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Jong-Hyuck",
+          "family": "Weon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Moon-Hwan",
+          "family": "Kim",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Eun-Kyung",
+          "family": "Koh",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Do-Young",
+          "family": "Jung",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "year": "2012",
+          "series-title": "Therapeutic Exercise: Foundations and Techniques",
+          "author": "Kisner",
+          "key": "10.1016/j.jht.2019.02.001_bib1"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jht.2019.02.001_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.1177/036354659602400103",
+          "article-title": "Factors associated with wrist pain in the young gymnast",
+          "volume": "24",
+          "author": "DiFiori",
+          "year": "1996",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jht.2019.02.001_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "289",
+          "DOI": "10.1249/JSR.0b013e3181870471",
+          "article-title": "Gymnastic wrist injuries",
+          "volume": "7",
+          "author": "Webb",
+          "year": "2008",
+          "journal-title": "Curr Sports Med Rep"
+        },
+        {
+          "key": "10.1016/j.jht.2019.02.001_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "38",
+          "DOI": "10.1016/j.ptsp.2017.03.002",
+          "article-title": "Examination and physical therapy management of a young gymnast with bilateral wrist pain: a case report",
+          "volume": "27",
+          "author": "Boucher",
+          "year": "2017",
+          "journal-title": "Phys Ther Sport"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jht.2019.02.001_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "568",
+          "DOI": "10.1016/j.math.2013.06.001",
+          "article-title": "Short-term effects of self-mobilization with a strap on pain and range of motion of the wrist joint in patients with dorsal wrist pain when weight bearing through the hand: a case series",
+          "volume": "18",
+          "author": "Choung",
+          "year": "2013",
+          "journal-title": "Man Ther"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jht.2019.02.001_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "941",
+          "DOI": "10.1589/jpts.26.941",
+          "article-title": "Efficacy of kinesiology taping for recovery from occupational wrist disorders experienced by a physical therapist",
+          "volume": "26",
+          "author": "Kim",
+          "year": "2014",
+          "journal-title": "J Phys Ther Sci"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jht.2019.02.001_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "297",
+          "DOI": "10.1016/j.jht.2013.07.004",
+          "article-title": "The use of joint mobilization to improve clinical outcomes in hand therapy: a systematic review of the literature",
+          "volume": "26",
+          "author": "Heiser",
+          "year": "2013",
+          "journal-title": "J Hand Ther"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jht.2019.02.001_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "98",
+          "DOI": "10.1016/j.math.2006.07.012",
+          "article-title": "Mulligan's mobilization-with-movement, positional faults and pain relief: current concepts from a critical review of literature",
+          "volume": "12",
+          "author": "Vicenzino",
+          "year": "2007",
+          "journal-title": "Man Ther"
+        },
+        {
+          "year": "2009",
+          "series-title": "Measurement of Joint Motion: A Guide to Goniometry",
+          "author": "Norkin",
+          "key": "10.1016/j.jht.2019.02.001_bib9"
+        },
+        {
+          "year": "2011",
+          "series-title": "Manual Mobilization of the Joints, Vol. 1: The Extremities",
+          "author": "Kaltenborn",
+          "key": "10.1016/j.jht.2019.02.001_bib10"
+        },
+        {
+          "year": "2010",
+          "series-title": "Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation",
+          "author": "Neumann",
+          "key": "10.1016/j.jht.2019.02.001_bib11"
+        },
+        {
+          "key": "10.1016/j.jht.2019.02.001_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "275",
+          "DOI": "10.1016/j.jbmt.2006.11.004",
+          "article-title": "Indirect influence of specific Kaltenborn glide mobilizations of the carpal joint on a subject with neurological impairments",
+          "volume": "11",
+          "author": "Gallego",
+          "year": "2007",
+          "journal-title": "J Bodyw Mov Ther"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jht.2019.02.001_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "209",
+          "DOI": "10.1016/j.jht.2013.12.011",
+          "article-title": "Manual mobilization of the wrist: a pilot study in rehabilitation of patients with a chronic hemiplegic hand post-stroke",
+          "volume": "27",
+          "author": "Smedes",
+          "year": "2014",
+          "journal-title": "J Hand Ther"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jht.2019.02.001_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "214",
+          "DOI": "10.1054/math.2000.0355",
+          "article-title": "An investigation to compare the effectiveness of carpal bone mobilisation and neurodynamic mobilisation as methods of treatment for carpal tunnel syndrome",
+          "volume": "5",
+          "author": "Tal-Akabi",
+          "year": "2000",
+          "journal-title": "Man Ther"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.jht.2019.02.001_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "761",
+          "DOI": "10.2519/jospt.2004.34.12.761",
+          "article-title": "Manual physical therapy examination and intervention of a patient with radial wrist pain: a case report",
+          "volume": "34",
+          "author": "Walker",
+          "year": "2004",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jht.2019.02.001_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "343",
+          "DOI": "10.1142/S0218810414500257",
+          "article-title": "Wrist rhythm during wrist joint motion evaluated by dynamic radiography",
+          "volume": "19",
+          "author": "Kawashima",
+          "year": "2014",
+          "journal-title": "Hand Surg"
+        },
+        {
+          "key": "10.1016/j.jht.2019.02.001_bib17",
+          "first-page": "153",
+          "article-title": "Study of wrist motion in flexion and extension",
+          "volume": "126",
+          "author": "Sarrafian",
+          "year": "1977",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "issue": "16",
+          "key": "10.1016/j.jht.2019.02.001_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "2664",
+          "DOI": "10.1016/j.jbiomech.2009.08.016",
+          "article-title": "In-vivo three-dimensional carpal bone kinematics during flexion-extension and radio-ulnar deviation of the wrist: dynamic motion versus step-wise static wrist positions",
+          "volume": "42",
+          "author": "Foumani",
+          "year": "2009",
+          "journal-title": "J Biomech"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jht.2019.02.001_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "278",
+          "DOI": "10.1016/j.jhsa.2012.10.035",
+          "article-title": "In vivo kinematics of the scaphoid, lunate, capitate, and third metacarpal in extreme wrist flexion and extension",
+          "volume": "38",
+          "author": "Rainbow",
+          "year": "2013",
+          "journal-title": "J Hand Surg Am"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jht.2019.02.001_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "860",
+          "DOI": "10.1053/jhsu.2000.9423",
+          "article-title": "In vivo scaphoid, lunate, and capitate kinematics in flexion and in extension",
+          "volume": "25",
+          "author": "Wolfe",
+          "year": "2000",
+          "journal-title": "J Hand Surg Am"
+        },
+        {
+          "key": "10.1016/j.jht.2019.02.001_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.1097/00003086-198006000-00003",
+          "article-title": "Functional anatomy of the wrist",
+          "volume": "149",
+          "author": "Kauer",
+          "year": "1980",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.jht.2019.02.001_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "787",
+          "DOI": "10.1016/S0021-9290(97)00026-2",
+          "article-title": "Normal kinematics of carpal bones: a three-dimensional analysis of carpal bone motion relative to the radius",
+          "volume": "30",
+          "author": "Kobayashi",
+          "year": "1997",
+          "journal-title": "J Biomech"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jht.2019.02.001_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "123",
+          "DOI": "10.1016/j.jht.2016.02.008",
+          "article-title": "Clinical manual assessment of the wrist",
+          "volume": "29",
+          "author": "Porretto-Loehrke",
+          "year": "2016",
+          "journal-title": "J Hand Ther"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jht.2019.02.001_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "355",
+          "DOI": "10.1016/j.jelekin.2006.02.004",
+          "article-title": "Shoulder joint kinematics during elevation measured by ultrasound-based measuring system",
+          "volume": "17",
+          "author": "Illyés",
+          "year": "2007",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "issue": "21",
+          "key": "10.1016/j.jht.2019.02.001_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "E433",
+          "DOI": "10.1097/01.BRS.0000090840.45802.D4",
+          "volume": "28",
+          "author": "Malmström",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jht.2019.02.001_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.1186/1471-2474-9-131",
+          "article-title": "The effects of the mulligan sustained natural apophyseal glide (SNAG) mobilisation in the lumbar flexion range of asymptomatic subjects as measured by the zebris CMS20 3-D motion analysis system",
+          "volume": "9",
+          "author": "Moutzouri",
+          "year": "2008",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jht.2019.02.001_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "32",
+          "DOI": "10.1016/j.parkreldis.2012.06.018",
+          "article-title": "Kinematic effects of subthalamic stimulation on reach-to-grasp movements in Parkinson's disease",
+          "volume": "19",
+          "author": "Pötter-Nerger",
+          "year": "2013",
+          "journal-title": "Park Relat Disord"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jht.2019.02.001_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "502",
+          "DOI": "10.2340/00015555-1246",
+          "article-title": "Assessment of pruritus intensity: prospective study on validity and reliability of the visual analogue scale, numerical rating scale and verbal rating scale in 471 patients with chronic pruritus",
+          "volume": "92",
+          "author": "Phan",
+          "year": "2012",
+          "journal-title": "Acta Derm Venereol"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jht.2019.02.001_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "96",
+          "DOI": "10.1016/S0894-1130(96)80068-8",
+          "article-title": "Clinical examination of the wrist",
+          "volume": "9",
+          "author": "Skirven",
+          "year": "1996",
+          "journal-title": "J Hand Ther"
+        },
+        {
+          "key": "10.1016/j.jht.2019.02.001_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "171",
+          "DOI": "10.1016/j.cuor.2005.02.008",
+          "article-title": "(i) Examination of the wrist—surface anatomy of the carpal bones",
+          "volume": "19",
+          "author": "Srinivas Reddy",
+          "year": "2005",
+          "journal-title": "Curr Orthop"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jht.2019.02.001_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "571",
+          "DOI": "10.1023/A:1013138911638",
+          "article-title": "Smallest real difference, a link between reproducibility and responsiveness",
+          "volume": "10",
+          "author": "Beckerman",
+          "year": "2001",
+          "journal-title": "Qual Life Res"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jht.2019.02.001_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "342",
+          "DOI": "10.1016/j.jsams.2017.07.008",
+          "article-title": "The effect of rigid taping with tension on mechanical displacement of the skin and change in pain perception",
+          "volume": "21",
+          "author": "Chen",
+          "year": "2018",
+          "journal-title": "J Sci Med Sport"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jht.2019.02.001_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "104",
+          "DOI": "10.5014/ajot.60.1.104",
+          "article-title": "Pilot study: investigating the effects of kinesio taping in an acute pediatric rehabilitation setting",
+          "volume": "60",
+          "author": "Yasukawa",
+          "year": "2006",
+          "journal-title": "Am J Occup Ther"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jht.2019.02.001_bib34",
+          "first-page": "102",
+          "article-title": "The visual analog scale in the immediate postoperative period: intrasubject variability and correlation with a numeric scale",
+          "volume": "86",
+          "author": "DeLoach",
+          "year": "1998",
+          "journal-title": "Anesth Analg"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jht.2019.02.001_bib35",
+          "first-page": "407",
+          "article-title": "Interpretation of visual analog scale ratings and change scores: a reanalysis of two clinical trials of postoperative pain",
+          "volume": "4",
+          "author": "Jensen",
+          "year": "2003",
+          "journal-title": "J Pain"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jht.2019.02.001_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "798",
+          "DOI": "10.1111/j.1365-2702.2005.01121.x",
+          "article-title": "Pain: a review of three commonly used pain rating scales",
+          "volume": "14",
+          "author": "Williamson",
+          "year": "2005",
+          "journal-title": "J Clin Nurs"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jht.2019.02.001_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "166",
+          "DOI": "10.1016/j.jht.2016.03.009",
+          "article-title": "Role of muscles in the stabilization of ligament-deficient wrists",
+          "volume": "29",
+          "author": "Esplugas",
+          "year": "2016",
+          "journal-title": "J Hand Ther"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jht.2019.02.001_bib38",
+          "first-page": "136",
+          "article-title": "Scapholunate instability: proprioception and neuromuscular control",
+          "volume": "2",
+          "author": "Salva-Coll",
+          "year": "2013",
+          "journal-title": "J Wrist Surg"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jht.2019.02.001_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "553",
+          "DOI": "10.1177/1753193411407671",
+          "article-title": "Effects of forearm muscles on carpal stability",
+          "volume": "36",
+          "author": "Salva-Coll",
+          "year": "2011",
+          "journal-title": "J Hand Surg Eur"
+        }
+      ],
+      "container-title": [
+        "Journal of Hand Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0894113018300905?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0894113018300905?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            9,
+            13
+          ]
+        ],
+        "date-time": "2022-09-13T17:07:15Z",
+        "timestamp": 1663088835000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0894113018300905"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2020,
+            1
+          ]
+        ]
+      },
+      "references-count": 39,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0894113018300905"
+      ],
+      "URL": "https://doi.org/10.1016/j.jht.2019.02.001",
+      "relation": {},
+      "ISSN": [
+        "0894-1130"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0894-1130"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            1
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Effect of weight-bearing wrist movement with carpal-stabilizing taping on pain and range of motion in subjects with dorsal wrist pain: A randomized controlled trial",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Journal of Hand Therapy",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jht.2019.02.001",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2019 Hanley & Belfus, an imprint of Elsevier Inc. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

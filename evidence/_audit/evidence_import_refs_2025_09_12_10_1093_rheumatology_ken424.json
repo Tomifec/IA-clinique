@@ -1,0 +1,409 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1093_rheumatology_ken424.md",
+  "id": "evidence_import_refs_2025_09_12_10_1093_rheumatology_ken424",
+  "doi": "10.1093/rheumatology/ken424",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:28.012822Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            29
+          ]
+        ],
+        "date-time": "2025-08-29T10:10:54Z",
+        "timestamp": 1756462254745
+      },
+      "reference-count": 18,
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "1",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Rheumatology"
+      ],
+      "DOI": "10.1093/rheumatology/ken424",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2008,
+            12,
+            4
+          ]
+        ],
+        "date-time": "2008-12-04T08:48:33Z",
+        "timestamp": 1228380513000
+      },
+      "page": "74-77",
+      "source": "Crossref",
+      "is-referenced-by-count": 111,
+      "title": [
+        "Musculoskeletal pain is associated with a long-term increased risk of cancer and cardiovascular-related mortality"
+      ],
+      "prefix": "10.1093",
+      "volume": "48",
+      "author": [
+        {
+          "given": "J.",
+          "family": "McBeth",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "D. P.",
+          "family": "Symmons",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "A. J.",
+          "family": "Silman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "T.",
+          "family": "Allison",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "R.",
+          "family": "Webb",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "T.",
+          "family": "Brammah",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "G. J.",
+          "family": "Macfarlane",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "286",
+      "published-online": {
+        "date-parts": [
+          [
+            2008,
+            11,
+            23
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "2",
+          "key": "1_5554068",
+          "doi-asserted-by": "crossref",
+          "first-page": "160",
+          "DOI": "10.1002/art.1780330203",
+          "volume": "33",
+          "author": "Wolfe",
+          "year": "1990",
+          "journal-title": "Arthritis and rheumatism",
+          "ISSN": "http://id.crossref.org/issn/0004-3591",
+          "issn-type": "print"
+        },
+        {
+          "issue": "4",
+          "key": "2_17014726",
+          "doi-asserted-by": "publisher",
+          "first-page": "450",
+          "DOI": "10.1093/rheumatology/41.4.450",
+          "volume": "41",
+          "author": "Al-Allaf",
+          "year": "2002",
+          "journal-title": "Rheumatology",
+          "ISSN": "http://id.crossref.org/issn/0080-2727",
+          "issn-type": "print"
+        },
+        {
+          "issue": "3",
+          "key": "3_17140162",
+          "doi-asserted-by": "publisher",
+          "first-page": "194",
+          "DOI": "10.1007/s10067-002-8284-5",
+          "volume": "21",
+          "author": "Gursoy",
+          "year": "2002",
+          "journal-title": "Clinical rheumatology",
+          "ISSN": "http://id.crossref.org/issn/0770-3198",
+          "issn-type": "print"
+        },
+        {
+          "issue": "3",
+          "key": "4_17620869",
+          "doi-asserted-by": "crossref",
+          "first-page": "104",
+          "DOI": "10.1007/s00296-002-0260-5",
+          "volume": "23",
+          "author": "G  rsoy",
+          "year": "2003",
+          "journal-title": "Rheumatology international",
+          "ISSN": "http://id.crossref.org/issn/0172-8172",
+          "issn-type": "print"
+        },
+        {
+          "issue": "4",
+          "key": "5_18402717",
+          "doi-asserted-by": "crossref",
+          "first-page": "338",
+          "DOI": "10.1007/s10067-004-0927-2",
+          "volume": "23",
+          "author": "Frank",
+          "year": "2004",
+          "journal-title": "Clinical rheumatology",
+          "ISSN": "http://id.crossref.org/issn/0770-3198",
+          "issn-type": "print"
+        },
+        {
+          "issue": "4",
+          "key": "6_11120074",
+          "doi-asserted-by": "publisher",
+          "first-page": "940",
+          "DOI": "10.1002/1529-0131(200104)44:4<940::AID-ANR151>3.0.CO;2-S",
+          "volume": "44",
+          "author": "McBeth",
+          "year": "2001",
+          "journal-title": "Arthritis and rheumatism",
+          "ISSN": "http://id.crossref.org/issn/0004-3591",
+          "issn-type": "print"
+        },
+        {
+          "issue": "9",
+          "key": "7_16470113",
+          "first-page": "1617",
+          "volume": "23",
+          "author": "MacFarlane",
+          "year": "1996",
+          "journal-title": "The Journal of Rheumatology",
+          "ISSN": "http://id.crossref.org/issn/0315-162X",
+          "issn-type": "print"
+        },
+        {
+          "issue": "4",
+          "key": "8_16232248",
+          "doi-asserted-by": "crossref",
+          "first-page": "682",
+          "DOI": "10.1002/art.1780390422",
+          "volume": "39",
+          "author": "Kennedy",
+          "year": "1996",
+          "journal-title": "Arthritis and rheumatism",
+          "ISSN": "http://id.crossref.org/issn/0004-3591",
+          "issn-type": "print"
+        },
+        {
+          "issue": "7",
+          "key": "9_18245200",
+          "first-page": "1391",
+          "volume": "31",
+          "author": "Penrod",
+          "year": "2004",
+          "journal-title": "The Journal of Rheumatology",
+          "ISSN": "http://id.crossref.org/issn/0315-162X",
+          "issn-type": "print"
+        },
+        {
+          "issue": "7314",
+          "key": "10_11327995",
+          "doi-asserted-by": "publisher",
+          "first-page": "662",
+          "DOI": "10.1136/bmj.323.7314.662",
+          "volume": "323",
+          "author": "Macfarlane",
+          "year": "2001",
+          "journal-title": "BMJ",
+          "ISSN": "http://id.crossref.org/issn/0959-8138",
+          "issn-type": "print"
+        },
+        {
+          "issue": "6",
+          "key": "11_17665485",
+          "doi-asserted-by": "publisher",
+          "first-page": "1686",
+          "DOI": "10.1002/art.10973",
+          "volume": "48",
+          "author": "McBeth",
+          "year": "2003",
+          "journal-title": "Arthritis and rheumatism",
+          "ISSN": "http://id.crossref.org/issn/0004-3591",
+          "issn-type": "print"
+        },
+        {
+          "issue": "486",
+          "key": "12_17489007",
+          "first-page": "45",
+          "volume": "53",
+          "author": "Smith",
+          "year": "2003",
+          "journal-title": "The British journal of general practice : the journal of the Royal College of General Practitioners",
+          "ISSN": "http://id.crossref.org/issn/0960-1643",
+          "issn-type": "print"
+        },
+        {
+          "issue": "5",
+          "key": "13_23440708",
+          "doi-asserted-by": "publisher",
+          "first-page": "805",
+          "DOI": "10.1093/rheumatology/kel403",
+          "volume": "46",
+          "year": "2007",
+          "journal-title": "Rheumatology",
+          "ISSN": "http://id.crossref.org/issn/0080-2727",
+          "issn-type": "print"
+        },
+        {
+          "issue": "1",
+          "key": "14_23522041",
+          "first-page": "201",
+          "volume": "34",
+          "author": "Dreyer",
+          "year": "2007",
+          "journal-title": "The Journal of Rheumatology",
+          "ISSN": "http://id.crossref.org/issn/0315-162X",
+          "issn-type": "print"
+        },
+        {
+          "key": "15_32762326",
+          "doi-asserted-by": "crossref",
+          "first-page": "277",
+          "DOI": "10.1093/pubmed/fdh162",
+          "volume": "26",
+          "year": "2004",
+          "journal-title": "J PUBLIC HEALTH"
+        },
+        {
+          "issue": "11",
+          "key": "16_6302739",
+          "doi-asserted-by": "crossref",
+          "first-page": "649",
+          "DOI": "10.1136/ard.57.11.649",
+          "volume": "57",
+          "author": "Urwin",
+          "year": "1998",
+          "journal-title": "Annals of the Rheumatic Diseases",
+          "ISSN": "http://id.crossref.org/issn/0003-4967",
+          "issn-type": "print"
+        },
+        {
+          "key": "20_25122407",
+          "doi-asserted-by": "crossref",
+          "first-page": "395",
+          "DOI": "10.1002/1529-0131(199902)42:2<395::AID-ANR25>3.0.CO;2-K",
+          "volume": "42",
+          "year": "1999",
+          "journal-title": "Arthritis and rheumatism",
+          "ISSN": "http://id.crossref.org/issn/0004-3591",
+          "issn-type": "print"
+        },
+        {
+          "issue": "6796",
+          "key": "21_9561304",
+          "doi-asserted-by": "crossref",
+          "first-page": "216",
+          "DOI": "10.1136/bmj.303.6796.216",
+          "volume": "303",
+          "author": "M  kel  ",
+          "year": "1991",
+          "journal-title": "BMJ",
+          "ISSN": "http://id.crossref.org/issn/0959-8138",
+          "issn-type": "print"
+        }
+      ],
+      "container-title": [
+        "Rheumatology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://academic.oup.com/rheumatology/article-pdf/48/1/74/5064910/ken424.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            15
+          ]
+        ],
+        "date-time": "2019-02-15T22:12:46Z",
+        "timestamp": 1550268766000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://academic.oup.com/rheumatology/article-lookup/doi/10.1093/rheumatology/ken424"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2008,
+            11,
+            23
+          ]
+        ]
+      },
+      "references-count": 18,
+      "journal-issue": {
+        "issue": "1",
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              11,
+              23
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1093/rheumatology/ken424",
+      "relation": {},
+      "ISSN": [
+        "1462-0324",
+        "1462-0332"
+      ],
+      "issn-type": [
+        {
+          "value": "1462-0324",
+          "type": "print"
+        },
+        {
+          "value": "1462-0332",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2008,
+            11,
+            23
+          ]
+        ]
+      }
+    }
+  }
+}

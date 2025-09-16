@@ -1,0 +1,717 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_oem_2007_036046.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_oem_2007_036046",
+  "doi": "10.1136/oem.2007.036046",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:52.851728Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            23
+          ]
+        ],
+        "date-time": "2025-08-23T05:04:00Z",
+        "timestamp": 1755925440682
+      },
+      "reference-count": 86,
+      "publisher": "BMJ",
+      "issue": "8",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Occup Environ Med"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            8
+          ]
+        ]
+      },
+      "abstract": "<jats:sec><jats:title>Objectives:</jats:title><jats:p>To identify psychosocial predictors of failure to return to work in non-chronic (lasting less than 3 months) non-specific low back pain (NSLBP).</jats:p></jats:sec><jats:sec><jats:title>Methods:</jats:title><jats:p>A systematic review of prognostic studies was carried out. Medline, Embase, PsychINFO, CINAHL and PEDro electronic bibliographic databases up to April 2006 were searched. Included studies took baseline measures in the non-chronic phase of NSLBP (ie, within 3 months of onset), included at least one psychosocial variable and studied a sample in which at least 75% of participants had NSLBP. Baseline measures had to be used to predict at least one work-specific outcome.</jats:p></jats:sec><jats:sec><jats:title>Results:</jats:title><jats:p>The search identified 24 studies meeting the inclusion criteria. From these studies there is strong evidence that recovery expectation is predictive of work outcome and that depression, job satisfaction and stress/psychological strain are not predictive of work outcome. There is moderate evidence that fear avoidance beliefs are predictive of work outcome and that anxiety is not predictive of work outcome. There is insufficient evidence to determine whether compensation or locus of control are predictive of work outcome.</jats:p></jats:sec><jats:sec><jats:title>Conclusions:</jats:title><jats:p>To predict work outcome in non-chronic NSLBP, psychosocial assessment should focus on recovery expectation and fear avoidance. More research is needed to determine the best method of measuring these constructs and to determine how to intervene when a worker has low recovery expectations.</jats:p></jats:sec>",
+      "DOI": "10.1136/oem.2007.036046",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2008,
+            4,
+            17
+          ]
+        ],
+        "date-time": "2008-04-17T01:10:17Z",
+        "timestamp": 1208394617000
+      },
+      "page": "507-517",
+      "source": "Crossref",
+      "is-referenced-by-count": 218,
+      "title": [
+        "Psychosocial predictors of failure to return to work in non-chronic non-specific low back pain: a systematic review"
+      ],
+      "prefix": "10.1136",
+      "volume": "65",
+      "author": [
+        {
+          "given": "R A",
+          "family": "Iles",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "M",
+          "family": "Davidson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "N F",
+          "family": "Taylor",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2008,
+            4,
+            16
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2024052223462810000_65.8.507.1",
+          "unstructured": "Waddell G . The epidemiology of low back pain. In: The back pain revolution. 2nd ed. Edinburgh: Churchill Livingstone, 2004:27–44."
+        },
+        {
+          "key": "2024052223462810000_65.8.507.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmpt.2004.02.002"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1023/A:1020278708861"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1023/A:1009452019715"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2165/00115677-200109070-00001"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/09638280110066280"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.7",
+          "doi-asserted-by": "crossref",
+          "first-page": "439",
+          "DOI": "10.1007/s10926-006-9021-8",
+          "article-title": "Prediction of sickness absence in patients with chronic low back pain: a systematic review.",
+          "volume": "16",
+          "author": "Kuijer",
+          "year": "2006",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "issue": "(1)",
+          "key": "2024052223462810000_65.8.507.8",
+          "first-page": "e2",
+          "article-title": "Psychosocial factors at work in relation to low back pain and consequences of low back pain; a systematic, critical review of prospective cohort studies.",
+          "volume": "61",
+          "author": "Hartvigsen",
+          "year": "2004",
+          "journal-title": "Occup Environ Med"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1023/A:1016656225318"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.327.7410.323"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-200203010-00017"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.12",
+          "unstructured": "Waddell G Burton A K Main C J , eds. Screening to identify people at risk of long-term incapacity for work. London: Royal Society of Medicine Press, 2003."
+        },
+        {
+          "key": "2024052223462810000_65.8.507.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10926-005-8028-x"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1023/A:1009450102876"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/oem.2004.015842"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-199710150-00001"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.17",
+          "unstructured": "University of Rochester. Evidence-based filters for Ovid Medline (2002). Available from www.urmc.rochester.edu/hslt/miner/digital_library/tip_sheets/OVID_eb_filters.pdf (accessed 19 May 2008)."
+        },
+        {
+          "key": "2024052223462810000_65.8.507.18",
+          "unstructured": "Rutjes A Reitsma J Di Nisio M . Design related bias and sources of variation in diagnostic accuracy studies. 12th Cochrane Colloquium: Bridging the Gaps; 2–6 October 2004, Ottawa, Ontario, Canada; 2004. Available from http://www.cochrane.org/colloquia/abstracts/ottawa/O-012.htm (accessed 18 May 2008)."
+        },
+        {
+          "key": "2024052223462810000_65.8.507.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-144-6-200603210-00010"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.20",
+          "doi-asserted-by": "crossref",
+          "first-page": "258",
+          "DOI": "10.5271/sjweh.613",
+          "article-title": "Psychosocial work characteristics and psychological strain in relation to low-back pain.",
+          "volume": "27",
+          "author": "Hoogendoorn",
+          "year": "2001",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.21",
+          "doi-asserted-by": "crossref",
+          "first-page": "605",
+          "DOI": "10.1097/00007632-199106000-00001",
+          "article-title": "Identifying patients at risk of becoming disabled because of low-back pain. The Vermont Rehabilitation Engineering Center predictive model.",
+          "volume": "16",
+          "author": "Cats-Baril",
+          "year": "1991",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.308.6928.577"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10926-005-8037-9"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.24",
+          "doi-asserted-by": "crossref",
+          "first-page": "1103",
+          "DOI": "10.1097/00007632-199306150-00023",
+          "article-title": "Predicting long-term disability in low back injured workers presenting to a spine consultant.",
+          "volume": "18",
+          "author": "Lehmann",
+          "year": "1993",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-199502001-00012"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.26",
+          "doi-asserted-by": "crossref",
+          "first-page": "973",
+          "DOI": "10.1093/ptj/82.10.973",
+          "article-title": "Identifying psychosocial variables in patients with acute work-related low back pain: the importance of fear-avoidance beliefs.",
+          "volume": "82",
+          "author": "Fritz",
+          "year": "2002",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0304-3959(01)00333-5"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00002508-200501000-00005"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.29",
+          "first-page": "1557",
+          "article-title": "Psychosocial predictors of disability in patients with low back pain.",
+          "volume": "15",
+          "author": "Deyo",
+          "year": "1988",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.30",
+          "doi-asserted-by": "crossref",
+          "first-page": "1559",
+          "DOI": "10.1503/cmaj.1041159",
+          "article-title": "A clinical return-to-work rule for patients with back pain.",
+          "volume": "172",
+          "author": "Dionne",
+          "year": "2005",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-199512150-00011"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000190394.05359.c7"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-199806010-00004"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-199604150-00008"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/oem.53.7.488"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.BRS.0000099097.61495.2E"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.37",
+          "first-page": "483",
+          "article-title": "Clinical predictors of outcome of acute episodes of low back pain.",
+          "volume": "27",
+          "author": "Lanier",
+          "year": "1988",
+          "journal-title": "J Fam Pract"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.38",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1300/J094v05n02_02",
+          "article-title": "Early predictors of delayed return to work in patients with low back pain.",
+          "volume": "5",
+          "author": "Nordin",
+          "year": "1997",
+          "journal-title": "Journal of Musculoskeletal Pain"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0304-3959(94)90200-3"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2003.09.019"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00007632-200212010-00012"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000154628.37515.ef"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2005.04.003"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000202762.88787.af"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.45",
+          "doi-asserted-by": "crossref",
+          "first-page": "50",
+          "DOI": "10.5271/sjweh.383",
+          "article-title": "Prognostic factors for chronic disability from acute low-back pain in occupational health care.",
+          "volume": "25",
+          "author": "Van der Weide",
+          "year": "1999",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10926-005-5943-9"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.47",
+          "doi-asserted-by": "crossref",
+          "first-page": "1269",
+          "DOI": "10.1080/09638280500076269",
+          "article-title": "Concerns and expectations about returning to work with low back pain: identifying themes from focus groups and semi-structured interviews.",
+          "volume": "27",
+          "author": "Shaw",
+          "year": "2005",
+          "journal-title": "Disabil Rehabil"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.48",
+          "first-page": "174",
+          "article-title": "Does how you do depend on how you think you’ll do? A systematic review of the evidence for a relation between patients’ recovery expectations and health outcomes.",
+          "volume": "165",
+          "author": "Mondloch",
+          "year": "2001",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.jom.0000158706.96994.a5"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/art.21856"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/135485099106126"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.52",
+          "doi-asserted-by": "crossref",
+          "first-page": "173",
+          "DOI": "10.1007/s10926-006-9016-5",
+          "article-title": "Return to work expectation predicts work in chronic musculoskeletal and behavioral health disorders: prospective study with clinical implications.",
+          "volume": "16",
+          "author": "Heijbel",
+          "year": "2006",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.53",
+          "first-page": "749",
+          "article-title": "Listening to injured workers: how recovery expectations predict outcomes--a prospective study.",
+          "volume": "166",
+          "author": "Cole",
+          "year": "2002",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.54",
+          "doi-asserted-by": "crossref",
+          "first-page": "315",
+          "DOI": "10.1093/ptj/85.4.315",
+          "article-title": "Factors influencing results of functional capacity evaluations in workers’ compensation claimants with low back pain.",
+          "volume": "85",
+          "author": "Gross",
+          "year": "2005",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0304-3959(93)90127-B"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.56",
+          "unstructured": "Waddell G . Pain and disability. In: The back pain revolution. 2nd ed. Edinburgh: Churchill Livingstone, 2004:27–44."
+        },
+        {
+          "key": "2024052223462810000_65.8.507.57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1023/A:1026272721813"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.58",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1023/B:JOOR.0000022761.95103.f8"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.59",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2005.10.005"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.60",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.ajp.0000148626.84874.93"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.61",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2004.09.040"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.62",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.ajp.0000148627.92498.54"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.63",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1053/eujp.2002.0341"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.64",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0304-3959(99)00242-0"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.65",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ejpain.2004.12.007"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.66",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/art.22273"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.67",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00002508-199706000-00006"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.68",
+          "doi-asserted-by": "crossref",
+          "first-page": "63",
+          "DOI": "10.1007/s10926-005-9013-0",
+          "article-title": "Initial depression severity and the trajectory of recovery following cognitive-behavioral intervention for work disability.",
+          "volume": "16",
+          "author": "Sullivan",
+          "year": "2006",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.69",
+          "doi-asserted-by": "crossref",
+          "first-page": "4",
+          "DOI": "10.1017/S1121189X00001974",
+          "article-title": "Depression: major problem for public health.",
+          "volume": "15",
+          "author": "Paykel",
+          "year": "2006",
+          "journal-title": "Epidemiol Psichiatr Soc"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.70",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00043764-200207000-00007"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.71",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1176/appi.ps.52.12.1639"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.72",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1467-842X.2006.tb00859.x"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.73",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0160-2527(99)00018-7"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.74",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1539/joh.45.1"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.75",
+          "doi-asserted-by": "crossref",
+          "first-page": "85",
+          "DOI": "10.1179/ptr.2001.6.2.85",
+          "article-title": "Work motivating factors in rehabilitation: a brief review.",
+          "volume": "6",
+          "author": "Gard",
+          "year": "2001",
+          "journal-title": "Phys Ther Rev"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.76",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pri.129"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.77",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0277-9536(03)00131-X"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.78",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10926-005-8033-0"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.79",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/1076-8998.5.2.256"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.80",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/ajim.1112"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.81",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0160-2527(99)00024-2"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.82",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/bsl.687"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.83",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1023/A:1015012614484"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.84",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Karjalainen K Malmivaara A van Tulder M . Multidisciplinary biopsychosocial rehabilitation for subacute low back pain among working age adults. Cochrane Database Syst Rev 2003;(2):CD002193.",
+          "DOI": "10.1002/14651858.CD002193"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.85",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.berh.2005.03.003"
+        },
+        {
+          "key": "2024052223462810000_65.8.507.86",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(99)04149-5"
+        }
+      ],
+      "container-title": [
+        "Occupational and Environmental Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/oem.2007.036046",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            23
+          ]
+        ],
+        "date-time": "2024-05-23T08:18:25Z",
+        "timestamp": 1716452305000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://oem.bmj.com/lookup/doi/10.1136/oem.2007.036046"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2008,
+            4,
+            16
+          ]
+        ]
+      },
+      "references-count": 86,
+      "journal-issue": {
+        "issue": "8",
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              7,
+              24
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              8
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/oem.2007.036046"
+      ],
+      "URL": "https://doi.org/10.1136/oem.2007.036046",
+      "relation": {},
+      "ISSN": [
+        "1351-0711",
+        "1470-7926"
+      ],
+      "issn-type": [
+        {
+          "value": "1351-0711",
+          "type": "print"
+        },
+        {
+          "value": "1470-7926",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2008,
+            4,
+            16
+          ]
+        ]
+      }
+    }
+  }
+}

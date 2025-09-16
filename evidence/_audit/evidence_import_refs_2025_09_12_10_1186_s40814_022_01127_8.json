@@ -1,0 +1,889 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_s40814_022_01127_8.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_s40814_022_01127_8",
+  "doi": "10.1186/s40814-022-01127-8",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:20.361570Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            2
+          ]
+        ],
+        "date-time": "2025-05-02T17:51:39Z",
+        "timestamp": 1746208299776,
+        "version": "3.37.3"
+      },
+      "reference-count": 48,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                8,
+                3
+              ]
+            ],
+            "date-time": "2022-08-03T00:00:00Z",
+            "timestamp": 1659484800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                8,
+                3
+              ]
+            ],
+            "date-time": "2022-08-03T00:00:00Z",
+            "timestamp": 1659484800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100010983",
+          "name": "Health Research Fund of Central Denmark Region",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100010983",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100008368",
+          "name": "Gigtforeningen",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100008368",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100009910",
+          "name": "Hartmann Fonden",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100009910",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Pilot Feasibility Stud"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>Little is known about the feasibility of progressive shoulder exercises (PSE) for patients with glenohumeral osteoarthritis (OA) or rotator cuff tear arthropathy (CTA). The aim of this study was to investigate whether 12 weeks of PSE is feasible in patients with glenohumeral OA or CTA eligible for shoulder arthroplasty. Moreover, to report changes in shoulder function and range of motion (ROM) following the exercise program.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>Twenty patients were included. Eighteen patients (11 women, 15 with OA), mean age 70 years (range 57–80), performed 12 weeks of PSE with one weekly physiotherapist-supervised and two weekly home-based sessions. Feasibility was measured by dropout rate, adverse events, pain, and adherence to PSE. At baseline and end of intervention, patients completed the Western Ontario Osteoarthritis of the Shoulder (WOOS) score and Disabilities of the Arm, Shoulder and Hand (DASH). Data to assess feasibility were analyzed using descriptive statistics.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>Two patients dropped out and no adverse events were observed. Sixteen of the eighteen patients (89%) had a high adherence (≥ 70%) to the physiotherapist-supervised sessions. Acceptable pain levels were reported; in 76% of all exercise sessions with no numeric rating scale (NRS) score over five for any exercise. WOOS improved with a mean of 23 points (95% CI 13;33), and DASH improved with a mean of 13 points (95% CI 6;19).</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusion</jats:title>\n                <jats:p>Adherence to PSE was high and dropout rates were low. PSE is feasible, safe and may relieve shoulder pain, improve function and ROM in patients with glenohumeral OA or CTA. The patient-experienced gains after PSE seem clinically relevant and should be compared to arthroplasty surgery in a RCT setting.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Trial registration</jats:title>\n                <jats:p>According to Danish law, this study did not need an approval by the Central Denmark Region Committee on Health Research Ethics. Approval from The Danish Data Protection Agency (journal number 1-16-02-15-20) was obtained.</jats:p>\n              </jats:sec>",
+      "DOI": "10.1186/s40814-022-01127-8",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            8,
+            3
+          ]
+        ],
+        "date-time": "2022-08-03T08:07:53Z",
+        "timestamp": 1659514073000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 2,
+      "title": [
+        "Are progressive shoulder exercises feasible in patients with glenohumeral osteoarthritis or rotator cuff tear arthropathy?"
+      ],
+      "prefix": "10.1186",
+      "volume": "8",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-8290-350X",
+          "authenticated-orcid": false,
+          "given": "Josefine Beck",
+          "family": "Larsen",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Helle Kvistgaard",
+          "family": "Østergaard",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Theis Muncholm",
+          "family": "Thillemann",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Thomas",
+          "family": "Falstie-Jensen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lisa Cecilie Urup",
+          "family": "Reimer",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sidsel",
+          "family": "Noe",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Steen Lund",
+          "family": "Jensen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Inger",
+          "family": "Mechlenburg",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            8,
+            3
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "1127_CR1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Singh JA, Sperling J, Buchbinder R, McMaken K. Surgery for shoulder osteoarthritis. Cochrane Database Syst Rev.  J Rheumatol. 2011;38(4):598–605.",
+          "DOI": "10.3899/jrheum.101008"
+        },
+        {
+          "issue": "16",
+          "key": "1127_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "1674",
+          "DOI": "10.1080/09638288.2016.1207206",
+          "volume": "39",
+          "author": "SI Macias-Hernandez",
+          "year": "2017",
+          "unstructured": "Macias-Hernandez SI, Morones-Alba JD, Miranda-Duarte A, Coronado-Zarco R, Soria-Bastida MLA, Nava-Bringas T, et al. Glenohumeral osteoarthritis: overview, therapy, and rehabilitation. Disabil Rehabil. 2017;39(16):1674–82.",
+          "journal-title": "Disabil Rehabil"
+        },
+        {
+          "issue": "6",
+          "key": "1127_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "592",
+          "DOI": "10.1080/17453674.2017.1368884",
+          "volume": "88",
+          "author": "A Lübbeke",
+          "year": "2017",
+          "unstructured": "Lübbeke A, Rees JL, Barea C, Combescure C, Carr AJ, Silman AJ. International variation in shoulder arthroplasty. Acta Orthop. 2017;88(6):592–9.",
+          "journal-title": "Acta Orthop"
+        },
+        {
+          "issue": "6",
+          "key": "1127_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "340",
+          "DOI": "10.5435/00124635-200706000-00003",
+          "volume": "15",
+          "author": "KJ Ecklund",
+          "year": "2007",
+          "unstructured": "Ecklund KJ, Lee TQ, Tibone J, Gupta R. Rotator cuff tear arthropathy. J Am Acad Orthop Surg. 2007;15(6):340–9.",
+          "journal-title": "J Am Acad Orthop Surg"
+        },
+        {
+          "issue": "2",
+          "key": "1127_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "105",
+          "DOI": "10.1007/s12306-017-0474-z",
+          "volume": "101",
+          "author": "S Petrillo",
+          "year": "2017",
+          "unstructured": "Petrillo S, Longo UG, Papalia R, Denaro V. Reverse shoulder arthroplasty for massive irreparable rotator cuff tears and cuff tear arthropathy: a systematic review. Musculoskelet Surg. 2017;101(2):105–12.",
+          "journal-title": "Musculoskelet Surg"
+        },
+        {
+          "issue": "9",
+          "key": "1127_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "567",
+          "DOI": "10.14423/SMJ.0000000000000166",
+          "volume": "107",
+          "author": "TJ Menge",
+          "year": "2014",
+          "unstructured": "Menge TJ, Boykin RE, Byram IR, Bushnell BD. A comprehensive approach to glenohumeral arthritis. South Med J. 2014;107(9):567–73.",
+          "journal-title": "South Med J"
+        },
+        {
+          "issue": "6",
+          "key": "1127_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "375",
+          "DOI": "10.5435/00124635-201006000-00010",
+          "volume": "18",
+          "author": "R Izquierdo",
+          "year": "2010",
+          "unstructured": "Izquierdo R, Voloshin I, Edwards S, Freehill MQ, Stanwood W, Wiater JM, et al. Treatment of Glenohumeral Osteoarthritis. J Am Acad Orthop Surg. 2010;18(6):375–82.",
+          "journal-title": "J Am Acad Orthop Surg"
+        },
+        {
+          "key": "1127_CR8",
+          "volume-title": "Management of Glenohumeral joint osteoarthritis evidence-based clinical practice guideline",
+          "author": "American Academy of Orthopaedic Surgeons",
+          "year": "2020",
+          "unstructured": "American Academy of Orthopaedic Surgeons. Management of Glenohumeral joint osteoarthritis evidence-based clinical practice guideline 2020. https://www.orthoguidelines.org/topic?id=1031. Accessed 23 April 2020."
+        },
+        {
+          "issue": "6",
+          "key": "1127_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "863",
+          "DOI": "10.1016/j.jse.2008.04.005",
+          "volume": "17",
+          "author": "O Levy",
+          "year": "2008",
+          "unstructured": "Levy O, Mullett H, Roberts S, Copeland S. The role of anterior deltoid reeducation in patients with massive irreparable degenerative rotator cuff tears. J Shoulder Elb Surg. 2008;17(6):863–70.",
+          "journal-title": "J Shoulder Elb Surg"
+        },
+        {
+          "key": "1127_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "103",
+          "DOI": "10.1097/00003086-199309000-00013",
+          "volume": "294",
+          "author": "DJ Bokor",
+          "year": "1993",
+          "unstructured": "Bokor DJ, Hawkins RJ, Huckell GH, Angelo RL, Schickendantz MS. Results of nonoperative management of full-thickness tears of the rotator cuff. Clin Orthop Relat Res. 1993;294:103–10.",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "issue": "4 Suppl",
+          "key": "1127_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "S203",
+          "DOI": "10.1016/j.otsr.2015.03.001",
+          "volume": "101",
+          "author": "PG Collin",
+          "year": "2015",
+          "unstructured": "Collin PG, Gain S, Nguyen Huu F, Ladermann A. Is rehabilitation effective in massive rotator cuff tears? Orthop Traumatol Surg Res. 2015;101(4 Suppl):S203–5.",
+          "journal-title": "Orthop Traumatol Surg Res"
+        },
+        {
+          "key": "1127_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "252",
+          "DOI": "10.1186/s12891-016-1116-6",
+          "volume": "17",
+          "author": "BH Christensen",
+          "year": "2016",
+          "unstructured": "Christensen BH, Andersen KS, Rasmussen S, Andreasen EL, Nielsen LM, Jensen SL. Enhanced function and quality of life following 5 months of exercise therapy for patients with irreparable rotator cuff tears - an intervention study. BMC Musculoskelet Disord. 2016;17:252.",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "1127_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "165",
+          "DOI": "10.1097/00003086-199202000-00024",
+          "volume": "275",
+          "author": "E Itoi",
+          "year": "1992",
+          "unstructured": "Itoi E, Tabata S. Conservative treatment of rotator cuff tears. Clin Orthop Relat Res. 1992;275:165–73.",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "key": "1127_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "102597",
+          "DOI": "10.1016/j.msksp.2022.102597",
+          "volume": "61",
+          "author": "K Fahy",
+          "year": "2022",
+          "unstructured": "Fahy K, Galvin R, Lewis J, Mc CK. Exercise as effective as surgery in improving quality of life, disability, and pain for large to massive rotator cuff tears: a systematic review & meta-analysis. Musculoskelet Sci Pract. 2022;61:102597.",
+          "journal-title": "Musculoskelet Sci Pract"
+        },
+        {
+          "issue": "4",
+          "key": "1127_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "19",
+          "DOI": "10.3810/psm.2002.04.253",
+          "volume": "30",
+          "author": "DG Carfagno",
+          "year": "2002",
+          "unstructured": "Carfagno DG, Ellenbecker TS. Osteoarthritis of the glenohumeral joint: nonsurgical treatment options. Phys Sportsmed. 2002;30(4):19–30.",
+          "journal-title": "Phys Sportsmed"
+        },
+        {
+          "key": "1127_CR16",
+          "first-page": "9",
+          "volume": "10",
+          "author": "CB Ansok",
+          "year": "2018",
+          "unstructured": "Ansok CB, Muh SJ. Optimal management of glenohumeral osteoarthritis. Orthop Res Rev. 2018;10:9–18.",
+          "journal-title": "Orthop Res Rev"
+        },
+        {
+          "issue": "1",
+          "key": "1127_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "72",
+          "DOI": "10.1186/s12891-017-1439-y",
+          "volume": "18",
+          "author": "ST Skou",
+          "year": "2017",
+          "unstructured": "Skou ST, Roos EM. Good Life with osteoArthritis in Denmark (GLA:D™): evidence-based education and supervised neuromuscular exercise delivered by certified physiotherapists nationwide. BMC Musculoskelet Disord. 2017;18(1):72.",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "10",
+          "key": "1127_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "e051392",
+          "DOI": "10.1136/bmjopen-2021-051392",
+          "volume": "11",
+          "author": "T Frydendal",
+          "year": "2021",
+          "unstructured": "Frydendal T, Christensen R, Mechlenburg I, Mikkelsen LR, Overgaard S, Ingwersen KG. Total hip arthroplasty versus progressive resistance training in patients with severe hip osteoarthritis: protocol for a multicentre, parallel-group, randomised controlled superiority trial. BMJ Open. 2021;11(10):e051392.",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "issue": "1",
+          "key": "1127_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "349",
+          "DOI": "10.1186/s12891-018-2268-3",
+          "volume": "19",
+          "author": "SB Floyd",
+          "year": "2018",
+          "unstructured": "Floyd SB, Chapman CG, Shanley E, Ruffrage L, Matthia E, Cooper P, et al. A comparison of one-year treatment utilization for shoulder osteoarthritis patients initiating care with non-orthopaedic physicians and orthopaedic specialists. BMC Musculoskelet Disord. 2018;19(1):349.",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "4",
+          "key": "1127_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "456",
+          "DOI": "10.2106/00004623-198365040-00005",
+          "volume": "65",
+          "author": "RL Samilson",
+          "year": "1983",
+          "unstructured": "Samilson RL, Prieto V. Dislocation arthropathy of the shoulder. J Bone Joint Surg Am. 1983;65(4):456–60.",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "1127_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "92",
+          "DOI": "10.1097/00003086-199005000-00014",
+          "volume": "254",
+          "author": "K Hamada",
+          "year": "1990",
+          "unstructured": "Hamada K, Fukuda H, Mikasa M, Kobayashi Y. Roentgenographic findings in massive rotator cuff tears. A long-term observation. Clin Orthop Relat Res. 1990;254:92–6.",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "issue": "10",
+          "key": "1127_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "1514",
+          "DOI": "10.2522/ptj.20150668",
+          "volume": "96",
+          "author": "SC Slade",
+          "year": "2016",
+          "unstructured": "Slade SC, Dionne CE, Underwood M, Buchbinder R, Beck B, Bennell K, et al. Consensus on Exercise Reporting Template (CERT): Modified Delphi Study. Phys Ther. 2016;96(10):1514–24.",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "1127_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "303",
+          "DOI": "10.2340/17453674.2022.2043",
+          "volume": "93",
+          "author": "J Beck Larsen",
+          "year": "2022",
+          "unstructured": "Beck Larsen J, Thillemann TM, Launonen AP, Østergaard HK, Falstie-Jensen T, Reito A, et al. Study protocol: Prosthesis versus Active (ProAct) exercise program in patients with glenohumeral osteoarthritis — a multicenter, randomized controlled trial. Acta Orthop. 2022;93:303–16.",
+          "journal-title": "Acta Orthop"
+        },
+        {
+          "issue": "8",
+          "key": "1127_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "751",
+          "DOI": "10.2340/16501977-2371",
+          "volume": "50",
+          "author": "L Mortensen",
+          "year": "2018",
+          "unstructured": "Mortensen L, Schultz J, Elsner A, Jakobsen SS, Soballe K, Jacobsen JS, et al. Progressive resistance training in patients with hip dysplasia: a feasibility study. J Rehabil Med. 2018;50(8):751–8.",
+          "journal-title": "J Rehabil Med"
+        },
+        {
+          "key": "1127_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "97",
+          "DOI": "10.1186/s40814-020-00632-y",
+          "volume": "6",
+          "author": "B Liaghat",
+          "year": "2020",
+          "unstructured": "Liaghat B, Skou ST, Jørgensen U, Sondergaard J, Søgaard K, Juul-Kristensen B. Heavy shoulder strengthening exercise in people with hypermobility spectrum disorder (HSD) and long-lasting shoulder symptoms: a feasibility study. Pilot Feasibility Stud. 2020;6:97.",
+          "journal-title": "Pilot Feasibility Stud"
+        },
+        {
+          "key": "1127_CR26",
+          "unstructured": "Administration USFD. What is a Serious Adverse Event?. https://www.fda.gov/safety/reporting-serious-problems-fda/what-serious-adverse-event. Accessed 16 Apr 2021."
+        },
+        {
+          "issue": "10",
+          "key": "1127_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "1727",
+          "DOI": "10.1007/s11136-011-9903-x",
+          "volume": "20",
+          "author": "M Herdman",
+          "year": "2011",
+          "unstructured": "Herdman M, Gudex C, Lloyd A, Janssen M, Kind P, Parkin D, et al. Development and preliminary testing of the new five-level version of EQ-5D (EQ-5D-5L). Qual Life Res. 2011;20(10):1727–36.",
+          "journal-title": "Qual Life Res"
+        },
+        {
+          "key": "1127_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "49",
+          "DOI": "10.2147/PROM.S50976",
+          "volume": "4",
+          "author": "JV Rasmussen",
+          "year": "2013",
+          "unstructured": "Rasmussen JV, Jakobsen J, Olsen BS, Brorson S. Translation and validation of the Western Ontario Osteoarthritis of the Shoulder (WOOS) index - the Danish version. Patient Relat Outcome Meas. 2013;4:49–54.",
+          "journal-title": "Patient Relat Outcome Meas"
+        },
+        {
+          "key": "1127_CR29",
+          "doi-asserted-by": "publisher",
+          "first-page": "2090",
+          "DOI": "10.2106/JBJS.G.00793",
+          "volume": "90",
+          "author": "A Lindenhovius",
+          "year": "2008",
+          "unstructured": "Lindenhovius A, Buijze G, Kloen P, Ring D. Correspondence between perceived disability and objective physical impairment after elbow trauma. J Bone Joint Surg Am. 2008;90:2090–7.",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "issue": "3",
+          "key": "1127_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "277",
+          "DOI": "10.2106/JBJS.J.01744",
+          "volume": "94",
+          "author": "MV Smith",
+          "year": "2012",
+          "unstructured": "Smith MV, Calfee RP, Baumgarten KM, Brophy RH, Wright RW. Upper extremity-specific measures of disability and outcomes in orthopaedic surgery. J Bone Joint Surg Am. 2012;94(3):277–85.",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "issue": "6",
+          "key": "1127_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "717",
+          "DOI": "10.1016/j.jse.2007.02.123",
+          "volume": "16",
+          "author": "MK Gilbart",
+          "year": "2007",
+          "unstructured": "Gilbart MK, Gerber C. Comparison of the subjective shoulder value and the Constant score. J Shoulder Elb Surg. 2007;16(6):717–21.",
+          "journal-title": "J Shoulder Elb Surg"
+        },
+        {
+          "issue": "6",
+          "key": "1127_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "413",
+          "DOI": "10.1179/1743288X11Y.0000000023",
+          "volume": "16",
+          "author": "WJ Hanney",
+          "year": "2011",
+          "unstructured": "Hanney WJ, Kolber MJ, Marshall JS. The reliability of clinical measurements designed to quantify shoulder mobility. Phys Ther Rev. 2011;16(6):413–22.",
+          "journal-title": "Phys Ther Rev"
+        },
+        {
+          "issue": "3",
+          "key": "1127_CR33",
+          "first-page": "306",
+          "volume": "7",
+          "author": "MJ Kolber",
+          "year": "2012",
+          "unstructured": "Kolber MJ, Hanney WJ. The reliability and concurrent validity of shoulder mobility measurements using a digital inclinometer and goniometer: a technical report. Int J Sports Phys Ther. 2012;7(3):306–13.",
+          "journal-title": "Int J Sports Phys Ther"
+        },
+        {
+          "key": "1127_CR34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1787/9789264228368-en",
+          "volume-title": "ISCED 2011 operational manual: guidelines for classifying national education programmes and related qualifications",
+          "author": "OECD/Eurostat/UNESCO Institute for Statistics",
+          "year": "2015",
+          "unstructured": "OECD/Eurostat/UNESCO Institute for Statistics. ISCED 2011 operational manual: guidelines for classifying national education programmes and related qualifications. Paris: OECD Publishing; 2015. https://doi.org/10.1787/9789264228368-en"
+        },
+        {
+          "issue": "2",
+          "key": "1127_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "298",
+          "DOI": "10.1016/j.jse.2017.09.013",
+          "volume": "27",
+          "author": "R Simovitch",
+          "year": "2018",
+          "unstructured": "Simovitch R, Flurin PH, Wright T, Zuckerman JD, Roche CP. Quantifying success after total shoulder arthroplasty: the minimal clinically important difference. J Shoulder Elb Surg. 2018;27(2):298–305.",
+          "journal-title": "J Shoulder Elb Surg"
+        },
+        {
+          "issue": "1",
+          "key": "1127_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "144",
+          "DOI": "10.1016/j.jse.2016.06.007",
+          "volume": "26",
+          "author": "RZ Tashjian",
+          "year": "2017",
+          "unstructured": "Tashjian RZ, Hung M, Keener JD, Bowen RC, McAllister J, Chen W, et al. Determining the minimal clinically important difference for the American Shoulder and Elbow Surgeons score, Simple Shoulder Test, and visual analog scale (VAS) measuring pain after shoulder arthroplasty. J Shoulder Elb Surg. 2017;26(1):144–8.",
+          "journal-title": "J Shoulder Elb Surg"
+        },
+        {
+          "key": "1127_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "299",
+          "DOI": "10.2147/PROM.S316920",
+          "volume": "12",
+          "author": "MRK Nyring",
+          "year": "2021",
+          "unstructured": "Nyring MRK, Olsen BS, Amundsen A, Rasmussen JV. Minimal Clinically Important Differences (MCID) for the Western Ontario Osteoarthritis of the Shoulder Index (WOOS) and the Oxford Shoulder Score (OSS). Patient Relat Outcome Meas. 2021;12:299–306.",
+          "journal-title": "Patient Relat Outcome Meas"
+        },
+        {
+          "issue": "3",
+          "key": "1127_CR38",
+          "first-page": "98",
+          "volume": "5",
+          "author": "SW Muir",
+          "year": "2010",
+          "unstructured": "Muir SW, Corea CL, Beaupre L. Evaluating change in clinical status: reliability and measures of agreement for the assessment of glenohumeral range of motion. N Am J Sports Phys Ther. 2010;5(3):98–110.",
+          "journal-title": "N Am J Sports Phys Ther"
+        },
+        {
+          "issue": "8",
+          "key": "1127_CR39",
+          "doi-asserted-by": "publisher",
+          "first-page": "671",
+          "DOI": "10.1097/PHM.0000000000001169",
+          "volume": "98",
+          "author": "DI Dabija",
+          "year": "2019",
+          "unstructured": "Dabija DI, Jain NB. Minimal clinically important difference of shoulder outcome measures and diagnoses: a systematic review. Am J Phys Med Rehabil. 2019;98(8):671–6.",
+          "journal-title": "Am J Phys Med Rehabil"
+        },
+        {
+          "issue": "1",
+          "key": "1127_CR40",
+          "doi-asserted-by": "publisher",
+          "first-page": "111",
+          "DOI": "10.1017/S0714980818000454",
+          "volume": "38",
+          "author": "EM Shellington",
+          "year": "2019",
+          "unstructured": "Shellington EM, Gill DP, Shigematsu R, Petrella RJ. Innovative exercise as an intervention for older adults with knee osteoarthritis: a pilot feasibility study. Can J Aging. 2019;38(1):111–21.",
+          "journal-title": "Can J Aging"
+        },
+        {
+          "issue": "2",
+          "key": "1127_CR41",
+          "doi-asserted-by": "publisher",
+          "first-page": "211",
+          "DOI": "10.1016/j.joca.2017.11.005",
+          "volume": "26",
+          "author": "AM Davis",
+          "year": "2018",
+          "unstructured": "Davis AM, Kennedy D, Wong R, Robarts S, Skou ST, McGlasson R, et al. Cross-cultural adaptation and implementation of Good Life with osteoarthritis in Denmark (GLA:D™): group education and exercise for hip and knee osteoarthritis is feasible in Canada. Osteoarthr Cartil. 2018;26(2):211–9.",
+          "journal-title": "Osteoarthr Cartil"
+        },
+        {
+          "issue": "12",
+          "key": "1127_CR42",
+          "first-page": "A4554",
+          "volume": "59",
+          "author": "ST Skou",
+          "year": "2012",
+          "unstructured": "Skou ST, Odgaard A, Rasmussen JO, Roos EM. Group education and exercise is feasible in knee and hip osteoarthritis. Dan Med J. 2012;59(12):A4554.",
+          "journal-title": "Dan Med J"
+        },
+        {
+          "issue": "4",
+          "key": "1127_CR43",
+          "doi-asserted-by": "publisher",
+          "first-page": "589",
+          "DOI": "10.1016/j.joca.2015.11.002",
+          "volume": "24",
+          "author": "LF Sandal",
+          "year": "2016",
+          "unstructured": "Sandal LF, Roos EM, Bøgesvang SJ, Thorlund JB. Pain trajectory and exercise-induced pain flares during 8 weeks of neuromuscular exercise in individuals with knee and hip pain. Osteoarthr Cartil. 2016;24(4):589–92.",
+          "journal-title": "Osteoarthr Cartil"
+        },
+        {
+          "issue": "1",
+          "key": "1127_CR44",
+          "doi-asserted-by": "publisher",
+          "first-page": "31",
+          "DOI": "10.1186/s40814-021-00767-6",
+          "volume": "7",
+          "author": "DH Major",
+          "year": "2021",
+          "unstructured": "Major DH, Grotle M, Littlewood C, Brox JI, Matre D, Gallet HV, et al. Adherence to self-managed exercises for patients with persistent subacromial pain: the Ad-Shoulder feasibility study. Pilot Feasibility Stud. 2021;7(1):31.",
+          "journal-title": "Pilot Feasibility Stud"
+        },
+        {
+          "issue": "5",
+          "key": "1127_CR45",
+          "doi-asserted-by": "publisher",
+          "first-page": "501",
+          "DOI": "10.1080/17453674.2021.1969155",
+          "volume": "92",
+          "author": "I Harris",
+          "year": "2021",
+          "unstructured": "Harris I. When the placebo effect is not an effect. Acta Orthop. 2021;92(5):501–2.",
+          "journal-title": "Acta Orthop"
+        },
+        {
+          "issue": "6",
+          "key": "1127_CR46",
+          "doi-asserted-by": "publisher",
+          "first-page": "e492",
+          "DOI": "10.3928/01477447-20200812-03",
+          "volume": "43",
+          "author": "RN Puzzitiello",
+          "year": "2020",
+          "unstructured": "Puzzitiello RN, Nwachukwu BU, Agarwalla A, Cvetanovich GL, Chahla J, Romeo AA, et al. Patient Satisfaction After Total Shoulder Arthroplasty. Orthopedics. 2020;43(6):e492–e7.",
+          "journal-title": "Orthopedics."
+        },
+        {
+          "issue": "3",
+          "key": "1127_CR47",
+          "doi-asserted-by": "publisher",
+          "first-page": "484",
+          "DOI": "10.1016/j.jse.2008.11.003",
+          "volume": "18",
+          "author": "BT Feeley",
+          "year": "2009",
+          "unstructured": "Feeley BT, Gallo RA, Craig EV. Cuff tear arthropathy: current trends in diagnosis and surgical management. J Shoulder Elb Surg. 2009;18(3):484–94.",
+          "journal-title": "J Shoulder Elb Surg"
+        },
+        {
+          "key": "1127_CR48",
+          "volume-title": "Annual Report",
+          "author": "Danish Shoulder Arthroplasty Registry (DSR)",
+          "year": "2020",
+          "unstructured": "Danish Shoulder Arthroplasty Registry (DSR). Annual Report 2020. https://www.sundhed.dk/content/cms/3/4703_dsr_aarsrapport2020_offentliggoerelse.pdf. Accessed 11 May 2021."
+        }
+      ],
+      "container-title": [
+        "Pilot and Feasibility Studies"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/s40814-022-01127-8.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1186/s40814-022-01127-8/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1186/s40814-022-01127-8.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            8,
+            3
+          ]
+        ],
+        "date-time": "2022-08-03T10:05:51Z",
+        "timestamp": 1659521151000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://pilotfeasibilitystudies.biomedcentral.com/articles/10.1186/s40814-022-01127-8"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            8,
+            3
+          ]
+        ]
+      },
+      "references-count": 48,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "1127"
+      ],
+      "URL": "https://doi.org/10.1186/s40814-022-01127-8",
+      "relation": {},
+      "ISSN": [
+        "2055-5784"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2055-5784"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            8,
+            3
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "22 February 2022",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "15 July 2022",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "3 August 2022",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Declarations"
+          }
+        },
+        {
+          "value": "The study did not require ethics approval from The Central Denmark Region Committee on Health Research Ethics (journal number 1-10-72-286-19). Approval from The Danish Data Protection Agency (journal number 1-16-02-15-20) was obtained. All patients gave written informed consent prior to inclusion.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethics approval and consent to participate"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Consent for publication"
+          }
+        },
+        {
+          "value": "The authors declare no competing interests.",
+          "order": 4,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        }
+      ],
+      "article-number": "168"
+    }
+  }
+}

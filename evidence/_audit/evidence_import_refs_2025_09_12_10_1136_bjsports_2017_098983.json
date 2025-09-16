@@ -1,0 +1,751 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_bjsports_2017_098983.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_bjsports_2017_098983",
+  "doi": "10.1136/bjsports-2017-098983",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:48.581347Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            31
+          ]
+        ],
+        "date-time": "2025-08-31T23:22:35Z",
+        "timestamp": 1756682555527,
+        "version": "3.37.3"
+      },
+      "reference-count": 83,
+      "publisher": "BMJ",
+      "issue": "14",
+      "funder": [
+        {
+          "DOI": "10.13039/501100000272",
+          "name": "National Institute for Health Research",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100000272",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Br J Sports Med"
+      ],
+      "accepted": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            30
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1136/bjsports-2017-098983",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            20
+          ]
+        ],
+        "date-time": "2018-06-20T16:34:33Z",
+        "timestamp": 1529512473000
+      },
+      "page": "907-912",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 113,
+      "title": [
+        "Musculoskeletal pain and exercise—challenging existing paradigms and introducing new"
+      ],
+      "prefix": "10.1136",
+      "volume": "53",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4723-0028",
+          "authenticated-orcid": false,
+          "given": "Benjamin E",
+          "family": "Smith",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Paul",
+          "family": "Hendrick",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3203-506X",
+          "authenticated-orcid": false,
+          "given": "Marcus",
+          "family": "Bateman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sinead",
+          "family": "Holden",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7703-727X",
+          "authenticated-orcid": false,
+          "given": "Chris",
+          "family": "Littlewood",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Toby O",
+          "family": "Smith",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Pip",
+          "family": "Logan",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            20
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2024100707100555000_53.14.907.1",
+          "first-page": "CD011279",
+          "article-title": "Physical activity and exercise for chronic pain in adults: an overview of Cochrane Reviews",
+          "volume": "1",
+          "author": "Geneen",
+          "year": "2017",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.2",
+          "doi-asserted-by": "crossref",
+          "first-page": "413",
+          "DOI": "10.1002/msc.1191",
+          "article-title": "Exercise for chronic musculoskeletal pain: a biopsychosocial approach",
+          "volume": "15",
+          "author": "Booth",
+          "year": "2017",
+          "journal-title": "Musculoskeletal Care"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.3",
+          "doi-asserted-by": "crossref",
+          "first-page": "ES205",
+          "DOI": "10.36076/ppj.2012/15/ES205",
+          "article-title": "Dysfunctional endogenous analgesia during exercise in patients with chronic pain: to exercise or not to exercise?",
+          "volume": "15",
+          "author": "Nijs",
+          "year": "2012",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsports-2016-097383"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.5",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0070921",
+          "article-title": "Basolateral amygdala lesion inhibits the development of pain chronicity in neuropathic pain rats",
+          "volume": "8",
+          "author": "Li",
+          "year": "2013",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jpain.2008.08.012"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.bbi.2014.06.201"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.1009164107"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.9",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Thacker M , Moseley L . Pathophysiological mechanisms of chronic pain. In: Corns J , ed. The routledge handbook of philosophy of pain. Routledge. 1st edn, 2017:124–39.",
+          "DOI": "10.4324/9781315742205-11"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1152/physrev.00025.2008"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.berh.2010.01.013"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0304-3959(79)90049-6"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nrrheum.2010.107"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.14",
+          "unstructured": "Merskey H , Bogduk N . IASP taxonomy. Updat. from Pain Terms, A Curr. List with Defin. Notes Usage. Classif. Chronic Pain. 2nd edn. Taxon: IASP Task Force, 2012:209–14."
+        },
+        {
+          "key": "2024100707100555000_53.14.907.15",
+          "doi-asserted-by": "crossref",
+          "first-page": "S24",
+          "DOI": "10.1097/01.j.pain.0000460343.46847.58",
+          "article-title": "Role of endogenous pain modulation in chronic pain mechanisms and treatment",
+          "volume": "156 Suppl 1",
+          "author": "Yarnitsky",
+          "year": "2015",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1113/jphysiol.2007.140509"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bjsm.32.1.20"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1073858403259950"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00018-007-6494-3"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.expneurol.2011.09.038"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nrn1700"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/PSY.0b013e318185c510"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11920-008-0051-0"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1172/JCI43766"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1586/ern.09.34"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2007.03.002"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0956797614563339"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2013.09.014"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2010.344"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1179/108331907X223010"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.31",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Miles CL , Pincus T , Carnes D , et al . Can we identify how programmes aimed at promoting self-management in musculoskeletal pain work and who benefits? A systematic review of sub-group analysis within RCTs. Eur J Pain 2011;15.doi:10.1016/j.ejpain.2011.01.016",
+          "DOI": "10.1016/j.ejpain.2011.01.016"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0033-2909.125.3.356"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0304-3959(98)00229-2"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0304-3959(94)90169-4"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0022-3999(93)90145-6"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0005-7967(09)80006-5"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0304-3959(01)00356-6"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0304-3959(98)00060-8"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00002508-200103000-00008"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.40",
+          "doi-asserted-by": "crossref",
+          "first-page": "1792",
+          "DOI": "10.1016/j.pain.2013.05.040",
+          "article-title": "Increased power spectral density in resting-state pain-related brain networks in fibromyalgia",
+          "volume": "154",
+          "author": "Kim",
+          "year": "2013",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hbm.22199"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.42",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0051149",
+          "article-title": "Fear conditioning in an abdominal pain model: neural responses during associative learning and extinction in healthy subjects",
+          "volume": "8",
+          "author": "Kattoor",
+          "year": "2013",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.2044-8287.1998.tb00556.x"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/14768320600941756"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.45",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2013-003452",
+          "article-title": "A qualitative study of patients' perceptions and priorities when living with primary frozen shoulder",
+          "volume": "3",
+          "author": "Jones",
+          "year": "2013",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.46",
+          "doi-asserted-by": "crossref",
+          "first-page": "167",
+          "DOI": "10.1146/annurev-neuro-072116-031132",
+          "article-title": "The cognitive neuroscience of placebo effects: concepts, predictions, and physiology",
+          "volume": "40",
+          "author": "Geuter",
+          "year": "2017",
+          "journal-title": "Annu Rev Neurosci"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.47",
+          "unstructured": "Heinricher MM , Fields HL . Central nervous system mechanisms of pain modulation. Wall &  Melzack’s textbook of pain. Philadelphia: Elsevier Health Sciences, 2013:129–42."
+        },
+        {
+          "key": "2024100707100555000_53.14.907.48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.math.2014.07.004"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/AJP.0000000000000098"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.50",
+          "doi-asserted-by": "crossref",
+          "first-page": "636",
+          "DOI": "10.1016/j.pain.2011.11.024",
+          "article-title": "Similar alteration of motor unit recruitment strategies during the anticipation and experience of pain",
+          "volume": "153",
+          "author": "Tucker",
+          "year": "2012",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1249/01.MSS.0000053727.63505.D4"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cpr.2007.01.003"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0304-3940(93)90241-C"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.54",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1038/nature01138",
+          "article-title": "Neurons in medial prefrontal cortex signal memory for fear extinction",
+          "volume": "420",
+          "author": "Milad",
+          "year": "2002",
+          "journal-title": "Nature"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/archpsyc.61.2.168"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.56",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2013.07.013"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cpr.2004.08.005"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.58",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2165/00007256-199111030-00002"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.59",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jpain.2012.09.006"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.60",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jpain.2014.09.006"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.61",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jpain.2012.07.005"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.62",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.HYP.28.3.494"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.63",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.HYP.28.3.494"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.64",
+          "doi-asserted-by": "crossref",
+          "first-page": "371",
+          "DOI": "10.1007/s00421-007-0469-9",
+          "article-title": "The effect of physical therapy on beta-endorphin levels",
+          "volume": "100",
+          "author": "Bender",
+          "year": "2007",
+          "journal-title": "Eur J Appl Physiol"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.65",
+          "first-page": "279",
+          "article-title": "Endogenous opioid analgesia in peripheral tissues and the clinical implications for pain control",
+          "volume": "1",
+          "author": "Kapitzke",
+          "year": "2005",
+          "journal-title": "Ther Clin Risk Manag"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.66",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/gut.2003.028514"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.67",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ccl.2004.06.007"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.68",
+          "first-page": "41",
+          "article-title": "Reversing age-associated immunosenescence via exercise",
+          "volume": "10",
+          "author": "Kohut",
+          "year": "2004",
+          "journal-title": "Exerc Immunol Rev"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.69",
+          "doi-asserted-by": "crossref",
+          "first-page": "419",
+          "DOI": "10.1139/h04-027",
+          "article-title": "Natural killer cells and exercise training in the elderly: a review",
+          "volume": "29",
+          "author": "DiPenta",
+          "year": "2004",
+          "journal-title": "Can J Appl Physiol"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.70",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1523/JNEUROSCI.08-07-02517.1988"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.71",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.0438019100"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.72",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.amjcard.2007.11.006"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.73",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/brain/awl299"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.74",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/brain/awm131"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.75",
+          "doi-asserted-by": "crossref",
+          "first-page": "485",
+          "DOI": "10.1076/0360-5310(200008)25:4;1-A;FT485",
+          "article-title": "Mind-body dualism and the biopsychosocial model of pain: what did Descartes really say?",
+          "volume": "25",
+          "author": "Duncan",
+          "year": "2000",
+          "journal-title": "J Med Philos"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.76",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2010.06.003"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.77",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2003.05.001"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.78",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00002508-200112000-00004"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.79",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/AJP.0b013e31826f9a71"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.80",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.math.2013.07.005"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.81",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/AJP.0b013e3181658170"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.82",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ejpain.2006.10.007"
+        },
+        {
+          "key": "2024100707100555000_53.14.907.83",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2013.4383"
+        }
+      ],
+      "container-title": [
+        "British Journal of Sports Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bjsports-2017-098983",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            10,
+            7
+          ]
+        ],
+        "date-time": "2024-10-07T18:35:58Z",
+        "timestamp": 1728326158000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bjsm.bmj.com/lookup/doi/10.1136/bjsports-2017-098983"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            20
+          ]
+        ]
+      },
+      "references-count": 83,
+      "journal-issue": {
+        "issue": "14",
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              6,
+              27
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              7
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bjsports-2017-098983"
+      ],
+      "URL": "https://doi.org/10.1136/bjsports-2017-098983",
+      "relation": {
+        "has-review": [
+          {
+            "id-type": "doi",
+            "id": "10.3410/f.733499649.793551757",
+            "asserted-by": "object"
+          }
+        ]
+      },
+      "ISSN": [
+        "0306-3674",
+        "1473-0480"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0306-3674"
+        },
+        {
+          "type": "electronic",
+          "value": "1473-0480"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            20
+          ]
+        ]
+      }
+    }
+  }
+}

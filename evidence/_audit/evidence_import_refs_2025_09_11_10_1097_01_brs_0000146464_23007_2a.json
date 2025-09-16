@@ -1,0 +1,690 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1097_01_brs_0000146464_23007_2a.md",
+  "id": "evidence_import_refs_2025_09_11_10_1097_01_brs_0000146464_23007_2a",
+  "doi": "10.1097/01.brs.0000146464.23007.2a",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:47.902075Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            23
+          ]
+        ],
+        "date-time": "2025-08-23T05:00:52Z",
+        "timestamp": 1755925252752
+      },
+      "reference-count": 57,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "23",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Spine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2004,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1097/01.brs.0000146464.23007.2a",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2004,
+            11,
+            24
+          ]
+        ],
+        "date-time": "2004-11-24T09:01:02Z",
+        "timestamp": 1101286862000
+      },
+      "page": "2593-2602",
+      "source": "Crossref",
+      "is-referenced-by-count": 359,
+      "title": [
+        "Does it Matter Which Exercise?"
+      ],
+      "prefix": "10.1097",
+      "volume": "29",
+      "author": [
+        {
+          "given": "Audrey",
+          "family": "Long",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Ron",
+          "family": "Donelson",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tak",
+          "family": "Fung",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "276",
+      "reference": [
+        {
+          "key": "R2-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1572",
+          "DOI": "10.1136/bmj.302.6792.1572",
+          "volume": "302",
+          "author": "Koes",
+          "year": "1991",
+          "journal-title": "Br Med J"
+        },
+        {
+          "key": "R3-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "16",
+          "DOI": "10.1097/00007632-198709001-00007",
+          "volume": "12",
+          "author": "Spitzer",
+          "year": "1987",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R4-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2784",
+          "DOI": "10.1097/00007632-200011010-00011",
+          "volume": "25",
+          "author": "van Tulder",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R5-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2128",
+          "DOI": "10.1097/00007632-199709150-00012",
+          "volume": "22",
+          "author": "van Tulder",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R6-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1097/00007632-200002151-00001",
+          "volume": "25",
+          "author": "Abenhaim",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R7-2-20160304",
+          "author": "Bigos",
+          "year": "1994"
+        },
+        {
+          "key": "R8-2-20160304",
+          "author": "",
+          "year": "1996, 1999"
+        },
+        {
+          "key": "R9-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "219",
+          "DOI": "10.1093/ptj/74.3.219",
+          "volume": "74",
+          "author": "Battie",
+          "year": "1994",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "R10-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1332",
+          "DOI": "10.1097/00007632-199907010-00011",
+          "volume": "24",
+          "author": "Foster",
+          "year": "1999",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R11-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1142",
+          "DOI": "10.1097/00007632-200206010-00003",
+          "volume": "27",
+          "author": "Hsieh",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R12-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2303",
+          "DOI": "10.1097/00007632-199511000-00008",
+          "volume": "20",
+          "author": "Dettori",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R13-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "967",
+          "DOI": "10.1097/00007632-199108000-00018",
+          "volume": "16",
+          "author": "Elnaggar",
+          "year": "1991",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R14-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "228",
+          "DOI": "10.1097/00007632-199501150-00021",
+          "volume": "20",
+          "author": "Koes",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R15-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "216",
+          "DOI": "10.1093/ptj/73.4.216",
+          "volume": "73",
+          "author": "Delitto",
+          "year": "1993",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "R16-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1093",
+          "DOI": "10.1093/ptj/74.12.1093",
+          "volume": "74",
+          "author": "Erhard",
+          "year": "1994",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "R17-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "106",
+          "DOI": "10.1097/00007632-200001010-00018",
+          "volume": "25",
+          "author": "Fritz",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R18-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "211",
+          "DOI": "10.1097/00003086-198601000-00028",
+          "volume": "202",
+          "author": "Kopp",
+          "year": "1986",
+          "journal-title": "Clin Orthop"
+        },
+        {
+          "key": "R19-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2959",
+          "DOI": "10.1097/00007632-199712150-00020",
+          "volume": "22",
+          "author": "O’Sullivan",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R20-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "96",
+          "DOI": "10.1097/00007632-199002000-00009",
+          "volume": "15",
+          "author": "Spratt",
+          "year": "1990",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R21-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1992",
+          "DOI": "10.1097/00007632-199809150-00016",
+          "volume": "23",
+          "author": "Borkan",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R22-2-20160304",
+          "first-page": "1215",
+          "volume": "28",
+          "author": "Bouter",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R23-2-20160304",
+          "author": "McKenzie",
+          "year": "2003"
+        },
+        {
+          "key": "R24-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "57",
+          "DOI": "10.1016/S0003-9993(00)90222-3",
+          "volume": "81",
+          "author": "Fritz",
+          "year": "2000",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "R25-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "579",
+          "DOI": "10.1016/S0031-9406(10)63053-2",
+          "volume": "76",
+          "author": "Kilby",
+          "year": "1990",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "R26-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "E207",
+          "DOI": "10.1097/00007632-200204150-00016",
+          "volume": "27",
+          "author": "Kilpikoski",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R27-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "368",
+          "DOI": "10.2519/jospt.2000.30.7.368",
+          "volume": "30",
+          "author": "Razmjou",
+          "year": "2000",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "R28-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1839",
+          "DOI": "10.1097/00007632-199310000-00020",
+          "volume": "18",
+          "author": "Spratt",
+          "year": "1993",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R29-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "676",
+          "DOI": "10.1097/00007632-199904010-00012",
+          "volume": "24",
+          "author": "Werneke",
+          "year": "1999",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R30-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "248",
+          "DOI": "10.1097/00007632-199902010-00009",
+          "volume": "24",
+          "author": "Wilson",
+          "year": "1999",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R31-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1115",
+          "DOI": "10.1097/00007632-199705150-00011",
+          "volume": "22",
+          "author": "Donelson",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R32-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "211",
+          "DOI": "10.1097/00007632-199003000-00010",
+          "volume": "15",
+          "author": "Donelson",
+          "year": "1990",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R33-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "354",
+          "DOI": "10.1093/ptj/77.4.354",
+          "volume": "77",
+          "author": "Karas",
+          "year": "1997",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "R34-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2513",
+          "DOI": "10.1097/00007632-199512000-00010",
+          "volume": "20",
+          "author": "Long",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R35-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "205",
+          "DOI": "10.2519/jospt.1998.27.3.205",
+          "volume": "27",
+          "author": "Sufka",
+          "year": "1998",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "R36-2-20160304",
+          "author": "Donelson",
+          "year": "1991"
+        },
+        {
+          "key": "R37-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "206",
+          "DOI": "10.1097/00007632-199106001-00006",
+          "volume": "16",
+          "author": "Donelson",
+          "year": "1991",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R38-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2601",
+          "DOI": "10.1097/00007632-199812010-00015",
+          "volume": "23",
+          "author": "Snook",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R39-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1185",
+          "DOI": "10.1097/00007632-199110000-00010",
+          "volume": "16",
+          "author": "Williams",
+          "year": "1991",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R40-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2003",
+          "DOI": "10.1097/00007632-199809150-00018",
+          "volume": "23",
+          "author": "Deyo",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R41-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "473",
+          "DOI": "10.1097/00007632-199502001-00011",
+          "volume": "20",
+          "author": "Indahl",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R42-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1333",
+          "DOI": "10.1097/00007632-199308000-00013",
+          "volume": "18",
+          "author": "Riddle",
+          "year": "1994",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R43-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "117",
+          "DOI": "10.1016/0304-3959(86)90228-9",
+          "volume": "27",
+          "author": "Jensen",
+          "year": "1986",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R44-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "141",
+          "DOI": "10.1097/00007632-198303000-00004",
+          "volume": "8",
+          "author": "Roland",
+          "year": "1983",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R45-2-20160304",
+          "author": "Beck",
+          "year": "1996"
+        },
+        {
+          "key": "R46-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1017",
+          "DOI": "10.1097/00007632-199505000-00008",
+          "volume": "20",
+          "author": "Beurskens",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R47-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2435",
+          "DOI": "10.1097/00007632-199912010-00004",
+          "volume": "24",
+          "author": "Mannion",
+          "year": "1999",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R48-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1585",
+          "DOI": "10.1097/00007632-199908010-00013",
+          "volume": "24",
+          "author": "Soukup",
+          "year": "1999",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R49-2-20160304",
+          "first-page": "2833",
+          "volume": "21",
+          "author": "Von Korff",
+          "year": "1992",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "1",
+          "key": "R50-2-20160304",
+          "first-page": "1",
+          "volume": "1",
+          "author": "",
+          "year": "1999",
+          "journal-title": "Danish Health Technology Assessment"
+        },
+        {
+          "key": "R51-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "851",
+          "DOI": "10.1097/00007632-200204150-00013",
+          "volume": "27",
+          "author": "Loisel",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R52-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "243",
+          "DOI": "10.1093/ptj/84.3.243",
+          "volume": "84",
+          "author": "Werneke",
+          "year": "2004",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "R53-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "834",
+          "DOI": "10.1097/00007632-200004010-00012",
+          "volume": "25",
+          "author": "McGorry",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R54-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "758",
+          "DOI": "10.1097/00007632-200104010-00012",
+          "volume": "26",
+          "author": "Werneke",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R55-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "161",
+          "DOI": "10.1097/00007632-200301150-00012",
+          "volume": "28",
+          "author": "Werneke",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R56-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "134",
+          "DOI": "10.1016/j.math.2004.03.004",
+          "volume": "9",
+          "author": "Aina",
+          "year": "2004",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "R57-2-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1827",
+          "DOI": "10.1097/00007632-200108150-00025",
+          "volume": "26",
+          "author": "Donelson",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "4",
+          "key": "R58-2-20160304",
+          "first-page": "258",
+          "volume": "54",
+          "author": "Padfield",
+          "year": "2002",
+          "journal-title": "Physiotherapy Canada"
+        }
+      ],
+      "container-title": [
+        "Spine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://journals.lww.com/00007632-200412010-00002",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            4,
+            30
+          ]
+        ],
+        "date-time": "2023-04-30T12:40:17Z",
+        "timestamp": 1682858417000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://journals.lww.com/00007632-200412010-00002"
+        }
+      },
+      "subtitle": [
+        "A Randomized Control Trial of Exercise for Low Back Pain"
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2004,
+            12
+          ]
+        ]
+      },
+      "references-count": 57,
+      "journal-issue": {
+        "issue": "23"
+      },
+      "URL": "https://doi.org/10.1097/01.brs.0000146464.23007.2a",
+      "relation": {},
+      "ISSN": [
+        "0362-2436"
+      ],
+      "issn-type": [
+        {
+          "value": "0362-2436",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2004,
+            12
+          ]
+        ]
+      }
+    }
+  }
+}

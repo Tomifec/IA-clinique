@@ -1,0 +1,783 @@
+{
+  "file": "evidence\\neurodynamique_mwm.md",
+  "id": "evidence_neurodynamique_mwm",
+  "doi": "10.1177/10538135241301693",
+  "pmid": "40260717",
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:09:19.675540Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            23
+          ]
+        ],
+        "date-time": "2025-05-23T09:40:06Z",
+        "timestamp": 1747993206554,
+        "version": "3.41.0"
+      },
+      "reference-count": 65,
+      "publisher": "SAGE Publications",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                18
+              ]
+            ],
+            "date-time": "2024-12-18T00:00:00Z",
+            "timestamp": 1734480000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Scientific Research Deanship at University of Ha’il, Saudia Arabia",
+          "award": [
+            "RG-20 202"
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.sagepub.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "NeuroRehabilitation: An International, Interdisciplinary Journal"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            3
+          ]
+        ]
+      },
+      "abstract": "<jats:sec>\n            <jats:title>Background</jats:title>\n            <jats:p>The Mulligan techniques address lumbar disc lesions and related dysfunctions. However, the current body of evidence of its effectiveness remains limited.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Aims</jats:title>\n            <jats:p>To assess the effectiveness of the Mulligan concept on pain alleviation, range of motion, function, and flexibility in patients with sciatica.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Methods</jats:title>\n            <jats:p>This meta-analysis included randomized controlled trials that applied Mulligan techniques to patients with sciatica and assessed outcomes such as pain, range of motion, function, or flexibility. We searched six electronic databases to identify the relevant trials. The methodological quality of the studies was evaluated using the Cochrane risk of bias assessment.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Results</jats:title>\n            <jats:p>A total of 21 randomized controlled trials (RCTs) were included in this study. Three primary Mulligan techniques were performed: spinal mobilization with leg movement (SMWLM), bent leg raise (BLR), and traction straight leg raise (TSLR). In this review, seven trials exhibited a high to moderate risk of bias, while the remaining trials demonstrated a low risk of bias. The analysis revealed that SMWLG could be beneficial in improving pain (standardized mean difference [SMD] = −0.58, 95% confidence interval [CI] = −0.82 to −0.33, p &lt; .001) and function (SMD = −1.02, 95% CI = −1.87 to −0.17, p = .02). Additionally, BLR showed potential benefits in improving flexibility, particularly when combined with standard treatment (SMD = 0.59, 95% CI = 0.30 to 0.88, p &lt; .001).</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusions</jats:title>\n            <jats:p>SMWLG demonstrates greater improvements in pain and function compared to other Mulligan techniques in patients with sciatica. However, the limited number of trials and the overall low quality of the existing literature highlight the need for future high-quality research that encompasses all related Mulligan techniques.</jats:p>\n          </jats:sec>",
+      "DOI": "10.1177/10538135241301693",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            18
+          ]
+        ],
+        "date-time": "2024-12-18T14:16:33Z",
+        "timestamp": 1734531393000
+      },
+      "page": "83-96",
+      "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "A Systematic Review and Meta-Analysis of the Effectiveness of Mulligan Mobilization with Movement on Pain, Range of Motion, Function, and Flexibility in Patients with Sciatica"
+      ],
+      "prefix": "10.1177",
+      "volume": "56",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-2184-6147",
+          "authenticated-orcid": false,
+          "given": "Hisham",
+          "family": "Hussein",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Physical Therapy, College of Applied Medical Sciences, University of Ha’il, Ha’il, Saudi Arabia"
+            },
+            {
+              "name": "Department of Basic Sciences, Faculty of Physical Therapy, Cairo University, Giza, Egypt"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0435-7720",
+          "authenticated-orcid": false,
+          "given": "Mohamed",
+          "family": "Atteya",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physical Therapy, College of Applied Medical Sciences, University of Ha’il, Ha’il, Saudi Arabia"
+            }
+          ]
+        },
+        {
+          "given": "Aisha",
+          "family": "Ansari",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Physical Therapy, College of Applied Medical Sciences, University of Ha’il, Ha’il, Saudi Arabia"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2535-4465",
+          "authenticated-orcid": false,
+          "given": "Ehab",
+          "family": "Kamel",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Public Health, College of Public Health and Health Informatics, University of Ha'il, Ha’il, Saudi Arabia"
+            },
+            {
+              "name": "Department of Physical Therapy, El Helal Hospital, Cairo, Egypt"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            18
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "10",
+          "key": "e_1_3_5_2_1",
+          "first-page": "5597",
+          "article-title": "Kinetic control versus Mulligan mobilization effect on functional outcomes in patients with lumbar radiculopathy: Randomized comparative study",
+          "volume": "64",
+          "author": "Abo Alfa M.",
+          "year": "2021",
+          "unstructured": "Abo Alfa M., Elsayed E., Shendy W., Elawady M., Elkafrawy N. (2021). Kinetic control versus Mulligan mobilization effect on functional outcomes in patients with lumbar radiculopathy: Randomized comparative study. Egyptian Journal of Chemistry, 64(10), 5597–5606. https://doi.org/10.21608/ejchem.2021.74690.3683",
+          "journal-title": "Egyptian Journal of Chemistry"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_3_5_3_1",
+          "first-page": "47",
+          "article-title": "Effectiveness of bent leg raise technique and neurodynamics in patients with radiating low back pain",
+          "volume": "38",
+          "author": "Adnan M.",
+          "year": "2022",
+          "unstructured": "Adnan M., Arsh A., Ali B., Ahmad S. (2022). Effectiveness of bent leg raise technique and neurodynamics in patients with radiating low back pain. Pakistan Journal of Medical Sciences, 38(1), 47–51. https://doi.org/10.12669/pjms.38.1.4010",
+          "journal-title": "Pakistan Journal of Medical Sciences"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_4_1",
+          "DOI": "10.4172/2165-7025.1000304"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_5_1",
+          "DOI": "10.18231/j.ijrimcr.2020.020"
+        },
+        {
+          "issue": "3",
+          "key": "e_1_3_5_6_1",
+          "first-page": "210",
+          "article-title": "The effectiveness of Mulligan’s bent leg raise [BLR] versus dynamic soft tissue mobilization [DSTM] in subjects with hamstring tightness in non -specific low backache",
+          "volume": "8",
+          "author": "Aroona A.",
+          "year": "2023",
+          "unstructured": "Aroona A., Ranjani S. (2023). The effectiveness of Mulligan’s bent leg raise [BLR] versus dynamic soft tissue mobilization [DSTM] in subjects with hamstring tightness in non -specific low backache. International Journal of Research and Development, 8(3), 210–217. https://doi.org/10.36713/epra2016",
+          "journal-title": "International Journal of Research and Development"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_7_1",
+          "DOI": "10.53350/pjmhs211551436"
+        },
+        {
+          "issue": "8",
+          "key": "e_1_3_5_8_1",
+          "first-page": "9",
+          "article-title": "Comparison of spinal mobilization with leg movement versus McKenzie back extension exercises in lumbar radiculopathy for lumber range of motion",
+          "volume": "8",
+          "author": "Ashraf B.",
+          "unstructured": "Ashraf B., Ashraf N., Arbab Y., Yasir S., Ahmad A., Lal C., Lal Ashraf S. (2021b). Comparison of spinal mobilization with leg movement versus McKenzie back extension exercises in lumbar radiculopathy for lumber range of motion. International Journal of Sciences & Applied Research, 8(8), 9–17.",
+          "journal-title": "International Journal of Sciences & Applied Research"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_9_1",
+          "DOI": "10.4081/ejtm.2022.10504"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_10_1",
+          "DOI": "10.1016/j.jcm.2019.10.006"
+        },
+        {
+          "issue": "7",
+          "key": "e_1_3_5_11_1",
+          "first-page": "76",
+          "article-title": "Immediate effect of suboccipital muscle inhibition technique versus Mulligan Bent leg raise technique on hasmtring tightness in younger individuals : A comparative study",
+          "volume": "9",
+          "author": "Chawla R.",
+          "year": "2021",
+          "unstructured": "Chawla R., Raghani P., Shinde M., Chaudhari S. (2021). Immediate effect of suboccipital muscle inhibition technique versus Mulligan Bent leg raise technique on hasmtring tightness in younger individuals : A comparative study. International Journal of Creative Research Thoughts, 9(7), 76–84.",
+          "journal-title": "International Journal of Creative Research Thoughts"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_12_1",
+          "DOI": "10.1177/0269215519872528"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_3_5_13_1",
+          "first-page": "55",
+          "article-title": "멀리건의 견인을 동반한 하지직거상 기법이 요통 환자의 제한된 하지직거상에 미치는 즉각적인 영향에 관한 연구 Original article a study on the immediate effects of Mulligan’s straight leg raise with traction technique on limited straight leg raise of low back pain patients",
+          "volume": "19",
+          "author": "Choi Y.",
+          "year": "2013",
+          "unstructured": "Choi Y., Yoon H., Lee J. (2013). 멀리건의 견인을 동반한 하지직거상 기법이 요통 환자의 제한된 하지직거상에 미치는 즉각적인 영향에 관한 연구 Original article a study on the immediate effects of Mulligan’s straight leg raise with traction technique on limited straight leg raise of low back pain patients. The Journal of Korean Academy of Orthopedic Manual Physical Therapy, 19(1), 55–61.",
+          "journal-title": "The Journal of Korean Academy of Orthopedic Manual Physical Therapy"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_14_1",
+          "DOI": "10.1186/2045-709X-22-12"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_15_1",
+          "DOI": "10.1515/jom-2020-0261"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_16_1",
+          "DOI": "10.1080/10669817.2023.2192975"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_17_1",
+          "DOI": "10.5812/mejrh.92770"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_18_1",
+          "DOI": "10.18535/jmscr/v6i4.59"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_19_1",
+          "DOI": "10.5958/0973-5674.2015.00073.8"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_20_1",
+          "DOI": "10.21608/mjcu.2023.305970"
+        },
+        {
+          "key": "e_1_3_5_21_1",
+          "first-page": "6955",
+          "article-title": "Effect of extracorporeal shock wave therapy on electromyographic activity of trunk muscles in non specific chronic low back pain",
+          "volume": "6962",
+          "author": "Elgendy M. H.",
+          "year": "2020",
+          "unstructured": "Elgendy M. H., Mohamed M. H., Hussein H. M. (2020). Effect of extracorporeal shock wave therapy on electromyographic activity of trunk muscles in non specific chronic low back pain. EurAsian Journal of BioSciences, 6962(December), 6955–6962.",
+          "journal-title": "EurAsian Journal of BioSciences"
+        },
+        {
+          "issue": "11",
+          "key": "e_1_3_5_22_1",
+          "article-title": "Risk factors, prevention, and primary and secondary management of sciatica: An updated overview",
+          "volume": "14",
+          "author": "Fairag M.",
+          "year": "2022",
+          "unstructured": "Fairag M., Kurdi R., Alkathiry A., Alghamdi N., Alshehri R., Alturkistany F. O., Almutairi A., Mansory M., Alhamed M., Alzahrani A., Alhazmi A. (2022). Risk factors, prevention, and primary and secondary management of sciatica: An updated overview. Cureus, 14(11), e31405. https://doi.org/10.7759/cureus.31405",
+          "journal-title": "Cureus"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_23_1",
+          "DOI": "10.1007/s00586-015-4148-y"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_24_1",
+          "DOI": "10.21608/mjcu.2023.305970"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_25_1",
+          "DOI": "10.22271/27069567.2021.v3.i1h.180"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_26_1",
+          "DOI": "10.1179/106698106790820782"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_27_1",
+          "DOI": "10.1179/jmt.2001.9.3.128"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_28_1",
+          "DOI": "10.1016/j.math.2005.04.009"
+        },
+        {
+          "key": "e_1_3_5_29_1",
+          "volume-title": "Cochrane handbook for systematic reviews of interventions version 6.2 (updated February 2021)",
+          "author": "Higgins J. P. T.",
+          "year": "2021",
+          "unstructured": "Higgins J. P. T., Thomas J., Chandler J., Cumpston M., Li T., Page M. J., Welch V. A. (2021). Cochrane handbook for systematic reviews of interventions version 6.2 (updated February 2021). Cochraine."
+        },
+        {
+          "key": "e_1_3_5_30_1",
+          "volume-title": "The mulligan concept of manual therapy-eBook: Textbook of techniques",
+          "author": "Hing W.",
+          "year": "2020",
+          "unstructured": "Hing W., Hall T., Mulligan B. (2020). The mulligan concept of manual therapy-eBook: Textbook of techniques (2nd ed.). Elsevier.",
+          "edition": "2"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_31_1",
+          "DOI": "10.1097/PHM.0000000000001870"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_3_5_32_1",
+          "first-page": "1",
+          "article-title": "Diagnostic accuracy of the passive straight leg raise test in detecting compression of the lower lumbar nerve roots",
+          "volume": "22",
+          "author": "Hussein H.",
+          "year": "2024",
+          "unstructured": "Hussein H., Kamel E., Ragab M., Elerian A. (2024). Diagnostic accuracy of the passive straight leg raise test in detecting compression of the lower lumbar nerve roots. The Internet Journal of Allied Health Sciences and Practice, 22(2), 1–7.",
+          "journal-title": "The Internet Journal of Allied Health Sciences and Practice"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_33_1",
+          "DOI": "10.3233/BMR-200217"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_34_1",
+          "DOI": "10.1016/j.jcm.2017.01.003"
+        },
+        {
+          "issue": "6",
+          "key": "e_1_3_5_35_1",
+          "first-page": "71",
+          "article-title": "Effects of Mulligan traction leg raise versus slump stretching on pain and functional disability in lumbar radiculopathy",
+          "volume": "32",
+          "author": "Irshad A.",
+          "year": "2021",
+          "unstructured": "Irshad A., Anwar N., Ahmad M., Khalid K., Ilyas A., Sohail M. (2021). Effects of Mulligan traction leg raise versus slump stretching on pain and functional disability in lumbar radiculopathy. Medical Forum Monthly, 32(6), 71–74.",
+          "journal-title": "Medical Forum Monthly"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_3_5_36_1",
+          "first-page": "301",
+          "article-title": "Immediate effect of active release technique versus Mulligan Bent leg raise in subjects with hamstring tightness: A randomized clinical trial quick response code",
+          "volume": "2",
+          "author": "Kage V.",
+          "year": "2014",
+          "unstructured": "Kage V., Ratnam R. (2014). Immediate effect of active release technique versus Mulligan Bent leg raise in subjects with hamstring tightness: A randomized clinical trial quick response code. International Journal of Physiotherapy and Research, 2(1), 301–304.",
+          "journal-title": "International Journal of Physiotherapy and Research"
+        },
+        {
+          "issue": "6",
+          "key": "e_1_3_5_37_1",
+          "first-page": "670",
+          "article-title": "Mulligan mobilization technique versus neural mobilization on nerve root function in patients with cervical radiculopathy: Randomized controlled trial",
+          "volume": "18",
+          "author": "Karkousha R. N.",
+          "year": "2023",
+          "unstructured": "Karkousha R. N., Selem A. I., El kablawy M. A., Aly S. A., Zahran M. R. (2023). Mulligan mobilization technique versus neural mobilization on nerve root function in patients with cervical radiculopathy: Randomized controlled trial. Revista Iberoamericana de Psicologia Del Ejercicio y El Deporte, 18(6), 670–675.",
+          "journal-title": "Revista Iberoamericana de Psicologia Del Ejercicio y El Deporte"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_38_1",
+          "DOI": "10.14474/ptrs.2023.12.2.92"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_39_1",
+          "DOI": "10.1016/j.spinee.2017.10.071"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_40_1",
+          "DOI": "10.3390/ijerph18116176"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_41_1",
+          "DOI": "10.3329/bjms.v20i3.52796"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_42_1",
+          "DOI": "10.1002/ejp.893"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_3_5_43_1",
+          "first-page": "19",
+          "article-title": "Comparison of Mulligan traction leg rises vs . slumps stretching on pain, functional disability in passive leg rises and lumbar radiopathy",
+          "volume": "1",
+          "author": "Mishra S.",
+          "year": "2022",
+          "unstructured": "Mishra S., Sarfare B., Ghodey S. (2022). Comparison of Mulligan traction leg rises vs . slumps stretching on pain, functional disability in passive leg rises and lumbar radiopathy. Scientific Hub of Applied Research in Emerging Medical Science & Technology, 1(2), 19–24.",
+          "journal-title": "Scientific Hub of Applied Research in Emerging Medical Science & Technology"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_44_1",
+          "DOI": "10.5958/0973-5674.2019.00020.0"
+        },
+        {
+          "issue": "5",
+          "key": "e_1_3_5_45_1",
+          "first-page": "78",
+          "article-title": "Effects of active release technique versus Mulligan technique on pain and functional disability in patient with deep gluteal syndrome",
+          "volume": "20",
+          "author": "Naz S.",
+          "year": "2024",
+          "unstructured": "Naz S., Sheikh S. A., Sulaman M., Sumroze Abid E. S. (2024). Effects of active release technique versus Mulligan technique on pain and functional disability in patient with deep gluteal syndrome. Journal of Xi’an Shiyou University, 20(5), 78–88.",
+          "journal-title": "Journal of Xi’an Shiyou University"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_46_1",
+          "DOI": "10.1136/oemed-2019-105797"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_47_1",
+          "DOI": "10.1016/j.jphys.2020.03.005"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_48_1",
+          "DOI": "10.1186/s13643-016-0384-4"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_49_1",
+          "DOI": "10.5958/0973-5674.2014.00350.5"
+        },
+        {
+          "issue": "10",
+          "key": "e_1_3_5_50_1",
+          "first-page": "6",
+          "article-title": "“Comparative effectiveness of Mulligan’s traction straight leg raise and bent leg raise in low back ache with radiculopathy” – A randomized clinical",
+          "volume": "3",
+          "author": "Pawar A. H.",
+          "year": "2014",
+          "unstructured": "Pawar A. H., Metgud S. (2014). “Comparative effectiveness of Mulligan’s traction straight leg raise and bent leg raise in low back ache with radiculopathy” – A randomized clinical. International Journal of Science and Research, 3(10), 6–10.",
+          "journal-title": "International Journal of Science and Research"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_51_1",
+          "DOI": "10.1177/0269215518778321"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_52_1",
+          "DOI": "10.4103/ijptr.ijptr_40_19"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_53_1",
+          "DOI": "10.1142/S1013702523500087"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_54_1",
+          "DOI": "10.1093/pm/pnw357"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_55_1",
+          "DOI": "10.37897/RJN.2023.2.10"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_56_1",
+          "DOI": "10.1016/j.apmr.2018.11.004"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_3_5_57_1",
+          "first-page": "1",
+          "article-title": "Comparison between efficacy of spinal mobilization with leg movement versus McKenzie technique in patients with lumbar disc herniation",
+          "volume": "12",
+          "author": "Selim M. N.",
+          "year": "2022",
+          "unstructured": "Selim M. N., Mokhtar M. M., Mohamed M. H., Abonour A. A., Abdelmutilibe S. M., Essa M. M. (2022). Comparison between efficacy of spinal mobilization with leg movement versus McKenzie technique in patients with lumbar disc herniation. SPORT TK-Revista EuroAmericana de Ciencias Del Deporte, 12(2), 1–15. https://doi.org/10.6018/sportk.522801",
+          "journal-title": "SPORT TK-Revista EuroAmericana de Ciencias Del Deporte"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_58_1",
+          "DOI": "10.5114/areh.2022.119699"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_59_1",
+          "DOI": "10.13004/kjnt.2022.18.e29"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_60_1",
+          "DOI": "10.53625/ijss.v2i5.4985"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_61_1",
+          "DOI": "10.1186/s40064-016-2981-z"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_62_1",
+          "DOI": "10.1016/j.jbmt.2015.08.003"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_63_1",
+          "DOI": "10.1016/j.math.2014.07.002"
+        },
+        {
+          "issue": "5",
+          "key": "e_1_3_5_64_1",
+          "first-page": "712",
+          "article-title": "Effectiveness of spinal mobilization with leg movement (SMWLM) in patients with lumbar radiculopathy (L5/S1 nerve root) in lumbar disc herniation",
+          "volume": "2",
+          "author": "Yadav S.",
+          "year": "2014",
+          "unstructured": "Yadav S., Arora Nijhawan M., Panda P. (2014). Effectiveness of spinal mobilization with leg movement (SMWLM) in patients with lumbar radiculopathy (L5/S1 nerve root) in lumbar disc herniation. International Journal of Physiotherapy and Research, 2(5), 712–718.",
+          "journal-title": "International Journal of Physiotherapy and Research"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "e_1_3_5_65_1",
+          "DOI": "10.53389/JRCRS.2022100207"
+        },
+        {
+          "key": "e_1_3_5_66_1",
+          "first-page": "1",
+          "article-title": "Musculoskeletal ultrasound to evaluate the effect of suspension rope training combined with Mulligan technique on nonspecific low back pain: A single-blind randomized controlled trial",
+          "author": "Zhang D.",
+          "year": "2022",
+          "unstructured": "Zhang D., Wang C., Zhang W., Zhang Y., Zhang G. (2022). Musculoskeletal ultrasound to evaluate the effect of suspension rope training combined with Mulligan technique on nonspecific low back pain: A single-blind randomized controlled trial. Research Square, 1–16. https://doi.org/10.21203/rs.3.rs-1512740/v1",
+          "journal-title": "Research Square"
+        }
+      ],
+      "container-title": [
+        "NeuroRehabilitation: An International, Interdisciplinary Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10538135241301693",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/10538135241301693",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/10538135241301693",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            23
+          ]
+        ],
+        "date-time": "2025-05-23T09:09:17Z",
+        "timestamp": 1747991357000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/10538135241301693"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            18
+          ]
+        ]
+      },
+      "references-count": 65,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              3
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/10538135241301693"
+      ],
+      "URL": "https://doi.org/10.1177/10538135241301693",
+      "relation": {},
+      "ISSN": [
+        "1053-8135",
+        "1878-6448"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1053-8135"
+        },
+        {
+          "type": "electronic",
+          "value": "1878-6448"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            18
+          ]
+        ]
+      }
+    },
+    "pubmed_summary": {
+      "uid": "40260717",
+      "pubdate": "2025 Mar",
+      "epubdate": "2024 Dec 18",
+      "source": "NeuroRehabilitation",
+      "authors": [
+        {
+          "name": "Hussein H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Atteya M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ansari A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kamel E",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kamel E",
+      "title": "A Systematic Review and Meta-Analysis of the Effectiveness of Mulligan Mobilization with Movement on Pain, Range of Motion, Function, and Flexibility in Patients with Sciatica.",
+      "sorttitle": "systematic review and meta analysis of the effectiveness of mulligan mobilization with movement on pain range of motion function and flexibility in patients with sciatica",
+      "volume": "56",
+      "issue": "2",
+      "pages": "83-96",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9113791",
+      "issn": "1053-8135",
+      "essn": "1878-6448",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "40260717"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1177/10538135241301693"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2025/04/22 16:27"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2025/04/22 16:26"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2025/04/22 06:33"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "NeuroRehabilitation",
+      "elocationid": "doi: 10.1177/10538135241301693",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/03/01 00:00",
+      "sortfirstauthor": "Hussein H",
+      "vernaculartitle": ""
+    }
+  }
+}

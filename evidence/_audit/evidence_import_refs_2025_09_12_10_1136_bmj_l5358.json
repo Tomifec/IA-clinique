@@ -1,0 +1,728 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_bmj_l5358.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_bmj_l5358",
+  "doi": "10.1136/bmj.l5358",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:47.158597Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T22:21:32Z",
+        "timestamp": 1757456492121,
+        "version": "3.37.3"
+      },
+      "reference-count": 103,
+      "publisher": "BMJ",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                10,
+                4
+              ]
+            ],
+            "date-time": "2019-10-04T00:00:00Z",
+            "timestamp": 1570147200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.bmj.com/company/legal-information/terms-conditions/legal-information/tdm-licencepolicy"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "BMJ"
+      ],
+      "abstract": "<jats:title>Abstract</jats:title>\n          <jats:sec>\n            <jats:title>Objective</jats:title>\n            <jats:p>To map and assess prognostic models for outcome prediction in patients with chronic obstructive pulmonary disease (COPD).</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Design</jats:title>\n            <jats:p>Systematic review.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Data sources</jats:title>\n            <jats:p>PubMed until November 2018 and hand searched references from eligible articles.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Eligibility criteria for study selection</jats:title>\n            <jats:p>Studies developing, validating, or updating a prediction model in COPD patients and focusing on any potential clinical outcome.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Results</jats:title>\n            <jats:p>The systematic search yielded 228 eligible articles, describing the development of 408 prognostic models, the external validation of 38 models, and the validation of 20 prognostic models derived for diseases other than COPD. The 408 prognostic models were developed in three clinical settings: outpatients (n=239; 59%), patients admitted to hospital (n=155; 38%), and patients attending the emergency department (n=14; 3%). Among the 408 prognostic models, the most prevalent endpoints were mortality (n=209; 51%), risk for acute exacerbation of COPD (n=42; 10%), and risk for readmission after the index hospital admission (n=36; 9%). Overall, the most commonly used predictors were age (n=166; 41%), forced expiratory volume in one second (n=85; 21%), sex (n=74; 18%), body mass index (n=66; 16%), and smoking (n=65; 16%). Of the 408 prognostic models, 100 (25%) were internally validated and 91 (23%) examined the calibration of the developed model. For 286 (70%) models a model presentation was not available, and only 56 (14%) models were presented through the full equation. Model discrimination using the C statistic was available for 311 (76%) models. 38 models were externally validated, but in only 12 of these was the validation performed by a fully independent team. Only seven prognostic models with an overall low risk of bias according to PROBAST were identified. These models were ADO, B-AE-D, B-AE-D-C, extended ADO, updated ADO, updated BODE, and a model developed by Bertens et al. A meta-analysis of C statistics was performed for 12 prognostic models, and the summary estimates ranged from 0.611 to 0.769.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusions</jats:title>\n            <jats:p>This study constitutes a detailed mapping and assessment of the prognostic models for outcome prediction in COPD patients. The findings indicate several methodological pitfalls in their development and a low rate of external validation. Future research should focus on the improvement of existing models through update and external validation, as well as the assessment of the safety, clinical effectiveness, and cost effectiveness of the application of these prognostic models in clinical practice through impact studies.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Systematic review registration</jats:title>\n            <jats:p>PROSPERO CRD42017069247</jats:p>\n          </jats:sec>",
+      "DOI": "10.1136/bmj.l5358",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            4
+          ]
+        ],
+        "date-time": "2019-10-04T13:45:23Z",
+        "timestamp": 1570196723000
+      },
+      "page": "l5358",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 129,
+      "title": [
+        "Prognostic models for outcome prediction in patients with chronic obstructive pulmonary disease: systematic review and critical appraisal"
+      ],
+      "prefix": "10.1136",
+      "author": [
+        {
+          "given": "Vanesa",
+          "family": "Bellou",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Lazaros",
+          "family": "Belbasis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Athanasios K",
+          "family": "Konstantinidis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Ioanna",
+          "family": "Tzoulaki",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5488-2999",
+          "authenticated-orcid": false,
+          "given": "Evangelos",
+          "family": "Evangelou",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            4
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref1",
+          "DOI": "10.1513/pats.201102-017RM"
+        },
+        {
+          "unstructured": "Global Initiative for Chronic Obstructive Lung Disease (GOLD). 2019 Global Strategy for the Diagnosis, Management and Prevention of COPD. 2019. https://goldcopd.org/gold-reports/.",
+          "key": "key20191005000405_ref2"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref3",
+          "DOI": "10.1183/2312508X.10019714"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref4",
+          "DOI": "10.1002/(SICI)1097-0258(20000229)19:4<453::AID-SIM350>3.0.CO;2-5"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref5",
+          "DOI": "10.1016/j.rmed.2009.12.017"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref6",
+          "DOI": "10.1186/1465-9921-12-151"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref7",
+          "DOI": "10.1183/13993003.00214-2017"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref8",
+          "DOI": "10.1371/journal.pmed.1001744"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref9",
+          "DOI": "10.1136/bmj.i6460"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref10",
+          "DOI": "10.1371/journal.pone.0032844"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref11",
+          "DOI": "10.1136/bmj.i2416"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref12",
+          "DOI": "10.1136/bmj.g7594"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref13",
+          "DOI": "10.1136/heartjnl-2011-301247"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref14",
+          "DOI": "10.1007/978-0-387-77244-8"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref15",
+          "DOI": "10.1097/EDE.0b013e3181c30fb2"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref16",
+          "DOI": "10.1136/bmj.i6"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref17",
+          "DOI": "10.7326/M18-1376"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref18",
+          "DOI": "10.7326/M18-1377"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref19",
+          "DOI": "10.1177/0962280218785504"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref20",
+          "DOI": "10.1177/0962280217705678"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref21",
+          "DOI": "10.1186/1471-2288-8-79"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref22",
+          "DOI": "10.1016/j.ejcdt.2013.07.003"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref23",
+          "DOI": "10.1136/bmjopen-2012-002152"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref24",
+          "DOI": "10.1007/s10729-017-9426-2"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref25",
+          "DOI": "10.1159/000363770"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref26",
+          "DOI": "10.4103/1817-1737.191866"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref27",
+          "DOI": "10.1183/13993003.01485-2015"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref28",
+          "DOI": "10.1136/thoraxjnl-2016-209298"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref29",
+          "DOI": "10.1183/09031936.00189010"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref30",
+          "DOI": "10.1038/npjpcrm.2016.10"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref31",
+          "DOI": "10.1183/09031936.00121012"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref32",
+          "DOI": "10.1016/j.rmed.2018.04.003"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref33",
+          "DOI": "10.2147/COPD.S42769"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref34",
+          "DOI": "10.1111/resp.12313"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref35",
+          "DOI": "10.1186/1741-7015-12-66"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref36",
+          "DOI": "10.1378/chest.10-2521"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref37",
+          "DOI": "10.1093/fampra/cmr024"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref38",
+          "DOI": "10.1016/j.ejim.2018.10.018"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref39",
+          "DOI": "10.4103/ijccm.IJCCM_148_17"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref40",
+          "DOI": "10.2147/COPD.S96790"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref41",
+          "DOI": "10.1186/s12931-017-0598-6"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref42",
+          "DOI": "10.1183/09031936.00058713"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref43",
+          "DOI": "10.1097/MAJ.0b013e3181bb8111"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref44",
+          "DOI": "10.2147/COPD.S163472"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref45",
+          "DOI": "10.5507/bp.2016.030"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref46",
+          "DOI": "10.1513/AnnalsATS.201307-243OC"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref47",
+          "DOI": "10.1089/jpm.2016.0449"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref48",
+          "DOI": "10.1093/ageing/aft197"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref49",
+          "DOI": "10.1016/S0140-6736(09)61301-5"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref50",
+          "DOI": "10.1016/j.chest.2017.09.003"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref51",
+          "DOI": "10.1016/j.medcli.2017.09.011"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref52",
+          "DOI": "10.1007/s00408-015-9731-9"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref53",
+          "DOI": "10.1111/resp.12877"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref54",
+          "DOI": "10.1016/j.rmed.2007.04.002"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref55",
+          "DOI": "10.2147/COPD.S135657"
+        },
+        {
+          "key": "key20191005000405_ref56",
+          "first-page": "1265",
+          "article-title": "Prediction of short term re-exacerbation in patients with acute exacerbation of chronic obstructive pulmonary disease",
+          "volume": "10",
+          "author": "Liu",
+          "year": "2015",
+          "journal-title": "Int J Chron Obstruct Pulmon Dis"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref57",
+          "DOI": "10.1016/j.rmed.2010.12.020"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref58",
+          "DOI": "10.1080/15412555.2017.1354981"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref59",
+          "DOI": "10.2147/COPD.S142378"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref60",
+          "DOI": "10.1136/thoraxjnl-2015-207775"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref61",
+          "DOI": "10.1164/rccm.200902-0271OC"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref62",
+          "DOI": "10.4104/pcrj.2013.00033"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref63",
+          "DOI": "10.1186/1741-7015-8-28"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref64",
+          "DOI": "10.1016/j.rmed.2011.05.005"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref65",
+          "DOI": "10.1183/09031936.00138507"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref66",
+          "DOI": "10.1183/09031936.00043814"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref67",
+          "DOI": "10.1378/chest.117.3.828"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref68",
+          "DOI": "10.2147/COPD.S49609"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref69",
+          "DOI": "10.1159/000081762"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref70",
+          "DOI": "10.1183/09031936.05.00085304"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref71",
+          "DOI": "10.1164/ajrccm.154.4.8887592"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref72",
+          "DOI": "10.1186/s12890-018-0574-z"
+        },
+        {
+          "key": "key20191005000405_ref73",
+          "first-page": "2439",
+          "article-title": "Predicting frequent COPD exacerbations using primary care data",
+          "volume": "10",
+          "author": "Kerkhof",
+          "year": "2015",
+          "journal-title": "Int J Chron Obstruct Pulmon Dis"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref74",
+          "DOI": "10.1002/jhm.2066"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref75",
+          "DOI": "10.1001/archinte.1992.00400130097011"
+        },
+        {
+          "key": "key20191005000405_ref76",
+          "first-page": "e45",
+          "article-title": "Claims-based risk model for first severe COPD exacerbation",
+          "volume": "24",
+          "author": "Stanford",
+          "year": "2018",
+          "journal-title": "Am J Manag Care"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref77",
+          "DOI": "10.1097/MLR.0b013e3182901982"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref78",
+          "DOI": "10.1503/cmaj.151483"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref79",
+          "DOI": "10.2147/COPD.S136768"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref80",
+          "DOI": "10.1186/s12931-014-0099-9"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref81",
+          "DOI": "10.1378/chest.13-1328"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref82",
+          "DOI": "10.2147/COPD.S146390"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref83",
+          "DOI": "10.5588/ijtld.18.0228"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref84",
+          "DOI": "10.15326/jcopdf.1.1.2013.0004"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref85",
+          "DOI": "10.1164/rccm.201409-1705ED"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref86",
+          "DOI": "10.1016/S0895-4356(01)00341-9"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref87",
+          "DOI": "10.1136/heartjnl-2011-301246"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref88",
+          "DOI": "10.1093/eurheartj/ehu207"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref89",
+          "DOI": "10.1001/jama.2017.12126"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref90",
+          "DOI": "10.1093/biomet/63.3.581"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref91",
+          "DOI": "10.1002/sim.6986"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref92",
+          "DOI": "10.1136/bmj.i3140"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref93",
+          "DOI": "10.1136/bmj.l737"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref94",
+          "DOI": "10.1378/chest.121.5.1434"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref95",
+          "DOI": "10.1164/ajrccm.157.6.9705017"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref96",
+          "DOI": "10.1164/ajrccm.160.6.9902115"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref97",
+          "DOI": "10.1136/bmjopen-2015-008909"
+        },
+        {
+          "key": "key20191005000405_ref98",
+          "first-page": "3",
+          "article-title": "Diagnosis, assessment, and phenotyping of COPD: beyond FEV1",
+          "volume": "11",
+          "author": "Lange",
+          "year": "2016",
+          "journal-title": "Int J Chron Obstruct Pulmon Dis"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref99",
+          "DOI": "10.1056/NEJMoa021322"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref100",
+          "DOI": "10.1186/s12916-018-1013-y"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref101",
+          "DOI": "10.1136/thoraxjnl-2017-211197"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref102",
+          "DOI": "10.1136/thoraxjnl-2012-202103"
+        },
+        {
+          "doi-asserted-by": "publisher",
+          "key": "key20191005000405_ref103",
+          "DOI": "10.1136/bmj.k5339"
+        }
+      ],
+      "container-title": [
+        "BMJ"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://data.bmj.org/tdm/10.1136/bmj.l5358",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.l5358",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2020-09-26T01:12:28Z",
+        "timestamp": 1601082748000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.l5358"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            4
+          ]
+        ]
+      },
+      "references-count": 103,
+      "alternative-id": [
+        "10.1136/bmj.l5358"
+      ],
+      "URL": "https://doi.org/10.1136/bmj.l5358",
+      "relation": {},
+      "ISSN": [
+        "0959-8138",
+        "1756-1833"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0959-8138"
+        },
+        {
+          "type": "electronic",
+          "value": "1756-1833"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            4
+          ]
+        ]
+      }
+    }
+  }
+}

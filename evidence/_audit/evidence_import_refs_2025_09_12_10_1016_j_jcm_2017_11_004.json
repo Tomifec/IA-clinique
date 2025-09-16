@@ -1,0 +1,415 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jcm_2017_11_004.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jcm_2017_11_004",
+  "doi": "10.1016/j.jcm.2017.11.004",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:42.108014Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            4
+          ]
+        ],
+        "date-time": "2024-08-04T23:35:23Z",
+        "timestamp": 1722814523200
+      },
+      "reference-count": 21,
+      "publisher": "Elsevier BV",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2018-06-01T00:00:00Z",
+            "timestamp": 1527811200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journalchiromed.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Chiropractic Medicine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jcm.2017.11.004",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            14
+          ]
+        ],
+        "date-time": "2018-06-14T11:07:34Z",
+        "timestamp": 1528974454000
+      },
+      "page": "121-127",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "Metastatic Cancer of the Thoracic and Lumbar Spine Presenting as Mid- and Low Back Pain in a Long Distance Runner"
+      ],
+      "prefix": "10.1016",
+      "volume": "17",
+      "author": [
+        {
+          "given": "Jeffrey P.",
+          "family": "Leri",
+          "sequence": "first",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jcm.2017.11.004_bb0005",
+          "series-title": "Chiropractic in the United States: Training, Practice, and Research. AHCPR Publication No. 98-N002",
+          "article-title": "Chapter VIII, content of practice",
+          "author": "Mootz",
+          "year": "1997"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.jcm.2017.11.004_bb0010",
+          "first-page": "1181",
+          "article-title": "Evaluation and treatment of acute low back pain",
+          "volume": "75",
+          "author": "Kinkade",
+          "year": "2007",
+          "journal-title": "Am Fam Physician"
+        },
+        {
+          "key": "10.1016/j.jcm.2017.11.004_bb0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "29",
+          "DOI": "10.1186/1471-2407-11-29",
+          "article-title": "Incidence of bone metastases and skeletal-related events in breast cancer patients: a population-based cohort study in Denmark",
+          "volume": "11",
+          "author": "Jensen",
+          "year": "2011",
+          "journal-title": "BMC Cancer"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jcm.2017.11.004_bb0020",
+          "doi-asserted-by": "crossref",
+          "first-page": "e10",
+          "DOI": "10.3171/foc.2001.11.6.11",
+          "article-title": "Evaluation and treatment of spinal metastases: an overview",
+          "volume": "11",
+          "author": "Jacobs",
+          "year": "2001",
+          "journal-title": "Neurosurg Focus"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.jcm.2017.11.004_bb0025",
+          "first-page": "1318",
+          "article-title": "Bone secondaries in breast cancer: the solitary metastasis",
+          "volume": "30",
+          "author": "Boxer",
+          "year": "1989",
+          "journal-title": "J Nucl Med"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jcm.2017.11.004_bb0030",
+          "first-page": "21",
+          "article-title": "Spinal metastases. Value of diagnostic procedures in the initial diagnosis and follow-up",
+          "volume": "35",
+          "author": "Link",
+          "year": "1995",
+          "journal-title": "Radiologe"
+        },
+        {
+          "key": "10.1016/j.jcm.2017.11.004_bb0035",
+          "author": "Bradley"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jcm.2017.11.004_bb0040",
+          "first-page": "1",
+          "article-title": "Winking-owl sign - an uncommon presentation of spine metastasis",
+          "volume": "3",
+          "author": "Rajul",
+          "year": "2016",
+          "journal-title": "Int J Clin Med Imaging"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jcm.2017.11.004_bb0045",
+          "doi-asserted-by": "crossref",
+          "first-page": "365",
+          "DOI": "10.1016/j.nec.2004.04.018",
+          "article-title": "Metastatic spine disease: epidemiology, pathophysiology, and evaluation of patients",
+          "volume": "15",
+          "author": "Perrin",
+          "year": "2004",
+          "journal-title": "Neurosurg Clin N Am"
+        },
+        {
+          "key": "10.1016/j.jcm.2017.11.004_bb0050",
+          "first-page": "107969",
+          "article-title": "Physiopathology of spine metastasis",
+          "volume": "2011",
+          "author": "Maccauro",
+          "year": "2011",
+          "journal-title": "Int J Surg Oncol"
+        },
+        {
+          "key": "10.1016/j.jcm.2017.11.004_bb0055",
+          "series-title": "Spinal metastasis treatment & management",
+          "author": "Tse",
+          "year": "2016"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jcm.2017.11.004_bb0060",
+          "doi-asserted-by": "crossref",
+          "first-page": "186",
+          "DOI": "10.1055/s-2005-836512",
+          "article-title": "Surgical treatment and prognosis factors in spinal metastases of breast cancer",
+          "volume": "143",
+          "author": "Ulmar",
+          "year": "2005",
+          "journal-title": "Z Orthop Ihre Grenzgeb"
+        },
+        {
+          "key": "10.1016/j.jcm.2017.11.004_bb0065",
+          "doi-asserted-by": "crossref",
+          "first-page": "164",
+          "DOI": "10.1097/00003086-199001000-00021",
+          "article-title": "The pattern of vertebral involvement in metastatic vertebral breast cancer",
+          "volume": "250",
+          "author": "Asdourian",
+          "year": "1990",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jcm.2017.11.004_bb0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "66",
+          "DOI": "10.5603/NMR.2013.0037",
+          "article-title": "Pattern and distribution of bone metastases in common malignant tumors",
+          "volume": "16",
+          "author": "Kakhki",
+          "year": "2013",
+          "journal-title": "Nucl Med Rev"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jcm.2017.11.004_bb0075",
+          "first-page": "897",
+          "article-title": "Vertebral bone metastasis in breast cancer: a case report",
+          "volume": "52",
+          "author": "Pirici",
+          "year": "2011",
+          "journal-title": "Rom J Morphol Embryol"
+        },
+        {
+          "key": "10.1016/j.jcm.2017.11.004_bb0080",
+          "doi-asserted-by": "crossref",
+          "first-page": "42",
+          "DOI": "10.1016/j.wneu.2015.07.068",
+          "article-title": "Influence of hormone receptor status on spinal metastatic lesions in patients with breast cancer",
+          "volume": "85",
+          "author": "Lin",
+          "year": "2016",
+          "journal-title": "World Neurosurg"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jcm.2017.11.004_bb0085",
+          "first-page": "311",
+          "article-title": "Breast cancer metastasis",
+          "volume": "9",
+          "author": "Scully",
+          "year": "2012",
+          "journal-title": "Cancer Genomics Proteomics"
+        },
+        {
+          "issue": "suppl 13",
+          "key": "10.1016/j.jcm.2017.11.004_bb0090",
+          "first-page": "S361",
+          "article-title": "Imaging characteristic analysis of metastatic spine lesions from breast, prostate, lung, and renal cell carcinomas for surgical planning: osteolytic versus osteoblastic",
+          "volume": "7",
+          "author": "Reddington",
+          "year": "2016",
+          "journal-title": "Surg Neurol Int"
+        },
+        {
+          "key": "10.1016/j.jcm.2017.11.004_bb0095",
+          "series-title": "The Essentials of Skeletal Radiology",
+          "first-page": "1153",
+          "author": "Yochum",
+          "year": "2005"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jcm.2017.11.004_bb0100",
+          "first-page": "187",
+          "article-title": "The missing pedicle: a radiodiagnostic challenge",
+          "volume": "33",
+          "author": "McLaughlin",
+          "year": "1989",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jcm.2017.11.004_bb0105",
+          "doi-asserted-by": "crossref",
+          "first-page": "274",
+          "DOI": "10.1097/PHM.0b013e318269ec2a",
+          "article-title": "Vertebral sarcoidosis masquerading as breast metastasis",
+          "volume": "93",
+          "author": "Braza",
+          "year": "2014",
+          "journal-title": "Am J Phys Med Rehabil"
+        }
+      ],
+      "container-title": [
+        "Journal of Chiropractic Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1556370717300330?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1556370717300330?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            10,
+            30
+          ]
+        ],
+        "date-time": "2023-10-30T07:24:01Z",
+        "timestamp": 1698650641000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1556370717300330"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            6
+          ]
+        ]
+      },
+      "references-count": 21,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              6
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1556370717300330"
+      ],
+      "URL": "https://doi.org/10.1016/j.jcm.2017.11.004",
+      "relation": {},
+      "ISSN": [
+        "1556-3707"
+      ],
+      "issn-type": [
+        {
+          "value": "1556-3707",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            6
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Metastatic Cancer of the Thoracic and Lumbar Spine Presenting as Mid- and Low Back Pain in a Long Distance Runner",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Journal of Chiropractic Medicine",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jcm.2017.11.004",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2018 National University of Health Sciences.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

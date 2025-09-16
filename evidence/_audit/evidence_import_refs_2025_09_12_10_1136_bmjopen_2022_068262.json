@@ -1,0 +1,836 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_bmjopen_2022_068262.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_bmjopen_2022_068262",
+  "doi": "10.1136/bmjopen-2022-068262",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:54.212377Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            7
+          ]
+        ],
+        "date-time": "2025-08-07T20:53:01Z",
+        "timestamp": 1754599981355,
+        "version": "3.37.3"
+      },
+      "reference-count": 74,
+      "publisher": "BMJ",
+      "issue": "12",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                12,
+                16
+              ]
+            ],
+            "date-time": "2022-12-16T00:00:00Z",
+            "timestamp": 1671148800000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 15,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "BMJ Open"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "abstract": "<jats:sec><jats:title>Objectives</jats:title><jats:p>Chiropractic spinal manipulative therapy (CSMT) and lumbar discectomy are both used for lumbar disc herniation (LDH) and lumbosacral radiculopathy (LSR); however, limited research has examined the relationship between these therapies. We hypothesised that adults receiving CSMT for newly diagnosed LDH or LSR would have reduced odds of lumbar discectomy over 1-year and 2-year follow-up compared with those receiving other care.</jats:p></jats:sec><jats:sec><jats:title>Design</jats:title><jats:p>Retrospective cohort study.</jats:p></jats:sec><jats:sec><jats:title>Setting</jats:title><jats:p>101 million patient US health records network (TriNetX), queried on 24 October 2022, yielding data from 2012 query.</jats:p></jats:sec><jats:sec><jats:title>Participants</jats:title><jats:p>Adults age 18–49 with newly diagnosed LDH/LSR (first date of diagnosis) were included. Exclusions were prior lumbar surgery, absolute indications for surgery, trauma, spondylolisthesis and scoliosis. Propensity score matching controlled for variables associated with the likelihood of discectomy (eg, demographics, medications).</jats:p></jats:sec><jats:sec><jats:title>Interventions</jats:title><jats:p>Patients were divided into cohorts according to receipt of CSMT.</jats:p></jats:sec><jats:sec><jats:title>Primary and secondary outcome measures</jats:title><jats:p>ORs for lumbar discectomy; calculated by dividing odds in the CSMT cohort by odds in the cohort receiving other care.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>After matching, there were 5785 patients per cohort (mean age 36.9±8.2). The ORs (95% CI) for discectomy were significantly reduced in the CSMT cohort compared with the cohort receiving other care over 1-year (0.69 (0.52 to 0.90), p=0.006) and 2-year follow-up (0.77 (0.60 to 0.99), p=0.040). E-value sensitivity analysis estimated the strength in terms of risk ratio an unmeasured confounding variable would need to account for study results, yielding point estimates for each follow-up (1 year: 2.26; 2 years: 1.92), which no variables in the literature reached.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>Our findings suggest receiving CSMT compared with other care for newly diagnosed LDH/LSR is associated with significantly reduced odds of discectomy over 2-year follow-up. Given socioeconomic variables were unavailable and an observational design precludes inferring causality, the efficacy of CSMT for LDH/LSR should be examined via randomised controlled trial to eliminate residual confounding.</jats:p></jats:sec>",
+      "DOI": "10.1136/bmjopen-2022-068262",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            16
+          ]
+        ],
+        "date-time": "2022-12-16T15:45:57Z",
+        "timestamp": 1671205557000
+      },
+      "page": "e068262",
+      "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 10,
+      "title": [
+        "Association between chiropractic spinal manipulation and lumbar discectomy in adults with lumbar disc herniation and radiculopathy: retrospective cohort study using United States’ data"
+      ],
+      "prefix": "10.1136",
+      "volume": "12",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4714-1076",
+          "authenticated-orcid": false,
+          "given": "Robert James",
+          "family": "Trager",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2727-6184",
+          "authenticated-orcid": false,
+          "given": "Clinton J",
+          "family": "Daniels",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jaime A",
+          "family": "Perez",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Regina M",
+          "family": "Casselberry",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jeffery A",
+          "family": "Dusek",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            16
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2022121607451740000_12.12.e068262.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2014.04.022"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ncl.2007.01.008"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.3",
+          "unstructured": "et al Himelfarb I , Hyland J , Ouzts N . National Board of Chiropractic Examiners: Practice Analysis of Chiropractic 2020. NBCE, 2020. Available: https://www.nbce.org/practice-analysis-of-chiropractic-2020/ [Accessed November 7, 2020]."
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.4",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1186/s12998-017-0165-8",
+          "article-title": "The chiropractic profession: a scoping review of utilization rates, reasons for seeking care, patient profiles, and care provided",
+          "volume": "25",
+          "author": "Beliveau",
+          "year": "2017",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmpt.2008.10.007"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.6",
+          "doi-asserted-by": "crossref",
+          "first-page": "576",
+          "DOI": "10.1016/j.jmpt.2010.08.013",
+          "article-title": "Manipulation or microdiskectomy for sciatica? A prospective randomized clinical study",
+          "volume": "33",
+          "author": "McMorland",
+          "year": "2010",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.7",
+          "doi-asserted-by": "crossref",
+          "first-page": "131",
+          "DOI": "10.1016/j.spinee.2005.08.001",
+          "article-title": "Chiropractic manipulation in the treatment of acute back pain and sciatica with disc protrusion: a randomized double-blind clinical trial of active and simulated spinal manipulations",
+          "volume": "6",
+          "author": "Santilli",
+          "year": "2006",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1461",
+          "DOI": "10.1016/j.spinee.2013.08.049",
+          "article-title": "Comparative clinical effectiveness of management strategies for sciatica: systematic review and network meta-analyses",
+          "volume": "15",
+          "author": "Lewis",
+          "year": "2015",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/M16-2367"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.10",
+          "unstructured": "Van Wambeke P , Desomer A , Ailiet L . Belgian health care knowledge centre KCE report 287Cs: low back pain and radicular pain: assessment and management. 2017."
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.11",
+          "doi-asserted-by": "crossref",
+          "first-page": "201",
+          "DOI": "10.1002/ejp.931",
+          "article-title": "Clinical practice guidelines for the noninvasive management of low back pain: a systematic review by the Ontario protocol for traffic injury management (optima) collaboration",
+          "volume": "21",
+          "author": "Wong",
+          "year": "2017",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.12",
+          "unstructured": "Recommendations | low back pain and sciatica in over 16S: assessment and management | guidance | NICE. Available: https://www.nice.org.uk/guidance/ng59/chapter/Recommendations [Accessed March 22, 2022]."
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.jmpt.2015.10.006",
+          "article-title": "Clinical practice guideline: chiropractic care for low back pain",
+          "volume": "39",
+          "author": "Globe",
+          "year": "2016",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.14",
+          "doi-asserted-by": "crossref",
+          "first-page": "683",
+          "DOI": "10.1016/j.jmpt.2022.03.010",
+          "article-title": "Three patterns of spinal manipulative therapy for back pain and their association with imaging studies, injection procedures, and surgery: a cohort study of insurance claims",
+          "volume": "44",
+          "author": "Anderson",
+          "year": "2021",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.15",
+          "unstructured": "Anderson B . A secondary analysis of insurance claims data to determine the association between provider type and treatment escalation in musculoskeletal disorders. Northern Illinois university, 2019. Available: https://search.proquest.com/openview/da5d43e1ca5390f9afbcf53494d31bca/1?pq-origsite=gscholar&cbl=18750&diss=y"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/jep.12464"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.17",
+          "doi-asserted-by": "crossref",
+          "first-page": "63",
+          "DOI": "10.1016/j.jmpt.2016.01.006",
+          "article-title": "The association between use of chiropractic care and costs of care among older Medicare patients with chronic low back pain and multiple comorbidities",
+          "volume": "39",
+          "author": "Weeks",
+          "year": "2016",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.18",
+          "doi-asserted-by": "crossref",
+          "first-page": "953",
+          "DOI": "10.1097/BRS.0b013e3182814ed5",
+          "article-title": "Early predictors of lumbar spine surgery after occupational back injury: results from a prospective study of workers in Washington state",
+          "volume": "38",
+          "author": "Keeney",
+          "year": "2013",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.19",
+          "doi-asserted-by": "crossref",
+          "first-page": "564",
+          "DOI": "10.1016/j.jmpt.2005.08.010",
+          "article-title": "Effects of a managed chiropractic benefit on the use of specific diagnostic and therapeutic procedures in the treatment of low back and neck pain",
+          "volume": "28",
+          "author": "Nelson",
+          "year": "2005",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/archinte.164.18.1985"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.21",
+          "doi-asserted-by": "crossref",
+          "first-page": "967",
+          "DOI": "10.1007/s00701-011-0983-8",
+          "article-title": "Timing and minimal access surgery for sciatica: a summary of two randomized trials",
+          "volume": "153",
+          "author": "Arts",
+          "year": "2011",
+          "journal-title": "Acta Neurochir"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.22",
+          "doi-asserted-by": "crossref",
+          "first-page": "75",
+          "DOI": "10.1136/jnnp.68.1.75",
+          "article-title": "When does the patient with a disc herniation undergo lumbosacral discectomy?",
+          "volume": "68",
+          "author": "Vroomen",
+          "year": "2000",
+          "journal-title": "J Neurol Neurosurg Psychiatry"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.23",
+          "doi-asserted-by": "crossref",
+          "first-page": "1296",
+          "DOI": "10.1097/BRS.0000000000002603",
+          "article-title": "Predicting likelihood of surgery before first visit in patients with back and lower extremity symptoms: a simple mathematical model based on more than 8,000 patients",
+          "volume": "43",
+          "author": "Boden",
+          "year": "2018",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.24",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.4103/0019-5413.128740",
+          "article-title": "The timing of surgery in lumbar disc prolapse: a systematic review",
+          "volume": "48",
+          "author": "Sabnis",
+          "year": "2014",
+          "journal-title": "Indian J Orthop"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-010-1603-7"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.26",
+          "unstructured": "Trager RJ , Daniels CJ , Ravanpay AC . The association between chiropractic spinal manipulation and lumbar discectomy in adults: a retrospective cohort study protocol 2022."
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/cpt.857"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-147-8-200710160-00010"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.29",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1200/CCI.17.00067",
+          "article-title": "Using a federated network of real-world data to optimize clinical trials operations",
+          "volume": "2",
+          "author": "Topaloglu",
+          "year": "2018",
+          "journal-title": "JCO Clin Cancer Inform"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.30",
+          "unstructured": "Stapff M , Stacey J . How can real-world data support clinical trials and medical research? Clin Res 2019;33."
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.31",
+          "doi-asserted-by": "crossref",
+          "first-page": "609",
+          "DOI": "10.1093/jamia/ocab217",
+          "article-title": "Synergies between centralized and federated approaches to data quality: a report from the National COVID cohort collaborative",
+          "volume": "29",
+          "author": "Pfaff",
+          "year": "2022",
+          "journal-title": "J Am Med Inform Assoc"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.32",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jbi.2021.103847",
+          "article-title": "Assessing real-world medication data completeness",
+          "volume": "119",
+          "author": "Evans",
+          "year": "2021",
+          "journal-title": "J Biomed Inform"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.33",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s12891-022-05462-y",
+          "article-title": "Guideline-concordant utilization of magnetic resonance imaging in adults receiving chiropractic manipulative therapy vs other care for radicular low back pain: a retrospective cohort study",
+          "volume": "23",
+          "author": "Trager",
+          "year": "2022",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.34",
+          "doi-asserted-by": "crossref",
+          "first-page": "149",
+          "DOI": "10.1016/j.jmpt.2017.10.003",
+          "article-title": "Integration of doctors of chiropractic into private sector health care facilities in the United States: a descriptive survey",
+          "volume": "41",
+          "author": "Salsbury",
+          "year": "2018",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.35",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s12891-016-1074-z",
+          "article-title": "Classification of patients with low back-related leg pain: a systematic review",
+          "volume": "17",
+          "author": "Stynes",
+          "year": "2016",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.36",
+          "article-title": "Spine coding transition from ICD-9 to ICD-10: not taking advantage of the specificity of a more granular system",
+          "volume": "4",
+          "author": "Sabatino",
+          "year": "2020",
+          "journal-title": "N Am Spine Soc J"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.37",
+          "doi-asserted-by": "crossref",
+          "first-page": "381",
+          "DOI": "10.1302/0301-620X.75B3.8496204",
+          "article-title": "Symptoms and signs in degeneration of the lumbar spine. A prospective, consecutive study of 300 operated patients",
+          "volume": "75",
+          "author": "Jönsson",
+          "year": "1993",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.38",
+          "article-title": "Prevalence, spinal alignment, and mobility of lumbar spinal stenosis with or without chronic low back pain: a community-dwelling study",
+          "volume": "2011",
+          "author": "Miyakoshi",
+          "year": "2011",
+          "journal-title": "Pain Res Treat"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12911-020-01332-6"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.40",
+          "article-title": "Predictors of willingness to undergo elective musculoskeletal surgery",
+          "volume": "7",
+          "author": "Gandhi",
+          "year": "2013",
+          "journal-title": "Patient Prefer Adherence"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.41",
+          "doi-asserted-by": "crossref",
+          "first-page": "E407",
+          "DOI": "10.1097/BSD.0000000000000838",
+          "article-title": "Utility of patient-reported symptoms and health conditions for predicting surgical Candidacy and utilization of surgery via an outpatient spine clinic nomogram",
+          "volume": "32",
+          "author": "Pennington",
+          "year": "2019",
+          "journal-title": "Clin Spine Surg"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e318145a731"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.43",
+          "doi-asserted-by": "crossref",
+          "first-page": "411",
+          "DOI": "10.1016/j.jos.2017.01.021",
+          "article-title": "Prognostic factors associated with the surgical indication for lumbar spinal stenosis patients less responsive to conservative treatments: an investigator-initiated observational cohort study",
+          "volume": "22",
+          "author": "Fukushima",
+          "year": "2017",
+          "journal-title": "J Orthop Sci"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.44",
+          "doi-asserted-by": "crossref",
+          "first-page": "1931",
+          "DOI": "10.1007/s11999-014-3677-8",
+          "article-title": "Nonoperative treatment for lumbosacral radiculopathy: what factors predict treatment failure?, Nonoperative treatment for lumbosacral radiculopathy: what factors predict treatment failure?",
+          "volume": "473",
+          "author": "Suri",
+          "year": "2015",
+          "journal-title": "Clin Orthop Relat Res Clin Orthop Relat Res"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jmpt.2021.02.002"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.46",
+          "doi-asserted-by": "crossref",
+          "first-page": "487",
+          "DOI": "10.1016/j.spinee.2018.05.016",
+          "article-title": "Lumbar discectomy is associated with higher rates of lumbar fusion",
+          "volume": "19",
+          "author": "Castillo",
+          "year": "2019",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.14444/7001"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.48",
+          "unstructured": "Association AM . ICD-10-PCS 2020: The Complete Official Codebook. American Medical Association, 2019."
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/rmdopen-2019-000953"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.50",
+          "doi-asserted-by": "crossref",
+          "first-page": "e129",
+          "DOI": "10.1016/j.amepre.2016.06.005",
+          "article-title": "Risk factors for low back pain and spine surgery: a retrospective cohort study in soldiers",
+          "volume": "51",
+          "author": "Kardouni",
+          "year": "2016",
+          "journal-title": "Am J Prev Med"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.51",
+          "doi-asserted-by": "crossref",
+          "first-page": "724",
+          "DOI": "10.1016/j.pmrj.2017.12.004",
+          "article-title": "Patient-Reported outcome measures: utility for predicting spinal surgery in an integrated spine practice",
+          "volume": "10",
+          "author": "Babington",
+          "year": "2018",
+          "journal-title": "PM&R"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2007.10.037"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.53",
+          "unstructured": "Faul F . G*Power. 1992."
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.54",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/EDE.0000000000000864"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/M16-2607"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.56",
+          "doi-asserted-by": "crossref",
+          "first-page": "2111",
+          "DOI": "10.2105/AJPH.93.12.2111",
+          "article-title": "Patient attitudes, insurance, and other determinants of self-referral to medical and chiropractic physicians",
+          "volume": "93",
+          "author": "Sharma",
+          "year": "2003",
+          "journal-title": "Am J Public Health"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1067/mmt.2001.117091"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.58",
+          "doi-asserted-by": "crossref",
+          "first-page": "92",
+          "DOI": "10.1067/mmt.2001.112565",
+          "article-title": "Patient characteristics and physicians' practice activities for patients with chronic low back pain: a practice-based study of primary care and chiropractic physicians",
+          "volume": "24",
+          "author": "Nyiendo",
+          "year": "2001",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.59",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2011.3637"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.60",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1001/jamanetworkopen.2019.3676",
+          "article-title": "Expenditures and health care utilization among adults with newly diagnosed low back and lower extremity pain",
+          "volume": "2",
+          "author": "Kim",
+          "year": "2019",
+          "journal-title": "JAMA Netw Open"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.61",
+          "first-page": "80",
+          "article-title": "Clinical results of 30 years surgery on 2026 patients with lumbar disc herniation",
+          "volume": "3",
+          "author": "Mahmood",
+          "year": "2012",
+          "journal-title": "World Spin Column J"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.62",
+          "doi-asserted-by": "crossref",
+          "first-page": "446",
+          "DOI": "10.4184/asj.2014.8.4.446",
+          "article-title": "Clinical and magnetic resonance imaging factors which may predict the need for surgery in lumbar disc herniation",
+          "volume": "8",
+          "author": "Motiei-Langroudi",
+          "year": "2014",
+          "journal-title": "Asian Spine J"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.63",
+          "doi-asserted-by": "crossref",
+          "first-page": "881",
+          "DOI": "10.1177/2192568219880822",
+          "article-title": "Does size matter? an analysis of the effect of lumbar disc herniation size on the success of Nonoperative treatment",
+          "volume": "10",
+          "author": "Gupta",
+          "year": "2020",
+          "journal-title": "Global Spine J"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.64",
+          "doi-asserted-by": "crossref",
+          "first-page": "57",
+          "DOI": "10.1177/2192568217696688",
+          "article-title": "Spine degenerative conditions and their treatments: national trends in the United States of America",
+          "volume": "8",
+          "author": "Buser",
+          "year": "2018",
+          "journal-title": "Global Spine J"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.65",
+          "doi-asserted-by": "crossref",
+          "first-page": "E575",
+          "DOI": "10.1097/BSD.0000000000001235",
+          "article-title": "Lumbar spine surgery and what we lost in the era of the coronavirus pandemic",
+          "volume": "34",
+          "author": "Arnold",
+          "year": "2021",
+          "journal-title": "Clin Spine Surg"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.66",
+          "doi-asserted-by": "crossref",
+          "first-page": "2003",
+          "DOI": "10.1016/j.spinee.2021.07.019",
+          "article-title": "COVID-19 pandemic and elective spinal surgery cancelations - what happens to the patients?",
+          "volume": "21",
+          "author": "Norris",
+          "year": "2021",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.67",
+          "first-page": "119",
+          "article-title": "Predicting the outcome of sciatica at short-term follow-up",
+          "volume": "52",
+          "author": "Vroomen",
+          "year": "2002",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.68",
+          "doi-asserted-by": "crossref",
+          "first-page": "1669",
+          "DOI": "10.1007/s00586-011-1809-3",
+          "article-title": "Estimates of success in patients with sciatica due to lumbar disc herniation depend upon outcome measure",
+          "volume": "20",
+          "author": "Haugen",
+          "year": "2011",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.69",
+          "doi-asserted-by": "crossref",
+          "first-page": "359",
+          "DOI": "10.1177/2192568220905849",
+          "article-title": "Caudal lumbar disc herniations are more likely to require surgery for symptom resolution",
+          "volume": "11",
+          "author": "Gupta",
+          "year": "2021",
+          "journal-title": "Global Spine J"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.70",
+          "doi-asserted-by": "crossref",
+          "first-page": "1694",
+          "DOI": "10.1007/s00125-020-05217-1",
+          "article-title": "Real-World evidence: the devil is in the detail",
+          "volume": "63",
+          "author": "Gokhale",
+          "year": "2020",
+          "journal-title": "Diabetologia"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.71",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/M19-0873"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.72",
+          "doi-asserted-by": "crossref",
+          "first-page": "209",
+          "DOI": "10.1097/BRS.0000000000000724",
+          "article-title": "Comparison of spinal manipulation methods and usual medical care for acute and subacute low back pain: a randomized clinical trial",
+          "volume": "40",
+          "author": "Schneider",
+          "year": "2015",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.73",
+          "doi-asserted-by": "crossref",
+          "first-page": "978",
+          "DOI": "10.1097/BRS.0000000000001396",
+          "article-title": "Differences in the surgical treatment of lower back pain among spine surgeons in the United States",
+          "volume": "41",
+          "author": "Lubelski",
+          "year": "2016",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2022121607451740000_12.12.e068262.74",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/M18-3079"
+        }
+      ],
+      "container-title": [
+        "BMJ Open"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2022-068262",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            16
+          ]
+        ],
+        "date-time": "2022-12-16T15:46:29Z",
+        "timestamp": 1671205589000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2022-068262"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      },
+      "references-count": 74,
+      "journal-issue": {
+        "issue": "12",
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              16
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bmjopen-2022-068262"
+      ],
+      "URL": "https://doi.org/10.1136/bmjopen-2022-068262",
+      "relation": {},
+      "ISSN": [
+        "2044-6055",
+        "2044-6055"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2044-6055"
+        },
+        {
+          "type": "electronic",
+          "value": "2044-6055"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      }
+    }
+  }
+}

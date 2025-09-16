@@ -1,0 +1,13 @@
+repos:
+  - repo: local
+    hooks:
+      - id: validate-schemas
+        name: validate-schemas
+        entry: python scripts/checks.py
+        language: system
+        pass_filenames: false
+      - id: verify-evidence-stub
+        name: verify-evidence-stub
+        entry: python scripts/verify_evidence_stub.py
+        language: system
+        pass_filenames: false

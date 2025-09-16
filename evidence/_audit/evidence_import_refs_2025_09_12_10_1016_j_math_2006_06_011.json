@@ -1,0 +1,462 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_math_2006_06_011.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_math_2006_06_011",
+  "doi": "10.1016/j.math.2006.06.011",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:02.445634Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2025-09-08T05:02:58Z",
+        "timestamp": 1757307778603
+      },
+      "reference-count": 23,
+      "publisher": "Elsevier BV",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2007,
+                5,
+                1
+              ]
+            ],
+            "date-time": "2007-05-01T00:00:00Z",
+            "timestamp": 1177977600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Manual Therapy"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            5
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.math.2006.06.011",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2006,
+            9,
+            15
+          ]
+        ],
+        "date-time": "2006-09-15T12:14:11Z",
+        "timestamp": 1158322451000
+      },
+      "page": "161-166",
+      "source": "Crossref",
+      "is-referenced-by-count": 234,
+      "title": [
+        "Measurement of lumbar multifidus muscle contraction with rehabilitative ultrasound imaging"
+      ],
+      "prefix": "10.1016",
+      "volume": "12",
+      "author": [
+        {
+          "given": "Kyle B.",
+          "family": "Kiesel",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Tim L.",
+          "family": "Uhl",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Frank B.",
+          "family": "Underwood",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Donald W.",
+          "family": "Rodd",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Arthur J.",
+          "family": "Nitz",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "7",
+          "key": "10.1016/j.math.2006.06.011_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "842",
+          "DOI": "10.1016/S0003-9993(99)90237-X",
+          "article-title": "Back and hip extensor muscle function during therapeutic exercises",
+          "volume": "80",
+          "author": "Arokoski",
+          "year": "1999",
+          "journal-title": "Archives of Physical Medicine and Rehabilitation"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.math.2006.06.011_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "1089",
+          "DOI": "10.1053/apmr.2001.23819",
+          "article-title": "Back and abdominal muscle function during stabilization exercises",
+          "volume": "82",
+          "author": "Arokoski",
+          "year": "2001",
+          "journal-title": "Archives of Physical Medicine and Rehabilitation"
+        },
+        {
+          "key": "10.1016/j.math.2006.06.011_bib3",
+          "first-page": "68",
+          "article-title": "Evaluation of surface electromyography during maximal voluntary contraction",
+          "volume": "11",
+          "author": "Bamman",
+          "year": "1997",
+          "journal-title": "Journal of Strength and Conditioning Resident"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.math.2006.06.011_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "1179",
+          "DOI": "10.1097/00007632-199110000-00009",
+          "article-title": "Power spectrum analyses of electromyographic activity. Discriminators in the differential assessment of patients with chronic low-back pain",
+          "volume": "16",
+          "author": "Biedermann",
+          "year": "1991",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.math.2006.06.011_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "41",
+          "DOI": "10.1016/S1356-689X(03)00069-9",
+          "article-title": "Measurement of abdominal muscle thickness using M-mode ultrasound imaging during functional activities",
+          "volume": "9",
+          "author": "Bunce",
+          "year": "2004",
+          "journal-title": "Manual Therapy"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.math.2006.06.011_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/0268-0033(95)00035-6",
+          "article-title": "Mechanical stability of the in vivo lumbar spine: implications for injury and chronic low back pain",
+          "volume": "11",
+          "author": "Cholewicki",
+          "year": "1996",
+          "journal-title": "Clincal Biomechanics"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.math.2006.06.011_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "65",
+          "DOI": "10.1002/pri.243",
+          "article-title": "Instructing pelvic floor contraction facilitates transversus abdominis thickness increase during low-abdominal hollowing",
+          "volume": "7",
+          "author": "Critchley",
+          "year": "2002",
+          "journal-title": "Physiotherapy Research International"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.math.2006.06.011_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1007/s005860100314",
+          "article-title": "Differences in electromyographic activity in the multifidus muscle and the iliocostalis lumborum between healthy subjects and patients with sub-acute and chronic low back pain",
+          "volume": "11",
+          "author": "Danneels",
+          "year": "2002",
+          "journal-title": "European Spine Journal"
+        },
+        {
+          "key": "10.1016/j.math.2006.06.011_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.3109/09593989209108076",
+          "article-title": "Diagnostic ultrasound imaging for measurement of lumbar multifidus muscle in normal young adults",
+          "volume": "8",
+          "author": "Hides",
+          "year": "1992",
+          "journal-title": "Physiotherapy Theory and Practice"
+        },
+        {
+          "issue": "23",
+          "key": "10.1016/j.math.2006.06.011_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "2763",
+          "DOI": "10.1097/00007632-199612010-00011",
+          "article-title": "Multifidus muscle recovery is not automatic after resolution of acute, first-episode low back pain",
+          "volume": "21",
+          "author": "Hides",
+          "year": "1996",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.math.2006.06.011_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "125",
+          "DOI": "10.1016/S1356-689X(98)80002-7",
+          "article-title": "Use of real-time ultrasound imaging for feedback in rehabilitation",
+          "volume": "3",
+          "author": "Hides",
+          "year": "1998",
+          "journal-title": "Manual Therapy"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.math.2006.06.011_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "E243",
+          "DOI": "10.1097/00007632-200106010-00004",
+          "article-title": "Long-term effects of specific stabilizing exercises for first-episode low back pain",
+          "volume": "26",
+          "author": "Hides",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.math.2006.06.011_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "132",
+          "DOI": "10.1093/ptj/77.2.132",
+          "article-title": "Contraction of the abdominal muscles associated with movement of the lower limb",
+          "volume": "77",
+          "author": "Hodges",
+          "year": "1997",
+          "journal-title": "Physical Therapy"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.math.2006.06.011_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "682",
+          "DOI": "10.1002/mus.10375",
+          "article-title": "Measurement of muscle contraction with ultrasound imaging",
+          "volume": "27",
+          "author": "Hodges",
+          "year": "2003",
+          "journal-title": "Muscle and Nerve"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.math.2006.06.011_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "145",
+          "DOI": "10.1053/crad.1999.0340",
+          "article-title": "Correlation between the MRI changes in the lumbar multifidus muscles and leg pain",
+          "volume": "55",
+          "author": "Kader",
+          "year": "2000",
+          "journal-title": "Clincal Radiology"
+        },
+        {
+          "issue": "Pt 2",
+          "key": "10.1016/j.math.2006.06.011_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "603",
+          "DOI": "10.1111/j.1469-7793.1998.603be.x",
+          "article-title": "In vivo measurements of the triceps surae complex architecture in man: implications for muscle function",
+          "volume": "512",
+          "author": "Maganaris",
+          "year": "1998",
+          "journal-title": "Journal of Physiology"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.math.2006.06.011_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "337",
+          "DOI": "10.1016/j.clinbiomech.2004.01.007",
+          "article-title": "The relationship between EMG and change in thickness of transversus abdominis",
+          "volume": "19",
+          "author": "McMeeken",
+          "year": "2004",
+          "journal-title": "Clinical Biomechanics"
+        },
+        {
+          "key": "10.1016/j.math.2006.06.011_bib18",
+          "series-title": "Therapeutic exercise for spinal segmental stabilization in low back pain",
+          "author": "Richardson",
+          "year": "1999"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.math.2006.06.011_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.1016/S0268-0033(02)00140-7",
+          "article-title": "Surface EMG electrodes do not accurately record from lumbar multifidus muscles",
+          "volume": "18",
+          "author": "Stokes",
+          "year": "2003",
+          "journal-title": "Clinical Biomechanics"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.math.2006.06.011_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "A1",
+          "DOI": "10.2519/jospt.2006.0301",
+          "article-title": "Rehabilitative ultrasound imaging symposium",
+          "volume": "36",
+          "author": "Teyhen",
+          "year": "2006",
+          "journal-title": "Journal of Orthopaedic & Sports Physical Therapy"
+        },
+        {
+          "issue": "15",
+          "key": "10.1016/j.math.2006.06.011_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1765",
+          "DOI": "10.1097/00007632-199708010-00017",
+          "article-title": "Posterior surgical approach to the lumbar spine and its effect on the multifidus muscle",
+          "volume": "22",
+          "author": "Weber",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.math.2006.06.011_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "493",
+          "DOI": "10.3928/0147-7447-20030501-14",
+          "article-title": "Atrophy of the multifidus muscle in patients with lumbar disk herniation: histochemical and electromyographic study",
+          "volume": "26",
+          "author": "Yoshihara",
+          "year": "2003",
+          "journal-title": "Orthopedics"
+        },
+        {
+          "issue": "17",
+          "key": "10.1016/j.math.2006.06.011_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "2191",
+          "DOI": "10.1097/00007632-200009010-00009",
+          "article-title": "Histochemistry and morphology of the multifidus muscle in lumbar disc herniation: comparative study between diseased and normal sides",
+          "volume": "25",
+          "author": "Zhao",
+          "year": "2000",
+          "journal-title": "Spine"
+        }
+      ],
+      "container-title": [
+        "Manual Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1356689X06000816?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1356689X06000816?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            8,
+            1
+          ]
+        ],
+        "date-time": "2021-08-01T09:07:30Z",
+        "timestamp": 1627808850000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1356689X06000816"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2007,
+            5
+          ]
+        ]
+      },
+      "references-count": 23,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2007,
+              5
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1356689X06000816"
+      ],
+      "URL": "https://doi.org/10.1016/j.math.2006.06.011",
+      "relation": {},
+      "ISSN": [
+        "1356-689X"
+      ],
+      "issn-type": [
+        {
+          "value": "1356-689X",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2007,
+            5
+          ]
+        ]
+      }
+    }
+  }
+}

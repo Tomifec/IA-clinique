@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "zone": {
+      "type": "string"
+    },
+    "liste": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "conduite": {
+      "type": "string"
+    },
+    "statut": {
+      "type": "string",
+      "enum": [
+        "valide"
+      ]
+    }
+  },
+  "required": [
+    "id",
+    "zone",
+    "liste",
+    "conduite",
+    "statut"
+  ]
+}

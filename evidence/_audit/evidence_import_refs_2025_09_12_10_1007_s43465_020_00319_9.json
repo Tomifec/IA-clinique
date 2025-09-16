@@ -1,0 +1,671 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1007_s43465_020_00319_9.md",
+  "id": "evidence_import_refs_2025_09_12_10_1007_s43465_020_00319_9",
+  "doi": "10.1007/s43465-020-00319-9",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:30.940372Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            9
+          ]
+        ],
+        "date-time": "2025-05-09T07:08:06Z",
+        "timestamp": 1746774486062,
+        "version": "3.37.3"
+      },
+      "reference-count": 33,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2021-01-01T00:00:00Z",
+            "timestamp": 1609459200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springer.com/tdm"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2021-01-01T00:00:00Z",
+            "timestamp": 1609459200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springer.com/tdm"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "IJOO"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            4
+          ]
+        ]
+      },
+      "DOI": "10.1007/s43465-020-00319-9",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2021-01-01T21:02:37Z",
+        "timestamp": 1609534957000
+      },
+      "page": "310-317",
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 4,
+      "title": [
+        "Ulnar-Side Wrist Pain Management Guidelines: All That Hurts is Not the TFCC!"
+      ],
+      "prefix": "10.1007",
+      "volume": "55",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6346-3852",
+          "authenticated-orcid": false,
+          "given": "Darshan Kumar A.",
+          "family": "Jain",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Abhijeet L.",
+          "family": "Wahegaonkar",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "5",
+          "key": "319_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.2106/JBJS.RVW.17.00207",
+          "volume": "7",
+          "author": "DM Brogan",
+          "year": "2019",
+          "unstructured": "Brogan, D. M., Berger, R. A., & Kakar, S. (2019). Ulnar-sided wrist pain: A critical analysis review. JBJS Review., 7(5), 1–13.",
+          "journal-title": "JBJS Review."
+        },
+        {
+          "issue": "1",
+          "key": "319_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "127",
+          "DOI": "10.1016/j.csm.2014.09.008",
+          "volume": "34",
+          "author": "NE Crosby",
+          "year": "2015",
+          "unstructured": "Crosby, N. E., & Greenberg, J. A. (2015). Ulnar-sided wrist pain in the athlete. Clinics in Sports Medicine, 34(1), 127–141.",
+          "journal-title": "Clinics in Sports Medicine"
+        },
+        {
+          "issue": "4",
+          "key": "319_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "789",
+          "DOI": "10.1016/j.ocl.2016.05.017",
+          "volume": "47",
+          "author": "CJ Henderson",
+          "year": "2016",
+          "unstructured": "Henderson, C. J., & Kobayashi, K. M. (2016). Ulnar-sided wrist pain in the athlete. Orthopedic Clinics of North America, 47(4), 789–798.",
+          "journal-title": "Orthopedic Clinics of North America"
+        },
+        {
+          "issue": "2",
+          "key": "319_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "442",
+          "DOI": "10.1097/CORR.0000000000000533",
+          "volume": "477",
+          "author": "JK Lee",
+          "year": "2019",
+          "unstructured": "Lee, J. K., Hwang, J. Y., Lee, S. Y., & Kwon, B. C. (2019). What is the natural history of the triangular fibrocartilage complex tear without distal radioulnar joint instability? Clinical Orthopaedics and Related Research, 477(2), 442–449.",
+          "journal-title": "Clinical Orthopaedics and Related Research"
+        },
+        {
+          "issue": "4",
+          "key": "319_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "551",
+          "DOI": "10.1016/j.jhsa.2016.01.005",
+          "volume": "41",
+          "author": "S Kakar",
+          "year": "2016",
+          "unstructured": "Kakar, S., & Garcia-Elias, M. (2016). The, “four-Leaf Clover” treatment algorithm: A practical approach to manage disorders of the distal radioulnar joint. Journal of Hand Surgery of America., 41(4), 551–564.",
+          "journal-title": "Journal of Hand Surgery of America."
+        },
+        {
+          "issue": "7",
+          "key": "319_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "1489",
+          "DOI": "10.1016/j.jhsa.2012.04.036",
+          "volume": "37",
+          "author": "K Sachar",
+          "year": "2012",
+          "unstructured": "Sachar, K. (2012). Ulnar-sided wrist pain: Evaluation and treatment of triangular fibrocartilage complex tears, ulnocarpal impaction syndrome, and lunotriquetral ligament tears. Journal of Hand Surgery of America., 37(7), 1489–1500.",
+          "journal-title": "Journal of Hand Surgery of America."
+        },
+        {
+          "issue": "2",
+          "key": "319_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "169",
+          "DOI": "10.1016/S0363-5023(85)80100-3",
+          "volume": "10",
+          "author": "WH Bowers",
+          "year": "1985",
+          "unstructured": "Bowers, W. H. (1985). Distal radioulnar joint arthroplasty: the hemiresection-interposition technique. Journal of Hand Surgery of America., 10(2), 169–178.",
+          "journal-title": "Journal of Hand Surgery of America."
+        },
+        {
+          "issue": "2",
+          "key": "319_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "189",
+          "DOI": "10.1016/S0363-5023(96)80099-2",
+          "volume": "21",
+          "author": "BD Adams",
+          "year": "1996",
+          "unstructured": "Adams, B. D., & Samani, J. E. H. K. (1996). Triangular fibrocartilage injury: a laboratory model. Journal of Hand Surgery of America., 21(2), 189–193.",
+          "journal-title": "Journal of Hand Surgery of America."
+        },
+        {
+          "key": "319_CR9",
+          "first-page": "1170",
+          "volume": "36A",
+          "author": "M Stefanie",
+          "year": "2011",
+          "unstructured": "Stefanie, M., et al. (2011). Capsular imbrication for posttraumatic instability of the distal radioulnar joint. Journal of Hand Surgery of America., 36A, 1170–1175.",
+          "journal-title": "Journal of Hand Surgery of America."
+        },
+        {
+          "key": "319_CR10",
+          "first-page": "179",
+          "volume": "131",
+          "author": "JP Fulkerson",
+          "year": "1978",
+          "unstructured": "Fulkerson, J. P., & Watson, H. K. (1978). Congenital anterior subluxation of the distal ulna. A case report. Clinical Orthopaedics and Related Research., 131, 179–182.",
+          "journal-title": "Clinical Orthopaedics and Related Research."
+        },
+        {
+          "issue": "4",
+          "key": "319_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "612",
+          "DOI": "10.1016/0363-5023(89)90176-7",
+          "volume": "14",
+          "author": "TF Breen",
+          "year": "1989",
+          "unstructured": "Breen, T. F., & Jupiter, J. B. (1989). Extensor carpi ulnaris and flexor carpi ulnaristenodesis of the unstable ulna. Journal of Hand Surgery of America., 14(4), 612–617.",
+          "journal-title": "Journal of Hand Surgery of America."
+        },
+        {
+          "key": "319_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "243",
+          "DOI": "10.1053/jhsu.2002.31731",
+          "volume": "27",
+          "author": "BD Adams",
+          "year": "2002",
+          "unstructured": "Adams, B. D., & Berger, R. A. (2002). An anatomic reconstruction of the distal radioulnar joint instability. The Journal of Hand Surgery of America, 27, 243–251.",
+          "journal-title": "The Journal of Hand Surgery of America"
+        },
+        {
+          "issue": "3",
+          "key": "319_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "230",
+          "DOI": "10.1016/S0363-5023(82)80171-8",
+          "volume": "7",
+          "author": "FC Hui",
+          "year": "1982",
+          "unstructured": "Hui, F. C., & Linscheid, R. L. (1982). Ulnotriquetral augmentation tenodesis: a reconstructive procedure for dorsal subluxation of the distal radioulnar joint. Journal of Hand Surgery of America, 7(3), 230–236.",
+          "journal-title": "Journal of Hand Surgery of America"
+        },
+        {
+          "issue": "4",
+          "key": "319_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "567",
+          "DOI": "10.1016/j.hcl.2005.08.011",
+          "volume": "21",
+          "author": "MM Tomaino",
+          "year": "2005",
+          "unstructured": "Tomaino, M. M., & Elfar, J. (2005). Ulnar impaction syndrome. Hand Clinics, 21(4), 567–575.",
+          "journal-title": "Hand Clinics"
+        },
+        {
+          "issue": "4",
+          "key": "319_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "639",
+          "DOI": "10.1016/j.hcl.2017.07.002",
+          "volume": "33",
+          "author": "DJ Slutsky",
+          "year": "2017",
+          "unstructured": "Slutsky, D. J. (2017). Arthroscopic management of ulnocarpal impaction syndrome and ulnar styloid impaction syndrome. Hand Clinics, 33(4), 639–650.",
+          "journal-title": "Hand Clinics"
+        },
+        {
+          "key": "319_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "339",
+          "DOI": "10.1016/0363-5023(92)90417-N",
+          "volume": "17",
+          "author": "T Hara",
+          "year": "1992",
+          "unstructured": "Hara, T. (1992). Force distribution across wrist joint: Application of pressure-sensitive conductive rubber. Journal of Hand Surgery of America, 17, 339–347.",
+          "journal-title": "Journal of Hand Surgery of America"
+        },
+        {
+          "issue": "5",
+          "key": "319_CR17",
+          "first-page": "304",
+          "volume": "18",
+          "author": "FW Werner",
+          "year": "1986",
+          "unstructured": "Werner, F. W., Glisson, R. R., Murphy, D. J., & Palmer, P. A. (1986). Force transmission through the distal radioulnar carpal joint: Effect of ulnar lengthening and shortening. Handchirurgie, Mikrochirurgie, PlastischeChirurgie, 18(5), 304–308.",
+          "journal-title": "Handchirurgie, Mikrochirurgie, PlastischeChirurgie"
+        },
+        {
+          "issue": "6",
+          "key": "319_CR18",
+          "first-page": "719",
+          "volume": "22",
+          "author": "R Nakamura",
+          "year": "1997",
+          "unstructured": "Nakamura, R., Horii, E., Imaeda, T., Nakao, E., & Kato, H. W. K. (1997). Theulnocarpal stress test in the diagnosis of ulnar-sided wrist pain. Journal Of Bone & Joint Surgery., 22(6), 719–723.",
+          "journal-title": "Journal Of Bone & Joint Surgery."
+        },
+        {
+          "issue": "9",
+          "key": "319_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "837",
+          "DOI": "10.1007/s00256-009-0842-3",
+          "volume": "39",
+          "author": "A Watanabe",
+          "year": "2010",
+          "unstructured": "Watanabe, A., Souza, F., Vezeridis, P. S., Blazar, P., & Yoshioka, H. (2010). Ulnar-sided wrist pain II. Clinical imaging and treatment. Skeletal Radiology., 39(9), 837–857.",
+          "journal-title": "Skeletal Radiology."
+        },
+        {
+          "issue": "3",
+          "key": "319_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "505",
+          "DOI": "10.1016/j.csm.2006.02.008",
+          "volume": "25",
+          "author": "CA Coggins",
+          "year": "2006",
+          "unstructured": "Coggins, C. A. (2006). Imaging of ulnar-sided wrist pain. Clinics in Sports Medicine, 25(3), 505–526.",
+          "journal-title": "Clinics in Sports Medicine"
+        },
+        {
+          "issue": "2",
+          "key": "319_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "351",
+          "DOI": "10.1016/j.jhsa.2004.11.013",
+          "volume": "30",
+          "author": "KL Markolf",
+          "year": "2005",
+          "unstructured": "Markolf, K. L., Tejwani, S. G., & Benhaim, P. (2005). Effects of wafer resection and hemiresection from the distal ulna on load-sharing at the wrist: A cadaveric study. Journal of Hand Surgery of America, 30(2), 351–358.",
+          "journal-title": "Journal of Hand Surgery of America"
+        },
+        {
+          "issue": "4",
+          "key": "319_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "392",
+          "DOI": "10.1016/j.arthro.2004.01.013",
+          "volume": "20",
+          "author": "MA Bernstein",
+          "year": "2004",
+          "unstructured": "Bernstein, M. A., Nagle, D. J., Martinez, A., Stogin, J. M., & Wiedrich, T. A. (2004). A comparison of combined arthroscopic triangular fibrocartilage complex debridement and arthroscopic wafer distal ulna resection versus arthroscopic triangular fibrocartilage complex debridement and ulnar shortening osteotomy for ulnocarpal abutment syndrome. Arthroscopy: The Journal of Arthroscopic & Related Surgery, 20(4), 392–401.",
+          "journal-title": "Arthroscopy: The Journal of Arthroscopic & Related Surgery"
+        },
+        {
+          "issue": "11",
+          "key": "319_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "2257",
+          "DOI": "10.1016/j.jhsa.2013.08.108",
+          "volume": "38",
+          "author": "HW Yin",
+          "year": "2013",
+          "unstructured": "Yin, H. W., Qiu, Y. Q., Shen, Y. D., Xu, J. G., Gu, Y. D., & Xu, W. D. (2013). Arthroscopic distal metaphyseal ulnar shortening osteotomy for ulnar impaction syndrome: A different technique. Journal of Hand Surgery of America, 38(11), 2257–2262.",
+          "journal-title": "Journal of Hand Surgery of America"
+        },
+        {
+          "issue": "8",
+          "key": "319_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "733",
+          "DOI": "10.1007/s00256-009-0775-x",
+          "volume": "39",
+          "author": "PS Vezeridis",
+          "year": "2010",
+          "unstructured": "Vezeridis, P. S., Yoshioka, H., Han, R., & Blazar, P. (2010). Ulnar-sided wrist pain. Part I: Anatomy and physical examination. Skeletal Radiology., 39(8), 733–745.",
+          "journal-title": "Skeletal Radiology."
+        },
+        {
+          "issue": "3",
+          "key": "319_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "467",
+          "DOI": "10.1016/j.hcl.2015.04.005",
+          "volume": "31",
+          "author": "MC Nicoson",
+          "year": "2015",
+          "unstructured": "Nicoson, M. C., & Moran, S. L. (2015). Diagnosis and treatment of acute lunotriquetral ligament injuries. Hand Clinics, 31(3), 467–476.",
+          "journal-title": "Hand Clinics"
+        },
+        {
+          "key": "319_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "502",
+          "DOI": "10.1016/S0363-5023(84)80101-X",
+          "volume": "9",
+          "author": "D Reagan",
+          "year": "1984",
+          "unstructured": "Reagan, D. (1984). Lunotriquetral sprains. Journal of Hand Surgery of America, 9, 502–514.",
+          "journal-title": "Journal of Hand Surgery of America"
+        },
+        {
+          "issue": "2",
+          "key": "319_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "237",
+          "DOI": "10.1016/j.jhsa.2008.10.009",
+          "volume": "34",
+          "author": "S Omokawa",
+          "year": "2009",
+          "unstructured": "Omokawa, S., Fujitani, R., & Inada, Y. (2009). Dorsal radiocarpal ligament capsulodesis for chronic dynamic lunotriquetral instability. Journal of Hand Surgery of America, 34(2), 237–243.",
+          "journal-title": "Journal of Hand Surgery of America"
+        },
+        {
+          "issue": "3",
+          "key": "319_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "357",
+          "DOI": "10.2106/00004623-199603000-00006",
+          "volume": "78",
+          "author": "WB Geissler",
+          "year": "1996",
+          "unstructured": "Geissler, W. B., Freeland, A. E., Savoie, F. H., Mcintyre, L. W., & Whipple, T. L. (1996). Intracarpal soft-tissue lesions associated with an intra-articular fracture of the distal end of the radius. Journal of Bone and Joint Surgery Series A, 78(3), 357–365.",
+          "journal-title": "Journal of Bone and Joint Surgery Series A"
+        },
+        {
+          "key": "319_CR29",
+          "doi-asserted-by": "publisher",
+          "first-page": "105",
+          "DOI": "10.1097/00000637-199507000-00020",
+          "volume": "35",
+          "author": "N Jones",
+          "year": "1995",
+          "unstructured": "Jones, N., & Curtis, C. (1995). Stenosing tenosynovitis of the extensor carpi ulnaris. Annals of Plastic Surgery., 35, 105–107.",
+          "journal-title": "Annals of Plastic Surgery."
+        },
+        {
+          "issue": "10",
+          "key": "319_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "1777",
+          "DOI": "10.1016/j.jhsa.2008.08.018",
+          "volume": "33",
+          "author": "RT Ruland",
+          "year": "2008",
+          "unstructured": "Ruland, R. T., & Hogan, C. J. (2008). The ECU synergy test: An aid to diagnose ECU tendonitis. Journal of Hand Surgery of America, 33(10), 1777–1782.",
+          "journal-title": "Journal of Hand Surgery of America"
+        },
+        {
+          "issue": "1",
+          "key": "319_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "59",
+          "DOI": "10.1016/j.jhsa.2007.10.002",
+          "volume": "33",
+          "author": "AJ MacLennan",
+          "year": "2008",
+          "unstructured": "MacLennan, A. J., Nemechek, N. M., Waitayawinyu, T., & Trumble, T. E. (2008). Diagnosis and anatomic reconstruction of extensor carpi ulnaris subluxation. Journal of Hand Surgery of America, 33(1), 59–64.",
+          "journal-title": "Journal of Hand Surgery of America"
+        },
+        {
+          "issue": "1",
+          "key": "319_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "125",
+          "DOI": "10.1016/j.jhsa.2004.07.018",
+          "volume": "30",
+          "author": "JE Budoff",
+          "year": "2005",
+          "unstructured": "Budoff, J. E., Kraushaar, B. S., & Ayala, G. (2005). Flexor carpi ulnaristendinopathy. Journal of Hand Surgery of America, 30(1), 125–129.",
+          "journal-title": "Journal of Hand Surgery of America"
+        },
+        {
+          "issue": "7",
+          "key": "319_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "1560",
+          "DOI": "10.2106/00004623-200407000-00030",
+          "volume": "86",
+          "author": "AY Shin",
+          "year": "2004",
+          "unstructured": "Shin, A. Y., Deitch, M. A., Sachar, K., & Boyer, M. I. (2004). Ulnar-sided wrist pain: Diagnosis and treatment. Journal of Bone and Joint Surgery., 86(7), 1560–1574.",
+          "journal-title": "Journal of Bone and Joint Surgery."
+        }
+      ],
+      "container-title": [
+        "Indian Journal of Orthopaedics"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s43465-020-00319-9.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1007/s43465-020-00319-9/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s43465-020-00319-9.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            2,
+            10
+          ]
+        ],
+        "date-time": "2022-02-10T20:10:27Z",
+        "timestamp": 1644523827000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://link.springer.com/10.1007/s43465-020-00319-9"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            1
+          ]
+        ]
+      },
+      "references-count": 33,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              4
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "319"
+      ],
+      "URL": "https://doi.org/10.1007/s43465-020-00319-9",
+      "relation": {},
+      "ISSN": [
+        "0019-5413",
+        "1998-3727"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0019-5413"
+        },
+        {
+          "type": "electronic",
+          "value": "1998-3727"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            1,
+            1
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "14 September 2020",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "20 November 2020",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "1 January 2021",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Compliance with Ethical Standards"
+          }
+        },
+        {
+          "value": "The authors declare that they have no conflict of interest.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Conflict of interest"
+          }
+        },
+        {
+          "value": "This article does not contain any studies with human participants performed by any of the authors.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethical standard statement"
+          }
+        },
+        {
+          "value": "For this type of study, no informed consent is required.",
+          "order": 4,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Informed consent"
+          }
+        }
+      ]
+    }
+  }
+}

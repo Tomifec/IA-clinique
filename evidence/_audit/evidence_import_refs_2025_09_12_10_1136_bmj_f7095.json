@@ -1,0 +1,247 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_bmj_f7095.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_bmj_f7095",
+  "doi": "10.1136/bmj.f7095",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:46.365159Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T14:00:37Z",
+        "timestamp": 1757685637786
+      },
+      "reference-count": 0,
+      "publisher": "BMJ",
+      "issue": "dec11 1",
+      "content-domain": {
+        "domain": [
+          "bmj.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "BMJ"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            12,
+            11
+          ]
+        ]
+      },
+      "DOI": "10.1136/bmj.f7095",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2013,
+            12,
+            11
+          ]
+        ],
+        "date-time": "2013-12-11T11:45:20Z",
+        "timestamp": 1386762320000
+      },
+      "page": "f7095-f7095",
+      "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+      "source": "Crossref",
+      "is-referenced-by-count": 221,
+      "title": [
+        "Red flags to screen for malignancy and fracture in patients with low back pain: systematic review"
+      ],
+      "prefix": "10.1136",
+      "volume": "347",
+      "author": [
+        {
+          "given": "A.",
+          "family": "Downie",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "C. M.",
+          "family": "Williams",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "N.",
+          "family": "Henschke",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "M. J.",
+          "family": "Hancock",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "R. W. J. G.",
+          "family": "Ostelo",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "H. C. W.",
+          "family": "de Vet",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "P.",
+          "family": "Macaskill",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "L.",
+          "family": "Irwig",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "M. W.",
+          "family": "van Tulder",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "B. W.",
+          "family": "Koes",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "C. G.",
+          "family": "Maher",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2013,
+            12,
+            11
+          ]
+        ]
+      },
+      "updated-by": [
+        {
+          "updated": {
+            "date-parts": [
+              [
+                2014,
+                1,
+                2
+              ]
+            ],
+            "date-time": "2014-01-02T00:00:00Z",
+            "timestamp": 1388620800000
+          },
+          "DOI": "10.1136/bmj.g7",
+          "type": "correction",
+          "source": "publisher",
+          "label": "Correction"
+        }
+      ],
+      "container-title": [
+        "BMJ"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.f7095",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2020-09-26T06:34:13Z",
+        "timestamp": 1601102053000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.f7095"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            12,
+            11
+          ]
+        ]
+      },
+      "references-count": 0,
+      "journal-issue": {
+        "issue": "dec11 1",
+        "published-online": {
+          "date-parts": [
+            [
+              2013,
+              12,
+              11
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2013,
+              12,
+              11
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1136/bmj.f7095",
+      "relation": {},
+      "ISSN": [
+        "1756-1833"
+      ],
+      "issn-type": [
+        {
+          "value": "1756-1833",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            12,
+            11
+          ]
+        ]
+      }
+    }
+  }
+}

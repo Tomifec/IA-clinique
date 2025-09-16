@@ -1,0 +1,954 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1093_ptj_pzaa231.md",
+  "id": "evidence_import_refs_2025_09_11_10_1093_ptj_pzaa231",
+  "doi": "10.1093/ptj/pzaa231",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:48.649945Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T13:17:42Z",
+        "timestamp": 1757683062320,
+        "version": "3.41.2"
+      },
+      "reference-count": 67,
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                12,
+                31
+              ]
+            ],
+            "date-time": "2020-12-31T00:00:00Z",
+            "timestamp": 1609372800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            3,
+            3
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Objective</jats:title>\n                  <jats:p>Lumbar radiculopathy (LR) is a pain syndrome caused by compression/irritation of the lumbar nerve root(s). Traction is a well-known and commonly used conservative treatment for LR, although its effectiveness is disputed. The purpose of this systematic review and meta-analysis of randomized controlled trials was to evaluate the effects of different types of traction added to or compared with conservative treatments on pain and disability.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>Data were obtained from CENTRAL, PUBMED, CINAHL, Scopus, ISI Web of Science, and PEDro from their inception to April 2020. All randomized controlled trials on adults with LR, using mechanical traction, and without any restriction regarding publication time or language were considered. Two reviewers selected the studies, evaluated the quality assessment, and extracted the results. Meta-analysis used a random-effects model. Eight studies met the inclusion criteria, and 5 were meta-analyzed.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Meta-analyses of results from low-quality studies indicated that supine mechanical traction added to physical therapist treatments had significant effects on pain (g = −0.58 [95% confidence interval = −0.87 to −0.29]) and disability (g = −0.78 [95% confidence interval = −1.45 to −0.11]). Analyses of results from high-quality studies of prone mechanical traction added to physical therapist intervention for pain and disability were not significant. These results were also evident at short-term follow-up (up to 3 months after intervention).</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>The literature suggests that, for pain and disability in LR, there is short-term effectiveness of supine mechanical traction when added to physical therapist intervention.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Impact</jats:title>\n                  <jats:p>This systematic review may be relevant for clinical practice due to its external validity because the treatments and the outcome measures are very similar to those commonly used in a clinical context.</jats:p>\n               </jats:sec>",
+      "DOI": "10.1093/ptj/pzaa231",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2020,
+            12,
+            24
+          ]
+        ],
+        "date-time": "2020-12-24T12:42:50Z",
+        "timestamp": 1608813770000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 22,
+      "title": [
+        "Effectiveness of Mechanical Traction for Lumbar Radiculopathy: A Systematic Review and Meta-Analysis"
+      ],
+      "prefix": "10.1093",
+      "volume": "101",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7741-9200",
+          "authenticated-orcid": false,
+          "given": "Carla",
+          "family": "Vanti",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Biomedical and Neuromotor Sciences (DIBINEM) , Alma Mater Studiorum, University of Bologna, Bologna, Italy"
+            }
+          ]
+        },
+        {
+          "given": "Alice",
+          "family": "Panizzolo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biomedical and Neuromotor Sciences (DIBINEM) , Alma Mater Studiorum, University of Bologna, Bologna, Italy"
+            }
+          ]
+        },
+        {
+          "given": "Luca",
+          "family": "Turone",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biomedical and Neuromotor Sciences (DIBINEM) , Alma Mater Studiorum, University of Bologna, Bologna, Italy"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1238-3585",
+          "authenticated-orcid": false,
+          "given": "Andrew A",
+          "family": "Guccione",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Rehabilitation Science , College of Health and Human Services, George Mason University, Fairfax, Virginia, USA"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4084-2782",
+          "authenticated-orcid": false,
+          "given": "Francesco Saverio",
+          "family": "Violante",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Medical and Surgical Sciences (DIMEC) , Alma Mater Studiorum, University of Bologna, Bologna, Italy"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8396-2250",
+          "authenticated-orcid": false,
+          "given": "Paolo",
+          "family": "Pillastrini",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biomedical and Neuromotor Sciences (DIBINEM) , Alma Mater Studiorum, University of Bologna, Bologna, Italy"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1562-453X",
+          "authenticated-orcid": false,
+          "given": "Lucia",
+          "family": "Bertozzi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Physical Therapy , Alma Mater Studiorum, University of Bologna, Bologna, Italy"
+            }
+          ]
+        }
+      ],
+      "member": "286",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            12,
+            31
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2023011706562775200_ref1",
+          "doi-asserted-by": "crossref",
+          "first-page": "387",
+          "DOI": "10.1016/j.ncl.2007.01.008",
+          "article-title": "Lumbosacral radiculopathy",
+          "volume": "25",
+          "author": "Tarulli",
+          "year": "2007",
+          "journal-title": "Neurol Clin"
+        },
+        {
+          "key": "2023011706562775200_ref2",
+          "doi-asserted-by": "crossref",
+          "first-page": "332",
+          "DOI": "10.1007/s00415-009-5316-y",
+          "article-title": "Diagnostic value of history, physical examination, and needle electromyography in diagnosing lumbosacral radiculopathy",
+          "volume": "257",
+          "author": "Coster",
+          "year": "2010",
+          "journal-title": "J Neurol"
+        },
+        {
+          "key": "2023011706562775200_ref3",
+          "doi-asserted-by": "crossref",
+          "first-page": "339",
+          "DOI": "10.1111/j.1533-2500.2010.00370.x",
+          "article-title": "Lumbosacral radicular pain",
+          "volume": "10",
+          "author": "Van Boxem",
+          "year": "2010",
+          "journal-title": "Pain Pract"
+        },
+        {
+          "key": "2023011706562775200_ref4",
+          "doi-asserted-by": "crossref",
+          "first-page": "17",
+          "DOI": "10.1016/j.pain.2009.08.020",
+          "article-title": "On the definitions and physiology of back pain, referred pain, and radicular pain",
+          "volume": "147",
+          "author": "Bogduk",
+          "year": "2009",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2023011706562775200_ref5",
+          "doi-asserted-by": "crossref",
+          "first-page": "180",
+          "DOI": "10.1016/j.spinee.2013.08.003",
+          "article-title": "An evidence-based clinical guideline for the diagnosis and treatment of lumbar disc herniation with radiculopathy",
+          "volume": "14",
+          "author": "Kreiner",
+          "year": "2014",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "2023011706562775200_ref6",
+          "doi-asserted-by": "crossref",
+          "first-page": "514",
+          "DOI": "10.7326/M16-2367",
+          "article-title": "Clinical Guidelines Committee of the American College of Physicians. Noninvasive treatments for acute, subacute, and chronic low back pain: a clinical practice guideline from the American College of Physicians",
+          "volume": "166",
+          "author": "Qaseem",
+          "year": "2017",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "2023011706562775200_ref7",
+          "doi-asserted-by": "crossref",
+          "first-page": "881",
+          "DOI": "10.1007/s00586-007-0367-1",
+          "article-title": "Effectiveness of conservative treatments for the lumbosacral radicular syndrome: a systematic review",
+          "volume": "16",
+          "author": "Luijsterburg",
+          "year": "2007",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "2023011706562775200_ref8",
+          "doi-asserted-by": "crossref",
+          "first-page": "586",
+          "DOI": "10.2519/jospt.2015.6036",
+          "article-title": "Lumbar traction for managing low back pain: a survey of physical therapists in the United States",
+          "volume": "45",
+          "author": "Madson",
+          "year": "2015",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2023011706562775200_ref9",
+          "first-page": "CD003010",
+          "article-title": "Traction for low-back pain with or without sciatica",
+          "author": "Wegner",
+          "year": "2013",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "2023011706562775200_ref10",
+          "doi-asserted-by": "crossref",
+          "first-page": "2756",
+          "DOI": "10.1097/00007632-199712010-00011",
+          "article-title": "Efficacy of traction for nonspecific low back pain: 12-week and 6-month results of a randomized clinical trial",
+          "volume": "22",
+          "author": "Beurskens",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2023011706562775200_ref11",
+          "doi-asserted-by": "crossref",
+          "first-page": "72",
+          "DOI": "10.1054/math.2000.0235",
+          "article-title": "Lumbar spine traction: evaluation of effects and recommended application for treatment",
+          "volume": "5",
+          "author": "Krause",
+          "year": "2000",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "2023011706562775200_ref12",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1186/s12998-018-0205-z",
+          "article-title": "Assessment of variability in traction interventions for patients with low back pain: a systematic review",
+          "volume": "17",
+          "author": "Alrwaily",
+          "year": "2018",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "key": "2023011706562775200_ref13",
+          "doi-asserted-by": "crossref",
+          "first-page": "E488",
+          "DOI": "10.1097/BRS.0b013e3181cc3f56",
+          "article-title": "Conservative management of lumbar disc herniation with associated radiculopathy: a systematic review",
+          "volume": "35",
+          "author": "Hahne",
+          "year": "2010",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2023011706562775200_ref14",
+          "doi-asserted-by": "crossref",
+          "first-page": "1461",
+          "DOI": "10.1016/j.spinee.2013.08.049",
+          "article-title": "Comparative clinical effectiveness of management strategies for sciatica: systematic review and network meta-analyses",
+          "volume": "15",
+          "author": "Lewis",
+          "year": "2015",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "2023011706562775200_ref15",
+          "doi-asserted-by": "crossref",
+          "first-page": "463",
+          "DOI": "10.1097/00002517-200012000-00001",
+          "article-title": "Conservative treatment of sciatica: a systematic review",
+          "volume": "13",
+          "author": "Vroomen",
+          "year": "2000",
+          "journal-title": "J Spinal Disord"
+        },
+        {
+          "key": "2023011706562775200_ref16",
+          "first-page": "1118",
+          "article-title": "Herniated lumbar disc",
+          "volume": "2011",
+          "author": "Jordan",
+          "year": "2011",
+          "journal-title": "BMJ Clin Evid"
+        },
+        {
+          "key": "2023011706562775200_ref17",
+          "doi-asserted-by": "crossref",
+          "first-page": "234",
+          "DOI": "10.1016/j.spinee.2007.10.025",
+          "article-title": "Evidence-informed management of chronic low back pain with traction therapy",
+          "volume": "8",
+          "author": "Gay",
+          "year": "2008",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "2023011706562775200_ref18",
+          "doi-asserted-by": "crossref",
+          "first-page": "470",
+          "DOI": "10.1093/ptj/75.6.470",
+          "article-title": "A treatment- based classification approach to low back syndrome: identifying and staging patients for conservative treatment",
+          "volume": "75",
+          "author": "Delitto",
+          "year": "1995",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2023011706562775200_ref19",
+          "doi-asserted-by": "crossref",
+          "first-page": "290",
+          "DOI": "10.2519/jospt.2007.2498",
+          "article-title": "Subgrouping patients with low back pain: evolution of a classification approach to physical therapy",
+          "volume": "37",
+          "author": "Fritz",
+          "year": "2007",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2023011706562775200_ref20",
+          "doi-asserted-by": "crossref",
+          "first-page": "A1",
+          "DOI": "10.2519/jospt.2012.42.4.A1",
+          "article-title": "Low back pain",
+          "volume": "42",
+          "author": "Delitto",
+          "year": "2012",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2023011706562775200_ref21",
+          "doi-asserted-by": "crossref",
+          "first-page": "1018",
+          "DOI": "10.1093/ptj/81.4.1018",
+          "article-title": "Physical therapy management of low back pain: an exploratory survey of therapist approaches",
+          "volume": "81",
+          "author": "Li",
+          "year": "2001",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "2023011706562775200_ref22",
+          "doi-asserted-by": "crossref",
+          "first-page": "723",
+          "DOI": "10.1097/01.jom.0000214356.67689.1f",
+          "article-title": "Survey of acute low back pain management by specialty group and practice experience",
+          "volume": "48",
+          "author": "Webster",
+          "year": "2006",
+          "journal-title": "J Occup Environ Med"
+        },
+        {
+          "author": "Clarivate. End Note X9 software",
+          "key": "2023011706562775200_ref23"
+        },
+        {
+          "author": "Qatar Computing Research Institute, Data Analytics. Rayyan QCRI software",
+          "key": "2023011706562775200_ref24"
+        },
+        {
+          "volume-title": "Cochrane Handbook for Systematic Reviews of Interventions version 6.0",
+          "year": "2019",
+          "author": "JPT",
+          "key": "2023011706562775200_ref25"
+        },
+        {
+          "key": "2023011706562775200_ref26",
+          "doi-asserted-by": "crossref",
+          "first-page": "1660",
+          "DOI": "10.1097/BRS.0000000000001061",
+          "article-title": "2015 updated method guideline for systematic reviews in the Cochrane back and neck group",
+          "volume": "40",
+          "author": "Furlan",
+          "year": "2015",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2023011706562775200_ref27",
+          "doi-asserted-by": "crossref",
+          "first-page": "d5928",
+          "DOI": "10.1136/bmj.d5928",
+          "article-title": "The Cochrane Collaboration’s tool for assessing risk of bias in randomized trials",
+          "volume": "343",
+          "author": "Higgins",
+          "year": "2011",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "2023011706562775200_ref28",
+          "doi-asserted-by": "crossref",
+          "first-page": "196",
+          "DOI": "10.1186/s13643-019-1116-3",
+          "article-title": "Effectiveness of treatments for acute and sub-acute mechanical non-specific low back pain: protocol for a systematic review and network meta-analysis",
+          "volume": "8",
+          "author": "Gianola",
+          "year": "2019",
+          "journal-title": "Syst Rev"
+        },
+        {
+          "key": "2023011706562775200_ref29",
+          "doi-asserted-by": "crossref",
+          "first-page": "1490",
+          "DOI": "10.1136/bmj.328.7454.1490",
+          "article-title": "Grading quality of evidence and strength of recommendations",
+          "volume": "328",
+          "author": "Atkins",
+          "year": "2004",
+          "journal-title": "BMJ"
+        },
+        {
+          "volume-title": "Cochrane Handbook for Systematic Reviews of Interventions version 6.0 (updated July 2019)",
+          "year": "2019",
+          "author": "Schünemann",
+          "key": "2023011706562775200_ref30"
+        },
+        {
+          "volume-title": "GRADE Handbook for Grading Quality of Evidence and Strength of Recommendations",
+          "author": "Schünemann",
+          "key": "2023011706562775200_ref31"
+        },
+        {
+          "key": "2023011706562775200_ref32",
+          "doi-asserted-by": "crossref",
+          "first-page": "407",
+          "DOI": "10.1016/j.jclinepi.2010.07.017",
+          "article-title": "GRADE guidelines: 4. Rating the quality of evidence-study limitations (risk of bias)",
+          "volume": "64",
+          "author": "Guyatt",
+          "year": "2011",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "2023011706562775200_ref33",
+          "doi-asserted-by": "crossref",
+          "first-page": "177",
+          "DOI": "10.1016/0197-2456(86)90046-2",
+          "article-title": "Meta-analysis in clinical trials",
+          "volume": "7",
+          "author": "DerSimonian",
+          "year": "1986",
+          "journal-title": "Control Clin Trials"
+        },
+        {
+          "volume-title": "Statistical Methods for Meta-Analysis",
+          "year": "1985",
+          "author": "Hedges",
+          "key": "2023011706562775200_ref34"
+        },
+        {
+          "key": "2023011706562775200_ref35",
+          "volume-title": "Statistical Power Analysis for the Behavioral Sciences",
+          "author": "Cohen",
+          "year": "1988",
+          "edition": "2nd"
+        },
+        {
+          "key": "2023011706562775200_ref36",
+          "doi-asserted-by": "crossref",
+          "first-page": "193",
+          "DOI": "10.1037/1082-989X.11.2.193",
+          "article-title": "Assessing heterogeneity in meta-analysis: Q statistic or I2 index?",
+          "volume": "11",
+          "author": "Huedo-Medina",
+          "year": "2006",
+          "journal-title": "Psychol Methods"
+        },
+        {
+          "key": "2023011706562775200_ref37",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1177/2167696815617076",
+          "article-title": "Systematic reviews with meta-analysis: why, when, and how",
+          "volume": "4",
+          "author": "Crocetti",
+          "year": "2016",
+          "journal-title": "Emerg Adulthood"
+        },
+        {
+          "key": "2023011706562775200_ref38",
+          "doi-asserted-by": "crossref",
+          "first-page": "415",
+          "DOI": "10.1016/S0304-3959(99)00302-4",
+          "article-title": "An evaluation of homogeneity tests in meta-analyses in pain using simulations of individual patient data",
+          "volume": "85",
+          "author": "Gavaghan",
+          "year": "2000",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "2023011706562775200_ref39",
+          "doi-asserted-by": "crossref",
+          "first-page": "1539",
+          "DOI": "10.1002/sim.1186",
+          "article-title": "Quantifying heterogeneity in a meta-analysis",
+          "volume": "21",
+          "author": "Higgins",
+          "year": "2002",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "2023011706562775200_ref40",
+          "doi-asserted-by": "crossref",
+          "first-page": "557",
+          "DOI": "10.1136/bmj.327.7414.557",
+          "article-title": "Measuring inconsistency in meta-analyses",
+          "volume": "327",
+          "author": "Higgins",
+          "year": "2003",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "2023011706562775200_ref41",
+          "first-page": "3432",
+          "article-title": "The effect of lumbar traction in low back pain patients with sciatica",
+          "volume": "16",
+          "author": "Al Amer",
+          "year": "2019",
+          "journal-title": "Bioscience Research"
+        },
+        {
+          "key": "2023011706562775200_ref42",
+          "doi-asserted-by": "crossref",
+          "first-page": "433",
+          "DOI": "10.1097/PHM.0000000000000892",
+          "article-title": "Mechanical traction for lumbar radicular pain supine or prone? A randomized controlled trial",
+          "volume": "97",
+          "author": "Bilgilisoy Filiz",
+          "year": "2018",
+          "journal-title": "Am J Phys Med Rehabil"
+        },
+        {
+          "key": "2023011706562775200_ref43",
+          "doi-asserted-by": "crossref",
+          "first-page": "E793",
+          "DOI": "10.1097/BRS.0b013e31815d001a",
+          "article-title": "Is there a subgroup of patients with low back pain likely to benefit from mechanical traction? Results of a randomized clinical trial and subgrouping analysis",
+          "volume": "32",
+          "author": "Fritz",
+          "year": "2007",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2023011706562775200_ref44",
+          "doi-asserted-by": "crossref",
+          "first-page": "67",
+          "DOI": "10.1016/j.ejr.2017.04.012",
+          "article-title": "CT-guided transforaminal epidural steroid injection and vertebral axial decompression in management of acute lumbar disc herniation",
+          "volume": "40",
+          "author": "Kotb",
+          "year": "2017",
+          "journal-title": "Egypt. Rheumatol"
+        },
+        {
+          "key": "2023011706562775200_ref45",
+          "doi-asserted-by": "crossref",
+          "first-page": "622",
+          "DOI": "10.1007/s00296-005-0035-x",
+          "article-title": "Effect of continuous lumbar traction on the size of herniated disc material in lumbar disc herniation",
+          "volume": "26",
+          "author": "Ozturk",
+          "year": "2006",
+          "journal-title": "Rheumatol Int"
+        },
+        {
+          "key": "2023011706562775200_ref46",
+          "doi-asserted-by": "crossref",
+          "first-page": "780",
+          "DOI": "10.1179/016164101101199180",
+          "article-title": "A prospective randomized controlled study of VAX-D and TENS for the treatment of chronic low back pain",
+          "volume": "23",
+          "author": "Sherry",
+          "year": "2001",
+          "journal-title": "Neurol Res"
+        },
+        {
+          "key": "2023011706562775200_ref47",
+          "doi-asserted-by": "crossref",
+          "first-page": "144",
+          "DOI": "10.2519/jospt.2016.6238",
+          "article-title": "The effectiveness of mechanical traction among subgroups of patients with low back pain and leg pain: a randomized trial",
+          "volume": "46",
+          "author": "Thackeray",
+          "year": "2016",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2023011706562775200_ref48",
+          "doi-asserted-by": "crossref",
+          "first-page": "191",
+          "DOI": "10.1016/j.jmpt.2008.02.001",
+          "article-title": "Comparison of 3 physical therapy modalities for acute pain in lumbar disc herniation measured by clinical evaluation and magnetic resonance imaging",
+          "volume": "31",
+          "author": "Unlu",
+          "year": "2008",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2023011706562775200_ref49",
+          "doi-asserted-by": "crossref",
+          "first-page": "1164",
+          "DOI": "10.1016/j.apmr.2004.11.040",
+          "article-title": "Current use of lumbar traction in the management of low back pain: results of a survey of physiotherapists in the United Kingdom",
+          "volume": "86",
+          "author": "Harte",
+          "year": "2005",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "2023011706562775200_ref50",
+          "doi-asserted-by": "crossref",
+          "first-page": "382",
+          "DOI": "10.2519/jospt.1987.8.8.382",
+          "article-title": "Comparison of electromyographic activity in normal lumbar sacrospinalis musculature during static pelvic-traction in two different positions",
+          "volume": "8",
+          "author": "Weatherell",
+          "year": "1987",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "2023011706562775200_ref51",
+          "doi-asserted-by": "crossref",
+          "first-page": "876",
+          "DOI": "10.1097/00007632-200104150-00010",
+          "article-title": "Morphologic changes in the lumbar intervertebral foramen due to flexion-extension, lateral bending, and axial rotation: an in vitro anatomic and biomechanical study",
+          "volume": "26",
+          "author": "Fujiwara",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "2023011706562775200_ref52",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1177/0269215519872528",
+          "article-title": "The effect of mechanical traction on low back pain in patients with herniated intervertebral disks: a systemic review and meta-analysis",
+          "volume": "34",
+          "author": "Cheng",
+          "year": "2020",
+          "journal-title": "Clin Rehabil"
+        },
+        {
+          "key": "2023011706562775200_ref53",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1177/1744806918768972",
+          "article-title": "The effectiveness of therapeutic strategies for patients with radiculopathy: a network meta-analysis",
+          "volume": "14",
+          "author": "Zhang",
+          "year": "2018",
+          "journal-title": "Mol Pain"
+        },
+        {
+          "key": "2023011706562775200_ref54",
+          "first-page": "61",
+          "article-title": "Traction therapy in patients with herniated lumbar intervertebral discs",
+          "volume": "34",
+          "author": "Weber",
+          "year": "1984",
+          "journal-title": "J Oslo City Hosp"
+        },
+        {
+          "key": "2023011706562775200_ref55",
+          "doi-asserted-by": "crossref",
+          "first-page": "481",
+          "DOI": "10.1589/jpts.27.481",
+          "article-title": "Influences of spinal decompression therapy and general traction therapy on the pain, disability, and straight leg raising of patients with intervertebral disc herniation",
+          "volume": "27",
+          "author": "Choi",
+          "year": "2015",
+          "journal-title": "J Phys Ther Sci"
+        },
+        {
+          "key": "2023011706562775200_ref56",
+          "doi-asserted-by": "crossref",
+          "first-page": "151",
+          "DOI": "10.1080/095939800750036079",
+          "article-title": "A comparison of inverted spinal traction and conventional traction in the treatment of lumbar disc herniations",
+          "volume": "16",
+          "author": "Güevenol",
+          "year": "2000",
+          "journal-title": "Physiother Theory Pract"
+        },
+        {
+          "key": "2023011706562775200_ref57",
+          "first-page": "63",
+          "article-title": "Decompression, reduction, and stabilization of the lumbar spine: a cost-effective treatment for lumbosacral pain",
+          "volume": "7",
+          "author": "Shealy CN Borgmeyer",
+          "year": "1997",
+          "journal-title": "AJPM"
+        },
+        {
+          "key": "2023011706562775200_ref58",
+          "doi-asserted-by": "crossref",
+          "first-page": "871",
+          "DOI": "10.1016/0003-9993(93)90015-3",
+          "article-title": "Autotraction versus passive traction: an open controlled study",
+          "volume": "74",
+          "author": "Tesio",
+          "year": "1993",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "2023011706562775200_ref59",
+          "doi-asserted-by": "crossref",
+          "first-page": "645",
+          "DOI": "10.1016/j.jmpt.2016.09.006",
+          "article-title": "High-force versus low-force lumbar traction in acute lumbar sciatica due to disc herniation: a preliminary randomized trial",
+          "volume": "39",
+          "author": "Isner-Horobeti",
+          "year": "2016",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "2023011706562775200_ref60",
+          "doi-asserted-by": "crossref",
+          "first-page": "222",
+          "DOI": "10.1093/rheumatology/14.4.222",
+          "article-title": "Lumbar traction: a double-blind controlled study for sciatica",
+          "volume": "14",
+          "author": "Mathews",
+          "year": "1975",
+          "journal-title": "Rheumatol Rehabil"
+        },
+        {
+          "key": "2023011706562775200_ref61",
+          "first-page": "82",
+          "article-title": "The effect of lumbar traction with two different load on clinic and functional status of patients with subacute lumbar disc herniation",
+          "volume": "33",
+          "author": "Murat",
+          "year": "2018",
+          "journal-title": "Medeniyet Medical Journal"
+        },
+        {
+          "key": "2023011706562775200_ref62",
+          "doi-asserted-by": "crossref",
+          "first-page": "181",
+          "DOI": "10.1093/rheumatology/25.2.181",
+          "article-title": "A controlled trial of continuous lumbar traction in the treatment of back pain and sciatica",
+          "volume": "25",
+          "author": "Pal",
+          "year": "1986",
+          "journal-title": "Br J Rheumatol"
+        },
+        {
+          "key": "2023011706562775200_ref63",
+          "first-page": "271",
+          "article-title": "Treatment of lumbar sciatica with or without neurological deficit using mechanical traction. A double-blind study",
+          "volume": "118",
+          "author": "Reust",
+          "year": "1988",
+          "journal-title": "Schweiz Med Wochenschr"
+        },
+        {
+          "key": "2023011706562775200_ref64",
+          "first-page": "37",
+          "article-title": "De effectiviteit van tractie bij Lage rugklachten: de resultaten van een gerandomiseerde en geblindeerde pilotstudy",
+          "volume": "101",
+          "author": "Heijden",
+          "year": "1991",
+          "journal-title": "Ned T Fysiotherapie"
+        },
+        {
+          "key": "2023011706562775200_ref65",
+          "first-page": "167",
+          "article-title": "Traction therapy in sciatica due to disc prolapse (does traction treatment have any positive effect on patients suffering from sciatica caused by disc prolapse?)",
+          "volume": "23",
+          "author": "Weber",
+          "year": "1973",
+          "journal-title": "J Oslo City Hosp"
+        },
+        {
+          "key": "2023011706562775200_ref66",
+          "doi-asserted-by": "crossref",
+          "first-page": "549",
+          "DOI": "10.1001/jama.1955.02960230013005",
+          "article-title": "Lumbar traction therapy-elimination of physical factors that prevent lumbar stretch",
+          "volume": "1596",
+          "author": "Judovich",
+          "year": "1955",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "2023011706562775200_ref67",
+          "doi-asserted-by": "crossref",
+          "first-page": "282",
+          "DOI": "10.1016/0002-9610(57)90748-1",
+          "article-title": "Traction therapy, a study of resistance forces",
+          "volume": "93",
+          "author": "Judovich",
+          "year": "1957",
+          "journal-title": "Am J Surg"
+        }
+      ],
+      "container-title": [
+        "Physical Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://academic.oup.com/ptj/advance-article-pdf/doi/10.1093/ptj/pzaa231/35328528/pzaa231.pdf",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://academic.oup.com/ptj/article-pdf/101/3/pzaa231/48727556/pzaa231.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://academic.oup.com/ptj/article-pdf/101/3/pzaa231/48727556/pzaa231.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            17
+          ]
+        ],
+        "date-time": "2023-01-17T06:57:31Z",
+        "timestamp": 1673938651000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://academic.oup.com/ptj/article/doi/10.1093/ptj/pzaa231/6056330"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2020,
+            12,
+            31
+          ]
+        ]
+      },
+      "references-count": 67,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              3
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1093/ptj/pzaa231",
+      "relation": {},
+      "ISSN": [
+        "0031-9023",
+        "1538-6724"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0031-9023"
+        },
+        {
+          "type": "electronic",
+          "value": "1538-6724"
+        }
+      ],
+      "subject": [],
+      "published-other": {
+        "date-parts": [
+          [
+            2021,
+            3,
+            1
+          ]
+        ]
+      },
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            12,
+            31
+          ]
+        ]
+      },
+      "article-number": "pzaa231"
+    }
+  }
+}

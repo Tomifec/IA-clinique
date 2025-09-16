@@ -1,0 +1,505 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1080_10255842_2020_1812844.md",
+  "id": "evidence_import_refs_2025_09_12_10_1080_10255842_2020_1812844",
+  "doi": "10.1080/10255842.2020.1812844",
+  "pmid": "39452894",
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:18.491603Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            3
+          ]
+        ],
+        "date-time": "2025-07-03T02:03:46Z",
+        "timestamp": 1751508226056
+      },
+      "reference-count": 4,
+      "publisher": "Informa UK Limited",
+      "issue": "sup1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                10,
+                19
+              ]
+            ],
+            "date-time": "2020-10-19T00:00:00Z",
+            "timestamp": 1603065600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "www.tandfonline.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Computer Methods in Biomechanics and Biomedical Engineering"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            19
+          ]
+        ]
+      },
+      "DOI": "10.1080/10255842.2020.1812844",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            2
+          ]
+        ],
+        "date-time": "2020-11-02T09:38:38Z",
+        "timestamp": 1604309918000
+      },
+      "page": "S76-S78",
+      "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "The biomechanical Nature of nucleus Pulposus in a fissured disc revealed by quantitative MRI performed under dynamic conditions"
+      ],
+      "prefix": "10.1080",
+      "volume": "23",
+      "author": [
+        {
+          "given": "J. P.",
+          "family": "Deneuville",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "PRISMATICS Lab CHU, Poitiers, France;"
+            },
+            {
+              "name": "Institut Pprime, UPR 3346 CNRS, Université de Poitiers, ISAE-ENSMA, Poitiers, France;"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Yushchenko",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biomedical Engineering, Center for Adaptable MRI Technology, University of Basel, Basel, Switzerland;"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Vendeuvre",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "PRISMATICS Lab CHU, Poitiers, France;"
+            },
+            {
+              "name": "Institut Pprime, UPR 3346 CNRS, Université de Poitiers, ISAE-ENSMA, Poitiers, France;"
+            },
+            {
+              "name": "Department of Spine Surgery and Neuromodulation, CHU – Poitiers, Poitiers, France;"
+            },
+            {
+              "name": "Orthopaedic Surgery and Traumatology Unit, CHU – Poitiers, Poitiers, France;"
+            },
+            {
+              "name": "ABS Lab, Poitiers University, Poitiers, France"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Germaneau",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institut Pprime, UPR 3346 CNRS, Université de Poitiers, ISAE-ENSMA, Poitiers, France;"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Billot",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "PRISMATICS Lab CHU, Poitiers, France;"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Roulaud",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "PRISMATICS Lab CHU, Poitiers, France;"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Sarracanie",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biomedical Engineering, Center for Adaptable MRI Technology, University of Basel, Basel, Switzerland;"
+            }
+          ]
+        },
+        {
+          "given": "N.",
+          "family": "Salameh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biomedical Engineering, Center for Adaptable MRI Technology, University of Basel, Basel, Switzerland;"
+            }
+          ]
+        },
+        {
+          "given": "P.",
+          "family": "Rigoard",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "PRISMATICS Lab CHU, Poitiers, France;"
+            },
+            {
+              "name": "Institut Pprime, UPR 3346 CNRS, Université de Poitiers, ISAE-ENSMA, Poitiers, France;"
+            },
+            {
+              "name": "Department of Spine Surgery and Neuromodulation, CHU – Poitiers, Poitiers, France;"
+            }
+          ]
+        }
+      ],
+      "member": "301",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            2
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "CIT0001",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1016/j.ejrad.2016.12.001",
+          "volume": "87",
+          "author": "Galley J",
+          "year": "2017",
+          "journal-title": "Eur J Radiol"
+        },
+        {
+          "key": "CIT0002",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1179/174328809X452827"
+        },
+        {
+          "key": "CIT0003",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.msksp.2018.09.006"
+        },
+        {
+          "issue": "3",
+          "key": "CIT0004",
+          "doi-asserted-by": "crossref",
+          "first-page": "287",
+          "DOI": "10.1097/00007632-198704000-00018",
+          "volume": "12",
+          "author": "Sachs BL",
+          "year": "1987",
+          "journal-title": "Spine"
+        }
+      ],
+      "container-title": [
+        "Computer Methods in Biomechanics and Biomedical Engineering"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.1080/10255842.2020.1812844",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            2
+          ]
+        ],
+        "date-time": "2020-11-02T09:42:46Z",
+        "timestamp": 1604310166000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.tandfonline.com/doi/full/10.1080/10255842.2020.1812844"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            19
+          ]
+        ]
+      },
+      "references-count": 4,
+      "journal-issue": {
+        "issue": "sup1",
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              10,
+              19
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1080/10255842.2020.1812844"
+      ],
+      "URL": "https://doi.org/10.1080/10255842.2020.1812844",
+      "relation": {},
+      "ISSN": [
+        "1025-5842",
+        "1476-8259"
+      ],
+      "issn-type": [
+        {
+          "value": "1025-5842",
+          "type": "print"
+        },
+        {
+          "value": "1476-8259",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            19
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+          "order": 1,
+          "name": "peerreview_statement",
+          "label": "Peer Review Statement"
+        },
+        {
+          "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=gcmb20",
+          "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=gcmb20",
+          "order": 2,
+          "name": "aims_and_scope_url",
+          "label": "Aim & Scope"
+        },
+        {
+          "value": "2020-11-02",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    },
+    "pubmed_summary": {
+      "uid": "39452894",
+      "pubdate": "2025 Jan",
+      "epubdate": "2024 Oct 25",
+      "source": "Future Oncol",
+      "authors": [
+        {
+          "name": "Cella D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Motzer RJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Suarez C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blum SI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ejzykowicz F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hamilton M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wallace JF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Simsek B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ivanescu C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Choueiri TK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Apolo AB",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Apolo AB",
+      "title": "Plain language summary of quality of life in CheckMate 9ER: Cabozantinib plus nivolumab in advanced renal cell carcinoma.",
+      "sorttitle": "plain language summary of quality of life in checkmate 9er cabozantinib plus nivolumab in advanced renal cell carcinoma",
+      "volume": "21",
+      "issue": "2",
+      "pages": "181-194",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101256629",
+      "issn": "1479-6694",
+      "essn": "1744-8301",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - in process",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "39452894"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC11792805"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC11792805;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/14796694.2024.2415786"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2024/10/25 12:23"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2024/10/25 12:23"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2024/10/25 10:04"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2024/10/25 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Future Oncol. 2025 Apr;21(10):1281. doi: 10.1080/14796694.2024.2432128.",
+          "reftype": "Erratum in",
+          "pmid": 39580642,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Future oncology (London, England)",
+      "elocationid": "doi: 10.1080/14796694.2024.2415786",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2025/01/01 00:00",
+      "sortfirstauthor": "Cella D",
+      "vernaculartitle": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+
+* Déduplication inter-docs (MinHash/Jaccard).
+* Score qualité pondéré (récence, niveau de preuve, cohérence).
+* UI locale de visualisation du graphe.
+
+---
+
+## 15. Définition de prêt / terminé
+
+* **Ready** : front-matter complet, champs de curation saisis, `statut` défini.
+* **Done** : `make all` vert, artefacts régénérés, logs à jour.  

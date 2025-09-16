@@ -1,0 +1,623 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_msksp_2018_03_006.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_msksp_2018_03_006",
+  "doi": "10.1016/j.msksp.2018.03.006",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:53.017430Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T13:29:59Z",
+        "timestamp": 1757683799845
+      },
+      "reference-count": 37,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2018-08-01T00:00:00Z",
+            "timestamp": 1533081600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "clinicalkey.fr",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.msksp.2018.03.006",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            4,
+            9
+          ]
+        ],
+        "date-time": "2018-04-09T12:40:00Z",
+        "timestamp": 1523277600000
+      },
+      "page": "17-24",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 27,
+      "special_numbering": "C",
+      "title": [
+        "A new clinical model for facilitating the development of pattern recognition skills in clinical pain assessment"
+      ],
+      "prefix": "10.1016",
+      "volume": "36",
+      "author": [
+        {
+          "given": "David M.",
+          "family": "Walton",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "James M.",
+          "family": "Elliott",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.msksp.2018.03.006_bib1",
+          "series-title": "American Psychiatric Association. DSM-5 Task Force. Diagnostic and Statistical Manual of Mental Disorders : DSM-5",
+          "author": "American Psychiatric Association",
+          "year": "2013"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2018.03.006_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "556",
+          "DOI": "10.1016/j.jpain.2009.02.002",
+          "article-title": "Experimental and clinical applications of quantitative sensory testing applied to skin, muscles and viscera",
+          "volume": "10",
+          "author": "Arendt-Nielsen",
+          "year": "2009",
+          "journal-title": "J. Pain"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2018.03.006_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "590",
+          "DOI": "10.1002/acr.22744",
+          "article-title": "Physical therapist-delivered pain coping skills training and exercise for knee osteoarthritis: randomized controlled trial",
+          "volume": "68",
+          "author": "Bennell",
+          "year": "2016",
+          "journal-title": "Arthritis Care Res. Hob."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.03.006_bib4",
+          "series-title": "From Novice to Expert, Excellence and Power in Clinical Nursing Practice",
+          "author": "Benner",
+          "year": "1984"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.03.006_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1186/1471-2474-10-13",
+          "article-title": "Depression and anxiety as major determinants of neck pain: a cross-sectional study in general practice",
+          "volume": "10",
+          "author": "Blozik",
+          "year": "2009",
+          "journal-title": "BMC Musculoskelet. Disord."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2018.03.006_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "517",
+          "DOI": "10.1001/jama.2017.7797",
+          "article-title": "Unintended consequences of machine learning in medicine",
+          "volume": "318",
+          "author": "Cabitza",
+          "year": "2017",
+          "journal-title": "JAMA"
+        },
+        {
+          "issue": "1–2",
+          "key": "10.1016/j.msksp.2018.03.006_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "329",
+          "DOI": "10.1016/S0304-3959(98)00229-2",
+          "article-title": "Pain-related fear is more disabling than pain itself: evidence on the role of pain-related fear in chronic back pain disability",
+          "volume": "80",
+          "author": "Crombez",
+          "year": "1999",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2018.03.006_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "736",
+          "DOI": "10.1016/j.math.2015.04.015",
+          "article-title": "Joint position sense error in people with neck pain: a systematic review",
+          "volume": "20",
+          "author": "de Vries",
+          "year": "2015",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.03.006_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "328",
+          "DOI": "10.1016/j.neubiorev.2016.09.015",
+          "article-title": "Pain in the body. Altered interoception in chronic pain conditions: a systematic review",
+          "volume": "71",
+          "author": "Di Lernia",
+          "year": "2016",
+          "journal-title": "Neurosci. Biobehav Rev."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.msksp.2018.03.006_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "797",
+          "DOI": "10.3233/BMR-150587",
+          "article-title": "Do psychological states associate with pain and disability in chronic neck pain patients?",
+          "volume": "28",
+          "author": "Dimitriadis",
+          "year": "2015",
+          "journal-title": "J. Back Musculoskelet. Rehabil."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2018.03.006_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "241",
+          "DOI": "10.1016/j.jpain.2014.01.004",
+          "article-title": "The acttion-American pain society pain taxonomy (AAPT): an evidence-based and multidimensional approach to classifying chronic pain conditions",
+          "volume": "15",
+          "author": "Fillingim",
+          "year": "2014",
+          "journal-title": "J. Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2018.03.006_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1016/S0304-3940(97)13441-3",
+          "article-title": "Extensive reorganization of primary somatosensory cortex in chronic back pain patients",
+          "volume": "224",
+          "author": "Flor",
+          "year": "1997",
+          "journal-title": "Neurosci. Lett."
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.msksp.2018.03.006_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1911",
+          "DOI": "10.1185/030079906X132488",
+          "article-title": "painDETECT: a new screening questionnaire to identify neuropathic components in patients with back pain",
+          "volume": "22",
+          "author": "Freynhagen",
+          "year": "2006",
+          "journal-title": "Curr. Med. Res. Opin."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2018.03.006_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "513",
+          "DOI": "10.2522/ptj.20060192",
+          "article-title": "Preliminary examination of a proposed treatment-based classification system for patients receiving physical therapy interventions for neck pain",
+          "volume": "87",
+          "author": "Fritz",
+          "year": "2007",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2018.03.006_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "293",
+          "DOI": "10.1016/j.jpain.2008.09.004",
+          "article-title": "Psychologic influence on experimental pain sensitivity and clinical pain intensity for patients with shoulder pain",
+          "volume": "10",
+          "author": "George",
+          "year": "2009",
+          "journal-title": "J. Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2018.03.006_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "27",
+          "DOI": "10.1016/S0031-9406(05)65900-7",
+          "article-title": "Pain, the tissues and the nervous system: a conceptual model",
+          "volume": "84",
+          "author": "Gifford",
+          "year": "1998",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.msksp.2018.03.006_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "698",
+          "DOI": "10.2522/ptj.20080351",
+          "article-title": "A guide to interpretation of studies investigating subgroups of responders to physical therapy interventions",
+          "volume": "89",
+          "author": "Hancock",
+          "year": "2009",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2018.03.006_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "632",
+          "DOI": "10.1002/art.23563",
+          "article-title": "A primary care back pain screening tool: identifying patient subgroups for initial treatment",
+          "volume": "59",
+          "author": "Hill",
+          "year": "2008",
+          "journal-title": "Arthritis Rheum."
+        },
+        {
+          "issue": "9802",
+          "key": "10.1016/j.msksp.2018.03.006_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "1560",
+          "DOI": "10.1016/S0140-6736(11)60937-9",
+          "article-title": "Comparison of stratified primary care management for low back pain with current best practice (STarT Back): a randomised controlled trial",
+          "volume": "378",
+          "author": "Hill",
+          "year": "2011",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2018.03.006_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "225",
+          "DOI": "10.1016/0304-3959(95)00048-W",
+          "article-title": "Central representation of chronic ongoing neuropathic pain studied by positron emission tomography",
+          "volume": "63",
+          "author": "Hsieh",
+          "year": "1995",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.msksp.2018.03.006_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "875",
+          "DOI": "10.1093/ptj/72.12.875",
+          "article-title": "Clinical reasoning in manual therapy",
+          "volume": "72",
+          "author": "Jones",
+          "year": "1992",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.msksp.2018.03.006_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "1798",
+          "DOI": "10.1016/j.pain.2013.05.041",
+          "article-title": "Management of acute whiplash: a randomized controlled trial of multidisciplinary stratified treatments",
+          "volume": "154",
+          "author": "Jull",
+          "year": "2013",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2018.03.006_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "181",
+          "DOI": "10.1016/j.berh.2009.11.003",
+          "article-title": "Treatment-based subgroups of low back pain: a guide to appraisal of research studies and a summary of current evidence",
+          "volume": "24",
+          "author": "Kamper",
+          "year": "2010",
+          "journal-title": "Best. Pract. Res. Clin. Rheumatol."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2018.03.006_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "947",
+          "DOI": "10.1093/pm/pnx019",
+          "article-title": "The acttion-APS-AAPM pain taxonomy (AAAPT) multidimensional approach to classifying acute pain conditions",
+          "volume": "18",
+          "author": "Kent",
+          "year": "2017",
+          "journal-title": "Pain Med."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.03.006_bib25",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Kosek E, Cohen M, Baron R, et al.. Do We Need a Third Mechanistic Descriptor for Chronic Pain States? doi:10.1097/j.pain.0000000000000507.",
+          "DOI": "10.1097/j.pain.0000000000000507"
+        },
+        {
+          "issue": "Suppl. 6",
+          "key": "10.1016/j.msksp.2018.03.006_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "S121",
+          "DOI": "10.1016/S0304-3959(99)00145-1",
+          "article-title": "From the gate to the neuromatrix",
+          "author": "Melzack",
+          "year": "1999",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "9938",
+          "key": "10.1016/j.msksp.2018.03.006_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "133",
+          "DOI": "10.1016/S0140-6736(14)60457-8",
+          "article-title": "Comprehensive physiotherapy exercise programme or advice for chronic whiplash (PROMISE): a pragmatic randomised controlled trial",
+          "volume": "384",
+          "author": "Michaleff",
+          "year": "2014",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "4 Suppl. l",
+          "key": "10.1016/j.msksp.2018.03.006_bib28",
+          "article-title": "Assessment of neck pain and its associated disorders: results of the bone and Joint decade 2000-2010 task force on neck pain and its associated disorders",
+          "volume": "33",
+          "author": "Nordin",
+          "year": "2008",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.msksp.2018.03.006_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "242",
+          "DOI": "10.1016/j.math.2005.07.001",
+          "article-title": "Diagnosis and classification of chronic low back pain disorders: maladaptive movement and motor control impairments as underlying mechanism",
+          "volume": "10",
+          "author": "O'sullivan",
+          "year": "2005",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.03.006_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1016/S0079-6123(08)61079-1",
+          "article-title": "Cutaneous polymodal receptors: characteristics and plasticity",
+          "volume": "113",
+          "author": "Perl",
+          "year": "1996",
+          "journal-title": "Prog. Brain Res."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2018.03.006_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "82",
+          "DOI": "10.1016/j.pain.2010.09.015",
+          "article-title": "Partner responses to patient pain and well behaviors and their relationship to patient pain behavior, functioning, and depression",
+          "volume": "152",
+          "author": "Raichle",
+          "year": "2011",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.msksp.2018.03.006_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "2198",
+          "DOI": "10.1016/j.pain.2013.07.001",
+          "article-title": "Derivation of a clinical prediction rule to identify both chronic moderate/severe disability and full recovery following whiplash injury",
+          "volume": "154",
+          "author": "Ritchie",
+          "year": "2013",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "9453",
+          "key": "10.1016/j.msksp.2018.03.006_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "82",
+          "DOI": "10.1016/S0140-6736(04)17670-8",
+          "article-title": "External validity of randomised controlled trials: “To whom do the results of this trial apply?",
+          "volume": "365",
+          "author": "Rothwell",
+          "year": "2005",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "7023",
+          "key": "10.1016/j.msksp.2018.03.006_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "71",
+          "DOI": "10.1136/bmj.312.7023.71",
+          "article-title": "Evidence based medicine: what it is and what it isn't",
+          "volume": "312",
+          "author": "Sackett",
+          "year": "1996",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2018.03.006_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "68",
+          "DOI": "10.1155/2002/176378",
+          "article-title": "Differential predictors of pain and disability in patients with whiplash injuries",
+          "volume": "7",
+          "author": "Sullivan",
+          "year": "2002",
+          "journal-title": "Pain Res. Manag."
+        },
+        {
+          "issue": "c117",
+          "key": "10.1016/j.msksp.2018.03.006_bib36",
+          "article-title": "Is a subgroup effect believable? Updating criteria to evaluate the credibility of subgroup analyses",
+          "volume": "340",
+          "author": "Sun",
+          "year": "2010",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2018.03.006_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "441",
+          "DOI": "10.7326/0003-4819-140-8-200404200-00010",
+          "article-title": "Physicians AC of, Society AP. Pain: moving from symptom control toward mechanism-specific pharmacologic management",
+          "volume": "140",
+          "author": "Woolf",
+          "year": "2004",
+          "journal-title": "Ann. Intern Med."
+        }
+      ],
+      "container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S246878121830081X?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S246878121830081X?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            21
+          ]
+        ],
+        "date-time": "2018-06-21T03:19:16Z",
+        "timestamp": 1529551156000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S246878121830081X"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            8
+          ]
+        ]
+      },
+      "references-count": 37,
+      "alternative-id": [
+        "S246878121830081X"
+      ],
+      "URL": "https://doi.org/10.1016/j.msksp.2018.03.006",
+      "relation": {},
+      "ISSN": [
+        "2468-7812"
+      ],
+      "issn-type": [
+        {
+          "value": "2468-7812",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            8
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "A new clinical model for facilitating the development of pattern recognition skills in clinical pain assessment",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Musculoskeletal Science and Practice",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.msksp.2018.03.006",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2018 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

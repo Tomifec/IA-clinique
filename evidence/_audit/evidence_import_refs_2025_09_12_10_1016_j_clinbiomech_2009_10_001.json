@@ -1,0 +1,553 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_clinbiomech_2009_10_001.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_clinbiomech_2009_10_001",
+  "doi": "10.1016/j.clinbiomech.2009.10.001",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:31.690830Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            21
+          ]
+        ],
+        "date-time": "2025-06-21T13:28:48Z",
+        "timestamp": 1750512528942
+      },
+      "reference-count": 35,
+      "publisher": "Elsevier BV",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2010,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2010-02-01T00:00:00Z",
+            "timestamp": 1264982400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Clinical Biomechanics"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            2
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.clinbiomech.2009.10.001",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2009,
+            10,
+            31
+          ]
+        ],
+        "date-time": "2009-10-31T08:48:10Z",
+        "timestamp": 1256978890000
+      },
+      "page": "115-123",
+      "source": "Crossref",
+      "is-referenced-by-count": 82,
+      "title": [
+        "A comparison of ultrasound and electromyography measures of force and activation to examine the mechanics of abdominal wall contraction"
+      ],
+      "prefix": "10.1016",
+      "volume": "25",
+      "author": [
+        {
+          "given": "Stephen H.M.",
+          "family": "Brown",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Stuart M.",
+          "family": "McGill",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "397",
+          "DOI": "10.1097/01.brs.0000195869.18844.56",
+          "article-title": "Effects of tensioning the lumbar fasciae on segmental stiffness during flexion and extension",
+          "volume": "31",
+          "author": "Barker",
+          "year": "2006",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1016/j.clinbiomech.2007.08.011",
+          "article-title": "How the inherent stiffness of the in-vivo human trunk varies with changing magnitudes of muscular activation",
+          "volume": "23",
+          "author": "Brown",
+          "year": "2008",
+          "journal-title": "Clin. Biomech."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "1021",
+          "DOI": "10.1007/s00421-008-0858-8",
+          "article-title": "An ultrasound investigation into the morphology of the human abdominal wall uncovers complex deformation patterns during contraction",
+          "volume": "104",
+          "author": "Brown",
+          "year": "2008",
+          "journal-title": "Eur. J. Appl. Physiol."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "E70",
+          "DOI": "10.1097/BRS.0b013e31818bd6b1",
+          "article-title": "Transmission of muscularly generated force and stiffness between layers of the rat abdominal wall",
+          "volume": "34",
+          "author": "Brown",
+          "year": "2009",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "745",
+          "DOI": "10.1016/j.jbiomech.2004.05.011",
+          "article-title": "Constraining spine stability levels in an optimization model leads to the prediction of trunk muscle cocontraction and improved spine compression force estimates",
+          "volume": "38",
+          "author": "Brown",
+          "year": "2005",
+          "journal-title": "J. Biomech."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "E387",
+          "DOI": "10.1097/01.brs.0000220221.57213.25",
+          "article-title": "Effects of abdominal muscle coactivation on the externally preloaded trunk: variations in motor control and its effect on spine stability",
+          "volume": "31",
+          "author": "Brown",
+          "year": "2006",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/0268-0033(95)00035-6",
+          "article-title": "Mechanical stability of the in vivo lumbar spine: implications for injury and chronic low back pain",
+          "volume": "11",
+          "author": "Cholewicki",
+          "year": "1996",
+          "journal-title": "Clin. Biomech."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1016/S0021-9290(98)00129-8",
+          "article-title": "Intra-abdominal pressure mechanism for stabilizing the lumbar spine",
+          "volume": "32",
+          "author": "Cholewicki",
+          "year": "1999",
+          "journal-title": "J. Biomech."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1007/s00421-002-0598-0",
+          "article-title": "Can increased intra-abdominal pressure in humans be decoupled from trunk muscle co-contraction during steady state isometric exertions?",
+          "volume": "87",
+          "author": "Cholewicki",
+          "year": "2002",
+          "journal-title": "Eur. J. Appl. Physiol."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib10",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Coghlan, S., Crowe, L., McCarthyPersson, U., Minogue, C., Caulfield, B., 2008. Electrical muscle stimulation for deep stabilizing muscles in abdominal wall. In: Annual international conference of the IEEE engineering in medicine and biology society, pp. 2756–2759.",
+          "DOI": "10.1109/IEMBS.2008.4649773"
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "1237",
+          "DOI": "10.1080/00140138908966893",
+          "article-title": "The role of the abdominal musculature in the elevation of the intra-abdominal pressure during specified tasks",
+          "volume": "32",
+          "author": "Cresswell",
+          "year": "1989",
+          "journal-title": "Ergonomics"
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "2445",
+          "DOI": "10.1097/01.brs.0000143622.80004.bf",
+          "article-title": "Intra-abdominal pressure and activation of abdominal muscles in highly trained participants during sudden heavy trunk loadings",
+          "volume": "29",
+          "author": "Essendrop",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib13",
+          "series-title": "Mechanical Disorders of the Low Back",
+          "author": "Farfan",
+          "year": "1973"
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "2560",
+          "DOI": "10.1097/01.brs.0000144410.89182.f9",
+          "article-title": "Changes in recruitment of the abdominal muscles in people with low back pain: ultrasound measurement of muscle activity",
+          "volume": "22",
+          "author": "Ferreira",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "86",
+          "DOI": "10.1097/00007632-199801010-00019",
+          "article-title": "The effects of abdominal muscle coactivation on lumbar spine stability",
+          "volume": "23",
+          "author": "Gardner-Morse",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "1203",
+          "DOI": "10.1016/S0021-9290(01)00079-3",
+          "article-title": "Modelling the line of action for the oblique abdominal muscles using an elliptical torso model",
+          "volume": "34",
+          "author": "Gatton",
+          "year": "2001",
+          "journal-title": "J. Biomech."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "682",
+          "DOI": "10.1002/mus.10375",
+          "article-title": "Measurement of muscle contraction with ultrasound imaging",
+          "volume": "27",
+          "author": "Hodges",
+          "year": "2003",
+          "journal-title": "Muscle Nerve"
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "1092",
+          "DOI": "10.1152/japplphysiol.00173.2002",
+          "article-title": "Myofascial force transmission: muscle relative position and length determine agonist and synergist muscle force",
+          "volume": "94",
+          "author": "Huijing",
+          "year": "2003",
+          "journal-title": "J. Appl. Physiol."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "972",
+          "DOI": "10.1016/j.clinbiomech.2007.07.005",
+          "article-title": "Can activity within the external abdominal oblique be measured using real-time ultrasound imaging?",
+          "volume": "22",
+          "author": "John",
+          "year": "2007",
+          "journal-title": "Clin. Biomech."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "242",
+          "DOI": "10.1016/j.clinbiomech.2004.10.009",
+          "article-title": "Sagittal plane moment arms of the female lumbar region rectus abdominis in an upright neutral torso posture",
+          "volume": "20",
+          "author": "Jorgensen",
+          "year": "2005",
+          "journal-title": "Clin. Biomech."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "824",
+          "DOI": "10.1002/jor.1100080607",
+          "article-title": "Muscle activities during asymmetric trunk angular accelerations",
+          "volume": "8",
+          "author": "Marras",
+          "year": "1990",
+          "journal-title": "J. Orthopaed. Res."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "809",
+          "DOI": "10.1097/00007632-199107000-00021",
+          "article-title": "Kinetic potential of the lumbar trunk musculature about 3 orthogonal orthopedic axes in extreme postures",
+          "volume": "16",
+          "author": "McGill",
+          "year": "1991",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "973",
+          "DOI": "10.1016/0021-9290(95)00148-4",
+          "article-title": "A revised anatomical model of the abdominal musculature for torso flexion efforts",
+          "volume": "29",
+          "author": "McGill",
+          "year": "1996",
+          "journal-title": "J. Biomech."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "643",
+          "DOI": "10.1016/0021-9290(95)00119-0",
+          "article-title": "Correcting trunk muscle geometry obtained from MRI and CT scans of supine postures for use in standing postures",
+          "volume": "29",
+          "author": "McGill",
+          "year": "1996",
+          "journal-title": "J. Biomech."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "1503",
+          "DOI": "10.1016/0021-9290(96)84547-7",
+          "article-title": "Appropriately placed surface EMG electrodes reflect deep muscle activity (psoas, quadratus lumborum, abdominal wall) in the lumbar spine",
+          "volume": "29",
+          "author": "McGill",
+          "year": "1996",
+          "journal-title": "J. Biomech."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "353",
+          "DOI": "10.1016/S1050-6411(03)00043-9",
+          "article-title": "Coordination of muscle activity to assure stability of the lumbar spine",
+          "volume": "13",
+          "author": "McGill",
+          "year": "2003",
+          "journal-title": "J. Electromyogr. Kinesiol."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "337",
+          "DOI": "10.1016/j.clinbiomech.2004.01.007",
+          "article-title": "The relationship between EMG and change in thickness of transversus abdominis",
+          "volume": "19",
+          "author": "McMeeken",
+          "year": "2004",
+          "journal-title": "Clin. Biomech."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "2861",
+          "DOI": "10.1183/09031936.97.10122861",
+          "article-title": "In vivo ultrasound assessment of respiratory function of abdominal muscles in normal subjects",
+          "volume": "10",
+          "author": "Misuri",
+          "year": "1997",
+          "journal-title": "Eur. Respir. J."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "288",
+          "DOI": "10.1002/jor.1100040305",
+          "article-title": "Electromyographic studies of lumbar trunk musculature during the development of axial torques",
+          "volume": "4",
+          "author": "Pope",
+          "year": "1986",
+          "journal-title": "J. Orthopaed. Res."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "320",
+          "DOI": "10.1002/mus.20589",
+          "article-title": "Abdominal muscle size and symmetry in normal subjects",
+          "volume": "34",
+          "author": "Rankin",
+          "year": "2006",
+          "journal-title": "Muscle Nerve"
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "501",
+          "DOI": "10.1097/00007632-198706000-00014",
+          "article-title": "The abdominal muscles and vertebral stability",
+          "volume": "12",
+          "author": "Tesh",
+          "year": "1987",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "157",
+          "DOI": "10.1016/0021-9290(94)90204-6",
+          "article-title": "Quantitative interpretation of lumbar muscle myoelectric signals during rapid cyclic attempted trunk flexions and extensions",
+          "volume": "27",
+          "author": "Thelen",
+          "year": "1994",
+          "journal-title": "J. Biomech."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "233",
+          "DOI": "10.1016/j.clinbiomech.2004.11.007",
+          "article-title": "Regional morphology of the transversus abdominis and obliquus internus and externus abdominis muscles",
+          "volume": "20",
+          "author": "Urquhart",
+          "year": "2005",
+          "journal-title": "Clin. Biomech."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "443",
+          "DOI": "10.1016/j.clinbiomech.2005.12.006",
+          "article-title": "Effects of different levels of torso coactivation on trunk muscular and kinematic responses to posteriorly applied sudden loads",
+          "volume": "21",
+          "author": "Vera-Garcia",
+          "year": "2006",
+          "journal-title": "Clin. Biomech."
+        },
+        {
+          "key": "10.1016/j.clinbiomech.2009.10.001_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "404",
+          "DOI": "10.1016/j.math.2007.03.008",
+          "article-title": "Ultrasound imaging of the lateral abdominal wall muscles in individuals with lumbopelvic pain and signs of concurrent hypocapnia",
+          "volume": "13",
+          "author": "Whittaker",
+          "year": "2008",
+          "journal-title": "Manual Ther."
+        }
+      ],
+      "container-title": [
+        "Clinical Biomechanics"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0268003309002253?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0268003309002253?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            23
+          ]
+        ],
+        "date-time": "2019-05-23T14:36:28Z",
+        "timestamp": 1558622188000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0268003309002253"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2010,
+            2
+          ]
+        ]
+      },
+      "references-count": 35,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2010,
+              2
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0268003309002253"
+      ],
+      "URL": "https://doi.org/10.1016/j.clinbiomech.2009.10.001",
+      "relation": {},
+      "ISSN": [
+        "0268-0033"
+      ],
+      "issn-type": [
+        {
+          "value": "0268-0033",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            2
+          ]
+        ]
+      }
+    }
+  }
+}

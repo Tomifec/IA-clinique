@@ -1,0 +1,1823 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_s0140_6736_18_30489_6.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_s0140_6736_18_30489_6",
+  "doi": "10.1016/s0140-6736(18)30489-6",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:10.237243Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            10
+          ]
+        ],
+        "date-time": "2025-09-10T21:33:48Z",
+        "timestamp": 1757540028170
+      },
+      "reference-count": 127,
+      "publisher": "Elsevier BV",
+      "issue": "10137",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2018-06-01T00:00:00Z",
+            "timestamp": 1527811200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "clinicalkey.com.au",
+          "clinicalkey.fr",
+          "thelancet.com",
+          "em-consulte.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The Lancet"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1016/s0140-6736(18)30489-6",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            21
+          ]
+        ],
+        "date-time": "2018-03-21T22:01:41Z",
+        "timestamp": 1521669701000
+      },
+      "page": "2368-2383",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1683,
+      "title": [
+        "Prevention and treatment of low back pain: evidence, challenges, and promising directions"
+      ],
+      "prefix": "10.1016",
+      "volume": "391",
+      "author": [
+        {
+          "given": "Nadine E",
+          "family": "Foster",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Johannes R",
+          "family": "Anema",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Dan",
+          "family": "Cherkin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Roger",
+          "family": "Chou",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Steven P",
+          "family": "Cohen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Douglas P",
+          "family": "Gross",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Paulo H",
+          "family": "Ferreira",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Julie M",
+          "family": "Fritz",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bart W",
+          "family": "Koes",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Wilco",
+          "family": "Peul",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Judith A",
+          "family": "Turner",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Chris G",
+          "family": "Maher",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rachelle",
+          "family": "Buchbinder",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jan",
+          "family": "Hartvigsen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Dan",
+          "family": "Cherkin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nadine E",
+          "family": "Foster",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Chris G",
+          "family": "Maher",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Martin",
+          "family": "Underwood",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Maurits",
+          "family": "van Tulder",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Johannes R",
+          "family": "Anema",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Roger",
+          "family": "Chou",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stephen P",
+          "family": "Cohen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lucíola",
+          "family": "Menezes Costa",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter",
+          "family": "Croft",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Manuela",
+          "family": "Ferreira",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Paulo H",
+          "family": "Ferreira",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Julie M",
+          "family": "Fritz",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Stéphane",
+          "family": "Genevay",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Douglas P",
+          "family": "Gross",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mark J",
+          "family": "Hancock",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Damian",
+          "family": "Hoy",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jaro",
+          "family": "Karppinen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bart W",
+          "family": "Koes",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alice",
+          "family": "Kongsted",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Quinette",
+          "family": "Louw",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Birgitta",
+          "family": "Öberg",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Wilco C",
+          "family": "Peul",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Glenn",
+          "family": "Pransky",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mark",
+          "family": "Schoene",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joachim",
+          "family": "Sieper",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Rob J",
+          "family": "Smeets",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Judith A",
+          "family": "Turner",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Anthony",
+          "family": "Woolf",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "251",
+          "DOI": "10.1001/archinternmed.2008.543",
+          "article-title": "The rising prevalence of chronic low back pain",
+          "volume": "169",
+          "author": "Freburger",
+          "year": "2009",
+          "journal-title": "Arch Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.1016/j.berh.2009.11.002",
+          "article-title": "Measuring the global burden of low back pain",
+          "volume": "24",
+          "author": "Hoy",
+          "year": "2010",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib3",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/S0140-6736(18)30480-X",
+          "article-title": "What low back pain is and why we need to pay attention",
+          "author": "Hartvigsen",
+          "year": "2018",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "199",
+          "DOI": "10.1001/jamainternmed.2015.7431",
+          "article-title": "Prevention of low back pain: a systematic review and meta-analysis",
+          "volume": "176",
+          "author": "Steffens",
+          "year": "2016",
+          "journal-title": "JAMA Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "2046",
+          "DOI": "10.1007/s00586-014-3461-1",
+          "article-title": "Low back pain in children and adolescents: a systematic review and meta-analysis evaluating the effectiveness of conservative interventions",
+          "volume": "23",
+          "author": "Michaleff",
+          "year": "2014",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "60",
+          "DOI": "10.1007/s00586-017-5099-2",
+          "article-title": "National clinical guidelines for non-surgical treatment of patients with recent onset low back pain or lumbar radiculopathy",
+          "volume": "27",
+          "author": "Stochkendahl",
+          "year": "2018",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "514",
+          "DOI": "10.7326/M16-2367",
+          "article-title": "Noninvasive treatments for acute, subacute, and chronic low back pain: a clinical practice guideline from the American College of Physicians",
+          "volume": "166",
+          "author": "Qaseem",
+          "year": "2017",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib9",
+          "series-title": "Noninvasive treatments for low back pain: comparative effectiveness review No 169",
+          "author": "Chou",
+          "year": "2016"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "201",
+          "DOI": "10.1002/ejp.931",
+          "article-title": "Clinical practice guidelines for the noninvasive management of low back pain: a systematic review by the Ontario Protocol for Traffic Injury Management (OPTIMA) Collaboration",
+          "volume": "21",
+          "author": "Wong",
+          "year": "2017",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib11",
+          "article-title": "Multidisciplinary biopsychosocial rehabilitation for chronic low back pain",
+          "volume": "9",
+          "author": "Kamper",
+          "year": "2014",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "h1225",
+          "DOI": "10.1136/bmj.h1225",
+          "article-title": "Efficacy and safety of paracetamol for spinal pain and osteoarthritis: systematic review and meta-analysis of randomised placebo controlled trials",
+          "volume": "350",
+          "author": "Machado",
+          "year": "2015",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "1624",
+          "DOI": "10.1001/jama.2016.1464",
+          "article-title": "CDC guideline for prescribing opioids for chronic pain: United States, 2016",
+          "volume": "315",
+          "author": "Dowell",
+          "year": "2016",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "1111",
+          "DOI": "10.1056/NEJMoa1614292",
+          "article-title": "Trial of pregabalin for acute and chronic sciatica",
+          "volume": "376",
+          "author": "Mathieson",
+          "year": "2017",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "373",
+          "DOI": "10.7326/M15-0934",
+          "article-title": "Epidural corticosteroid injections for radiculopathy and spinal stenosis: a systematic review and meta-analysis",
+          "volume": "163",
+          "author": "Chou",
+          "year": "2015",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "68",
+          "DOI": "10.1001/jama.2017.7918",
+          "article-title": "Effect of radiofrequency denervation on pain intensity among patients with chronic low back pain: the Mint randomized clinical trials",
+          "volume": "318",
+          "author": "Juch",
+          "year": "2017",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "1094",
+          "DOI": "10.1097/BRS.0b013e3181a105fc",
+          "article-title": "Surgery for low back pain: a review of the evidence for an American Pain Society clinical practice guideline",
+          "volume": "34",
+          "author": "Chou",
+          "year": "2009",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "1763",
+          "DOI": "10.1056/NEJMcp1512658",
+          "article-title": "Herniated lumbar intervertebral disk",
+          "volume": "374",
+          "author": "Deyo",
+          "year": "2016",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1329",
+          "DOI": "10.1097/BRS.0b013e3181e0f04d",
+          "article-title": "Surgical versus nonoperative treatment for lumbar spinal stenosis four-year results of the Spine Patient Outcomes Research Trial",
+          "volume": "35",
+          "author": "Weinstein",
+          "year": "2010",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "536",
+          "DOI": "10.1016/S2255-4823(13)70516-2",
+          "article-title": "Chronic nonspecific low back pain: Rehabilitation",
+          "volume": "59",
+          "year": "2013",
+          "journal-title": "Revista da Associação Médica Brasileira (English Edition)"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "392",
+          "DOI": "10.1155/2010/252695",
+          "article-title": "Managing low back pain in the primary care setting: the know-do gap",
+          "volume": "15",
+          "author": "Scott",
+          "year": "2010",
+          "journal-title": "Pain Res Manag"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "539",
+          "DOI": "10.1016/S0885-3924(03)00147-7",
+          "article-title": "Management and relief of pain in an emergency department from the adult patients' perspective",
+          "volume": "25",
+          "author": "Tcherny-Lessenot",
+          "year": "2003",
+          "journal-title": "J Pain Symptom Manage"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "378",
+          "DOI": "10.1071/AH15134",
+          "article-title": "A novel approach for managing the growing demand for ambulance services by low-acuity patients",
+          "volume": "40",
+          "author": "Eastwood",
+          "year": "2016",
+          "journal-title": "Aust Health Rev"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "1913",
+          "DOI": "10.1001/jamainternmed.2015.5441",
+          "article-title": "Early trends among seven recommendations from the choosing wisely campaign",
+          "volume": "175",
+          "author": "Rosenberg",
+          "year": "2015",
+          "journal-title": "JAMA Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "2835",
+          "DOI": "10.1007/s10067-016-3328-4",
+          "article-title": "Profiling the patients visiting the emergency room for musculoskeletal complaints: characteristics and outcomes",
+          "volume": "35",
+          "author": "Bellan",
+          "year": "2016",
+          "journal-title": "Clin Rheumatol"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "E638",
+          "DOI": "10.1097/BRS.0b013e3181fa1da2",
+          "article-title": "Low back pain in Iran: a growing need to adapt and implement evidence-based practice in developing countries",
+          "volume": "36",
+          "author": "Mousavi",
+          "year": "2011",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "84",
+          "DOI": "10.2471/BLT.14.143917",
+          "article-title": "An observational study of adults seeking emergency care in Cambodia",
+          "volume": "93",
+          "author": "Yan",
+          "year": "2015",
+          "journal-title": "Bull World Health Organ"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib31",
+          "first-page": "240",
+          "article-title": "Musculoskeletal system assessment in an emergency room",
+          "volume": "51",
+          "author": "Fialho",
+          "year": "2011",
+          "journal-title": "Rev Bras Reumatol"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib32",
+          "first-page": "308",
+          "article-title": "Prevalence of pain awareness, treatment, and associated health outcomes across different conditions in Brazil",
+          "volume": "13",
+          "author": "Goren",
+          "year": "2012",
+          "journal-title": "Rev Dor Sao Paulo"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "673",
+          "DOI": "10.1007/s00296-015-3421-z",
+          "article-title": "The non-silent epidemic: low back pain as a primary cause of hospitalisation",
+          "volume": "36",
+          "author": "Laffont",
+          "year": "2016",
+          "journal-title": "Rheumatol Int"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "271",
+          "DOI": "10.1001/archinternmed.2009.507",
+          "article-title": "Low back pain and best practice care. A survey of general practice physicians",
+          "volume": "70",
+          "author": "Williams",
+          "year": "2010",
+          "journal-title": "Arch Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "698",
+          "DOI": "10.4314/ahs.v14i3.28",
+          "article-title": "Management of LBP at primary care level in South Africa: up to standards?",
+          "volume": "14",
+          "author": "Major-Helsloot",
+          "year": "2014",
+          "journal-title": "Afr Health Sci"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "1218",
+          "DOI": "10.1097/BRS.0b013e318195d688",
+          "article-title": "Doctors with a special interest in back pain have poorer knowledge about how to treat back pain",
+          "volume": "34",
+          "author": "Buchbinder",
+          "year": "2009",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "227",
+          "DOI": "10.4184/asj.2014.8.3.227",
+          "article-title": "Prevalence and correlates of low back pain in primary care: what are the contributing factors in a rapidly developing country",
+          "volume": "8",
+          "author": "Bener",
+          "year": "2014",
+          "journal-title": "Asian Spine J"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "150",
+          "DOI": "10.1002/pri.458",
+          "article-title": "Physiotherapy management of low back pain in India: a survey of self-reported practice",
+          "volume": "15",
+          "author": "Fidvi",
+          "year": "2010",
+          "journal-title": "Physiother Res Int"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "731",
+          "DOI": "10.3233/BMR-140575",
+          "article-title": "Beliefs about low back pain: Status quo in Indian general population",
+          "volume": "28",
+          "author": "Pagare",
+          "year": "2015",
+          "journal-title": "J Back Musculoskelet Rehabil"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "567",
+          "DOI": "10.1097/01.brs.0000154690.04674.06",
+          "article-title": "Acute low back pain: diagnostic and therapeutic practices reported by Brazilian rheumatologists",
+          "volume": "30",
+          "author": "Margarido Mdo",
+          "year": "2005",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib41",
+          "first-page": "183",
+          "article-title": "Low-back pain at the emergency department: still not being managed?",
+          "volume": "12",
+          "author": "Rizzardo",
+          "year": "2016",
+          "journal-title": "Ther Clin Risk Manag"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "2388",
+          "DOI": "10.4045/tidsskr.12.0395",
+          "article-title": "Primary care doctors' management of low back pain patients—ten years after",
+          "volume": "132",
+          "author": "Werner",
+          "year": "2012",
+          "journal-title": "Tidsskr Nor Laegeforen"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "39",
+          "DOI": "10.1186/s12998-016-0118-7",
+          "article-title": "Awareness of radiographic guidelines for low back pain: a survey of Australian chiropractors",
+          "volume": "24",
+          "author": "Jenkins",
+          "year": "2016",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "780",
+          "DOI": "10.4103/2141-9248.141565",
+          "article-title": "Non-drug non-invasive treatment in the management of low back pain",
+          "volume": "4",
+          "author": "Sahu",
+          "year": "2014",
+          "journal-title": "Ann Med Health Sci Res"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "e0146369",
+          "DOI": "10.1371/journal.pone.0146369",
+          "article-title": "The use of lumbar spine magnetic resonance imaging in eastern China: appropriateness and related factors",
+          "volume": "11",
+          "author": "Yu",
+          "year": "2016",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib46",
+          "first-page": "1029",
+          "article-title": "The extent of inappropriate use of magnetic resonance imaging in low back pain and its contributory factors",
+          "volume": "5",
+          "author": "Jame",
+          "year": "2014",
+          "journal-title": "Int J Prev Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib47",
+          "first-page": "59",
+          "article-title": "Low back pain in general medical practice",
+          "volume": "80",
+          "author": "Erdes Sh",
+          "year": "2008",
+          "journal-title": "Ter Arkh"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib48",
+          "doi-asserted-by": "crossref",
+          "first-page": "1283",
+          "DOI": "10.1007/s00586-011-2135-5",
+          "article-title": "Ten-year survey reveals differences in GP management of neck and back pain",
+          "volume": "21",
+          "author": "Michaleff",
+          "year": "2012",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "1169",
+          "DOI": "10.1111/jep.12380",
+          "article-title": "Clinical practice in line with evidence? A survey among primary care physiotherapists in western Sweden",
+          "volume": "21",
+          "author": "Bernhardsson",
+          "year": "2015",
+          "journal-title": "J Eval Clin Pract"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib50",
+          "doi-asserted-by": "crossref",
+          "first-page": "586",
+          "DOI": "10.2519/jospt.2015.6036",
+          "article-title": "Lumbar traction for managing low back pain: a survey of physical therapists in the United States",
+          "volume": "45",
+          "author": "Madson",
+          "year": "2015",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib51",
+          "doi-asserted-by": "crossref",
+          "first-page": "145",
+          "DOI": "10.1016/j.math.2015.11.005",
+          "article-title": "Providing services for acute low-back pain: a survey of Australian physiotherapists",
+          "volume": "22",
+          "author": "Keating",
+          "year": "2016",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "287",
+          "DOI": "10.1186/1471-2474-12-287",
+          "article-title": "Avoidable costs of physical treatments for chronic back, neck and shoulder pain within the Spanish National Health Service: a cross-sectional study",
+          "volume": "12",
+          "author": "Serrano-Aguilar",
+          "year": "2011",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib53",
+          "doi-asserted-by": "crossref",
+          "first-page": "201",
+          "DOI": "10.1002/pri.16",
+          "article-title": "Physiotherapy management of low back pain in Thailand: a study of practice",
+          "volume": "10",
+          "author": "Pensri",
+          "year": "2005",
+          "journal-title": "Physiother Res Int"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib54",
+          "doi-asserted-by": "crossref",
+          "first-page": "222",
+          "DOI": "10.1002/pri.1586",
+          "article-title": "Management of low back pain in Ghana: a survey of self-reported practice",
+          "volume": "19",
+          "author": "Oppong-Yeboah",
+          "year": "2014",
+          "journal-title": "Physiother Res Int"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib55",
+          "doi-asserted-by": "crossref",
+          "first-page": "575",
+          "DOI": "10.1016/j.pmrj.2013.12.015",
+          "article-title": "Trends in ambulatory physician opioid prescription in the United States, 1997–2009",
+          "volume": "6",
+          "author": "Jeffrey Kao",
+          "year": "2014",
+          "journal-title": "PM R"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib56",
+          "doi-asserted-by": "crossref",
+          "first-page": "718",
+          "DOI": "10.1097/BRS.0b013e31819792b0",
+          "article-title": "A long way to go: practice patterns and evidence in chronic low back pain care",
+          "volume": "34",
+          "author": "Carey",
+          "year": "2009",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib57",
+          "doi-asserted-by": "crossref",
+          "first-page": "717",
+          "DOI": "10.3122/jabfm.2011.06.100232",
+          "article-title": "Opioids for back pain patients: primary care prescribing patterns and use of services",
+          "volume": "24",
+          "author": "Deyo",
+          "year": "2011",
+          "journal-title": "J Am Board Fam Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib59",
+          "author": "Weiss"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib60",
+          "doi-asserted-by": "crossref",
+          "first-page": "E365",
+          "DOI": "10.36076/ppj.2013/16/E365",
+          "article-title": "Assessment of the escalating growth of facet joint interventions in the medicare population in the United States from 2000 to 2011",
+          "volume": "16",
+          "author": "Manchikanti",
+          "year": "2013",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib61",
+          "doi-asserted-by": "crossref",
+          "first-page": "E379",
+          "DOI": "10.36076/ppj.2013/16/E379",
+          "article-title": "Utilization and growth patterns of sacroiliac joint injections from 2000 to 2011 in the medicare population",
+          "volume": "16",
+          "author": "Manchikanti",
+          "year": "2013",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib62",
+          "doi-asserted-by": "crossref",
+          "first-page": "e000391",
+          "DOI": "10.1136/bmjopen-2011-000391",
+          "article-title": "Clinical decision making in spinal fusion for chronic low back pain. Results of a nationwide survey among spine surgeons",
+          "volume": "1",
+          "author": "Willems",
+          "year": "2011",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib63",
+          "doi-asserted-by": "crossref",
+          "first-page": "1737",
+          "DOI": "10.1097/BRS.0000000000002207",
+          "article-title": "Trends, complications, and costs for hospital admission and surgery for lumbar spinal stenosis",
+          "volume": "42",
+          "author": "Machado",
+          "year": "2017",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib64",
+          "doi-asserted-by": "crossref",
+          "first-page": "E349",
+          "DOI": "10.36076/ppj.2013/16/E349",
+          "article-title": "Assessment of the growth of epidural injections in the medicare population from 2000 to 2011",
+          "volume": "16",
+          "author": "Manchikanti",
+          "year": "2013",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib65",
+          "doi-asserted-by": "crossref",
+          "first-page": "346",
+          "DOI": "10.1016/j.wneu.2015.11.047",
+          "article-title": "Perspective of value-based management of spinal disorders in Brazil",
+          "volume": "87",
+          "author": "Teles",
+          "year": "2016",
+          "journal-title": "World Neurosurg"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib66",
+          "article-title": "Motor control exercise for chronic non-specific low back pain",
+          "volume": "1",
+          "author": "Saragiotto",
+          "year": "2016",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib68",
+          "doi-asserted-by": "crossref",
+          "first-page": "173",
+          "DOI": "10.4314/gmj.v49i3.8",
+          "article-title": "Efficacy of behavioural graded activity compared with conventional exercise therapy in chronic non-specific low back pain: implication for direct health care cost",
+          "volume": "49",
+          "author": "Bello",
+          "year": "2015",
+          "journal-title": "Ghana Med J"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib69",
+          "doi-asserted-by": "crossref",
+          "first-page": "622",
+          "DOI": "10.1016/j.spinee.2011.03.017",
+          "article-title": "Real-world practice patterns, health-care utilization, and costs in patients with low back pain: the long road to guideline-concordant care",
+          "volume": "11",
+          "author": "Ivanova",
+          "year": "2011",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib70",
+          "doi-asserted-by": "crossref",
+          "first-page": "92",
+          "DOI": "10.1186/s12891-017-1452-1",
+          "article-title": "Current management practices for patients presenting with low back pain to a large emergency department in Canada",
+          "volume": "18",
+          "author": "Nunn",
+          "year": "2017",
+          "journal-title": "BMX Musculoskeletal Disorders"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib71",
+          "doi-asserted-by": "crossref",
+          "first-page": "E1406",
+          "DOI": "10.1097/BRS.0b013e3181d952a5",
+          "article-title": "Diagnostic testing and treatment of low back pain in United States emergency departments: a national perspective",
+          "volume": "35",
+          "author": "Friedman",
+          "year": "2010",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib72",
+          "doi-asserted-by": "crossref",
+          "first-page": "g6380",
+          "DOI": "10.1136/bmj.g6380",
+          "article-title": "Opioids for low back pain",
+          "volume": "350",
+          "author": "Deyo",
+          "year": "2015",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib73",
+          "doi-asserted-by": "crossref",
+          "first-page": "958",
+          "DOI": "10.1001/jamainternmed.2016.1251",
+          "article-title": "Efficacy, tolerability, and dose-dependent effects of opioid analgesics for low back pain: a systematic review and meta-analysis",
+          "volume": "176",
+          "author": "Abdel Shaheed",
+          "year": "2016",
+          "journal-title": "JAMA Intern Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib74",
+          "doi-asserted-by": "crossref",
+          "first-page": "556",
+          "DOI": "10.1097/BRS.0000000000000249",
+          "article-title": "Opioids compared with placebo or other treatments for chronic low back pain: an update of the Cochrane Review",
+          "volume": "39",
+          "author": "Chaparro",
+          "year": "2014",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib75",
+          "doi-asserted-by": "crossref",
+          "first-page": "569",
+          "DOI": "10.1016/j.rcl.2012.04.005",
+          "article-title": "Appropriate use of lumbar imaging for evaluation of low back pain",
+          "volume": "50",
+          "author": "Chou",
+          "year": "2012",
+          "journal-title": "Radiol Clin North Am"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib76",
+          "doi-asserted-by": "crossref",
+          "first-page": "697",
+          "DOI": "10.15585/mmwr.mm6626a4",
+          "article-title": "Vital signs: changes in opioid prescribing in the United States, 2006–2015",
+          "volume": "66",
+          "author": "Guy",
+          "year": "2017",
+          "journal-title": "MMWR Morb Mortal Wkly Rep"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib77",
+          "doi-asserted-by": "crossref",
+          "first-page": "1259",
+          "DOI": "10.1001/jama.2010.338",
+          "article-title": "Trends, major medical complications, and charges associated with surgery for lumbar spinal stenosis in older adults",
+          "volume": "303",
+          "author": "Deyo",
+          "year": "2010",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib78",
+          "doi-asserted-by": "crossref",
+          "first-page": "1413",
+          "DOI": "10.1056/NEJMoa1513721",
+          "article-title": "A randomized, controlled trial of fusion surgery for lumbar spinal stenosis",
+          "volume": "374",
+          "author": "Forsth",
+          "year": "2016",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib79",
+          "doi-asserted-by": "crossref",
+          "first-page": "675",
+          "DOI": "10.5811/westjem.2014.5.20410",
+          "article-title": "Exploring real-time patient decision-making for acute care: a pilot study",
+          "volume": "15",
+          "author": "Sharp",
+          "year": "2014",
+          "journal-title": "West J Emerg Med"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib80",
+          "doi-asserted-by": "crossref",
+          "first-page": "143",
+          "DOI": "10.1186/s12891-017-1511-7",
+          "article-title": "Prevalence of low back pain in emergency settings: a systematic review and meta-analysis",
+          "volume": "18",
+          "author": "Edwards",
+          "year": "2017",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib81",
+          "doi-asserted-by": "crossref",
+          "first-page": "153",
+          "DOI": "10.1037/a0035747",
+          "article-title": "Cognitive-behavioral therapy for individuals with chronic pain: efficacy, innovations, and directions for research",
+          "volume": "69",
+          "author": "Ehde",
+          "year": "2014",
+          "journal-title": "Am Psychol"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib82",
+          "doi-asserted-by": "crossref",
+          "first-page": "535",
+          "DOI": "10.2214/ajr.149.3.535",
+          "article-title": "The effect of restricting the indications for lumbosacral spine radiography in patients with acute back symptoms",
+          "volume": "149",
+          "author": "Baker",
+          "year": "1987",
+          "journal-title": "AJR Am J Roentgenol"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib83",
+          "doi-asserted-by": "crossref",
+          "first-page": "1406",
+          "DOI": "10.1016/S0140-6736(00)04564-5",
+          "article-title": "Effect of audit and feedback, and reminder messages on primary-care radiology referrals: a randomised trial",
+          "volume": "357",
+          "author": "Eccles",
+          "year": "2001",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib84",
+          "doi-asserted-by": "crossref",
+          "first-page": "143",
+          "DOI": "10.1186/s13012-016-0509-0",
+          "article-title": "A multifaceted implementation strategy versus passive implementation of low back pain guidelines in general practice: a cluster randomised controlled trial",
+          "volume": "11",
+          "author": "Riis",
+          "year": "2016",
+          "journal-title": "Implement Sci"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib85",
+          "doi-asserted-by": "crossref",
+          "first-page": "891",
+          "DOI": "10.1097/j.pain.0000000000000851",
+          "article-title": "Economic evaluation of an implementation strategy for the management of low back pain in general practice",
+          "volume": "158",
+          "author": "Jensen",
+          "year": "2017",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib86",
+          "doi-asserted-by": "crossref",
+          "first-page": "632",
+          "DOI": "10.1002/art.23563",
+          "article-title": "A primary care back pain screening tool: identifying patient subgroups for initial treatment",
+          "volume": "59",
+          "author": "Hill",
+          "year": "2008",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib87",
+          "doi-asserted-by": "crossref",
+          "first-page": "1560",
+          "DOI": "10.1016/S0140-6736(11)60937-9",
+          "article-title": "Comparison of stratified primary care management for low back pain with current best practice (STarT Back): a randomised controlled trial",
+          "volume": "378",
+          "author": "Hill",
+          "year": "2011",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib88",
+          "doi-asserted-by": "crossref",
+          "first-page": "102",
+          "DOI": "10.1370/afm.1625",
+          "article-title": "Effect of stratified care for low back pain in family practice (IMPaCT Back): a prospective population-based sequential comparison",
+          "volume": "12",
+          "author": "Foster",
+          "year": "2014",
+          "journal-title": "Ann Fam Med"
+        },
+        {
+          "issue": "suppl",
+          "key": "10.1016/S0140-6736(18)30489-6_bib89",
+          "doi-asserted-by": "crossref",
+          "first-page": "S164",
+          "DOI": "10.1097/BRS.0b013e31822ef58f",
+          "article-title": "A systematic review of clinical pathways for lower back pain and introduction of the Saskatchewan Spine Pathway",
+          "volume": "36",
+          "author": "Fourney",
+          "year": "2011",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib90",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.3171/2013.10.SPINE13434",
+          "article-title": "Spine surgery referrals redirected through a multidisciplinary care pathway: effects of nonsurgeon triage including MRI utilization",
+          "volume": "20",
+          "author": "Kindrachuk",
+          "year": "2014",
+          "journal-title": "J Neurosurg Spine"
+        },
+        {
+          "issue": "suppl 1",
+          "key": "10.1016/S0140-6736(18)30489-6_bib91",
+          "doi-asserted-by": "crossref",
+          "first-page": "S129",
+          "DOI": "10.1097/BRS.0000000000000574",
+          "article-title": "Triage of spine surgery referrals through a multidisciplinary care pathway: a value-based comparison with conventional referral processes",
+          "volume": "39",
+          "author": "Wilgenbusch",
+          "year": "2014",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib93",
+          "author": "Lingard"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib95",
+          "doi-asserted-by": "crossref",
+          "first-page": "1105",
+          "DOI": "10.1097/MLR.0b013e31823670e3",
+          "article-title": "Improving quality, preventing disability and reducing costs in workers' compensation healthcare: a population-based intervention study",
+          "volume": "49",
+          "author": "Wickizer",
+          "year": "2011",
+          "journal-title": "Med Care"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib96",
+          "doi-asserted-by": "crossref",
+          "first-page": "150",
+          "DOI": "10.1007/s10926-015-9596-z",
+          "article-title": "Early workplace communication and problem solving to prevent back disability: results of a randomized controlled trial among high-risk workers and their supervisors",
+          "volume": "26",
+          "author": "Linton",
+          "year": "2016",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib97",
+          "doi-asserted-by": "crossref",
+          "first-page": "c1035",
+          "DOI": "10.1136/bmj.c1035",
+          "article-title": "Randomised controlled trial of integrated care to reduce disability from chronic low back pain in working and private life",
+          "volume": "340",
+          "author": "Lambeek",
+          "year": "2010",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib98",
+          "doi-asserted-by": "crossref",
+          "first-page": "c6414",
+          "DOI": "10.1136/bmj.c6414",
+          "article-title": "Effect of integrated care for sick listed patients with chronic low back pain: economic evaluation alongside a randomised controlled trial",
+          "volume": "341",
+          "author": "Lambeek",
+          "year": "2010",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib99",
+          "series-title": "Handbook of work disability: prevention and management",
+          "first-page": "357",
+          "article-title": "Sickness and disability policy interventions",
+          "author": "Anema",
+          "year": "2013"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib100",
+          "doi-asserted-by": "crossref",
+          "first-page": "1050",
+          "DOI": "10.1097/BRS.0b013e3181e70488",
+          "article-title": "The trend in total cost of back pain in the Netherlands in the period 2002 to 2007",
+          "volume": "36",
+          "author": "Lambeek",
+          "year": "2011",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib101",
+          "doi-asserted-by": "crossref",
+          "first-page": "1516",
+          "DOI": "10.1136/bmj.322.7301.1516",
+          "article-title": "Population based intervention to change back pain beliefs and disability: three part evaluation",
+          "volume": "322",
+          "author": "Buchbinder",
+          "year": "2001",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib102",
+          "doi-asserted-by": "crossref",
+          "first-page": "74",
+          "DOI": "10.1097/BRS.0b013e31815e39c8",
+          "article-title": "Understanding the characteristics of effective mass media campaigns for back pain and methodological challenges in evaluating their effects",
+          "volume": "33",
+          "author": "Buchbinder",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib103",
+          "doi-asserted-by": "crossref",
+          "first-page": "2535",
+          "DOI": "10.1097/00007632-200112010-00005",
+          "article-title": "2001 Volvo award winner in clinical studies: effects of a media campaign on back pain beliefs and its potential influence on management of low back pain in general practice",
+          "volume": "26",
+          "author": "Buchbinder",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib104",
+          "doi-asserted-by": "crossref",
+          "first-page": "906",
+          "DOI": "10.1097/BRS.0b013e3181c91140",
+          "article-title": "Evaluation of a Canadian back pain mass media campaign",
+          "volume": "35",
+          "author": "Gross",
+          "year": "2010",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib105",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1007/s00586-017-5249-6",
+          "article-title": "Long-term evaluation of a Canadian back pain mass media campaign",
+          "author": "Suman",
+          "year": "2017",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib106",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/14651858.CD005470.pub2",
+          "article-title": "Tailored interventions to overcome identified barriers to change: effects on professional practice and health care outcomes",
+          "volume": "3",
+          "author": "Baker",
+          "year": "2010",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib107",
+          "doi-asserted-by": "crossref",
+          "first-page": "E36",
+          "DOI": "10.3390/healthcare4030036",
+          "article-title": "Barriers and strategies in guideline implementation: a scoping review",
+          "volume": "4",
+          "author": "Fischer",
+          "year": "2016",
+          "journal-title": "Healthcare (Basel)"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib108",
+          "doi-asserted-by": "crossref",
+          "first-page": "800",
+          "DOI": "10.1097/AJP.0000000000000324",
+          "article-title": "Barriers to primary care clinician adherence to clinical guidelines for the management of low back pain: a systematic review and meta-synthesis of qualitative studies",
+          "volume": "32",
+          "author": "Slade",
+          "year": "2015",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib109",
+          "doi-asserted-by": "crossref",
+          "first-page": "126",
+          "DOI": "10.1186/s13012-016-0482-7",
+          "article-title": "Effectiveness of multifaceted implementation strategies for the implementation of back and neck pain guidelines in health care: a systematic review",
+          "volume": "11",
+          "author": "Suman",
+          "year": "2016",
+          "journal-title": "Implement Sci"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib110",
+          "doi-asserted-by": "crossref",
+          "first-page": "258",
+          "DOI": "10.1186/s12891-016-1110-z",
+          "article-title": "Implementation interventions to improve the management of non-specific low back pain: a systematic review",
+          "volume": "17",
+          "author": "Mesner",
+          "year": "2016",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib111",
+          "doi-asserted-by": "crossref",
+          "first-page": "e011042",
+          "DOI": "10.1136/bmjopen-2016-011042",
+          "article-title": "Systematic review of the cost-effectiveness of implementing guidelines on low back pain management in primary care: is transferability to other countries possible?",
+          "volume": "6",
+          "author": "Jensen",
+          "year": "2016",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib112",
+          "doi-asserted-by": "crossref",
+          "first-page": "583",
+          "DOI": "10.1016/j.jmpt.2008.09.009",
+          "article-title": "The development of contemporary chiropractic education in Denmark: an exploratory study",
+          "volume": "31",
+          "author": "Myburgh",
+          "year": "2008",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib113",
+          "doi-asserted-by": "crossref",
+          "first-page": "205",
+          "DOI": "10.1186/ar3743",
+          "article-title": "Taking responsibility for the early assessment and treatment of patients with musculoskeletal pain: a review and critical analysis",
+          "volume": "14",
+          "author": "Foster",
+          "year": "2012",
+          "journal-title": "Arthritis Res Ther"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib114",
+          "doi-asserted-by": "crossref",
+          "first-page": "1161",
+          "DOI": "10.1111/jgs.12871",
+          "article-title": "E-learning module on chronic low back pain in older adults: evidence of effect on medical student objective structured clinical examination performance",
+          "volume": "62",
+          "author": "Weiner",
+          "year": "2014",
+          "journal-title": "J Am Geriatr Soc"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib115",
+          "doi-asserted-by": "crossref",
+          "first-page": "724",
+          "DOI": "10.1111/j.1365-2753.2008.01089.x",
+          "article-title": "Do physical therapists change their beliefs, attitudes, knowledge, skills and behaviour after a biopsychosocially orientated university course?",
+          "volume": "15",
+          "author": "Overmeer",
+          "year": "2009",
+          "journal-title": "J Eval Clin Pract"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib116",
+          "first-page": "52",
+          "article-title": "The European Quality of Care Pathway (EQCP) study: history, project management and approach",
+          "volume": "14",
+          "author": "Vanhaecht",
+          "year": "2010",
+          "journal-title": "Int J Care Coord"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib117",
+          "doi-asserted-by": "crossref",
+          "first-page": "509",
+          "DOI": "10.1093/intqhc/mzg057",
+          "article-title": "Reducing clinical variations with clinical pathways: do pathways work?",
+          "volume": "15",
+          "author": "Panella",
+          "year": "2003",
+          "journal-title": "Int J Qual Health Car"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib118",
+          "article-title": "Withdrawal treatment: a novel plan helps hospital wean itself off pricey tests",
+          "author": "Fuhrmans",
+          "year": "2007",
+          "journal-title": "The Wall Street Journal (New York)"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib119",
+          "series-title": "Work disability prevention handbook",
+          "first-page": "255",
+          "article-title": "Predicting return to work for workers with low back pain",
+          "author": "Steenstra",
+          "year": "2013"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib120",
+          "doi-asserted-by": "crossref",
+          "first-page": "369",
+          "DOI": "10.1007/s10926-016-9666-x",
+          "article-title": "Systematic review of prognostic factors for return to work in workers with sub–acute and chronic low back pain",
+          "volume": "27",
+          "author": "Steenstra",
+          "year": "2017",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib121",
+          "doi-asserted-by": "crossref",
+          "first-page": "a171",
+          "DOI": "10.1136/bmj.a171",
+          "article-title": "Prognosis in patients with recent onset low back pain in Australian primary care: inception cohort study",
+          "volume": "337",
+          "author": "Henschke",
+          "year": "2008",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib123",
+          "doi-asserted-by": "crossref",
+          "first-page": "313",
+          "DOI": "10.1007/s10926-011-9291-7",
+          "article-title": "A participatory return-to-work intervention for temporary agency workers and unemployed workers sick-listed due to musculoskeletal disorders: results of a randomized controlled trial",
+          "volume": "21",
+          "author": "Vermeulen",
+          "year": "2011",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib124",
+          "doi-asserted-by": "crossref",
+          "first-page": "504",
+          "DOI": "10.1186/s12889-017-4387-4",
+          "article-title": "Associations between measures of socio-economic status, beliefs about back pain, and exposure to a mass media campaign to improve back beliefs",
+          "volume": "17",
+          "author": "Suman",
+          "year": "2017",
+          "journal-title": "BMC Public Health"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib125",
+          "doi-asserted-by": "crossref",
+          "first-page": "697",
+          "DOI": "10.1097/01.brs.0000155404.32725.f8",
+          "article-title": "Back pain claim rates in Japan and the United States: framing the puzzle",
+          "volume": "30",
+          "author": "Volinn",
+          "year": "2005",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib126",
+          "doi-asserted-by": "crossref",
+          "first-page": "e000003",
+          "DOI": "10.1136/bmjopen-2011-000003",
+          "article-title": "Work disability benefits due to musculoskeletal disorders among Brazilian private sector workers",
+          "volume": "1",
+          "author": "Vieira",
+          "year": "2011",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib127",
+          "doi-asserted-by": "crossref",
+          "first-page": "1002",
+          "DOI": "10.1097/01.BRS.0000061983.36544.0D",
+          "article-title": "Low back pain after traffic collisions: a population-based cohort study",
+          "volume": "28",
+          "author": "Cassidy",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib128",
+          "doi-asserted-by": "crossref",
+          "first-page": "658",
+          "DOI": "10.1186/s12889-016-3331-3",
+          "article-title": "Differences in perceived fairness and health outcomes in two injury compensation systems: a comparative study",
+          "volume": "16",
+          "author": "Elbers",
+          "year": "2016",
+          "journal-title": "BMC Public Health"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib129",
+          "doi-asserted-by": "crossref",
+          "first-page": "425",
+          "DOI": "10.1590/S0034-89102012005000025",
+          "article-title": "Factors associated with duration of disability benefits: a cohort study",
+          "volume": "46",
+          "author": "Souza",
+          "year": "2012",
+          "journal-title": "Rev Saude Publica"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib132",
+          "doi-asserted-by": "crossref",
+          "first-page": "e010910",
+          "DOI": "10.1136/bmjopen-2015-010910",
+          "article-title": "Does time off work after injury vary by jurisdiction? A comparative study of eight Australian workers' compensation systems",
+          "volume": "6",
+          "author": "Collie",
+          "year": "2016",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib133",
+          "doi-asserted-by": "crossref",
+          "first-page": "419",
+          "DOI": "10.1007/s10926-009-9202-3",
+          "article-title": "Can cross country differences in return-to-work after chronic occupational back pain be explained? An exploratory analysis on disability policies in a six country cohort study",
+          "volume": "19",
+          "author": "Anema",
+          "year": "2009",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib134",
+          "doi-asserted-by": "crossref",
+          "first-page": "903",
+          "DOI": "10.1016/j.healthpol.2017.05.011",
+          "article-title": "System influences on work disability due to low back pain: An international evidence synthesis",
+          "volume": "121",
+          "author": "Bartys",
+          "year": "2017",
+          "journal-title": "Health Policy"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib135",
+          "doi-asserted-by": "crossref",
+          "first-page": "2139",
+          "DOI": "10.1097/BRS.0b013e31814541bc",
+          "article-title": "Working Backs Scotland: a public and professional health education campaign for back pain",
+          "volume": "32",
+          "author": "Waddell",
+          "year": "2007",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib136",
+          "doi-asserted-by": "crossref",
+          "first-page": "198",
+          "DOI": "10.1016/j.pec.2007.12.009",
+          "article-title": "Low back pain media campaign: no effect on sickness behaviour",
+          "volume": "71",
+          "author": "Werner",
+          "year": "2008",
+          "journal-title": "Patient Educ Couns"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib137",
+          "doi-asserted-by": "crossref",
+          "first-page": "377",
+          "DOI": "10.1016/j.berh.2014.07.006",
+          "article-title": "A time for action: Opportunities for preventing the growing burden and disability from musculoskeletal conditions in low- and middle-income countries",
+          "volume": "28",
+          "author": "Hoy",
+          "year": "2014",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "10.1016/S0140-6736(18)30489-6_bib138",
+          "doi-asserted-by": "crossref",
+          "first-page": "261",
+          "DOI": "10.2166/aqua.2005.0024",
+          "article-title": "The back happy tap-stand",
+          "volume": "54",
+          "author": "Hoy",
+          "year": "2005",
+          "journal-title": "J Water Supply Res T"
+        }
+      ],
+      "container-title": [
+        "The Lancet"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0140673618304896?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0140673618304896?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            8,
+            16
+          ]
+        ],
+        "date-time": "2022-08-16T17:35:20Z",
+        "timestamp": 1660671320000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0140673618304896"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            6
+          ]
+        ]
+      },
+      "references-count": 127,
+      "journal-issue": {
+        "issue": "10137",
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              6
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0140673618304896"
+      ],
+      "URL": "https://doi.org/10.1016/s0140-6736(18)30489-6",
+      "relation": {},
+      "ISSN": [
+        "0140-6736"
+      ],
+      "issn-type": [
+        {
+          "value": "0140-6736",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            6
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Prevention and treatment of low back pain: evidence, challenges, and promising directions",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "The Lancet",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/S0140-6736(18)30489-6",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "https://doi.org/10.1016/S0140-6736(18)30725-6",
+          "name": "associatedlink",
+          "label": "CrossRef DOI link to the associated document"
+        },
+        {
+          "value": "https://doi.org/10.1016/S0140-6736(18)30488-4",
+          "name": "associatedlink",
+          "label": "CrossRef DOI link to the associated document"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2018 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

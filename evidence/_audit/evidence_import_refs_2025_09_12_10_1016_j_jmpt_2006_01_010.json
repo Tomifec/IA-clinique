@@ -1,0 +1,541 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_jmpt_2006_01_010.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_jmpt_2006_01_010",
+  "doi": "10.1016/j.jmpt.2006.01.010",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:41.640715Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            12
+          ]
+        ],
+        "date-time": "2025-05-12T16:28:41Z",
+        "timestamp": 1747067321993
+      },
+      "reference-count": 35,
+      "publisher": "Elsevier BV",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2006,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2006-03-01T00:00:00Z",
+            "timestamp": 1141171200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Journal of Manipulative and Physiological Therapeutics"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2006,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jmpt.2006.01.010",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2006,
+            4,
+            11
+          ]
+        ],
+        "date-time": "2006-04-11T12:44:24Z",
+        "timestamp": 1144759464000
+      },
+      "page": "196-202",
+      "source": "Crossref",
+      "is-referenced-by-count": 63,
+      "title": [
+        "The Effect of Sacroiliac Joint Manipulation on Feed-Forward Activation Times of the Deep Abdominal Musculature"
+      ],
+      "prefix": "10.1016",
+      "volume": "29",
+      "author": [
+        {
+          "given": "Paul",
+          "family": "Marshall",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Bernadette",
+          "family": "Murphy",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "362",
+          "DOI": "10.1007/PL00005644",
+          "article-title": "Feedforward contraction of transversus abdominis is not influenced by the direction of arm movement",
+          "volume": "114",
+          "author": "Hodges",
+          "year": "1997",
+          "journal-title": "Exp Brain Res"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "132",
+          "DOI": "10.1093/ptj/77.2.132",
+          "article-title": "Contraction of the abdominal muscles associated with movement of the lower limb",
+          "volume": "77",
+          "author": "Hodges",
+          "year": "1997",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib3",
+          "series-title": "Therapeutic exercise for spinal segmental stabilisation in low back pain",
+          "first-page": "191",
+          "author": "Richardson",
+          "year": "1999"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "2640",
+          "DOI": "10.1097/00007632-199611150-00014",
+          "article-title": "Inefficient muscular stabilisation of the lumbar spine associated with low back pain: a motor control evaluation of transversus abdominus",
+          "volume": "21",
+          "author": "Hodges",
+          "year": "1996",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "323",
+          "DOI": "10.1007/BF00231718",
+          "article-title": "Directional specificity of postural muscles in feed-forward postural reactions during fast voluntary arm movements",
+          "volume": "103",
+          "author": "Aruin",
+          "year": "1995",
+          "journal-title": "Exp Brain Res"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "46",
+          "DOI": "10.1097/00002517-199802000-00008",
+          "article-title": "Delayed postural contraction of transversus abdominis associated with movement of the lower limb in people with low back pain",
+          "volume": "11",
+          "author": "Hodges",
+          "year": "1998",
+          "journal-title": "J Spinal Disord"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "1005",
+          "DOI": "10.1016/S0003-9993(99)90052-7",
+          "article-title": "Altered trunk muscle recruitment in people with low back pain with upper limb movement at different speeds",
+          "volume": "80",
+          "author": "Hodges",
+          "year": "1999",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "261",
+          "DOI": "10.1007/s002210100873",
+          "article-title": "Changes in motor planning of feedforward postural responses of the trunk muscles in low back pain",
+          "volume": "141",
+          "author": "Hodges",
+          "year": "2001",
+          "journal-title": "Exp Brain Res"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "2959",
+          "DOI": "10.1097/00007632-199712150-00020",
+          "article-title": "Evaluation of specific stabilising exercise in the treatment of chronic low back pain with radiologic diagnosis of spondylolysis or spondylolisthesis",
+          "volume": "22",
+          "author": "O'Sullivan",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "477",
+          "DOI": "10.1016/S1050-6411(03)00027-0",
+          "article-title": "The validity and reliability of surface EMG to assess the neuromuscular response of the abdominal muscles to rapid limb movement",
+          "volume": "13",
+          "author": "Marshall",
+          "year": "2003",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "399",
+          "DOI": "10.1097/00007632-200202150-00015",
+          "article-title": "The relation between the transversus abdominus muscles, sacroiliac joint mechanics, and low back pain",
+          "volume": "27",
+          "author": "Richardson",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib12",
+          "first-page": "87",
+          "article-title": "Sacroiliac joint manipulation decreases the H-reflex",
+          "volume": "35",
+          "author": "Murphy",
+          "year": "1995",
+          "journal-title": "Electromyogr Clin Neurophysiol"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "76",
+          "DOI": "10.1016/S0161-4754(00)90071-X",
+          "article-title": "Conservative lower back treatment reduces inhibition in knee-extensor muscles: a randomized controlled trial",
+          "volume": "23",
+          "author": "Suter",
+          "year": "2000",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib14",
+          "first-page": "151",
+          "article-title": "Quantifying the effects of spinal manipulations on gait using patients with low back pain",
+          "volume": "11",
+          "author": "Herzog",
+          "year": "1988",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib15",
+          "first-page": "104",
+          "article-title": "Effects of different treatment modalities on gait symmetry and clinical measures for sacroiliac joint patients",
+          "volume": "14",
+          "author": "Herzog",
+          "year": "1991",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "1593",
+          "DOI": "10.1097/01.BRS.0000076821.41875.1C",
+          "article-title": "Evidence of altered lumbopelvic muscle recruitment in the presence of sacroiliac joint pain",
+          "volume": "28",
+          "author": "Hungerford",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "1671",
+          "DOI": "10.1093/ptj/65.11.1671",
+          "article-title": "Intertester reliability for selected clinical tests of the sacroiliac joint",
+          "volume": "65",
+          "author": "Potter",
+          "year": "1985",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib18",
+          "first-page": "86",
+          "article-title": "Reliability of motion palpation procedures to detect sacroiliac fixations",
+          "volume": "12",
+          "author": "Herzog",
+          "year": "1989",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "352",
+          "DOI": "10.1016/0268-0033(95)00003-4",
+          "article-title": "The mobility of the sacroiliac joints in healthy volunteers between 20 and 50 years of age",
+          "volume": "10",
+          "author": "Jacob",
+          "year": "1995",
+          "journal-title": "Clin Biomech"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "2835",
+          "DOI": "10.1097/00007632-200212150-00021",
+          "article-title": "A clinical prediction rule for classifying patients with low back pain who demonstrate short-term improvement with spinal manipulation",
+          "volume": "27",
+          "author": "Flynn",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib21",
+          "series-title": "Advances in chiropractic",
+          "first-page": "69",
+          "article-title": "Mechanical, physiologic, and neuromuscular considerations of chiropractic treatments",
+          "author": "Herzog",
+          "year": "1996"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "1057",
+          "DOI": "10.1016/S0003-9993(03)00048-0",
+          "article-title": "The audible pop is not necessary for successful spinal high-velocity thrust manipulation in individuals with low back pain",
+          "volume": "84",
+          "author": "Flynn",
+          "year": "2003",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib23",
+          "first-page": "233",
+          "article-title": "Reflex responses associated with manipulative treatments on the thoracic spine: a pilot study",
+          "volume": "18",
+          "author": "Herzog",
+          "year": "1995",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "146",
+          "DOI": "10.1097/00007632-199901150-00012",
+          "article-title": "Electromyographic responses of back and limb muscles associated with spinal manipulative therapy",
+          "volume": "24",
+          "author": "Herzog",
+          "year": "1999",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "205",
+          "DOI": "10.1016/S1050-6411(98)00005-4",
+          "article-title": "EMG recordings of abdominal and back muscles in various standing postures: validation of a biomechanical model on sacroiliac joint stability",
+          "volume": "8",
+          "author": "Snijders",
+          "year": "1998",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib26",
+          "series-title": "Aspects of manipulative therapy",
+          "first-page": "72",
+          "article-title": "Articular neurology and manipulative therapy",
+          "author": "Wyke",
+          "year": "1985"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "291",
+          "DOI": "10.1139/h01-019",
+          "article-title": "Back fitness and back health assessment considerations for the Canadian physical activity, fitness and lifestyle appraisal",
+          "volume": "26",
+          "author": "Albert",
+          "year": "2001",
+          "journal-title": "Can J Appl Physiol"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "99",
+          "DOI": "10.1016/S0268-0033(01)00118-8",
+          "article-title": "Relative contribution of trunk muscles to the stability of the lumbar spine during isometric exertions",
+          "volume": "17",
+          "author": "Cholewicki",
+          "year": "2002",
+          "journal-title": "Clin Biomech"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "243",
+          "DOI": "10.1016/S1440-2440(00)80033-X",
+          "article-title": "The role of the motor system in spinal pain: implications for rehabilitation of the athlete following lower back pain",
+          "volume": "3",
+          "author": "Hodges",
+          "year": "2000",
+          "journal-title": "J Sci Med Sport"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "1889",
+          "DOI": "10.1097/00005768-200111000-00014",
+          "article-title": "Sensory-motor control of the lower back: implications for rehabilitation",
+          "volume": "33",
+          "author": "Ebenbichler",
+          "year": "2001",
+          "journal-title": "Med Sci Sports Exerc"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "390",
+          "DOI": "10.1097/00002517-199212000-00002",
+          "article-title": "The stabilising system of the spine. Part II. Neutral zone and instability hypothesis",
+          "volume": "5",
+          "author": "Panjabi",
+          "year": "1992",
+          "journal-title": "J Spinal Disord"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "371",
+          "DOI": "10.1016/S1050-6411(03)00044-0",
+          "article-title": "Clinical spinal instability and low back pain",
+          "volume": "13",
+          "author": "Panjabi",
+          "year": "2003",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "880",
+          "DOI": "10.1080/001401300409080",
+          "article-title": "Occupational low back disorder causation and control",
+          "volume": "43",
+          "author": "Marras",
+          "year": "2000",
+          "journal-title": "Ergonomics"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "1356",
+          "DOI": "10.1136/bmj.316.7141.1356",
+          "article-title": "Outcome of low back pain in general practice: a prospective study",
+          "volume": "316",
+          "author": "Croft",
+          "year": "1998",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.jmpt.2006.01.010_bib35",
+          "first-page": "38",
+          "article-title": "Long lasting alterations of spinal reflexes: a potential basis for somatic dysfunction",
+          "volume": "2",
+          "author": "Patterson",
+          "year": "1986",
+          "journal-title": "Man Med"
+        }
+      ],
+      "container-title": [
+        "Journal of Manipulative and Physiological Therapeutics"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S016147540600039X?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S016147540600039X?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            1,
+            17
+          ]
+        ],
+        "date-time": "2019-01-17T00:50:31Z",
+        "timestamp": 1547686231000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S016147540600039X"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2006,
+            3
+          ]
+        ]
+      },
+      "references-count": 35,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2006,
+              3
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S016147540600039X"
+      ],
+      "URL": "https://doi.org/10.1016/j.jmpt.2006.01.010",
+      "relation": {},
+      "ISSN": [
+        "0161-4754"
+      ],
+      "issn-type": [
+        {
+          "value": "0161-4754",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2006,
+            3
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,692 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_msksp_2022_102597.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_msksp_2022_102597",
+  "doi": "10.1016/j.msksp.2022.102597",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:54.535032Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            4
+          ]
+        ],
+        "date-time": "2025-09-04T13:29:27Z",
+        "timestamp": 1756992567452,
+        "version": "3.40.5"
+      },
+      "reference-count": 40,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2022-10-01T00:00:00Z",
+            "timestamp": 1664582400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                6,
+                15
+              ]
+            ],
+            "date-time": "2022-06-15T00:00:00Z",
+            "timestamp": 1655251200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "clinicalkey.com.au",
+          "clinicalkey.es",
+          "clinicalkey.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.msksp.2022.102597",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            6,
+            10
+          ]
+        ],
+        "date-time": "2022-06-10T17:55:16Z",
+        "timestamp": 1654883716000
+      },
+      "page": "102597",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 11,
+      "special_numbering": "C",
+      "title": [
+        "Exercise as effective as surgery in improving quality of life, disability, and pain for large to massive rotator cuff tears: A systematic review &amp; meta-analysis"
+      ],
+      "prefix": "10.1016",
+      "volume": "61",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-0427-4370",
+          "authenticated-orcid": false,
+          "given": "Kathryn",
+          "family": "Fahy",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Rose",
+          "family": "Galvin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jeremy",
+          "family": "Lewis",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Karen",
+          "family": "Mc Creesh",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2022.102597_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "55",
+          "DOI": "10.1111/j.1758-5740.2009.00010.x",
+          "article-title": "A prospective randomized placebo controlled clinical trial of a rehabilitation programme for patients with a diagnosis of massive rotator cuff tears of the shoulder",
+          "volume": "1",
+          "author": "Ainsworth",
+          "year": "2009",
+          "journal-title": "Shoulder Elbow"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.msksp.2022.102597_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "336",
+          "DOI": "10.1016/j.jbmt.2020.07.005",
+          "article-title": "Conservative management in an elderly woman with proximal humeral head fracture and massive rotator cuff tear who refused surgery: a case report",
+          "volume": "24",
+          "author": "Brindisino",
+          "year": "2020",
+          "journal-title": "J. Bodyw. Mov. Ther."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2022.102597_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "329",
+          "DOI": "10.3233/BMR-171069",
+          "article-title": "Conservative management in a patient with massive rotator cuff tear and rheumatoid arthritis",
+          "volume": "33",
+          "author": "Brindisino",
+          "year": "2020",
+          "journal-title": "J. Back Musculoskelet. Rehabil."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2022.102597_bib4",
+          "first-page": "1",
+          "article-title": "Enhanced function and quality of life following 5 months of exercise therapy for patients with irreparable rotator cuff tears–an intervention study",
+          "volume": "17",
+          "author": "Christensen",
+          "year": "2016",
+          "journal-title": "BMC Muscoskel. Disord."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.msksp.2022.102597_bib5",
+          "first-page": "S203",
+          "article-title": "Is rehabilitation effective in massive rotator cuff tears?",
+          "volume": "101",
+          "author": "Collin",
+          "year": "2015",
+          "journal-title": "J. Orthop. Traumatol.: Surg. Res."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.msksp.2022.102597_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "1233",
+          "DOI": "10.1016/j.apmr.2019.12.017",
+          "article-title": "Shoulder rotator cuff disorders: a systematic review of clinical practice guidelines and semantic analyses of recommendations",
+          "volume": "101",
+          "author": "Doiron-Cadrin",
+          "year": "2020",
+          "journal-title": "Arch. Phys. Med. Rehabil."
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.msksp.2022.102597_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1303",
+          "DOI": "10.1016/j.jse.2016.04.030",
+          "article-title": "Neer Award: predictors of failure of nonoperative treatment of chronic, symptomatic, full-thickness rotator cuff tears",
+          "volume": "25",
+          "author": "Dunn",
+          "year": "2013",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2022.102597_bib9",
+          "first-page": "279",
+          "article-title": "Exercise rehabilitation in the non-operative management of rotator cuff tears: a review of the literature",
+          "volume": "11",
+          "author": "Edwards",
+          "year": "2016",
+          "journal-title": "Int. J. Sports Phys. Ther."
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.msksp.2022.102597_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "1628",
+          "DOI": "10.1016/j.jse.2013.01.006",
+          "article-title": "The rising incidence of rotator cuff repairs",
+          "volume": "22",
+          "author": "Ensor",
+          "year": "2013",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102597_bib11",
+          "first-page": "4",
+          "article-title": "Large to massive rotator cuff tendon tears: a protocol for a systematic review investigating the effectiveness of exercise therapy on pain, disability and quality of life",
+          "author": "Fahy",
+          "year": "2021",
+          "journal-title": "HRB Open Res."
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.msksp.2022.102597_bib12",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1177/23259671211021589",
+          "article-title": "A 5-year follow-up of patients treated for full-thickness rotator cuff tears: a prospective cohort study",
+          "volume": "9",
+          "author": "Gagnier",
+          "year": "2021",
+          "journal-title": "Orthop. J. Sports Med."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2022.102597_bib13",
+          "first-page": "609",
+          "article-title": "Conservative management vs. surgical repair in degenerative rotator cuff tears: a systematic review and meta-analysis",
+          "volume": "25",
+          "author": "Garibaldi",
+          "year": "2021",
+          "journal-title": "Eur. Rev. Med. Pharmacol. Sci."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2022.102597_bib14",
+          "first-page": "900",
+          "article-title": "Conservative treatment of rotator cuff tear in older patients: a role for the cycloergometer? A randomized study",
+          "volume": "54",
+          "author": "Gialanella",
+          "year": "2018",
+          "journal-title": "Eur. J. Phys. Rehabil. Med."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.msksp.2022.102597_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "383",
+          "DOI": "10.1016/j.jclinepi.2010.04.026",
+          "article-title": "GRADE guidelines: 1. Introduction—GRADE evidence profiles and summary of findings tables",
+          "volume": "64",
+          "author": "Guyatt",
+          "year": "2011",
+          "journal-title": "J. Clin. Epidemiol."
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.msksp.2022.102597_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "1274",
+          "DOI": "10.1016/j.jse.2015.05.040",
+          "article-title": "Comparing surgical repair with conservative treatment for degenerative rotator cuff tears: a randomized controlled trial",
+          "volume": "24",
+          "author": "Heerspink",
+          "year": "2015",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "issue": "7414",
+          "key": "10.1016/j.msksp.2022.102597_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "557",
+          "DOI": "10.1136/bmj.327.7414.557",
+          "article-title": "Measuring inconsistency in meta-analyses",
+          "volume": "327",
+          "author": "Higgins",
+          "year": "2003",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102597_bib18",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmj.d5928",
+          "article-title": "The Cochrane Collaboration's tool for assessing risk of bias in randomised trials",
+          "volume": "343",
+          "author": "Higgins",
+          "year": "2011",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2022.102597_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "335",
+          "DOI": "10.26603/ijspt20180335",
+          "article-title": "Exercise therapy in the non-operative treatment of full-thickness rotator cuff tears: a systematic review",
+          "volume": "13",
+          "author": "Jeanfavre",
+          "year": "2018",
+          "journal-title": "Int. J. Sports Phys. Ther."
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.msksp.2022.102597_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1173",
+          "DOI": "10.1016/j.jse.2013.01.008",
+          "article-title": "A prospective randomized controlled trial comparing occupational therapy with home-based exercises in conservative treatment of rotator cuff tears",
+          "volume": "22",
+          "author": "Krischak",
+          "year": "2013",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.msksp.2022.102597_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "304",
+          "DOI": "10.1007/s12178-021-09714-7",
+          "article-title": "Treatment options for massive irreparable rotator cuff tears",
+          "volume": "14",
+          "author": "Kucirek",
+          "year": "2021",
+          "journal-title": "Curr. Rev. Musculoskel. Med."
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.msksp.2022.102597_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "1371",
+          "DOI": "10.1016/j.jse.2013.01.026",
+          "article-title": "Effectiveness of physical therapy in treating atraumatic full-thickness rotator cuff tears: a multicenter prospective cohort study",
+          "volume": "22",
+          "author": "Kuhn",
+          "year": "2013",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2022.102597_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "863",
+          "DOI": "10.1016/j.jse.2008.04.005",
+          "article-title": "The role of anterior deltoid reeducation in patients with massive irreparable degenerative rotator cuff tears",
+          "volume": "17",
+          "author": "Levy",
+          "year": "2008",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2022.102597_bib24",
+          "first-page": "1",
+          "article-title": "Conservative versus surgical management for patients with rotator cuff tears: a systematic review and META-analysis",
+          "volume": "22",
+          "author": "Longo",
+          "year": "2021",
+          "journal-title": "BMC Muscoskel. Disord."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2022.102597_bib25",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjsem-2019-000656",
+          "article-title": "Content reporting of exercise interventions in rotator cuff disease trials: results from application of the Consensus on Exercise Reporting Template (CERT)",
+          "volume": "5",
+          "author": "Major",
+          "year": "2019",
+          "journal-title": "BMJ Open Sport Exerc. Med."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.msksp.2022.102597_bib26",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pmed.1000097",
+          "article-title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+          "volume": "6",
+          "author": "Moher",
+          "year": "2009",
+          "journal-title": "PLoS Med."
+        },
+        {
+          "issue": "14",
+          "key": "10.1016/j.msksp.2022.102597_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "1249",
+          "DOI": "10.2106/JBJS.L.00185",
+          "article-title": "The natural history of asymptomatic rotator cuff tears: a three-year follow-up of fifty cases",
+          "volume": "95",
+          "author": "Moosmayer",
+          "year": "2013",
+          "journal-title": "JBJS"
+        },
+        {
+          "issue": "18",
+          "key": "10.1016/j.msksp.2022.102597_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "1504",
+          "DOI": "10.2106/JBJS.M.01393",
+          "article-title": "Tendon repair compared with physiotherapy in the treatment of rotator cuff tears: a randomized controlled study in 103 cases with a five-year follow-up",
+          "volume": "96",
+          "author": "Moosmayer",
+          "year": "2014",
+          "journal-title": "JBJS"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2022.102597_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1186/s13643-016-0384-4",
+          "article-title": "Rayyan—a web and mobile app for systematic reviews",
+          "volume": "5",
+          "author": "Ouzzani",
+          "year": "2016",
+          "journal-title": "Syst. Rev."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.msksp.2022.102597_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "572",
+          "DOI": "10.1016/j.jse.2017.09.032",
+          "article-title": "Operative versus nonoperative treatment for the management of full-thickness rotator cuff tears: a systematic review and meta-analysis",
+          "volume": "27",
+          "author": "Piper",
+          "year": "2018",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "issue": "19",
+          "key": "10.1016/j.msksp.2022.102597_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "1775",
+          "DOI": "10.2106/JBJS.18.01473",
+          "article-title": "Surgical versus nonsurgical management of rotator cuff tears: a matched-pair analysis",
+          "volume": "101",
+          "author": "Ramme",
+          "year": "2019",
+          "journal-title": "JBJS"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2022.102597_bib32",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1177/2309499016684318",
+          "article-title": "Systematic review on risk factors of rotator cuff tears",
+          "volume": "25",
+          "author": "Sayampanathan",
+          "year": "2017",
+          "journal-title": "J. Orthop. Surg."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.msksp.2022.102597_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "674",
+          "DOI": "10.1016/j.jse.2019.10.024",
+          "article-title": "Defining massive rotator cuff tears: a Delphi consensus study",
+          "volume": "29",
+          "author": "Schumaier",
+          "year": "2020",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2022.102597_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "1431",
+          "DOI": "10.1016/j.jse.2020.11.002",
+          "article-title": "Nonoperative treatment of chronic, massive irreparable rotator cuff tears: a systematic review with synthesis of a standardized rehabilitation protocol",
+          "volume": "30",
+          "author": "Shepet",
+          "year": "2021",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102597_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "120",
+          "DOI": "10.1016/j.jclinepi.2018.07.009",
+          "article-title": "The consensus on exercise reporting template (CERT) applied to exercise interventions in musculoskeletal trials demonstrated good rater agreement and incomplete reporting",
+          "volume": "103",
+          "author": "Slade",
+          "year": "2018",
+          "journal-title": "J. Clin. Epidemiol."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.msksp.2022.102597_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "296",
+          "DOI": "10.1016/S1058-2746(99)90148-9",
+          "article-title": "Age-related prevalence of rotator cuff tears in asymptomatic shoulders",
+          "volume": "8",
+          "author": "Tempelhof",
+          "year": "1999",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.msksp.2022.102597_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "1913",
+          "DOI": "10.1016/j.jse.2014.08.001",
+          "article-title": "A systematic review and pooled analysis of the prevalence of rotator cuff disease with increasing age",
+          "volume": "23",
+          "author": "Teunis",
+          "year": "2014",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.msksp.2022.102597_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "181",
+          "DOI": "10.1016/j.jse.2006.06.013",
+          "article-title": "Rotator cuff repair: an analysis of utility scores and cost-effectiveness",
+          "volume": "16",
+          "author": "Vitale",
+          "year": "2007",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.msksp.2022.102597_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "671",
+          "DOI": "10.1097/PHM.0000000000001169",
+          "article-title": "Minimal clinically important difference of shoulder outcome measures and diagnoses: a systematic review",
+          "volume": "98",
+          "author": "Dabija",
+          "year": "2019",
+          "journal-title": "Am. J. Phys. Med. Rehab."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.msksp.2022.102597_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "927",
+          "DOI": "10.1016/j.jse.2009.03.021",
+          "article-title": "Minimal clinically important differences (MCID) and patient acceptable symptomatic state (PASS) for visual analog scales (VAS) measuring pain in patients treated for rotator cuff disease",
+          "volume": "18",
+          "author": "Tashjian",
+          "year": "2009",
+          "journal-title": "J. Shoulder Elbow Surg."
+        },
+        {
+          "key": "10.1016/j.msksp.2022.102597_bib40",
+          "article-title": "SF-36 physical and mental health summary scales",
+          "author": "Ware",
+          "year": "1994",
+          "journal-title": "A user’s manual"
+        }
+      ],
+      "container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781222000972?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781222000972?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            9,
+            2
+          ]
+        ],
+        "date-time": "2022-09-02T00:01:02Z",
+        "timestamp": 1662076862000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2468781222000972"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            10
+          ]
+        ]
+      },
+      "references-count": 40,
+      "alternative-id": [
+        "S2468781222000972"
+      ],
+      "URL": "https://doi.org/10.1016/j.msksp.2022.102597",
+      "relation": {},
+      "ISSN": [
+        "2468-7812"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2468-7812"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            10
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Exercise as effective as surgery in improving quality of life, disability, and pain for large to massive rotator cuff tears: A systematic review & meta-analysis",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Musculoskeletal Science and Practice",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.msksp.2022.102597",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2022 The Authors. Published by Elsevier Ltd.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "102597"
+    }
+  }
+}

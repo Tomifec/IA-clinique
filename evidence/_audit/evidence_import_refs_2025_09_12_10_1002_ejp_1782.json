@@ -1,0 +1,606 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1002_ejp_1782.md",
+  "id": "evidence_import_refs_2025_09_12_10_1002_ejp_1782",
+  "doi": "10.1002/ejp.1782",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:14.585731Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            24
+          ]
+        ],
+        "date-time": "2025-08-24T01:15:31Z",
+        "timestamp": 1755998131481,
+        "version": "3.40.5"
+      },
+      "reference-count": 58,
+      "publisher": "Wiley",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                5,
+                2
+              ]
+            ],
+            "date-time": "2021-05-02T00:00:00Z",
+            "timestamp": 1619913600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "European Journal of Pain"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            9
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Background</jats:title><jats:p>Numerous systematic reviews have attempted to synthesize evidence on prognostic factors for predicting future outcomes such as pain, disability and return‐to‐work/work absence in neck and low back pain populations.</jats:p></jats:sec><jats:sec><jats:title>Databases and datatreatment</jats:title><jats:p>An umbrella review of systematic reviews was conducted to summarize the magnitude and quality of the evidence for each prognostic factor investigated. Searches were limited to the last 10 years (2008‐11th April 2018, updated 28th September 2020). A two‐stage approach was undertaken: in stage one, data on prognostic factors was extracted from systematic reviews identified from the systematic search that met the inclusion criteria. Where a prognostic factor was investigated in ≥1 systematic review and where 50% or more of those reviews found an association between the prognostic factor and one of the outcomes of interest, it was taken forward to stage two. In stage two, additional information extracted included the strength of association found, consistency of effects and risk of bias. The GRADE approach was used to grade confidence in the evidence.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>Stage one identified 41 reviews (90 prognostic factors), with 35 reviews (25 prognostic factors) taken forward to stage two. Seven prognostic factors (disability/activity limitation, mental health; pain intensity; pain severity; coping; expectation of outcome/recovery and fear‐avoidance) were judged as having moderate confidence for robust findings.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>Although there was conflicting evidence for the strength of association with outcome, these factors may be used for identifying vulnerable subgroups or people able to self‐manage. Further research can investigate the impact of using such prognostic information on treatment/referral decisions and patient outcomes.</jats:p></jats:sec>",
+      "DOI": "10.1002/ejp.1782",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            17
+          ]
+        ],
+        "date-time": "2021-04-17T04:55:47Z",
+        "timestamp": 1618635347000
+      },
+      "page": "1627-1643",
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 16,
+      "title": [
+        "Self‐reported prognostic factors in adults reporting neck or low back pain: An umbrella review"
+      ],
+      "prefix": "10.1002",
+      "volume": "25",
+      "author": [
+        {
+          "given": "Gemma",
+          "family": "Mansell",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Primary Care Centre Versus Arthritis School of Medicine Keele University Staffordshire UK"
+            }
+          ]
+        },
+        {
+          "given": "Nadia",
+          "family": "Corp",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Primary Care Centre Versus Arthritis School of Medicine Keele University Staffordshire UK"
+            }
+          ]
+        },
+        {
+          "given": "Gwenllian",
+          "family": "Wynne‐Jones",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Primary Care Centre Versus Arthritis School of Medicine Keele University Staffordshire UK"
+            }
+          ]
+        },
+        {
+          "given": "Jonathan",
+          "family": "Hill",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Primary Care Centre Versus Arthritis School of Medicine Keele University Staffordshire UK"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5117-9034",
+          "authenticated-orcid": false,
+          "given": "Siobhán",
+          "family": "Stynes",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Primary Care Centre Versus Arthritis School of Medicine Keele University Staffordshire UK"
+            }
+          ]
+        },
+        {
+          "given": "Daniëlle",
+          "family": "van der Windt",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Primary Care Centre Versus Arthritis School of Medicine Keele University Staffordshire UK"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "published-online": {
+        "date-parts": [
+          [
+            2021,
+            5,
+            2
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_8_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3138/physio.62.1.9"
+        },
+        {
+          "key": "e_1_2_8_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/2050312118757387"
+        },
+        {
+          "key": "e_1_2_8_4_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41598-019-44664-8"
+        },
+        {
+          "key": "e_1_2_8_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/XEB.0000000000000055"
+        },
+        {
+          "key": "e_1_2_8_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2474-12-208"
+        },
+        {
+          "key": "e_1_2_8_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-014-3371-2"
+        },
+        {
+          "key": "e_1_2_8_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2017.06.019"
+        },
+        {
+          "key": "e_1_2_8_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/AJP.0000000000000597"
+        },
+        {
+          "issue": "444",
+          "key": "e_1_2_8_10_1",
+          "first-page": "e1",
+          "article-title": "The influence of informal social support on risk and prognosis in spinal pain: A systematic review",
+          "volume": "15",
+          "author": "Campbell P.",
+          "year": "2011",
+          "journal-title": "European Journal of Pain"
+        },
+        {
+          "key": "e_1_2_8_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00420-012-0804-2"
+        },
+        {
+          "key": "e_1_2_8_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-008-0629-6"
+        },
+        {
+          "key": "e_1_2_8_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e31816445be"
+        },
+        {
+          "key": "e_1_2_8_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/BRS.0b013e3181643eb8"
+        },
+        {
+          "key": "e_1_2_8_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1526-4637.2009.00632.x"
+        },
+        {
+          "key": "e_1_2_8_16_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.2010.344"
+        },
+        {
+          "key": "e_1_2_8_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2017.7415"
+        },
+        {
+          "key": "e_1_2_8_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12891-017-1487-3"
+        },
+        {
+          "key": "e_1_2_8_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.1992.03490060092030"
+        },
+        {
+          "volume-title": "Low back pain. Priority Medicines for Europe and the World. “A Public Health Approach to Innovation”",
+          "year": "2013",
+          "author": "Duthey B.",
+          "key": "e_1_2_8_20_1"
+        },
+        {
+          "key": "e_1_2_8_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.berh.2013.10.005"
+        },
+        {
+          "key": "e_1_2_8_22_1",
+          "first-page": "545",
+          "article-title": "Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990–2015: A systematic analysis for the Global Burden of Disease Study 2015",
+          "volume": "388",
+          "author": "GBD",
+          "year": "2015",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "e_1_2_8_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S1836-9553(12)70107-8"
+        },
+        {
+          "key": "e_1_2_8_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2008.09.004"
+        },
+        {
+          "key": "e_1_2_8_25_1",
+          "first-page": "CD011284",
+          "article-title": "Individual recovery expectations and prognosis of outcomes in non‐specific low back pain: Prognostic factor exemplar review",
+          "volume": "9",
+          "author": "Hayden J. A.",
+          "year": "2014",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "key": "e_1_2_8_26_1",
+          "first-page": "CD011284",
+          "article-title": "Individual recovery expectations and prognosis of outcomes in non‐specific low back pain: Prognostic factor review",
+          "volume": "11",
+          "author": "Hayden J. A.",
+          "year": "2019",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "key": "e_1_2_8_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00586-010-1616-2"
+        },
+        {
+          "key": "e_1_2_8_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2522/ptj.20100280"
+        },
+        {
+          "key": "e_1_2_8_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/oem.2007.036046"
+        },
+        {
+          "key": "e_1_2_8_30_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10926-008-9161-0"
+        },
+        {
+          "key": "e_1_2_8_31_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2008.02.019"
+        },
+        {
+          "key": "e_1_2_8_32_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.math.2007.05.009"
+        },
+        {
+          "key": "e_1_2_8_33_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/AJP.0b013e31826f9a52"
+        },
+        {
+          "key": "e_1_2_8_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.pain.2009.08.032"
+        },
+        {
+          "key": "e_1_2_8_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-151-4-200908180-00135"
+        },
+        {
+          "key": "e_1_2_8_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(12)61689-4"
+        },
+        {
+          "key": "e_1_2_8_37_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/ejp.1395"
+        },
+        {
+          "key": "e_1_2_8_38_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/oemed-2019-105797"
+        },
+        {
+          "key": "e_1_2_8_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2018.12.004"
+        },
+        {
+          "key": "e_1_2_8_40_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2015.10.037"
+        },
+        {
+          "key": "e_1_2_8_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/fampra/cmq072"
+        },
+        {
+          "key": "e_1_2_8_42_1",
+          "first-page": "e014939",
+          "article-title": "Factors associated with return to work among people on work absence due to long‐term neck or back pain: A narrative systematic review",
+          "volume": "7",
+          "author": "Rashid M.",
+          "year": "2017",
+          "journal-title": "British Medical Journal Open"
+        },
+        {
+          "key": "e_1_2_8_43_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2016.06.003"
+        },
+        {
+          "key": "e_1_2_8_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10195-016-0431-x"
+        },
+        {
+          "key": "e_1_2_8_45_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/21679169.2020.1736150"
+        },
+        {
+          "key": "e_1_2_8_46_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2288-11-15"
+        },
+        {
+          "key": "e_1_2_8_47_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10926-016-9666-x"
+        },
+        {
+          "key": "e_1_2_8_48_1",
+          "first-page": "e007616",
+          "article-title": "Prognostic factors for disability and sick leave in patients with subacute non‐malignant pain: A systematic review of cohort studies",
+          "volume": "6",
+          "author": "Valentin G. H.",
+          "year": "2016",
+          "journal-title": "British Medical Journal Open"
+        },
+        {
+          "key": "e_1_2_8_49_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2522/ptj.20110388"
+        },
+        {
+          "key": "e_1_2_8_50_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/j.1532-2149.2013.00301.x"
+        },
+        {
+          "key": "e_1_2_8_51_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.msksp.2019.03.009"
+        },
+        {
+          "key": "e_1_2_8_52_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1155/2006/197616"
+        },
+        {
+          "key": "e_1_2_8_53_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2174/1874325001307010494"
+        },
+        {
+          "key": "e_1_2_8_54_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2013.4507"
+        },
+        {
+          "key": "e_1_2_8_55_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2014.03.003"
+        },
+        {
+          "key": "e_1_2_8_56_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.spinee.2013.09.036"
+        },
+        {
+          "key": "e_1_2_8_57_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2015.06.005"
+        },
+        {
+          "key": "e_1_2_8_58_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pri.1648"
+        },
+        {
+          "key": "e_1_2_8_59_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/oemed-2013-101571"
+        }
+      ],
+      "container-title": [
+        "European Journal of Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/ejp.1782",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/ejp.1782",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/ejp.1782",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            24
+          ]
+        ],
+        "date-time": "2023-08-24T04:44:43Z",
+        "timestamp": 1692852283000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://onlinelibrary.wiley.com/doi/10.1002/ejp.1782"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2021,
+            5,
+            2
+          ]
+        ]
+      },
+      "references-count": 58,
+      "journal-issue": {
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1002/ejp.1782"
+      ],
+      "URL": "https://doi.org/10.1002/ejp.1782",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "1090-3801",
+        "1532-2149"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1090-3801"
+        },
+        {
+          "type": "electronic",
+          "value": "1532-2149"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            5,
+            2
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2020-07-02",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2021-04-09",
+          "order": 1,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2021-05-02",
+          "order": 2,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,756 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_pain_2013_05_041.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_pain_2013_05_041",
+  "doi": "10.1016/j.pain.2013.05.041",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:02.078888Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            8
+          ]
+        ],
+        "date-time": "2025-09-08T05:35:09Z",
+        "timestamp": 1757309709561
+      },
+      "reference-count": 54,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "9",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.pain.2013.05.041",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2013,
+            5,
+            29
+          ]
+        ],
+        "date-time": "2013-05-29T17:01:46Z",
+        "timestamp": 1369846906000
+      },
+      "page": "1798-1806",
+      "source": "Crossref",
+      "is-referenced-by-count": 83,
+      "title": [
+        "Management of acute whiplash: A randomized controlled trial of multidisciplinary stratified treatments"
+      ],
+      "prefix": "10.1097",
+      "volume": "154",
+      "author": [
+        {
+          "given": "Gwendolen",
+          "family": "Jull",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Justin",
+          "family": "Kenardy",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joan",
+          "family": "Hendrikz",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Milton",
+          "family": "Cohen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michele",
+          "family": "Sterling",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "276",
+      "reference": [
+        {
+          "key": "R1-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "567",
+          "DOI": "10.1148/radiol.11102115",
+          "article-title": "Are there cervical spine findings at MR imaging that are specific to acute symptomatic whiplash injury? A prospective controlled study with four experienced blinded readers.",
+          "volume": "262",
+          "author": "Anderson",
+          "year": "2012",
+          "journal-title": "Radiology"
+        },
+        {
+          "key": "R3-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "7",
+          "DOI": "10.1016/j.pain.2003.05.001",
+          "article-title": "Evidence for spinal cord hypersensitivity in chronic pain after whiplash injury and in fibromyalgia.",
+          "volume": "107",
+          "author": "Banic",
+          "year": "2004",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R4-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "29",
+          "DOI": "10.1016/j.clinbiomech.2010.08.008",
+          "article-title": "Neck motion patterns in whiplash-associated disorders: quantifying variability and spontaneity of movement.",
+          "volume": "26",
+          "author": "Baydal-Bertomeu",
+          "year": "2011",
+          "journal-title": "Clin Biomech"
+        },
+        {
+          "key": "R5-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "862",
+          "DOI": "10.1037/0022-006X.66.5.862",
+          "article-title": "Treatment of acute stress disorder.",
+          "volume": "66",
+          "author": "Bryant",
+          "year": "1998",
+          "journal-title": "J Consult Clin Psychol"
+        },
+        {
+          "key": "R6-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "S238",
+          "DOI": "10.1097/BRS.0b013e3182388400",
+          "article-title": "Fear avoidance and illness beliefs in post-traumatic neck pain.",
+          "volume": "36",
+          "author": "Buitenhuis",
+          "year": "2011",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R7-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "S250",
+          "DOI": "10.1097/BRS.0b013e31823881a4",
+          "article-title": "Beliefs and expectations for recovery, coping, and depression in whiplash-associated disorders: lessening the transition to chronicity.",
+          "volume": "36",
+          "author": "Carroll",
+          "year": "2011",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R8-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "S83",
+          "DOI": "10.1097/BRS.0b013e3181643eb8",
+          "article-title": "Course and prognostic factors for neck pain in whiplash-associated disorders (WAD).",
+          "volume": "33",
+          "author": "Carroll",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R9-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1179",
+          "DOI": "10.1056/NEJM200004203421606",
+          "article-title": "Effect of eliminating compensation for pain and suffering on the outcome of insurance claims for whiplash injury.",
+          "volume": "20",
+          "author": "Cassidy",
+          "year": "2000",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "R10-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "E338",
+          "DOI": "10.1097/BRS.0b013e3181c9b075",
+          "article-title": "What factors have influence on persistence of neck pain after a whiplash?",
+          "volume": "35",
+          "author": "Cobo",
+          "year": "2010",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R11-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "306",
+          "DOI": "10.1097/00002508-200112000-00004",
+          "article-title": "Central hypersensitivity in chronic pain after whiplash injury.",
+          "volume": "17",
+          "author": "Curatolo",
+          "year": "2001",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "R12-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "2090",
+          "DOI": "10.1097/00007632-200110010-00009",
+          "article-title": "Cervical range of motion discriminates between asymptomatic and whiplash subjects.",
+          "volume": "26",
+          "author": "DallAlba",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R13-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "755",
+          "DOI": "10.1097/AJP.0b013e318243e16b",
+          "article-title": "A randomized controlled trial of cognitive-behavioral therapy for the treatment of PTSD in the context of chronic whiplash.",
+          "volume": "28",
+          "author": "Dunne",
+          "year": "2012",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "R15-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "402",
+          "DOI": "10.1016/j.math.2012.02.014",
+          "article-title": "Cold hyperalgesia as a prognostic factor in whiplash associated disorders: a systematic review.",
+          "volume": "17",
+          "author": "Goldsmith",
+          "year": "2012",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "R16-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "209",
+          "DOI": "10.1097/00006842-197905000-00004",
+          "article-title": "Impact of Event Scale: a measure of subjective stress.",
+          "volume": "41",
+          "author": "Horowitz",
+          "year": "1979",
+          "journal-title": "Psychosom Med"
+        },
+        {
+          "key": "R17-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "251",
+          "DOI": "10.1097/00002517-199109000-00001",
+          "article-title": "Hidden cervical spine injuries in traffic accident victims with skull fractures.",
+          "volume": "4",
+          "author": "Jonsson",
+          "year": "1991",
+          "journal-title": "J Spinal Disord"
+        },
+        {
+          "key": "R18-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "89",
+          "DOI": "10.1016/S1356-689X(03)00086-9",
+          "article-title": "Impairment in the cervical flexors: a comparison of whiplash and insidious onset neck pain patients.",
+          "volume": "9",
+          "author": "Jull",
+          "year": "2004",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "R20-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "s335",
+          "DOI": "10.1097/BRS.0b013e3182388449",
+          "article-title": "Towards optimal early management after whiplash injury to lessen the rate of transition to chronicity: discussion paper 5.",
+          "volume": "36",
+          "author": "Jull",
+          "year": "2011",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R21-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "28",
+          "DOI": "10.1016/j.pain.2006.09.030",
+          "article-title": "Does the presence of sensory hypersensitivity influence outcomes of physical rehabilitation for chronic whiplash? A preliminary RCT.",
+          "volume": "129",
+          "author": "Jull",
+          "year": "2007",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R22-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1835",
+          "DOI": "10.1097/00007632-200209010-00004",
+          "article-title": "A randomized controlled trial of exercise and manipulative therapy for cervicogenic headache.",
+          "volume": "27",
+          "author": "Jull",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R23-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "143",
+          "DOI": "10.1300/J094v08n01_12",
+          "article-title": "Deep cervical neck flexor dysfunction in whiplash.",
+          "volume": "8",
+          "author": "Jull",
+          "year": "2000",
+          "journal-title": "J Musculoskel Pain"
+        },
+        {
+          "key": "R24-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "617",
+          "DOI": "10.1016/j.pain.2008.02.019",
+          "article-title": "Course and prognostic factors of whiplash: a systematic review and meta-analysis.",
+          "volume": "138",
+          "author": "Kamper",
+          "year": "2008",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R25-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "561",
+          "DOI": "10.1016/j.ejpain.2004.11.011",
+          "article-title": "Reduced cold pressor pain tolerance in non-recovered whiplash patients: a 1-year prospective study.",
+          "volume": "9",
+          "author": "Kasch",
+          "year": "2005",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "R26-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1032",
+          "DOI": "10.1136/bmj.321.7268.1032",
+          "article-title": "The current status of psychological debriefing.",
+          "volume": "321",
+          "author": "Kenardy",
+          "year": "2000",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "R27-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "854",
+          "DOI": "10.1136/bjsports-2011-090490",
+          "article-title": "Diagnosis, treatment and prevention of ankle sprains: an evidence-based clinical guideline.",
+          "volume": "46",
+          "author": "Kerkhoffs",
+          "year": "2012",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "key": "R28-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "e19182",
+          "DOI": "10.1371/journal.pone.0019182",
+          "article-title": "Elevated 11C-D-deprenyl uptake in chronic whiplash-associated disorder suggests persistent musculoskeletal inflammation.",
+          "volume": "6",
+          "author": "Linnman",
+          "year": "2011",
+          "journal-title": "PLoS One"
+        },
+        {
+          "key": "R29-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "190",
+          "DOI": "10.1186/1756-0500-3-190",
+          "article-title": "Five years post whiplash injury: symptoms and psychological factors in recovered versus non-recovered.",
+          "volume": "3",
+          "author": "Merrick",
+          "year": "2010",
+          "journal-title": "BMC Res Notes"
+        },
+        {
+          "key": "R32-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "211",
+          "DOI": "10.1157/13124610",
+          "article-title": "Factors related with clinical evolution in whiplash.",
+          "volume": "131",
+          "author": "Pleguezuelos",
+          "year": "2008",
+          "journal-title": "Med Clin (Barc)"
+        },
+        {
+          "key": "R33-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "e5",
+          "DOI": "10.4081/or.2012.e5",
+          "article-title": "Diagnosis and treatment of acute ankle injuries: development of an evidence-based algorithm.",
+          "volume": "4",
+          "author": "Polzer",
+          "year": "2012",
+          "journal-title": "Orthop Rev"
+        },
+        {
+          "key": "R34-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "48",
+          "DOI": "10.1159/000117200",
+          "article-title": "Predicting recovery from common whiplash.",
+          "volume": "36",
+          "author": "Radanov",
+          "year": "1996",
+          "journal-title": "Eur Neurol"
+        },
+        {
+          "key": "R35-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "281",
+          "DOI": "10.1097/00005792-199509000-00005",
+          "article-title": "Long-term outcome after whiplash injury. A 2-year follow-up considering features of injury mechanism and somatic, radiologic, and psychological findings.",
+          "volume": "74",
+          "author": "Radanov",
+          "year": "1995",
+          "journal-title": "Medicine"
+        },
+        {
+          "key": "R36-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "895",
+          "DOI": "10.1016/0003-9993(94)90115-5",
+          "article-title": "Changes in cervicocephalic kinesthesia after a proprioceptive rehabilitation program in patients with neck pain: a randomized controlled study.",
+          "volume": "75",
+          "author": "Revel",
+          "year": "1994",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "R37-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "149",
+          "DOI": "10.1016/S0304-3959(98)00198-5",
+          "article-title": "Assessment of peripheral sympathetic nervous system function for diagnosing early post-traumatic complex regional pain syndrome type I.",
+          "volume": "80",
+          "author": "Schurmann",
+          "year": "1999",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R38-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "171",
+          "DOI": "10.1016/S0304-3959(98)00200-0",
+          "article-title": "Patterns of hyperalgesia in complex regional pain syndrome.",
+          "volume": "80",
+          "author": "Sieweke",
+          "year": "1999",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R40-40-20210112",
+          "first-page": "1",
+          "article-title": "Scientific monograph of the Quebec Task Force on whiplash-associated disorders: redefining whiplash and its management.",
+          "volume": "20",
+          "author": "Spitzer",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R41-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "501",
+          "DOI": "10.1016/j.pain.2010.06.003",
+          "article-title": "Differential development of sensory hypersensitivity and a measure of spinal cord hyperexcitability following whiplash injury.",
+          "volume": "150",
+          "author": "Sterling",
+          "year": "2010",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R42-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "1272",
+          "DOI": "10.1016/j.pain.2011.01.056",
+          "article-title": "Similar factors predict disability and post-traumatic stress disorder trajectories after whiplash injury.",
+          "volume": "152",
+          "author": "Sterling",
+          "year": "2011",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R43-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "102",
+          "DOI": "10.1016/j.pain.2006.01.014",
+          "article-title": "Physical and psychological factors maintain long-term predictive capacity following whiplash injury.",
+          "volume": "122",
+          "author": "Sterling",
+          "year": "2006",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R44-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "509",
+          "DOI": "10.1016/S0304-3959(03)00078-2",
+          "article-title": "Sensory hypersensitivity occurs soon after whiplash injury and is associated with poor recovery.",
+          "volume": "104",
+          "author": "Sterling",
+          "year": "2003",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R45-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "65",
+          "DOI": "10.1016/S0304-3959(02)00420-7",
+          "article-title": "Development of motor system dysfunction following whiplash injury.",
+          "volume": "103",
+          "author": "Sterling",
+          "year": "2003",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R46-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "141",
+          "DOI": "10.1016/j.pain.2004.12.005",
+          "article-title": "Physical and psychological predictors of outcome following whiplash injury.",
+          "volume": "114",
+          "author": "Sterling",
+          "year": "2005",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R47-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "387",
+          "DOI": "10.1016/j.jpsychores.2005.08.016",
+          "article-title": "The relationship between sensory and sympathetic nervous system changes and post-traumatic stress reaction following whiplash injury: a prospective study.",
+          "volume": "60",
+          "author": "Sterling",
+          "year": "2006",
+          "journal-title": "J Psychosom Res"
+        },
+        {
+          "key": "R48-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "481",
+          "DOI": "10.1016/j.pain.2003.09.013",
+          "article-title": "The development of psychological changes following whiplash injury.",
+          "volume": "106",
+          "author": "Sterling",
+          "year": "2003",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R49-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "220",
+          "DOI": "10.1002/pri.202",
+          "article-title": "Pressure pain thresholds of upper limb peripheral nerve trunks in asymptomatic subjects.",
+          "volume": "5",
+          "author": "Sterling",
+          "year": "2000",
+          "journal-title": "Physiother Res Int"
+        },
+        {
+          "key": "R50-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.1300/J094v10n03_05",
+          "article-title": "Pressure pain thresholds in chronic whiplash associated disorder: further evidence of altered central pain processing.",
+          "volume": "10",
+          "author": "Sterling",
+          "year": "2002",
+          "journal-title": "J Musculoskel Pain"
+        },
+        {
+          "key": "R51-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "59",
+          "DOI": "10.1016/j.pain.2006.08.030",
+          "article-title": "Randomized controlled trial of exercise for chronic whiplash-associated disorders.",
+          "volume": "128",
+          "author": "Stewart",
+          "year": "2007",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R52-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "111",
+          "DOI": "10.1016/j.math.2012.07.009",
+          "article-title": "Measures of central hyperexcitability in chronic whiplash associated disorder: a systematic review and meta-analysis.",
+          "volume": "18",
+          "author": "Stone",
+          "year": "2013",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "R53-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "61",
+          "DOI": "10.1300/J094v04n04_07",
+          "article-title": "Cervical spinal injuries: an autopsy study of 109 blunt injuries.",
+          "volume": "4",
+          "author": "Taylor",
+          "year": "1996",
+          "journal-title": "J Musculoskel Pain"
+        },
+        {
+          "key": "R54-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "295",
+          "DOI": "10.1155/2010/640164",
+          "article-title": "A research synthesis of therapeutic interventions for whiplash-associated disorder (WAD), Part 2: interventions for acute WAD.",
+          "volume": "15",
+          "author": "Teasell",
+          "year": "2010",
+          "journal-title": "Pain Res Manag"
+        },
+        {
+          "key": "R55-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "36",
+          "DOI": "10.1080/16501970306109",
+          "article-title": "Dizziness and unsteadiness following whiplash injury: characteristic features and relationship to cervical joint position error.",
+          "volume": "35",
+          "author": "Treleaven",
+          "year": "2003",
+          "journal-title": "J Rehabil Med"
+        },
+        {
+          "key": "R56-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "395",
+          "DOI": "10.1016/j.gaitpost.2004.04.008",
+          "article-title": "Is signal analysis important for measuring standing balance in chronic whiplash?",
+          "volume": "21",
+          "author": "Treleaven",
+          "year": "2005",
+          "journal-title": "Gait Posture"
+        },
+        {
+          "key": "R57-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "55",
+          "DOI": "10.1016/j.pain.2008.03.001",
+          "article-title": "Assessing fear in patients with cervical pain: development and validation of the Pictorial Fear of Activity Scale-Cervical (PFActS-C).",
+          "volume": "139",
+          "author": "Turk",
+          "year": "2008",
+          "journal-title": "PAIN"
+        },
+        {
+          "key": "R59-40-20210112",
+          "first-page": "409",
+          "article-title": "The neck disability index: a study of reliability and validity.",
+          "volume": "14",
+          "author": "Vernon",
+          "year": "1991",
+          "journal-title": "J ManipPhysiol Ther"
+        },
+        {
+          "key": "R60-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "334",
+          "DOI": "10.2519/jospt.2009.2765",
+          "article-title": "Risk factors for persistent problems following whiplash injury: results of a systematic review and meta-analysis.",
+          "volume": "39",
+          "author": "Walton",
+          "year": "2009",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "R61-40-20210112",
+          "doi-asserted-by": "crossref",
+          "first-page": "2443",
+          "DOI": "10.1097/00007632-200111150-00010",
+          "article-title": "Whiplash injury determination with conventional spine imaging and cyromicrotomy.",
+          "volume": "26",
+          "author": "Yoganandan",
+          "year": "2001",
+          "journal-title": "Spine"
+        }
+      ],
+      "container-title": [
+        "Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.lww.com/10.1016/j.pain.2013.05.041",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            6,
+            16
+          ]
+        ],
+        "date-time": "2021-06-16T04:46:34Z",
+        "timestamp": 1623818794000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.lww.com/00006396-201309000-00040"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2013,
+            9
+          ]
+        ]
+      },
+      "references-count": 54,
+      "journal-issue": {
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1016/j.pain.2013.05.041",
+      "relation": {},
+      "ISSN": [
+        "0304-3959"
+      ],
+      "issn-type": [
+        {
+          "value": "0304-3959",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            9
+          ]
+        ]
+      }
+    }
+  }
+}

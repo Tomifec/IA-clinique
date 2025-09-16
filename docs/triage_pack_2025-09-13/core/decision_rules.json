@@ -1,0 +1,513 @@
+{
+  "screening": {
+    "if_any": [
+      "redflag_trauma_fracture",
+      "redflag_infection",
+      "redflag_cancer",
+      "redflag_myelopathy",
+      "redflag_vascular_dissection"
+    ],
+    "action": "Urgences (imagerie/biologie adaptées, immobilisation si trauma).",
+    "evidence": [
+      {
+        "file": "04_Risques_Complications/canevas_ue_6_5_risques_et_complications_des_ajustements_interventions_en_chiropraxie.md",
+        "loc": 91,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\btrauma\\w+\\b"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 6,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\btrauma\\w+\\b"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 7,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\btrauma\\w+\\b"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 10,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\bfractur\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 15,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\bfractur\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 16,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\bfractur\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 19,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\bfractur\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 26,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\bfractur\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 27,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\bfractur\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 30,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\bfractur\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 31,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\bfractur\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 32,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\bfractur\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 34,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\binstabilit[ée]?\\b"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 36,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\binstabilit[ée]?\\b"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 38,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\bfractur\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 39,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\bfractur\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 40,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\btrauma\\w+\\b"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 41,
+        "theme": "redflag_trauma_fracture",
+        "pattern": "\\bfractur\\w+"
+      },
+      {
+        "file": "04_Risques_Complications/canevas_ue_6_5_risques_et_complications_des_ajustements_interventions_en_chiropraxie.md",
+        "loc": 90,
+        "theme": "redflag_infection",
+        "pattern": "fi[èe]vr\\w+"
+      },
+      {
+        "file": "04_Risques_Complications/canevas_ue_6_5_risques_et_complications_des_ajustements_interventions_en_chiropraxie.md",
+        "loc": 94,
+        "theme": "redflag_cancer",
+        "pattern": "n[ée]oplas\\w*"
+      },
+      {
+        "file": "04_Risques_Complications/canevas_ue_6_5_risques_et_complications_des_ajustements_interventions_en_chiropraxie.md",
+        "loc": 93,
+        "theme": "redflag_myelopathy",
+        "pattern": "ataxi\\w+|trouble de la marche"
+      },
+      {
+        "file": "04_Risques_Complications/canevas_ue_6_5_risques_et_complications_des_ajustements_interventions_en_chiropraxie.md",
+        "loc": 26,
+        "theme": "redflag_vascular_dissection",
+        "pattern": "dissection (?:art[ée]rielle|arterial) (?:cervicale|cervical)"
+      }
+    ]
+  },
+  "rapid_referral": {
+    "if_any": [
+      "orientation_rapide"
+    ],
+    "and_not": [
+      "redflag_trauma_fracture",
+      "redflag_infection",
+      "redflag_cancer",
+      "redflag_myelopathy",
+      "redflag_vascular_dissection"
+    ],
+    "action": "Orientation rapide spécialisé (1–2 semaines).",
+    "evidence": [
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 2,
+        "theme": "orientation_rapide",
+        "pattern": "faiblesse|weakness"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 4,
+        "theme": "orientation_rapide",
+        "pattern": "faiblesse|weakness"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 5,
+        "theme": "orientation_rapide",
+        "pattern": "faiblesse|weakness"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 6,
+        "theme": "orientation_rapide",
+        "pattern": "faiblesse|weakness"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 12,
+        "theme": "orientation_rapide",
+        "pattern": "paresth\\w+|hypoesth\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 29,
+        "theme": "orientation_rapide",
+        "pattern": "radicul\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 31,
+        "theme": "orientation_rapide",
+        "pattern": "faiblesse|weakness"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 32,
+        "theme": "orientation_rapide",
+        "pattern": "paresth\\w+|hypoesth\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 34,
+        "theme": "orientation_rapide",
+        "pattern": "paresth\\w+|hypoesth\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 40,
+        "theme": "orientation_rapide",
+        "pattern": "paresth\\w+|hypoesth\\w+"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 43,
+        "theme": "orientation_rapide",
+        "pattern": "faiblesse|weakness"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 68,
+        "theme": "orientation_rapide",
+        "pattern": "radicul\\w+"
+      }
+    ]
+  },
+  "conservative": {
+    "and_not": [
+      "redflag_trauma_fracture",
+      "redflag_infection",
+      "redflag_cancer",
+      "redflag_myelopathy",
+      "redflag_vascular_dissection"
+    ],
+    "action": "Conservateur : information/activation, exercices, mobilisation/manipulation prudentes, AINS si besoin, réévaluation 2–6 semaines.",
+    "evidence": [
+      {
+        "file": "04_Risques_Complications/analyse_TMR_Risques.md",
+        "loc": 50,
+        "theme": "interventions_conservatrices",
+        "pattern": "mobilis\\w+"
+      },
+      {
+        "file": "04_Risques_Complications/canevas_ue_6_5_risques_et_complications_des_ajustements_interventions_en_chiropraxie.md",
+        "loc": 94,
+        "theme": "interventions_conservatrices",
+        "pattern": "AINS|NSAID\\w+"
+      },
+      {
+        "file": "04_Risques_Complications/canevas_ue_6_5_risques_et_complications_des_ajustements_interventions_en_chiropraxie.md",
+        "loc": 103,
+        "theme": "interventions_conservatrices",
+        "pattern": "manipulat\\w+|HVLA|thrust"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 1,
+        "theme": "interventions_conservatrices",
+        "pattern": "manipulat\\w+|HVLA|thrust"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 2,
+        "theme": "interventions_conservatrices",
+        "pattern": "manipulat\\w+|HVLA|thrust"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 3,
+        "theme": "interventions_conservatrices",
+        "pattern": "manipulat\\w+|HVLA|thrust"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 4,
+        "theme": "interventions_conservatrices",
+        "pattern": "manipulat\\w+|HVLA|thrust"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 5,
+        "theme": "interventions_conservatrices",
+        "pattern": "manipulat\\w+|HVLA|thrust"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 6,
+        "theme": "interventions_conservatrices",
+        "pattern": "manipulat\\w+|HVLA|thrust"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 7,
+        "theme": "interventions_conservatrices",
+        "pattern": "manipulat\\w+|HVLA|thrust"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 8,
+        "theme": "interventions_conservatrices",
+        "pattern": "manipulat\\w+|HVLA|thrust"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 2,
+        "theme": "interventions_conservatrices",
+        "pattern": "AINS|NSAID\\w+"
+      }
+    ]
+  },
+  "contraindications": {
+    "if_any": [
+      "contre_indications_risques"
+    ],
+    "action": "Éviter manipulation/traction ; prioriser imagerie/avis selon risque.",
+    "evidence": [
+      {
+        "file": "README.md",
+        "loc": 6,
+        "theme": "contre_indications_risques",
+        "pattern": "risque\\w+|complication\\w+"
+      },
+      {
+        "file": "04_Risques_Complications/analyse_TMR_Risques.md",
+        "loc": 1,
+        "theme": "contre_indications_risques",
+        "pattern": "risque\\w+|complication\\w+"
+      },
+      {
+        "file": "04_Risques_Complications/analyse_TMR_Risques.md",
+        "loc": 4,
+        "theme": "contre_indications_risques",
+        "pattern": "risque\\w+|complication\\w+"
+      },
+      {
+        "file": "04_Risques_Complications/analyse_TMR_Risques.md",
+        "loc": 7,
+        "theme": "contre_indications_risques",
+        "pattern": "contre[- ]?indicat\\w+"
+      },
+      {
+        "file": "04_Risques_Complications/analyse_TMR_Risques.md",
+        "loc": 29,
+        "theme": "contre_indications_risques",
+        "pattern": "contre[- ]?indicat\\w+"
+      },
+      {
+        "file": "04_Risques_Complications/canevas_ue_6_5_risques_et_complications_des_ajustements_interventions_en_chiropraxie.md",
+        "loc": 3,
+        "theme": "contre_indications_risques",
+        "pattern": "risque\\w+|complication\\w+"
+      },
+      {
+        "file": "04_Risques_Complications/canevas_ue_6_5_risques_et_complications_des_ajustements_interventions_en_chiropraxie.md",
+        "loc": 26,
+        "theme": "contre_indications_risques",
+        "pattern": "AVC|stroke|dissection|instabilit[ée]|infection|cancer"
+      },
+      {
+        "file": "04_Risques_Complications/canevas_ue_6_5_risques_et_complications_des_ajustements_interventions_en_chiropraxie.md",
+        "loc": 94,
+        "theme": "contre_indications_risques",
+        "pattern": "AVC|stroke|dissection|instabilit[ée]|infection|cancer"
+      },
+      {
+        "file": "04_Risques_Complications/canevas_ue_6_5_risques_et_complications_des_ajustements_interventions_en_chiropraxie.md",
+        "loc": 103,
+        "theme": "contre_indications_risques",
+        "pattern": "AVC|stroke|dissection|instabilit[ée]|infection|cancer"
+      },
+      {
+        "file": "04_Risques_Complications/canevas_ue_6_5_risques_et_complications_des_ajustements_interventions_en_chiropraxie.md",
+        "loc": 117,
+        "theme": "contre_indications_risques",
+        "pattern": "risque\\w+|complication\\w+"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 1,
+        "theme": "contre_indications_risques",
+        "pattern": "AVC|stroke|dissection|instabilit[ée]|infection|cancer"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 2,
+        "theme": "contre_indications_risques",
+        "pattern": "AVC|stroke|dissection|instabilit[ée]|infection|cancer"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 3,
+        "theme": "contre_indications_risques",
+        "pattern": "AVC|stroke|dissection|instabilit[ée]|infection|cancer"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 4,
+        "theme": "contre_indications_risques",
+        "pattern": "AVC|stroke|dissection|instabilit[ée]|infection|cancer"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 5,
+        "theme": "contre_indications_risques",
+        "pattern": "AVC|stroke|dissection|instabilit[ée]|infection|cancer"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 6,
+        "theme": "contre_indications_risques",
+        "pattern": "AVC|stroke|dissection|instabilit[ée]|infection|cancer"
+      },
+      {
+        "file": "04_Risques_Complications/canevas_ue_6_5_risques_et_complications_des_ajustements_interventions_en_chiropraxie.md",
+        "loc": 51,
+        "theme": "redflag_vascular_dissection",
+        "pattern": "c[ée]phal[ée]e|headache"
+      }
+    ]
+  },
+  "surgery": {
+    "if_any": [
+      "chirurgie_indications"
+    ],
+    "action": "Avis chirurgical si déficit progressif, myélopathie, instabilité, ou échec prolongé du conservateur.",
+    "evidence": [
+      {
+        "file": "README.md",
+        "loc": 1,
+        "theme": "chirurgie_indications",
+        "pattern": "chirurg\\w+|surgery|discectom\\w+|fusion|arthrod[èe]se"
+      },
+      {
+        "file": "04_Risques_Complications/Cervical arterial dissection An overview and implications for.pdf",
+        "loc": 4,
+        "theme": "chirurgie_indications",
+        "pattern": "chirurg\\w+|surgery|discectom\\w+|fusion|arthrod[èe]se"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 29,
+        "theme": "chirurgie_indications",
+        "pattern": "chirurg\\w+|surgery|discectom\\w+|fusion|arthrod[èe]se"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 34,
+        "theme": "chirurgie_indications",
+        "pattern": "chirurg\\w+|surgery|discectom\\w+|fusion|arthrod[èe]se"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 40,
+        "theme": "chirurgie_indications",
+        "pattern": "chirurg\\w+|surgery|discectom\\w+|fusion|arthrod[èe]se"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 43,
+        "theme": "chirurgie_indications",
+        "pattern": "chirurg\\w+|surgery|discectom\\w+|fusion|arthrod[èe]se"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 53,
+        "theme": "chirurgie_indications",
+        "pattern": "chirurg\\w+|surgery|discectom\\w+|fusion|arthrod[èe]se"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 62,
+        "theme": "chirurgie_indications",
+        "pattern": "chirurg\\w+|surgery|discectom\\w+|fusion|arthrod[èe]se"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 69,
+        "theme": "chirurgie_indications",
+        "pattern": "chirurg\\w+|surgery|discectom\\w+|fusion|arthrod[èe]se"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 70,
+        "theme": "chirurgie_indications",
+        "pattern": "chirurg\\w+|surgery|discectom\\w+|fusion|arthrod[èe]se"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 71,
+        "theme": "chirurgie_indications",
+        "pattern": "chirurg\\w+|surgery|discectom\\w+|fusion|arthrod[èe]se"
+      },
+      {
+        "file": "03_Triage_Prognostic/GuidedutriageMSqOMTFrance.pdf",
+        "loc": 73,
+        "theme": "chirurgie_indications",
+        "pattern": "chirurg\\w+|surgery|discectom\\w+|fusion|arthrod[èe]se"
+      },
+      {
+        "file": "04_Risques_Complications/canevas_ue_6_5_risques_et_complications_des_ajustements_interventions_en_chiropraxie.md",
+        "loc": 93,
+        "theme": "redflag_myelopathy",
+        "pattern": "ataxi\\w+|trouble de la marche"
+      }
+    ]
+  }
+}

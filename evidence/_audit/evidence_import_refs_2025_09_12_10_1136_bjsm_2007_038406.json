@@ -1,0 +1,735 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1136_bjsm_2007_038406.md",
+  "id": "evidence_import_refs_2025_09_12_10_1136_bjsm_2007_038406",
+  "doi": "10.1136/bjsm.2007.038406",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:45.812826Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T12:11:30Z",
+        "timestamp": 1757679090588
+      },
+      "reference-count": 76,
+      "publisher": "BMJ",
+      "issue": "2",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Br J Sports Med"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            2
+          ]
+        ]
+      },
+      "abstract": "<jats:sec><jats:title>Objective:</jats:title><jats:p>To compile and critique research on the diagnostic accuracy of individual orthopaedic physical examination tests in a manner that would allow clinicians to judge whether these tests are valuable to their practice.</jats:p></jats:sec><jats:sec><jats:title>Methods:</jats:title><jats:p>A computer-assisted literature search of MEDLINE, CINAHL, and SPORTDiscus databases (1966 to October 2006) using keywords related to diagnostic accuracy of physical examination tests of the shoulder. The Quality Assessment of Diagnostic Accuracy Studies (QUADAS) tool was used to critique the quality of each paper. Meta-analysis through meta-regression of the diagnostic odds ratio (DOR) was performed on the Neer test for impingement, the Hawkins−Kennedy test for impingement, and the Speed test for superior labral pathology.</jats:p></jats:sec><jats:sec><jats:title>Results:</jats:title><jats:p>Forty-five studies were critiqued with only half demonstrating acceptable high quality and only two having adequate sample size. For impingement, the meta-analysis revealed that the pooled sensitivity and specificity for the Neer test was 79% and 53%, respectively, and for the Hawkins−Kennedy test was 79% and 59%, respectively. For superior labral (SLAP) tears, the summary sensitivity and specificity of the Speed test was 32% and 61%, respectively. Regarding orthopaedic special tests (OSTs) where meta-analysis was not possible either due to lack of sufficient studies or heterogeneity between studies, the list that demonstrates both high sensitivity and high specificity is short: hornblowers’s sign and the external rotation lag sign for tears of the rotator cuff, biceps load II for superior labral anterior to posterior (SLAP) lesions, and apprehension, relocation and anterior release for anterior instability. Even these tests have been under-studied or are from lower quality studies or both. No tests for impingement or acromioclavicular (AC) joint pathology demonstrated significant diagnostic accuracy.</jats:p></jats:sec><jats:sec><jats:title>Conclusion:</jats:title><jats:p>Based on pooled data, the diagnostic accuracy of the Neer test for impingement, the Hawkins−Kennedy test for impingement and the Speed test for labral pathology is limited. There is a great need for large, prospective, well-designed studies that examine the diagnostic accuracy of the numerous physical examination tests of the shoulder. Currently, almost without exception, there is a lack of clarity with regard to whether common OSTs used in clinical examination are useful in differentially diagnosing pathologies of the shoulder.</jats:p></jats:sec>",
+      "DOI": "10.1136/bjsm.2007.038406",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2007,
+            8,
+            25
+          ]
+        ],
+        "date-time": "2007-08-25T00:59:15Z",
+        "timestamp": 1188003555000
+      },
+      "page": "80-92",
+      "source": "Crossref",
+      "is-referenced-by-count": 400,
+      "title": [
+        "Physical examination tests of the shoulder: a systematic review with meta-analysis of individual tests"
+      ],
+      "prefix": "10.1136",
+      "volume": "42",
+      "author": [
+        {
+          "given": "E J",
+          "family": "Hegedus",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "A",
+          "family": "Goode",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "S",
+          "family": "Campbell",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "A",
+          "family": "Morin",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "M",
+          "family": "Tamaddoni",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "suffix": "III",
+          "given": "C T",
+          "family": "Moorman",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "C",
+          "family": "Cook",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "239",
+      "published-online": {
+        "date-parts": [
+          [
+            2007,
+            8,
+            24
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2024051313121736000_42.2.80.1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.323.7305.157"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.324.7335.477"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.1995.03530080061042"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ard.2003.014712"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2003.12.009"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ard.58.5.272"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0003-9993(97)90312-9"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ard.61.7.646"
+        },
+        {
+          "issue": "(29)",
+          "key": "2024051313121736000_42.2.80.9",
+          "first-page": "1",
+          "article-title": "The effectiveness of diagnostic tests for the assessment of shoulder pain due to soft tissue disorders: a systematic review.",
+          "volume": "7",
+          "author": "Dinnes",
+          "year": "2003",
+          "journal-title": "Health Technol Assess"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.10",
+          "doi-asserted-by": "crossref",
+          "first-page": "301",
+          "DOI": "10.1177/03635465030310022601",
+          "article-title": "A review of the special tests associated with shoulder examination. Part II: laxity, instability, and superior labral anterior and posterior (SLAP) lesions.",
+          "volume": "31",
+          "author": "Tennent",
+          "year": "2003",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.11",
+          "doi-asserted-by": "crossref",
+          "first-page": "154",
+          "DOI": "10.1177/03635465030310011101",
+          "article-title": "A review of the special tests associated with shoulder examination. Part I: the rotator cuff tests.",
+          "volume": "31",
+          "author": "Tennent",
+          "year": "2003",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.38068.557998.EE"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.13",
+          "doi-asserted-by": "crossref",
+          "first-page": "575",
+          "DOI": "10.7326/0003-4819-139-7-200310070-00010",
+          "article-title": "Evaluation of acute knee pain in primary care.",
+          "volume": "139",
+          "author": "Jackson",
+          "year": "2003",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "issue": "(25)",
+          "key": "2024051313121736000_42.2.80.14",
+          "first-page": "1",
+          "article-title": "Development and validation of methods for assessing the quality of diagnostic accuracy studies.",
+          "volume": "8",
+          "author": "Whiting",
+          "year": "2004",
+          "journal-title": "Health Technol Assess"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2288-5-19"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.brs.0000216463.32136.7b"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.17",
+          "doi-asserted-by": "crossref",
+          "first-page": "211",
+          "DOI": "10.36076/ppj.2005/8/211",
+          "article-title": "Diagnostic utility of facet (zygapophysial) joint injections in chronic spinal pain: a systematic review of evidence.",
+          "volume": "8",
+          "author": "Sehgal",
+          "year": "2005",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.18",
+          "doi-asserted-by": "crossref",
+          "first-page": "187",
+          "DOI": "10.36076/ppj.2005/8/187",
+          "article-title": "Discography as a diagnostic test for spinal pain: a systematic and narrative review.",
+          "volume": "8",
+          "author": "Shah",
+          "year": "2005",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.19",
+          "unstructured": "Cook C Hegedus E . Orthopedic physical examination tests: an evidence-based approach Upper Saddle River, NJ: Prentice Hall, 2007."
+        },
+        {
+          "key": "2024051313121736000_42.2.80.20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.327.7414.557"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/ard.59.1.44"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1067/mse.2000.106918"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1067/mse.2001.111960"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/036354659702500221"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/JBJS.D.02335"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.26",
+          "first-page": "423",
+          "article-title": "Diagnostic value of clinical tests for shoulder impingement syndrome.",
+          "volume": "62",
+          "author": "Leroux",
+          "year": "1995",
+          "journal-title": "Rev Rhum Engl Ed"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2519/jospt.2004.1237"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S1058-2746(96)80058-9"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.29",
+          "doi-asserted-by": "crossref",
+          "first-page": "414",
+          "DOI": "10.1302/0301-620X.74B3.1587891",
+          "article-title": "Clinical diagnosis of tears of the rotator cuff.",
+          "volume": "74",
+          "author": "Lyons",
+          "year": "1992",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1067/mse.2001.117126"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jse.2004.01.001"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.32",
+          "doi-asserted-by": "crossref",
+          "first-page": "1633",
+          "DOI": "10.1111/j.1532-5415.2000.tb03875.x",
+          "article-title": "Returning to the bedside: using the history and physical examination to identify rotator cuff tears.",
+          "volume": "48",
+          "author": "Litaker",
+          "year": "2000",
+          "journal-title": "J Am Geriatr Soc"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(00)04161-1"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.arthro.2006.05.005"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.35",
+          "doi-asserted-by": "crossref",
+          "first-page": "65",
+          "DOI": "10.1177/03635465990270011901",
+          "article-title": "Which is more useful, the “full can test” or the “empty can test,” in detecting the torn supraspinatus tendon?",
+          "volume": "27",
+          "author": "Itoi",
+          "year": "1999",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.36",
+          "doi-asserted-by": "crossref",
+          "first-page": "389",
+          "DOI": "10.1302/0301-620X.73B3.1670434",
+          "article-title": "Isolated rupture of the tendon of the subscapularis muscle. Clinical features in 16 cases.",
+          "volume": "73",
+          "author": "Gerber",
+          "year": "1991",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1302/0301-620X.80B4.8651"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.arthro.2005.06.021"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/036354659602400604"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.40",
+          "doi-asserted-by": "crossref",
+          "first-page": "806",
+          "DOI": "10.1177/03635465020300060901",
+          "article-title": "The crank test, the O’Brien test, and routine magnetic resonance imaging scans in the diagnosis of labral tears.",
+          "volume": "30",
+          "author": "Stetson",
+          "year": "2002",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1067/mse.2000.105450"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0749-8063(98)70012-X"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.43",
+          "doi-asserted-by": "crossref",
+          "first-page": "231",
+          "DOI": "10.1016/j.arthro.2004.01.008",
+          "article-title": "Accuracy of the Speed’s and Yergason’s tests in detecting biceps pathology and SLAP lesions: comparison with arthroscopic findings.",
+          "volume": "20",
+          "author": "Holtby",
+          "year": "2004",
+          "journal-title": "Arthroscopy"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.phm.0000179518.85484.53"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546505279911"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546504273050"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.47",
+          "doi-asserted-by": "crossref",
+          "first-page": "1290",
+          "DOI": "10.1016/j.arthro.2005.08.025",
+          "article-title": "Forced shoulder abduction and elbow flexion test: a new simple clinical test to detect superior labral injury in the throwing shoulder.",
+          "volume": "21",
+          "author": "Nakagawa",
+          "year": "2005",
+          "journal-title": "Arthroscopy"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.48",
+          "doi-asserted-by": "crossref",
+          "first-page": "810",
+          "DOI": "10.1177/03635465020300061001",
+          "article-title": "Clinical assessment of three common tests for superior labral anterior-posterior lesions.",
+          "volume": "30",
+          "author": "McFarland",
+          "year": "2002",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0749-8063(98)70049-0"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.50",
+          "doi-asserted-by": "crossref",
+          "first-page": "610",
+          "DOI": "10.1177/03635465980260050201",
+          "article-title": "The active compression test: a new and effective test for diagnosing labral tears and acromioclavicular joint abnormality.",
+          "volume": "26",
+          "author": "O’Brien",
+          "year": "1998",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.51",
+          "doi-asserted-by": "crossref",
+          "first-page": "296",
+          "DOI": "10.1016/0749-8063(95)90006-3",
+          "article-title": "Specificity and sensitivity of the anterior slide test in throwing athletes with superior glenoid labral tears.",
+          "volume": "11",
+          "author": "Kibler",
+          "year": "1995",
+          "journal-title": "Arthroscopy"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1053/jars.2003.50104"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.53",
+          "doi-asserted-by": "crossref",
+          "first-page": "137",
+          "DOI": "10.1177/03635465990270020401",
+          "article-title": "A new pain provocation test for superior labral tears of the shoulder.",
+          "volume": "27",
+          "author": "Mimori",
+          "year": "1999",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.54",
+          "doi-asserted-by": "crossref",
+          "first-page": "300",
+          "DOI": "10.1177/03635465990270030501",
+          "article-title": "Biceps load test: a clinical test for superior labrum anterior and posterior lesions in shoulders with recurrent anterior dislocations.",
+          "volume": "27",
+          "author": "Kim",
+          "year": "1999",
+          "journal-title": "Am J Sports Med"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.55",
+          "doi-asserted-by": "crossref",
+          "first-page": "160",
+          "DOI": "10.1053/jars.2001.20665",
+          "article-title": "Biceps load test II: A clinical test for SLAP lesions of the shoulder.",
+          "volume": "17",
+          "author": "Kim",
+          "year": "2001",
+          "journal-title": "Arthroscopy"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.56",
+          "doi-asserted-by": "crossref",
+          "first-page": "121",
+          "DOI": "10.1097/00042752-199804000-00011",
+          "article-title": "A clinical test for superior glenoid labral or ‘SLAP’ lesions.",
+          "volume": "8",
+          "author": "Berg",
+          "year": "1998",
+          "journal-title": "Clin J Sport Med"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546504272687"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.58",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00132-003-0625-9"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.59",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0095399703258690"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.60",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/036354659402200205"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.61",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2106/JBJS.E.00594"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.62",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Gross ML Distefano MC . Anterior release test. A new test for occult shoulder instability. Clin Orthop Relat Res 1997:105–8.",
+          "DOI": "10.1097/00003086-199706000-00014"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.63",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0030-5898(05)70214-5"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.64",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0363546503261723"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.65",
+          "doi-asserted-by": "crossref",
+          "first-page": "807",
+          "DOI": "10.2106/00004623-200404000-00021",
+          "article-title": "Diagnostic values of tests for acromioclavicular joint pain.",
+          "volume": "86A",
+          "author": "Walton",
+          "year": "2004",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.66",
+          "first-page": "70",
+          "article-title": "Impingement lesions.",
+          "volume": "(173)",
+          "author": "Neer",
+          "year": "1983",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.67",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.1994.03510330081039"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.68",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2214/ajr.176.6.1761357"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.69",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0004-9514(14)60228-2"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.70",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2004.12.009"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.71",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00003086-200207000-00010"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.72",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2165/00007256-200232070-00004"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.73",
+          "doi-asserted-by": "crossref",
+          "first-page": "133",
+          "DOI": "10.1016/S0030-5898(21)00042-0",
+          "article-title": "Arthroscopic resection of the distal clavicle.",
+          "volume": "24",
+          "author": "Bigliani",
+          "year": "1993",
+          "journal-title": "Orthop Clin North Am"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.74",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.282.11.1061"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.75",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1503/cmaj.050090"
+        },
+        {
+          "key": "2024051313121736000_42.2.80.76",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(99)01174-5"
+        }
+      ],
+      "container-title": [
+        "British Journal of Sports Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://syndication.highwire.org/content/doi/10.1136/bjsm.2007.038406",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            13
+          ]
+        ],
+        "date-time": "2024-05-13T20:12:44Z",
+        "timestamp": 1715631164000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://bjsm.bmj.com/lookup/doi/10.1136/bjsm.2007.038406"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2007,
+            8,
+            24
+          ]
+        ]
+      },
+      "references-count": 76,
+      "journal-issue": {
+        "issue": "2",
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              2,
+              6
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              2
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1136/bjsm.2007.038406"
+      ],
+      "URL": "https://doi.org/10.1136/bjsm.2007.038406",
+      "relation": {},
+      "ISSN": [
+        "0306-3674",
+        "1473-0480"
+      ],
+      "issn-type": [
+        {
+          "value": "0306-3674",
+          "type": "print"
+        },
+        {
+          "value": "1473-0480",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2007,
+            8,
+            24
+          ]
+        ]
+      }
+    }
+  }
+}

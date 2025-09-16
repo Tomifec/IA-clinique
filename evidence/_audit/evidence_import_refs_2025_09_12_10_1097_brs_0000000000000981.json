@@ -1,0 +1,499 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1097_brs_0000000000000981.md",
+  "id": "evidence_import_refs_2025_09_12_10_1097_brs_0000000000000981",
+  "doi": "10.1097/BRS.0000000000000981",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:30.082118Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            29
+          ]
+        ],
+        "date-time": "2025-08-29T09:50:23Z",
+        "timestamp": 1756461023086
+      },
+      "reference-count": 34,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "17",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Spine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1097/brs.0000000000000981",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2015,
+            5,
+            28
+          ]
+        ],
+        "date-time": "2015-05-28T18:37:09Z",
+        "timestamp": 1432838229000
+      },
+      "page": "1329-1337",
+      "source": "Crossref",
+      "is-referenced-by-count": 73,
+      "title": [
+        "Do Participants With Low Back Pain Who Respond to Spinal Manipulative Therapy Differ Biomechanically From Nonresponders, Untreated Controls or Asymptomatic Controls?"
+      ],
+      "prefix": "10.1097",
+      "volume": "40",
+      "author": [
+        {
+          "given": "Arnold Y. L.",
+          "family": "Wong",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Eric C.",
+          "family": "Parent",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sukhvinder S.",
+          "family": "Dhillon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Narasimha",
+          "family": "Prasad",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Gregory N.",
+          "family": "Kawchuk",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "276",
+      "reference": [
+        {
+          "key": "R1-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "920",
+          "DOI": "10.7326/0003-4819-141-12-200412210-00008",
+          "volume": "141",
+          "author": "Childs",
+          "year": "2004",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "R2-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "209",
+          "DOI": "10.2519/jospt.2006.36.4.209",
+          "volume": "36",
+          "author": "Cleland",
+          "year": "2006",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "R3-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "918",
+          "DOI": "10.1016/j.spinee.2010.07.389",
+          "volume": "10",
+          "author": "Dagenais",
+          "year": "2010",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "R4-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "E825",
+          "DOI": "10.1097/BRS.0b013e3182197fe1",
+          "volume": "36",
+          "author": "Rubinstein",
+          "year": "2011",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R5-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "540",
+          "DOI": "10.1097/BRS.0b013e318275d09c",
+          "volume": "38",
+          "author": "Heymann von WJ, Schloemer",
+          "year": "2013",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R6-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "2835",
+          "DOI": "10.1097/00007632-200212150-00021",
+          "volume": "27",
+          "author": "Flynn",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R7-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "157",
+          "DOI": "10.1016/0304-3959(93)90127-B",
+          "volume": "52",
+          "author": "Waddell",
+          "year": "1993",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R8-5-20160304",
+          "first-page": "174",
+          "volume": "165",
+          "author": "Mondloch",
+          "year": "2001",
+          "journal-title": "Can Med Assoc J"
+        },
+        {
+          "key": "R9-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1772",
+          "DOI": "10.1097/BRS.0b013e318216337d",
+          "volume": "36",
+          "author": "Fritz",
+          "year": "2011",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R10-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "389",
+          "DOI": "10.2519/jospt.2011.3632",
+          "volume": "41",
+          "author": "Koppenhaver",
+          "year": "2011",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "R11-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.2519/jospt.2014.4967",
+          "volume": "44",
+          "author": "Beattie",
+          "year": "2014",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "R12-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "726",
+          "DOI": "10.1016/j.jmpt.2006.09.003",
+          "volume": "29",
+          "author": "Cramer",
+          "year": "2006",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R13-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "579",
+          "DOI": "10.1016/j.jmpt.2003.08.004",
+          "volume": "26",
+          "author": "Colloca",
+          "year": "2003",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R14-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "203",
+          "DOI": "10.1016/j.jmpt.2009.02.010",
+          "volume": "32",
+          "author": "Lalanne",
+          "year": "2009",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R15-5-20160304",
+          "first-page": "1386",
+          "volume": "34",
+          "author": "Simon",
+          "year": "2007",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "key": "R16-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "525",
+          "DOI": "10.1016/j.jmpt.2012.06.003",
+          "volume": "35",
+          "author": "Peterson",
+          "year": "2012",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "R17-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "256",
+          "DOI": "10.2519/jospt.2010.3284",
+          "volume": "40",
+          "author": "Beattie",
+          "year": "2010",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "R18-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "252",
+          "DOI": "10.1002/jmri.21390",
+          "volume": "28",
+          "author": "Ludescher",
+          "year": "2008",
+          "journal-title": "J Magn Reson Imaging"
+        },
+        {
+          "key": "R19-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "90",
+          "DOI": "10.1097/BRS.0b013e31815e3a10",
+          "volume": "33",
+          "author": "Ostelo",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R20-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "776",
+          "DOI": "10.1093/ptj/81.2.776",
+          "volume": "81",
+          "author": "Fritz",
+          "year": "2001",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "R21-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "395",
+          "DOI": "10.1016/j.math.2013.02.003",
+          "volume": "18",
+          "author": "Wong",
+          "year": "2013",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "R22-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "251",
+          "DOI": "10.2519/jospt.2013.4478",
+          "volume": "43",
+          "author": "Wong",
+          "year": "2013",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "R23-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "161",
+          "DOI": "10.1016/j.math.2006.06.011",
+          "volume": "12",
+          "author": "Kiesel",
+          "year": "2007",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "R24-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "153",
+          "DOI": "10.1016/S0004-9514(09)70076-5",
+          "volume": "55",
+          "author": "Koppenhaver",
+          "year": "2009",
+          "journal-title": "Aust J Physiother"
+        },
+        {
+          "key": "R25-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "671",
+          "DOI": "10.1038/nmeth.2089",
+          "volume": "9",
+          "author": "Schneider",
+          "year": "2012",
+          "journal-title": "Nat Methods"
+        },
+        {
+          "key": "R26-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "42",
+          "DOI": "10.2519/jospt.2008.2631",
+          "volume": "38",
+          "author": "Beattie",
+          "year": "2008",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "R27-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "569",
+          "DOI": "10.1148/radiol.2352040437",
+          "volume": "235",
+          "author": "Kealey",
+          "year": "2005",
+          "journal-title": "Radiology"
+        },
+        {
+          "key": "R28-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "963",
+          "DOI": "10.1016/j.mri.2004.02.011",
+          "volume": "22",
+          "author": "Antoniou",
+          "year": "2004",
+          "journal-title": "Magn Reson Imaging"
+        },
+        {
+          "key": "R30-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "397",
+          "DOI": "10.3102/00028312007003397",
+          "volume": "7",
+          "author": "Marascuilo",
+          "year": "1970",
+          "journal-title": "Am Educ Res J"
+        },
+        {
+          "key": "R31-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "173",
+          "DOI": "10.1097/00007632-198802000-00008",
+          "volume": "13",
+          "author": "Miller",
+          "year": "1988",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R32-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "1488",
+          "DOI": "10.1002/art.33462",
+          "volume": "64",
+          "author": "Samartzis",
+          "year": "2012",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "R34-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "613",
+          "DOI": "10.2519/jospt.2007.2470",
+          "volume": "37",
+          "author": "Brenner",
+          "year": "2007",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "R35-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "887",
+          "DOI": "10.2519/jospt.2011.3744",
+          "volume": "41",
+          "author": "Beattie",
+          "year": "2011",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "R36-5-20160304",
+          "doi-asserted-by": "crossref",
+          "first-page": "641",
+          "DOI": "10.1016/j.mri.2008.10.005",
+          "volume": "27",
+          "author": "Niinimaki",
+          "year": "2009",
+          "journal-title": "Magn Reson Imaging"
+        }
+      ],
+      "container-title": [
+        "Spine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.lww.com/10.1097/BRS.0000000000000981",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2021,
+            5,
+            13
+          ]
+        ],
+        "date-time": "2021-05-13T23:14:29Z",
+        "timestamp": 1620947669000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://journals.lww.com/00007632-201509010-00005"
+        }
+      },
+      "subtitle": [
+        ""
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2015,
+            9
+          ]
+        ]
+      },
+      "references-count": 34,
+      "journal-issue": {
+        "issue": "17"
+      },
+      "URL": "https://doi.org/10.1097/brs.0000000000000981",
+      "relation": {},
+      "ISSN": [
+        "0362-2436"
+      ],
+      "issn-type": [
+        {
+          "value": "0362-2436",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            9
+          ]
+        ]
+      }
+    }
+  }
+}

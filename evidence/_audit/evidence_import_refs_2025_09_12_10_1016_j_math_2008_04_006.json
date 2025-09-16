@@ -1,0 +1,645 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_math_2008_04_006.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_math_2008_04_006",
+  "doi": "10.1016/j.math.2008.04.006",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:49.877813Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            2
+          ]
+        ],
+        "date-time": "2025-09-02T10:40:40Z",
+        "timestamp": 1756809640319,
+        "version": "3.35.0"
+      },
+      "reference-count": 43,
+      "publisher": "Elsevier BV",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2009,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2009-06-01T00:00:00Z",
+            "timestamp": 1243814400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Manual Therapy"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.math.2008.04.006",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2008,
+            8,
+            13
+          ]
+        ],
+        "date-time": "2008-08-13T21:42:15Z",
+        "timestamp": 1218663735000
+      },
+      "page": "306-313",
+      "source": "Crossref",
+      "is-referenced-by-count": 90,
+      "title": [
+        "Inclusion of thoracic spine thrust manipulation into an electro-therapy/thermal program for the management of patients with acute mechanical neck pain: A randomized clinical trial"
+      ],
+      "prefix": "10.1016",
+      "volume": "14",
+      "author": [
+        {
+          "given": "Javier",
+          "family": "González-Iglesias",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Cesar",
+          "family": "Fernández-de-las-Peñas",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joshua A.",
+          "family": "Cleland",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Francisco",
+          "family": "Alburquerque-Sendín",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Luis",
+          "family": "Palomeque-del-Cerro",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Roberto",
+          "family": "Méndez-Sánchez",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.math.2008.04.006_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "206",
+          "DOI": "10.1002/pri.141",
+          "article-title": "A survey of UK manual therapist’ practice of and attitudes towards manipulation and its complications",
+          "volume": "3",
+          "author": "Adams",
+          "year": "1998",
+          "journal-title": "Physiother Res Int"
+        },
+        {
+          "year": "2001",
+          "series-title": "Guide to physical therapist practice",
+          "author": "American Physical Therapy Association",
+          "key": "10.1016/j.math.2008.04.006_bib2"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib3",
+          "first-page": "1701",
+          "article-title": "Philadelphia panel evidence-based clinical practice guidelines on selected rehabilitation interventions for neck pain",
+          "volume": "81",
+          "author": "Brosseau",
+          "year": "2001",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib4",
+          "first-page": "495",
+          "article-title": "The effect of manipulation on pain and range of motion in the cervical spine: a pilot study",
+          "volume": "15",
+          "author": "Cassidy",
+          "year": "1992",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "1331",
+          "DOI": "10.1097/01.brs.0000164099.92112.29",
+          "article-title": "Responsiveness of the numeric pain rating scale in patients with low back pain",
+          "volume": "30",
+          "author": "Childs",
+          "year": "2005",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "850",
+          "DOI": "10.1191/0269215505cr920oa",
+          "article-title": "A randomized clinical trial of TENS and exercise for patients with chronic neck pain",
+          "volume": "19",
+          "author": "Chiu",
+          "year": "2005",
+          "journal-title": "Clin Rehabil"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1016/j.math.2004.08.005",
+          "article-title": "Immediate effects of thoracic manipulation in patients with neck pain: a randomized clinical trial",
+          "volume": "10",
+          "author": "Cleland",
+          "year": "2005",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1388",
+          "DOI": "10.1016/j.apmr.2006.06.011",
+          "article-title": "Inter-rater reliability of the history and physical examination in patients with mechanical neck pain",
+          "volume": "87",
+          "author": "Cleland",
+          "year": "2006",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.2522/ptj.20060155",
+          "article-title": "Development of a clinical prediction rule for guiding treatment of a subgroup of patients with neck pain: use of thoracic spine manipulation, exercise and patient education",
+          "volume": "87",
+          "author": "Cleland",
+          "year": "2007",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "431",
+          "DOI": "10.2522/ptj.20060217",
+          "article-title": "Short-term response of thoracic spine thrust versus non-thrust manipulation in patients with mechanical neck pain: a randomized clinical trial",
+          "volume": "87",
+          "author": "Cleland",
+          "year": "2007",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "267",
+          "DOI": "10.1016/j.pain.2004.09.004",
+          "article-title": "The annual incidence and course of neck pain in the general population: a population-based cohort study",
+          "volume": "112",
+          "author": "Cote",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "year": "1988",
+          "series-title": "Statistical power analysis for the behavioural sciences",
+          "author": "Cohen",
+          "key": "10.1016/j.math.2008.04.006_bib12"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "2458",
+          "DOI": "10.1097/01.brs.0000143025.84471.79",
+          "article-title": "Clinical course in patients seeking primary care for back or neck pain: a prospective 5-year follow-up of outcome and health care consumption with subgroup analysis",
+          "volume": "29",
+          "author": "Enthoven",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.math.2008.04.006_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "55",
+          "DOI": "10.1300/J180v03n02_05",
+          "article-title": "Dorsal manipulation in whiplash injury treatment: a randomized controlled trial",
+          "volume": "3",
+          "author": "Fernandez-de-las-Peñas",
+          "year": "2004",
+          "journal-title": "J Whiplash Related Dis"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "314",
+          "DOI": "10.1111/j.1468-2982.2005.01042.x",
+          "article-title": "Forward head posture and neck mobility in chronic tension type headache: a blinded, controlled study",
+          "volume": "26",
+          "author": "Fernández-de-las-Peñas",
+          "year": "2006",
+          "journal-title": "Cephalalgia"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "312",
+          "DOI": "10.1016/j.jmpt.2007.03.007",
+          "article-title": "Changes in neck pain and active range of motion after a single thoracic spine manipulation in subjects presenting with mechanical neck pain: a case series",
+          "volume": "30",
+          "author": "Fernández-de-las-Peñas",
+          "year": "2007",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "325",
+          "DOI": "10.2519/jospt.2007.2542",
+          "article-title": "Immediate effects on pressure pain threshold following a single cervical spine manipulation in healthy subjects",
+          "volume": "37",
+          "author": "Fernández-de-las-Peñas",
+          "year": "2007",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "year": "2000",
+          "series-title": "Manipulation of the spine, thorax and pelvis",
+          "author": "Gibbons",
+          "key": "10.1016/j.math.2008.04.006_bib17"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib18",
+          "first-page": "41",
+          "article-title": "Spanish version of the Northwick Park Neck Pain Questionnaire: reliability and validity",
+          "volume": "19",
+          "author": "González",
+          "year": "2001",
+          "journal-title": "Clin Exp Rheumatol"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib19",
+          "article-title": "Physical medicine modalities for mechanical neck disorders",
+          "author": "Gross",
+          "year": "2000",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "17",
+          "DOI": "10.1186/1471-2474-7-17",
+          "article-title": "The transition of reported pain in different body regions: a one-year follow-up study",
+          "volume": "7",
+          "author": "Gummesson",
+          "year": "2006",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "196",
+          "DOI": "10.1097/00007632-200101150-00015",
+          "article-title": "A critical appraisal of review articles on the effectiveness of conservative treatment for neck pain",
+          "volume": "26",
+          "author": "Hoving",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "157",
+          "DOI": "10.1016/S0304-3959(99)00101-3",
+          "article-title": "Comparative reliability and validity of chronic pain intensity measures",
+          "volume": "83",
+          "author": "Jensen",
+          "year": "1999",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "101",
+          "DOI": "10.1093/ptj/74.2.101",
+          "article-title": "Physical therapy episodes of care for patients with low back pain",
+          "volume": "74",
+          "author": "Jette",
+          "year": "1994",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "196",
+          "DOI": "10.1016/0306-9877(91)90233-O",
+          "article-title": "Patho-physiological mechanisms involved in genesis and spread of muscular tension in occupational muscle pain and in chronic musculoskeletal pain syndromes: a hypothesis",
+          "volume": "35",
+          "author": "Johansson",
+          "year": "1991",
+          "journal-title": "Med Hypotheses"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "180",
+          "DOI": "10.1016/S0161-4754(00)90248-3",
+          "article-title": "Assessment of published reliability studies for cervical spine range of motion measurement tools",
+          "volume": "23",
+          "author": "Jordan",
+          "year": "2000",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "63",
+          "DOI": "10.1054/math.2002.0455",
+          "article-title": "Are manipulative therapy approaches the same?",
+          "volume": "7",
+          "author": "Jull",
+          "year": "2002",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "312",
+          "DOI": "10.1016/j.jmpt.2005.04.009",
+          "article-title": "Does clinician treatment choice improve the outcomes of manual therapy for non-specific low back pain? A meta-analysis",
+          "volume": "28",
+          "author": "Kent",
+          "year": "2005",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "139",
+          "DOI": "10.1080/003655099444489",
+          "article-title": "A critical analysis of randomised clinical trials on neck pain and treatment efficacy: a review of the literature",
+          "volume": "31",
+          "author": "Kjellman",
+          "year": "1999",
+          "journal-title": "Scand J Rehabil Med"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.math.2008.04.006_bib29",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/14651858.CD004251.pub3",
+          "article-title": "Electrotherapy for neck disorders",
+          "author": "Kroeling",
+          "year": "2005",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "469",
+          "DOI": "10.1093/rheumatology/33.5.469",
+          "article-title": "The Northwick Park Neck Pain Questionnaire, devised to measure neck pain and disability",
+          "volume": "33",
+          "author": "Leak",
+          "year": "1994",
+          "journal-title": "Br J Rheumatol"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "183",
+          "DOI": "10.2340/165019771996183192",
+          "article-title": "Mobility in the cervico-thoracic motion segment: an indicative factor of musculo-skeletal neck–shoulder pain",
+          "volume": "28",
+          "author": "Norlander",
+          "year": "1996",
+          "journal-title": "Scand J Rehabil Med"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib32",
+          "doi-asserted-by": "crossref",
+          "first-page": "167",
+          "DOI": "10.2340/165019771997167174",
+          "article-title": "Reduced mobility in the cervico-thoracic motion segment – a risk factor for musculoskeletal neck–shoulder pain: a two-year prospective follow-up study",
+          "volume": "29",
+          "author": "Norlander",
+          "year": "1997",
+          "journal-title": "Scand J Rehabil Med"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "243",
+          "DOI": "10.1080/003655098443995",
+          "article-title": "Clinical symptoms related to musculoskeletal neck–shoulder pain and mobility in the cervico-thoracic spine",
+          "volume": "30",
+          "author": "Norlander",
+          "year": "1998",
+          "journal-title": "Scand J Rehabil Med"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib34",
+          "first-page": "233",
+          "article-title": "Intra- and inter-tester reliability and range of motion of the neck",
+          "volume": "52",
+          "author": "Peolsson",
+          "year": "2000",
+          "journal-title": "Physiother Can"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.1016/S0165-0270(99)00060-6",
+          "article-title": "An in vivo preparation for investigating neural responses to controlled loading of a lumbar vertebra in the anesthetized cat",
+          "volume": "89",
+          "author": "Pickar",
+          "year": "1999",
+          "journal-title": "J Neurosci Methods"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "357",
+          "DOI": "10.1016/S1529-9430(02)00400-X",
+          "article-title": "Neuro-physiological effects of spinal manipulation",
+          "volume": "2",
+          "author": "Pickar",
+          "year": "2002",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "515",
+          "DOI": "10.1097/00007632-200203010-00012",
+          "article-title": "Standard scales for measurement of functional outcome for cervical pain or dysfunction",
+          "volume": "27",
+          "author": "Pietrobon",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "707",
+          "DOI": "10.1053/joms.2003.50141",
+          "article-title": "The effects of mechanical strain on synovial fibroblasts",
+          "volume": "61",
+          "author": "Sambajon",
+          "year": "2003",
+          "journal-title": "J Oral Maxillofac Surg"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "1574",
+          "DOI": "10.1016/S0140-6736(95)91123-5",
+          "article-title": "Manipulating medicine",
+          "volume": "345",
+          "author": "Shambaugh",
+          "year": "1995",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib40",
+          "doi-asserted-by": "crossref",
+          "first-page": "205",
+          "DOI": "10.1054/math.2001.0411",
+          "article-title": "Specific manipulative therapy treatment for chronic lateral epicondylalgia produces uniquely characteristic hypoalgesia",
+          "volume": "6",
+          "author": "Vicenzino",
+          "year": "2001",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib41",
+          "series-title": "Textbook of pain",
+          "article-title": "The dorsal horn",
+          "author": "Wall",
+          "year": "2006"
+        },
+        {
+          "key": "10.1016/j.math.2008.04.006_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "160",
+          "DOI": "10.1002/art.1780330203",
+          "article-title": "The American College of Rheumatology 1990 criteria for classification of fibromyalgia: report of the multicenter criteria committee",
+          "volume": "33",
+          "author": "Wolfe",
+          "year": "1990",
+          "journal-title": "Arthritis Rheum"
+        }
+      ],
+      "container-title": [
+        "Manual Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1356689X08000829?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1356689X08000829?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            31
+          ]
+        ],
+        "date-time": "2025-01-31T13:24:45Z",
+        "timestamp": 1738329885000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1356689X08000829"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2009,
+            6
+          ]
+        ]
+      },
+      "references-count": 43,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              6
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1356689X08000829"
+      ],
+      "URL": "https://doi.org/10.1016/j.math.2008.04.006",
+      "relation": {},
+      "ISSN": [
+        "1356-689X"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1356-689X"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2009,
+            6
+          ]
+        ]
+      }
+    }
+  }
+}

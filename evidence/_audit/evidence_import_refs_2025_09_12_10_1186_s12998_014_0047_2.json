@@ -1,0 +1,401 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1186_s12998_014_0047_2.md",
+  "id": "evidence_import_refs_2025_09_12_10_1186_s12998_014_0047_2",
+  "doi": "10.1186/s12998-014-0047-2",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:09.200527Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            25
+          ]
+        ],
+        "date-time": "2025-05-25T17:22:43Z",
+        "timestamp": 1748193763465
+      },
+      "reference-count": 16,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                1,
+                23
+              ]
+            ],
+            "date-time": "2015-01-23T00:00:00Z",
+            "timestamp": 1421971200000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Chiropr Man Therap"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1186/s12998-014-0047-2",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2015,
+            1,
+            29
+          ]
+        ],
+        "date-time": "2015-01-29T04:06:36Z",
+        "timestamp": 1422504396000
+      },
+      "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 6,
+      "title": [
+        "Public health engagement: detection of suspicious skin lesions, screening and referral behaviour of UK based chiropractors"
+      ],
+      "prefix": "10.1186",
+      "volume": "23",
+      "author": [
+        {
+          "given": "Sara",
+          "family": "Glithro",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "David",
+          "family": "Newell",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lorna",
+          "family": "Burrows",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Adrian",
+          "family": "Hunnisett",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christina",
+          "family": "Cunliffe",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2015,
+            1,
+            23
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "47_CR1",
+          "unstructured": "Cancer Research. Cancer Statistics. \n                    http://info.cancerresearchuk.org/Cancerstats/Types/Skin\n                    \n                   2011a; [Accessed 22/09/11]."
+        },
+        {
+          "issue": "3",
+          "key": "47_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "267",
+          "DOI": "10.1007/s10198-008-0127-0",
+          "volume": "10",
+          "author": "S Morris",
+          "year": "2009",
+          "unstructured": "Morris S, Cox B, Bosanquet N. Cost of skin cancer in England. Eur J Health Econ. 2009;10(3):267–73.",
+          "journal-title": "Eur J Health Econ"
+        },
+        {
+          "issue": "7",
+          "key": "47_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "1432",
+          "DOI": "10.1002/1097-0142(19891001)64:7<1432::AID-CNCR2820640712>3.0.CO;2-M",
+          "volume": "64",
+          "author": "CP Karakousis",
+          "year": "1989",
+          "unstructured": "Karakousis CP, Emrich LJ, Rao U. Tumor thickness and prognosis in clinical stage I malignant melanoma. Cancer. 1989;64(7):1432–6.",
+          "journal-title": "Cancer"
+        },
+        {
+          "key": "47_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "367",
+          "DOI": "10.1136/bmj.326.7385.367",
+          "volume": "326",
+          "author": "R Mackie",
+          "year": "2003",
+          "unstructured": "Mackie R, Bray C, Leman J. Effect of public education aimed at early diagnosis of malignant melanoma: cohort comparison study. BMJ. 2003;326:367.",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "47_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "181",
+          "DOI": "10.1097/00008390-200010020-00011",
+          "volume": "10",
+          "author": "C Rossi",
+          "year": "2000",
+          "unstructured": "Rossi C, Vecchiato A, Bezze G, Mastrangelo G, Montesco M, Mocellin S, et al. Early detection of melanoma: an educational campaign in Padova, Italy. Melanoma Res. 2000;10:181–7.",
+          "journal-title": "Melanoma Res"
+        },
+        {
+          "issue": "Issue 3",
+          "key": "47_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "169",
+          "DOI": "10.1016/S0749-3797(99)00077-X",
+          "volume": "17",
+          "author": "M Weinstock",
+          "year": "1999",
+          "unstructured": "Weinstock M, Martin R, Risica P, Berwick M, Lasater T, Rakowski W, et al. Thorough skin examination for the early detection of Melanoma. Am J Prev Med. 1999;17(Issue 3):169–75.",
+          "journal-title": "Am J Prev Med"
+        },
+        {
+          "key": "47_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "467",
+          "DOI": "10.1016/S0738-081X(98)00020-0",
+          "volume": "16",
+          "author": "P Boiko",
+          "year": "1998",
+          "unstructured": "Boiko P, Colleagues in Skin Cancer Prevention. The family practitioner, pediatrician, internist, gynaecologist, physician assistant and nurse. Clin Dermatol. 1998;16:467–75. Elsevier Science Inc, New York.",
+          "journal-title": "Clin Dermatol"
+        },
+        {
+          "issue": "3",
+          "key": "47_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "309",
+          "DOI": "10.1023/A:1005804328268",
+          "volume": "16",
+          "author": "SR Cummings",
+          "year": "1997",
+          "unstructured": "Cummings SR, Tripp MK, Herrmann NB. Approaches to the prevention and control of skin cancer. Cancer Metastasis Rev. 1997;16(3):309–27.",
+          "journal-title": "Cancer Metastasis Rev"
+        },
+        {
+          "key": "47_CR9",
+          "unstructured": "Greenly L. Guide to detecting skin cancer – Part one. Chiropr Tech. 1997."
+        },
+        {
+          "key": "47_CR10",
+          "unstructured": "Greenly L. Guide to detecting skin cancer – Part two. Chiropr Tech. 1998."
+        },
+        {
+          "key": "47_CR11",
+          "unstructured": "General Chiropractic Council. Code of Practice and Standard of Proficiency. Gen Chiropr Council. 2005."
+        },
+        {
+          "key": "47_CR12",
+          "unstructured": "General Chiropractic Council. Consulting the profession: A survey of UK chiropractors. Gen Chiropr Council. 2004."
+        },
+        {
+          "key": "47_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "77",
+          "DOI": "10.1016/j.jcm.2010.09.004",
+          "volume": "10",
+          "author": "M Ramcharan",
+          "year": "2011",
+          "unstructured": "Ramcharan M, Evans MW, Ndetan H, Beddard J. Knowledge, perceptions, and practices of chiropractic interns in the early detection of atypical moles. J Chiropr Med. 2011;10:77–85.",
+          "journal-title": "J Chiropr Med"
+        },
+        {
+          "key": "47_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "10",
+          "DOI": "10.1186/1746-1340-16-10",
+          "volume": "16",
+          "author": "D Murphy",
+          "year": "2008",
+          "unstructured": "Murphy D, Schneider M, Seaman D, Perle S, Nelson C. How can chiropractic become a respected mainstream profession? The example of podiatry. Chiropr Osteopat. 2008;16:10.",
+          "journal-title": "Chiropr Osteopat"
+        },
+        {
+          "issue": "1",
+          "key": "47_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "52",
+          "DOI": "10.1053/sonu.2003.50005",
+          "volume": "19",
+          "author": "S Mahon",
+          "year": "2003",
+          "unstructured": "Mahon S. Skin cancer prevention: education and public health issues. Semin Oncol Nurs. 2003;19(1):52–61.",
+          "journal-title": "Semin Oncol Nurs"
+        },
+        {
+          "issue": "1",
+          "key": "47_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "21",
+          "DOI": "10.1001/archderm.143.1.21",
+          "volume": "143",
+          "author": "E Losina",
+          "year": "2007",
+          "unstructured": "Losina E, Walensky RP, Geller A, Beddingfield FC, Wolf LL, Gilchrest BA, et al. Visual screening for malignant melanoma: a cost-effective analysis. Arch Dermatol. 2007;143(1):21–8.",
+          "journal-title": "Arch Dermatol"
+        }
+      ],
+      "container-title": [
+        "Chiropractic &amp; Manual Therapies"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s12998-014-0047-2.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1186/s12998-014-0047-2/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s12998-014-0047-2",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s12998-014-0047-2.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2019,
+            3,
+            26
+          ]
+        ],
+        "date-time": "2019-03-26T18:41:37Z",
+        "timestamp": 1553625697000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://chiromt.biomedcentral.com/articles/10.1186/s12998-014-0047-2"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2015,
+            1,
+            23
+          ]
+        ]
+      },
+      "references-count": 16,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "47"
+      ],
+      "URL": "https://doi.org/10.1186/s12998-014-0047-2",
+      "relation": {},
+      "ISSN": [
+        "2045-709X"
+      ],
+      "issn-type": [
+        {
+          "value": "2045-709X",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            1,
+            23
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "23 July 2014",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "19 December 2014",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "23 January 2015",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        }
+      ],
+      "article-number": "5"
+    }
+  }
+}

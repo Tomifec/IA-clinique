@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "zone", "liste", "conduite", "statut"],
+  "properties": {
+    "id": { "type": "string" },
+    "zone": { "type": "string" },
+    "liste": { "type": "array", "items": { "type": "string" } },
+    "conduite": { "type": "string" },
+    "statut": { "type": "string", "enum": ["brouillon", "valide", "rejeté"] }
+  }
+}
+

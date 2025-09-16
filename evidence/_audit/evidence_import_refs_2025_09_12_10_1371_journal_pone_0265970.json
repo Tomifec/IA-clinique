@@ -1,0 +1,1049 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1371_journal_pone_0265970.md",
+  "id": "evidence_import_refs_2025_09_12_10_1371_journal_pone_0265970",
+  "doi": "10.1371/journal.pone.0265970",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:30.324257Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            21
+          ]
+        ],
+        "date-time": "2025-02-21T14:06:46Z",
+        "timestamp": 1740146806734,
+        "version": "3.37.3"
+      },
+      "reference-count": 72,
+      "publisher": "Public Library of Science (PLoS)",
+      "issue": "4",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                4,
+                27
+              ]
+            ],
+            "date-time": "2022-04-27T00:00:00Z",
+            "timestamp": 1651017600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100002343",
+          "name": "Institut de recherche Robert-Sauvé en santé et en sécurité du travail",
+          "doi-asserted-by": "crossref",
+          "award": [
+            "2016-0013"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100002343",
+              "id-type": "DOI",
+              "asserted-by": "crossref"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100002343",
+          "name": "Institut de Recherche Robert-Sauvé en Santé et en Sécurité du Travail",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "2010-0022"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100002343",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "www.plosone.org"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "PLoS ONE"
+      ],
+      "abstract": "<jats:p>Low back pain (LBP) remains one of the most common and incapacitating health conditions worldwide. Clinical guidelines recommend exercise programs after the acute phase, but clinical effects are modest when assessed at a population level. Research needs to determine who is likely to benefit from specific exercise interventions, based on clinical presentation. This study aimed to derive clinical prediction rules (CPRs) for treatment success, using a lumbar stabilization exercise program (LSEP), at the end of treatment and at six-month follow-up. The eight-week LSEP, including clinical sessions and home exercises, was completed by 110 participants with non-acute LBP, with 100 retained at the six-month follow-up. Physical (lumbar segmental instability, motor control impairments, posture and range of motion, trunk muscle endurance and physical performance tests) and psychological (related to fear-avoidance and home-exercise adherence) measures were collected at a baseline clinical exam. Multivariate logistic regression models were used to predict clinical success, as defined by ≥50% decrease in the Oswestry Disability Index. CPRs were derived for success at program completion (T8) and six-month follow-up (T34), negotiating between predictive ability and clinical usability. The chosen CPRs contained four (T8) and three (T34) clinical tests, all theoretically related to spinal instability, making these CPRs specific to the treatment provided (LSEP). The chosen CPRs provided a positive likelihood ratio of 17.9 (T8) and 8.2 (T34), when two or more tests were positive. When applying these CPRs, the probability of treatment success rose from 49% to 96% at T8 and from 53% to 92% at T34. These results support the further development of these CPRs by proceeding to the validation stage.</jats:p>",
+      "DOI": "10.1371/journal.pone.0265970",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            27
+          ]
+        ],
+        "date-time": "2022-04-27T17:23:23Z",
+        "timestamp": 1651080203000
+      },
+      "page": "e0265970",
+      "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 8,
+      "title": [
+        "Derivation of clinical prediction rules for identifying patients with non-acute low back pain who respond best to a lumbar stabilization exercise program at post-treatment and six-month follow-up"
+      ],
+      "prefix": "10.1371",
+      "volume": "17",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-4299-4755",
+          "authenticated-orcid": true,
+          "given": "Christian",
+          "family": "Larivière",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Khalil",
+          "family": "Rabhi",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Richard",
+          "family": "Preuss",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Marie-France",
+          "family": "Coutu",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nicolas",
+          "family": "Roy",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Sharon M.",
+          "family": "Henry",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "340",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            27
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "10137",
+          "key": "pone.0265970.ref001",
+          "doi-asserted-by": "crossref",
+          "first-page": "2356",
+          "DOI": "10.1016/S0140-6736(18)30480-X",
+          "article-title": "What low back pain is and why we need to pay attention",
+          "volume": "391",
+          "author": "J Hartvigsen",
+          "year": "2018",
+          "journal-title": "The Lancet"
+        },
+        {
+          "issue": "12",
+          "key": "pone.0265970.ref002",
+          "doi-asserted-by": "crossref",
+          "first-page": "1155",
+          "DOI": "10.1177/0269215515570379",
+          "article-title": "Exercise interventions for the treatment of chronic low back pain: a systematic review and meta-analysis of randomised controlled trials",
+          "volume": "29",
+          "author": "A Searle",
+          "year": "2015",
+          "journal-title": "Clin Rehabil"
+        },
+        {
+          "issue": "1",
+          "key": "pone.0265970.ref003",
+          "doi-asserted-by": "crossref",
+          "first-page": "72",
+          "DOI": "10.1097/01.phm.0000250566.44629.a0",
+          "article-title": "Lumbar stabilization: a review of core concepts and current literature, part 2",
+          "volume": "86",
+          "author": "KP Barr",
+          "year": "2007",
+          "journal-title": "Am J Phys Med Rehabil"
+        },
+        {
+          "key": "pone.0265970.ref004",
+          "volume-title": "Evidence-based prevention and rehabilitation",
+          "author": "S. McGill",
+          "year": "2002",
+          "edition": "1"
+        },
+        {
+          "volume-title": "Therapeutic exercise for lumbopelvic stabilization",
+          "year": "2004",
+          "author": "C Richardson",
+          "key": "pone.0265970.ref005"
+        },
+        {
+          "issue": "12",
+          "key": "pone.0265970.ref006",
+          "doi-asserted-by": "crossref",
+          "first-page": "1147",
+          "DOI": "10.1093/ptj/pzx087",
+          "article-title": "Treatment-based Classification System for Patients With Low Back Pain: The Movement Control Approach",
+          "volume": "97",
+          "author": "M Alrwaily",
+          "year": "2018",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "issue": "8",
+          "key": "pone.0265970.ref007",
+          "doi-asserted-by": "crossref",
+          "first-page": "832",
+          "DOI": "10.1016/j.ejpain.2010.01.001",
+          "article-title": "Driving plasticity in the motor cortex in recurrent low back pain",
+          "volume": "14",
+          "author": "H Tsao",
+          "year": "2010",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "issue": "3",
+          "key": "pone.0265970.ref008",
+          "doi-asserted-by": "crossref",
+          "first-page": "317",
+          "DOI": "10.1016/S0304-3959(99)00242-0",
+          "article-title": "Fear-avoidance and its consequences in chronic musculoskeletal pain: a state of the art",
+          "volume": "85",
+          "author": "JWS Vlaeyen",
+          "year": "2000",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "9",
+          "key": "pone.0265970.ref009",
+          "doi-asserted-by": "crossref",
+          "first-page": "776",
+          "DOI": "10.7326/0003-4819-142-9-200505030-00014",
+          "article-title": "Systematic review: strategies for using exercise therapy to improve outcomes in chronic low back pain",
+          "volume": "142",
+          "author": "JA Hayden",
+          "year": "2005",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "issue": "6 Suppl",
+          "key": "pone.0265970.ref010",
+          "doi-asserted-by": "crossref",
+          "first-page": "S551",
+          "DOI": "10.1097/00005768-200106001-00026",
+          "article-title": "Dose-response of physical activity and low back pain, osteoarthritis, and osteoporosis",
+          "volume": "33",
+          "author": "IM Vuori",
+          "year": "2001",
+          "journal-title": "Med Sci Sports Exerc"
+        },
+        {
+          "issue": "1",
+          "key": "pone.0265970.ref011",
+          "doi-asserted-by": "crossref",
+          "first-page": "37",
+          "DOI": "10.1177/1524839904266790",
+          "article-title": "A review and synthesis of research evidence for self-efficacy-enhancing interventions for reducing chronic disability: implications for health education practice (part I)",
+          "volume": "6",
+          "author": "R Marks",
+          "year": "2005",
+          "journal-title": "Health Promot Pract"
+        },
+        {
+          "issue": "9",
+          "key": "pone.0265970.ref012",
+          "doi-asserted-by": "crossref",
+          "first-page": "1753",
+          "DOI": "10.1016/j.apmr.2005.03.033",
+          "article-title": "Preliminary development of a clinical prediction rule for determining which patients with low back pain will respond to a stabilization exercise program",
+          "volume": "86",
+          "author": "GE Hicks",
+          "year": "2005",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "issue": "1",
+          "key": "pone.0265970.ref013",
+          "doi-asserted-by": "crossref",
+          "first-page": "78",
+          "DOI": "10.1016/j.apmr.2009.08.146",
+          "article-title": "The relationship of transversus abdominis and lumbar multifidus activation and prognostic factors for clinical success with a stabilization exercise program: a cross-sectional study",
+          "volume": "91",
+          "author": "JJ Hebert",
+          "year": "2010",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "issue": "3",
+          "key": "pone.0265970.ref014",
+          "first-page": "313",
+          "article-title": "Arthrokinematics in a subgroup of patients likely to benefit from a lumbar stabilization exercise program",
+          "volume": "87",
+          "author": "DS Teyhen",
+          "year": "2007",
+          "journal-title": "PhysTher"
+        },
+        {
+          "issue": "1",
+          "key": "pone.0265970.ref015",
+          "doi-asserted-by": "crossref",
+          "first-page": "6",
+          "DOI": "10.2519/jospt.2014.4888",
+          "article-title": "A clinical prediction rule to identify patients with low back pain who are likely to experience short-term success following lumbar stabilization exercises: a randomized controlled validation study",
+          "volume": "44",
+          "author": "A Rabin",
+          "year": "2014",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "issue": "21",
+          "key": "pone.0265970.ref016",
+          "doi-asserted-by": "crossref",
+          "first-page": "2784",
+          "DOI": "10.1097/00007632-200011010-00011",
+          "article-title": "Exercise therapy for low back pain. A systematic review within the framework of the Cochrane collaboration back review group",
+          "volume": "25",
+          "author": "M van Tulder",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "1",
+          "key": "pone.0265970.ref017",
+          "doi-asserted-by": "crossref",
+          "first-page": "151",
+          "DOI": "10.1016/j.apmr.2016.07.020",
+          "article-title": "Inter- and Intrarater Reliability of Clinical Tests Associated With Functional Lumbar Segmental Instability and Motor Control Impairment in Patients With Low Back Pain: A Systematic Review",
+          "volume": "98",
+          "author": "L Denteneer",
+          "year": "2017",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "issue": "2",
+          "key": "pone.0265970.ref018",
+          "first-page": "114",
+          "article-title": "Clinical prediction rules for physical therapy interventions: a systematic review",
+          "volume": "89",
+          "author": "JM Beneciuk",
+          "year": "2009",
+          "journal-title": "PhysTher"
+        },
+        {
+          "issue": "6",
+          "key": "pone.0265970.ref019",
+          "doi-asserted-by": "crossref",
+          "first-page": "855",
+          "DOI": "10.2522/ptj.20090233.ic",
+          "article-title": "Invited commentary",
+          "volume": "90",
+          "author": "GK Fitzgerald",
+          "year": "2010",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "issue": "6",
+          "key": "pone.0265970.ref020",
+          "first-page": "843",
+          "article-title": "Critical appraisal of clinical prediction rules that aim to optimize treatment selection for musculoskeletal conditions",
+          "volume": "90",
+          "author": "TR Stanton",
+          "year": "2010",
+          "journal-title": "PhysTher"
+        },
+        {
+          "key": "pone.0265970.ref021",
+          "unstructured": "Larivière C, Coutu MF, Henry SM, Preuss R, Gagnon D, Dumas JP, et al. Développement préliminaire d’une règle de prédiction clinique pour dépister les patients ayant une lombalgie non-aigue répondant favorablement à un programme d’exercices de stabilisation lombaire. Montréal, Canada: 2016. Report No.: R-935."
+        },
+        {
+          "issue": "4",
+          "key": "pone.0265970.ref022",
+          "doi-asserted-by": "crossref",
+          "first-page": "1149",
+          "DOI": "10.3758/BRM.41.4.1149",
+          "article-title": "Statistical power analyses using G*Power 3.1: tests for correlation and regression analyses",
+          "volume": "41",
+          "author": "F Faul",
+          "year": "2009",
+          "journal-title": "Behav Res Methods"
+        },
+        {
+          "issue": "18",
+          "key": "pone.0265970.ref023",
+          "doi-asserted-by": "crossref",
+          "first-page": "3385",
+          "DOI": "10.1002/sim.2771",
+          "article-title": "Sample size determination for logistic regression revisited",
+          "volume": "26",
+          "author": "E. Demidenko",
+          "year": "2007",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "7",
+          "key": "pone.0265970.ref024",
+          "doi-asserted-by": "crossref",
+          "first-page": "1632",
+          "DOI": "10.1002/sim.2617",
+          "article-title": "A practical approach to computing power for generalized linear models with nominal, count, or ordinal responses",
+          "volume": "26",
+          "author": "RH Lyles",
+          "year": "2007",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "7",
+          "key": "pone.0265970.ref025",
+          "doi-asserted-by": "crossref",
+          "first-page": "795",
+          "DOI": "10.1002/sim.4780080704",
+          "article-title": "Sample size tables for logistic regression",
+          "volume": "8",
+          "author": "FY Hsieh",
+          "year": "1989",
+          "journal-title": "Stat Med"
+        },
+        {
+          "issue": "8",
+          "key": "pone.0265970.ref026",
+          "first-page": "271",
+          "article-title": "The Oswestry low back pain disability questionnaire",
+          "volume": "66",
+          "author": "JCT Fairbank",
+          "year": "1980",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "issue": "1",
+          "key": "pone.0265970.ref027",
+          "doi-asserted-by": "crossref",
+          "first-page": "90",
+          "DOI": "10.1097/BRS.0b013e31815e3a10",
+          "article-title": "Interpreting change scores for pain and functional status in low back pain: towards international consensus regarding minimal important change",
+          "volume": "33",
+          "author": "RW Ostelo",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "2",
+          "key": "pone.0265970.ref028",
+          "doi-asserted-by": "crossref",
+          "first-page": "71",
+          "DOI": "10.1016/S0004-9514(05)70036-2",
+          "article-title": "Effectiveness of exercise therapy: a best-evidence summary of systematic reviews",
+          "volume": "51",
+          "author": "N Smidt",
+          "year": "2005",
+          "journal-title": "Aust J Physiother"
+        },
+        {
+          "issue": "11",
+          "key": "pone.0265970.ref029",
+          "doi-asserted-by": "crossref",
+          "first-page": "CPG1",
+          "DOI": "10.2519/jospt.2021.0304",
+          "article-title": "Interventions for the Management of Acute and Chronic Low Back Pain: Revision 2021",
+          "volume": "51",
+          "author": "SZ George",
+          "year": "2021",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "issue": "23",
+          "key": "pone.0265970.ref030",
+          "doi-asserted-by": "crossref",
+          "first-page": "2484",
+          "DOI": "10.1097/00007632-199912010-00010",
+          "article-title": "Information and advice to patients with back pain can have a positive effect. A randomized controlled trial of a novel educational booklet in primary care",
+          "volume": "24",
+          "author": "AK Burton",
+          "year": "1999",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "1",
+          "key": "pone.0265970.ref031",
+          "doi-asserted-by": "crossref",
+          "first-page": "23",
+          "DOI": "10.1186/s12891-016-0875-4",
+          "article-title": "The effects of an 8-week stabilization exercise program on lumbar movement sense in patients with low back pain",
+          "volume": "17",
+          "author": "JA Boucher",
+          "year": "2016",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "1",
+          "key": "pone.0265970.ref032",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1016/0304-3959(96)03078-3",
+          "article-title": "The use of multiple-item scales for pain intensity measurement in chronic pain patients",
+          "volume": "67",
+          "author": "MP Jensen",
+          "year": "1996",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "pone.0265970.ref033",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.1186/s12998-015-0058-7",
+          "article-title": "A literature review of clinical tests for lumbar instability in low back pain: validity and applicability in clinical practice",
+          "volume": "23",
+          "author": "S Ferrari",
+          "year": "2015",
+          "journal-title": "Chiropr Man Therap"
+        },
+        {
+          "issue": "3",
+          "key": "pone.0265970.ref034",
+          "doi-asserted-by": "crossref",
+          "first-page": "130",
+          "DOI": "10.2519/jospt.2011.3457",
+          "article-title": "Clinical tests to diagnose lumbar segmental instability: a systematic review",
+          "volume": "41",
+          "author": "AM Alqarni",
+          "year": "2011",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "issue": "9",
+          "key": "pone.0265970.ref035",
+          "first-page": "979",
+          "article-title": "Reliability of physical examination items used for classification of patients with low back pain",
+          "volume": "78",
+          "author": "LR Van Dillen",
+          "year": "1998",
+          "journal-title": "PhysTher"
+        },
+        {
+          "issue": "5",
+          "key": "pone.0265970.ref036",
+          "doi-asserted-by": "crossref",
+          "first-page": "632",
+          "DOI": "10.1002/art.23563",
+          "article-title": "A primary care back pain screening tool: identifying patient subgroups for initial treatment",
+          "volume": "59",
+          "author": "JC Hill",
+          "year": "2008",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "issue": "8",
+          "key": "pone.0265970.ref037",
+          "first-page": "1099",
+          "article-title": "The influence of the therapist-patient relationship on treatment outcome in physical rehabilitation: a systematic review",
+          "volume": "90",
+          "author": "AM Hall",
+          "year": "2010",
+          "journal-title": "PhysTher"
+        },
+        {
+          "issue": "3",
+          "key": "pone.0265970.ref038",
+          "first-page": "220",
+          "article-title": "Barriers to treatment adherence in physiotherapy outpatient clinics: a systematic review",
+          "volume": "15",
+          "author": "K Jack",
+          "year": "2010",
+          "journal-title": "ManTher"
+        },
+        {
+          "issue": "12",
+          "key": "pone.0265970.ref039",
+          "doi-asserted-by": "crossref",
+          "first-page": "1940",
+          "DOI": "10.1016/j.spinee.2013.08.027",
+          "article-title": "Individual and intervention-related factors associated with adherence to home exercise in chronic low back pain: a systematic review",
+          "volume": "13",
+          "author": "NA Beinart",
+          "year": "2013",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "pone.0265970.ref040",
+          "article-title": "Do Pain-related Beliefs Influence Treatment adherence?",
+          "author": "E Thompson",
+          "year": "2015",
+          "journal-title": "A Systematic Review. Clin J Pain"
+        },
+        {
+          "key": "pone.0265970.ref041",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jordan JL, Holden MA, Mason EEJ, Foster NE. Interventions to improve adherence to exercise for chronic musculoskeletal pain in adults (Review). Cochrane Database Systematic Review, 2010. Contract No.: CD005956.",
+          "DOI": "10.1002/14651858.CD005956.pub2"
+        },
+        {
+          "issue": "25",
+          "key": "pone.0265970.ref042",
+          "doi-asserted-by": "crossref",
+          "first-page": "2803",
+          "DOI": "10.1097/BRS.0b013e3181ae2bd4",
+          "article-title": "Beyond minimally important change: defining a successful outcome of physical therapy for patients with low back pain",
+          "volume": "34",
+          "author": "JM Fritz",
+          "year": "2009",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "1",
+          "key": "pone.0265970.ref043",
+          "doi-asserted-by": "crossref",
+          "first-page": "32",
+          "DOI": "10.1002/1097-0142(1950)3:1<32::AID-CNCR2820030106>3.0.CO;2-3",
+          "article-title": "Index for rating diagnostic tests",
+          "volume": "3",
+          "author": "WJ Youden",
+          "year": "1950",
+          "journal-title": "Cancer"
+        },
+        {
+          "issue": "3",
+          "key": "pone.0265970.ref044",
+          "doi-asserted-by": "crossref",
+          "first-page": "521",
+          "DOI": "10.1093/ije/28.3.521",
+          "article-title": "Selecting diagnostic tests for ruling out or ruling in disease: the use of the Kullback-Leibler distance",
+          "volume": "28",
+          "author": "WC Lee",
+          "year": "1999",
+          "journal-title": "Int J Epidemiol"
+        },
+        {
+          "issue": "4",
+          "key": "pone.0265970.ref045",
+          "doi-asserted-by": "crossref",
+          "first-page": "1176",
+          "DOI": "10.1097/j.pain.0000000000002100",
+          "article-title": "Sex- and age-specific genetic analysis of chronic back pain",
+          "volume": "162",
+          "author": "MB Freidin",
+          "year": "2021",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "3",
+          "key": "pone.0265970.ref046",
+          "doi-asserted-by": "crossref",
+          "first-page": "195",
+          "DOI": "10.1097/AJP.0b013e318226c411",
+          "article-title": "Adherence to a community-based exercise program is a strong predictor of improved back pain status in older adults: an observational study",
+          "volume": "28",
+          "author": "GE Hicks",
+          "year": "2012",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "issue": "12",
+          "key": "pone.0265970.ref047",
+          "doi-asserted-by": "crossref",
+          "first-page": "1881",
+          "DOI": "10.1007/s00586-009-1093-7",
+          "article-title": "Spinal segmental stabilisation exercises for chronic low back pain: programme adherence and its influence on clinical outcome",
+          "volume": "18",
+          "author": "AF Mannion",
+          "year": "2009",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "2",
+          "key": "pone.0265970.ref048",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1",
+          "DOI": "10.2522/ptj.2015.95.2.e1",
+          "article-title": "Report of the NIH Task Force on Research Standards for Chronic Low Back Pain",
+          "volume": "95",
+          "author": "RA Deyo",
+          "year": "2015",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "issue": "5",
+          "key": "pone.0265970.ref049",
+          "doi-asserted-by": "crossref",
+          "first-page": "425",
+          "DOI": "10.2519/jospt.2012.3826",
+          "article-title": "Derivation of a Preliminary Clinical Prediction Rule for Identifying a Sub-Group of Patients With Low Back Pain Likely to Benefit From Pilates-Based Exercise",
+          "volume": "42",
+          "author": "LR Stolze",
+          "year": "2012",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "issue": "24",
+          "key": "pone.0265970.ref050",
+          "doi-asserted-by": "crossref",
+          "first-page": "2835",
+          "DOI": "10.1097/00007632-200212150-00021",
+          "article-title": "A clinical prediction rule for classifying patients with low back pain who demonstrate short-term improvement with spinal manipulation",
+          "volume": "27",
+          "author": "T Flynn",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "4",
+          "key": "pone.0265970.ref051",
+          "doi-asserted-by": "crossref",
+          "first-page": "554",
+          "DOI": "10.1007/s00586-009-0909-9",
+          "article-title": "A clinical prediction rule for classifying patients with low back pain who demonstrate short-term improvement with mechanical lumbar traction",
+          "volume": "18",
+          "author": "C Cai",
+          "year": "2009",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "1",
+          "key": "pone.0265970.ref052",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.2522/ptj.20060155",
+          "article-title": "Development of a clinical prediction rule for guiding treatment of a subgroup of patients with neck pain: use of thoracic spine manipulation, exercise, and patient education",
+          "volume": "87",
+          "author": "JA Cleland",
+          "year": "2007",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "issue": "9",
+          "key": "pone.0265970.ref053",
+          "doi-asserted-by": "crossref",
+          "first-page": "703",
+          "DOI": "10.1001/jama.1994.03510330081039",
+          "article-title": "Users’ guides to the medical literature. III. How to use an article about a diagnostic test. B. What are the results and will they help me in caring for my patients? The Evidence-Based Medicine Working Group",
+          "volume": "271",
+          "author": "R Jaeschke",
+          "year": "1994",
+          "journal-title": "JAMA"
+        },
+        {
+          "issue": "1",
+          "key": "pone.0265970.ref054",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/0268-0033(95)00035-6",
+          "article-title": "Mechanical stability of the in vivo lumbar spine: implications for injury and chronic low back pain",
+          "volume": "11",
+          "author": "J Cholewicki",
+          "year": "1996",
+          "journal-title": "Clin Biomech"
+        },
+        {
+          "key": "pone.0265970.ref055",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1080/10255842.2021.2004399",
+          "article-title": "Evaluating stability of human spine in static tasks: a combined in vivo-computational study",
+          "author": "F Ghezelbash",
+          "year": "2021",
+          "journal-title": "Comput Methods Biomech Biomed Engin"
+        },
+        {
+          "issue": "9",
+          "key": "pone.0265970.ref056",
+          "doi-asserted-by": "crossref",
+          "first-page": "1117",
+          "DOI": "10.1016/S0021-9290(01)00081-1",
+          "article-title": "Response of trunk muscle coactivation to changes in spinal stability",
+          "volume": "34",
+          "author": "KP Granata",
+          "year": "2001",
+          "journal-title": "J Biomech"
+        },
+        {
+          "key": "pone.0265970.ref057",
+          "doi-asserted-by": "crossref",
+          "first-page": "55",
+          "DOI": "10.1016/j.jelekin.2019.03.001",
+          "article-title": "Revisiting the effect of manipulating lumbar stability with load magnitudes and positions: the effect of sex on trunk muscle activation",
+          "volume": "46",
+          "author": "C Larivière",
+          "year": "2019",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "issue": "22",
+          "key": "pone.0265970.ref058",
+          "doi-asserted-by": "crossref",
+          "first-page": "2412",
+          "DOI": "10.1097/00007632-199811150-00011",
+          "article-title": "Psychometric characteristics and clinical usefulness of physical performance tests in patients with low back pain",
+          "volume": "23",
+          "author": "MJ Simmonds",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "6",
+          "key": "pone.0265970.ref059",
+          "doi-asserted-by": "crossref",
+          "first-page": "530",
+          "DOI": "10.1016/j.pmrj.2009.03.007",
+          "article-title": "The active straight leg raise test and lumbar spine stability",
+          "volume": "1",
+          "author": "C Liebenson",
+          "year": "2009",
+          "journal-title": "PMR"
+        },
+        {
+          "issue": "4",
+          "key": "pone.0265970.ref060",
+          "doi-asserted-by": "crossref",
+          "first-page": "262",
+          "DOI": "10.2519/jospt.2014.4988",
+          "article-title": "Clinical observation of standing trunk movements: what do the aberrant movement patterns tell us?",
+          "volume": "44",
+          "author": "SA Biely",
+          "year": "2014",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "pone.0265970.ref061",
+          "article-title": "Exploring the underlying mechanism of pain-related disability in hypermobile adolescents with chronic musculoskeletal pain",
+          "author": "T van Meulenbroek",
+          "year": "2020",
+          "journal-title": "Scand J Pain"
+        },
+        {
+          "issue": "4",
+          "key": "pone.0265970.ref062",
+          "first-page": "804",
+          "article-title": "Epidemiology of general joint hypermobility and basis for the proposed criteria for benign joint hypermobility syndrome: review of the literature",
+          "volume": "34",
+          "author": "L Remvig",
+          "year": "2007",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "issue": "11",
+          "key": "pone.0265970.ref063",
+          "doi-asserted-by": "crossref",
+          "first-page": "2709",
+          "DOI": "10.1007/s00296-013-2790-4",
+          "article-title": "Do people with benign joint hypermobility syndrome (BJHS) have reduced joint proprioception? A systematic review and meta-analysis",
+          "volume": "33",
+          "author": "TO Smith",
+          "year": "2013",
+          "journal-title": "Rheumatology International"
+        },
+        {
+          "issue": "1",
+          "key": "pone.0265970.ref064",
+          "first-page": "14",
+          "article-title": "Can acute low back pain result from segmental spinal buckling during sub-maximal activities? A review of the current literature",
+          "volume": "10",
+          "author": "R Preuss",
+          "year": "2005",
+          "journal-title": "ManTher"
+        },
+        {
+          "issue": "2",
+          "key": "pone.0265970.ref065",
+          "doi-asserted-by": "crossref",
+          "first-page": "123",
+          "DOI": "10.3233/BMR-2012-0320",
+          "article-title": "Trunk muscles strength and endurance in chronic low back pain patients with and without clinical instability",
+          "volume": "25",
+          "author": "S Davarian",
+          "year": "2012",
+          "journal-title": "J Back Musculoskelet Rehabil"
+        },
+        {
+          "issue": "5",
+          "key": "pone.0265970.ref066",
+          "doi-asserted-by": "crossref",
+          "first-page": "359",
+          "DOI": "10.1016/j.jmpt.2016.04.003",
+          "article-title": "The Relationship Between Clinical Instability and Endurance Tests, Pain, and Disability in Nonspecific Low Back Pain",
+          "volume": "39",
+          "author": "C Vanti",
+          "year": "2016",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "issue": "2",
+          "key": "pone.0265970.ref067",
+          "doi-asserted-by": "crossref",
+          "first-page": "106",
+          "DOI": "10.1097/00007632-198403000-00002",
+          "article-title": "Physical measurements as risk indicators for low-back trouble over a one-year period",
+          "volume": "9",
+          "author": "F. Biering-Sorensen",
+          "year": "1984",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "4",
+          "key": "pone.0265970.ref068",
+          "doi-asserted-by": "crossref",
+          "first-page": "168",
+          "DOI": "10.1080/16501970306124",
+          "article-title": "Course of back pain in primary care: a prospective study of physical measures",
+          "volume": "35",
+          "author": "P Enthoven",
+          "year": "2003",
+          "journal-title": "J Rehabil Med"
+        },
+        {
+          "issue": "4",
+          "key": "pone.0265970.ref069",
+          "doi-asserted-by": "crossref",
+          "first-page": "273",
+          "DOI": "10.1007/s005860000189",
+          "article-title": "Influence of age and duration of symptoms on fibre type distribution and size of the back muscles in chronic low back pain patients",
+          "volume": "9",
+          "author": "AF Mannion",
+          "year": "2000",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "4",
+          "key": "pone.0265970.ref070",
+          "doi-asserted-by": "crossref",
+          "first-page": "223",
+          "DOI": "10.1249/JES.0000000000000121",
+          "article-title": "Low-Back Pain Patients Learn to Adapt Motor Behavior With Adverse Secondary Consequences",
+          "volume": "45",
+          "author": "JH van Dieen",
+          "year": "2017",
+          "journal-title": "Exerc Sport Sci Rev"
+        },
+        {
+          "issue": "1",
+          "key": "pone.0265970.ref071",
+          "first-page": "122",
+          "article-title": "Development and application of clinical prediction rules to improve decision making in physical therapist practice",
+          "volume": "86",
+          "author": "JD Childs",
+          "year": "2006",
+          "journal-title": "PhysTher"
+        },
+        {
+          "issue": "1",
+          "key": "pone.0265970.ref072",
+          "doi-asserted-by": "crossref",
+          "first-page": "e0227423",
+          "DOI": "10.1371/journal.pone.0227423",
+          "article-title": "Sustainability effects of motor control stabilisation exercises on pain and function in chronic nonspecific low back pain patients: a systematic review with meta-analysis and meta-regression",
+          "volume": "15",
+          "author": "D Niederer",
+          "year": "2020",
+          "journal-title": "PloS One"
+        }
+      ],
+      "container-title": [
+        "PLOS ONE"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://dx.plos.org/10.1371/journal.pone.0265970",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            27
+          ]
+        ],
+        "date-time": "2022-04-27T17:24:30Z",
+        "timestamp": 1651080270000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://dx.plos.org/10.1371/journal.pone.0265970"
+        }
+      },
+      "subtitle": [],
+      "editor": [
+        {
+          "given": "Fatih",
+          "family": "Özden",
+          "sequence": "first",
+          "affiliation": []
+        }
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            27
+          ]
+        ]
+      },
+      "references-count": 72,
+      "journal-issue": {
+        "issue": "4",
+        "published-online": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              27
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1371/journal.pone.0265970",
+      "relation": {},
+      "ISSN": [
+        "1932-6203"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1932-6203"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            27
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,2209 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_11_10_1371_journal_pone_0178621.md",
+  "id": "evidence_import_refs_2025_09_11_10_1371_journal_pone_0178621",
+  "doi": "10.1371/journal.pone.0178621",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:05:57.332620Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T21:54:33Z",
+        "timestamp": 1757454873219,
+        "version": "3.37.3"
+      },
+      "reference-count": 192,
+      "publisher": "Public Library of Science (PLoS)",
+      "issue": "6",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                6,
+                22
+              ]
+            ],
+            "date-time": "2017-06-22T00:00:00Z",
+            "timestamp": 1498089600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100007602",
+          "name": "Programme Grants for Applied Research",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "RP-PG-1211-20010"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100007602",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100000341",
+          "name": "Arthritis Research UK",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "20202"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100000341",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "www.plosone.org"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "PLoS ONE"
+      ],
+      "DOI": "10.1371/journal.pone.0178621",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2017,
+            6,
+            22
+          ]
+        ],
+        "date-time": "2017-06-22T17:33:27Z",
+        "timestamp": 1498152807000
+      },
+      "page": "e0178621",
+      "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 289,
+      "title": [
+        "Effective treatment options for musculoskeletal pain in primary care: A systematic overview of current evidence"
+      ],
+      "prefix": "10.1371",
+      "volume": "12",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-5064-6446",
+          "authenticated-orcid": true,
+          "given": "Opeyemi O.",
+          "family": "Babatunde",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Joanne L.",
+          "family": "Jordan",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Danielle A.",
+          "family": "Van der Windt",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jonathan C.",
+          "family": "Hill",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Nadine E.",
+          "family": "Foster",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Joanne",
+          "family": "Protheroe",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "340",
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            6,
+            22
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref1",
+          "unstructured": "Arthritis and Osteoporosis Victoria &amp; Deloitte Access Economics. A problem worth solving: the rising cost of musculoskeletal conditions in Australia Elsternwick [Victoria], 2013. <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://www.arthritisvic.org.au/Research/AOV-Funded-Research/Completed/A-Problem-Worth-Solving/APWS.aspx\" xlink:type=\"simple\">http://www.arthritisvic.org.au/Research/AOV-Funded-Research/Completed/A-Problem-Worth-Solving/APWS.aspx</ext-link>. Accessed 24th April 2015."
+        },
+        {
+          "issue": "9859",
+          "key": "ref2",
+          "doi-asserted-by": "crossref",
+          "first-page": "2163",
+          "DOI": "10.1016/S0140-6736(12)61729-2",
+          "article-title": "Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010",
+          "volume": "380",
+          "author": "T Vos",
+          "year": "2013",
+          "journal-title": "The Lancet"
+        },
+        {
+          "issue": "9",
+          "key": "ref3",
+          "first-page": "646",
+          "article-title": "Burden of major musculoskeletal conditions",
+          "volume": "81",
+          "author": "AD Woolf",
+          "year": "2003",
+          "journal-title": "Bulletin of the World Health Organization"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "crossref",
+          "first-page": "a171",
+          "DOI": "10.1136/bmj.a171",
+          "article-title": "Prognosis in patients with recent onset low back pain in Australian primary care: inception cohort study",
+          "volume": "337",
+          "author": "N Henschke",
+          "year": "2008",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "crossref",
+          "first-page": "304",
+          "DOI": "10.1016/j.pain.2005.06.017",
+          "article-title": "A prognostic approach to defining chronic pain",
+          "volume": "117",
+          "author": "M Von Korff",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "2",
+          "key": "ref6",
+          "doi-asserted-by": "crossref",
+          "first-page": "132",
+          "DOI": "10.1179/1743288X12Y.0000000006",
+          "article-title": "Can we shoot for better for patients with shoulder pain?",
+          "volume": "17",
+          "author": "JB Strunce",
+          "year": "2012",
+          "journal-title": "Physical Therapy Reviews"
+        },
+        {
+          "issue": "5",
+          "key": "ref7",
+          "doi-asserted-by": "crossref",
+          "first-page": "961",
+          "DOI": "10.1016/j.apmr.2012.11.041",
+          "article-title": "Subacromial Impingement Syndrome: Effectiveness of Pharmaceutical Interventions–Nonsteroidal Anti-Inflammatory Drugs, Corticosteroid, or Other Injections: A Systematic Review",
+          "volume": "94",
+          "author": "R van der Sande",
+          "year": "2013",
+          "journal-title": "Archives of physical medicine and rehabilitation"
+        },
+        {
+          "key": "ref8",
+          "article-title": "Managing back pain and osteoarthritis without paracetamol",
+          "volume": "350",
+          "author": "C Mallen",
+          "year": "2015",
+          "journal-title": "Bmj-Brit Med J"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "crossref",
+          "first-page": "h1225",
+          "DOI": "10.1136/bmj.h1225",
+          "article-title": "Efficacy and safety of paracetamol for spinal pain and osteoarthritis: systematic review and meta-analysis of randomised placebo controlled trials",
+          "volume": "350",
+          "author": "GC Machado",
+          "year": "2015",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "1",
+          "key": "ref10",
+          "doi-asserted-by": "crossref",
+          "first-page": "173",
+          "DOI": "10.1016/j.spinee.2007.10.013",
+          "article-title": "Evidence-informed management of chronic low back pain with nonsteroidal anti-inflammatory drugs, muscle relaxants, and simple analgesics",
+          "volume": "8",
+          "author": "G Malanga",
+          "year": "2008",
+          "journal-title": "Spine J"
+        },
+        {
+          "issue": "2",
+          "key": "ref11",
+          "first-page": "CD012087",
+          "article-title": "Non-steroidal anti-inflammatory drugs for chronic low back pain",
+          "author": "WTM Enthoven",
+          "year": "2016",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "3",
+          "key": "ref12",
+          "article-title": "Research priorities for non-pharmacological therapies for common musculoskeletal problems: nationally and internationally agreed recommendations",
+          "volume": "10",
+          "author": "NE Foster",
+          "year": "2009",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "2",
+          "key": "ref13",
+          "first-page": "CD004258",
+          "article-title": "Physiotherapy interventions for shoulder pain",
+          "author": "S Green",
+          "year": "2003",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "7525",
+          "key": "ref14",
+          "doi-asserted-by": "crossref",
+          "first-page": "1124",
+          "DOI": "10.1136/bmj.331.7525.1124",
+          "article-title": "Shoulder pain: diagnosis and management in primary care",
+          "volume": "331",
+          "author": "C Mitchell",
+          "year": "2005",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "1",
+          "key": "ref15",
+          "doi-asserted-by": "crossref",
+          "first-page": "4",
+          "DOI": "10.1016/j.jsams.2010.08.002",
+          "article-title": "A review of the clinical evidence for exercise in osteoarthritis of the hip and knee",
+          "volume": "14",
+          "author": "KL Bennell",
+          "year": "2011",
+          "journal-title": "Journal of Science and Medicine in Sport"
+        },
+        {
+          "key": "ref16",
+          "unstructured": "National Institute for Health and Care Excellence (NICE) 2014. Osteoarthritis: care and management in adults. <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://www.nice.org.uk/guidance/cg177?unlid=38189754201622015349\" xlink:type=\"simple\">https://www.nice.org.uk/guidance/cg177?unlid=38189754201622015349</ext-link>. Accessed 30th June 2014."
+        },
+        {
+          "issue": "7301",
+          "key": "ref17",
+          "doi-asserted-by": "crossref",
+          "first-page": "1511",
+          "DOI": "10.1136/bmj.322.7301.1511",
+          "article-title": "Multidisciplinary rehabilitation for chronic low back pain: systematic review",
+          "volume": "322",
+          "author": "J Guzman",
+          "year": "2001",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "3",
+          "key": "ref18",
+          "first-page": "CD000335",
+          "article-title": "Exercise therapy for treatment of non-specific low back pain",
+          "author": "JA Hayden",
+          "year": "2005",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "9",
+          "key": "ref19",
+          "doi-asserted-by": "crossref",
+          "first-page": "776",
+          "DOI": "10.7326/0003-4819-142-9-200505030-00014",
+          "article-title": "Systematic review: strategies for using exercise therapy to improve outcomes in chronic low back pain",
+          "volume": "142",
+          "author": "JA Hayden",
+          "year": "2005",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "ref20",
+          "unstructured": "National Institute for Health and Care Excellence (NICE) 2009. Low back pain: early management of persistent non-specific low back pain. <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://www.nice.org.uk/guidance/cg88?unlid=5626398422015113014535\" xlink:type=\"simple\">https://www.nice.org.uk/guidance/cg88?unlid=5626398422015113014535</ext-link>. Accessed 18th July 2014."
+        },
+        {
+          "issue": "3",
+          "key": "ref21",
+          "doi-asserted-by": "crossref",
+          "first-page": "452",
+          "DOI": "10.1002/j.1532-2149.2012.00225.x",
+          "article-title": "Patterns of musculoskeletal pain in the population: a latent class analysis using a nationally representative interviewer-based survey of 4817 Danes",
+          "volume": "17",
+          "author": "J Hartvigsen",
+          "year": "2013",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "issue": "1",
+          "key": "ref22",
+          "doi-asserted-by": "crossref",
+          "first-page": "41",
+          "DOI": "10.1016/j.pain.2007.11.002",
+          "article-title": "Localized or widespread musculoskeletal pain: does it matter?",
+          "volume": "138",
+          "author": "Y Kamaleri",
+          "year": "2008",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "541",
+          "key": "ref23",
+          "first-page": "655",
+          "article-title": "Prognostic factors for musculoskeletal pain in primary care: a systematic review",
+          "volume": "57",
+          "author": "CD Mallen",
+          "year": "2007",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "issue": "8",
+          "key": "ref24",
+          "doi-asserted-by": "crossref",
+          "first-page": "1217",
+          "DOI": "10.1002/acr.21665",
+          "article-title": "Identifying generic predictors of outcome in patients presenting to primary care with nonspinal musculoskeletal pain",
+          "volume": "64",
+          "author": "N Henschke",
+          "year": "2012",
+          "journal-title": "Arthritis care & research"
+        },
+        {
+          "key": "ref25",
+          "doi-asserted-by": "crossref",
+          "first-page": "144",
+          "DOI": "10.1186/1471-2474-11-144",
+          "article-title": "Annual consultation prevalence of regional musculoskeletal problems in primary care: an observational study",
+          "volume": "11",
+          "author": "KP Jordan",
+          "year": "2010",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "ref26",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.1186/1471-2288-7-10",
+          "article-title": "Development of AMSTAR: a measurement tool to assess the methodological quality of systematic reviews",
+          "volume": "7",
+          "author": "BJ Shea",
+          "year": "2007",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "article-title": "Statistical power analysis for the behavioral sciences",
+          "year": "1988",
+          "author": "J Cohen",
+          "key": "ref27"
+        },
+        {
+          "issue": "10",
+          "key": "ref28",
+          "first-page": "21",
+          "article-title": "Estimating the size of treatment effects: moving beyond p values",
+          "volume": "6",
+          "author": "JJ McGough",
+          "year": "2009",
+          "journal-title": "Psychiatry (Edgmont)"
+        },
+        {
+          "key": "ref29",
+          "unstructured": "British Pain Society (BPS) 2013. Guidelines for Pain Management Programmes for adults. <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://www.britishpainsociety.org/static/uploads/resources/files/pmp2013_main_FINAL_v6.pdf\" xlink:type=\"simple\">https://www.britishpainsociety.org/static/uploads/resources/files/pmp2013_main_FINAL_v6.pdf</ext-link>. Accessed 15th July 2016."
+        },
+        {
+          "issue": "6",
+          "key": "ref30",
+          "first-page": "CD007612",
+          "article-title": "Advice to rest in bed versus advice to stay active for acute low-back pain and sciatica",
+          "author": "KT Dahm",
+          "year": "2010",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref31",
+          "first-page": "CD004057",
+          "article-title": "Individual patient education for low back pain",
+          "author": "A Engers",
+          "year": "2008",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "4",
+          "key": "ref32",
+          "first-page": "CD001254",
+          "article-title": "Bed rest for acute low-back pain and sciatica",
+          "author": "KB Hagen",
+          "year": "2004",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref33",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/14651858.CD008325.pub2",
+          "article-title": "Back schools for acute and subacute non-specific low-back pain",
+          "author": "N Poquet",
+          "year": "2016",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "issue": "19",
+          "key": "ref34",
+          "doi-asserted-by": "crossref",
+          "first-page": "2153",
+          "DOI": "10.1097/01.brs.0000182227.33627.15",
+          "article-title": "Back schools for nonspecific low back pain: a systematic review within the framework of the Cochrane Collaboration Back Review Group",
+          "volume": "2005",
+          "author": "MW Heymans",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "4",
+          "key": "ref35",
+          "doi-asserted-by": "crossref",
+          "first-page": "310",
+          "DOI": "10.1016/j.math.2006.12.009",
+          "article-title": "Advice for the management of low back pain: a systematic review of randomised controlled trials",
+          "volume": "12",
+          "author": "SD Liddle",
+          "year": "2007",
+          "journal-title": "Man Ther"
+        },
+        {
+          "issue": "3",
+          "key": "ref36",
+          "doi-asserted-by": "crossref",
+          "first-page": "513",
+          "DOI": "10.1016/j.berh.2007.04.001",
+          "article-title": "Non-pharmacological treatment of chronic widespread musculoskeletal pain",
+          "volume": "21",
+          "author": "K Mannerkorpi",
+          "year": "2007",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "issue": "11",
+          "key": "ref37",
+          "doi-asserted-by": "crossref",
+          "first-page": "1739",
+          "DOI": "10.1002/acr.21737",
+          "article-title": "Effectiveness of self-management of low back pain: systematic review with meta-analysis",
+          "volume": "64",
+          "author": "VC Oliveira",
+          "year": "2012",
+          "journal-title": "Arthritis Care Res (Hoboken)"
+        },
+        {
+          "key": "ref38",
+          "unstructured": "Map of Medicine. Care pathways 2014. <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://mapofmedicine.com/access-map/\" xlink:type=\"simple\">http://mapofmedicine.com/access-map/</ext-link>. Accessed 18th July 2016."
+        },
+        {
+          "issue": "3",
+          "key": "ref39",
+          "first-page": "CD005523",
+          "article-title": "Aquatic exercise for the treatment of knee and hip osteoarthritis",
+          "author": "EM Bartels",
+          "year": "2016",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref40",
+          "first-page": "CD011336",
+          "article-title": "Aquatic exercise training for fibromyalgia",
+          "volume": "10",
+          "author": "J Bidonde",
+          "year": "2014",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "4",
+          "key": "ref41",
+          "first-page": "CD003786",
+          "article-title": "Exercise for treating fibromyalgia syndrome",
+          "author": "AJ Busch",
+          "year": "2007",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref42",
+          "first-page": "CD010884",
+          "article-title": "Resistance exercise training for fibromyalgia",
+          "volume": "12",
+          "author": "AJ Busch",
+          "year": "2013",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref43",
+          "first-page": "CD004376",
+          "article-title": "Exercise for osteoarthritis of the knee",
+          "author": "M Fransen",
+          "year": "2015",
+          "journal-title": "Cochrane Database of Syst Rev"
+        },
+        {
+          "key": "ref44",
+          "first-page": "CD004250",
+          "article-title": "Exercises for mechanical neck disorders",
+          "volume": "1",
+          "author": "A Gross",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref45",
+          "first-page": "CD011275",
+          "article-title": "Manual therapy and exercise for adhesive capsulitis (frozen shoulder)",
+          "volume": "8",
+          "author": "MJ Page",
+          "year": "2014",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref46",
+          "first-page": "CD010387",
+          "article-title": "Exercise for treating patellofemoral pain syndrome",
+          "volume": "1",
+          "author": "RA van der Heijden",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref47",
+          "unstructured": "New Zealand Guidelines Group (NZGG). The diagnosis and management of soft tissue shoulder injuries and related disorders. 2003. New Zealand. <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://www.acc.co.nz/PRD_EXT_CSMP/groups/external_communications/documents/guide/wcm001684.pdf\" xlink:type=\"simple\">http://www.acc.co.nz/PRD_EXT_CSMP/groups/external_communications/documents/guide/wcm001684.pdf</ext-link>. Accessed 12th December 2013."
+        },
+        {
+          "issue": "4",
+          "key": "ref48",
+          "doi-asserted-by": "crossref",
+          "first-page": "465",
+          "DOI": "10.1002/acr.21596",
+          "article-title": "American College of Rheumatology 2012 recommendations for the use of nonpharmacologic and pharmacologic therapies in osteoarthritis of the hand, hip, and knee",
+          "volume": "64",
+          "author": "MC Hochberg",
+          "year": "2012",
+          "journal-title": "Arthritis Care Res (Hoboken)"
+        },
+        {
+          "issue": "4",
+          "key": "ref49",
+          "doi-asserted-by": "crossref",
+          "first-page": "476",
+          "DOI": "10.1016/j.joca.2010.01.013",
+          "article-title": "OARSI recommendations for the management of hip and knee osteoarthritis: part III: Changes in evidence following systematic cumulative update of research published through January 2009",
+          "volume": "18",
+          "author": "W Zhang",
+          "year": "2010",
+          "journal-title": "Osteoarthritis Cartilage"
+        },
+        {
+          "issue": "1",
+          "key": "ref50",
+          "doi-asserted-by": "crossref",
+          "first-page": "125",
+          "DOI": "10.1016/j.jbmt.2012.08.003",
+          "article-title": "Pilates-based exercise for persistent, non-specific low back pain and associated functional disability: a meta-analysis with meta-regression",
+          "volume": "17",
+          "author": "AR Aladro-Gonzalvo",
+          "year": "2013",
+          "journal-title": "J Body Mov Ther"
+        },
+        {
+          "issue": "1",
+          "key": "ref51",
+          "doi-asserted-by": "crossref",
+          "first-page": "45",
+          "DOI": "10.2174/1573403X10666140914155304",
+          "article-title": "Exercise for adults with fibromyalgia: an umbrella systematic review with synthesis of best evidence",
+          "volume": "10",
+          "author": "J Bidonde",
+          "year": "2014",
+          "journal-title": "Curr Rheumatol Rev"
+        },
+        {
+          "issue": "11",
+          "key": "ref52",
+          "doi-asserted-by": "crossref",
+          "first-page": "795",
+          "DOI": "10.1136/oem.2010.059873",
+          "article-title": "Exercises for prevention of recurrences of low-back pain",
+          "volume": "67",
+          "author": "BKL Choi",
+          "year": "2010",
+          "journal-title": "Occupational and Environmental Medicine"
+        },
+        {
+          "issue": "2",
+          "key": "ref53",
+          "doi-asserted-by": "crossref",
+          "first-page": "105",
+          "DOI": "10.3233/BMR-2002-162-309",
+          "article-title": "The role of therapeutic exercise in treating instability-related lumbar spine pain: A systematic review",
+          "volume": "16",
+          "author": "J Cleland",
+          "year": "2002",
+          "journal-title": "J Back Musculoskelet Rehabil"
+        },
+        {
+          "issue": "3",
+          "key": "ref54",
+          "doi-asserted-by": "crossref",
+          "first-page": "176",
+          "DOI": "10.1097/00042752-200305000-00009",
+          "article-title": "Therapeutic exercise and orthopedic manual therapy for impingement syndrome: a systematic review",
+          "volume": "13",
+          "author": "F Desmeules",
+          "year": "2003",
+          "journal-title": "Clin J Sport Med"
+        },
+        {
+          "issue": "2",
+          "key": "ref55",
+          "doi-asserted-by": "crossref",
+          "first-page": "274",
+          "DOI": "10.1197/j.jht.2004.02.013",
+          "article-title": "Evaluation of interventions for rotator cuff pathology: a systematic review",
+          "volume": "17",
+          "author": "HJ Grant",
+          "year": "2004",
+          "journal-title": "J Hand Ther"
+        },
+        {
+          "issue": "3",
+          "key": "ref56",
+          "doi-asserted-by": "crossref",
+          "first-page": "297",
+          "DOI": "10.1016/j.semarthrit.2012.03.015",
+          "article-title": "The effectiveness of physiotherapy exercises in subacromial impingement syndrome: a systematic review and meta-analysis",
+          "volume": "42",
+          "author": "CE Hanratty",
+          "year": "2012",
+          "journal-title": "Semin Arthritis Rheum"
+        },
+        {
+          "issue": "3",
+          "key": "ref57",
+          "doi-asserted-by": "crossref",
+          "first-page": "R79",
+          "DOI": "10.1186/ar3002",
+          "article-title": "Efficacy of different types of aerobic exercise in fibromyalgia syndrome: a systematic review and meta-analysis of randomised controlled trials",
+          "volume": "12",
+          "author": "W Hauser",
+          "year": "2010",
+          "journal-title": "Arthritis Res Ther"
+        },
+        {
+          "issue": "4",
+          "key": "ref58",
+          "doi-asserted-by": "crossref",
+          "first-page": "S123",
+          "DOI": "10.1097/BRS.0b013e3181644b1d",
+          "article-title": "Treatment of neck pain: noninvasive interventions: results of the Bone and Joint Decade 2000–2010 Task Force on Neck Pain and Its Associated Disorders",
+          "volume": "33",
+          "author": "EL Hurwitz",
+          "year": "2008",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "11",
+          "key": "ref59",
+          "doi-asserted-by": "crossref",
+          "first-page": "870",
+          "DOI": "10.2340/16501977-0453",
+          "article-title": "Effects of Physiotherapy in Patients with Shoulder Impingement Syndrome: A Systematic Review of the Literature",
+          "volume": "41",
+          "author": "TO Kromer",
+          "year": "2009",
+          "journal-title": "Journal of Rehabilitation Medicine"
+        },
+        {
+          "issue": "1",
+          "key": "ref60",
+          "doi-asserted-by": "crossref",
+          "first-page": "138",
+          "DOI": "10.1016/j.jse.2008.06.004",
+          "article-title": "Exercise in the treatment of rotator cuff impingement: a systematic review and a synthesized evidence-based rehabilitation protocol",
+          "volume": "18",
+          "author": "JE Kuhn",
+          "year": "2009",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "issue": "2",
+          "key": "ref61",
+          "doi-asserted-by": "crossref",
+          "first-page": "101",
+          "DOI": "10.1016/j.physio.2011.08.002",
+          "article-title": "Exercise for rotator cuff tendinopathy: a systematic review",
+          "volume": "98",
+          "author": "C Littlewood",
+          "year": "2012",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "issue": "1",
+          "key": "ref62",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.2522/ptj.20080103",
+          "article-title": "Motor control exercise for persistent, nonspecific low back pain: a systematic review",
+          "volume": "89",
+          "author": "LG Macedo",
+          "year": "2009",
+          "journal-title": "Physical therapy"
+        },
+        {
+          "issue": "8",
+          "key": "ref63",
+          "doi-asserted-by": "crossref",
+          "first-page": "1351",
+          "DOI": "10.1016/j.jse.2011.05.013",
+          "article-title": "The effectiveness of therapeutic exercise for painful shoulder conditions: a meta-analysis",
+          "volume": "20",
+          "author": "LN Marinko",
+          "year": "2011",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "key": "ref64",
+          "article-title": "Shoulder pain",
+          "volume": "2010",
+          "author": "RJ Murphy",
+          "year": "2010",
+          "journal-title": "BMJ Clin Evid"
+        },
+        {
+          "issue": "1",
+          "key": "ref65",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.1177/0269215511411113",
+          "article-title": "Comparing the Pilates method with no exercise or lumbar stabilization for pain and functionality in patients with chronic low back pain: systematic review and meta-analysis",
+          "volume": "26",
+          "author": "LM Pereira",
+          "year": "2012",
+          "journal-title": "Clinical Rehabilitation"
+        },
+        {
+          "issue": "5",
+          "key": "ref66",
+          "doi-asserted-by": "crossref",
+          "first-page": "287",
+          "DOI": "10.1155/2010/106593",
+          "article-title": "A research synthesis of therapeutic interventions for whiplash-associated disorder: part 1—overview and summary",
+          "volume": "15",
+          "author": "RW Teasell",
+          "year": "2010",
+          "journal-title": "Pain Res Manag"
+        },
+        {
+          "key": "ref67",
+          "doi-asserted-by": "crossref",
+          "first-page": "f5555",
+          "DOI": "10.1136/bmj.f5555",
+          "article-title": "Exercise for lower limb osteoarthritis: systematic review incorporating trial sequential analysis and network meta-analysis",
+          "volume": "347",
+          "author": "OA Uthman",
+          "year": "2013",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "1",
+          "key": "ref68",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1177/0269215508097856",
+          "article-title": "Therapeutic aquatic exercise in the treatment of low back pain: a systematic review",
+          "volume": "23",
+          "author": "B Waller",
+          "year": "2009",
+          "journal-title": "Clinical Rehabilitation"
+        },
+        {
+          "issue": "12",
+          "key": "ref69",
+          "doi-asserted-by": "crossref",
+          "first-page": "e52082",
+          "DOI": "10.1371/journal.pone.0052082",
+          "article-title": "A meta-analysis of core stability exercise versus general exercise for chronic low back pain",
+          "volume": "7",
+          "author": "XQ Wang",
+          "year": "2012",
+          "journal-title": "PLoS One"
+        },
+        {
+          "issue": "7",
+          "key": "ref70",
+          "article-title": "Effectiveness of Pilates exercise in treating people with chronic low back pain: a systematic review of systematic reviews",
+          "volume": "13",
+          "author": "C Wells",
+          "year": "2013",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "ref71",
+          "first-page": "1",
+          "article-title": "Prevention of Low Back Pain: A Systematic Review and Meta-analysis",
+          "author": "D Steffens",
+          "year": "2016",
+          "journal-title": "JAMA internal medicine"
+        },
+        {
+          "issue": "3",
+          "key": "ref72",
+          "doi-asserted-by": "crossref",
+          "first-page": "221",
+          "DOI": "10.1097/BRS.0b013e318191e7cb",
+          "article-title": "Graded exercise for recurrent low-back pain: a randomized, controlled trial with 6-, 12-, and 36-month follow-ups",
+          "volume": "34",
+          "author": "E Rasmussen-Barr",
+          "year": "2009",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "6",
+          "key": "ref73",
+          "first-page": "647",
+          "article-title": "Effectiveness of physical therapist administered spinal manipulation for the treatment of low back pain: a systematic review of the literature",
+          "volume": "7",
+          "author": "JJ Kuczynski",
+          "year": "2012",
+          "journal-title": "Int J Sports Phys Ther"
+        },
+        {
+          "key": "ref74",
+          "first-page": "CD000447",
+          "article-title": "Spinal manipulative therapy for low-back pain",
+          "volume": "1",
+          "author": "WJ Assendelft",
+          "year": "2013",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref75",
+          "first-page": "CD008880",
+          "article-title": "Spinal manipulative therapy for acute low-back pain",
+          "volume": "9",
+          "author": "SM Rubinstein",
+          "year": "2012",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "4",
+          "key": "ref76",
+          "first-page": "CD005427",
+          "article-title": "Combined chiropractic interventions for low-back pain",
+          "author": "BF Walker",
+          "year": "2010",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref77",
+          "first-page": "CD003010",
+          "article-title": "Traction for low-back pain with or without sciatica",
+          "volume": "8",
+          "author": "I Wegner",
+          "year": "2013",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "4",
+          "key": "ref78",
+          "doi-asserted-by": "crossref",
+          "first-page": "424",
+          "DOI": "10.1016/j.jbmt.2012.04.002",
+          "article-title": "Ottawa Panel evidence-based clinical practice guidelines on therapeutic massage for low back pain",
+          "volume": "16",
+          "author": "L Brosseau",
+          "year": "2012",
+          "journal-title": "Journal of bodywork and movement therapies"
+        },
+        {
+          "issue": "5",
+          "key": "ref79",
+          "doi-asserted-by": "crossref",
+          "first-page": "451",
+          "DOI": "10.1111/j.1533-2500.2010.00377.x",
+          "article-title": "Evidence-based review of manual therapy efficacy in treatment of chronic musculoskeletal pain",
+          "volume": "10",
+          "author": "AV Bokarius",
+          "year": "2010",
+          "journal-title": "Pain Pract"
+        },
+        {
+          "issue": "5",
+          "key": "ref80",
+          "doi-asserted-by": "crossref",
+          "first-page": "314",
+          "DOI": "10.1016/j.jmpt.2011.04.002",
+          "article-title": "Manipulative therapy for shoulder pain and disorders: expansion of a systematic review",
+          "volume": "34",
+          "author": "JW Brantingham",
+          "year": "2011",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "issue": "3",
+          "key": "ref81",
+          "article-title": "Effectiveness of manual therapies: the UK evidence report",
+          "volume": "18",
+          "author": "G Bronfort",
+          "year": "2010",
+          "journal-title": "Chiropr Osteopat"
+        },
+        {
+          "issue": "10",
+          "key": "ref82",
+          "doi-asserted-by": "crossref",
+          "first-page": "734",
+          "DOI": "10.2519/jospt.2011.3440",
+          "article-title": "The effect of therapeutic exercise and mobilization on patients with shoulder dysfunction: a systematic review with meta-analysis",
+          "volume": "41",
+          "author": "TJ Brudvig",
+          "year": "2011",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "issue": "4",
+          "key": "ref83",
+          "doi-asserted-by": "crossref",
+          "first-page": "206",
+          "DOI": "10.1179/106698109791352076",
+          "article-title": "Effectiveness of manual physical therapy for painful shoulder conditions: a systematic review",
+          "volume": "17",
+          "author": "J Camarinos",
+          "year": "2009",
+          "journal-title": "J Man Manip Ther"
+        },
+        {
+          "issue": "4",
+          "key": "ref84",
+          "doi-asserted-by": "crossref",
+          "first-page": "355",
+          "DOI": "10.1016/j.math.2009.12.006",
+          "article-title": "Adverse events and manual therapy: a systematic review",
+          "volume": "15",
+          "author": "D Carnes",
+          "year": "2010",
+          "journal-title": "Man Ther"
+        },
+        {
+          "issue": "4",
+          "key": "ref85",
+          "doi-asserted-by": "crossref",
+          "first-page": "879",
+          "DOI": "10.1016/S0885-3924(01)00337-2",
+          "article-title": "Spinal manipulation: a systematic review of sham-controlled, double-blind, randomized clinical trials",
+          "volume": "22",
+          "author": "E Ernst",
+          "year": "2001",
+          "journal-title": "J Pain Symptom Manage"
+        },
+        {
+          "key": "ref86",
+          "first-page": "CD001929",
+          "article-title": "Massage for low-back pain",
+          "volume": "9",
+          "author": "AD Furlan",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "16",
+          "key": "ref87",
+          "doi-asserted-by": "crossref",
+          "first-page": "1202",
+          "DOI": "10.1136/bjsports-2012-091802",
+          "article-title": "Subacromial impingement syndrome—effectiveness of physiotherapy and manual therapy",
+          "volume": "48",
+          "author": "L Gebremariam",
+          "year": "2014",
+          "journal-title": "Br J Sports Med"
+        },
+        {
+          "issue": "5",
+          "key": "ref88",
+          "doi-asserted-by": "crossref",
+          "first-page": "670",
+          "DOI": "10.1016/j.jelekin.2012.03.006",
+          "article-title": "Patient-centered outcomes of high-velocity, low-amplitude spinal manipulation for low back pain: a systematic review",
+          "volume": "22",
+          "author": "CM Goertz",
+          "year": "2012",
+          "journal-title": "J Electromyogr Kinesiol"
+        },
+        {
+          "issue": "5",
+          "key": "ref89",
+          "doi-asserted-by": "crossref",
+          "first-page": "463",
+          "DOI": "10.1016/j.math.2009.03.008",
+          "article-title": "The effectiveness of manual therapy in the management of musculoskeletal disorders of the shoulder: a systematic review",
+          "volume": "14",
+          "author": "CY Ho",
+          "year": "2009",
+          "journal-title": "Man Ther"
+        },
+        {
+          "issue": "3",
+          "key": "ref90",
+          "doi-asserted-by": "crossref",
+          "first-page": "201",
+          "DOI": "10.1016/j.math.2012.01.006",
+          "article-title": "The effectiveness of sub-group specific manual therapy for low back pain: a systematic review",
+          "volume": "17",
+          "author": "SL Slater",
+          "year": "2012",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "ref91",
+          "first-page": "CD004871",
+          "article-title": "Massage for mechanical neck disorders",
+          "volume": "9",
+          "author": "KC Patel",
+          "year": "2012",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "3",
+          "key": "ref92",
+          "doi-asserted-by": "crossref",
+          "first-page": "E158",
+          "DOI": "10.1097/BRS.0b013e31827dd89d",
+          "article-title": "Spinal manipulative therapy for acute low back pain: an update of the cochrane review",
+          "volume": "38",
+          "author": "SM Rubinstein",
+          "year": "2013",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "13",
+          "key": "ref93",
+          "doi-asserted-by": "crossref",
+          "first-page": "E825",
+          "DOI": "10.1097/BRS.0b013e3182197fe1",
+          "article-title": "Spinal manipulative therapy for chronic low-back pain: an update of a Cochrane review",
+          "volume": "36",
+          "author": "SM Rubinstein",
+          "year": "2011",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "9",
+          "key": "ref94",
+          "doi-asserted-by": "crossref",
+          "first-page": "1213",
+          "DOI": "10.1002/ejp.649",
+          "article-title": "Overview review: Comparative efficacy of oral ibuprofen and paracetamol (acetaminophen) across acute and chronic pain conditions",
+          "volume": "19",
+          "author": "RA Moore",
+          "year": "2015",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "issue": "4",
+          "key": "ref95",
+          "doi-asserted-by": "crossref",
+          "first-page": "407",
+          "DOI": "10.1016/j.jpain.2010.09.007",
+          "article-title": "Systematic review of the comparative effectiveness of antiepileptic drugs for fibromyalgia",
+          "volume": "12",
+          "author": "AC Siler",
+          "year": "2011",
+          "journal-title": "J Pain"
+        },
+        {
+          "issue": "3",
+          "key": "ref96",
+          "first-page": "CD005522",
+          "article-title": "Tramadol for osteoarthritis",
+          "author": "MS Cepeda",
+          "year": "2006",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "10",
+          "key": "ref97",
+          "first-page": "CD008244",
+          "article-title": "Milnacipran for pain in fibromyalgia in adults",
+          "author": "M Cording",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref98",
+          "first-page": "CD007403",
+          "article-title": "Salicylate-containing rubefacients for acute and chronic musculoskeletal pain in adults",
+          "volume": "11",
+          "author": "S Derry",
+          "year": "2014",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref99",
+          "first-page": "CD007402",
+          "article-title": "Topical NSAIDs for acute musculoskeletal pain in adults",
+          "volume": "6",
+          "author": "S Derry",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref100",
+          "first-page": "CD004257",
+          "article-title": "Acetaminophen for osteoarthritis",
+          "author": "TE Towheed",
+          "year": "2006",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "475",
+          "key": "ref101",
+          "first-page": "145",
+          "article-title": "A combination of systematic review and clinicians&apos; beliefs in interventions for subacromial pain",
+          "volume": "52",
+          "author": "K Johansson",
+          "year": "2002",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "key": "ref102",
+          "first-page": "CD007323",
+          "article-title": "Doxycycline for osteoarthritis of the knee or hip",
+          "volume": "11",
+          "author": "BR da Costa",
+          "year": "2012",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "11",
+          "key": "ref103",
+          "doi-asserted-by": "crossref",
+          "first-page": "1423",
+          "DOI": "10.1007/s00586-008-0783-x",
+          "article-title": "A systematic review of paracetamol for non-specific low back pain",
+          "volume": "17",
+          "author": "RA Davies",
+          "year": "2008",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "3",
+          "key": "ref104",
+          "first-page": "CD003470",
+          "article-title": "Pharmacotherapy for patellofemoral pain syndrome",
+          "author": "E Heintjes",
+          "year": "2004",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref105",
+          "doi-asserted-by": "crossref",
+          "first-page": "40",
+          "DOI": "10.1007/s00586-010-1541-4",
+          "article-title": "A systematic review on the effectiveness of pharmacological interventions for chronic non-specific low-back pain",
+          "volume": "20",
+          "author": "T Kuijpers",
+          "year": "2011",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "ref106",
+          "first-page": "CD004959",
+          "article-title": "Opioids compared to placebo or other treatments for chronic low-back pain",
+          "volume": "8",
+          "author": "LE Chaparro",
+          "year": "2013",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "3",
+          "key": "ref107",
+          "first-page": "CD004959",
+          "article-title": "Opioids for chronic low-back pain",
+          "author": "A Deshpande",
+          "year": "2007",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "2",
+          "key": "ref108",
+          "doi-asserted-by": "crossref",
+          "first-page": "116",
+          "DOI": "10.7326/0003-4819-146-2-200701160-00006",
+          "article-title": "Systematic review: opioid treatment for chronic back pain: prevalence, efficacy, and association with addiction",
+          "volume": "146",
+          "author": "BA Martell",
+          "year": "2007",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "issue": "4",
+          "key": "ref109",
+          "doi-asserted-by": "crossref",
+          "first-page": "25",
+          "DOI": "10.1080/00325481.2013.1110567111",
+          "article-title": "Topical therapies in the management of chronic pain",
+          "volume": "125",
+          "author": "SP Stanos",
+          "year": "2013",
+          "journal-title": "Postgrad Med"
+        },
+        {
+          "key": "ref110",
+          "doi-asserted-by": "crossref",
+          "first-page": "28",
+          "DOI": "10.1186/1471-2474-5-28",
+          "article-title": "Topical NSAIDs for chronic musculoskeletal pain: systematic review and meta-analysis",
+          "volume": "5",
+          "author": "L Mason",
+          "year": "2004",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "ref111",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.1186/1471-2296-5-10",
+          "article-title": "Topical NSAIDs for acute pain: a meta-analysis",
+          "volume": "5",
+          "author": "L Mason",
+          "year": "2004",
+          "journal-title": "BMC Fam Pract"
+        },
+        {
+          "key": "ref112",
+          "unstructured": "American Academy of Orthopaedic Surgeons (AAOS). Treatment of Osteoarthritis of the Knee: Evidence-Based Guideline. 2013."
+        },
+        {
+          "key": "ref113",
+          "unstructured": "Institute for Clinical Systems Improvement (ICSI). Assessment and Management of Chronic Pain. In. Bloomington,MN, US: ICSI; 2011."
+        },
+        {
+          "issue": "3",
+          "key": "ref114",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/14651858.CD001824.pub3",
+          "article-title": "Injection therapy for subacute and chronic low-back pain",
+          "volume": "3",
+          "author": "JB Staal",
+          "year": "2008",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "2",
+          "key": "ref115",
+          "first-page": "CD005328",
+          "article-title": "Intraarticular corticosteroid for treatment of osteoarthritis of the knee",
+          "author": "N Bellamy",
+          "year": "2006",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref116",
+          "first-page": "CD004016",
+          "article-title": "Corticosteroid injections for shoulder pain",
+          "author": "R Buchbinder",
+          "year": "2003",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "4",
+          "key": "ref117",
+          "first-page": "CD006189",
+          "article-title": "Oral steroids for adhesive capsulitis",
+          "author": "R Buchbinder",
+          "year": "2006",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref118",
+          "first-page": "CD008257",
+          "article-title": "Botulinum toxin injections for low-back pain and sciatica",
+          "author": "Z Waseem",
+          "year": "2011",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "512",
+          "key": "ref119",
+          "first-page": "224",
+          "article-title": "Corticosteroid injections for painful shoulder: a meta-analysis",
+          "volume": "55",
+          "author": "B Arroll",
+          "year": "2005",
+          "journal-title": "British Journal of General Practice"
+        },
+        {
+          "issue": "2",
+          "key": "ref120",
+          "doi-asserted-by": "crossref",
+          "first-page": "95",
+          "DOI": "10.1016/j.physio.2009.09.003",
+          "article-title": "The effectiveness of corticosteroid injections compared with physiotherapeutic interventions for adhesive capsulitis: A systematic review",
+          "volume": "96",
+          "author": "V Blanchard",
+          "year": "2010",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "issue": "1",
+          "key": "ref121",
+          "doi-asserted-by": "crossref",
+          "first-page": "64",
+          "DOI": "10.1016/j.spinee.2010.10.023",
+          "article-title": "An evidence-based clinical guideline for the diagnosis and treatment of cervical radiculopathy from degenerative disorders",
+          "volume": "11",
+          "author": "CM Bono",
+          "year": "2011",
+          "journal-title": "Spine Journal"
+        },
+        {
+          "issue": "4",
+          "key": "ref122",
+          "doi-asserted-by": "crossref",
+          "first-page": "E405",
+          "DOI": "10.36076/ppj.2012/15/E405",
+          "article-title": "Effectiveness of Cervical Epidural Injections in the Management of Chronic Neck and Upper Extremity Pain",
+          "volume": "15",
+          "author": "SA Diwan",
+          "year": "2012",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "issue": "7",
+          "key": "ref123",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/14651858.CD008626.pub2",
+          "article-title": "Botulinum toxin for subacute/chronic neck pain",
+          "author": "P Langevin",
+          "year": "2011",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "key": "ref124",
+          "doi-asserted-by": "crossref",
+          "first-page": "473",
+          "DOI": "10.2174/1874325001307010473",
+          "article-title": "Pharmacological Interventions Including Medical Injections for Neck Pain: An Overview as Part of the ICON Project",
+          "volume": "7",
+          "author": "PM Peloso",
+          "year": "2013",
+          "journal-title": "Open Orthop J"
+        },
+        {
+          "issue": "541",
+          "key": "ref125",
+          "first-page": "662",
+          "article-title": "Shoulder adhesive capsulitis: systematic review of randomised trials using multiple corticosteroid injections",
+          "volume": "57",
+          "author": "N Shah",
+          "year": "2007",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "issue": "4",
+          "key": "ref126",
+          "doi-asserted-by": "crossref",
+          "first-page": "E363",
+          "DOI": "10.36076/ppj.2012/15/E363",
+          "article-title": "The effectiveness of lumbar interlaminar epidural injections in managing chronic low back and lower extremity pain",
+          "volume": "15",
+          "author": "RM Benyamin",
+          "year": "2012",
+          "journal-title": "Pain Physician"
+        },
+        {
+          "issue": "3",
+          "key": "ref127",
+          "doi-asserted-by": "crossref",
+          "first-page": "175",
+          "DOI": "10.1097/AAP.0b013e31828ea086",
+          "article-title": "Epidural steroids: a comprehensive, evidence-based review",
+          "volume": "38",
+          "author": "SP Cohen",
+          "year": "2013",
+          "journal-title": "Regional anesthesia and pain medicine"
+        },
+        {
+          "key": "ref128",
+          "first-page": "CD005328",
+          "article-title": "Intra-articular corticosteroid for knee osteoarthritis",
+          "volume": "10",
+          "author": "P Juni",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref129",
+          "unstructured": "National Health and Medical Research Council (NHMRC). Guideline for the Non-surgical Management of Hip and Knee Osteoarthritis In: Guideline for the Non-surgical Management of Hip and Knee Osteoarthritis Edited by The Royal Australian College of General Practitioners; 2009."
+        },
+        {
+          "issue": "3",
+          "key": "ref130",
+          "first-page": "CD004020",
+          "article-title": "Braces and orthoses for treating osteoarthritis of the knee",
+          "author": "T Duivenvoorden",
+          "year": "2015",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref131",
+          "first-page": "CD002267",
+          "article-title": "Orthotic devices for treating patellofemoral pain syndrome",
+          "author": "N E D'Hondt",
+          "year": "2009",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref132",
+          "first-page": "CD008402",
+          "article-title": "Foot orthoses for patellofemoral pain in adults",
+          "author": "M Hossain",
+          "year": "2011",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "2",
+          "key": "ref133",
+          "doi-asserted-by": "crossref",
+          "first-page": "S39",
+          "DOI": "10.1016/j.jmpt.2008.11.009",
+          "article-title": "Methods for the best evidence synthesis on neck pain and its associated disorders: the Bone and Joint Decade 2000–2010 Task Force on Neck Pain and Its Associated Disorders",
+          "volume": "32",
+          "author": "LJ Carroll",
+          "year": "2009",
+          "journal-title": "J Manipulative Physiol Ther"
+        },
+        {
+          "issue": "1",
+          "key": "ref134",
+          "doi-asserted-by": "crossref",
+          "first-page": "73",
+          "DOI": "10.1002/art.23242",
+          "article-title": "Patellar taping and bracing for the treatment of chronic knee pain: a systematic review and meta-analysis",
+          "volume": "59",
+          "author": "SJ Warden",
+          "year": "2008",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "ref135",
+          "first-page": "CD010538",
+          "article-title": "Topical herbal therapies for treating osteoarthritis",
+          "volume": "5",
+          "author": "M Cameron",
+          "year": "2013",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "2",
+          "key": "ref136",
+          "first-page": "CD002046",
+          "article-title": "Low level laser therapy (Classes I, II and III) for treating osteoarthritis",
+          "author": "L Brosseau",
+          "year": "2003",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "4",
+          "key": "ref137",
+          "first-page": "CD004522",
+          "article-title": "Thermotherapy for treatment of osteoarthritis",
+          "author": "L Brosseau",
+          "year": "2003",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref138",
+          "first-page": "CD004750",
+          "article-title": "Superficial heat or cold for low back pain",
+          "author": "SD French",
+          "year": "2006",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref139",
+          "first-page": "CD001351",
+          "article-title": "Acupuncture and dry-needling for low back pain",
+          "author": "AD Furlan",
+          "year": "2005",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "2",
+          "key": "ref140",
+          "first-page": "CD005319",
+          "article-title": "Acupuncture for shoulder pain",
+          "author": "S Green",
+          "year": "2005",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "4",
+          "key": "ref141",
+          "first-page": "CD003008",
+          "article-title": "Transcutaneous electrical nerve stimulation (TENS) versus placebo for chronic low-back pain",
+          "author": "A Khadilkar",
+          "year": "2008",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref142",
+          "first-page": "CD004251",
+          "article-title": "Electrotherapy for neck pain",
+          "volume": "8",
+          "author": "P Kroeling",
+          "year": "2013",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref143",
+          "first-page": "CD001977",
+          "article-title": "Acupuncture for peripheral joint osteoarthritis",
+          "author": "E Manheimer",
+          "year": "2010",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "3",
+          "key": "ref144",
+          "first-page": "CD003222",
+          "article-title": "Transcutaneous electrical nerve stimulation (TENS) for chronic pain",
+          "author": "KE Nnoaham",
+          "year": "2008",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref145",
+          "first-page": "CD011324",
+          "article-title": "Electrotherapy modalities for adhesive capsulitis (frozen shoulder)",
+          "volume": "10",
+          "author": "MJ Page",
+          "year": "2014",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref146",
+          "first-page": "CD003132",
+          "article-title": "Therapeutic ultrasound for osteoarthritis of the knee or hip",
+          "author": "AW Rutjes",
+          "year": "2010",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "4",
+          "key": "ref147",
+          "first-page": "CD002823",
+          "article-title": "Transcutaneous electrostimulation for osteoarthritis of the knee",
+          "author": "AW Rutjes",
+          "year": "2009",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "5",
+          "key": "ref148",
+          "first-page": "CD004870",
+          "article-title": "Acupuncture for neck disorders",
+          "author": "K Trinh",
+          "year": "2016",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref149",
+          "doi-asserted-by": "crossref",
+          "first-page": "36",
+          "DOI": "10.1186/1749-799X-7-36",
+          "article-title": "The effectiveness of acupuncture in treating chronic non-specific low back pain: a systematic review of the literature",
+          "volume": "7",
+          "author": "AJ Hutchinson",
+          "year": "2012",
+          "journal-title": "J Orthop Surg Res"
+        },
+        {
+          "issue": "1–2",
+          "key": "ref150",
+          "doi-asserted-by": "crossref",
+          "first-page": "157",
+          "DOI": "10.1016/j.pain.2007.02.007",
+          "article-title": "Efficacy of electrical nerve stimulation for chronic musculoskeletal pain: a meta-analysis of randomized controlled trials",
+          "volume": "130",
+          "author": "M Johnson",
+          "year": "2007",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "10",
+          "key": "ref151",
+          "doi-asserted-by": "crossref",
+          "first-page": "2493",
+          "DOI": "10.1007/s00296-013-2742-z",
+          "article-title": "Is low-level laser therapy in relieving neck pain effective? Systematic review and meta-analysis",
+          "volume": "33",
+          "author": "A Kadhim-Saleh",
+          "year": "2013",
+          "journal-title": "Rheumatol Int"
+        },
+        {
+          "issue": "24",
+          "key": "ref152",
+          "doi-asserted-by": "crossref",
+          "first-page": "2124",
+          "DOI": "10.1097/01.brs.0000435025.65564.b7",
+          "article-title": "Effectiveness of acupuncture for nonspecific chronic low back pain: a systematic review and meta-analysis",
+          "volume": "38",
+          "author": "M Lam",
+          "year": "2013",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "issue": "11",
+          "key": "ref153",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.3310/hta16110",
+          "article-title": "Management of frozen shoulder: a systematic review and cost-effectiveness analysis",
+          "volume": "16",
+          "author": "E Maund",
+          "year": "2012",
+          "journal-title": "Health Technol Assess"
+        },
+        {
+          "key": "ref154",
+          "doi-asserted-by": "crossref",
+          "first-page": "129",
+          "DOI": "10.1186/1471-2474-14-129",
+          "article-title": "Osteopathic intervention in chronic non-specific low back pain: a systematic review",
+          "volume": "14",
+          "author": "PJ Orrock",
+          "year": "2013",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "issue": "2",
+          "key": "ref155",
+          "doi-asserted-by": "crossref",
+          "first-page": "167",
+          "DOI": "10.1007/s10067-012-2116-z",
+          "article-title": "Well-being outcomes of chiropractic intervention for lower back pain: a systematic review",
+          "volume": "32",
+          "author": "L Parkinson",
+          "year": "2013",
+          "journal-title": "Clin Rheumatol"
+        },
+        {
+          "issue": "9",
+          "key": "ref156",
+          "doi-asserted-by": "crossref",
+          "first-page": "1257",
+          "DOI": "10.1007/s10067-011-1764-8",
+          "article-title": "Yoga for low back pain: a systematic review of randomized clinical trials",
+          "volume": "30",
+          "author": "P Posadzki",
+          "year": "2011",
+          "journal-title": "Clin Rheumatol"
+        },
+        {
+          "issue": "7",
+          "key": "ref157",
+          "doi-asserted-by": "crossref",
+          "first-page": "1339",
+          "DOI": "10.1093/ptj/81.7.1339",
+          "article-title": "A review of therapeutic ultrasound: effectiveness studies",
+          "volume": "81",
+          "author": "VJ Robertson",
+          "year": "2001",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "issue": "19",
+          "key": "ref158",
+          "doi-asserted-by": "crossref",
+          "first-page": "1444",
+          "DOI": "10.1001/archinternmed.2012.3654",
+          "article-title": "Acupuncture for chronic pain: individual patient data meta-analysis",
+          "volume": "172",
+          "author": "AJ Vickers",
+          "year": "2012",
+          "journal-title": "Arch Intern Med"
+        },
+        {
+          "issue": "1",
+          "key": "ref159",
+          "doi-asserted-by": "crossref",
+          "first-page": "7",
+          "DOI": "10.1007/s10926-005-9003-2",
+          "article-title": "Treatment of impingement syndrome: a systematic review of the effects on functional limitations and return to work",
+          "volume": "16",
+          "author": "E Faber",
+          "year": "2006",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "issue": "2",
+          "key": "ref160",
+          "doi-asserted-by": "crossref",
+          "first-page": "173",
+          "DOI": "10.1212/WNL.0b013e3181c918fc",
+          "article-title": "Assessment: efficacy of transcutaneous electric nerve stimulation in the treatment of pain in neurologic disorders (an evidence-based review): report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology",
+          "volume": "74",
+          "author": "RM Dubinsky",
+          "year": "2010",
+          "journal-title": "Neurology"
+        },
+        {
+          "issue": "1",
+          "key": "ref161",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.1007/s00586-010-1518-3",
+          "article-title": "A systematic review on the effectiveness of physical and rehabilitation interventions for chronic non-specific low back pain",
+          "volume": "20",
+          "author": "M van Middelkoop",
+          "year": "2011",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "issue": "10",
+          "key": "ref162",
+          "doi-asserted-by": "crossref",
+          "first-page": "966",
+          "DOI": "10.1016/j.spinee.2011.02.002",
+          "article-title": "The efficacy, safety, effectiveness, and cost-effectiveness of ultrasound and shock wave therapies for low back pain: a systematic review",
+          "volume": "11",
+          "author": "J Seco",
+          "year": "2011",
+          "journal-title": "Spine J"
+        },
+        {
+          "issue": "12",
+          "key": "ref163",
+          "doi-asserted-by": "crossref",
+          "first-page": "2075",
+          "DOI": "10.1007/s00586-010-1502-y",
+          "article-title": "An updated overview of clinical guidelines for the management of non-specific low back pain in primary care",
+          "volume": "19",
+          "author": "BW Koes",
+          "year": "2010",
+          "journal-title": "European Spine Journal"
+        },
+        {
+          "issue": "7",
+          "key": "ref164",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/14651858.CD002014.pub3",
+          "article-title": "Behavioural treatment for chronic low-back pain",
+          "author": "N Henschke",
+          "year": "2010",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "key": "ref165",
+          "first-page": "CD000963",
+          "article-title": "Multidisciplinary biopsychosocial rehabilitation for chronic low back pain",
+          "volume": "9",
+          "author": "SJ Kamper",
+          "year": "2014",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "2",
+          "key": "ref166",
+          "first-page": "CD002194",
+          "article-title": "Multidisciplinary biopsychosocial rehabilitation for neck and shoulder pain among working age adults",
+          "author": "K Karjalainen",
+          "year": "2003",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "2",
+          "key": "ref167",
+          "first-page": "CD002193",
+          "article-title": "Multidisciplinary biopsychosocial rehabilitation for subacute low back pain among working age adults",
+          "author": "K Karjalainen",
+          "year": "2003",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref168",
+          "first-page": "CD002014",
+          "article-title": "Behavioural treatment for chronic low-back pain",
+          "author": "RW Ostelo",
+          "year": "2005",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref169",
+          "doi-asserted-by": "crossref",
+          "first-page": "4",
+          "DOI": "10.1002/pri.465",
+          "article-title": "Physiotherapy-provided operant conditioning in the management of low back pain disability: A systematic review",
+          "volume": "16",
+          "author": "S Bunzli",
+          "year": "2011",
+          "journal-title": "Physiother Res Int"
+        },
+        {
+          "issue": "3",
+          "key": "ref170",
+          "doi-asserted-by": "crossref",
+          "first-page": "241",
+          "DOI": "10.1037/0278-6133.26.3.241",
+          "article-title": "Psychological interventions for arthritis pain management in adults: a meta-analysis",
+          "volume": "26",
+          "author": "KE Dixon",
+          "year": "2007",
+          "journal-title": "Health Psychol"
+        },
+        {
+          "issue": "1",
+          "key": "ref171",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1037/0278-6133.26.1.1",
+          "article-title": "Meta-analysis of psychological interventions for chronic low back pain",
+          "volume": "26",
+          "author": "BM Hoffman",
+          "year": "2007",
+          "journal-title": "Health Psychol"
+        },
+        {
+          "issue": "8",
+          "key": "ref172",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0134192",
+          "article-title": "The Effectiveness of Cognitive Behavioural Treatment for Non-Specific Low Back Pain: A Systematic Review and Meta-Analysis",
+          "volume": "10",
+          "author": "H Richmond",
+          "year": "2015",
+          "journal-title": "Plos One"
+        },
+        {
+          "key": "ref173",
+          "first-page": "371",
+          "article-title": "Assessing the role of cognitive behavioral therapy in the management of chronic nonspecific back pain",
+          "volume": "5",
+          "author": "V Sveinsdottir",
+          "year": "2012",
+          "journal-title": "J Pain Res"
+        },
+        {
+          "issue": "01",
+          "key": "ref174",
+          "doi-asserted-by": "crossref",
+          "first-page": "80",
+          "DOI": "10.1017/S0266462307051604",
+          "article-title": "Cost-effectiveness of an education and activation program for patients with acute and subacute shoulder complaints compared to usual care",
+          "volume": "23",
+          "author": "C De Bruijn",
+          "year": "2007",
+          "journal-title": "International journal of technology assessment in health care"
+        },
+        {
+          "issue": "2",
+          "key": "ref175",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.1016/S0004-9514(05)70037-4",
+          "article-title": "Effectiveness of a graded exercise therapy program for patients with chronic shoulder complaints",
+          "volume": "51",
+          "author": "JJ Geraets",
+          "year": "2005",
+          "journal-title": "Aust J Physiother"
+        },
+        {
+          "issue": "1",
+          "key": "ref176",
+          "first-page": "CD007005",
+          "article-title": "Arthrographic distension for adhesive capsulitis (frozen shoulder)",
+          "author": "R Buchbinder",
+          "year": "2008",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref177",
+          "first-page": "CD005619",
+          "article-title": "Surgery for rotator cuff disease",
+          "author": "JA Coghlan",
+          "year": "2008",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "4",
+          "key": "ref178",
+          "first-page": "CD001352",
+          "article-title": "Surgery for degenerative lumbar spondylosis",
+          "author": "JN Gibson",
+          "year": "2005",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "2",
+          "key": "ref179",
+          "first-page": "CD001350",
+          "article-title": "Surgical interventions for lumbar disc prolapse",
+          "author": "JN Gibson",
+          "year": "2007",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "ref180",
+          "first-page": "CD008326",
+          "article-title": "Total disc replacement for chronic back pain in the presence of disc degeneration",
+          "volume": "9",
+          "author": "W Jacobs",
+          "year": "2012",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "1",
+          "key": "ref181",
+          "first-page": "CD001466",
+          "article-title": "Surgery for cervical radiculopathy or myelopathy",
+          "author": "I Nikolaidis",
+          "year": "2010",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "5",
+          "key": "ref182",
+          "first-page": "CD007320",
+          "article-title": "Joint lavage for osteoarthritis of the knee",
+          "author": "S Reichenbach",
+          "year": "2010",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "10",
+          "key": "ref183",
+          "first-page": "CD008089",
+          "article-title": "Surgery for shoulder osteoarthritis",
+          "author": "JA Singh",
+          "year": "2010",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "8",
+          "key": "ref184",
+          "first-page": "CD007429",
+          "article-title": "Surgical versus conservative interventions for treating acromioclavicular dislocation of the shoulder in adults",
+          "author": "MJ Tamaoki",
+          "year": "2010",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "issue": "4",
+          "key": "ref185",
+          "doi-asserted-by": "crossref",
+          "first-page": "652",
+          "DOI": "10.1016/j.jse.2009.01.010",
+          "article-title": "Conservative or surgical treatment for subacromial impingement syndrome? A systematic review.",
+          "volume": "18",
+          "author": "O Dorrestijn",
+          "year": "2009",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "issue": "11",
+          "key": "ref186",
+          "doi-asserted-by": "crossref",
+          "first-page": "1900",
+          "DOI": "10.1016/j.apmr.2011.06.006",
+          "article-title": "Effectiveness of surgical and postsurgical interventions for the subacromial impingement syndrome: a systematic review",
+          "volume": "92",
+          "author": "L Gebremariam",
+          "year": "2011",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "issue": "8",
+          "key": "ref187",
+          "doi-asserted-by": "crossref",
+          "first-page": "1135",
+          "DOI": "10.1016/j.jse.2013.01.010",
+          "article-title": "Comparison of manipulation and arthroscopic capsular release for adhesive capsulitis: a systematic review",
+          "volume": "22",
+          "author": "JA Grant",
+          "year": "2013",
+          "journal-title": "J Shoulder Elbow Surg"
+        },
+        {
+          "issue": "3",
+          "key": "ref188",
+          "doi-asserted-by": "crossref",
+          "first-page": "217",
+          "DOI": "10.1016/j.math.2010.10.012",
+          "article-title": "Current evidence for effectiveness of interventions to treat rotator cuff tears",
+          "volume": "16",
+          "author": "BM Huisstede",
+          "year": "2011",
+          "journal-title": "Man Ther"
+        },
+        {
+          "issue": "1",
+          "key": "ref189",
+          "doi-asserted-by": "crossref",
+          "first-page": "142",
+          "DOI": "10.1007/s00167-012-2340-8",
+          "article-title": "Meta-analysis comparing bioabsorbable versus metal interference screw for adverse and clinical outcomes in anterior cruciate ligament reconstruction",
+          "volume": "22",
+          "author": "P Laupattarakasem",
+          "year": "2014",
+          "journal-title": "Knee Surg Sports Traumatol Arthrosc"
+        },
+        {
+          "key": "ref190",
+          "doi-asserted-by": "crossref",
+          "first-page": "418086",
+          "DOI": "10.1155/2012/418086",
+          "article-title": "Tissue engineering for rotator cuff repair: an evidence-based systematic review",
+          "volume": "2012",
+          "author": "N Maffulli",
+          "year": "2012",
+          "journal-title": "Stem Cells Int"
+        },
+        {
+          "issue": "9",
+          "key": "ref191",
+          "doi-asserted-by": "crossref",
+          "first-page": "1275",
+          "DOI": "10.1016/j.arthro.2011.03.088",
+          "article-title": "Meniscal repair versus partial meniscectomy: a systematic review comparing reoperation rates and clinical outcomes",
+          "volume": "27",
+          "author": "ES Paxton",
+          "year": "2011",
+          "journal-title": "Arthroscopy"
+        },
+        {
+          "key": "ref192",
+          "unstructured": "Organisation for Economic Co-operation and Development (OECD). Health at a Glance 2013: OECD Indicators. OECD Publishing 2013. <ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://www.oecd.org/els/health-systems/Health-at-a-Glance-2013.pdf\" xlink:type=\"simple\">https://www.oecd.org/els/health-systems/Health-at-a-Glance-2013.pdf</ext-link>. Accessed 20th June 2016."
+        }
+      ],
+      "container-title": [
+        "PLOS ONE"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://dx.plos.org/10.1371/journal.pone.0178621",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            24
+          ]
+        ],
+        "date-time": "2024-06-24T22:51:13Z",
+        "timestamp": 1719269473000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://dx.plos.org/10.1371/journal.pone.0178621"
+        }
+      },
+      "subtitle": [],
+      "editor": [
+        {
+          "given": "Johannes",
+          "family": "Fleckenstein",
+          "sequence": "first",
+          "affiliation": []
+        }
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            6,
+            22
+          ]
+        ]
+      },
+      "references-count": 192,
+      "journal-issue": {
+        "issue": "6",
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              6,
+              22
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1371/journal.pone.0178621",
+      "relation": {},
+      "ISSN": [
+        "1932-6203"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1932-6203"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            6,
+            22
+          ]
+        ]
+      }
+    }
+  }
+}

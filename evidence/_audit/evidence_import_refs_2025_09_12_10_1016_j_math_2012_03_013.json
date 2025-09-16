@@ -1,0 +1,626 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_math_2012_03_013.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_math_2012_03_013",
+  "doi": "10.1016/j.math.2012.03.013",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:53.035030Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            3
+          ]
+        ],
+        "date-time": "2025-09-03T11:08:42Z",
+        "timestamp": 1756897722574,
+        "version": "3.37.3"
+      },
+      "reference-count": 41,
+      "publisher": "Elsevier BV",
+      "issue": "4",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2012-08-01T00:00:00Z",
+            "timestamp": 1343779200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100010414",
+          "name": "Health Research Board",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "CTPF-06-17"
+          ],
+          "id": [
+            {
+              "id": "10.13039/100010414",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Manual Therapy"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2012,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.math.2012.03.013",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2012,
+            4,
+            23
+          ]
+        ],
+        "date-time": "2012-04-23T16:45:20Z",
+        "timestamp": 1335199520000
+      },
+      "page": "336-344",
+      "source": "Crossref",
+      "is-referenced-by-count": 156,
+      "title": [
+        "Mechanisms-based classifications of musculoskeletal pain: Part 1 of 3: Symptoms and signs of central sensitisation in patients with low back (±leg) pain"
+      ],
+      "prefix": "10.1016",
+      "volume": "17",
+      "author": [
+        {
+          "given": "Keith M.",
+          "family": "Smart",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Catherine",
+          "family": "Blake",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Anthony",
+          "family": "Staines",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Mick",
+          "family": "Thacker",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Catherine",
+          "family": "Doody",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.math.2012.03.013_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "953",
+          "DOI": "10.1093/ije/dyi105",
+          "article-title": "Consequences of different diagnostic ‘gold standards’ in test accuracy research. Carpal tunnel syndrome as an example",
+          "volume": "34",
+          "author": "Bachman",
+          "year": "2005",
+          "journal-title": "International Journal of Epidemiology"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "147",
+          "DOI": "10.1016/S0304-3959(00)00482-6",
+          "article-title": "The LANSS pain scale: the Leeds assessment of neuropathic symptoms and signs",
+          "volume": "92",
+          "author": "Bennett",
+          "year": "2001",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "7",
+          "DOI": "10.1373/49.1.7",
+          "article-title": "The STARD statement for reporting studies of diagnostic accuracy: explanation and elaboration",
+          "volume": "49",
+          "author": "Bossuyt",
+          "year": "2003",
+          "journal-title": "Clinical Chemistry"
+        },
+        {
+          "year": "2000",
+          "series-title": "The sensitive nervous system",
+          "author": "Butler",
+          "key": "10.1016/j.math.2012.03.013_bib4"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib5",
+          "series-title": "Fibromyalgia and other central pain syndromes",
+          "first-page": "9",
+          "article-title": "The taxonomy of chronic pain: moving toward more mechanistic classifications",
+          "author": "Clauw",
+          "year": "2005"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib6",
+          "series-title": "Pain 2008. An updated course review. Refresher course syllabus",
+          "first-page": "49",
+          "article-title": "Clinical applications of basic mechanisms of musculoskeletal pain",
+          "author": "Curatolo",
+          "year": "2008"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "8",
+          "DOI": "10.1016/j.mpaic.2007.10.006",
+          "article-title": "The neurobiology of chronic pain states",
+          "volume": "9",
+          "author": "Dickenson",
+          "year": "2007",
+          "journal-title": "Anaesthesia and Intensive Care Medicine"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1911",
+          "DOI": "10.1185/030079906X132488",
+          "article-title": "Pain DETECT: a new screening questionnaire to identify neuropathic components in patients with back pain",
+          "volume": "22",
+          "author": "Freynhagen",
+          "year": "2006",
+          "journal-title": "Current Medical Research and Opinion"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "613",
+          "DOI": "10.1002/art.20063",
+          "article-title": "Evidence of augmented central pain processing in idiopathic chronic low back pain",
+          "volume": "50",
+          "author": "Giesecke",
+          "year": "2004",
+          "journal-title": "Arthritis and Rheumatism"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib10",
+          "first-page": "382",
+          "article-title": "Bayesian model averaging: a tutorial",
+          "volume": "14",
+          "author": "Hoeting",
+          "year": "1999",
+          "journal-title": "Statistical Science"
+        },
+        {
+          "year": "2000",
+          "series-title": "Applied logistic regression",
+          "author": "Hosmer",
+          "key": "10.1016/j.math.2012.03.013_bib11"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "703",
+          "DOI": "10.1001/jama.1994.03510330081039",
+          "article-title": "Users’ guide to the medical literature. III. How to use an article about a diagnostic test. B. What are the results and will they help me in caring for my patients",
+          "volume": "271",
+          "author": "Jaeschke",
+          "year": "1994",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "514",
+          "DOI": "10.1016/j.ejpain.2009.09.002",
+          "article-title": "Low back pain may be caused by disturbed pain regulation. A cross-sectional study in low back pain patients using tender point examination",
+          "volume": "14",
+          "author": "Jensen",
+          "year": "2010",
+          "journal-title": "European Journal of Pain"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "855",
+          "DOI": "10.1111/j.1541-0420.2009.01330.x",
+          "article-title": "Identifiability of models for multiple diagnostic testing in the absence of a gold standard",
+          "volume": "66",
+          "author": "Jones",
+          "year": "2010",
+          "journal-title": "Biometrics"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "369",
+          "DOI": "10.1002/1097-0274(200010)38:4<369::AID-AJIM1>3.0.CO;2-Y",
+          "article-title": "Classification criteria and severity assessment in work-associated upper extremity disorders: methods matter",
+          "volume": "38",
+          "author": "Katz",
+          "year": "2000",
+          "journal-title": "American Journal of Industrial Medicine"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "895",
+          "DOI": "10.1016/j.jpain.2009.06.012",
+          "article-title": "Central sensitization: a generator of pain hypersensitivity by central neural plasticity",
+          "volume": "10",
+          "author": "Latremoliere",
+          "year": "2009",
+          "journal-title": "Journal of Pain"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.1155/2002/310974",
+          "article-title": "Central hyperexcitability in chronic musculoskeletal pain: a conceptual breakthrough with multiple clinical implications",
+          "volume": "7",
+          "author": "Lidbeck",
+          "year": "2002",
+          "journal-title": "Pain Research Management"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "1372",
+          "DOI": "10.1097/BRS.0b013e3181734a8a",
+          "article-title": "Differences in low back pain behaviour are reflected in the cerebral response to tactile stimulation of the lower back",
+          "volume": "33",
+          "author": "Lloyd",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "1546",
+          "DOI": "10.3899/jrheum.100759",
+          "article-title": "Pain mechanisms in osteoarthritis: understanding the role of central pain and current approaches to its treatment",
+          "volume": "38",
+          "author": "Mease",
+          "year": "2011",
+          "journal-title": "The Journal of Rheumatology"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "245",
+          "DOI": "10.1093/pan/mpq001",
+          "article-title": "Bayesian model averaging: theoretical developments and practical applications",
+          "volume": "18",
+          "author": "Montgomery",
+          "year": "2010",
+          "journal-title": "Political Analysis"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "297",
+          "DOI": "10.1016/S0004-9514(14)60169-0",
+          "article-title": "Combined physiotherapy and education is effective for chronic low back pain. A randomized controlled trial",
+          "volume": "48",
+          "author": "Moseley",
+          "year": "2002",
+          "journal-title": "Australian Journal of Physiotherapy"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "324",
+          "DOI": "10.1097/00002508-200409000-00007",
+          "article-title": "A randomized controlled trial of intensive neurophysiology education in chronic low back pain",
+          "volume": "20",
+          "author": "Moseley",
+          "year": "2004",
+          "journal-title": "Clinical Journal of Pain"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "56",
+          "DOI": "10.1186/1471-2288-9-56",
+          "article-title": "Bias in odds ratios by logistic regression modelling and sample size",
+          "volume": "9",
+          "author": "Nemes",
+          "year": "2009",
+          "journal-title": "BMC Medical Research Methodology"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "226",
+          "DOI": "10.1016/j.brainresrev.2008.12.014",
+          "article-title": "Forebrain pain mechanisms",
+          "volume": "60",
+          "author": "Neugebauer",
+          "year": "2009",
+          "journal-title": "Brain Research Reviews"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "135",
+          "DOI": "10.1016/j.math.2009.12.001",
+          "article-title": "Recognition of central sensitisation in patients with musculoskeletal pain: application of pain neurophysiology in manual therapy practice",
+          "volume": "15",
+          "author": "Nijs",
+          "year": "2010",
+          "journal-title": "Manual Therapy"
+        },
+        {
+          "article-title": "Neuromusculoskeletal examination and assessment",
+          "year": "2001",
+          "author": "Petty",
+          "key": "10.1016/j.math.2012.03.013_bib26"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "120",
+          "DOI": "10.1111/j.1445-5994.2007.01436.x",
+          "article-title": "Cautionary tales in the clinical interpretation of studies of diagnostic tests",
+          "volume": "38",
+          "author": "Scott",
+          "year": "2008",
+          "journal-title": "Internal Medicine Journal"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1179/174328808X251984",
+          "article-title": "Towards a mechanisms-based classification of pain in musculoskeletal physiotherapy?",
+          "volume": "13",
+          "author": "Smart",
+          "year": "2008",
+          "journal-title": "Physical Therapy Reviews"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "80",
+          "DOI": "10.1016/j.math.2009.07.005",
+          "article-title": "Clinical indicators of ‘nociceptive’, ‘peripheral neuropathic’ and ‘central’ mechanisms of musculoskeletal pain. A Delphi survey of expert clinicians",
+          "volume": "15",
+          "author": "Smart",
+          "year": "2010",
+          "journal-title": "Manual Therapy"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "655",
+          "DOI": "10.1097/AJP.0b013e318215f16a",
+          "article-title": "The discriminative validity of ‘nociceptive’, ‘peripheral neuropathic’ and ‘central sensitisation’ as mechanisms-based classifications of musculoskeletal pain",
+          "volume": "27",
+          "author": "Smart",
+          "year": "2011",
+          "journal-title": "Clinical Journal of Pain"
+        },
+        {
+          "year": "2003",
+          "series-title": "Health measurement scales: a practical guide to their development and use",
+          "author": "Streiner",
+          "key": "10.1016/j.math.2012.03.013_bib31"
+        },
+        {
+          "year": "2007",
+          "series-title": "Using multivariate statistics",
+          "author": "Tabachnick",
+          "key": "10.1016/j.math.2012.03.013_bib32"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "43",
+          "DOI": "10.1682/JRRD.2009.12.0206",
+          "article-title": "Pain neurophysiology education improves cognitions, pain thresholds, and movement performance in people with chronic whiplash. A pilot study",
+          "volume": "48",
+          "author": "Van Oosterwijck",
+          "year": "2011",
+          "journal-title": "Journal of Rehabilitation Research and Development"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib34",
+          "series-title": "Pain: A textbook for therapists",
+          "first-page": "327",
+          "article-title": "Musculoskeletal pain",
+          "author": "Vicenzino",
+          "year": "2002"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "117",
+          "DOI": "10.1097/00007632-198003000-00005",
+          "article-title": "Nonorganic physical signs in low back pain",
+          "volume": "5",
+          "author": "Waddell",
+          "year": "1980",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1016/j.math.2010.06.008",
+          "article-title": "Cortical changes in chronic low back pain: current state of the art and implications for clinical practice",
+          "volume": "16",
+          "author": "Wand",
+          "year": "2011",
+          "journal-title": "Manual Therapy"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "3451",
+          "DOI": "10.1002/sim.1930",
+          "article-title": "Comparison of Bayesian model averaging and stepwise methods for model selection in logistic regression",
+          "volume": "23",
+          "author": "Wang",
+          "year": "2004",
+          "journal-title": "Statistics in Medicine"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "441",
+          "DOI": "10.7326/0003-4819-140-8-200404200-00010",
+          "article-title": "Pain: moving from symptom control toward mechanism-specific pharmacologic management",
+          "volume": "140",
+          "author": "Woolf",
+          "year": "2004",
+          "journal-title": "Annals of Internal Medicine"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "S2",
+          "DOI": "10.1016/j.pain.2010.09.030",
+          "article-title": "Central sensitization: implications for the diagnosis and treatment of pain",
+          "volume": "152",
+          "author": "Woolf",
+          "year": "2011",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib40",
+          "series-title": "Textbook of pain",
+          "first-page": "91",
+          "article-title": "Plasticity and pain: role of the dorsal horn",
+          "author": "Woolf",
+          "year": "2006"
+        },
+        {
+          "key": "10.1016/j.math.2012.03.013_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "80",
+          "DOI": "10.1054/math.2002.0442",
+          "article-title": "Forebrain-mediated sensitisation of central pain pathways: non-specific pain and a new image for manual therapy",
+          "volume": "7",
+          "author": "Zusman",
+          "year": "2002",
+          "journal-title": "Manual Therapy"
+        }
+      ],
+      "container-title": [
+        "Manual Therapy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1356689X12000811?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1356689X12000811?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            7,
+            10
+          ]
+        ],
+        "date-time": "2022-07-10T15:23:43Z",
+        "timestamp": 1657466623000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1356689X12000811"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2012,
+            8
+          ]
+        ]
+      },
+      "references-count": 41,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2012,
+              8
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1356689X12000811"
+      ],
+      "URL": "https://doi.org/10.1016/j.math.2012.03.013",
+      "relation": {},
+      "ISSN": [
+        "1356-689X"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1356-689X"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2012,
+            8
+          ]
+        ]
+      }
+    }
+  }
+}

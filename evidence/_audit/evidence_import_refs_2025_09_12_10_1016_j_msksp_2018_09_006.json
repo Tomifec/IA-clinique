@@ -1,0 +1,987 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_msksp_2018_09_006.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_msksp_2018_09_006",
+  "doi": "10.1016/j.msksp.2018.09.006",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:54.761818Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T12:22:09Z",
+        "timestamp": 1757679729086
+      },
+      "reference-count": 64,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2018-12-01T00:00:00Z",
+            "timestamp": 1543622400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2018-12-01T00:00:00Z",
+            "timestamp": 1543622400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2018-12-01T00:00:00Z",
+            "timestamp": 1543622400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2018-12-01T00:00:00Z",
+            "timestamp": 1543622400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2018-12-01T00:00:00Z",
+            "timestamp": 1543622400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2018-12-01T00:00:00Z",
+            "timestamp": 1543622400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2018-12-01T00:00:00Z",
+            "timestamp": 1543622400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "clinicalkey.com.au",
+          "clinicalkey.es",
+          "clinicalkey.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.msksp.2018.09.006",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            9,
+            18
+          ]
+        ],
+        "date-time": "2018-09-18T06:17:23Z",
+        "timestamp": 1537251443000
+      },
+      "page": "53-62",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 29,
+      "special_numbering": "C",
+      "title": [
+        "Centralization and directional preference: An updated systematic review with synthesis of previous evidence"
+      ],
+      "prefix": "10.1016",
+      "volume": "38",
+      "author": [
+        {
+          "given": "Stephen",
+          "family": "May",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Nils",
+          "family": "Runge",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alessandro",
+          "family": "Aina",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "134",
+          "DOI": "10.1016/j.math.2004.03.004",
+          "article-title": "The centralization phenomenon of spinal symptoms - a systematic review",
+          "volume": "9",
+          "author": "Aina",
+          "year": "2004",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "630",
+          "DOI": "10.1007/s00586-011-2018-9",
+          "article-title": "Centralization in patients with sciatica: are pain responses to repeated movement and positioning associated with outcome or types of disc lesions?",
+          "volume": "21",
+          "author": "Albert",
+          "year": "2011",
+          "journal-title": "Eur. Spine J."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "531",
+          "DOI": "10.1097/BRS.0b013e31821ace7f",
+          "article-title": "The efficacy of systematic active conservative treatment for patients with severe sciatica. A single-blind, randomized, clinical controlled trial",
+          "volume": "37",
+          "author": "Albert",
+          "year": "2012",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib4",
+          "first-page": "4",
+          "article-title": "Effectiveness of McKenzie interventions in chronic low back pain: a comparison based on centralization phenomenon utilizing selected bio-behavioral and physical measures",
+          "volume": "1",
+          "author": "Al-Obaidi",
+          "year": "2013",
+          "journal-title": "Int. J. Phys. Med. Rehab."
+        },
+        {
+          "year": "1991",
+          "series-title": "Practical Statistics for Medical Research",
+          "author": "Altman",
+          "key": "10.1016/j.msksp.2018.09.006_bib5"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib6",
+          "doi-asserted-by": "crossref",
+          "first-page": "258",
+          "DOI": "10.2519/jospt.2016.6158",
+          "article-title": "The influence of centralization and directional preference on spinal control in patients with nonspecific low back pain",
+          "volume": "46",
+          "author": "Apeldoorn",
+          "year": "2016",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "51",
+          "DOI": "10.1016/S1779-0123(11)75100-2",
+          "article-title": "Short-term effects of a treatment according to the directional preference of low back pain patients. A randomized clinical trial",
+          "volume": "112",
+          "author": "Bonnet",
+          "year": "2011",
+          "journal-title": "Kinesitherapie Revue"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib8",
+          "doi-asserted-by": "crossref",
+          "first-page": "2686",
+          "DOI": "10.1097/BRS.0b013e3181b43a41",
+          "article-title": "The prognostic value of symptom responses in the conservative treatment of spinal pain. A systematic review",
+          "volume": "34",
+          "author": "Chorti",
+          "year": "2009",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "216",
+          "DOI": "10.1093/ptj/73.4.216",
+          "article-title": "Evidence for use of an extension-mobilization category in acute low back syndrome: a prescriptive validation pilot study",
+          "volume": "73",
+          "author": "Delitto",
+          "year": "1993",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "559",
+          "DOI": "10.1111/papr.12000",
+          "article-title": "Directional preference following epidural steroid injection in three patients with acute cervical radiculopathy",
+          "volume": "13",
+          "author": "Desai",
+          "year": "2012",
+          "journal-title": "Pain Pract."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib11",
+          "doi-asserted-by": "crossref",
+          "first-page": "68",
+          "DOI": "10.2519/jospt.2014.4632",
+          "article-title": "Association between centralization and directional preference and functional and pain outcomes in patients with neck pain",
+          "volume": "44",
+          "author": "Edmond",
+          "year": "2014",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "74",
+          "DOI": "10.1179/2042618614Y.0000000101",
+          "article-title": "Utilization of mechanical diagnosis and therapy (MDT) for the treatment of lumbar in the presence of known lumbar transverse process fractures: a case study",
+          "volume": "24",
+          "author": "Elenburg",
+          "year": "2016",
+          "journal-title": "J. Man. Manip. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "201",
+          "DOI": "10.1016/j.math.2016.10.002",
+          "article-title": "Classification characteristics of a chronic low back pain population using a combined McKenzie and patho-anatomical assessment",
+          "volume": "26",
+          "author": "Flavell",
+          "year": "2016",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "e1957",
+          "DOI": "10.7205/MILMED-D-17-00032",
+          "article-title": "Effectiveness of directional preference to guide management of low back pain in Canadian armed forces members: a pragmatic study",
+          "volume": "182",
+          "author": "Franz",
+          "year": "2017",
+          "journal-title": "Mil. Med."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib15",
+          "doi-asserted-by": "crossref",
+          "first-page": "729",
+          "DOI": "10.2522/ptj.20120414",
+          "article-title": "Effectiveness of back school versus McKenzie exercises in patients with chronic nonspecific low back pain: a randomized controlled trial",
+          "volume": "93",
+          "author": "Garcia",
+          "year": "2013",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "623",
+          "DOI": "10.2522/ptj.20150295",
+          "article-title": "Identifying patients with chronic low back pain who respond best to Mechanical Diagnosis and Therapy: secondary analysis of a randomized controlled trial",
+          "volume": "96",
+          "author": "Garcia",
+          "year": "2016",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "i3507",
+          "DOI": "10.1136/bmj.i3507",
+          "article-title": "When and how to update systematic reviews: consensus and checklist",
+          "volume": "354",
+          "author": "Garner",
+          "year": "2016",
+          "journal-title": "Br. Med. J."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "23",
+          "DOI": "10.1071/HC14023",
+          "article-title": "Prognostic factors associated with low back pain outcomes",
+          "volume": "6",
+          "author": "Gregg",
+          "year": "2014",
+          "journal-title": "J. Prim. Health Care"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib19",
+          "doi-asserted-by": "crossref",
+          "first-page": "514",
+          "DOI": "10.2519/jospt.2016.6379",
+          "article-title": "A randomized controlled trial comparing the McKenzie Method to motor control exercises in people with chronic low back pain and a directional preference",
+          "volume": "46",
+          "author": "Halliday",
+          "year": "2016",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "133",
+          "DOI": "10.1055/s-0034-1375671",
+          "article-title": "Change in the muscle tension of erector spinae after the application of the McKenzie Method in patients with chronic low back pain",
+          "volume": "24",
+          "author": "Hagovska",
+          "year": "2014",
+          "journal-title": "Phys. Med. Rehab. Kuror."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib100",
+          "doi-asserted-by": "crossref",
+          "first-page": "237",
+          "DOI": "10.1016/j.physio.2009.10.001",
+          "article-title": "The EQUATOR network and the PRISMA statement for the reporting of systematic reviews and meta-analyses",
+          "volume": "95",
+          "author": "Harms",
+          "year": "2009",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib21",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1186/s12998-015-0054-y",
+          "article-title": "Clinical examination findings as prognostic factors in low back pain: a systematic review of the literature",
+          "volume": "23",
+          "author": "Hartvigsen",
+          "year": "2015",
+          "journal-title": "Chiropr. Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "280",
+          "DOI": "10.7326/0003-4819-158-4-201302190-00009",
+          "article-title": "Assessing bias in studies of prognostic factors",
+          "volume": "158",
+          "author": "Hayden",
+          "year": "2013",
+          "journal-title": "Ann. Intern. Med."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "217",
+          "DOI": "10.1179/106698108790818260",
+          "article-title": "Multimodal management of mechanical neck pain using a treatment based classification system",
+          "volume": "16",
+          "author": "Heintz",
+          "year": "2008",
+          "journal-title": "J. Man. Manip. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "1541",
+          "DOI": "10.1589/jpts.25.1541",
+          "article-title": "The effects of stabilization and McKenzie exercises on transverse abdominis and multifidus muscle thickness, pain, and disability: a randomized controlled trial in nonspecific chronic low back pain",
+          "volume": "25",
+          "author": "Hosseinifar",
+          "year": "2013",
+          "journal-title": "J. Phys. Ther. Sci."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "370",
+          "DOI": "10.1016/j.spinee.2004.11.007",
+          "article-title": "Centralization as a predictor of provocation discography results in chronic low back pain, and the influence of disability and distress on diagnostic power",
+          "volume": "5",
+          "author": "Laslett",
+          "year": "2005",
+          "journal-title": "Spine J."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "2513",
+          "DOI": "10.1097/00007632-199512000-00010",
+          "article-title": "The centralization phenomenon. Its usefulness as a predictor of outcome in conservative treatment of chronic low back pain (a pilot study)",
+          "volume": "20",
+          "author": "Long",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "2593",
+          "DOI": "10.1097/01.brs.0000146464.23007.2a",
+          "article-title": "Does it matter which exercise? A randomized controlled trial of exercise for low back pain",
+          "volume": "29",
+          "author": "Long",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "248",
+          "DOI": "10.1179/106698108790818332",
+          "article-title": "The comparative prognostic value of directional preference and centralization: a useful tool for front-line clinicians?",
+          "volume": "16",
+          "author": "Long",
+          "year": "2009",
+          "journal-title": "J. Man. Manip. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "481",
+          "DOI": "10.1016/j.math.2014.11.013",
+          "article-title": "“Effectiveness of continuous vertebral resonant oscillation using the POLD method in the treatment of lumbar disc hernia”. A randomized controlled pilot study",
+          "volume": "20",
+          "author": "Lopez-Diaz",
+          "year": "2015",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib30",
+          "doi-asserted-by": "crossref",
+          "first-page": "497",
+          "DOI": "10.1016/j.math.2012.05.003",
+          "article-title": "Centralization and directional preference: a systematic review",
+          "volume": "17",
+          "author": "May",
+          "year": "2012",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "571",
+          "DOI": "10.2519/jospt.2016.6159",
+          "article-title": "Spine kinematics during prone extension in people with and without low back pain and among classification-specific low back pain subgroups",
+          "volume": "46",
+          "author": "Mazzone",
+          "year": "2016",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "year": "2003",
+          "series-title": "The Lumbar Spine Mechanical Diagnosis and Therapy",
+          "author": "McKenzie",
+          "key": "10.1016/j.msksp.2018.09.006_bib32"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib33",
+          "first-page": "31",
+          "article-title": "The McKenzie Method of mechanical diagnosis and Therapy in chronic low back pain with directional preference",
+          "volume": "15",
+          "author": "Moncelon",
+          "year": "2015",
+          "journal-title": "Kinesither Rev"
+        },
+        {
+          "year": "1997",
+          "series-title": "Evidence-based Healthcare. How to Make Health Policy and Management Decisions",
+          "author": "Muir Gray",
+          "key": "10.1016/j.msksp.2018.09.006_bib34"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib35",
+          "doi-asserted-by": "crossref",
+          "first-page": "26",
+          "DOI": "10.1186/2045-709X-19-26",
+          "article-title": "Application of a diagnosis-based clinical decision guide in patients with low back pain",
+          "volume": "19",
+          "author": "Murphy",
+          "year": "2011",
+          "journal-title": "Chiropr. Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib36",
+          "doi-asserted-by": "crossref",
+          "first-page": "19",
+          "DOI": "10.1186/2045-709X-19-19",
+          "article-title": "Application of a diagnosis-based clinical decision guide in patients with neck pain",
+          "volume": "19",
+          "author": "Murphy",
+          "year": "2011",
+          "journal-title": "Chiropr. Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib37",
+          "doi-asserted-by": "crossref",
+          "first-page": "156",
+          "DOI": "10.2522/ptj.20070147",
+          "article-title": "Scales to assess the quality of randomized controlled trials: a systematic review",
+          "volume": "88",
+          "author": "Olivio",
+          "year": "2008",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib38",
+          "doi-asserted-by": "crossref",
+          "first-page": "40",
+          "DOI": "10.1179/2042618612Y.0000000014",
+          "article-title": "The addition of manipulation to an extension-oriented intervention for a patient with chronic LBP",
+          "volume": "21",
+          "author": "Ojha",
+          "year": "2013",
+          "journal-title": "J. Man. Manip. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib39",
+          "first-page": "36",
+          "article-title": "Low back pain: prevalence of McKenzie's syndromes and directional preference",
+          "volume": "14",
+          "author": "Otero",
+          "year": "2014",
+          "journal-title": "Kinesither Rev"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib40",
+          "first-page": "2",
+          "article-title": "Neck pain: prevalence of McKenzie's syndromes and directional preference",
+          "volume": "16",
+          "author": "Otero",
+          "year": "2016",
+          "journal-title": "Kinesither Rev"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib41",
+          "doi-asserted-by": "crossref",
+          "first-page": "35",
+          "DOI": "10.1179/2042618610Y.0000000002",
+          "article-title": "Three-step treadmill test and McKenzie mechanical diagnosis and therapy to establish directional preference in a patient with lumbar spinal stenosis: a case report",
+          "volume": "19",
+          "author": "Padmanabhan",
+          "year": "2011",
+          "journal-title": "J. Man. Manip. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "1999",
+          "DOI": "10.1097/BRS.0b013e318201ee8e",
+          "article-title": "The McKenzie method compared with manipulation when used adjunctive to information and advice in low back pain patients presenting with centralization and peripheralization. A randomized controlled trial",
+          "volume": "36",
+          "author": "Petersen",
+          "year": "2011",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "74",
+          "DOI": "10.1186/s12891-015-0526-1",
+          "article-title": "Predicting a clinically important outcome in patients with low back pain following McKenzie therapy and spinal manipulation: a stratified analysis in a randomized controlled trial",
+          "volume": "16",
+          "author": "Petersen",
+          "year": "2015",
+          "journal-title": "BMC Muscoskel. Disord."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib44",
+          "doi-asserted-by": "crossref",
+          "first-page": "315",
+          "DOI": "10.3109/09593985.2016.1138175",
+          "article-title": "Clinical diagnosis and treatment of patient with low back pain using the patient response model: a case report",
+          "volume": "32",
+          "author": "Robinson",
+          "year": "2016",
+          "journal-title": "Physiother. Theory Pract."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib45",
+          "doi-asserted-by": "crossref",
+          "first-page": "264",
+          "DOI": "10.1179/2042618615Y.0000000010",
+          "article-title": "Measurement of outcomes for patients with centralising versus non-centralising neck pain",
+          "volume": "24",
+          "author": "Rose",
+          "year": "2016",
+          "journal-title": "J. Man. Manip. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib46",
+          "doi-asserted-by": "crossref",
+          "first-page": "666",
+          "DOI": "10.1093/ije/dym018",
+          "article-title": "Tools for assessing quality and susceptibility to bias in observational studies in epidemiology: a systematic review and annotated bibliography",
+          "volume": "36",
+          "author": "Sanderson",
+          "year": "2007",
+          "journal-title": "Int. J. Epidemiol."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib47",
+          "doi-asserted-by": "crossref",
+          "first-page": "224",
+          "DOI": "10.7326/0003-4819-147-4-200708210-00179",
+          "article-title": "How quickly do systematic reviews go out of date? A survival analysis",
+          "volume": "147",
+          "author": "Shojania",
+          "year": "2007",
+          "journal-title": "Ann. Intern. Med."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib48",
+          "doi-asserted-by": "crossref",
+          "first-page": "E293",
+          "DOI": "10.1097/01.brs.0000164119.78463.0c",
+          "article-title": "Centralization: its prognostic value in patients with referred symptoms and sciatica",
+          "volume": "30",
+          "author": "Skyte",
+          "year": "2005",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib49",
+          "doi-asserted-by": "crossref",
+          "first-page": "496",
+          "DOI": "10.2522/ptj.20100272",
+          "article-title": "Evaluation of a treatment-based classification algorithm for low back pain: a cross-sectional study",
+          "volume": "91",
+          "author": "Stanton",
+          "year": "2011",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib50",
+          "doi-asserted-by": "crossref",
+          "first-page": "69",
+          "DOI": "10.1016/j.math.2016.06.002",
+          "article-title": "Effects of individualised directional preference management versus advice for reducible discogenic pain: a pre-planned secondary analysis of a randomised controlled trial",
+          "volume": "25",
+          "author": "Surkitt",
+          "year": "2016",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib51",
+          "doi-asserted-by": "crossref",
+          "first-page": "153",
+          "DOI": "10.1179/106698110X12640740712455",
+          "article-title": "Nucleus pulposus deformation following application of mechanical diagnosis and therapy: a single case report with magnetic resonance imaging",
+          "volume": "18",
+          "author": "Takasaki",
+          "year": "2010",
+          "journal-title": "J. Man. Manip. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib52",
+          "doi-asserted-by": "crossref",
+          "first-page": "285",
+          "DOI": "10.1179/2042618614Y.0000000081",
+          "article-title": "Immediate improvement in the cranio-cervical flexion test associated with MDT-based interventions: a case report",
+          "volume": "24",
+          "author": "Takasaki",
+          "year": "2016",
+          "journal-title": "J. Man. Manip. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib53",
+          "doi-asserted-by": "crossref",
+          "first-page": "351",
+          "DOI": "10.3233/BMR-160662",
+          "article-title": "Transforaminal epidural steroid injections influence Mechanical Diagnosis and Therapy (MDT) pain response classification on candidates for lumbar herniated disc surgery",
+          "volume": "29",
+          "author": "Van Helvoirt",
+          "year": "2016",
+          "journal-title": "J. Back Musculoskelet. Rehabil."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib54",
+          "doi-asserted-by": "crossref",
+          "first-page": "1100",
+          "DOI": "10.1111/pme.12450",
+          "article-title": "Transforaminal epidural steroid injections followed by Mechanical Diagnosis and Therapy to prevent surgery for lumbar disc herniation",
+          "volume": "15",
+          "author": "Van Helvoirt",
+          "year": "2014",
+          "journal-title": "Pain Med."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib55",
+          "doi-asserted-by": "crossref",
+          "first-page": "758",
+          "DOI": "10.1097/00007632-200104010-00012",
+          "article-title": "Centralization phenomenon as a prognostic factor for chronic pain or disability",
+          "volume": "26",
+          "author": "Werneke",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib56",
+          "doi-asserted-by": "crossref",
+          "first-page": "969",
+          "DOI": "10.2519/jospt.2011.3814",
+          "article-title": "Change in psychosocial distress associated with pain and functional status outcomes in patients with lumbar impairments referred to physical therapy services",
+          "volume": "41",
+          "author": "Werneke",
+          "year": "2011",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib57",
+          "doi-asserted-by": "crossref",
+          "first-page": "E182",
+          "DOI": "10.1097/BRS.0000000000000117",
+          "article-title": "McKenzie lumbar classification: inter-rater agreement by physical therapists with different levels of formal McKenzie postgraduate training",
+          "volume": "39",
+          "author": "Werneke",
+          "year": "2014",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib58",
+          "doi-asserted-by": "crossref",
+          "first-page": "726",
+          "DOI": "10.2519/jospt.2016.6266",
+          "article-title": "Effecting of adding McKenzie syndromes, centralization, directional preference, and psychosocial classification variables to a risk-adjusted model predicting functional status outcomes for patients with lumbar impairments",
+          "volume": "46",
+          "author": "Werneke",
+          "year": "2016",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib59",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/pri.1711",
+          "article-title": "Directional preference and functional outcomes among subjects classified at high psychosocial risk using STarT",
+          "author": "Werneke",
+          "year": "2018",
+          "journal-title": "Physiother. Res. Int."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib60",
+          "doi-asserted-by": "crossref",
+          "first-page": "113",
+          "DOI": "10.1179/2042618610Y.0000000008",
+          "article-title": "A mechanical diagnosis and treatment (MDT) approach for a patient with discogenic low back pain and a relevant lateral component: a case report",
+          "volume": "19",
+          "author": "Williams",
+          "year": "2011",
+          "journal-title": "J. Man. Manip. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib61",
+          "first-page": "1",
+          "article-title": "The use of Mechanical Diagnosis and THerapy (MDT) in patients with lower urinary tract symptoms (LUTS): case series",
+          "volume": "26",
+          "author": "Wu",
+          "year": "2018",
+          "journal-title": "Physiother. Theory Pract."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib62",
+          "doi-asserted-by": "crossref",
+          "first-page": "18",
+          "DOI": "10.1080/10669817.2017.1343538",
+          "article-title": "Pain pattern classification and directional preference are associated with clinical outcomes for patients with low back pain",
+          "volume": "26",
+          "author": "Yarnbowicz",
+          "year": "2018",
+          "journal-title": "J. Man. Manip. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2018.09.006_bib63",
+          "doi-asserted-by": "crossref",
+          "first-page": "146",
+          "DOI": "10.2519/jospt.2018.7637",
+          "article-title": "The influence of exercise dosing on outcomes in patients with knee disorders: a systematic review",
+          "volume": "48",
+          "author": "Young",
+          "year": "2018",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        }
+      ],
+      "container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781218302066?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781218302066?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            3
+          ]
+        ],
+        "date-time": "2024-06-03T10:58:01Z",
+        "timestamp": 1717412281000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2468781218302066"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            12
+          ]
+        ]
+      },
+      "references-count": 64,
+      "alternative-id": [
+        "S2468781218302066"
+      ],
+      "URL": "https://doi.org/10.1016/j.msksp.2018.09.006",
+      "relation": {},
+      "ISSN": [
+        "2468-7812"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "2468-7812"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            12
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Centralization and directional preference: An updated systematic review with synthesis of previous evidence",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Musculoskeletal Science and Practice",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.msksp.2018.09.006",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2018 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+id: evidence_exercice_therapeutique
+theme: exercice_therapeutique
+type_etude: synthese
+message_clinique: "Les exercices physiques apportent un bénéfice modeste mais significatif sur la douleur et la fonction dans la lombalgie commune, surtout à court terme, sans qu’aucun type particulier ne soit nettement supérieur. Ils sont sûrs (seulement des courbatures transitoires) et une pratique régulière adaptée est recommandée pour de meilleurs résultats."
+doi_url: "https://doi.org/10.1016/j.jshs.2025.101038"
+publication_date: "2025-04-02"
+last_verified: "2025-09-09"
+retraction_status: "ok"
+evidence_level:
+  scale: OCEBM
+  value: "1a"
+  justification: "Umbrella review récente de 70 revues systématiques (bénéfices modestes, certitude faible à modérée)"
+sources_snapshot: "evidence/_audit/evidence_exercice_therapeutique.json"
+statut: "valide"

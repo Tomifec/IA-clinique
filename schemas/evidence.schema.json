@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "theme",
+    "type_etude",
+    "message_clinique",
+    "statut"
+  ],
+  "properties": {
+    "id": { "type": "string" },
+    "theme": { "type": "string" },
+    "type_etude": { "type": "string" },
+    "message_clinique": { "type": "string" },
+    "statut": {
+      "type": "string",
+      "enum": ["brouillon", "valide", "rejeté"]
+    },
+    "doi_url": { "type": "string" },
+    "pmid": { "type": ["string", "integer"] },
+    "publication_date": { "type": "string" },
+    "last_verified": { "type": "string" },
+    "retraction_status": {
+      "type": "string",
+      "enum": ["ok", "concern", "retracted"]
+    },
+    "evidence_level": {
+      "type": "object",
+      "required": ["scale", "value"],
+      "properties": {
+        "scale": { "type": "string" },
+        "value": { "type": "string" },
+        "justification": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "pdf_sha256": { "type": "string" },
+    "sources_snapshot": { "type": "string" }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "statut": { "const": "valide" } } },
+      "then": {
+        "anyOf": [
+          { "required": ["doi_url"] },
+          { "required": ["pmid"] }
+        ],
+        "required": [
+          "publication_date",
+          "last_verified",
+          "retraction_status",
+          "evidence_level"
+        ]
+      }
+    }
+  ]
+}
+

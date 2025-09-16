@@ -1,0 +1,510 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1056_nejmra052116.md",
+  "id": "evidence_import_refs_2025_09_12_10_1056_nejmra052116",
+  "doi": "10.1056/NEJMra052116",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:14.885674Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T13:41:56Z",
+        "timestamp": 1757684516866
+      },
+      "reference-count": 60,
+      "publisher": "Massachusetts Medical Society",
+      "issue": "1",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "N Engl J Med"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2006,
+            1,
+            5
+          ]
+        ]
+      },
+      "DOI": "10.1056/nejmra052116",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2006,
+            1,
+            4
+          ]
+        ],
+        "date-time": "2006-01-04T22:33:14Z",
+        "timestamp": 1136413994000
+      },
+      "page": "44-53",
+      "source": "Crossref",
+      "is-referenced-by-count": 662,
+      "title": [
+        "Community-Acquired Bacterial Meningitis in Adults"
+      ],
+      "prefix": "10.1056",
+      "volume": "354",
+      "author": [
+        {
+          "given": "Diederik",
+          "family": "van de Beek",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "From the Department of Neurology, Center of Infection and Immunity Amsterdam, Academic Medical Center, University of Amsterdam, Amsterdam (D.B., J.G.); the Department of Medicine, Monmouth Medical Center, Long Branch, N.J. (A.R.T.); and the Department of Neurology, Division of Critical Care Neurology, Mayo Clinic College of Medicine, Rochester, Minn. (E.F.M.W.)."
+            }
+          ]
+        },
+        {
+          "given": "Jan",
+          "family": "de Gans",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From the Department of Neurology, Center of Infection and Immunity Amsterdam, Academic Medical Center, University of Amsterdam, Amsterdam (D.B., J.G.); the Department of Medicine, Monmouth Medical Center, Long Branch, N.J. (A.R.T.); and the Department of Neurology, Division of Critical Care Neurology, Mayo Clinic College of Medicine, Rochester, Minn. (E.F.M.W.)."
+            }
+          ]
+        },
+        {
+          "given": "Allan R.",
+          "family": "Tunkel",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From the Department of Neurology, Center of Infection and Immunity Amsterdam, Academic Medical Center, University of Amsterdam, Amsterdam (D.B., J.G.); the Department of Medicine, Monmouth Medical Center, Long Branch, N.J. (A.R.T.); and the Department of Neurology, Division of Critical Care Neurology, Mayo Clinic College of Medicine, Rochester, Minn. (E.F.M.W.)."
+            }
+          ]
+        },
+        {
+          "given": "Eelco F.M.",
+          "family": "Wijdicks",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "From the Department of Neurology, Center of Infection and Immunity Amsterdam, Academic Medical Center, University of Amsterdam, Amsterdam (D.B., J.G.); the Department of Medicine, Monmouth Medical Center, Long Branch, N.J. (A.R.T.); and the Department of Neurology, Division of Critical Care Neurology, Mayo Clinic College of Medicine, Rochester, Minn. (E.F.M.W.)."
+            }
+          ]
+        }
+      ],
+      "member": "150",
+      "reference": [
+        {
+          "key": "r001",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa040845"
+        },
+        {
+          "key": "r002",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJM199710023371404"
+        },
+        {
+          "key": "r003",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.282.2.175"
+        },
+        {
+          "key": "r004",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJM196505062721806"
+        },
+        {
+          "key": "r005",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJM199301073280104"
+        },
+        {
+          "key": "r006",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/archinte.1997.00440250077009"
+        },
+        {
+          "key": "r007",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00005792-200011000-00002"
+        },
+        {
+          "key": "r008",
+          "unstructured": "Tunkel AR. Bacterial meningitis. Philadelphia: Lippincott Williams & Wilkens, 2001."
+        },
+        {
+          "key": "r009",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/PL00007855"
+        },
+        {
+          "key": "r010",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa010399"
+        },
+        {
+          "key": "r011",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1542/peds.112.3.e174"
+        },
+        {
+          "key": "r012",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00415-002-0844-8"
+        },
+        {
+          "key": "r013",
+          "first-page": "514",
+          "volume": "352",
+          "author": "van de Beek D",
+          "year": "2005",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "r015",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-129-11_Part_1-199812010-00004"
+        },
+        {
+          "key": "r016",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/qjmed/hci047"
+        },
+        {
+          "key": "r017",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.1989.03430190084036"
+        },
+        {
+          "key": "r018",
+          "doi-asserted-by": "crossref",
+          "first-page": "2738",
+          "DOI": "10.1128/JCM.32.11.2738-2744.1994",
+          "volume": "32",
+          "author": "Radstrom P",
+          "year": "1994",
+          "journal-title": "J Clin Microbiol"
+        },
+        {
+          "key": "r019",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1128/JCM.42.2.734-740.2004"
+        },
+        {
+          "key": "r020",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/jac/49.4.661"
+        },
+        {
+          "key": "r021",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/425368"
+        },
+        {
+          "key": "r022",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJM200012283432603"
+        },
+        {
+          "key": "r023",
+          "first-page": "CD004785",
+          "volume": "1",
+          "author": "Fraser A",
+          "year": "2005",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "r024",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa021334"
+        },
+        {
+          "key": "r025",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/0003-4819-141-4-200408170-00028"
+        },
+        {
+          "key": "r026",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S1473-3099(04)00937-5"
+        },
+        {
+          "key": "r027",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jama.288.7.862"
+        },
+        {
+          "key": "r028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMra020529"
+        },
+        {
+          "key": "r029",
+          "first-page": "CD004305",
+          "volume": "3",
+          "author": "van de Beek D",
+          "year": "2003",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "r030",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/jac/dkg417"
+        },
+        {
+          "key": "r031",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wijdicks EFM. The clinical practice of critical care neurology. 2nd ed. New York: Oxford University Press, 2003.",
+          "DOI": "10.1093/oso/9780195157291.001.0001"
+        },
+        {
+          "key": "r032",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/archneur.1993.00540060015010"
+        },
+        {
+          "key": "r033",
+          "first-page": "CD004786",
+          "volume": "3",
+          "author": "Oates-Whitehead R",
+          "year": "2005",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "r034",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00006123-199601000-00035"
+        },
+        {
+          "key": "r035",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/infdis/168.2.473"
+        },
+        {
+          "key": "r036",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00004647-200005000-00010"
+        },
+        {
+          "key": "r037",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.STR.0000091269.67384.E7"
+        },
+        {
+          "key": "r038",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S1473-3099(02)00450-4"
+        },
+        {
+          "key": "r039",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00003246-199611000-00018"
+        },
+        {
+          "key": "r040",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.STR.31.5.1116"
+        },
+        {
+          "key": "r041",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/00003246-200007000-00060"
+        },
+        {
+          "key": "r042",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1034/j.1399-6576.2002.460307.x"
+        },
+        {
+          "key": "r043",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/380970"
+        },
+        {
+          "key": "r044",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1528-1157.1996.tb06025.x"
+        },
+        {
+          "key": "r045",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(96)90577-2"
+        },
+        {
+          "key": "r046",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/brain/awg113"
+        },
+        {
+          "key": "r047",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/infdis/161.6.1216"
+        },
+        {
+          "key": "r048",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/01.CIR.0000131660.51520.9A"
+        },
+        {
+          "key": "r049",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMra042354"
+        },
+        {
+          "key": "r050",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/clinids/20.2.372"
+        },
+        {
+          "key": "r051",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMp038107"
+        },
+        {
+          "key": "r052",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1128/AAC.39.9.1988"
+        },
+        {
+          "key": "r053",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1128/AAC.35.12.2467"
+        },
+        {
+          "key": "r054",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/344229"
+        },
+        {
+          "key": "r055",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.expneurol.2004.07.010"
+        },
+        {
+          "key": "r056",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ejphar.2004.07.081"
+        },
+        {
+          "key": "r057",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/426399"
+        },
+        {
+          "key": "r058",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/nrn1103"
+        },
+        {
+          "key": "r059",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMp048246"
+        },
+        {
+          "key": "r060",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1056/NEJMoa022823"
+        },
+        {
+          "key": "r061",
+          "first-page": "1",
+          "volume": "54",
+          "year": "2005",
+          "journal-title": "MMWR Recomm Rep"
+        }
+      ],
+      "container-title": [
+        "New England Journal of Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://www.nejm.org/doi/pdf/10.1056/NEJMra052116",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            2
+          ]
+        ],
+        "date-time": "2024-02-02T02:34:18Z",
+        "timestamp": 1706841258000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://www.nejm.org/doi/10.1056/NEJMra052116"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2006,
+            1,
+            5
+          ]
+        ]
+      },
+      "references-count": 60,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2006,
+              1,
+              5
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1056/NEJMra052116"
+      ],
+      "URL": "https://doi.org/10.1056/nejmra052116",
+      "relation": {},
+      "ISSN": [
+        "0028-4793",
+        "1533-4406"
+      ],
+      "issn-type": [
+        {
+          "value": "0028-4793",
+          "type": "print"
+        },
+        {
+          "value": "1533-4406",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2006,
+            1,
+            5
+          ]
+        ]
+      }
+    }
+  }
+}

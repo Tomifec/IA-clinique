@@ -1,0 +1,432 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1155_2022_4799248.md",
+  "id": "evidence_import_refs_2025_09_12_10_1155_2022_4799248",
+  "doi": "10.1155/2022/4799248",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:54.720249Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            14
+          ]
+        ],
+        "date-time": "2025-05-14T02:48:20Z",
+        "timestamp": 1747190900070,
+        "version": "3.40.5"
+      },
+      "reference-count": 35,
+      "publisher": "Wiley",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                5,
+                11
+              ]
+            ],
+            "date-time": "2022-05-11T00:00:00Z",
+            "timestamp": 1652227200000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Computational and Mathematical Methods in Medicine"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            11
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Objective. Physical therapy is a common clinical treatment for patients with lumbar disc herniation. The study is aimed at exploring the feasibility of mathematical expression and curative effect prediction of physical therapy in patients with lumbar disc herniation using a logistic model and gradient boosting machine (GBM). Methods. A total of 142 patients with lumbar disc herniation were treated with physical therapy. The pain was evaluated by the visual analogue scale (VAS) before each treatment. The logistic model was used to conduct a global regression analysis on patients with lumbar disc herniation. The final results of the whole course of treatment were predicted by the measured values of 2-9 times of treatment. The GBM model was used to predict and analyze the curative effect of physical therapy. Results. The mathematical expression ability of the logistic regression model for patients with lumbar disc herniation undergoing physical therapy was sufficient, and the global determination coefficient was 0.721. The results would be better for more than five measurements. The AUC of GBM mode logistic regression analysis was 0.936 and 0.883, and the prediction effect is statistically significant. Conclusion. Both the logistic and GBM model can fully express the changes in patients with lumbar disc herniation during physical therapy.</jats:p>",
+      "DOI": "10.1155/2022/4799248",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            11
+          ]
+        ],
+        "date-time": "2022-05-11T23:07:00Z",
+        "timestamp": 1652310420000
+      },
+      "page": "1-7",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Logistic Model and Gradient Boosting Machine Model for Physical Therapy of Lumbar Disc Herniation"
+      ],
+      "prefix": "10.1155",
+      "volume": "2022",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-0818-4273",
+          "authenticated-orcid": true,
+          "given": "Ping",
+          "family": "Zhao",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Nursing Department, The Third People’s Hospital of Hefei, Hefei Third Clinical College of Anhui Medical University, Hefei 230022, China"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3073-7121",
+          "authenticated-orcid": true,
+          "given": "Jin",
+          "family": "Xue",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedics, The Third People’s Hospital of Hefei, Hefei Third Clinical College of Anhui Medical University, Hefei 230022, China"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5693-289X",
+          "authenticated-orcid": true,
+          "given": "Xiaomei",
+          "family": "Xu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedics, The Third People’s Hospital of Hefei, Hefei Third Clinical College of Anhui Medical University, Hefei 230022, China"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1447-4234",
+          "authenticated-orcid": true,
+          "given": "Lifei",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedics, The Third People’s Hospital of Hefei, Hefei Third Clinical College of Anhui Medical University, Hefei 230022, China"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0631-7805",
+          "authenticated-orcid": true,
+          "given": "Dan",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Neurosurgery, The Third People’s Hospital of Hefei, Hefei Third Clinical College of Anhui Medical University, Hefei 230022, China"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "reference": [
+        {
+          "key": "1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jopan.2021.01.009"
+        },
+        {
+          "key": "2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/ijerph18115815"
+        },
+        {
+          "issue": "6",
+          "key": "3",
+          "first-page": "6759",
+          "article-title": "Analysis of the effect of traction combined with paraffinotherapy on lumbar function in patients with lumbar disc herniation",
+          "volume": "13",
+          "author": "F. Hao",
+          "year": "2021",
+          "journal-title": "American Journal of Translational Research"
+        },
+        {
+          "key": "4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0160541"
+        },
+        {
+          "key": "5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1155/2017/1494538"
+        },
+        {
+          "key": "6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.clineuro.2020.105867"
+        },
+        {
+          "key": "7",
+          "article-title": "Applied machine learning for spine surgeons: predicting outcome for patients undergoing treatment for lumbar disc herniation using pro data",
+          "volume": "10",
+          "author": "C. F. Pedersen",
+          "year": "2020",
+          "journal-title": "Global Spine Journal"
+        },
+        {
+          "key": "8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/MD.0000000000001584"
+        },
+        {
+          "key": "9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.14245/ns.2040824.412"
+        },
+        {
+          "key": "10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cmpb.2021.106498"
+        },
+        {
+          "key": "11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/17517575.2020.1856424"
+        },
+        {
+          "key": "12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/17517575.2020.1864022"
+        },
+        {
+          "key": "13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.energy.2019.06.051"
+        },
+        {
+          "key": "14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cmpb.2021.106140"
+        },
+        {
+          "key": "15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/30277"
+        },
+        {
+          "key": "16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12876-021-02048-1"
+        },
+        {
+          "key": "17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2166/wst.2021.444"
+        },
+        {
+          "key": "18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jes.2020.04.042"
+        },
+        {
+          "key": "19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/prot.26236"
+        },
+        {
+          "key": "20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/diagnostics11091714"
+        },
+        {
+          "key": "21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10072-020-04691-0"
+        },
+        {
+          "key": "22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/os.12928"
+        },
+        {
+          "key": "23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ptsp.2020.05.009"
+        },
+        {
+          "key": "24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/emj.18.3.205"
+        },
+        {
+          "key": "25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.npep.2021.102189"
+        },
+        {
+          "key": "26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/MD.0000000000027963"
+        },
+        {
+          "key": "27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10147-021-01958-0"
+        },
+        {
+          "key": "28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0140-6736(11)60325-5"
+        },
+        {
+          "key": "29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2020.09.383"
+        },
+        {
+          "key": "30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2018.09.111"
+        },
+        {
+          "key": "31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s12984-018-0383-x"
+        },
+        {
+          "key": "32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2147/CIA.S207863"
+        },
+        {
+          "issue": "13",
+          "key": "33",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3390/jcm10132876",
+          "article-title": "Management of high-risk atherosclerotic patients by statins may be supported by logistic model of intima-media thickening",
+          "volume": "10",
+          "author": "D. Formanowicz",
+          "year": "2021",
+          "journal-title": "Journal of Clinical Medicine"
+        },
+        {
+          "issue": "1, article 763375",
+          "key": "34",
+          "article-title": "A five-parameter logistic model to predict the possibility of misdiagnosis for improving the specificity of lugol chromoendoscopy in the diagnosis of esophageal neoplastic lesions",
+          "volume": "11",
+          "author": "Z. Guo",
+          "year": "2021",
+          "journal-title": "Frontiers in Oncology"
+        },
+        {
+          "key": "35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.21037/hbsn.2020.01.07"
+        }
+      ],
+      "container-title": [
+        "Computational and Mathematical Methods in Medicine"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://downloads.hindawi.com/journals/cmmm/2022/4799248.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://downloads.hindawi.com/journals/cmmm/2022/4799248.xml",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://downloads.hindawi.com/journals/cmmm/2022/4799248.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            11
+          ]
+        ],
+        "date-time": "2022-05-11T23:07:06Z",
+        "timestamp": 1652310426000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.hindawi.com/journals/cmmm/2022/4799248/"
+        }
+      },
+      "subtitle": [],
+      "editor": [
+        {
+          "given": "Kelvin",
+          "family": "Wong",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            11
+          ]
+        ]
+      },
+      "references-count": 35,
+      "alternative-id": [
+        "4799248",
+        "4799248"
+      ],
+      "URL": "https://doi.org/10.1155/2022/4799248",
+      "relation": {},
+      "ISSN": [
+        "1748-6718",
+        "1748-670X"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1748-6718"
+        },
+        {
+          "type": "print",
+          "value": "1748-670X"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            11
+          ]
+        ]
+      }
+    }
+  }
+}

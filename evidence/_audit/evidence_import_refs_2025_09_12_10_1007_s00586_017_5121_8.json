@@ -1,0 +1,1018 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1007_s00586_017_5121_8.md",
+  "id": "evidence_import_refs_2025_09_12_10_1007_s00586_017_5121_8",
+  "doi": "10.1007/s00586-017-5121-8",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:25.232474Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            31
+          ]
+        ],
+        "date-time": "2025-08-31T23:11:19Z",
+        "timestamp": 1756681879249,
+        "version": "3.37.3"
+      },
+      "reference-count": 79,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "9",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                5,
+                18
+              ]
+            ],
+            "date-time": "2017-05-18T00:00:00Z",
+            "timestamp": 1495065600000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Eur Spine J"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1007/s00586-017-5121-8",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2017,
+            5,
+            18
+          ]
+        ],
+        "date-time": "2017-05-18T05:46:41Z",
+        "timestamp": 1495086401000
+      },
+      "page": "2242-2257",
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 116,
+      "title": [
+        "National clinical guidelines for non-surgical treatment of patients with recent onset neck pain or cervical radiculopathy"
+      ],
+      "prefix": "10.1007",
+      "volume": "26",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-5340-8649",
+          "authenticated-orcid": false,
+          "given": "Per",
+          "family": "Kjaer",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Alice",
+          "family": "Kongsted",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jan",
+          "family": "Hartvigsen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alexander",
+          "family": "Isenberg-Jørgensen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Berit",
+          "family": "Schiøttz-Christensen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Bolette",
+          "family": "Søborg",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Charlotte",
+          "family": "Krog",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christian Martin",
+          "family": "Møller",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christine Marie Bækø",
+          "family": "Halling",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Henrik Hein",
+          "family": "Lauridsen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Inge Ris",
+          "family": "Hansen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jesper",
+          "family": "Nørregaard",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Karsten Juhl",
+          "family": "Jørgensen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Lars Valentin",
+          "family": "Hansen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Marie",
+          "family": "Jakobsen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Martin Bach",
+          "family": "Jensen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Martin",
+          "family": "Melbye",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Peter",
+          "family": "Duel",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Steffan W.",
+          "family": "Christensen",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tina Myung",
+          "family": "Povlsen",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            5,
+            18
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "5121_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "395",
+          "DOI": "10.1016/j.jclinepi.2010.09.012",
+          "volume": "64",
+          "author": "GH Guyatt",
+          "year": "2011",
+          "unstructured": "Guyatt GH, Oxman AD, Kunz R, Atkins D, Brozek J, Vist G, Alderson P, Glasziou P, Falck-Ytter Y, Schunemann HJ (2011) GRADE guidelines: 2. Framing the question and deciding on important outcomes. J Clin Epidemiol 64:395–400. doi:\n                        10.1016/j.jclinepi.2010.09.012",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "5121_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "525",
+          "DOI": "10.7326/0003-4819-156-7-201204030-00009",
+          "volume": "156",
+          "author": "A Qaseem",
+          "year": "2012",
+          "unstructured": "Qaseem A, Forland F, Macbeth F, Ollenschlager G, Phillips S, van der Wees P, Board of Trustees of the Guidelines International N (2012) Guidelines International Network: toward international standards for clinical practice guidelines. Ann Intern Med 156:525–531. doi:\n                        10.7326/0003-4819-156-7-201204030-00009",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "5121_CR3",
+          "unstructured": "Sundhedsstyrelsen (2016) National clinical guideline for the non-surgical treatment of recent onset non-specific neck pain. Danish Health Authority, Copenhagen S"
+        },
+        {
+          "key": "5121_CR4",
+          "unstructured": "Sundhedsstyrelsen (2015) National clinical guideline for the non-surgical treatment of recent onset nerve root compromise in the neck with symptoms radiating to the arm (cervical radiculopathy). Danish Health Authority, Copenhagen S, Denmark"
+        },
+        {
+          "key": "5121_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "834",
+          "DOI": "10.1007/s00586-004-0864-4",
+          "volume": "15",
+          "author": "R Fejer",
+          "year": "2006",
+          "unstructured": "Fejer R, Kyvik KO, Hartvigsen J (2006) The prevalence of neck pain in the world population: a systematic critical review of the literature. Eur Spine J 15:834–848. doi:\n                        10.1007/s00586-004-0864-4",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "5121_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "E251",
+          "DOI": "10.1097/BSD.0000000000000284",
+          "volume": "28",
+          "author": "BI Woods",
+          "year": "2015",
+          "unstructured": "Woods BI, Hilibrand AS (2015) Cervical radiculopathy: epidemiology, etiology, diagnosis, and treatment. J Spinal Disord Tech 28:E251–E259. doi:\n                        10.1097/BSD.0000000000000284",
+          "journal-title": "J Spinal Disord Tech"
+        },
+        {
+          "key": "5121_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "64",
+          "DOI": "10.1016/j.spinee.2010.10.023",
+          "volume": "11",
+          "author": "CM Bono",
+          "year": "2011",
+          "unstructured": "Bono CM, Ghiselli G, Gilbert TJ, Kreiner DS, Reitman C, Summers JT, Baisden JL, Easa J, Fernand R, Lamer T, Matz PG, Mazanec DJ, Resnick DK, Shaffer WO, Sharma AK, Timmons RB, Toton JF, North American Spine S (2011) An evidence-based clinical guideline for the diagnosis and treatment of cervical radiculopathy from degenerative disorders. Spine J 11:64–72. doi:\n                        10.1016/j.spinee.2010.10.023",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "5121_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "307",
+          "DOI": "10.1007/s00586-006-0225-6",
+          "volume": "16",
+          "author": "SM Rubinstein",
+          "year": "2007",
+          "unstructured": "Rubinstein SM, Pool JJ, van Tulder MW, Riphagen II, de Vet HC (2007) A systematic review of the diagnostic accuracy of provocative tests of the neck for diagnosing cervical radiculopathy. Eur Spine J 16:307–319. doi:\n                        10.1007/s00586-006-0225-6",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "5121_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "89",
+          "DOI": "10.3340/jkns.2013.53.2.89",
+          "volume": "53",
+          "author": "TH Lee",
+          "year": "2013",
+          "unstructured": "Lee TH, Kim SJ, Lim SM (2013) Prevalence of disc degeneration in asymptomatic korean subjects. Part 2: cervical spine. J Korean Neurosurg Soc 53:89–95. doi:\n                        10.3340/jkns.2013.53.2.89",
+          "journal-title": "J Korean Neurosurg Soc"
+        },
+        {
+          "key": "5121_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "83",
+          "DOI": "10.1148/radiology.164.1.3588931",
+          "volume": "164",
+          "author": "LM Teresi",
+          "year": "1987",
+          "unstructured": "Teresi LM, Lufkin RB, Reicher MA, Moffit BJ, Vinuela FV, Wilson GM, Bentson JR, Hanafee WN (1987) Asymptomatic degenerative disk disease and spondylosis of the cervical spine: MR imaging. Radiology 164:83–88. doi:\n                        10.1148/radiology.164.1.3588931",
+          "journal-title": "Radiology"
+        },
+        {
+          "key": "5121_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "284",
+          "DOI": "10.1016/j.mayocp.2014.09.008",
+          "volume": "90",
+          "author": "SP Cohen",
+          "year": "2015",
+          "unstructured": "Cohen SP (2015) Epidemiology, diagnosis, and treatment of neck pain. Mayo Clin Proc 90:284–299. doi:\n                        10.1016/j.mayocp.2014.09.008",
+          "journal-title": "Mayo Clin Proc"
+        },
+        {
+          "key": "5121_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "1459",
+          "DOI": "10.1007/s00586-012-2297-9",
+          "volume": "21",
+          "author": "EJ Thoomes",
+          "year": "2012",
+          "unstructured": "Thoomes EJ, Scholten-Peeters GG, de Boer AJ, Olsthoorn RA, Verkerk K, Lin C, Verhagen AP (2012) Lack of uniform diagnostic criteria for cervical radiculopathy in conservative intervention studies: a systematic review. Eur Spine J 21:1459–1470. doi:\n                        10.1007/s00586-012-2297-9",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "5121_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "783",
+          "DOI": "10.1016/j.berh.2011.01.019",
+          "volume": "24",
+          "author": "DG Hoy",
+          "year": "2010",
+          "unstructured": "Hoy DG, Protani M, De R, Buchbinder R (2010) The epidemiology of neck pain. Best Pract Res Clin Rheumatol 24:783–792. doi:\n                        10.1016/j.berh.2011.01.019",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "5121_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "1603",
+          "DOI": "10.1016/S0140-6736(16)31460-X",
+          "volume": "388",
+          "author": "GBD DALYs",
+          "year": "2016",
+          "unstructured": "DALYs GBD, Collaborators H (2016) Global, regional, and national disability-adjusted life-years (DALYs) for 315 diseases and injuries and healthy life expectancy (HALE), 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015. Lancet 388:1603–1658. doi:\n                        10.1016/S0140-6736(16)31460-X",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "5121_CR15",
+          "unstructured": "Flachs EM, Statens Institut fF, Sundhedsstyrelsen (2015) Sygdomsbyrden i Danmark: sygdomme. Sundhedsstyrelsen, Kbh"
+        },
+        {
+          "issue": "Pt 2",
+          "key": "5121_CR16",
+          "doi-asserted-by": "crossref",
+          "first-page": "325",
+          "DOI": "10.1093/brain/117.2.325",
+          "volume": "117",
+          "author": "K Radhakrishnan",
+          "year": "1994",
+          "unstructured": "Radhakrishnan K, Litchy WJ, O’Fallon WM, Kurland LT (1994) Epidemiology of cervical radiculopathy. A population-based study from Rochester, Minnesota, 1976 through 1990. Brain: J Neurol 117(Pt 2):325–335",
+          "journal-title": "Brain: J Neurol"
+        },
+        {
+          "key": "5121_CR17",
+          "unstructured": "Sundhedsstyrelsen (2015) Model for udarbejdelse af Nationale Kliniske Retningslinjer: Metodehåndbogen Version 2.1. Danish Health Authority. \n                        https://www.sst.dk/da/nkr/metode/~/media/B3A4A4BA131243ECA6339D6E46CE3536.ashx\n                        \n                    . Accessed 6 Jan 2017"
+        },
+        {
+          "key": "5121_CR18",
+          "unstructured": "Sundhedsstyrelsen (2016) Declarations of conflicts of interests: working group members. Danish Health Authority. \n                        https://www.sst.dk/da/om-os/maal-og-opgaver/habilitet/soeg-habilitetserklaering?search=%7B04EC71DC-8ED7-449B-B9CC-FC0E13E97A50\n                        \n                    } \n                        https://www.sst.dk/da/om-os/maal-og-opgaver/habilitet/soeg-habilitetserklaering\n                        \n                    . Accessed 27 April 2017"
+        },
+        {
+          "key": "5121_CR19",
+          "unstructured": "Sundhedsstyrelsen (2014) Specialevejledning for neurokirurgi, Sagsnr. 41012-14/26. In. Sundhedsstyrelsen"
+        },
+        {
+          "key": "5121_CR20",
+          "unstructured": "Sundhedsstyrelsen (2015) Search strategies recent onset cervical radiculopathy. Danish Health Authority. Guidelines: \n                        https://www.sst.dk/da/udgivelser/2015/~/media/1936A12325D34DAB99398D5772D4A600.ashx\n                        \n                    . Primary literature: \n                        https://www.sst.dk/da/udgivelser/2015/~/media/95EA1AF77DF74F809C8E33F5136512B1.ashx\n                        \n                    . Secondary literature: \n                        https://www.sst.dk/da/udgivelser/2015/~/media/F6A5E407C3194838B117C04814C26AD9.ashx\n                        \n                    . Accessed Dec 2015"
+        },
+        {
+          "key": "5121_CR21",
+          "unstructured": "Sundhedsstyrelsen (2016) Search strategies recent onset non-specific neck pain. Danish Health Authority. Guidelines: \n                        https://www.sst.dk/da/udgivelser/2016/~/media/8162C4D0F3CA45A5B29A8EAA79DFE4A0.ashx\n                        \n                    .Primary literature: \n                        https://www.sst.dk/da/udgivelser/2016/~/media/44FECFF5685B447E8A8C54B7C5BA5B19.ashx\n                        \n                    . Secondary literature: \n                        https://www.sst.dk/da/udgivelser/2016/~/media/EBA7B432E173478A928B76555AFFE92D.ashx\n                        \n                    . Accessed April 2016"
+        },
+        {
+          "key": "5121_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "E839",
+          "DOI": "10.1503/cmaj.090449",
+          "volume": "182",
+          "author": "MC Brouwers",
+          "year": "2010",
+          "unstructured": "Brouwers MC, Kho ME, Browman GP, Burgers JS, Cluzeau F, Feder G, Fervers B, Graham ID, Grimshaw J, Hanna SE, Littlejohns P, Makarski J, Zitzelsberger L, Consortium ANS (2010) AGREE II: advancing guideline development, reporting and evaluation in health care. CMAJ 182:E839–E842. doi:\n                        10.1503/cmaj.090449",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "5121_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "10",
+          "DOI": "10.1186/1471-2288-7-10",
+          "volume": "7",
+          "author": "BJ Shea",
+          "year": "2007",
+          "unstructured": "Shea BJ, Grimshaw JM, Wells GA, Boers M, Andersson N, Hamel C, Porter AC, Tugwell P, Moher D, Bouter LM (2007) Development of AMSTAR: a measurement tool to assess the methodological quality of systematic reviews. BMC Med Res Methodol 7:10. doi:\n                        10.1186/1471-2288-7-10",
+          "journal-title": "BMC Med Res Methodol"
+        },
+        {
+          "key": "5121_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "1660",
+          "DOI": "10.1097/BRS.0000000000001061",
+          "volume": "40",
+          "author": "AD Furlan",
+          "year": "2015",
+          "unstructured": "Furlan AD, Malmivaara A, Chou R, Maher CG, Deyo RA, Schoene M, Bronfort G, van Tulder MW, Editorial Board of the Cochrane Back NG (2015) Updated Method Guideline for Systematic Reviews in the Cochrane Back and Neck Group. Spine (Phila Pa 1976) 40:1660–1673. doi:\n                        10.1097/BRS.0000000000001061",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "5121_CR25",
+          "unstructured": "Covicence [Online Software]. Covidence Team. \n                        https://www.covidence.org/\n                        \n                    . Accessed 6 Jan 2017"
+        },
+        {
+          "key": "5121_CR26",
+          "unstructured": "Review Manager (RevMan) [Computer program] (2014) Version 5.3 In. Copenhagen: The Nordic Cochrane Centre, Cochrane Collaboration"
+        },
+        {
+          "key": "5121_CR27",
+          "unstructured": "MAGIGapp [Online Software]. \n                        https://www.magicapp.org/\n                        \n                    . Accessed 6 Jan 2017"
+        },
+        {
+          "key": "5121_CR28",
+          "unstructured": "GRADEpro [Online Software]. \n                        https://gradepro.org/\n                        \n                    . Accessed 6 Jan 2017"
+        },
+        {
+          "key": "5121_CR29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jclinepi.2011.01.012",
+          "author": "G Guyatt",
+          "year": "2011",
+          "unstructured": "Guyatt G, Oxman AD, Kunz R, Brozek J, Alonso-Coello P, Rind D, Devereaux P, Montori VM, Freyschuss B, Vist G, Jaeschke R, Williams JW Jr, Murad MH, Sinclair D, Falck-Ytter Y, Meerpohl J, Whittington C, Thorlund K, Andrews J, Schunemann HJ (2011) GRADE guidelines 6: rating the quality of evidence-imprecision. J Clin Epidemiol. doi:\n                        10.1016/j.jclinepi.2011.01.012",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "5121_CR30",
+          "unstructured": "Sundhedsstyrelsen (2015) Flowcharts of literature for recent onset cervical radiculopathy. Danish Health Authority. \n                        https://www.sst.dk/da/udgivelser/2015/~/media/098573A2395A4838BB8135977C83911F.ashx\n                        \n                    . Accessed 6 Jan 2017"
+        },
+        {
+          "key": "5121_CR31",
+          "unstructured": "Sundhedsstyrelsen (2015) Supporting material: National clinical guideline for the non-surgical treatment of recent onset nerve root compromise in the neck with symptoms radiating to the arm (cervical radiculopathy). Danish Health Authority. \n                        https://www.sst.dk/da/udgivelser/2015/nkr-cervikal-radikulopati\n                        \n                    . Accessed 8 Jan 2017"
+        },
+        {
+          "key": "5121_CR32",
+          "unstructured": "Sundhedsstyrelsen (2016) Supporting material: National clinical guideline for the non-surgical treatment of recent onset non-specific neck pain. Danish Health Authority. \n                        https://www.sst.dk/da/udgivelser/2016/nkr-nakkesmerter\n                        \n                    . Accessed 8 Jan 2017"
+        },
+        {
+          "key": "5121_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "A1",
+          "DOI": "10.2519/jospt.2008.0303",
+          "volume": "38",
+          "author": "JD Childs",
+          "year": "2008",
+          "unstructured": "Childs JD, Cleland JA, Elliott JM, Teyhen DS, Wainner RS, Whitman JM, Sopky BJ, Godges JJ, Flynn TW, American Physical Therapy A (2008) Neck pain: clinical practice guidelines linked to the international classification of functioning, disability, and health from the orthopedic section of the American Physical Therapy Association. J Orthop Sports Phys Ther 38:A1–A34. doi:\n                        10.2519/jospt.2008.0303",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "5121_CR34",
+          "unstructured": "North American Spine S (2010) Diagnosis and treatment of cervical radiculopathy from degenerative disorders. North American Spine Society (NASS), Burr Ridge (IL)"
+        },
+        {
+          "key": "5121_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "2000",
+          "DOI": "10.1007/s00586-016-4467-7",
+          "volume": "25",
+          "author": "P Cote",
+          "year": "2016",
+          "unstructured": "Cote P, Wong JJ, Sutton D, Shearer HM, Mior S, Randhawa K, Ameis A, Carroll LJ, Nordin M, Yu H, Lindsay GM, Southerst D, Varatharajan S, Jacobs C, Stupar M, Taylor-Vaisey A, van der Velde G, Gross DP, Brison RJ, Paulden M, Ammendolia C, David Cassidy J, Loisel P, Marshall S, Bohay RN, Stapleton J, Lacerte M, Krahn M, Salhany R (2016) Management of neck pain and associated disorders: a clinical practice guideline from the Ontario Protocol for Traffic Injury Management (OPTIMa) Collaboration. Eur Spine J 25:2000–2022. doi:\n                        10.1007/s00586-016-4467-7",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "5121_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "733",
+          "DOI": "10.1001/jamainternmed.2015.0217",
+          "volume": "175",
+          "author": "AC Traeger",
+          "year": "2015",
+          "unstructured": "Traeger AC, Hubscher M, Henschke N, Moseley GL, Lee H, McAuley JH (2015) Effect of primary care-based education on reassurance in patients with acute low back pain: systematic review and meta-analysis. JAMA Intern Med 175:733–743. doi:\n                        10.1001/jamainternmed.2015.0217",
+          "journal-title": "JAMA Intern Med"
+        },
+        {
+          "key": "5121_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "133",
+          "DOI": "10.1097/AJP.0000000000000097",
+          "volume": "31",
+          "author": "MI Hasenbring",
+          "year": "2015",
+          "unstructured": "Hasenbring MI, Pincus T (2015) Effective reassurance in primary care of low back pain: what messages from clinicians are most beneficial at early stages? Clin J Pain 31:133–136. doi:\n                        10.1097/AJP.0000000000000097",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "5121_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "206",
+          "DOI": "10.1097/BRS.0b013e318193c9eb",
+          "volume": "34",
+          "author": "J Derebery",
+          "year": "2009",
+          "unstructured": "Derebery J, Giang GM, Gatchel RJ, Erickson K, Fogarty TW (2009) Efficacy of a patient-educational booklet for neck-pain patients with workers compensation: a randomized controlled trial. Spine (Phila Pa 1976) 34:206–213. doi:\n                        10.1097/BRS.0b013e318193c9eb",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "5121_CR39",
+          "doi-asserted-by": "crossref",
+          "first-page": "713",
+          "DOI": "10.7326/0003-4819-136-10-200205210-00006",
+          "volume": "136",
+          "author": "JL Hoving",
+          "year": "2002",
+          "unstructured": "Hoving JL, Koes BW, de Vet HC, van der Windt DA, Assendelft WJ, van Mameren H, Deville WL, Pool JJ, Scholten RJ, Bouter LM (2002) Manual therapy, physical therapy, or continued care by a general practitioner for patients with neck pain. A randomized, controlled trial. Ann Intern Med 136:713–722 (pii: 05210-00006)",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "5121_CR40",
+          "doi-asserted-by": "publisher",
+          "first-page": "440",
+          "DOI": "10.1016/j.pain.2010.11.016",
+          "volume": "152",
+          "author": "LL Andersen",
+          "year": "2011",
+          "unstructured": "Andersen LL, Saervoll CA, Mortensen OS, Poulsen OM, Hannerz H, Zebis MK (2011) Effectiveness of small daily amounts of progressive resistance training for frequent neck/shoulder pain: randomised controlled trial. Pain 152:440–446. doi:\n                        10.1016/j.pain.2010.11.016",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "5121_CR41",
+          "first-page": "2125",
+          "volume": "27",
+          "author": "S Akhter",
+          "year": "2014",
+          "unstructured": "Akhter S, Khan M, Ali SS, Soomro RR (2014) Role of manual therapy with exercise regime versus exercise regime alone in the management of non-specific chronic neck pain. Pak J Pharm Sci 27:2125–2128",
+          "journal-title": "Pak J Pharm Sci"
+        },
+        {
+          "key": "5121_CR42",
+          "doi-asserted-by": "publisher",
+          "first-page": "626",
+          "DOI": "10.2340/16501977-0392",
+          "volume": "41",
+          "author": "Y Dusunceli",
+          "year": "2009",
+          "unstructured": "Dusunceli Y, Ozturk C, Atamaz F, Hepguler S, Durmaz B (2009) Efficacy of neck stabilization exercises for neck pain: a randomized controlled study. J Rehabil Med 41:626–631. doi:\n                        10.2340/16501977-0392",
+          "journal-title": "J Rehabil Med"
+        },
+        {
+          "key": "5121_CR43",
+          "doi-asserted-by": "publisher",
+          "first-page": "268",
+          "DOI": "10.1016/j.ctim.2008.02.006",
+          "volume": "16",
+          "author": "DL Franca",
+          "year": "2008",
+          "unstructured": "Franca DL, Senna-Fernandes V, Cortez CM, Jackson MN, Bernardo-Filho M, Guimaraes MA (2008) Tension neck syndrome treated by acupuncture combined with physiotherapy: a comparative clinical trial (pilot study). Complement Ther Med 16:268–277. doi:\n                        10.1016/j.ctim.2008.02.006",
+          "journal-title": "Complement Ther Med"
+        },
+        {
+          "key": "5121_CR44",
+          "first-page": "151",
+          "volume": "34",
+          "author": "A Helewa",
+          "year": "2007",
+          "unstructured": "Helewa A, Goldsmith CH, Smythe HA, Lee P, Obright K, Stitt L (2007) Effect of therapeutic exercise and sleeping neck support on patients with chronic neck pain: a randomized clinical trial. J Rheumatol 34:151–158 (pii: 0315162X-34-151)",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "key": "5121_CR45",
+          "doi-asserted-by": "publisher",
+          "first-page": "419",
+          "DOI": "10.1097/BRS.0b013e3181d51fca",
+          "volume": "36",
+          "author": "D Rendant",
+          "year": "2011",
+          "unstructured": "Rendant D, Pach D, Ludtke R, Reisshauer A, Mietzner A, Willich SN, Witt CM (2011) Qigong versus exercise versus no therapy for patients with chronic neck pain: a randomized controlled trial. Spine (Phila Pa 1976) 36:419–427. doi:\n                        10.1097/BRS.0b013e3181d51fca",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "5121_CR46",
+          "doi-asserted-by": "publisher",
+          "first-page": "895",
+          "DOI": "10.1016/0003-9993%2894%2990115-5",
+          "volume": "75",
+          "author": "M Revel",
+          "year": "1994",
+          "unstructured": "Revel M, Minguet M, Gregoy P, Vaillant J, Manuel JL (1994) Changes in cervicocephalic kinesthesia after a proprioceptive rehabilitation program in patients with neck pain: a randomized controlled study. Arch Phys Med Rehabil 75:895–899. doi:\n                        10.1016/0003-9993%2894%2990115-5",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "5121_CR47",
+          "doi-asserted-by": "publisher",
+          "first-page": "127",
+          "DOI": "10.1016/j.math.2004.08.005",
+          "volume": "10",
+          "author": "JA Cleland",
+          "year": "2005",
+          "unstructured": "Cleland JA, Childs JD, McRae M, Palmer JA, Stowell T (2005) Immediate effects of thoracic manipulation in patients with neck pain: a randomized clinical trial. Man Ther 10:127–135. doi:\n                        10.1016/j.math.2004.08.005",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "5121_CR48",
+          "doi-asserted-by": "publisher",
+          "first-page": "306",
+          "DOI": "10.1016/j.math.2008.04.006",
+          "volume": "14",
+          "author": "J Gonzalez-Iglesias",
+          "year": "2009",
+          "unstructured": "Gonzalez-Iglesias J, Fernandez-de-las-Penas C, Cleland JA, Alburquerque-Sendin F, Palomeque-del-Cerro L, Mendez-Sanchez R (2009) Inclusion of thoracic spine thrust manipulation into an electro-therapy/thermal program for the management of patients with acute mechanical neck pain: a randomized clinical trial. Man Ther 14:306–313. doi:\n                        10.1016/j.math.2008.04.006",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "5121_CR49",
+          "doi-asserted-by": "publisher",
+          "first-page": "20",
+          "DOI": "10.2519/jospt.2009.2914",
+          "volume": "39",
+          "author": "J Gonzalez-Iglesias",
+          "year": "2009",
+          "unstructured": "Gonzalez-Iglesias J, Fernandez-de-las-Penas C, Cleland JA, Gutierrez-Vega Mdel R (2009) Thoracic spine manipulation for the management of patients with neck pain: a randomized clinical trial. J Orthop Sports Phys Ther 39:20–27. doi:\n                        10.2519/jospt.2009.2914",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "5121_CR50",
+          "first-page": "111",
+          "volume": "43",
+          "author": "JR Pikula",
+          "year": "1999",
+          "unstructured": "Pikula JR (1999) The effect of spinal manipulative therapy (SMT) on pain reduction and range of motion in patients with acute unilateral neck pain: a pilot study. J Can Chiropr Assoc 43:111–119",
+          "journal-title": "J Can Chiropr Assoc"
+        },
+        {
+          "key": "5121_CR51",
+          "doi-asserted-by": "publisher",
+          "first-page": "44",
+          "DOI": "10.2519/jospt.2016.5979",
+          "volume": "46",
+          "author": "ST Celenay",
+          "year": "2016",
+          "unstructured": "Celenay ST, Akbayrak T, Kaya DO (2016) A comparison of the effects of stabilization exercises plus manual therapy to those of stabilization exercises alone in patients with nonspecific mechanical neck pain: a randomized clinical trial. J Orthop Sports Phys Ther 46:44–55. doi:\n                        10.2519/jospt.2016.5979",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "5121_CR52",
+          "doi-asserted-by": "crossref",
+          "first-page": "788",
+          "DOI": "10.1097/00007632-200104010-00020",
+          "volume": "26",
+          "author": "G Bronfort",
+          "year": "2001",
+          "unstructured": "Bronfort G, Evans R, Nelson B, Aker PD, Goldsmith CH, Vernon H (2001) A randomized clinical trial of exercise and spinal manipulation for patients with chronic neck pain. Spine (Phila Pa 1976) 26:788–797 (discussion 798–789)",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "5121_CR53",
+          "doi-asserted-by": "publisher",
+          "first-page": "252",
+          "DOI": "10.2519/jospt.2014.5108",
+          "volume": "44",
+          "author": "MJ Mejuto-Vazquez",
+          "year": "2014",
+          "unstructured": "Mejuto-Vazquez MJ, Salom-Moreno J, Ortega-Santiago R, Truyols-Dominguez S, Fernandez-de-Las-Penas C (2014) Short-term changes in neck pain, widespread pressure pain sensitivity, and cervical range of motion after the application of trigger point dry needling in patients with acute mechanical neck pain: a randomized clinical trial. J Orthop Sports Phys Ther 44:252–260. doi:\n                        10.2519/jospt.2014.5108",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "5121_CR54",
+          "doi-asserted-by": "crossref",
+          "first-page": "248",
+          "DOI": "10.1097/00002508-199809000-00012",
+          "volume": "14",
+          "author": "S Birch",
+          "year": "1998",
+          "unstructured": "Birch S, Jamison RN (1998) Controlled trial of Japanese acupuncture for chronic myofascial neck pain: assessment of specific and nonspecific effects of treatment. Clin J Pain 14:248–255",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "5121_CR55",
+          "doi-asserted-by": "publisher",
+          "first-page": "306",
+          "DOI": "10.1089/pho.2004.22.306",
+          "volume": "22",
+          "author": "E Ilbuldu",
+          "year": "2004",
+          "unstructured": "Ilbuldu E, Cakmak A, Disci R, Aydin R (2004) Comparison of laser, dry needling, and placebo laser treatments in myofascial pain syndrome. Photomed Laser Surg 22:306–311. doi:\n                        10.1089/pho.2004.22.306",
+          "journal-title": "Photomed Laser Surg"
+        },
+        {
+          "key": "5121_CR56",
+          "doi-asserted-by": "crossref",
+          "first-page": "83",
+          "DOI": "10.1016/S0304-3959(02)00062-3",
+          "volume": "99",
+          "author": "D Irnich",
+          "year": "2002",
+          "unstructured": "Irnich D, Behrens N, Gleditsch JM, Stor W, Schreiber MA, Schops P, Vickers AJ, Beyer A (2002) Immediate effects of dry needling and acupuncture at distant points in chronic neck pain: results of a randomized, double-blind, sham-controlled crossover trial. Pain 99:83–89 (pii: S0304395902000623)",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "5121_CR57",
+          "doi-asserted-by": "crossref",
+          "first-page": "271",
+          "DOI": "10.1093/rheumatology/25.3.271",
+          "volume": "25",
+          "author": "JP Petrie",
+          "year": "1986",
+          "unstructured": "Petrie JP, Hazleman BL (1986) A controlled study of acupuncture in neck pain. Br J Rheumatol 25:271–275",
+          "journal-title": "Br J Rheumatol"
+        },
+        {
+          "key": "5121_CR58",
+          "doi-asserted-by": "crossref",
+          "first-page": "258",
+          "DOI": "10.1055/s-2002-36555",
+          "volume": "45",
+          "author": "U Seidel",
+          "year": "2002",
+          "unstructured": "Seidel U, Uhlemann C (2002) A randomised controlled double-blind trial comparing dosed lasertherapy on acupuncture points and acupuncture for chronic cervical syndrome. Deutsche Zeitschrift fur Akupunktur 45:258–269",
+          "journal-title": "Deutsche Zeitschrift fur Akupunktur"
+        },
+        {
+          "key": "5121_CR59",
+          "doi-asserted-by": "publisher",
+          "first-page": "95",
+          "DOI": "10.1142/S0192415X91000156",
+          "volume": "19",
+          "author": "M Thomas",
+          "year": "1991",
+          "unstructured": "Thomas M, Eriksson SV, Lundeberg T (1991) A comparative study of diazepam and acupuncture in patients with osteoarthritis pain: a placebo controlled study. Am J Chin Med 19:95–100. doi:\n                        10.1142/S0192415X91000156",
+          "journal-title": "Am J Chin Med"
+        },
+        {
+          "key": "5121_CR60",
+          "doi-asserted-by": "crossref",
+          "first-page": "911",
+          "DOI": "10.7326/0003-4819-141-12-200412210-00007",
+          "volume": "141",
+          "author": "P White",
+          "year": "2004",
+          "unstructured": "White P, Lewith G, Prescott P, Conway J (2004) Acupuncture versus placebo for the treatment of chronic mechanical neck pain: a randomized, controlled trial. Ann Intern Med 141:911–919 (pii: 141/12/911)",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "5121_CR61",
+          "doi-asserted-by": "crossref",
+          "first-page": "S33",
+          "DOI": "10.1136/aim.24.Suppl.33",
+          "volume": "24",
+          "author": "CM Witt",
+          "year": "2006",
+          "unstructured": "Witt CM, Brinkhaus B, Reinhold T, Willich SN (2006) Efficacy, effectiveness, safety and costs of acupuncture for chronic pain—results of a large research initiative. Acupunct Med 24:S33–S39",
+          "journal-title": "Acupunct Med"
+        },
+        {
+          "key": "5121_CR62",
+          "doi-asserted-by": "publisher",
+          "first-page": "98",
+          "DOI": "10.1016/j.pain.2006.05.013",
+          "volume": "125",
+          "author": "CM Witt",
+          "year": "2006",
+          "unstructured": "Witt CM, Jena S, Brinkhaus B, Liecker B, Wegscheider K, Willich SN (2006) Acupuncture for patients with chronic neck pain. Pain 125:98–106. doi:\n                        10.1016/j.pain.2006.05.013",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "5121_CR63",
+          "doi-asserted-by": "publisher",
+          "first-page": "17",
+          "DOI": "10.1136/acupmed-2013-010410",
+          "volume": "32",
+          "author": "JH Cho",
+          "year": "2014",
+          "unstructured": "Cho JH, Nam DH, Kim KT, Lee JH (2014) Acupuncture with non-steroidal anti-inflammatory drugs (NSAIDs) versus acupuncture or NSAIDs alone for the treatment of chronic neck pain: an assessor-blinded randomised controlled pilot study. Acupunct Med 32:17–23. doi:\n                        10.1136/acupmed-2013-010410",
+          "journal-title": "Acupunct Med"
+        },
+        {
+          "key": "5121_CR64",
+          "doi-asserted-by": "publisher",
+          "first-page": "233",
+          "DOI": "10.1097/AJP.0b013e31818b7912",
+          "volume": "25",
+          "author": "KJ Sherman",
+          "year": "2009",
+          "unstructured": "Sherman KJ, Cherkin DC, Hawkes RJ, Miglioretti DL, Deyo RA (2009) Randomized trial of therapeutic massage for chronic neck pain. Clin J Pain 25:233–238. doi:\n                        10.1097/AJP.0b013e31818b7912",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "5121_CR65",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Predel HG, Giannetti B, Pabst H, Schaefer A, Hug AM, Burnett I (2013) Efficacy and safety of diclofenac diethylamine 1.16% gel in acute neck pain: a randomized, double-blind, placebo-controlled study. BMC Musculoskelet Disord 14:250. doi: \n                        10.1186/1471-2474-14-250",
+          "DOI": "10.1186/1471-2474-14-250"
+        },
+        {
+          "key": "5121_CR66",
+          "unstructured": "Institut for RF (2011) N02B Svage analgetika: Rekommandation"
+        },
+        {
+          "key": "5121_CR67",
+          "unstructured": "Institut for RF (2011) M01 og M09 NSAID, glukosamin og hyaluronsyre: Rekommandation"
+        },
+        {
+          "key": "5121_CR68",
+          "unstructured": "Institut for RF (2011) N02A Opioider: Rekommandation"
+        },
+        {
+          "key": "5121_CR69",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.7326/0003-4819-156-1-201201030-00002",
+          "volume": "156",
+          "author": "G Bronfort",
+          "year": "2012",
+          "unstructured": "Bronfort G, Evans R, Anderson AV, Svendsen KH, Bracha Y, Grimm RH (2012) Spinal manipulation, medication, or home exercise with advice for acute and subacute neck pain: a randomized trial. Ann Intern Med 156:1–10. doi:\n                        10.7326/0003-4819-156-1-201201030-00002",
+          "journal-title": "Ann Intern Med"
+        },
+        {
+          "key": "5121_CR70",
+          "unstructured": "Harboe KM, Jensen MP (2013) Akut uspecifikt lændehold. Rationel Farmakoterapi 2013"
+        },
+        {
+          "key": "5121_CR71",
+          "unstructured": "Lægemiddelstyrelsen (2000) Klinisk rationel smertebehandling. In. pp. 17 februar 2015. \n                        http://www.irf.dk/dk/publikationer/rationel_farmakoterapi/maanedsblad/2000/rationel_farmakoterapi_nr_2014_juni_2000_2002.htm"
+        },
+        {
+          "key": "5121_CR72",
+          "doi-asserted-by": "publisher",
+          "first-page": "CD004250",
+          "DOI": "10.1002/14651858.CD004250.pub4",
+          "volume": "8",
+          "author": "TM Kay",
+          "year": "2012",
+          "unstructured": "Kay TM, Gross A, Goldsmith CH, Rutherford S, Voth S, Hoving JL, Bronfort G, Santaguida PL (2012) Exercises for mechanical neck disorders. Cochrane Database Syst Rev 8:CD004250. doi:\n                        10.1002/14651858.CD004250.pub4",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "5121_CR73",
+          "doi-asserted-by": "publisher",
+          "first-page": "b3883",
+          "DOI": "10.1136/bmj.b3883",
+          "volume": "339",
+          "author": "B Kuijper",
+          "year": "2009",
+          "unstructured": "Kuijper B, Tans JT, Beelen A, Nollet F, de Visser M (2009) Cervical collar or physiotherapy versus wait and see policy for recent onset cervical radiculopathy: randomised trial. BMJ 339:b3883. doi:\n                        10.1136/bmj.b3883",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "5121_CR74",
+          "first-page": "71",
+          "volume": "21",
+          "author": "J Ragonese",
+          "year": "2009",
+          "unstructured": "Ragonese J (2009) A randomized trial comparing manual physical therapy to therapeutic exercises, to a combination of therapies, for the treatment of cervical radiculopathy. Orthop Phys Ther Pract 21:71–76",
+          "journal-title": "Orthop Phys Ther Pract"
+        },
+        {
+          "key": "5121_CR75",
+          "volume-title": "The cervical and thoracic spine: mechanical diagnosis and therapy",
+          "author": "R McKenzie",
+          "year": "2006",
+          "unstructured": "McKenzie R, May S (2006) The cervical and thoracic spine: mechanical diagnosis and therapy, vol One. Waikanae Spinal Publications, New Zealand"
+        },
+        {
+          "key": "5121_CR76",
+          "doi-asserted-by": "crossref",
+          "first-page": "253",
+          "DOI": "10.1136/bmj.1.5482.253",
+          "volume": "1",
+          "author": "BAPM",
+          "year": "1966",
+          "unstructured": "BAPM (1966) Pain in the neck and arm: a multicentre trial of the effects of physiotherapy, arranged by the British Association of Physical Medicine. BMJ 1:253–258",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "5121_CR77",
+          "doi-asserted-by": "publisher",
+          "first-page": "45",
+          "DOI": "10.2519/jospt.2014.5065",
+          "volume": "44",
+          "author": "JM Fritz",
+          "year": "2014",
+          "unstructured": "Fritz JM, Thackeray A, Brennan GP, Childs JD (2014) Exercise only, exercise with mechanical traction, or exercise with over-door traction for patients with cervical radiculopathy, with or without consideration of status on a previously described subgrouping rule: a randomized clinical trial. J Orthop Sports Phys Ther 44:45–57. doi:\n                        10.2519/jospt.2014.5065",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "5121_CR78",
+          "doi-asserted-by": "publisher",
+          "first-page": "638",
+          "DOI": "10.1016/j.rehab.2009.07.035",
+          "volume": "52",
+          "author": "A Jellad",
+          "year": "2009",
+          "unstructured": "Jellad A, Ben Salah Z, Boudokhane S, Migaou H, Bahri I, Rejeb N (2009) The value of intermittent cervical traction in recent cervical radiculopathy. Ann Phys Rehabil Med 52:638–652. doi:\n                        10.1016/j.rehab.2009.07.035",
+          "journal-title": "Ann Phys Rehabil Med"
+        },
+        {
+          "key": "5121_CR79",
+          "doi-asserted-by": "publisher",
+          "first-page": "632",
+          "DOI": "10.2522/ptj.20080283",
+          "volume": "89",
+          "author": "IA Young",
+          "year": "2009",
+          "unstructured": "Young IA, Michener LA, Cleland JA, Aguilera AJ, Snyder AR (2009) Manual therapy, exercise, and traction for patients with cervical radiculopathy: a randomized clinical trial. Phys Ther 89:632–642. doi:\n                        10.2522/ptj.20080283",
+          "journal-title": "Phys Ther"
+        }
+      ],
+      "container-title": [
+        "European Spine Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/article/10.1007/s00586-017-5121-8/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s00586-017-5121-8.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s00586-017-5121-8.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2017,
+            9,
+            6
+          ]
+        ],
+        "date-time": "2017-09-06T18:37:50Z",
+        "timestamp": 1504723070000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://link.springer.com/10.1007/s00586-017-5121-8"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2017,
+            5,
+            18
+          ]
+        ]
+      },
+      "references-count": 79,
+      "journal-issue": {
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              9
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "5121"
+      ],
+      "URL": "https://doi.org/10.1007/s00586-017-5121-8",
+      "relation": {},
+      "ISSN": [
+        "0940-6719",
+        "1432-0932"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0940-6719"
+        },
+        {
+          "type": "electronic",
+          "value": "1432-0932"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            5,
+            18
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,622 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_msksp_2023_102722.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_msksp_2023_102722",
+  "doi": "10.1016/j.msksp.2023.102722",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:58.739776Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            7
+          ]
+        ],
+        "date-time": "2025-08-07T21:12:08Z",
+        "timestamp": 1754601128821
+      },
+      "reference-count": 29,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2023-02-01T00:00:00Z",
+            "timestamp": 1675209600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2023-02-01T00:00:00Z",
+            "timestamp": 1675209600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2023-02-01T00:00:00Z",
+            "timestamp": 1675209600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2023-02-01T00:00:00Z",
+            "timestamp": 1675209600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2023-02-01T00:00:00Z",
+            "timestamp": 1675209600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2023-02-01T00:00:00Z",
+            "timestamp": 1675209600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.fr",
+          "clinicalkey.jp",
+          "clinicalkey.com.au",
+          "clinicalkey.es",
+          "clinicalkey.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            2
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.msksp.2023.102722",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2023,
+            1,
+            21
+          ]
+        ],
+        "date-time": "2023-01-21T07:26:36Z",
+        "timestamp": 1674285996000
+      },
+      "page": "102722",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 9,
+      "special_numbering": "C",
+      "title": [
+        "Understanding barriers to adherence to home exercise programs in patients with musculoskeletal neck pain"
+      ],
+      "prefix": "10.1016",
+      "volume": "63",
+      "author": [
+        {
+          "given": "Peer",
+          "family": "Himler",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Griffin T.",
+          "family": "Lee",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Daniel I.",
+          "family": "Rhon",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Jodi L.",
+          "family": "Young",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Chad E.",
+          "family": "Cook",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Casey",
+          "family": "Rentmeester",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib1",
+          "doi-asserted-by": "crossref",
+          "first-page": "2727",
+          "DOI": "10.1589/jpts.28.2727",
+          "article-title": "The effectiveness of home-based exercise programs for low back pain patients",
+          "volume": "28",
+          "author": "Anar",
+          "year": "2016",
+          "journal-title": "J. Phys. Ther. Sci."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib2",
+          "doi-asserted-by": "crossref",
+          "first-page": "e47",
+          "DOI": "10.2196/mhealth.8518",
+          "article-title": "Patient involvement with home-based exercise programs: can connected health interventions influence adherence?",
+          "volume": "6",
+          "author": "Argent",
+          "year": "2018",
+          "journal-title": "JMIR Mhealth Uhealth"
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "1940",
+          "DOI": "10.1016/j.spinee.2013.08.027",
+          "article-title": "Individual and intervention-related factors associated with adherence to home exercise in chronic low back pain: a systematic review",
+          "volume": "13",
+          "author": "Beinart",
+          "year": "2013",
+          "journal-title": "Spine J."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "136",
+          "DOI": "10.1177/1049732313519710",
+          "article-title": "A method of phenomenological interviewing",
+          "volume": "24",
+          "author": "Bevan",
+          "year": "2014",
+          "journal-title": "Qual. Health Res."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "A1",
+          "DOI": "10.2519/jospt.2017.0302",
+          "article-title": "Neck pain: revision 2017",
+          "volume": "47",
+          "author": "Blanpied",
+          "year": "2017",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib6",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1136/bmjopen-2014-005044",
+          "article-title": "A systematic review of measures of self-reported adherence to unsupervised home-based rehabilitation exercise programmes, and their psychometric properties",
+          "volume": "4",
+          "author": "Bollen",
+          "year": "2014",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "207",
+          "DOI": "10.1111/j.1547-5069.2003.tb00001.x",
+          "article-title": "Adherence to long-term therapies: evidence for action",
+          "volume": "35",
+          "author": "Burkhart",
+          "year": "2003",
+          "journal-title": "J. Nurs. Scholarsh."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib8",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3390/ijerph18042023",
+          "article-title": "Key factors associated with adherence to physical exercise in patients with chronic diseases and older adults: an umbrella review",
+          "volume": "18",
+          "author": "Collado-Mateo",
+          "year": "2021",
+          "journal-title": "Int. J. Environ. Res. Publ. Health"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.msksp.2023.102722_bib29",
+          "doi-asserted-by": "crossref",
+          "first-page": "28",
+          "DOI": "10.7748/nr2012.09.20.1.28.c9305",
+          "article-title": "Philosophy of phenomenology: how understanding aids research",
+          "volume": "20",
+          "author": "Converse",
+          "year": "2012",
+          "journal-title": "Nurse Res."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "180",
+          "DOI": "10.1093/ptj/75.3.180",
+          "article-title": "Disability and functional status in patients with low back pain receiving workers' compensation: a descriptive study with implications for the efficacy of physical therapy",
+          "volume": "75",
+          "author": "Di Fabio",
+          "year": "1995",
+          "journal-title": "Phys. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib10",
+          "doi-asserted-by": "crossref",
+          "first-page": "519",
+          "DOI": "10.3109/09638288.2016.1153160",
+          "article-title": "Predictors of adherence to home-based physical therapies: a systematic review",
+          "volume": "39",
+          "author": "Essery",
+          "year": "2017",
+          "journal-title": "Disabil. Rehabil."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib11",
+          "first-page": "39",
+          "article-title": "The power of outcomes: FOTO industrial outcomes tool -- initial assessment",
+          "volume": "16",
+          "author": "Hart",
+          "year": "2001",
+          "journal-title": "Work"
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "783",
+          "DOI": "10.1016/j.berh.2011.01.019",
+          "article-title": "The epidemiology of neck pain",
+          "volume": "24",
+          "author": "Hoy",
+          "year": "2010",
+          "journal-title": "Best Pract. Res. Clin. Rheumatol."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "220",
+          "DOI": "10.1016/j.math.2009.12.004",
+          "article-title": "Barriers to treatment adherence in physiotherapy outpatient clinics: a systematic review",
+          "volume": "15",
+          "author": "Jack",
+          "year": "2010",
+          "journal-title": "Man. Ther."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib14",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.1186/s12874-018-0657-9",
+          "article-title": "Methods of sample size calculation in descriptive retrospective burden of illness studies",
+          "volume": "19",
+          "author": "Johnston",
+          "year": "2019",
+          "journal-title": "BMC Med. Res. Methodol."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib15",
+          "article-title": "Interventions to improve adherence to exercise for chronic musculoskeletal pain in adults",
+          "volume": "CD005956",
+          "author": "Jordan",
+          "year": "2010",
+          "journal-title": "Cochrane Database Syst. Rev."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib16",
+          "doi-asserted-by": "crossref",
+          "first-page": "26",
+          "DOI": "10.1186/s12891-021-04957-4",
+          "article-title": "Neck pain: global epidemiology, trends and risk factors",
+          "volume": "23",
+          "author": "Kazeminasab",
+          "year": "2022",
+          "journal-title": "BMC Muscoskel. Disord."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib17",
+          "doi-asserted-by": "crossref",
+          "first-page": "299",
+          "DOI": "10.1080/21679169.2019.1617777",
+          "article-title": "Adherence to a home exercise programme following a clinical programme for non-acute non-specific low back pain: an exploratory study",
+          "volume": "22",
+          "author": "L'Heureux",
+          "year": "2020",
+          "journal-title": "European Journal of Physiotherapy"
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib18",
+          "doi-asserted-by": "crossref",
+          "first-page": "1881",
+          "DOI": "10.1007/s00586-009-1093-7",
+          "article-title": "Spinal segmental stabilisation exercises for chronic low back pain: programme adherence and its influence on clinical outcome",
+          "volume": "18",
+          "author": "Mannion",
+          "year": "2009",
+          "journal-title": "Eur. Spine J."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib19",
+          "first-page": "11",
+          "article-title": "Does sample size matter in qualitative research?: a review of qualitative interviews in is research",
+          "volume": "54",
+          "author": "Marshall",
+          "year": "2013",
+          "journal-title": "J. Comput. Inf. Syst."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib20",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.1186/1471-2474-10-155",
+          "article-title": "Predictive factors of adherence to frequency and duration components in home exercise programs for neck and low back pain: an observational study",
+          "volume": "10",
+          "author": "Medina-Mirapeix",
+          "year": "2009",
+          "journal-title": "BMC Muscoskel. Disord."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib21",
+          "first-page": "384",
+          "article-title": "Adherence to a stability exercise programme in patients with chronic low back pain",
+          "volume": "84",
+          "author": "Nava-Bringas",
+          "year": "2016",
+          "journal-title": "Cir. Cir."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib22",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1016/j.rehab.2016.01.009",
+          "article-title": "Barriers to home-based exercise program adherence with chronic low back pain: patient expectations regarding new technologies",
+          "volume": "59",
+          "author": "Palazzo",
+          "year": "2016",
+          "journal-title": "Ann. Phys. Rehabil. Med."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib23",
+          "doi-asserted-by": "crossref",
+          "first-page": "142",
+          "DOI": "10.5195/jmla.2018.319",
+          "article-title": "Research electronic data capture (REDCap)",
+          "volume": "106",
+          "author": "Patridge",
+          "year": "2018",
+          "journal-title": "J. Med. Libr. Assoc."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1016/j.physio.2015.10.003",
+          "article-title": "Interventions to aid patient adherence to physiotherapist prescribed self-management strategies: a systematic review",
+          "volume": "102",
+          "author": "Peek",
+          "year": "2016",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib25",
+          "doi-asserted-by": "crossref",
+          "first-page": "m791",
+          "DOI": "10.1136/bmj.m791",
+          "article-title": "Global, regional, and national burden of neck pain in the general population, 1990-2017: systematic analysis of the Global Burden of Disease Study 2017",
+          "volume": "368",
+          "author": "Safiri",
+          "year": "2020",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "349",
+          "DOI": "10.1093/intqhc/mzm042",
+          "article-title": "Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups",
+          "volume": "19",
+          "author": "Tong",
+          "year": "2007",
+          "journal-title": "Int. J. Qual. Health Care"
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib27",
+          "doi-asserted-by": "crossref",
+          "first-page": "148",
+          "DOI": "10.1186/s12874-018-0594-7",
+          "article-title": "Characterising and justifying sample size sufficiency in interview-based studies: systematic analysis of qualitative health research over a 15-year period",
+          "volume": "18",
+          "author": "Vasileiou",
+          "year": "2018",
+          "journal-title": "BMC Med. Res. Methodol."
+        },
+        {
+          "key": "10.1016/j.msksp.2023.102722_bib28",
+          "doi-asserted-by": "crossref",
+          "first-page": "62",
+          "DOI": "10.1179/2042618613Y.0000000047",
+          "article-title": "The influence of home exercise programs for patients with non-specific or specific neck pain: a systematic review of the literature",
+          "volume": "24",
+          "author": "Zronek",
+          "year": "2016",
+          "journal-title": "J. Man. Manip. Ther."
+        }
+      ],
+      "container-title": [
+        "Musculoskeletal Science and Practice"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781223000073?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2468781223000073?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            2,
+            24
+          ]
+        ],
+        "date-time": "2023-02-24T07:13:13Z",
+        "timestamp": 1677222793000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2468781223000073"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            2
+          ]
+        ]
+      },
+      "references-count": 29,
+      "alternative-id": [
+        "S2468781223000073"
+      ],
+      "URL": "https://doi.org/10.1016/j.msksp.2023.102722",
+      "relation": {},
+      "ISSN": [
+        "2468-7812"
+      ],
+      "issn-type": [
+        {
+          "value": "2468-7812",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            2
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Understanding barriers to adherence to home exercise programs in patients with musculoskeletal neck pain",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Musculoskeletal Science and Practice",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.msksp.2023.102722",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2023 Elsevier Ltd. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "102722"
+    }
+  }
+}

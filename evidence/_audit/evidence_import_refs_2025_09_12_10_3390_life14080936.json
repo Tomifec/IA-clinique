@@ -1,0 +1,534 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_3390_life14080936.md",
+  "id": "evidence_import_refs_2025_09_12_10_3390_life14080936",
+  "doi": "10.3390/life14080936",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:57.613859Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            15
+          ]
+        ],
+        "date-time": "2025-05-15T20:47:51Z",
+        "timestamp": 1747342071620,
+        "version": "3.37.3"
+      },
+      "reference-count": 33,
+      "publisher": "MDPI AG",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                7,
+                25
+              ]
+            ],
+            "date-time": "2024-07-25T00:00:00Z",
+            "timestamp": 1721865600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Life"
+      ],
+      "abstract": "<jats:p>Heart failure (HF) remains a significant burden on global healthcare systems, necessitating innovative approaches for its management. This manuscript critically evaluates the role of remote monitoring and telemedicine in revolutionizing HF care delivery. Drawing upon a synthesis of current literature and clinical practices, it delineates the pivotal benefits, challenges, and personalized strategies associated with these technologies in HF management. The analysis highlights the potential of remote monitoring and telemedicine in facilitating timely interventions, enhancing patient engagement, and optimizing treatment adherence, thereby ameliorating clinical outcomes. However, technical intricacies, regulatory frameworks, and socioeconomic factors pose formidable hurdles to widespread adoption. The manuscript emphasizes the imperative of tailored interventions, leveraging advancements in artificial intelligence and machine learning, to address individual patient needs effectively. Looking forward, sustained innovation, interdisciplinary collaboration, and strategic investment are advocated to realize the transformative potential of remote monitoring and telemedicine in HF management, thereby advancing patient-centric care paradigms and optimizing healthcare resource allocation.</jats:p>",
+      "DOI": "10.3390/life14080936",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            26
+          ]
+        ],
+        "date-time": "2024-07-26T10:17:44Z",
+        "timestamp": 1721989064000
+      },
+      "page": "936",
+      "source": "Crossref",
+      "is-referenced-by-count": 8,
+      "title": [
+        "Unveiling the Potential: Remote Monitoring and Telemedicine in Shaping the Future of Heart Failure Management"
+      ],
+      "prefix": "10.3390",
+      "volume": "14",
+      "author": [
+        {
+          "given": "Ju-Chi",
+          "family": "Liu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Division of Cardiology, Department of Internal Medicine, Shuang Ho Hospital, Ministry of Health and Welfare, Taipei Medical University, New Taipei City 23561, Taiwan"
+            },
+            {
+              "name": "Division of Cardiology, Department of Internal Medicine, School of Medicine, College of Medicine, Taipei Medical University, Taipei City 11002, Taiwan"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0003-4130-7703",
+          "authenticated-orcid": false,
+          "given": "Chun-Yao",
+          "family": "Cheng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Medical Education, National Taiwan University Hospital, Taipei 100225, Taiwan"
+            }
+          ]
+        },
+        {
+          "given": "Tzu-Hurng",
+          "family": "Cheng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Biochemistry, School of Medicine, College of Medicine, China Medical University, Taichung City 404333, Taiwan"
+            }
+          ]
+        },
+        {
+          "given": "Chen-Ning",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Center of Integrated, Shuang Ho Hospital, Ministry of Health and Welfare, Taipei Medical University, New Taipei City 23561, Taiwan"
+            }
+          ]
+        },
+        {
+          "given": "Jin-Jer",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Division of Cardiology, Department of Internal Medicine and Graduate Institute of Clinical Medical Science, China Medical University, Taichung 115201, Taiwan"
+            },
+            {
+              "name": "Institute of Biomedical Sciences, Academia Sinica, Taipei 11529, Taiwan"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6067-1306",
+          "authenticated-orcid": false,
+          "given": "Wen-Rui",
+          "family": "Hao",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Division of Cardiology, Department of Internal Medicine, Shuang Ho Hospital, Ministry of Health and Welfare, Taipei Medical University, New Taipei City 23561, Taiwan"
+            },
+            {
+              "name": "Division of Cardiology, Department of Internal Medicine, School of Medicine, College of Medicine, Taipei Medical University, Taipei City 11002, Taiwan"
+            }
+          ]
+        }
+      ],
+      "member": "1968",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            25
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "e032716",
+          "DOI": "10.1161/JAHA.123.032716",
+          "article-title": "Prognostic Value of Objective Social Isolation and Loneliness in Older Patients With Heart Failure: Subanalysis of FRAGILE-HF and Kitasato Cohort",
+          "volume": "13",
+          "author": "Saito",
+          "year": "2024",
+          "journal-title": "J. Am. Heart Assoc."
+        },
+        {
+          "key": "ref_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Garanin, A., Rubanenko, A., Trusov, Y., Rubanenko, O., and Kolsanov, A. (2024). Comparative Effectiveness of Complex Telemedicine Support in Prevention of Hospitalizations and Mortality in Patients with Heart Failure: A Systematic Review and Meta-Analysis. Life, 14.",
+          "DOI": "10.3390/life14040507"
+        },
+        {
+          "key": "ref_3",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ahmed, F.Z., Sammut-Powell, C., Martin, G.P., Callan, P., Cunnington, C., Kahn, M., Kale, M., Weldon, T., Harwood, R., and Fullwood, C. (2024). Association of a device-based remote management heart failure pathway with outcomes: TriageHF Plus real-world evaluation. ESC Heart Fail.",
+          "DOI": "10.1002/ehf2.14821"
+        },
+        {
+          "key": "ref_4",
+          "doi-asserted-by": "crossref",
+          "first-page": "56",
+          "DOI": "10.1016/j.amjcard.2023.03.035",
+          "article-title": "Machine Learning-Based Prediction of Atrial Fibrillation Risk Using Electronic Medical Records in Older Aged Patients",
+          "volume": "198",
+          "author": "Kao",
+          "year": "2023",
+          "journal-title": "Am. J. Cardiol."
+        },
+        {
+          "key": "ref_5",
+          "doi-asserted-by": "crossref",
+          "first-page": "104240",
+          "DOI": "10.1016/j.mvr.2021.104240",
+          "article-title": "Discrimination of vascular aging using the arterial pulse spectrum and machine-learning analysis",
+          "volume": "139",
+          "author": "Hsiu",
+          "year": "2022",
+          "journal-title": "Microvasc. Res."
+        },
+        {
+          "key": "ref_6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chen, C.C., Chang, C.K., Chiu, C.C., Yang, T.Y., Hao, W.R., Lin, C.H., Fang, Y.A., Jian, W., Hsu, M.H., and Yang, T.L. (2022). Machine Learning Analyses Revealed Distinct Arterial Pulse Variability According to Side Effects of Pfizer-BioNTech COVID-19 Vaccine (BNT162b2). J. Clin. Med., 11.",
+          "DOI": "10.3390/jcm11206119"
+        },
+        {
+          "key": "ref_7",
+          "doi-asserted-by": "crossref",
+          "first-page": "365",
+          "DOI": "10.3233/CH-201056",
+          "article-title": "Beat-to-beat and spectral analyses of the noninvasive radial pulse and laser-Doppler signals in patients with hypertension",
+          "volume": "79",
+          "author": "Liu",
+          "year": "2021",
+          "journal-title": "Clin. Hemorheol. Microcirc."
+        },
+        {
+          "key": "ref_8",
+          "doi-asserted-by": "crossref",
+          "first-page": "105",
+          "DOI": "10.1016/j.cmpb.2016.04.003",
+          "article-title": "Cloud-based BP system integrated with CPOE improves self-management of the hypertensive patients: A randomized controlled trial",
+          "volume": "132",
+          "author": "Lee",
+          "year": "2016",
+          "journal-title": "Comput. Methods Programs Biomed."
+        },
+        {
+          "key": "ref_9",
+          "doi-asserted-by": "crossref",
+          "first-page": "3637",
+          "DOI": "10.1002/ehf2.14553",
+          "article-title": "Remote management of worsening heart failure to avoid hospitalization in a real-world setting",
+          "volume": "10",
+          "author": "Ploux",
+          "year": "2023",
+          "journal-title": "ESC Heart Fail."
+        },
+        {
+          "key": "ref_10",
+          "doi-asserted-by": "crossref",
+          "first-page": "e37832",
+          "DOI": "10.2196/37832",
+          "article-title": "Deployment of an End-to-End Remote, Digitalized Clinical Study Protocol in COVID-19: Process Evaluation",
+          "volume": "6",
+          "author": "Zahradka",
+          "year": "2022",
+          "journal-title": "JMIR Form. Res."
+        },
+        {
+          "key": "ref_11",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ziacchi, M., Molon, G., Giudici, V., Botto, G.L., Viscusi, M., Brasca, F., Santoro, A., Curcio, A., Manzo, M., and Mauro, E. (2023). Integration of a Smartphone HF-Dedicated App in the Remote Monitoring of Heart Failure Patients with Cardiac Implantable Electronic Devices: Patient Access, Acceptance, and Adherence to Use. J. Clin. Med., 12.",
+          "DOI": "10.2139/ssrn.4417051"
+        },
+        {
+          "key": "ref_12",
+          "first-page": "20552076221116774",
+          "article-title": "Remote patient monitoring for chronic heart failure in France: When an innovative funding program (ETAPES) meets an innovative solution (Satelia(R) Cardio)",
+          "volume": "8",
+          "author": "Pages",
+          "year": "2022",
+          "journal-title": "Digit Health"
+        },
+        {
+          "key": "ref_13",
+          "doi-asserted-by": "crossref",
+          "first-page": "20552076231196998",
+          "DOI": "10.1177/20552076231196998",
+          "article-title": "Sustainable adoption of noninvasive telemonitoring for chronic heart failure: A qualitative study in the Netherlands",
+          "volume": "9",
+          "author": "Auener",
+          "year": "2023",
+          "journal-title": "Digit Health"
+        },
+        {
+          "key": "ref_14",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ghilencea, L.N., Chiru, M.R., Stolcova, M., Spiridon, G., Manea, L.M., Stanescu, A.A., Bokhari, A., Kilic, I.D., Secco, G.G., and Foin, N. (2022). Telemedicine: Benefits for Cardiovascular Patients in the COVID-19 Era. Front. Cardiovasc. Med., 9.",
+          "DOI": "10.3389/fcvm.2022.868635"
+        },
+        {
+          "key": "ref_15",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Singhal, A., Riley, J.P., and Cowie, M.R. (2023). Benefits and challenges of telemedicine for heart failure consultations: A qualitative study. BMC Health Serv. Res., 23.",
+          "DOI": "10.1186/s12913-023-09872-z"
+        },
+        {
+          "key": "ref_16",
+          "doi-asserted-by": "crossref",
+          "first-page": "e676",
+          "DOI": "10.1016/S2589-7500(22)00124-8",
+          "article-title": "Efficacy of telemedicine for the management of cardiovascular disease: A systematic review and meta-analysis",
+          "volume": "4",
+          "author": "Kuan",
+          "year": "2022",
+          "journal-title": "Lancet Digit Health"
+        },
+        {
+          "key": "ref_17",
+          "doi-asserted-by": "crossref",
+          "first-page": "e53500",
+          "DOI": "10.2196/53500",
+          "article-title": "Economic Evaluations of Digital Health Interventions for Patients With Heart Failure: Systematic Review",
+          "volume": "26",
+          "author": "Zakiyah",
+          "year": "2024",
+          "journal-title": "J. Med. Internet Res."
+        },
+        {
+          "key": "ref_18",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Islam, M.M., Poly, T.N., Alsinglawi, B., Lin, L.F., Chien, S.C., Liu, J.C., and Jian, W.S. (2021). Application of Artificial Intelligence in COVID-19 Pandemic: Bibliometric Analysis. Healthcare, 9.",
+          "DOI": "10.3390/healthcare9040441"
+        },
+        {
+          "key": "ref_19",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chen, S.C., Xirasagar, S., Liu, J.C., Kao, Y.W., Shia, B.C., Yang, T.H., and Lin, H.C. (2020). A Population-Based Study of Healthcare Resource Utilization in Patients with Mitral Valve Prolapse. Int. J. Environ. Res. Public. Health, 17.",
+          "DOI": "10.3390/ijerph17051622"
+        },
+        {
+          "key": "ref_20",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Storm, M., Morken, I.M., Austin, R.C., Nordfonn, O., Wathne, H.B., Urstad, K.H., Karlsen, B., Dalen, I., Gjeilo, K.H., and Richardson, A. (2024). Evaluation of the nurse-assisted eHealth intervention ‘eHealth@Hospital-2-Home’ on self-care by patients with heart failure and colorectal cancer post-hospital discharge: Protocol for a randomised controlled trial. BMC Health Serv. Res., 24.",
+          "DOI": "10.1186/s12913-023-10508-5"
+        },
+        {
+          "key": "ref_21",
+          "doi-asserted-by": "crossref",
+          "first-page": "e25251",
+          "DOI": "10.2196/25251",
+          "article-title": "Exploring Barriers to and Enablers of the Adoption of Information and Communication Technology for the Care of Older Adults With Chronic Diseases: Scoping Review",
+          "volume": "5",
+          "author": "Zaman",
+          "year": "2022",
+          "journal-title": "JMIR Aging"
+        },
+        {
+          "key": "ref_22",
+          "doi-asserted-by": "crossref",
+          "first-page": "99",
+          "DOI": "10.1097/JCN.0b013e3181ed7d12",
+          "article-title": "The impact of sleep quality and daytime sleepiness on global quality of life in community-dwelling patients with heart failure",
+          "volume": "26",
+          "author": "Liu",
+          "year": "2011",
+          "journal-title": "J. Cardiovasc. Nurs."
+        },
+        {
+          "key": "ref_23",
+          "doi-asserted-by": "crossref",
+          "first-page": "166",
+          "DOI": "10.1097/JCN.0000000000000239",
+          "article-title": "Effect of Feedback Signal on Blood Pressure Self-regulation Capability in Individuals With Prehypertension or Stage I Hypertension: A Randomized Controlled Study",
+          "volume": "31",
+          "author": "Wang",
+          "year": "2016",
+          "journal-title": "J. Cardiovasc. Nurs."
+        },
+        {
+          "key": "ref_24",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lee, K.C., Breznen, B., Ukhova, A., Martin, S.S., and Koehler, F. (2023). Virtual healthcare solutions in heart failure: A literature review. Front. Cardiovasc. Med., 10.",
+          "DOI": "10.3389/fcvm.2023.1231000"
+        },
+        {
+          "key": "ref_25",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Shara, N., Bjarnadottir, M.V., Falah, N., Chou, J., Alqutri, H.S., Asch, F.M., Anderson, K.M., Bennett, S.S., Kuhn, A., and Montalvo, B. (2022). Voice activated remote monitoring technology for heart failure patients: Study design, feasibility and observations from a pilot randomized control trial. PLoS ONE, 17.",
+          "DOI": "10.1371/journal.pone.0267794"
+        },
+        {
+          "key": "ref_26",
+          "doi-asserted-by": "crossref",
+          "first-page": "771",
+          "DOI": "10.1089/tmj.2023.0187",
+          "article-title": "Telenursing and Remote Patient Monitoring in Cardiovascular Health",
+          "volume": "30",
+          "author": "Abraham",
+          "year": "2024",
+          "journal-title": "Telemed. J. E Health"
+        },
+        {
+          "key": "ref_27",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ciotola, F., Pyxaras, S., Rittger, H., and Buia, V. (2024). MEMS Technology in Cardiology: Advancements and Applications in Heart Failure Management Focusing on the CardioMEMS Device. Sensors, 24.",
+          "DOI": "10.3390/s24092922"
+        },
+        {
+          "key": "ref_28",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Senarath, S., Fernie, G., and Roshan Fekr, A. (2021). Influential Factors in Remote Monitoring of Heart Failure Patients: A Review of the Literature and Direction for Future Research. Sensors, 21.",
+          "DOI": "10.3390/s21113575"
+        },
+        {
+          "key": "ref_29",
+          "doi-asserted-by": "crossref",
+          "first-page": "682",
+          "DOI": "10.1016/j.cardfail.2018.08.011",
+          "article-title": "Remote Monitoring of Patients With Heart Failure: A White Paper From the Heart Failure Society of America Scientific Statements Committee",
+          "volume": "24",
+          "author": "Dickinson",
+          "year": "2018",
+          "journal-title": "J. Card. Fail."
+        },
+        {
+          "key": "ref_30",
+          "doi-asserted-by": "crossref",
+          "first-page": "D113",
+          "DOI": "10.1093/eurheartj/sux024",
+          "article-title": "The future of telemedicine for the management of heart failure patients: A Consensus Document of the Italian Association of Hospital Cardiologists (A.N.M.C.O), the Italian Society of Cardiology (S.I.C.) and the Italian Society for Telemedicine and eHealth (Digital S.I.T.)",
+          "volume": "19",
+          "author": "Casolo",
+          "year": "2017",
+          "journal-title": "Eur. Heart J. Suppl."
+        },
+        {
+          "key": "ref_31",
+          "doi-asserted-by": "crossref",
+          "first-page": "S255",
+          "DOI": "10.37765/ajmc.2022.89272",
+          "article-title": "Rethinking heart failure: Patient classification and treatment",
+          "volume": "28",
+          "author": "Clark",
+          "year": "2022",
+          "journal-title": "Am. J. Manag. Care"
+        },
+        {
+          "key": "ref_32",
+          "doi-asserted-by": "crossref",
+          "first-page": "L2",
+          "DOI": "10.1093/eurheartjsupp/suac112",
+          "article-title": "Reflecting on the advancements of HFrEF therapies over the last two decades and predicting what is yet to come",
+          "volume": "24",
+          "author": "Pina",
+          "year": "2022",
+          "journal-title": "Eur. Heart J. Suppl."
+        },
+        {
+          "key": "ref_33",
+          "doi-asserted-by": "crossref",
+          "first-page": "920",
+          "DOI": "10.1177/2047487319830531",
+          "article-title": "Mobile health and implantable cardiac devices: Patients’ expectations",
+          "volume": "26",
+          "author": "Villani",
+          "year": "2019",
+          "journal-title": "Eur. J. Prev. Cardiol."
+        }
+      ],
+      "container-title": [
+        "Life"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.mdpi.com/2075-1729/14/8/936/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            26
+          ]
+        ],
+        "date-time": "2024-07-26T14:35:21Z",
+        "timestamp": 1722004521000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.mdpi.com/2075-1729/14/8/936"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            25
+          ]
+        ]
+      },
+      "references-count": 33,
+      "journal-issue": {
+        "issue": "8",
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              8
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "life14080936"
+      ],
+      "URL": "https://doi.org/10.3390/life14080936",
+      "relation": {},
+      "ISSN": [
+        "2075-1729"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "2075-1729"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            25
+          ]
+        ]
+      }
+    }
+  }
+}

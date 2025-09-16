@@ -1,0 +1,1957 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_pain_2009_08_032.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_pain_2009_08_032",
+  "doi": "10.1016/j.pain.2009.08.032",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:59.829379Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            2
+          ]
+        ],
+        "date-time": "2025-06-02T08:07:21Z",
+        "timestamp": 1748851641267,
+        "version": "3.37.0"
+      },
+      "reference-count": 164,
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2009,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2009-12-01T00:00:00Z",
+            "timestamp": 1259625600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.pain.2009.08.032",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2009,
+            10,
+            3
+          ]
+        ],
+        "date-time": "2009-10-03T23:51:29Z",
+        "timestamp": 1254613889000
+      },
+      "page": "153-164",
+      "source": "Crossref",
+      "is-referenced-by-count": 43,
+      "title": [
+        "Risk and prognostic factors for non-specific musculoskeletal pain: A synthesis of evidence from systematic reviews classified into ICF dimensions"
+      ],
+      "prefix": "10.1097",
+      "volume": "147",
+      "author": [
+        {
+          "given": "Sandra E.",
+          "family": "Lakke",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Remko",
+          "family": "Soer",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tim",
+          "family": "Takken",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Michiel F.",
+          "family": "Reneman",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "276",
+      "reference": [
+        {
+          "key": "RU1-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "2497",
+          "DOI": "10.1097/00007632-199912010-00012",
+          "article-title": "Personal risk factors for first-time low back pain.",
+          "volume": "24",
+          "author": "Adams",
+          "year": "1999",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU2-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "323",
+          "DOI": "10.1016/0268-0033(95)00002-3",
+          "article-title": "Static back endurance and the risk of low-back pain.",
+          "volume": "10",
+          "author": "Alaranta",
+          "year": "1995",
+          "journal-title": "Clin Biomech"
+        },
+        {
+          "key": "RU3-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "147",
+          "DOI": "10.2340/165019771994263147154",
+          "article-title": "Flexibility of the spine: normative values of goniometric and tape measurements.",
+          "volume": "26",
+          "author": "Alaranta",
+          "year": "1994",
+          "journal-title": "Scand J Rehabil Med"
+        },
+        {
+          "key": "RU5-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "2963",
+          "DOI": "10.1001/jama.289.22.2963",
+          "article-title": "Computer use and carpal tunnel syndrome: a 1-year follow-up study.",
+          "volume": "289",
+          "author": "Andersen",
+          "year": "2003",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "R6-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1490",
+          "DOI": "10.1136/bmj.328.7454.1490",
+          "article-title": "Grading quality of evidence, strength of recommendations.",
+          "volume": "328",
+          "author": "Atkins",
+          "year": "2004",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "R7-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "38",
+          "DOI": "10.1186/1472-6963-4-38",
+          "article-title": "Systems for grading the quality of evidence and the strength of recommendations I: critical appraisal of existing approaches The GRADE Working Group.",
+          "volume": "4",
+          "author": "Atkins",
+          "year": "2004",
+          "journal-title": "BMC Health Serv Res"
+        },
+        {
+          "key": "R8-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "25",
+          "DOI": "10.1186/1472-6963-5-25",
+          "article-title": "Systems for grading the quality of evidence and the strength of recommendations II: pilot study of a new system.",
+          "volume": "5",
+          "author": "Atkins",
+          "year": "2005",
+          "journal-title": "BMC Health Serv Res"
+        },
+        {
+          "key": "RU9-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "145",
+          "DOI": "10.1111/j.1600-0838.1996.tb00082.x",
+          "article-title": "Development of muscular endurance and strength from adolescence to adulthood and level of physical capacity in men and women at the age of 34 years.",
+          "volume": "6",
+          "author": "Barnekow-Bergkvist",
+          "year": "1996",
+          "journal-title": "Scand J Med Sci Sports"
+        },
+        {
+          "key": "RU10-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "235",
+          "DOI": "10.1097/00007632-199801150-00017",
+          "article-title": "Determinants of self-reported neck-shoulder and low back symptoms in a general population.",
+          "volume": "23",
+          "author": "Barnekow-Bergkvist",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU11-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "851",
+          "DOI": "10.1097/00007632-198908000-00014",
+          "article-title": "Isometric lifting strength as a predictor of industrial back pain reports.",
+          "volume": "14",
+          "author": "Battie",
+          "year": "1989",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R12-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "82",
+          "DOI": "10.1016/S0031-9406(05)60579-2",
+          "article-title": "Dutch physiotherapy guidelines for low back pain.",
+          "volume": "89",
+          "author": "Bekkering",
+          "year": "2003",
+          "journal-title": "Physiotherapy"
+        },
+        {
+          "key": "R13-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "60",
+          "DOI": "10.1207/s15324796abm3201_7",
+          "article-title": "Does raceethnicity moderate the association between job strain and leisure time physical activity?",
+          "volume": "32",
+          "author": "Bennett",
+          "year": "2006",
+          "journal-title": "Ann Behav Med"
+        },
+        {
+          "key": "RU14-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "58",
+          "DOI": "10.1097/00007632-198801000-00014",
+          "article-title": "Back pain in middle age; occupational workload and psychologic factors: an epidemiologic survey.",
+          "volume": "13",
+          "author": "Bergenudd",
+          "year": "1988",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R15-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1089",
+          "DOI": "10.1016/S0895-4356(00)00225-0",
+          "article-title": "The association between exposure to a rear-end collision and future neck or shoulder pain: a cohort study.",
+          "volume": "53",
+          "author": "Berglund",
+          "year": "2000",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "R16-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "106",
+          "DOI": "10.1097/00007632-198403000-00002",
+          "article-title": "Physical measurements as risk indicators for low-back trouble over a one-year period.",
+          "volume": "9",
+          "author": "Biering-Sorensen",
+          "year": "1984",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R17-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "151",
+          "DOI": "10.2340/165019771989151157",
+          "article-title": "Risk indicators for low back trouble.",
+          "volume": "21",
+          "author": "Biering-Sorensen",
+          "year": "1989",
+          "journal-title": "Scand J Rehabil Med"
+        },
+        {
+          "key": "R18-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "720",
+          "DOI": "10.1097/00007632-198609000-00011",
+          "article-title": "Medical, social and occupational history as risk indicators for low-back trouble in a general population.",
+          "volume": "11",
+          "author": "Biering-Sorensen",
+          "year": "1986",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R19-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1097/00007632-199101000-00001",
+          "article-title": "A prospective study of work perceptions and psychosocial factors affecting the report of back injury.",
+          "volume": "16",
+          "author": "Bigos",
+          "year": "1991",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU20-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1097/00003086-199206000-00004",
+          "article-title": "A longitudinal, prospective study of industrial back injury reporting.",
+          "volume": "279",
+          "author": "Bigos",
+          "year": "1992",
+          "journal-title": "Clin Orthop Relat Res"
+        },
+        {
+          "key": "RU21-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "372",
+          "DOI": "10.1207/S15327558IJBM0704_07",
+          "article-title": "Occupational and nonoccupational risk indicators for incident and chronic pain in a sample of the Swedish general population during a 4-year period: on influence of depression?",
+          "volume": "7",
+          "author": "Bildt",
+          "year": "2000",
+          "journal-title": "Int Behav Med"
+        },
+        {
+          "key": "R22-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "315",
+          "DOI": "10.1002/ajim.10050",
+          "article-title": "Are psychosocial factors, risk factors for symptoms and signs of the shoulder, elbow, or handwrist? A review of the epidemiological literature.",
+          "volume": "41",
+          "author": "Bongers",
+          "year": "2002",
+          "journal-title": "Am J Ind Med"
+        },
+        {
+          "key": "R23-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "331",
+          "DOI": "10.1016/S0020-1383(97)00027-2",
+          "article-title": "MRI of cerebrum and cervical columna within two days after whiplash neck sprain injury.",
+          "volume": "28",
+          "author": "Borchgrevink",
+          "year": "1997",
+          "journal-title": "Injury"
+        },
+        {
+          "key": "R24-28-20210227",
+          "first-page": "425",
+          "article-title": "MR imaging and radiography of patients with cervical hyperextension-flexion injuries after car accidents.",
+          "volume": "36",
+          "author": "Borchgrevink",
+          "year": "1995",
+          "journal-title": "Acta Radiol"
+        },
+        {
+          "key": "R25-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "357",
+          "DOI": "10.1016/S0022-3999(96)00352-2",
+          "article-title": "Personality profile among symptomatic and recovered patients with neck sprain injury, measured by MCMI-I acutely and 6 months after car accidents.",
+          "volume": "42",
+          "author": "Borchgrevink",
+          "year": "1997",
+          "journal-title": "J Psychosom Res"
+        },
+        {
+          "key": "RU26-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "399",
+          "DOI": "10.5271/sjweh.828",
+          "article-title": "Neck and shoulder symptoms and disorders among Danish computer workers.",
+          "volume": "30",
+          "author": "Brandt",
+          "year": "2004",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "R27-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "641",
+          "DOI": "10.1007/s00586-005-0883-9",
+          "article-title": "Mono-disciplinary or multidisciplinary back pain guidelines? How can we achieve a common message in primary care?",
+          "volume": "15",
+          "author": "Breen",
+          "year": "2006",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "R28-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "S136",
+          "DOI": "10.1007/s00586-006-1070-3",
+          "article-title": "Chapter 2. European guidelines for prevention in low back pain: November 2004.",
+          "volume": "15",
+          "author": "Burton",
+          "year": "2006",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "RU29-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "30",
+          "DOI": "10.1016/S1356-689X(03)00052-3",
+          "article-title": "Long-term follow-up of patients with low back pain attending for manipulative care: outcomes and predictors.",
+          "volume": "9",
+          "author": "Burton",
+          "year": "2004",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "R30-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1179",
+          "DOI": "10.1056/NEJM200004203421606",
+          "article-title": "Effect of eliminating compensation for pain and suffering on the outcome of insurance claims for whiplash injury.",
+          "volume": "342",
+          "author": "Cassidy",
+          "year": "2000",
+          "journal-title": "N Engl J Med"
+        },
+        {
+          "key": "RU31-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "537",
+          "DOI": "10.1136/oem.59.8.537",
+          "article-title": "Chronic neck and shoulder pain, age, and working conditions: longitudinal results from a large random sample in France.",
+          "volume": "59",
+          "author": "Cassou",
+          "year": "2002",
+          "journal-title": "Occup Environ Med"
+        },
+        {
+          "key": "RU32-28-20210227",
+          "first-page": "403",
+          "article-title": "Preemployment strength testing: an updated position.",
+          "volume": "20",
+          "author": "Chaffin",
+          "year": "1978",
+          "journal-title": "J Occup Med"
+        },
+        {
+          "key": "R33-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "37",
+          "DOI": "10.1177/001316446002000104",
+          "article-title": "Coefficient of agreement for nominal scales.",
+          "volume": "20",
+          "author": "Cohen",
+          "year": "1960",
+          "journal-title": "Educ Psychol Meas"
+        },
+        {
+          "key": "RU34-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "577",
+          "DOI": "10.1136/bmj.308.6928.577",
+          "article-title": "Clinical course and prognostic factors in acute low back pain: an inception cohort study in primary care practice.",
+          "volume": "308",
+          "author": "Coste",
+          "year": "1994",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "R35-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "E445",
+          "DOI": "10.1097/00007632-200110010-00020",
+          "article-title": "A systematic review of the prognosis of acute whiplash and a new conceptual framework to synthesize the literature.",
+          "volume": "26",
+          "author": "Cote",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R36-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "601",
+          "DOI": "10.1136/bmj.313.7057.601",
+          "article-title": "The clinical course of shoulder pain: prospective cohort study in primary care. Primary care rheumatology society shoulder study group.",
+          "volume": "313",
+          "author": "Croft",
+          "year": "1996",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "R37-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "389",
+          "DOI": "10.1016/S0268-0033(99)00101-1",
+          "article-title": "The relationship between psychosocial work characteristics and low back pain: underlying methodological issues.",
+          "volume": "15",
+          "author": "Davis",
+          "year": "2000",
+          "journal-title": "Clin Biomech"
+        },
+        {
+          "key": "R38-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "293",
+          "DOI": "10.3109/08039489509011919",
+          "article-title": "Acute emotional response tot common whiplash predicts subsequent pain complaints.",
+          "volume": "49",
+          "author": "Drottning",
+          "year": "1995",
+          "journal-title": "Nord J Psychiatry"
+        },
+        {
+          "key": "RU39-28-20210227",
+          "first-page": "42",
+          "article-title": "Isokinetic trunk testing and employment.",
+          "volume": "36",
+          "author": "Dueker",
+          "year": "1994",
+          "journal-title": "J Occup Med"
+        },
+        {
+          "key": "R40-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "867",
+          "DOI": "10.1016/0140-6736(91)90201-Y",
+          "article-title": "Publication bias in clinical research.",
+          "volume": "337",
+          "author": "Easterbrook",
+          "year": "1991",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "R41-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "130",
+          "DOI": "10.1037/1076-8998.7.2.130",
+          "article-title": "Supportive colleague, unsupportive supervisor: the role of provider-specific constellations of social support at work in the development of low back pain.",
+          "volume": "7",
+          "author": "Elfering",
+          "year": "2002",
+          "journal-title": "J Occup Health Psychol"
+        },
+        {
+          "key": "R42-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "386",
+          "DOI": "10.5271/sjweh.690",
+          "article-title": "Time control, catecholamines and back pain among young nurses.",
+          "volume": "28",
+          "author": "Elfering",
+          "year": "2002",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "RU43-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1024",
+          "DOI": "10.1097/00043764-199912000-00004",
+          "article-title": "Predictors of occupational low back disability: implications for secondary prevention.",
+          "volume": "41",
+          "author": "Feuerstein",
+          "year": "1999",
+          "journal-title": "J Occup Environ Med"
+        },
+        {
+          "key": "RU44-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "116",
+          "DOI": "10.1136/oem.57.2.116",
+          "article-title": "The role of physical and psychological factors in occupational low back pain: a prospective cohort study.",
+          "volume": "57",
+          "author": "Feyer",
+          "year": "2000",
+          "journal-title": "Occup Environ Med"
+        },
+        {
+          "key": "RU45-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "92",
+          "DOI": "10.1097/00007632-200201010-00022",
+          "article-title": "Risk factors associated with the transition from acute to chronic occupational back pain.",
+          "volume": "27",
+          "author": "Fransen",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R46-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "523",
+          "DOI": "10.1302/0301-620X.79B4.0790523",
+          "article-title": "The behavioural response to whiplash injury.",
+          "volume": "79",
+          "author": "Gargan",
+          "year": "1997",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "key": "R47-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "162",
+          "DOI": "10.1007/BF02190579",
+          "article-title": "The rate of recovery following whiplash injury.",
+          "volume": "3",
+          "author": "Gargan",
+          "year": "1994",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "RU48-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "187",
+          "DOI": "10.2340/165019771997187191",
+          "article-title": "Isokinetic and psychophysical lifting strength, static back muscle endurance, and magnetic resonance imaging of the paraspinal muscles as predictors of low back pain in men.",
+          "volume": "29",
+          "author": "Gibbons",
+          "year": "1997",
+          "journal-title": "Scand J Rehabil Med"
+        },
+        {
+          "key": "R49-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "388",
+          "DOI": "10.5271/sjweh.631",
+          "article-title": "Do psychosocial strain and physical exertion predict onset of low-back pain among nursing aides?",
+          "volume": "27",
+          "author": "Gonge",
+          "year": "2001",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "R50-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "305",
+          "DOI": "10.1080/00140138408963492",
+          "article-title": "Tests of lifting and handling capacity. Their repeatability and relationship to back symptoms.",
+          "volume": "27",
+          "author": "Griffin",
+          "year": "1984",
+          "journal-title": "Ergonomics"
+        },
+        {
+          "key": "RU51-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1790",
+          "DOI": "10.1097/00007632-200208150-00019",
+          "article-title": "A prospective cohort study of risk factors for disability retirement because of back pain in the general working population.",
+          "volume": "27",
+          "author": "Hagen",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU52-28-20210227",
+          "first-page": "16",
+          "article-title": "Gz-related neck pain: a follow-up study.",
+          "volume": "65",
+          "author": "Hamalainen",
+          "year": "1994",
+          "journal-title": "Aviat Space Environ Med"
+        },
+        {
+          "key": "R53-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "93",
+          "DOI": "10.1016/j.pain.2006.11.004",
+          "article-title": "A systematic review of the relation between physical capacity and future low back and neckshoulder pain.",
+          "volume": "130",
+          "author": "Hamberg-van Reenen",
+          "year": "2007",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "RU54-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "553",
+          "DOI": "10.1016/0022-3999(92)90040-9",
+          "article-title": "Psychosocial factors as predictors for early retirement in patients with chronic low back pain.",
+          "volume": "36",
+          "author": "Harkapaa",
+          "year": "1992",
+          "journal-title": "J Psychosom Res"
+        },
+        {
+          "key": "R55-28-20210227",
+          "first-page": "e2",
+          "article-title": "Psychosocial factors at work in relation to low back pain and consequences of low back pain; a systematic, critical review of prospective cohort studies.",
+          "volume": "61",
+          "author": "Hartvigsen",
+          "year": "2004",
+          "journal-title": "Occup Environ Med"
+        },
+        {
+          "key": "R56-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "313",
+          "DOI": "10.1093/occmed/kqg034",
+          "article-title": "Towards epidemiological criteria for soft-tissue disorders of the arm.",
+          "volume": "53",
+          "author": "Helliwell",
+          "year": "2003",
+          "journal-title": "Occup Med"
+        },
+        {
+          "key": "R57-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "121",
+          "DOI": "10.5271/sjweh.189",
+          "article-title": "Sickness absence from back pain, psychosocial work characteristics and employment grade among office workers.",
+          "volume": "23",
+          "author": "Hemingway",
+          "year": "1997",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "R58-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "154",
+          "DOI": "10.1080/028134300453359",
+          "article-title": "Whiplash injuries from car accidents in a Swedish middle-sized town during 1993-95.",
+          "volume": "18",
+          "author": "Herrstrom",
+          "year": "2000",
+          "journal-title": "Scand J Prim Health Care"
+        },
+        {
+          "key": "R60-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "357",
+          "DOI": "10.3109/17453679008993536",
+          "article-title": "Outcome after soft-tissue injury of the cervical spine. A prospective study of 93 car-accident victims.",
+          "volume": "61",
+          "author": "Hildingsson",
+          "year": "1990",
+          "journal-title": "Acta Orthop Scand"
+        },
+        {
+          "key": "R61-28-20210227",
+          "first-page": "88",
+          "article-title": "Whiplash injuries: their long prognosis and its relationship to compensation.",
+          "volume": "7",
+          "author": "Hodgson",
+          "year": "1989",
+          "journal-title": "Neuro-orthopedics"
+        },
+        {
+          "key": "R62-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1675",
+          "DOI": "10.2106/00004623-197456080-00018",
+          "article-title": "Soft-tissue injuries of the neck in automobile accidents. Factors influencing prognosis.",
+          "volume": "56",
+          "author": "Hohl",
+          "year": "1974",
+          "journal-title": "J Bone Joint Surg Am"
+        },
+        {
+          "key": "R63-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "258",
+          "DOI": "10.5271/sjweh.613",
+          "article-title": "Psychosocial work characteristics and psychological strain in relation to low-back pain.",
+          "volume": "27",
+          "author": "Hoogendoorn",
+          "year": "2001",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "RU64-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "323",
+          "DOI": "10.1136/oem.59.5.323",
+          "article-title": "High physical work load and low job satisfaction increase the risk of sickness absence due to low back pain: results of a prospective cohort study.",
+          "volume": "59",
+          "author": "Hoogendoorn",
+          "year": "2002",
+          "journal-title": "Occup Environ Med"
+        },
+        {
+          "key": "R65-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "2114",
+          "DOI": "10.1097/00007632-200008150-00017",
+          "article-title": "Systematic review of psychosocial factors at work and private life as risk factors for back pain.",
+          "volume": "25",
+          "author": "Hoogendoorn",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R66-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "211",
+          "DOI": "10.1136/oem.2006.026468",
+          "article-title": "Should office workers spend fewer hours at their computer? A systematic review of the literature.",
+          "volume": "64",
+          "author": "IJmker",
+          "year": "2007",
+          "journal-title": "Occup Environ Med"
+        },
+        {
+          "key": "RU67-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "488",
+          "DOI": "10.1136/oem.53.7.488",
+          "article-title": "Prognostic factors for return to work after a first compensated episode of back pain.",
+          "volume": "53",
+          "author": "Infante",
+          "year": "1996",
+          "journal-title": "Occup Environ Med"
+        },
+        {
+          "key": "R68-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "123",
+          "DOI": "10.2522/ptj.20070043",
+          "article-title": "Physical therapy interventions for patients with osteoarthritis of the knee: an overview of systematic reviews.",
+          "volume": "88",
+          "author": "Jamtvedt",
+          "year": "2008",
+          "journal-title": "Phys Ther"
+        },
+        {
+          "key": "RU69-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "197",
+          "DOI": "10.5271/sjweh.722",
+          "article-title": "Development of neck and hand-wrist symptoms in relation to duration of computer use at work.",
+          "volume": "29",
+          "author": "Jensen",
+          "year": "2003",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "RU70-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "2781",
+          "DOI": "10.1097/00007632-199612010-00014",
+          "article-title": "Self-reported physical exertion in geriatric care. A risk indicator for low back symptoms?",
+          "volume": "21",
+          "author": "Josephson",
+          "year": "1996",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU71-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "390",
+          "DOI": "10.5271/sjweh.827",
+          "article-title": "Computer users risk factors for developing shoulder, elbow and back symptoms.",
+          "volume": "30",
+          "author": "Juul-Kristensen",
+          "year": "2004",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "R72-28-20210227",
+          "first-page": "285",
+          "article-title": "Job demands, job decision latitude, and mental strain: implications for job redesign.",
+          "volume": "24",
+          "author": "Karasek",
+          "year": "1979",
+          "journal-title": "Adv Sci Quart"
+        },
+        {
+          "key": "R73-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "65",
+          "DOI": "10.1111/j.1600-0404.1997.tb00071.x",
+          "article-title": "A prospective study of 39 patients with whiplash injury.",
+          "volume": "95",
+          "author": "Karlsborg",
+          "year": "1997",
+          "journal-title": "Acta Neurol Scand"
+        },
+        {
+          "key": "R74-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1637",
+          "DOI": "10.1212/WNL.56.12.1637",
+          "article-title": "Handicap after acute whiplash injury: a 1-year prospective study of risk factors.",
+          "volume": "56",
+          "author": "Kasch",
+          "year": "2001",
+          "journal-title": "Neurology"
+        },
+        {
+          "key": "R75-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1246",
+          "DOI": "10.1097/00007632-200106010-00014",
+          "article-title": "Headache, neck pain and neck mobility after acute whiplash injury: a prospective study.",
+          "volume": "26",
+          "author": "Kasch",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU77-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "197",
+          "DOI": "10.1016/0020-7489(93)90031-O",
+          "article-title": "A longitudinal study of low back pain in student nurses.",
+          "volume": "30",
+          "author": "Klaber Moffett",
+          "year": "1993",
+          "journal-title": "Int J Nurs Stud"
+        },
+        {
+          "key": "RU78-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.ejpain.2005.01.003",
+          "article-title": "Psycho-social factors and coping strategies as predictors of chronic evolution and quality of life in patients with low back pain: a prospective study.",
+          "volume": "10",
+          "author": "Koleck",
+          "year": "2006",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "RU79-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "475",
+          "DOI": "10.1136/oem.60.7.475",
+          "article-title": "Work related and individual predictors for incident neck pain among office employees working with video display units.",
+          "volume": "60",
+          "author": "Korhonen",
+          "year": "2003",
+          "journal-title": "Occup Environ Med"
+        },
+        {
+          "key": "RU80-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1786",
+          "DOI": "10.1097/01.brs.0000172159.47152.dc",
+          "article-title": "The transition from acute to subacute and chronic low back pain: a study based on determinants of quality of life and prediction of chronic disability.",
+          "volume": "30",
+          "author": "Kovacs",
+          "year": "2005",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU81-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "e14",
+          "DOI": "10.1136/oem.60.11.e14",
+          "article-title": "Does computer use pose an occupational hazard for forearm pain; from the NUDATA study.",
+          "volume": "60",
+          "author": "Kryger",
+          "year": "2003",
+          "journal-title": "Occup Environ Med"
+        },
+        {
+          "key": "R82-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "420",
+          "DOI": "10.1016/j.pain.2004.02.017",
+          "article-title": "Systematic review of prognostic cohort studies on shoulder disorders.",
+          "volume": "109",
+          "author": "Kuijpers",
+          "year": "2004",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "RU83-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "452",
+          "DOI": "10.1007/BF00334423",
+          "article-title": "Physical loading and performance as predictors of back pain in healthy adults. A 5-year prospective study.",
+          "volume": "73",
+          "author": "Kujala",
+          "year": "1996",
+          "journal-title": "Eur J Appl Physiol Occup Physiol"
+        },
+        {
+          "key": "RU85-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "629",
+          "DOI": "10.1097/00007632-199206000-00002",
+          "article-title": "Predicting return to work for lower back pain patients receiving workers compensation.",
+          "volume": "17",
+          "author": "Lancourt",
+          "year": "1992",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R86-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "159",
+          "DOI": "10.2307/2529310",
+          "article-title": "The measurement of observer agreement for categorical data.",
+          "volume": "33",
+          "author": "Landis",
+          "year": "1977",
+          "journal-title": "Biometrics"
+        },
+        {
+          "key": "RU87-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "521",
+          "DOI": "10.1002/ajim.20081",
+          "article-title": "Elbow and wristhand symptoms among 6, 943 computer operators: a 1-year follow-up study (the NUDATA study).",
+          "volume": "46",
+          "author": "Lassen",
+          "year": "2004",
+          "journal-title": "Am J Ind Med"
+        },
+        {
+          "key": "RU88-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "325",
+          "DOI": "10.1016/0268-0033(94)00003-P",
+          "article-title": "Correlations of isokinetic and psychophysical back lift and static back extensor endurance tests in men.",
+          "volume": "10",
+          "author": "Latikka",
+          "year": "1995",
+          "journal-title": "Clin Biomech"
+        },
+        {
+          "key": "R89-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "314",
+          "DOI": "10.5271/sjweh.680",
+          "article-title": "Impact of repetitive manual materials handling and psychosocial work factors on the future prevalence of chronic low-back pain among construction workers.",
+          "volume": "28",
+          "author": "Latza",
+          "year": "2002",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "RU90-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "54",
+          "DOI": "10.1097/00007632-199901010-00013",
+          "article-title": "Trunk muscle weakness as a risk factor for low back pain. A 5-year prospective study.",
+          "volume": "24",
+          "author": "Lee",
+          "year": "1999",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU91-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1103",
+          "DOI": "10.1097/00007632-199306150-00023",
+          "article-title": "Predicting long-term disability in low back injured workers presenting to a spine consultant.",
+          "volume": "18",
+          "author": "Lehmann",
+          "year": "1993",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R92-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "134",
+          "DOI": "10.5271/sjweh.20",
+          "article-title": "Psychosocial factors at work in relation to back and limb disorders.",
+          "volume": "21",
+          "author": "Leino",
+          "year": "1995",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "RU93-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "289",
+          "DOI": "10.1016/0021-9681(87)90044-0",
+          "article-title": "Trunk muscle function and low back disorders: a ten-year follow-up study.",
+          "volume": "40",
+          "author": "Leino",
+          "year": "1987",
+          "journal-title": "J Chronic Dis"
+        },
+        {
+          "key": "R94-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "459",
+          "DOI": "10.1007/s10926-005-8028-x",
+          "article-title": "Prognosis and the identification of workers risking disability: research issues and directions for future research.",
+          "volume": "15",
+          "author": "Linton",
+          "year": "2005",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "key": "R95-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "279",
+          "DOI": "10.5271/sjweh.795",
+          "article-title": "Work-related risk factors for the incidence and recurrence of shoulder and neck complaints among nursing-home and elderly-care workers.",
+          "volume": "30",
+          "author": "Luime",
+          "year": "2004",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "R96-28-20210227",
+          "first-page": "1612",
+          "article-title": "Predictors of chronic shoulder pain: a population based prospective study.",
+          "volume": "25",
+          "author": "Macfarlane",
+          "year": "1998",
+          "journal-title": "J Rheumatol"
+        },
+        {
+          "key": "R97-28-20210227",
+          "first-page": "134",
+          "article-title": "Epidemiology of back disorders: prevalence, risk factors, and prognosis.",
+          "volume": "17",
+          "author": "Manek",
+          "year": "2005",
+          "journal-title": "Curr Opin Rheumatol"
+        },
+        {
+          "key": "RU98-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "236",
+          "DOI": "10.1002/ajim.10067",
+          "article-title": "A prospective study of computer users: II. Postural risk factors for musculoskeletal symptoms and disorders.",
+          "volume": "41",
+          "author": "Marcus",
+          "year": "2002",
+          "journal-title": "Am J Ind Med"
+        },
+        {
+          "key": "RU99-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "359",
+          "DOI": "10.1097/00007632-199802010-00015",
+          "article-title": "Relation between functional characteristics of the trunk and the occurrence of low back pain. Associated risk factors.",
+          "volume": "23",
+          "author": "Masset",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU100-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "588",
+          "DOI": "10.1097/00007632-198409000-00009",
+          "article-title": "Use of noninvasive techniques for quantification of spinal range-of-motion in normal subjects and chronic low-back dysfunction patients.",
+          "volume": "9",
+          "author": "Mayer",
+          "year": "1984",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R101-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "647",
+          "DOI": "10.1136/bmj.307.6905.647",
+          "article-title": "Psychiatric consequences of road traffic accidents.",
+          "volume": "307",
+          "author": "Mayou",
+          "year": "1993",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "R102-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "617",
+          "DOI": "10.1016/S0020-1383(96)00114-3",
+          "article-title": "Outcome of whiplash neck injury.",
+          "volume": "27",
+          "author": "Mayou",
+          "year": "1996",
+          "journal-title": "Injury"
+        },
+        {
+          "key": "R103-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "138",
+          "DOI": "10.1007/BF02588158",
+          "article-title": "Whiplash injury of the cervical spine - on the role of pre-existing degenerative diseases.",
+          "volume": "20",
+          "author": "Meenen",
+          "year": "1994",
+          "journal-title": "Unfallchirurgie"
+        },
+        {
+          "key": "R104-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "493",
+          "DOI": "10.1007/BF00364043",
+          "article-title": "The incidence and prognostic significance of radiological abnormalities in soft tissue injuries to the cervical spine.",
+          "volume": "17",
+          "author": "Miles",
+          "year": "1988",
+          "journal-title": "Skelet Radiol"
+        },
+        {
+          "key": "R105-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "177",
+          "DOI": "10.1016/S0001-4575(99)00092-5",
+          "article-title": "Whiplash injury - are current head restraints doing their job?",
+          "volume": "32",
+          "author": "Minton",
+          "year": "2000",
+          "journal-title": "Accid Anal Prev"
+        },
+        {
+          "key": "R106-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "847",
+          "DOI": "10.1093/aje/kwi112",
+          "article-title": "A population study on differences in the determinants of a specific shoulder disorder versus nonspecific shoulder pain without clinical findings.",
+          "volume": "161",
+          "author": "Miranda",
+          "year": "2005",
+          "journal-title": "Am J Epidemiol"
+        },
+        {
+          "key": "RU107-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "528",
+          "DOI": "10.1136/oem.58.8.528",
+          "article-title": "A prospective study of work related factors and physical exercise as predictors of shoulder pain.",
+          "volume": "58",
+          "author": "Miranda",
+          "year": "2001",
+          "journal-title": "Occup Environ Med"
+        },
+        {
+          "key": "R108-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "91",
+          "DOI": "10.1016/j.math.2006.04.001",
+          "article-title": "The systematic review of systematic reviews has arrived.",
+          "volume": "11",
+          "author": "Moore",
+          "year": "2006",
+          "journal-title": "Man Ther"
+        },
+        {
+          "key": "RU109-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "S222",
+          "DOI": "10.1093/geronb/52B.4.S222",
+          "article-title": "Transitions in chronic low back pain in Japanese older adults: a sociomedical perspective.",
+          "volume": "52",
+          "author": "Muramatsu",
+          "year": "1997",
+          "journal-title": "J Gerontol B Psychol Sci Soc Sci"
+        },
+        {
+          "key": "RU110-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "812",
+          "DOI": "10.1097/00007632-199306000-00002",
+          "article-title": "Trunk strength testing with iso-machines. Part 2: experimental evaluation of the Cybex II Back Testing System in normal subjects and patients with chronic low back pain.",
+          "volume": "18",
+          "author": "Newton",
+          "year": "1993",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU111-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "349",
+          "DOI": "10.1007/BF00378369",
+          "article-title": "Back pain and associated factors in French nurses.",
+          "volume": "66",
+          "author": "Niedhammer",
+          "year": "1994",
+          "journal-title": "Int Arch Occup Environ Health"
+        },
+        {
+          "key": "RU112-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "2",
+          "DOI": "10.1300/J094v05n02_02",
+          "article-title": "Early predictors of delayed return to work in patients with low back pain.",
+          "volume": "5",
+          "author": "Nordin",
+          "year": "1997",
+          "journal-title": "J Musculoskelet Pain"
+        },
+        {
+          "key": "RU113-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "167",
+          "DOI": "10.2340/165019771997167174",
+          "article-title": "Reduced mobility in the cervico-thoracic motion segment-a risk factor for musculoskeletal neck-shoulder pain: a two-year prospective follow-up study.",
+          "volume": "29",
+          "author": "Norlander",
+          "year": "1997",
+          "journal-title": "Scand J Rehabil Med"
+        },
+        {
+          "key": "R114-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "608",
+          "DOI": "10.1302/0301-620X.65B5.6643566",
+          "article-title": "The prognosis of neck injuries resulting from rear-end vehicle collisions.",
+          "volume": "65",
+          "author": "Norris",
+          "year": "1983",
+          "journal-title": "J Bone Joint Surg Br"
+        },
+        {
+          "key": "R115-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "279",
+          "DOI": "10.1136/jnnp.66.3.279",
+          "article-title": "Pain after whiplash: a prospective controlled inception cohort study.",
+          "volume": "66",
+          "author": "Obelieniene",
+          "year": "1999",
+          "journal-title": "J Neurol Neurosurg Psychiatry"
+        },
+        {
+          "key": "R116-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1137",
+          "DOI": "10.1097/00007632-199705150-00014",
+          "article-title": "Psychosocial factors in the workplace - do they predict new episodes of low back pain? Evidence from the South Manchester Back Pain Study.",
+          "volume": "22",
+          "author": "Papageorgiou",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R117-28-20210227",
+          "first-page": "67",
+          "article-title": "A prospective cohort study of the outcome of acute whiplash injury in Greece.",
+          "volume": "18",
+          "author": "Partheni",
+          "year": "2000",
+          "journal-title": "Clin Exp Rheumatol"
+        },
+        {
+          "key": "R118-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "228",
+          "DOI": "10.1038/sj.sc.3101128",
+          "article-title": "Headaches in the whiplash syndrome.",
+          "volume": "39",
+          "author": "Pearce",
+          "year": "2001",
+          "journal-title": "Spinal Cord"
+        },
+        {
+          "key": "R119-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "283",
+          "DOI": "10.1097/00007632-199702010-00010",
+          "article-title": "Disc pathology after whiplash injury. A prospective magnetic resonance imaging and clinical investigation.",
+          "volume": "22",
+          "author": "Pettersson",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU120-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1028",
+          "DOI": "10.1093/aje/kwf136",
+          "article-title": "Pain catastrophizing and kinesiophobia: predictors of chronic low back pain.",
+          "volume": "156",
+          "author": "Picavet",
+          "year": "2002",
+          "journal-title": "Am J Epidemiol"
+        },
+        {
+          "key": "R121-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "167",
+          "DOI": "10.1016/s0304-3959(02)00372-x",
+          "article-title": "Musculoskeletal pain in the Netherlands: prevalences, consequences and risk groups, the DMC(3)-study.",
+          "volume": "102",
+          "author": "Picavet",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R122-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "3999",
+          "DOI": "10.1002/art.22273",
+          "article-title": "Fear avoidance and prognosis in back pain: a systematic review and synthesis of current evidence.",
+          "volume": "54",
+          "author": "Pincus",
+          "year": "2006",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "R123-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.1002/art.23251",
+          "article-title": "A review and proposal for a core set of factors for prospective cohorts in low back pain: a consensus statement.",
+          "volume": "59",
+          "author": "Pincus",
+          "year": "2008",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "RU124-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "718",
+          "DOI": "10.1093/rheumatology/kei231",
+          "article-title": "Outcome of subacute low back pain: influence of patients and rheumatologists characteristics.",
+          "volume": "45",
+          "author": "Poiraudeau",
+          "year": "2006",
+          "journal-title": "Rheumatology"
+        },
+        {
+          "key": "R125-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "712",
+          "DOI": "10.1016/0140-6736(91)91441-V",
+          "article-title": "Role of psychosocial stress in recovery from common whiplash.",
+          "volume": "338",
+          "author": "Radanov",
+          "year": "1991",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "R126-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "652",
+          "DOI": "10.1136/bmj.307.6905.652",
+          "article-title": "Factors influencing recovery from headache after common whiplash.",
+          "volume": "307",
+          "author": "Radanov",
+          "year": "1993",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "R127-28-20210227",
+          "first-page": "1545",
+          "article-title": "Results of a 1-year follow-up study of whiplash injury.",
+          "volume": "123",
+          "author": "Radanov",
+          "year": "1993",
+          "journal-title": "Schweiz Med Wochenschr"
+        },
+        {
+          "key": "R128-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.1001/archneur.1993.00540010081022",
+          "article-title": "Cognitive functioning after common whiplash. A controlled follow-up study.",
+          "volume": "50",
+          "author": "Radanov",
+          "year": "1993",
+          "journal-title": "Arch Neurol"
+        },
+        {
+          "key": "R129-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "486",
+          "DOI": "10.1136/jnnp.57.4.486",
+          "article-title": "Common whiplash: psychosomatic or somatopsychic?",
+          "volume": "57",
+          "author": "Radanov",
+          "year": "1994",
+          "journal-title": "J Neurol Neurosurg Psychiatry"
+        },
+        {
+          "key": "R130-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "442",
+          "DOI": "10.1093/rheumatology/33.5.442",
+          "article-title": "Relationship between early somatic, radiological, cognitive and psychosocial findings and outcome during a one-year follow-up in 117 patients suffering from common whiplash.",
+          "volume": "33",
+          "author": "Radanov",
+          "year": "1994",
+          "journal-title": "Br J Rheumatol"
+        },
+        {
+          "key": "R131-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "281",
+          "DOI": "10.1097/00005792-199509000-00005",
+          "article-title": "Long-term outcome after whiplash injury. A 2-year follow-up considering features of injury mechanism and somatic, radiologic, and psychosocial findings.",
+          "volume": "74",
+          "author": "Radanov",
+          "year": "1995",
+          "journal-title": "Medicine"
+        },
+        {
+          "key": "RU132-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "80",
+          "DOI": "10.1139/h93-008",
+          "article-title": "Fitness and lifestyle parameters fail to predict back injuries in nurses.",
+          "volume": "18",
+          "author": "Ready",
+          "year": "1993",
+          "journal-title": "Can J Appl Physiol"
+        },
+        {
+          "key": "R133-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "138",
+          "DOI": "10.1097/00007632-199401001-00003",
+          "article-title": "Incidence of sciatic pain among men in machine operating, dynamic physical work, and sedentary work. A three-year follow-up.",
+          "volume": "19",
+          "author": "Riihimaki",
+          "year": "1994",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU134-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "415",
+          "DOI": "10.5271/sjweh.1836",
+          "article-title": "Predictors of sciatic pain among concrete reinforcement workers and house painters - a five-year follow-up.",
+          "volume": "15",
+          "author": "Riihimaki",
+          "year": "1989",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "RU135-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "62",
+          "DOI": "10.1080/165019702753557845",
+          "article-title": "Does good trunk extensor performance protect against back-related work disability?",
+          "volume": "34",
+          "author": "Rissanen",
+          "year": "2002",
+          "journal-title": "J Rehabil Med"
+        },
+        {
+          "key": "RU136-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "54",
+          "DOI": "10.1097/00007632-199301000-00009",
+          "article-title": "Comparison of spinal health indicators in predicting spinal status in a 1-year longitudinal study.",
+          "volume": "18",
+          "author": "Rossignol",
+          "year": "1993",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R137-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "533",
+          "DOI": "10.1016/0020-1383(94)90096-5",
+          "article-title": "Neck strain in car occupants: injury status after 6 months and crash-related factors.",
+          "volume": "25",
+          "author": "Ryan",
+          "year": "1994",
+          "journal-title": "Injury"
+        },
+        {
+          "key": "R139-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "71",
+          "DOI": "10.1300/J094v05n02_06",
+          "article-title": "An examination of reasons for prolonged treatment in Japanese patients with whiplash injuries.",
+          "volume": "5",
+          "author": "Satoh",
+          "year": "1997",
+          "journal-title": "J Musculoskelet Pain"
+        },
+        {
+          "key": "R140-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "303",
+          "DOI": "10.1016/S0304-3959(03)00050-2",
+          "article-title": "Prognostic factors of whiplash-associated disorders: a systematic review of prospective cohort studies.",
+          "volume": "104",
+          "author": "Scholten-Peeters",
+          "year": "2003",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "RU141-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1207",
+          "DOI": "10.1016/S0140-6736(96)90733-3",
+          "article-title": "Natural evolution of late whiplash syndrome outside the medicolegal context.",
+          "volume": "347",
+          "author": "Schrader",
+          "year": "1996",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "RU142-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "2720",
+          "DOI": "10.1097/00007632-200212010-00012",
+          "article-title": "Biopsychosocial multivariate predictive model of occupational low back disability.",
+          "volume": "27",
+          "author": "Schultz",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R143-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1037/1076-8998.6.1.3",
+          "article-title": "Changes in general health and musculoskeletal outcomes in the workforce of a hospital undergoing rapid change: a longitudinal study.",
+          "volume": "6",
+          "author": "Shannon",
+          "year": "2001",
+          "journal-title": "J Occup Health Psychol"
+        },
+        {
+          "key": "RU144-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "229",
+          "DOI": "10.1053/eujp.2002.0341",
+          "article-title": "Pain-related fear in acute low back pain: the first two weeks of a new episode.",
+          "volume": "6",
+          "author": "Sieben",
+          "year": "2002",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "RU145-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "162",
+          "DOI": "10.1016/j.pain.2005.06.002",
+          "article-title": "A longitudinal study on the predictive validity of the fear-avoidance model in low back pain.",
+          "volume": "117",
+          "author": "Sieben",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R146-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "479",
+          "DOI": "10.1097/00002517-200112000-00003",
+          "article-title": "Prospective study of trigeminal sensibility after whiplash trauma.",
+          "volume": "14",
+          "author": "Sterner",
+          "year": "2001",
+          "journal-title": "J Spinal Disord"
+        },
+        {
+          "key": "RU147-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1370",
+          "DOI": "10.1097/00007632-200106150-00022",
+          "article-title": "A longitudinal study of the development of low back pain in an industrial population.",
+          "volume": "26",
+          "author": "Stevenson",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R148-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "443",
+          "DOI": "10.1007/BF00873547",
+          "article-title": "The effect of accident mechanisms and initial findings on the long-term course of whiplash injury.",
+          "volume": "242",
+          "author": "Sturzenegger",
+          "year": "1995",
+          "journal-title": "J Neurol"
+        },
+        {
+          "key": "RU149-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "2126",
+          "DOI": "10.1097/00007632-200008150-00018",
+          "article-title": "Do functional tests predict low back pain?",
+          "volume": "25",
+          "author": "Takala",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R150-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "120",
+          "DOI": "10.1097/00043764-200102000-00010",
+          "article-title": "The impact of psychosocial work factors on musculoskeletal pain: a prospective study.",
+          "volume": "43",
+          "author": "Torp",
+          "year": "2001",
+          "journal-title": "J Occup Environ Med"
+        },
+        {
+          "key": "RU151-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "410",
+          "DOI": "10.1002/(SICI)1097-0274(200004)37:4<410::AID-AJIM11>3.0.CO;2-8",
+          "article-title": "Occupational disability related to back pain: application of a theoretical model of work disability using prospective cohorts of manual workers.",
+          "volume": "37",
+          "author": "Tousignant",
+          "year": "2000",
+          "journal-title": "Am J Ind Med"
+        },
+        {
+          "key": "R152-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "645",
+          "DOI": "10.1097/00007632-198709000-00003",
+          "article-title": "1987 Volvo award in clinical sciences. The perception of back pain and the role of psychophysical tests of lifting capacity.",
+          "volume": "12",
+          "author": "Troup",
+          "year": "1987",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU153-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "451",
+          "DOI": "10.1097/00043764-200205000-00013",
+          "article-title": "Risk factors for sick leave due to low back pain: a prospective study.",
+          "volume": "44",
+          "author": "Tubach",
+          "year": "2002",
+          "journal-title": "J Occup Environ Med"
+        },
+        {
+          "key": "RU154-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "285",
+          "DOI": "10.1016/S0304-3959(00)00292-X",
+          "article-title": "Prediction of return-to-work of low back pain patients sicklisted for 3-4 months.",
+          "volume": "87",
+          "author": "van der Giezen",
+          "year": "2000",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "RU155-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "50",
+          "DOI": "10.5271/sjweh.383",
+          "article-title": "Prognostic factors for chronic disability from acute low-back pain in occupational health care.",
+          "volume": "25",
+          "author": "van der Weide",
+          "year": "1999",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "RU156-28-20210227",
+          "first-page": "519",
+          "article-title": "Shoulder disorders in general practice. prognostic indicators of outcome.",
+          "volume": "46",
+          "author": "van der Windt",
+          "year": "1996",
+          "journal-title": "Br J Gen Pract"
+        },
+        {
+          "key": "RU157-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.1016/S0304-3959(98)00085-2",
+          "article-title": "Risk factors for back pain incidence in industry: a prospective study.",
+          "volume": "77",
+          "author": "van Poppel",
+          "year": "1998",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "R158-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "412",
+          "DOI": "10.1016/j.ejpain.2007.08.006",
+          "article-title": "Risk factors of atherosclerosis and shoulder pain-is there an association? A systematic review.",
+          "volume": "12",
+          "author": "Viikari-Juntura",
+          "year": "2008",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "R159-28-20210227",
+          "first-page": "223",
+          "article-title": "Factors predicting pain in the neck, shoulders and upper limbs in forestry work.",
+          "volume": "7",
+          "author": "Viikari-Juntura",
+          "year": "1993",
+          "journal-title": "People Work Res Rep"
+        },
+        {
+          "key": "RU160-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "1056",
+          "DOI": "10.1097/00007632-199109000-00008",
+          "article-title": "A life-long prospective study on the role of psychosocial factors in neck-shoulder and low-back pain.",
+          "volume": "16",
+          "author": "Viikari-Juntura",
+          "year": "1991",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "R161-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "124",
+          "DOI": "10.1093/occmed/51.2.124",
+          "article-title": "Occupational health guidelines for the management of low back pain at work: evidence review.",
+          "volume": "51",
+          "author": "Waddell",
+          "year": "2001",
+          "journal-title": "Occup Med"
+        },
+        {
+          "key": "R162-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "55",
+          "DOI": "10.1093/bmb/ldl008",
+          "article-title": "Preventing incapacity in people with musculoskeletal disorders.",
+          "volume": "77-",
+          "author": "Waddell",
+          "year": "2006",
+          "journal-title": "Br Med Bull"
+        },
+        {
+          "key": "R163-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "50",
+          "DOI": "10.1080/1355297X.2001.11736132",
+          "article-title": "Shiplash injury sustained in motor vehicle accidents: factors influencing time of work.",
+          "volume": "23",
+          "author": "Warren",
+          "year": "2001",
+          "journal-title": "J Orthop Med"
+        },
+        {
+          "key": "R164-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "377",
+          "DOI": "10.1136/jech.2004.031526",
+          "article-title": "Work related and non-work related stress in relation to low leisure time physical activity in a Swedish population.",
+          "volume": "59",
+          "author": "Wemme",
+          "year": "2005",
+          "journal-title": "J Epidemiol Community Health"
+        },
+        {
+          "key": "RU165-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "758",
+          "DOI": "10.1097/00007632-200104010-00012",
+          "article-title": "Centralization phenomenon as a prognostic factor for chronic low back pain and disability.",
+          "volume": "26",
+          "author": "Werneke",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "RU166-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "145",
+          "DOI": "10.5271/sjweh.292",
+          "article-title": "Occupational factors affecting sick leave attributed to low-back pain.",
+          "volume": "24",
+          "author": "Wickstrom",
+          "year": "1998",
+          "journal-title": "Scand J Work Environ Health"
+        },
+        {
+          "key": "RU167-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "366",
+          "DOI": "10.1016/S0003-9993(98)90135-6",
+          "article-title": "The contribution of job satisfaction to the transition from acute to chronic low back pain.",
+          "volume": "79",
+          "author": "Williams",
+          "year": "1998",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "R169-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "538",
+          "DOI": "10.1177/089826430001200405",
+          "article-title": "Job characteristics and leisure physical activity.",
+          "volume": "12",
+          "author": "Wu",
+          "year": "2000",
+          "journal-title": "J Aging Health"
+        },
+        {
+          "key": "R170-28-20210227",
+          "doi-asserted-by": "crossref",
+          "first-page": "223",
+          "DOI": "10.1080/13548500120116157",
+          "article-title": "The association between psychosocial work factor and future low back pain among nurses in Hong Kong: a prospective study.",
+          "volume": "7",
+          "author": "Yip",
+          "year": "2002",
+          "journal-title": "Psychol Health Med"
+        }
+      ],
+      "container-title": [
+        "Pain"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.lww.com/10.1016/j.pain.2009.08.032",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            12
+          ]
+        ],
+        "date-time": "2025-02-12T14:29:20Z",
+        "timestamp": 1739370560000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.lww.com/00006396-200912150-00028"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2009,
+            12
+          ]
+        ]
+      },
+      "references-count": 164,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2009
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1016/j.pain.2009.08.032",
+      "relation": {},
+      "ISSN": [
+        "0304-3959"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "0304-3959"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2009,
+            12
+          ]
+        ]
+      }
+    }
+  }
+}

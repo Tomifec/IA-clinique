@@ -1,0 +1,533 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_3390_medicina55080453.md",
+  "id": "evidence_import_refs_2025_09_12_10_3390_medicina55080453",
+  "doi": "10.3390/medicina55080453",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:08:53.411168Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            22
+          ]
+        ],
+        "date-time": "2025-07-22T10:42:25Z",
+        "timestamp": 1753180945146,
+        "version": "3.37.3"
+      },
+      "reference-count": 28,
+      "publisher": "MDPI AG",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                8,
+                8
+              ]
+            ],
+            "date-time": "2019-08-08T00:00:00Z",
+            "timestamp": 1565222400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Medicina"
+      ],
+      "abstract": "<jats:p>Background and Objectives: Sleep disorders are one of the most common complaints of patients with rotator cuff (RC) tears. However, potential correlations between the treatment of RC tears and the causal factors of sleep disorders are still under discussion. The aim of this review is to evaluate quality of sleep in patients before and after surgery for RC tears and to identify which factors affected patients’ sleep. Materials and Methods: A systematic review was conducted. To provide high quality of the review, the included studies were evaluated with the standardized tool “Quality Assessment Tool for Quantitative Studies” developed by the Effective Public Health Practice Project. Results: The search strategy yielded 78 articles. After duplicate removal and titles, abstracts and full-texts review, four studies were included in the systematic review. Concerning shoulder function, the most frequently reported scale was the Simple Shoulder Test (SST). Regarding sleep quality, the most frequently reported score was the Pittsburgh Sleep Quality Index (PSQI). Conclusion: We found that the majority of patients with RC tears had a sleep disturbance, especially before surgery with a general improvement in sleep quality post-operatively. Moreover, sleep quality was correlated with pain and it also seems that factors as comorbidities, obligatory position during night time, preoperative and prolonged postoperative use of narcotics and psychiatric issues may play an important role in sleep quality.</jats:p>",
+      "DOI": "10.3390/medicina55080453",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            8,
+            8
+          ]
+        ],
+        "date-time": "2019-08-08T15:05:32Z",
+        "timestamp": 1565276732000
+      },
+      "page": "453",
+      "source": "Crossref",
+      "is-referenced-by-count": 53,
+      "title": [
+        "Sleep Disturbance and Rotator Cuff Tears: A Systematic Review"
+      ],
+      "prefix": "10.3390",
+      "volume": "55",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-4063-9821",
+          "authenticated-orcid": false,
+          "given": "Umile Giuseppe",
+          "family": "Longo",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic and Trauma Surgery, Campus Bio-Medico University, 00128 Rome, Italy"
+            }
+          ]
+        },
+        {
+          "given": "Gabriella",
+          "family": "Facchinetti",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Unit of Nursing Science, Campus Bio-Medico University, 00128 Rome, Italy"
+            }
+          ]
+        },
+        {
+          "given": "Anna",
+          "family": "Marchetti",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Unit of Nursing Science, Campus Bio-Medico University, 00128 Rome, Italy"
+            }
+          ]
+        },
+        {
+          "given": "Vincenzo",
+          "family": "Candela",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic and Trauma Surgery, Campus Bio-Medico University, 00128 Rome, Italy"
+            }
+          ]
+        },
+        {
+          "given": "Laura",
+          "family": "Risi Ambrogioni",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic and Trauma Surgery, Campus Bio-Medico University, 00128 Rome, Italy"
+            }
+          ]
+        },
+        {
+          "given": "Aurora",
+          "family": "Faldetta",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Unit of Nursing Science, Campus Bio-Medico University, 00128 Rome, Italy"
+            }
+          ]
+        },
+        {
+          "given": "Maria Grazia",
+          "family": "De Marinis",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Research Unit of Nursing Science, Campus Bio-Medico University, 00128 Rome, Italy"
+            }
+          ]
+        },
+        {
+          "given": "Vincenzo",
+          "family": "Denaro",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Orthopaedic and Trauma Surgery, Campus Bio-Medico University, 00128 Rome, Italy"
+            }
+          ]
+        }
+      ],
+      "member": "1968",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            8,
+            8
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1455",
+          "DOI": "10.1177/0363546515572769",
+          "article-title": "Sleep disturbance associated with rotator cuff tear: Correction with arthroscopic rotator cuff repair",
+          "volume": "43",
+          "author": "Austin",
+          "year": "2015",
+          "journal-title": "Am. J. Sports Med."
+        },
+        {
+          "key": "ref_2",
+          "doi-asserted-by": "crossref",
+          "first-page": "2109",
+          "DOI": "10.1007/s00167-016-4228-5",
+          "article-title": "Preoperative and post-operative sleep quality evaluation in rotator cuff tear patients",
+          "volume": "25",
+          "author": "Serbest",
+          "year": "2017",
+          "journal-title": "Knee Surg. Sports Traumatol. Arthrosc."
+        },
+        {
+          "key": "ref_3",
+          "doi-asserted-by": "crossref",
+          "first-page": "215",
+          "DOI": "10.5435/JAAOS-D-16-00547",
+          "article-title": "Sleep Quality in Patients with Rotator Cuff Disease",
+          "volume": "26",
+          "author": "Khazzam",
+          "year": "2018",
+          "journal-title": "J. Am. Acad. Orthop. Surg."
+        },
+        {
+          "key": "ref_4",
+          "doi-asserted-by": "crossref",
+          "first-page": "1452",
+          "DOI": "10.1016/j.jse.2015.02.013",
+          "article-title": "Sleep quality and nocturnal pain in patients with shoulder disorders",
+          "volume": "24",
+          "author": "Mulligan",
+          "year": "2015",
+          "journal-title": "J. Shoulder Elbow. Surg."
+        },
+        {
+          "key": "ref_5",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Reyes, B.A., Hull, B.R., Kurth, A.B., Kukowski, N.R., Mulligan, E.P., and Khazzam, M.S. (2017). Do Magnetic Resonance Imaging Characteristics of Full-Thickness Rotator Cuff Tears Correlate with Sleep Disturbance?. Orthop. J. Sports Med., 5.",
+          "DOI": "10.1177/2325967117735319"
+        },
+        {
+          "key": "ref_6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Minns Lowe, C.J., Moser, J., and Barker, K. (2014). Living with a symptomatic rotator cuff tear ‘bad days, bad nights’: A qualitative study. BMC Musculoskelet Dis., 15.",
+          "DOI": "10.1186/1471-2474-15-228"
+        },
+        {
+          "key": "ref_7",
+          "doi-asserted-by": "crossref",
+          "first-page": "217",
+          "DOI": "10.1007/s00402-016-2610-x",
+          "article-title": "The burden of rotator cuff surgery in Italy: A nationwide registry study",
+          "volume": "137",
+          "author": "Longo",
+          "year": "2017",
+          "journal-title": "Arch. Orthop. Trauma Surg."
+        },
+        {
+          "key": "ref_8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1159/000328868",
+          "article-title": "Epidemiology, genetics and biological factors of rotator cuff tears",
+          "volume": "57",
+          "author": "Longo",
+          "year": "2012",
+          "journal-title": "Med. Sport Sci."
+        },
+        {
+          "key": "ref_9",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Longo, U.G., Margiotti, K., Petrillo, S., Rizzello, G., Fusilli, C., Maffulli, N., De Luca, A., and Denaro, V. (2018). Genetics of rotator cuff tears: No association of col5a1 gene in a case-control study. BMC Med. Genet., 19.",
+          "DOI": "10.1186/s12881-018-0727-1"
+        },
+        {
+          "key": "ref_10",
+          "doi-asserted-by": "crossref",
+          "first-page": "227",
+          "DOI": "10.1097/JSA.0b013e318213bccb",
+          "article-title": "Histopathology of rotator cuff tears",
+          "volume": "19",
+          "author": "Longo",
+          "year": "2011",
+          "journal-title": "Sports Med. Arthrosc."
+        },
+        {
+          "key": "ref_11",
+          "doi-asserted-by": "crossref",
+          "first-page": "200",
+          "DOI": "10.1016/j.jse.2011.10.020",
+          "article-title": "Metalloproteases and rotator cuff disease",
+          "volume": "21",
+          "author": "Oliva",
+          "year": "2012",
+          "journal-title": "J. Shoulder Elb. Surg."
+        },
+        {
+          "key": "ref_12",
+          "doi-asserted-by": "crossref",
+          "first-page": "184",
+          "DOI": "10.1097/JSA.0b013e318205470e",
+          "article-title": "Animal models for translational research on shoulder pathologies: From bench to bedside",
+          "volume": "19",
+          "author": "Longo",
+          "year": "2011",
+          "journal-title": "Sports Med. Arthrosc. Rev."
+        },
+        {
+          "key": "ref_13",
+          "doi-asserted-by": "crossref",
+          "first-page": "222",
+          "DOI": "10.1016/j.jse.2012.04.001",
+          "article-title": "Is shoulder pain for three months or longer correlated with depression, anxiety, and sleep disturbance?",
+          "volume": "22",
+          "author": "Cho",
+          "year": "2013",
+          "journal-title": "J. Shoulder Elb. Surg."
+        },
+        {
+          "key": "ref_14",
+          "doi-asserted-by": "crossref",
+          "first-page": "1670",
+          "DOI": "10.1177/0363546517692551",
+          "article-title": "Long-term Correction in Sleep Disturbance Is Sustained After Arthroscopic Rotator Cuff Repair",
+          "volume": "45",
+          "author": "Horneff",
+          "year": "2017",
+          "journal-title": "Am. J. Sports Med."
+        },
+        {
+          "key": "ref_15",
+          "doi-asserted-by": "crossref",
+          "first-page": "33",
+          "DOI": "10.1007/s12306-016-0405-4",
+          "article-title": "Sleep quality and disturbances in patients with different-sized rotator cuff tear",
+          "volume": "100",
+          "author": "Gumina",
+          "year": "2016",
+          "journal-title": "Musculoskelet Surg."
+        },
+        {
+          "key": "ref_16",
+          "doi-asserted-by": "crossref",
+          "first-page": "b2700",
+          "DOI": "10.1136/bmj.b2700",
+          "article-title": "The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate healthcare interventions: Explanation and elaboration",
+          "volume": "339",
+          "author": "Liberati",
+          "year": "2009",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "ref_17",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Munn, Z., Stern, C., Aromataris, E., Lockwood, C., and Jordan, Z. (2018). What kind of systematic review should I conduct? A proposed typology and guidance for systematic reviewers in the medical and health sciences. BMC Med. Res. Methodol., 18.",
+          "DOI": "10.1186/s12874-017-0468-4"
+        },
+        {
+          "key": "ref_18",
+          "doi-asserted-by": "crossref",
+          "first-page": "176",
+          "DOI": "10.1111/j.1524-475X.2004.04006.x",
+          "article-title": "A process for systematically reviewing the literature: Providing the research evidence for public health nursing interventions",
+          "volume": "1",
+          "author": "Thomas",
+          "year": "2004",
+          "journal-title": "Worldviews Evid. Based Nurs."
+        },
+        {
+          "key": "ref_19",
+          "doi-asserted-by": "crossref",
+          "first-page": "3494",
+          "DOI": "10.1007/s11999-015-4258-1",
+          "article-title": "Does Rotator Cuff Repair Improve Psychologic Status and Quality of Life in Patients With Rotator Cuff Tear?",
+          "volume": "473",
+          "author": "Cho",
+          "year": "2015",
+          "journal-title": "Clin. Orthop. Relat. Res."
+        },
+        {
+          "key": "ref_20",
+          "first-page": "370",
+          "article-title": "The relationship between shoulder impingement syndrome and sleep quality",
+          "volume": "17",
+          "author": "Tekeoglu",
+          "year": "2013",
+          "journal-title": "Eur. Rev. Med. Pharmacol. Sci."
+        },
+        {
+          "key": "ref_21",
+          "doi-asserted-by": "crossref",
+          "first-page": "39",
+          "DOI": "10.1093/sleep/24.1.39",
+          "article-title": "Postoperative sleep disturbance: Influences of opioids and pain in humans",
+          "volume": "24",
+          "author": "Cronin",
+          "year": "2001",
+          "journal-title": "Sleep"
+        },
+        {
+          "key": "ref_22",
+          "doi-asserted-by": "crossref",
+          "first-page": "1160",
+          "DOI": "10.1016/j.jse.2013.02.006",
+          "article-title": "The impact of depression and anxiety on self-assessed pain, disability, and quality of life in patients scheduled for rotator cuff repair",
+          "volume": "22",
+          "author": "Cho",
+          "year": "2013",
+          "journal-title": "J. Shoulder Elb. Surg."
+        },
+        {
+          "key": "ref_23",
+          "doi-asserted-by": "crossref",
+          "first-page": "e108",
+          "DOI": "10.2106/JBJS.M.01011",
+          "article-title": "Melatonin Plays a Role as a Mediator of Nocturnal Pain in Patients with Shoulder Disorders",
+          "volume": "96",
+          "author": "Ha",
+          "year": "2014",
+          "journal-title": "J. Bone Joint Surg. Am."
+        },
+        {
+          "key": "ref_24",
+          "doi-asserted-by": "crossref",
+          "first-page": "A1",
+          "DOI": "10.2519/jospt.2013.0302",
+          "article-title": "Shoulder pain and mobility deficits: Adhesive capsulitis",
+          "volume": "43",
+          "author": "Kelley",
+          "year": "2013",
+          "journal-title": "J. Orthop. Sports Phys. Ther."
+        },
+        {
+          "key": "ref_25",
+          "doi-asserted-by": "crossref",
+          "first-page": "793",
+          "DOI": "10.2106/JBJS.L.01304",
+          "article-title": "Symptoms of pain do not correlate with rotator cuff tear severity: A cross-sectional study of 393 patients with a symptomatic atraumatic full-thickness rotator cuff tear",
+          "volume": "96",
+          "author": "Dunn",
+          "year": "2014",
+          "journal-title": "J. Bone Joint Surg. Am."
+        },
+        {
+          "key": "ref_26",
+          "doi-asserted-by": "crossref",
+          "first-page": "2325967115584596",
+          "DOI": "10.1177/2325967115584596",
+          "article-title": "Structural Characteristics Are Not Associated With Pain and Function in Rotator Cuff Tears: The ROW Cohort Study",
+          "volume": "3",
+          "author": "Curry",
+          "year": "2015",
+          "journal-title": "Orthop. J. Sports Med."
+        },
+        {
+          "key": "ref_27",
+          "doi-asserted-by": "crossref",
+          "first-page": "989",
+          "DOI": "10.1016/j.jse.2010.04.039",
+          "article-title": "Subacromial pressures vary with simulated sleep positions",
+          "volume": "19",
+          "author": "Werner",
+          "year": "2010",
+          "journal-title": "J. Shoulder Elb. Surg."
+        },
+        {
+          "key": "ref_28",
+          "doi-asserted-by": "crossref",
+          "first-page": "772",
+          "DOI": "10.3349/ymj.2015.56.3.772",
+          "article-title": "Effect of a sleep aid in analgesia after arthroscopic rotator cuff repair",
+          "volume": "56",
+          "author": "Cho",
+          "year": "2015",
+          "journal-title": "Yonsei Med. J."
+        }
+      ],
+      "container-title": [
+        "Medicina"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.mdpi.com/1648-9144/55/8/453/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            21
+          ]
+        ],
+        "date-time": "2024-07-21T20:43:17Z",
+        "timestamp": 1721594597000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.mdpi.com/1648-9144/55/8/453"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            8,
+            8
+          ]
+        ]
+      },
+      "references-count": 28,
+      "journal-issue": {
+        "issue": "8",
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              8
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "medicina55080453"
+      ],
+      "URL": "https://doi.org/10.3390/medicina55080453",
+      "relation": {},
+      "ISSN": [
+        "1648-9144"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1648-9144"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            8,
+            8
+          ]
+        ]
+      }
+    }
+  }
+}

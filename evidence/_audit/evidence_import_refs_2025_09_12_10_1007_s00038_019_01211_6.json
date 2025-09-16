@@ -1,0 +1,852 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1007_s00038_019_01211_6.md",
+  "id": "evidence_import_refs_2025_09_12_10_1007_s00038_019_01211_6",
+  "doi": "10.1007/s00038-019-01211-6",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:21.325269Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            6
+          ]
+        ],
+        "date-time": "2025-08-06T12:50:56Z",
+        "timestamp": 1754484656501,
+        "version": "3.37.3"
+      },
+      "reference-count": 53,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "6",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                5,
+                15
+              ]
+            ],
+            "date-time": "2019-05-15T00:00:00Z",
+            "timestamp": 1557878400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                5,
+                15
+              ]
+            ],
+            "date-time": "2019-05-15T00:00:00Z",
+            "timestamp": 1557878400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100002322",
+          "name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "88881.120102/2016-01"
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100002322",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Int J Public Health"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1007/s00038-019-01211-6",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            15
+          ]
+        ],
+        "date-time": "2019-05-15T06:02:23Z",
+        "timestamp": 1557900143000
+      },
+      "page": "965-974",
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 23,
+      "title": [
+        "Direct healthcare costs of spinal disorders in Brazil"
+      ],
+      "prefix": "10.1007",
+      "volume": "64",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2382-0787",
+          "authenticated-orcid": false,
+          "given": "Rodrigo Luiz",
+          "family": "Carregaro",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Everton Nunes",
+          "family": "da Silva",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Maurits",
+          "family": "van Tulder",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            15
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "1211_CR100",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00038-018-1099-1",
+          "author": "RL Carregaro",
+          "year": "2018",
+          "unstructured": "Carregaro RL, da Silva EN, van Tulder M\n (2018) RETRACTED ARTICLE: Direct healthcare costs of spinal disorders in Brazil. Int J Public Health. \n                    https://doi.org/10.1007/s00038-018-1099-1",
+          "journal-title": "Int J Public Health"
+        },
+        {
+          "key": "1211_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "1700",
+          "DOI": "10.1016/j.socscimed.2006.04.023",
+          "volume": "63",
+          "author": "T Adam",
+          "year": "2006",
+          "unstructured": "Adam T, Evans DB (2006) Determinants of variation in the cost of inpatient stays versus outpatient visits in hospitals: a multi-country analysis. Soc Sci Med 63:1700–1710. \n                    https://doi.org/10.1016/j.socscimed.2006.04.023",
+          "journal-title": "Soc Sci Med"
+        },
+        {
+          "key": "1211_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "384",
+          "DOI": "10.1097/BSD.0000000000000417",
+          "volume": "29",
+          "author": "J Ahn",
+          "year": "2016",
+          "unstructured": "Ahn J, Bohl DD, Tabaraee E, Basques BA, Singh K (2016) Current trends in outpatient spine surgery. Clin Spine Surg 29:384–386",
+          "journal-title": "Clin Spine Surg"
+        },
+        {
+          "key": "1211_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "503",
+          "DOI": "10.1097/BRS.0000000000000183",
+          "volume": "39",
+          "author": "T Asklof",
+          "year": "2014",
+          "unstructured": "Asklof T, Kautiainen H, Jarvenpaa S, Haanpaa M, Kiviranta I, Pohjolainen T (2014) Disability pensions due to spinal disorders. Spine 39:503–508",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "1211_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "482",
+          "DOI": "10.1016/S0140-6736(11)60610-7",
+          "volume": "379",
+          "author": "F Balagué",
+          "year": "2012",
+          "unstructured": "Balagué F, Mannion AF, Pellisé F, Cedraschi C (2012) Non-specific low back pain. Lancet 379:482–491. \n                    https://doi.org/10.1016/S0140-6736(11)60610-7",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "1211_CR5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD010663.pub2",
+          "author": "J Bettany-Saltikov",
+          "year": "2015",
+          "unstructured": "Bettany-Saltikov J, Weiss HR, Chockalingam N et al (2015) Surgical versus non-surgical interventions in people with adolescent idiopathic scoliosis. Cochrane Database Syst Rev. \n                    https://doi.org/10.1002/14651858.CD010663.pub2",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "1211_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "356",
+          "DOI": "10.1016/j.berh.2015.08.002",
+          "volume": "29",
+          "author": "S Bevan",
+          "year": "2015",
+          "unstructured": "Bevan S (2015) Economic impact of musculoskeletal disorders (MSDs) on work in Europe. Best Pract Res Clin Rheumatol 29:356–373",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "1211_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "19",
+          "DOI": "10.1590/S0102-311X2006000100003",
+          "volume": "22",
+          "author": "SA Bittencourt",
+          "year": "2006",
+          "unstructured": "Bittencourt SA, Camacho LAB, Leal MC (2006) Hospital information systems and their application in public health. Cad Saude Publica 22:19–30",
+          "journal-title": "Cad Saude Publica"
+        },
+        {
+          "key": "1211_CR8",
+          "volume-title": "Estatuto da criança e do adolescente",
+          "author": "BRASIL",
+          "year": "2016",
+          "unstructured": "BRASIL (2016) Estatuto da criança e do adolescente, 14th edn. Edições Câmara, Brasília",
+          "edition": "14"
+        },
+        {
+          "key": "1211_CR9",
+          "unstructured": "BRASIL (2017) DATASUS. Departamento de Informática do SUS. Ministério da Saúde. \n                    http://datasus.saude.gov.br/\n                    \n                  . Accessed Dec 6 2017"
+        },
+        {
+          "key": "1211_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "8",
+          "DOI": "10.1016/j.spinee.2007.10.005",
+          "volume": "8",
+          "author": "S Dagenais",
+          "year": "2008",
+          "unstructured": "Dagenais S, Caro J, Haldeman S (2008) A systematic review of low back pain cost of illness studies in the United States and internationally. Spine J 8:8–20. \n                    https://doi.org/10.1016/j.spinee.2007.10.005",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "1211_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "e0121160",
+          "DOI": "10.1371/journal.pone.0121160",
+          "volume": "10",
+          "author": "ML de Oliveira",
+          "year": "2015",
+          "unstructured": "de Oliveira ML, Santos LM, da Silva EN (2015) Direct healthcare cost of obesity in Brazil: an application of the cost-of-illness method from the perspective of the public health system in 2011. PLoS ONE 10:e0121160. \n                    https://doi.org/10.1371/journal.pone.0121160",
+          "journal-title": "PLoS ONE"
+        },
+        {
+          "key": "1211_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "675",
+          "DOI": "10.1007/s10926-015-9575-4",
+          "volume": "25",
+          "author": "E de Vroome",
+          "year": "2015",
+          "unstructured": "de Vroome E, Uegaki K, van der Ploeg C, Treutlein D, Steenbeek R, de Weerd M, van den Bossche S (2015) Burden of sickness absence due to chronic disease in the Dutch workforce from 2007 to 2011. J Occup Rehabil 25:675–684. \n                    https://doi.org/10.1007/s10926-015-9575-4",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "key": "1211_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "650",
+          "DOI": "10.1093/rheumatology/ket387",
+          "volume": "53",
+          "author": "LE Dean",
+          "year": "2014",
+          "unstructured": "Dean LE, Jones GT, MacDonald AG, Downham C, Sturrock RD, Macfarlane GJ (2014) Global prevalence of ankylosing spondylitis. Rheumatology (Oxford) 53:650–657. \n                    https://doi.org/10.1093/rheumatology/ket387",
+          "journal-title": "Rheumatology (Oxford)"
+        },
+        {
+          "key": "1211_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "A1",
+          "DOI": "10.2519/jospt.2012.42.4.A1",
+          "volume": "42",
+          "author": "A Delitto",
+          "year": "2012",
+          "unstructured": "Delitto A, George SZ, van Dillen LR et al (2012) Low back pain. Clinical practice guidelines linked to the international classification of functioning, disability, and health from the orthopaedic section of the American physical therapy association. J Orthop Sports Phys Ther 42:A1–57. \n                    https://doi.org/10.2519/jospt.2012.0301",
+          "journal-title": "J Orthop Sports Phys Ther"
+        },
+        {
+          "key": "1211_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "375",
+          "DOI": "10.1590/1516-3180.2016.0091310516",
+          "volume": "134",
+          "author": "J Depintor",
+          "year": "2016",
+          "unstructured": "Depintor J, Bracher E, Cabral D, Eluf-Neto J (2016) Prevalence of chronic spinal pain and identification of associated factors in a sample of the population of São Paulo, Brazil: cross-sectional study. Sao Paulo Med J 134:375–384. \n                    https://doi.org/10.1590/1516-3180.2016.0091310516",
+          "journal-title": "Sao Paulo Med J"
+        },
+        {
+          "key": "1211_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "661",
+          "DOI": "10.1590/S0102-311X2000000300014",
+          "volume": "16",
+          "author": "RC Fernandes",
+          "year": "2000",
+          "unstructured": "Fernandes RC, Carvalho FM (2000) Intervertebral disk disease among oil drilling workers. Cad Saude Publica 16:661–669",
+          "journal-title": "Cad Saude Publica"
+        },
+        {
+          "key": "1211_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "8",
+          "DOI": "10.1186/s12962-015-0035-y",
+          "volume": "13",
+          "author": "M Ferraz",
+          "year": "2015",
+          "unstructured": "Ferraz M (2015) Health care: the challenge to deal with uncertainty and value judgment. Cost Eff Resour Alloc 13:8. \n                    https://doi.org/10.1186/s12962-015-0035-y",
+          "journal-title": "Cost Eff Resour Alloc"
+        },
+        {
+          "key": "1211_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "1188",
+          "DOI": "10.1089/jwh.2006.0205",
+          "volume": "16",
+          "author": "SM Frayne",
+          "year": "2007",
+          "unstructured": "Frayne SM, Yu W, Yano EM, Ananth L, Iqbal S, Thrailkill A, Phibbs CS (2007) Gender and use of care: planning for tomorrow’s veterans health administration. J Womens Health 16:1188–1199",
+          "journal-title": "J Womens Health"
+        },
+        {
+          "key": "1211_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "616",
+          "DOI": "10.1111/j.1365-2648.2004.03331.x",
+          "volume": "49",
+          "author": "PM Galdas",
+          "year": "2005",
+          "unstructured": "Galdas PM, Cheater F, Marshall P (2005) Men and health help-seeking behaviour: literature review. J Adv Nurs 49:616–623. \n                    https://doi.org/10.1111/j.1365-2648.2004.03331.x",
+          "journal-title": "J Adv Nurs"
+        },
+        {
+          "key": "1211_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "1211",
+          "DOI": "10.1016/S0140-6736(17)32154-2",
+          "volume": "390",
+          "author": "GBD",
+          "year": "2017",
+          "unstructured": "GBD (2017) Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016: a systematic analysis for the global burden of disease study 2016. Lancet 390:1211–1259. \n                    https://doi.org/10.1016/S0140-6736(17)32154-2",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "1211_CR21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD001352.pub3",
+          "author": "JN Gibson",
+          "year": "2005",
+          "unstructured": "Gibson JN, Waddell G (2005) Surgery for degenerative lumbar spondylosis. Cochrane Database Syst Rev. \n                    https://doi.org/10.1002/14651858.CD001352.pub3",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "1211_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "E668",
+          "DOI": "10.1097/BRS.0b013e318241e5de",
+          "volume": "37",
+          "author": "M Gore",
+          "year": "2012",
+          "unstructured": "Gore M, Sadosky A, Stacey BR, Tai KS, Leslie D (2012) The burden of chronic low back pain: clinical comorbidities, treatment patterns, and health care costs in usual care settings. Spine 37:E668–E677. \n                    https://doi.org/10.1097/BRS.0b013e318241e5de",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "1211_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "2028",
+          "DOI": "10.1002/art.34347",
+          "volume": "64",
+          "author": "D Hoy",
+          "year": "2012",
+          "unstructured": "Hoy D, Bain C, Williams G et al (2012) A systematic review of the global prevalence of low back pain. Arthritis Rheum 64:2028–2037. \n                    https://doi.org/10.1002/art.34347",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "1211_CR24",
+          "unstructured": "IBGE (2017) XII Censo Demográfico (2010). \n                    https://censo2010.ibge.gov.br/"
+        },
+        {
+          "key": "1211_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "1430",
+          "DOI": "10.1136/bmj.332.7555.1430",
+          "volume": "332",
+          "author": "BW Koes",
+          "year": "2006",
+          "unstructured": "Koes BW, van Tulder MW, Thomas S (2006) Diagnosis and treatment of low back pain. BMJ 332:1430–1434. \n                    https://doi.org/10.1136/bmj.332.7555.1430",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "1211_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "1050",
+          "DOI": "10.1097/BRS.0b013e3181e70488",
+          "volume": "36",
+          "author": "LC Lambeek",
+          "year": "2011",
+          "unstructured": "Lambeek LC, van Tulder MW, Swinkels ICS, Koppes LLJ, Anema JR, van Mechelen W (2011) The trend in total cost of back pain in the Netherlands in the period 2002 to 2007. Spine 36:1050–1058",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "1211_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "653",
+          "DOI": "10.2165/11588380-000000000-00000",
+          "volume": "29",
+          "author": "A Larg",
+          "year": "2011",
+          "unstructured": "Larg A, Moss JR (2011) Cost-of-illness studies: a guide to critical evaluation. Pharmacoeconomics 29:653–671. \n                    https://doi.org/10.2165/11588380-000000000-00000",
+          "journal-title": "Pharmacoeconomics"
+        },
+        {
+          "key": "1211_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "1725",
+          "DOI": "10.1016/j.apmr.2014.02.027",
+          "volume": "95",
+          "author": "B Longworth",
+          "year": "2014",
+          "unstructured": "Longworth B, Fary R, Hopper D (2014) Prevalence and predictors of adolescent idiopathic scoliosis in adolescent ballet dancers. Arch Phys Med Rehabil 95:1725–1730. \n                    https://doi.org/10.1016/j.apmr.2014.02.027",
+          "journal-title": "Arch Phys Med Rehabil"
+        },
+        {
+          "key": "1211_CR29",
+          "doi-asserted-by": "publisher",
+          "first-page": "79",
+          "DOI": "10.1097/01.BRS.0000105527.13866.0F",
+          "volume": "29",
+          "author": "X Luo",
+          "year": "2004",
+          "unstructured": "Luo X, Pietrobon R, Sun SX, Liu GG, Hey L (2004) Estimates and patterns of direct health care expenditures among individuals with back pain in the United States. Spine 29:79–86. \n                    https://doi.org/10.1097/01.Brs.0000105527.13866.0f",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "1211_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "95",
+          "DOI": "10.1016/S0304-3959(99)00187-6",
+          "volume": "84",
+          "author": "N Maniadakis",
+          "year": "2000",
+          "unstructured": "Maniadakis N, Gray A (2000) The economic burden of back pain in the UK. Pain 84:95–103",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "1211_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "494",
+          "DOI": "10.1590/S0034-89102011000300007",
+          "volume": "45",
+          "author": "N Meziat",
+          "year": "2011",
+          "unstructured": "Meziat N, Silva GAE (2011) Disability pension from back pain among social security beneficiaries, Brazil. Rev Saude Publ 45:494–502",
+          "journal-title": "Rev Saude Publ"
+        },
+        {
+          "key": "1211_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "657",
+          "DOI": "10.3109/14397595.2013.843761",
+          "volume": "24",
+          "author": "S Muraki",
+          "year": "2014",
+          "unstructured": "Muraki S, Yoshimura N, Akune T, Tanaka S, Takahashi I, Fujiwara S (2014) Prevalence, incidence and progression of lumbar spondylosis by gender and age strata. Mod Rheumatol 24:657–661. \n                    https://doi.org/10.3109/14397595.2013.843761",
+          "journal-title": "Mod Rheumatol"
+        },
+        {
+          "key": "1211_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "1678",
+          "DOI": "10.1056/NEJM199806043382307",
+          "volume": "338",
+          "author": "CA Mustard",
+          "year": "1998",
+          "unstructured": "Mustard CA, Kaufert P, Kozyrskyj A, Mayer T (1998) Sex differences in the use of health care services. New Engl J Med 338:1678–1683. \n                    https://doi.org/10.1056/nejm199806043382307",
+          "journal-title": "New Engl J Med"
+        },
+        {
+          "key": "1211_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "1141",
+          "DOI": "10.1590/0102-311X00046114",
+          "volume": "31",
+          "author": "PR Nascimento",
+          "year": "2015",
+          "unstructured": "Nascimento PR, Costa LO (2015) Low back pain prevalence in Brazil: a systematic review. Cad Saude Publica 31:1141–1156. \n                    https://doi.org/10.1590/0102-311X00046114",
+          "journal-title": "Cad Saude Publica"
+        },
+        {
+          "key": "1211_CR35",
+          "unstructured": "NICE (2016) Low back pain and sciatica in over 16 s: assessment and management. Assessment and non-invasive treatments vol NICE Guideline, No. 59. National Institute for Health and Care Excellence (UK), London"
+        },
+        {
+          "key": "1211_CR36",
+          "unstructured": "NICE (2017) Spondyloarthritis in over 16 s: diagnosis and management vol Guideline NG65. National Institute for Health and Care Excellence (UK), London"
+        },
+        {
+          "key": "1211_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "1283",
+          "DOI": "10.1590/0102-311X00192013",
+          "volume": "31",
+          "author": "MT Pinto",
+          "year": "2015",
+          "unstructured": "Pinto MT, Pichon-Riviere A, Bardach A (2015) The burden of smoking-related diseases in Brazil: mortality, morbidity and costs. Cad Saude Publica 31:1283–1297. \n                    https://doi.org/10.1590/0102-311X00192013",
+          "journal-title": "Cad Saude Publica"
+        },
+        {
+          "key": "1211_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "264",
+          "DOI": "10.1097/BRS.0b013e3182697b57",
+          "volume": "38",
+          "author": "AJ Pugely",
+          "year": "2013",
+          "unstructured": "Pugely AJ, Martin CT, Gao Y, Mendoza-Lattes SA (2013) Outpatient surgery reduces short-term complications in lumbar discectomy: an analysis of 4310 patients from the ACS-NSQIP database. Spine 38:264–271. \n                    https://doi.org/10.1097/BRS.0b013e3182697b57",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "1211_CR39",
+          "doi-asserted-by": "publisher",
+          "first-page": "60",
+          "DOI": "10.1007/s00586-017-5099-2",
+          "volume": "27",
+          "author": "MJ Stochkendahl",
+          "year": "2018",
+          "unstructured": "Stochkendahl MJ, Kjaer P, Hartvigsen J et al (2018) National clinical guidelines for non-surgical treatment of patients with recent onset low back pain or lumbar radiculopathy. Eur Spine J 27:60–75. \n                    https://doi.org/10.1007/s00586-017-5099-2",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "1211_CR40",
+          "doi-asserted-by": "publisher",
+          "first-page": "e99976",
+          "DOI": "10.1371/journal.pone.0099976",
+          "volume": "9",
+          "author": "SP Sussenbach",
+          "year": "2014",
+          "unstructured": "Sussenbach SP, Silva EN, Pufal MA, Casagrande DS, Padoin AV, Mottin CC (2014) Systematic review of economic evaluation of laparotomy versus laparoscopy for patients submitted to Roux-en-Y gastric bypass. PLoS ONE 9:e99976. \n                    https://doi.org/10.1371/journal.pone.0099976",
+          "journal-title": "PLoS ONE"
+        },
+        {
+          "key": "1211_CR41",
+          "doi-asserted-by": "publisher",
+          "first-page": "346",
+          "DOI": "10.1016/j.wneu.2015.11.047",
+          "volume": "87",
+          "author": "AR Teles",
+          "year": "2016",
+          "unstructured": "Teles AR, Righesso O, Gullo MC, Ghogawala Z, Falavigna A (2016) Perspective of value-based management of spinal disorders in Brazil. World Neurosurg 87:346–354. \n                    https://doi.org/10.1016/j.wneu.2015.11.047",
+          "journal-title": "World Neurosurg"
+        },
+        {
+          "key": "1211_CR42",
+          "first-page": "490",
+          "volume": "28",
+          "author": "TM Torres",
+          "year": "2010",
+          "unstructured": "Torres TM, Ferraz MB, Ciconelli RM (2010) Resource utilisation and cost of ankylosing spondylitis in Brazil. Clin Exp Rheumatol 28:490–497",
+          "journal-title": "Clin Exp Rheumatol"
+        },
+        {
+          "key": "1211_CR43",
+          "doi-asserted-by": "publisher",
+          "first-page": "64",
+          "DOI": "10.1016/j.amjsurg.2009.06.029",
+          "volume": "200",
+          "author": "TL Trentman",
+          "year": "2010",
+          "unstructured": "Trentman TL, Mueller JT, Gray RJ, Pockaj BA, Simula DV (2010) Outpatient surgery performed in an ambulatory surgery center versus a hospital: comparison of perioperative time intervals. Am J Surg 200:64–67. \n                    https://doi.org/10.1016/j.amjsurg.2009.06.029",
+          "journal-title": "Am J Surg"
+        },
+        {
+          "key": "1211_CR44",
+          "doi-asserted-by": "publisher",
+          "first-page": "233",
+          "DOI": "10.1016/0304-3959(94)00272-G",
+          "volume": "62",
+          "author": "MW van Tulder",
+          "year": "1995",
+          "unstructured": "van Tulder MW, Koes BW, Bouter LM (1995) A cost-of-illness study of back pain in the Netherlands. Pain 62:233–240",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "1211_CR45",
+          "doi-asserted-by": "publisher",
+          "first-page": "e000003",
+          "DOI": "10.1136/bmjopen-2011-000003",
+          "volume": "1",
+          "author": "ER Vieira",
+          "year": "2011",
+          "unstructured": "Vieira ER, Albuquerque-Oliveira PR, Barbosa-Branco A (2011) Work disability benefits due to musculoskeletal disorders among Brazilian private sector workers. BMJ Open 1:e000003. \n                    https://doi.org/10.1136/bmjopen-2011-000003",
+          "journal-title": "BMJ Open"
+        },
+        {
+          "key": "1211_CR46",
+          "doi-asserted-by": "publisher",
+          "first-page": "395",
+          "DOI": "10.1007/s10198-009-0211-0",
+          "volume": "11",
+          "author": "K Vitikainen",
+          "year": "2010",
+          "unstructured": "Vitikainen K, Linna M, Street A (2010) Substituting inpatient for outpatient care: what is the impact on hospital costs and efficiency? Eur J Health Econ 11:395–404. \n                    https://doi.org/10.1007/s10198-009-0211-0",
+          "journal-title": "Eur J Health Econ"
+        },
+        {
+          "key": "1211_CR47",
+          "doi-asserted-by": "publisher",
+          "first-page": "79",
+          "DOI": "10.1177/101053950301500202",
+          "volume": "15",
+          "author": "BF Walker",
+          "year": "2003",
+          "unstructured": "Walker BF, Muller R, Grant WD (2003) Low back pain in Australian adults: the economic burden. Asia Pac J Public Health 15:79–87",
+          "journal-title": "Asia Pac J Public Health"
+        },
+        {
+          "key": "1211_CR48",
+          "first-page": "67",
+          "volume": "44",
+          "author": "M Weigl",
+          "year": "2008",
+          "unstructured": "Weigl M, Cieza A, Cantista P, Reinhardt JD, Stucki G (2008) Determinants of disability in chronic musculoskeletal health conditions: a literature review. Eur J Phys Rehabil Med 44:67–79",
+          "journal-title": "Eur J Phys Rehabil Med"
+        },
+        {
+          "key": "1211_CR49",
+          "doi-asserted-by": "publisher",
+          "first-page": "280",
+          "DOI": "10.1016/j.ejpain.2008.04.005",
+          "volume": "13",
+          "author": "CM Wenig",
+          "year": "2009",
+          "unstructured": "Wenig CM, Schmidt CO, Kohlmann T, Schweikert B (2009) Costs of back pain in Germany. Eur J Pain 13:280–286",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "1211_CR50",
+          "doi-asserted-by": "publisher",
+          "first-page": "455",
+          "DOI": "10.1007/s10198-010-0258-y",
+          "volume": "12",
+          "author": "S Wieser",
+          "year": "2011",
+          "unstructured": "Wieser S, Horisberger B, Schmidhauser S et al (2011) Cost of low back pain in Switzerland in 2005. Eur J Health Econ 12:455–467. \n                    https://doi.org/10.1007/s10198-010-0258-y",
+          "journal-title": "Eur J Health Econ"
+        },
+        {
+          "key": "1211_CR51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD010264.pub2",
+          "author": "F Zaina",
+          "year": "2016",
+          "unstructured": "Zaina F, Tomkins-Lane C, Carragee E, Negrini S (2016) Surgical versus non-surgical treatment for lumbar spinal stenosis. Cochrane Database Syst Rev. \n                    https://doi.org/10.1002/14651858.CD010264.pub2",
+          "journal-title": "Cochrane Database Syst Rev"
+        },
+        {
+          "key": "1211_CR52",
+          "doi-asserted-by": "publisher",
+          "first-page": "1575",
+          "DOI": "10.1590/1413-81232015205.02162014",
+          "volume": "20",
+          "author": "EA Zanuto",
+          "year": "2015",
+          "unstructured": "Zanuto EA, Codogno JS, Christofaro DG, Vanderlei LC, Cardoso JR, Fernandes RA (2015) Prevalence of low back pain and associated factors in adults from a middle-size Brazilian city. Cien Saude Colet 20:1575–1582. \n                    https://doi.org/10.1590/1413-81232015205.02162014",
+          "journal-title": "Cien Saude Colet"
+        }
+      ],
+      "container-title": [
+        "International Journal of Public Health"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s00038-019-01211-6.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1007/s00038-019-01211-6/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s00038-019-01211-6.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            5,
+            13
+          ]
+        ],
+        "date-time": "2020-05-13T23:04:52Z",
+        "timestamp": 1589411092000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://link.springer.com/10.1007/s00038-019-01211-6"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            15
+          ]
+        ]
+      },
+      "references-count": 53,
+      "journal-issue": {
+        "issue": "6",
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              7
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "1211"
+      ],
+      "URL": "https://doi.org/10.1007/s00038-019-01211-6",
+      "relation": {},
+      "ISSN": [
+        "1661-8556",
+        "1661-8564"
+      ],
+      "issn-type": [
+        {
+          "type": "print",
+          "value": "1661-8556"
+        },
+        {
+          "type": "electronic",
+          "value": "1661-8564"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            15
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "6 April 2018",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "23 January 2019",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "15 May 2019",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Compliance with ethical standards"
+          }
+        },
+        {
+          "value": "The authors declare that they have no conflict of interest.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Conflict of interest"
+          }
+        },
+        {
+          "value": "The Institutional Research Ethics Committee granted approval for the present study (Protocol No. 1.969.372; 16/03/2017).",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethical approval"
+          }
+        },
+        {
+          "value": "Informed consent was not needed, as public secondary data were used for the analysis.",
+          "order": 4,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Informed consent"
+          }
+        }
+      ]
+    }
+  }
+}

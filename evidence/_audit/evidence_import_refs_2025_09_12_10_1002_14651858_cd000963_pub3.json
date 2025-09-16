@@ -1,0 +1,2842 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1002_14651858_cd000963_pub3.md",
+  "id": "evidence_import_refs_2025_09_12_10_1002_14651858_cd000963_pub3",
+  "doi": "10.1002/14651858.cd000963.pub3",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:06:14.679266Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2025-09-12T13:14:12Z",
+        "timestamp": 1757682852242,
+        "version": "3.40.4"
+      },
+      "update-to": [
+        {
+          "updated": {
+            "date-parts": [
+              [
+                2014,
+                9,
+                2
+              ]
+            ],
+            "date-time": "2014-09-02T00:00:00Z",
+            "timestamp": 1409616000000
+          },
+          "DOI": "10.1002/14651858.cd000963.pub2",
+          "type": "new_version",
+          "source": "publisher",
+          "label": "New version"
+        }
+      ],
+      "reference-count": 229,
+      "publisher": "Wiley",
+      "issue": "9",
+      "content-domain": {
+        "domain": [
+          "wiley.com",
+          "cochranelibrary.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [],
+      "DOI": "10.1002/14651858.cd000963.pub3",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2014,
+            9,
+            2
+          ]
+        ],
+        "date-time": "2014-09-02T20:33:25Z",
+        "timestamp": 1409690005000
+      },
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 247,
+      "title": [
+        "Multidisciplinary biopsychosocial rehabilitation for chronic low back pain"
+      ],
+      "prefix": "10.1002",
+      "volume": "2014",
+      "author": [
+        {
+          "given": "Steven J",
+          "family": "Kamper",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "The George Institute for Global Health; Musculoskeletal Division; PO Box M201 Missenden Road, Camperdown Sydney NSW Australia 2050"
+            }
+          ]
+        },
+        {
+          "given": "Andreas T",
+          "family": "Apeldoorn",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "VU University Medical Centre; Department of Epidemiology and Biostatistics and the EMGO Institute for Health and Care Research; Amsterdam Netherlands"
+            }
+          ]
+        },
+        {
+          "given": "Alessandro",
+          "family": "Chiarotto",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "VU University Amsterdam; Department of Health Sciences, Faculty of Earth and Life Sciences; Amsterdam Netherlands"
+            }
+          ]
+        },
+        {
+          "given": "Rob J.E.M.",
+          "family": "Smeets",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Maastricht University Medical Centre; Rehabilitation Medicine Department; Debyelaan 25 PO Box 5800 Maastricht Netherlands 6202 AZ"
+            }
+          ]
+        },
+        {
+          "given": "Raymond WJG",
+          "family": "Ostelo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "VU University; Department of Health Sciences, EMGO Institute for Health and Care Research; PO Box 7057 Amsterdam Netherlands 1007 MB"
+            }
+          ]
+        },
+        {
+          "given": "Jaime",
+          "family": "Guzman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of British Columbia; Vancouver BC Canada"
+            }
+          ]
+        },
+        {
+          "given": "Maurits W",
+          "family": "van Tulder",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "VU University; Department of Health Sciences, Faculty of Earth and Life Sciences; PO Box 7057 Room U454 Amsterdam Netherlands 1007 MB"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "published-online": {
+        "date-parts": [
+          [
+            2014,
+            9,
+            2
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "7",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0001|cit1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1033",
+          "DOI": "10.1002/j.1532-2149.2011.00097.x",
+          "article-title": "Spouse-assisted training in pain coping skills and the outcome of multidisciplinary pain management for chronic low back pain treatment: A 1-year randomized controlled trial",
+          "volume": "16",
+          "author": "Abbasi",
+          "year": "2012",
+          "journal-title": "European Journal of Pain"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0002|cit2",
+          "doi-asserted-by": "crossref",
+          "first-page": "1339",
+          "DOI": "10.1097/00007632-199406000-00007",
+          "article-title": "Intensive physical and psychosocial training program for patients with chronic low back pain. A controlled clinical trial",
+          "volume": "19",
+          "author": "Alaranta",
+          "year": "1994",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0003|cit3",
+          "doi-asserted-by": "crossref",
+          "first-page": "113",
+          "DOI": "10.1016/S0738-3991(97)00996-8",
+          "article-title": "Incorporation of cognitive behavioral treatment into the medical care of chronic low back patients: A controlled randomized study in German pain treatment centers",
+          "volume": "31",
+          "author": "Basler",
+          "year": "1997",
+          "journal-title": "Patient Education & Counseling"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0004|cit4",
+          "doi-asserted-by": "crossref",
+          "first-page": "111",
+          "DOI": "10.1007/s005860050040",
+          "article-title": "A prospective, randomized 5-year follow-up study of functional restoration in chronic low back pain patients",
+          "volume": "7",
+          "author": "Bendix",
+          "year": "1998",
+          "journal-title": "European Spine Journal"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0005|cit5",
+          "doi-asserted-by": "crossref",
+          "first-page": "62",
+          "DOI": "10.3949/ccjm.63.1.62",
+          "article-title": "Multidisciplinary intensive treatment for chronic low back pain: a randomized, prospective study",
+          "volume": "63",
+          "author": "Bendix",
+          "year": "1996",
+          "journal-title": "Cleveland Clinic Journal of Medicine"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0006|cit6",
+          "doi-asserted-by": "crossref",
+          "first-page": "111",
+          "DOI": "10.1007/s005860050040",
+          "article-title": "A prospective, randomized 5-year follow-up study of functional restoration in chronic low back pain patients",
+          "volume": "7",
+          "author": "Bendix",
+          "year": "1998",
+          "journal-title": "European Spine Journal"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0007|cit7",
+          "doi-asserted-by": "crossref",
+          "first-page": "149",
+          "DOI": "10.1007/BF00298239",
+          "article-title": "Active treatment programs for patients with chronic low back pain: a prospective, randomized, observer blinded study",
+          "volume": "4",
+          "author": "Bendix",
+          "year": "1995",
+          "journal-title": "European Spine Journal"
+        },
+        {
+          "issue": "19",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0008|cit8",
+          "doi-asserted-by": "crossref",
+          "first-page": "2494",
+          "DOI": "10.1097/00007632-200010010-00012",
+          "article-title": "Functional restoration versus outpatient physical training in chronic low back pain: a randomized comparative study",
+          "volume": "25",
+          "author": "Bendix",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0009|cit9",
+          "doi-asserted-by": "crossref",
+          "first-page": "40",
+          "DOI": "10.1177/0269215512446839",
+          "article-title": "Individual work support for employed patients with low back pain: a randomized controlled pilot trial",
+          "volume": "27",
+          "author": "Coole",
+          "year": "2013",
+          "journal-title": "Clinical Rehabilitation"
+        },
+        {
+          "issue": "7502",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0010|cit10",
+          "doi-asserted-by": "crossref",
+          "first-page": "1233",
+          "DOI": "10.1136/bmj.38441.620417.8F",
+          "article-title": "Randomised controlled trial to compare surgical stabilisation of the lumbar spine with an intensive rehabilitation programme for patients with chronic low back pain: the MRC spine stabilisation trial",
+          "volume": "330",
+          "author": "Fairbank",
+          "year": "2005",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "7502",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0011|cit11",
+          "doi-asserted-by": "crossref",
+          "first-page": "1239",
+          "DOI": "10.1136/bmj.38441.429618.8F",
+          "article-title": "Surgical stabilisation of the spine compared with a programme of intensive rehabilitation for the management of patients with chronic low back pain: cost utility analysis based on a randomised controlled trial",
+          "volume": "330",
+          "author": "Rivero-Arias",
+          "year": "2005",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0012|cit12",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.2340/1650197719898189",
+          "article-title": "Pain, disability, compliance, and reported treatment benefits three months after treatment",
+          "volume": "21",
+          "author": "Harkapaa",
+          "year": "1989",
+          "journal-title": "Scandinavian Journal of Rehabilitation Medicine"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0013|cit13",
+          "doi-asserted-by": "crossref",
+          "first-page": "d2786",
+          "DOI": "10.1136/bmj.d2786",
+          "article-title": "Surgery with disc prosthesis versus rehabilitation in patients with low back pain and degenerative disc: two year follow-up of randomised study",
+          "volume": "342",
+          "author": "Hellum",
+          "year": "2011",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "w13133",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0014|cit14",
+          "first-page": "1",
+          "article-title": "Functional multidisciplinary rehabilitation versus outpatient physiotherapy for non specific low back pain: randomized controlled trial",
+          "volume": "140",
+          "author": "Henchoz",
+          "year": "2010",
+          "journal-title": "Swiss Medical Weekly"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0015|cit15",
+          "first-page": "129",
+          "article-title": "Assessment of the effectiveness of inpatient rehabilitation measures in patients with chronic low back pain: a prospective, randomized, controlled study [German]",
+          "volume": "29",
+          "author": "Jackel",
+          "year": "1990",
+          "journal-title": "Rehabilitation"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0016|cit16",
+          "doi-asserted-by": "crossref",
+          "first-page": "487",
+          "DOI": "10.1097/01.BRS.0000102320.35490.43",
+          "article-title": "Effects of functional restoration versus 3 hours per week physical therapy: a randomized controlled study",
+          "volume": "29",
+          "author": "Jousset",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "4",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0017|cit17",
+          "doi-asserted-by": "crossref",
+          "first-page": "371",
+          "DOI": "10.1097/01.brs.0000200104.90759.8c",
+          "article-title": "Multidisciplinary group rehabilitation versus individual physiotherapy for chronic nonspecific low back pain: a randomized trial",
+          "volume": "31",
+          "author": "Kaapa",
+          "year": "2006",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0018|cit18",
+          "doi-asserted-by": "crossref",
+          "first-page": "39",
+          "DOI": "10.1002/(SICI)1099-1050(199802)7:1<39::AID-HEC323>3.0.CO;2-S",
+          "article-title": "Health economic assessment of behavioural rehabilitation in chronic low back pain: a randomized clinical trial",
+          "volume": "7",
+          "author": "Goossens",
+          "year": "1998",
+          "journal-title": "Health Economics"
+        },
+        {
+          "issue": "6",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0019|cit19",
+          "doi-asserted-by": "crossref",
+          "first-page": "931",
+          "DOI": "10.1037/0022-006X.67.6.931",
+          "article-title": "Results of a randomized clinical trial",
+          "volume": "67",
+          "author": "Kole-Snijders",
+          "year": "1999",
+          "journal-title": "Journal of Consulting and Clinical Psychology"
+        },
+        {
+          "issue": "9",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0020|cit20",
+          "doi-asserted-by": "crossref",
+          "first-page": "1089",
+          "DOI": "10.1016/j.apmr.2007.05.022",
+          "article-title": "Function-centered rehabilitation increases work days in patients with nonacute nonspecific low back pain: 1-year results from a randomized controlled trial",
+          "volume": "88",
+          "author": "Kool",
+          "year": "2007",
+          "journal-title": "Archives of Physical Medicine and Rehabilitation"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0021|cit21",
+          "doi-asserted-by": "crossref",
+          "first-page": "6414",
+          "DOI": "10.1136/bmj.c6414",
+          "article-title": "Effect of integrated care for sick listed patients with chronic low back pain: economic evaluation alongside a randomised controlled trial",
+          "volume": "341",
+          "author": "Lambeek",
+          "year": "2010",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "7749",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0022|cit22",
+          "first-page": "750",
+          "article-title": "Randomised controlled trial of integrated care to reduce disability from chronic low back pain in working and private life",
+          "volume": "340",
+          "author": "Lambeek",
+          "year": "2010",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0023|cit23",
+          "doi-asserted-by": "crossref",
+          "first-page": "192",
+          "DOI": "10.1016/j.pain.2007.12.009",
+          "article-title": "Exposure in vivo versus operant graded activity in chronic low back pain patients: results of a randomized controlled trial",
+          "volume": "138",
+          "author": "Leeuw",
+          "year": "2008",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0024|cit24",
+          "doi-asserted-by": "crossref",
+          "first-page": "109",
+          "DOI": "10.1097/00002508-200503000-00001",
+          "article-title": "The effects of cognitive-behavioral and physical therapy preventive interventions on pain-related sick leave: a randomized controlled trial",
+          "volume": "21",
+          "author": "Linton",
+          "year": "2005",
+          "journal-title": "Clinical Journal of Pain"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0025|cit25",
+          "first-page": "1",
+          "article-title": "Low back pain as a biopsychosocial problem. A controlled clinical trial and a costeffectiveness analysis [Finnish]",
+          "volume": "ML",
+          "author": "Lukinmaa",
+          "year": "1989",
+          "journal-title": "Kansanelakelaitoksen Julkaisuja"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0026|cit26",
+          "doi-asserted-by": "crossref",
+          "first-page": "356",
+          "DOI": "10.1097/AJP.0b013e3181925791",
+          "article-title": "Evaluation of a behavioral-medical inpatient rehabilitation treatment including booster sessions: a randomized controlled study",
+          "volume": "25",
+          "author": "Mangels",
+          "year": "2009",
+          "journal-title": "Clinical Journal of Pain"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0027|cit27",
+          "doi-asserted-by": "crossref",
+          "first-page": "248",
+          "DOI": "10.1097/AJP.0b013e3181ffbfaf",
+          "article-title": "Intermediate and long-term effects of a standardized back school for inpatient orthopedic rehabilitation on illness knowledge and self-management behaviors: a randomized controlled trial",
+          "volume": "27",
+          "author": "Meng",
+          "year": "2011",
+          "journal-title": "Clinical Journal of Pain"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0028|cit28",
+          "doi-asserted-by": "crossref",
+          "first-page": "633",
+          "DOI": "10.1097/00007632-199403001-00001",
+          "article-title": "The functional restoration approach to the treatment of chronic pain in patients with soft tissue and back injuries",
+          "volume": "19",
+          "author": "Mitchell",
+          "year": "1994",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0029|cit29",
+          "first-page": "149",
+          "article-title": "Efficacy of an interdisciplinary educational program in patients with chronic back pain [Spanish]",
+          "volume": "18",
+          "author": "Moix",
+          "year": "2003",
+          "journal-title": "Dolor"
+        },
+        {
+          "issue": "11",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0030|cit30",
+          "doi-asserted-by": "crossref",
+          "first-page": "929",
+          "DOI": "10.1097/AJP.0b013e31827fef7e",
+          "article-title": "Effect of a long-lasting multidisciplinary program on disability and fear-avoidance behaviors in patients with chronic low back pain: results of a randomized controlled trial",
+          "volume": "29",
+          "author": "Monticone",
+          "year": "2013",
+          "journal-title": "Clinical Journal of Pain"
+        },
+        {
+          "issue": "4",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0031|cit31",
+          "first-page": "533",
+          "article-title": "Quality of life improved by multidisciplinary back school program in patıents with chronic non-specific low back pain: a single blind randomized controlled trial",
+          "volume": "47",
+          "author": "Morone",
+          "year": "2011",
+          "journal-title": "Europan Journal of Physical and Rehabilitation Medicine"
+        },
+        {
+          "issue": "4",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0032|cit32",
+          "doi-asserted-by": "crossref",
+          "first-page": "339",
+          "DOI": "10.1177/0269215511414443",
+          "article-title": "Efficacy of perceptive rehabilitation in the treatment of chronic nonspecific low back pain through a new tool: a randomized clinical study",
+          "volume": "26",
+          "author": "Morone",
+          "year": "2012",
+          "journal-title": "Clinical Rehabilitation"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0033|cit33",
+          "doi-asserted-by": "crossref",
+          "first-page": "225",
+          "DOI": "10.1016/0005-7967(91)90112-G",
+          "article-title": "Operant-behavioural and cognitive behavioural treatment for chronic low back pain",
+          "volume": "29",
+          "author": "Nicholas",
+          "year": "1991",
+          "journal-title": "Behavioural Research and Therapy"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0034|cit34",
+          "doi-asserted-by": "crossref",
+          "first-page": "339",
+          "DOI": "10.1016/0304-3959(92)90082-M",
+          "article-title": "Comparison of cognitive behavioral group treatment and an alternative non-psychological treatment for chronic low back pain",
+          "volume": "48",
+          "author": "Nicholas",
+          "year": "1992",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "10",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0035|cit35",
+          "doi-asserted-by": "crossref",
+          "first-page": "1229",
+          "DOI": "10.1016/j.apmr.2007.07.014",
+          "article-title": "Comparison of a functional restoration program with active individual physical therapy for patients with chronic low back pain: a randomized controlled trial",
+          "volume": "88",
+          "author": "Roche",
+          "year": "2007",
+          "journal-title": "Archives of Physical Medicine and Rehabilitation"
+        },
+        {
+          "issue": "26",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0036|cit36",
+          "doi-asserted-by": "crossref",
+          "first-page": "2235",
+          "DOI": "10.1097/BRS.0b013e3182191e13",
+          "article-title": "Multidisciplinary intensive functional restoration versus outpatient active physiotherapy in chronic low back pain: A randomized controlled trial",
+          "volume": "36",
+          "author": "Roche-Leboucher",
+          "year": "2011",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "12",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0037|cit37",
+          "first-page": "2519",
+          "article-title": "Effectiveness and cost-effectiveness of adding a cognitive behavioral treatment to the rehabilitation of chronic low back pain",
+          "volume": "33",
+          "author": "Schweikert",
+          "year": "2006",
+          "journal-title": "Journal of Rheumatology"
+        },
+        {
+          "issue": "9",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0038|cit38",
+          "doi-asserted-by": "crossref",
+          "first-page": "901",
+          "DOI": "10.1097/00007632-200205010-00002",
+          "article-title": "Relative cost-effectiveness of extensive and light multidisciplinary treatment programs versus treatment as usual for patients with chronic low back pain on long-term sick leave: randomized controlled study",
+          "volume": "27",
+          "author": "Skouen",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0039|cit39",
+          "doi-asserted-by": "crossref",
+          "first-page": "71",
+          "DOI": "10.1016/j.ejpain.2008.02.008",
+          "article-title": "More is not always better: cost-effectiveness analysis of combined, single behavioral and single physical rehabilitation programs for chronic low back pain",
+          "volume": "13",
+          "author": "Smeets",
+          "year": "2009",
+          "journal-title": "European Journal of Pain"
+        },
+        {
+          "issue": "8",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0040|cit40",
+          "doi-asserted-by": "crossref",
+          "first-page": "263",
+          "DOI": "10.1016/j.pain.2007.04.021",
+          "article-title": "Chronic low back pain: Physical training, graded activity with problem solving training, or both? The one-year post-treatment results of a randomized controlled trial",
+          "volume": "134",
+          "author": "Smeets",
+          "year": "2008",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0041|cit41",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1186/1471-2474-7-5",
+          "article-title": "Active rehabilitation for chronic low back pain: Cognitive-behavioral, physical, or both? First direct post-treatment results from a randomized controlled trial",
+          "volume": "7",
+          "author": "Smeets",
+          "year": "2006",
+          "journal-title": "BMC Musculoskeletal Disorders"
+        },
+        {
+          "issue": "7",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0042|cit42",
+          "doi-asserted-by": "crossref",
+          "first-page": "800",
+          "DOI": "10.1097/00007632-200104010-00022",
+          "article-title": "The impact of physical function and pain on work status at 1-year follow-up in patients with back pain",
+          "volume": "26",
+          "author": "Strand",
+          "year": "2001",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0043|cit43",
+          "doi-asserted-by": "crossref",
+          "first-page": "34",
+          "DOI": "10.1055/s-0028-1093331",
+          "article-title": "Effects of FCE-based multidisciplinary rehabilitation in patients with chronic musculoskeletal disorders - results of a randomized controlled trial [German]",
+          "volume": "19",
+          "author": "Streibelt",
+          "year": "2009",
+          "journal-title": "Physikalische Medizin Rehabilitationsmedizin Kurortmedizin"
+        },
+        {
+          "issue": "15",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0044|cit44",
+          "doi-asserted-by": "crossref",
+          "first-page": "1617",
+          "DOI": "10.1097/BRS.0b013e31817bd31c",
+          "article-title": "A randomized study of back school in women with chronic low back pain: quality of life at three, six, and twelve months follow-up",
+          "volume": "33",
+          "author": "Tavafian",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "9",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0045|cit45",
+          "doi-asserted-by": "crossref",
+          "first-page": "811",
+          "DOI": "10.1097/AJP.0b013e31821e7930",
+          "article-title": "Treatment of chronic low back pain: a randomized clinical trial comparing multidisciplinary group-based rehabilitation program and oral drug treatment with oral drug treatment alone",
+          "volume": "27",
+          "author": "Tavafian",
+          "year": "2011",
+          "journal-title": "Clinical Journal of Pain"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0046|cit46",
+          "doi-asserted-by": "crossref",
+          "first-page": "573",
+          "DOI": "10.1037/0022-006X.58.5.573",
+          "article-title": "Effectiveness of behavioral therapy for chronic low back pain: a component analysis",
+          "volume": "58",
+          "author": "Turner",
+          "year": "1990",
+          "journal-title": "Journal of Consulting and Clinical Psychology"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0047|cit47",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.1097/00002508-200303000-00003",
+          "article-title": "Secondary prevention of work-related disability in nonspecific low back pain: does problem-solving therapy help? A randomized clinical trial",
+          "volume": "19",
+          "author": "Hout",
+          "year": "2003",
+          "journal-title": "Clinical Journal of Pain"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0048|cit48",
+          "doi-asserted-by": "crossref",
+          "first-page": "566",
+          "DOI": "10.1191/0269215504cr772oa",
+          "article-title": "Differences in outcome of a multidisciplinary treatment between subgroups of chronic low back pain patients defined using two multiaxial assessment instruments: the Multidimensional Pain Inventory and lumbar dynamometry",
+          "volume": "18",
+          "author": "Vollenbroek-Hutten",
+          "year": "2004",
+          "journal-title": "Clinical Rehabilitation"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0049|cit49",
+          "doi-asserted-by": "crossref",
+          "first-page": "323",
+          "DOI": "10.1016/j.pain.2004.11.007",
+          "article-title": "A trial of an activating intervention for chronic back pain in primary care and physical therapy settings",
+          "volume": "113",
+          "author": "Korff",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0050|cit50",
+          "doi-asserted-by": "crossref",
+          "first-page": "S320",
+          "DOI": "10.1016/S0022-510X(09)71218-3",
+          "article-title": "Effectiveness of transcutaneous dynamic electrical nerve stimulation in low back pain: A pilot randomized controlled trial",
+          "volume": "285",
+          "author": "Akhmadeeva",
+          "year": "2009",
+          "journal-title": "Journal of Neurological Sciences"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0051|cit51",
+          "doi-asserted-by": "crossref",
+          "first-page": "483",
+          "DOI": "10.1097/BRS.0b013e3181b9c9a7",
+          "article-title": "The efficacy of a short education program and a short physiotherapy program for treating low back pain in primary care: a cluster randomized trial",
+          "volume": "35",
+          "author": "Albaladejo",
+          "year": "2010",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "4",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0052|cit52",
+          "first-page": "443",
+          "article-title": "[Back school for patients with non-specific chronic low-back pain: benefits from the association of an exercise program with patient's education]. [Portuguese]",
+          "volume": "33",
+          "author": "Andrade",
+          "year": "2008",
+          "journal-title": "Acta Reumatologica Portuguesa"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0053|cit53",
+          "doi-asserted-by": "crossref",
+          "first-page": "291",
+          "DOI": "10.1097/01.brs.0000253604.90039.ad",
+          "article-title": "Multidisciplinary rehabilitation for subacute low back pain: graded activity or workplace intervention or both? A randomized controlled trial",
+          "volume": "32",
+          "author": "Anema",
+          "year": "2007",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "7",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0054|cit54",
+          "doi-asserted-by": "crossref",
+          "first-page": "569",
+          "DOI": "10.2340/16501977-0381",
+          "article-title": "Clinical effectiveness of an interdisciplinary pain management programme compared with standard inpatient rehabilitation in chronic pain: a naturalistic, prospective controlled cohort study",
+          "volume": "41",
+          "author": "Angst",
+          "year": "2009",
+          "journal-title": "Journal of Rehabilitation Medicine"
+        },
+        {
+          "issue": "11",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0055|cit55",
+          "doi-asserted-by": "crossref",
+          "first-page": "919",
+          "DOI": "10.2340/16501977-0449",
+          "article-title": "Three-year cost analysis of function-centred versus pain-centred inpatient rehabilitation in patients with chronic non-specific low back pain",
+          "volume": "41",
+          "author": "Bachmann",
+          "year": "2009",
+          "journal-title": "Journal of Rehabilitation Medicine"
+        },
+        {
+          "issue": "6",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0056|cit56",
+          "doi-asserted-by": "crossref",
+          "first-page": "336",
+          "DOI": "10.1055/s-2006-940107",
+          "article-title": "[Chronic low back pain with endurant pain coping--optimizing rehabilitation success in a hitherto neglected patient group]. [German]",
+          "volume": "45",
+          "author": "Bahrke",
+          "year": "2006",
+          "journal-title": "Rehabilitation"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0057|cit57",
+          "doi-asserted-by": "crossref",
+          "first-page": "297",
+          "DOI": "10.1055/s-2006-940132",
+          "article-title": "Protective and repressive factors for success in rehabilitation of chronic low back pain. [German]",
+          "volume": "16",
+          "author": "Bandemer-Greulich",
+          "year": "2006",
+          "journal-title": "Physikalische Medizin Rehabilitationsmedizin Kurortmedizin"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0058|cit58",
+          "doi-asserted-by": "crossref",
+          "first-page": "32",
+          "DOI": "10.1055/s-2007-970999",
+          "article-title": "[Efficacy of psychological interventions on pain coping strategies in orthopedic rehabilitation of chronic low back pain]. [German]",
+          "volume": "58",
+          "author": "Bandemer-Greulich",
+          "year": "2008",
+          "journal-title": "Psychotherapie, Psychosomatik, Medizinische Psychologie"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0059|cit59",
+          "first-page": "31",
+          "article-title": "TTM-based counselling in physiotherapy does not contribute to an increase of adherence to activity recommendations in older adults with chronic low back pain - A randomised controlled trial",
+          "volume": "1",
+          "author": "Basler",
+          "journal-title": "European Journal of Pain"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0060|cit60",
+          "doi-asserted-by": "crossref",
+          "first-page": "67",
+          "DOI": "10.1186/1471-2458-4-67",
+          "article-title": "Treatment of pregnancy-related pelvic girdle and/or low back pain after delivery design of a randomized clinical trial within a comprehensive prognostic cohort study",
+          "volume": "4",
+          "author": "Bastiaenen",
+          "year": "2004",
+          "journal-title": "BMC Public Health"
+        },
+        {
+          "issue": "2-3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0061|cit61",
+          "doi-asserted-by": "crossref",
+          "first-page": "203",
+          "DOI": "10.1016/S0304-3959(99)00209-2",
+          "article-title": "Treatment outcome of chronic non-malignant pain patients managed in a Danish multidisciplinary pain centre compared to general practice: a randomised controlled trial",
+          "volume": "84",
+          "author": "Becker",
+          "year": "2000",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0062|cit62",
+          "doi-asserted-by": "crossref",
+          "first-page": "473",
+          "DOI": "10.1097/BRS.0b013e3181657e0d",
+          "article-title": "Effects of two guideline implementation strategies on patient outcomes in primary care: a cluster randomized controlled trial",
+          "volume": "33",
+          "author": "Becker",
+          "year": "2008",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "16",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0063|cit63",
+          "doi-asserted-by": "crossref",
+          "first-page": "1775",
+          "DOI": "10.1097/00007632-199808150-00010",
+          "article-title": "Can it be predicted which patients with chronic low back pain should be offered tertiary rehabilitation in a functional restoration program? A search for demographic, socioeconomic, and physical predictors",
+          "volume": "23",
+          "author": "Bendix",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0064|cit64",
+          "doi-asserted-by": "crossref",
+          "first-page": "161",
+          "DOI": "10.3233/BMR-2011-0290",
+          "article-title": "Work status and health-related quality of life following multimodal work hardening: a cluster randomised trial",
+          "volume": "24",
+          "author": "Bethge",
+          "year": "2011",
+          "journal-title": "Journal of Back and Musculoskeletal Rehabilitation"
+        },
+        {
+          "issue": "20",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0065|cit65",
+          "first-page": "49",
+          "article-title": "[Chronic backache with neuropathic component. Individual basic therapy plus multimodal approach]. [German]",
+          "volume": "149",
+          "author": "Binder",
+          "year": "2007",
+          "journal-title": "MMW Fortschritte der Medizin"
+        },
+        {
+          "issue": "4",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0066|cit66",
+          "doi-asserted-by": "crossref",
+          "first-page": "361",
+          "DOI": "10.1097/AJP.0b013e31803685dc",
+          "article-title": "Does systematic graded exposure in vivo enhance outcomes in multidisciplinary chronic pain management groups?",
+          "volume": "23",
+          "author": "Bliokas",
+          "year": "2007",
+          "journal-title": "Clinical Journal of Pain"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0067|cit67",
+          "doi-asserted-by": "crossref",
+          "first-page": "1913",
+          "DOI": "10.1097/01.BRS.0000083234.62751.7A",
+          "article-title": "Randomized clinical trial of lumbar instrumented fusion and cognitive intervention and exercises in patients with chronic low back pain and disc degeneration",
+          "volume": "17",
+          "author": "Brox",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "6",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0068|cit68",
+          "doi-asserted-by": "crossref",
+          "first-page": "500",
+          "DOI": "10.2340/16501977-0805",
+          "article-title": "Guided internet-based cognitive behavioural treatment for chronic back pain reduces pain catastrophizing: a randomized controlled trial",
+          "volume": "43",
+          "author": "Buhrman",
+          "year": "2011",
+          "journal-title": "Journal of Rehabilitation Medicine"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0069|cit69",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.1007/s10926-009-9162-7",
+          "article-title": "Coordinated and tailored work rehabilitation: a randomized controlled trial with economic evaluation undertaken with workers on sick leave due to musculoskeletal disorders",
+          "volume": "19",
+          "author": "Bultmann",
+          "year": "2009",
+          "journal-title": "Journal of Occupational Rehabilitation"
+        },
+        {
+          "issue": "8",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0070|cit70",
+          "doi-asserted-by": "crossref",
+          "first-page": "1727",
+          "DOI": "10.1016/j.pain.2011.02.004",
+          "article-title": "Patterns of sickness absence a decade after pain-related multidisciplinary rehabilitation",
+          "volume": "152",
+          "author": "Busch",
+          "year": "2011",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "9",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0071|cit71",
+          "doi-asserted-by": "crossref",
+          "first-page": "1075",
+          "DOI": "10.7205/MILMED-D-12-00118",
+          "article-title": "Implementation of a multidisciplinary program for active duty personnel seeking care for low back pain in a U.S. Navy Medical Center: a feasibility study",
+          "volume": "177",
+          "author": "Campello",
+          "year": "2012",
+          "journal-title": "Military Medicine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0072|cit72",
+          "first-page": "371",
+          "article-title": "Predictors of functional outcome in patients with chronic low back pain undergoing back school, individual physiotherapy or spinal manipulation",
+          "volume": "48",
+          "author": "Cecchi",
+          "year": "2012",
+          "journal-title": "European Journal of Physical and Rehabilitation Medicine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0073|cit73",
+          "doi-asserted-by": "crossref",
+          "first-page": "444",
+          "DOI": "10.1016/j.pain.2009.12.015",
+          "article-title": "A short goal-pursuit intervention to improve physical capacity: a randomized clinical trial in chronic back pain patients",
+          "volume": "149",
+          "author": "Christiansen",
+          "year": "2010",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0074|cit74",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1300/J094v14n02_04",
+          "article-title": "Benefits of a physical training program after back to school for chronic low back pain patients",
+          "volume": "14",
+          "author": "Demoulin",
+          "year": "2006",
+          "journal-title": "Journal of Musculoskeletal Pain"
+        },
+        {
+          "issue": "6",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0075|cit75",
+          "doi-asserted-by": "crossref",
+          "first-page": "324",
+          "DOI": "10.1055/s-2006-932641",
+          "article-title": "Long-term efficiency of orthopedic rehabilitation in chronic back pain -- the integrative orthopedic psychosomatic concept (IopKo) [German]",
+          "volume": "45",
+          "author": "Dibbelt",
+          "year": "2006",
+          "journal-title": "Rehabilitation"
+        },
+        {
+          "issue": "12",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0076|cit76",
+          "doi-asserted-by": "crossref",
+          "first-page": "1242",
+          "DOI": "10.1001/jama.2009.377",
+          "article-title": "Collaborative care for chronic pain in primary care: a cluster randomized trial",
+          "volume": "301",
+          "author": "Dobscha",
+          "year": "2009",
+          "journal-title": "JAMA"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0077|cit77",
+          "first-page": "205",
+          "article-title": "Two different techniques in the rehabilitation treatment of low back pain: A randomized controlled trial",
+          "volume": "42",
+          "author": "Donzelli",
+          "year": "2006",
+          "journal-title": "Europa Medicophysica"
+        },
+        {
+          "issue": "9",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0078|cit78",
+          "doi-asserted-by": "crossref",
+          "first-page": "674",
+          "DOI": "10.1136/oem.2010.056739",
+          "article-title": "Participatory ergonomics to reduce exposure to psychosocial and physical risk factors for low back pain and neck pain: results of a cluster randomised controlled trial",
+          "volume": "68",
+          "author": "Driessen",
+          "year": "2011",
+          "journal-title": "Occupational and Environmental Medicine"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0079|cit79",
+          "doi-asserted-by": "crossref",
+          "first-page": "383",
+          "DOI": "10.5271/sjweh.3163",
+          "article-title": "The effectiveness of participatory ergonomics to prevent low-back and neck pain - results of a cluster randomized controlled trial",
+          "volume": "37",
+          "author": "Driessen",
+          "year": "2011",
+          "journal-title": "Scandinavian Journal of Work, Environment and Health"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0080|cit80",
+          "first-page": "469",
+          "article-title": "Treatment of chronic low back pain: a randomized, clinical trial comparing group-based multidisciplinary biopsychosocial rehabilitation and intensive individual therapist-assisted back muscle strengthening exercises",
+          "volume": "5",
+          "author": "Dufour",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0081|cit81",
+          "doi-asserted-by": "crossref",
+          "first-page": "198",
+          "DOI": "10.1002/j.2048-7940.2005.tb00111.x",
+          "article-title": "Results of a multidisciplinary pain management program: A 6- and 12-month follow-up study",
+          "volume": "30",
+          "author": "Dysvik",
+          "year": "2005",
+          "journal-title": "Rehabilitation Nursing"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0082|cit82",
+          "first-page": "1",
+          "article-title": "High cost-benefit of early team-based biomedical and cognitive-behaviour intervention for long-term pain-related sickness absence",
+          "volume": "1",
+          "author": "Ektor-Andersen",
+          "journal-title": "Journal of Rehabilitation Medicine"
+        },
+        {
+          "issue": "11",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0083|cit83",
+          "first-page": "646",
+          "article-title": "Mindfulness-based stress reduction for failed back surgery syndrome: a randomized controlled trial",
+          "volume": "110",
+          "author": "Esmer",
+          "year": "2010",
+          "journal-title": "Journal of the American Osteopathic Association"
+        },
+        {
+          "issue": "9",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0084|cit84",
+          "first-page": "798",
+          "article-title": "The comparative effectiveness of a multimodal program versus exercise alone for the secondary prevention of chronic low back pain and disability",
+          "volume": "1",
+          "author": "Ewert",
+          "year": "2009",
+          "journal-title": "Physical Medicine and Rehabilitation"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0085|cit85",
+          "first-page": "161",
+          "article-title": "Individual characteristics and results of biofeedback training and operant treatment in patients with chronic pain. [Italian]",
+          "volume": "12",
+          "author": "Ferrari",
+          "year": "2006",
+          "journal-title": "Psicoterapia Cognitiva e Comportamentale"
+        },
+        {
+          "issue": "6",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0086|cit86",
+          "first-page": "7",
+          "article-title": "Group cognitive behavioral treatment improves chronic low back pain in a cost-effective manner",
+          "volume": "17",
+          "author": "Friedberg",
+          "year": "2010",
+          "journal-title": "Journal of Clinical Outcomes Management"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0087|cit87",
+          "doi-asserted-by": "crossref",
+          "first-page": "475",
+          "DOI": "10.1016/S0003-9993(98)90059-4",
+          "article-title": "Combined exercise and motivation program: effect on the compliance and level of disability of patients with chronic low back pain: A randomized controlled trial",
+          "volume": "79",
+          "author": "Friedrich",
+          "year": "1998",
+          "journal-title": "Archives of Physical Medical Rehabilitation"
+        },
+        {
+          "issue": "9",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0088|cit88",
+          "doi-asserted-by": "crossref",
+          "first-page": "995",
+          "DOI": "10.1097/01.brs.0000160844.71551.af",
+          "article-title": "Long-term effect of a combined exercise and motivational program on the level of disability of patients with chronic low back pain",
+          "volume": "30",
+          "author": "Friedrich",
+          "year": "2005",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "8",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0089|cit89",
+          "doi-asserted-by": "crossref",
+          "first-page": "718",
+          "DOI": "10.1016/j.spinee.2011.06.004",
+          "article-title": "No difference in long-term trunk muscle strength, cross-sectional area, and density in patients with chronic low back pain 7 to 11 years after lumbar fusion versus cognitive intervention and exercises",
+          "volume": "11",
+          "author": "Froholdt",
+          "year": "2011",
+          "journal-title": "Spine Journal"
+        },
+        {
+          "issue": "12",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0090|cit90",
+          "doi-asserted-by": "crossref",
+          "first-page": "2531",
+          "DOI": "10.1007/s00586-012-2382-0",
+          "article-title": "No difference in 9-year outcome in CLBP patients randomized to lumbar fusion versus cognitive intervention and exercises",
+          "volume": "21",
+          "author": "Froholdt",
+          "year": "2012",
+          "journal-title": "European Spine Journal"
+        },
+        {
+          "issue": "2-3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0091|cit91",
+          "doi-asserted-by": "crossref",
+          "first-page": "273",
+          "DOI": "10.1016/S0304-3959(98)00005-0",
+          "article-title": "A fitness programme for patients with chronic low back pain: 2-year follow-up of a randomised controlled trial",
+          "volume": "75",
+          "author": "Frost",
+          "year": "1998",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0092|cit92",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1023/A:1021823505774",
+          "article-title": "Treatment- and cost-effectiveness of early intervention for acute low-back pain patients: a one-year prospective study",
+          "volume": "13",
+          "author": "Gatchel",
+          "year": "2003",
+          "journal-title": "Journal of Occupational Rehabilitation"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0093|cit93",
+          "first-page": "A30",
+          "article-title": "Psychosocial education improves low back pain beliefs: results from a cluster randomized clinical trial (NCT00373009)",
+          "volume": "39",
+          "author": "George",
+          "year": "2009",
+          "journal-title": "The Journal of Orthopaedic and Sports Physical Therapy"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0094|cit94",
+          "first-page": "A22",
+          "article-title": "Patient satisfaction with behavioral physical therapy interventions: secondary analysis from a randomized clinical trial",
+          "volume": "40",
+          "author": "George",
+          "year": "2010",
+          "journal-title": "The Journal of Orthopaedic and Sports Physical Therapy"
+        },
+        {
+          "issue": "11",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0095|cit95",
+          "doi-asserted-by": "crossref",
+          "first-page": "694",
+          "DOI": "10.2519/jospt.2010.3396",
+          "article-title": "Comparison of graded exercise and graded exposure clinical outcomes for patients with chronic low back pain",
+          "volume": "40",
+          "author": "George",
+          "year": "2010",
+          "journal-title": "The Journal of Orthopaedic and Sports Physical Therapy"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0096|cit96",
+          "doi-asserted-by": "crossref",
+          "first-page": "128",
+          "DOI": "10.1186/1741-7015-9-128",
+          "article-title": "Brief psychosocial education, not core stabilization, reduced incidence of low back pain: Results from the Prevention of Low Back Pain in the Military (POLM) cluster randomized trial",
+          "volume": "9",
+          "author": "George",
+          "year": "2011",
+          "journal-title": "BMC Medicine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0097|cit97",
+          "doi-asserted-by": "crossref",
+          "first-page": "378",
+          "DOI": "10.1016/j.pec.2011.05.028",
+          "article-title": "Illness beliefs, treatment beliefs and information needs as starting points for patient information-Evaluation of an intervention for patients with chronic back pain",
+          "volume": "86",
+          "author": "Glattacker",
+          "year": "2012",
+          "journal-title": "Patient Education & Counseling"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0098|cit98",
+          "doi-asserted-by": "crossref",
+          "first-page": "97",
+          "DOI": "10.1007/s12529-009-9070-4",
+          "article-title": "Two psychological interventions are effective in severely disabled, chronic back pain patients: a randomised controlled trial",
+          "volume": "17",
+          "author": "Glombiewski",
+          "year": "2010",
+          "journal-title": "International Journal of Behavioral Medicine"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0099|cit99",
+          "doi-asserted-by": "crossref",
+          "first-page": "26",
+          "DOI": "10.1080/165019701300006506",
+          "article-title": "\"Active back school\", prophylactic management for low back pain: Three-year follow-up of a randomized, controlled trial",
+          "volume": "33",
+          "author": "Glomsrod",
+          "year": "2001",
+          "journal-title": "Journal of Rehabilitation Medicine"
+        },
+        {
+          "issue": "1-3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0100|cit100",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.1016/j.pec.2005.11.018",
+          "article-title": "Preventing chronic back pain: evaluation of a theory-based cognitive-behavioural training programme for patients with subacute back pain",
+          "volume": "64",
+          "author": "Gohner",
+          "year": "2006",
+          "journal-title": "Patient Education & Counseling"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0101|cit101",
+          "doi-asserted-by": "crossref",
+          "first-page": "255",
+          "DOI": "10.1055/s-2006-933441",
+          "article-title": "[Multidisciplinary orthopedic rehabilitation program in patients with chronic back pain and need for changing job situation -- long-term effects of a multimodal, multidisciplinary program with activation and job development]. [German]",
+          "volume": "144",
+          "author": "Greitemann",
+          "year": "2006",
+          "journal-title": "Zeitschrift fur Orthopadie und Ihre Grenzgebiete"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0102|cit102",
+          "first-page": "137",
+          "article-title": "[Does light mobilization treatment reduce long-term sick leave for low back pain? ] [Norwegian]",
+          "volume": "16",
+          "author": "Hagen",
+          "year": "2006",
+          "journal-title": "Norsk Epidemiologi"
+        },
+        {
+          "issue": "7",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0103|cit103",
+          "doi-asserted-by": "crossref",
+          "first-page": "731",
+          "DOI": "10.1177/1403494810382472",
+          "article-title": "Adding a physical exercise programme to brief intervention for low back pain patients did not increase return to work",
+          "volume": "38",
+          "author": "Hagen",
+          "year": "2010",
+          "journal-title": "Scandinavian Journal of Public Health"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0104|cit104",
+          "doi-asserted-by": "crossref",
+          "first-page": "196",
+          "DOI": "10.2466/pms.108.1.196-208",
+          "article-title": "Manipulative therapy and clinical prediction criteria in treatment of acute nonspecific low back pain",
+          "volume": "108",
+          "author": "Hallegraeff",
+          "year": "2009",
+          "journal-title": "Perceptual and Motor Skills"
+        },
+        {
+          "issue": "12",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0105|cit105",
+          "doi-asserted-by": "crossref",
+          "first-page": "1867",
+          "DOI": "10.1007/s00586-009-1080-z",
+          "article-title": "Effects of gender and cognitive-behavioral management of depressive symptoms on rehabilitation outcome among inpatient orthopedic patients with chronic low back pain: A 1 year longitudinal study",
+          "volume": "18",
+          "author": "Hampel",
+          "year": "2009",
+          "journal-title": "European Spine Journal"
+        },
+        {
+          "issue": "12",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0106|cit106",
+          "doi-asserted-by": "crossref",
+          "first-page": "1192",
+          "DOI": "10.1097/BRS.0b013e3181bf1de9",
+          "article-title": "Role of physical exercise in low back pain rehabilitation: a randomized controlled trial of a three-month exercise program in patients who have completed multidisciplinary rehabilitation",
+          "volume": "35",
+          "author": "Henchoz",
+          "year": "2010",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "9",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0107|cit107",
+          "doi-asserted-by": "crossref",
+          "first-page": "846",
+          "DOI": "10.2340/16501977-0610",
+          "article-title": "Cost-utility analysis of a three-month exercise programme vs usual care following multidisciplinary rehabilitation for chronic low back pain",
+          "volume": "42",
+          "author": "Henchoz",
+          "year": "2010",
+          "journal-title": "Journal of Rehabilitation Medicine"
+        },
+        {
+          "issue": "10",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0108|cit108",
+          "doi-asserted-by": "crossref",
+          "first-page": "1075",
+          "DOI": "10.1097/01.brs.0000216443.46783.4d",
+          "article-title": "The effectiveness of high-intensity versus low-intensity back schools in an occupational setting: a pragmatic randomized controlled trial",
+          "volume": "31",
+          "author": "Heymans",
+          "year": "2006",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "4",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0109|cit109",
+          "doi-asserted-by": "crossref",
+          "first-page": "569",
+          "DOI": "10.1007/s10926-005-8035-y",
+          "article-title": "The effects of a graded activity intervention for low back pain in occupational health on sick leave, functional status and pain: 12-Month results of a randomized controlled trial",
+          "volume": "15",
+          "author": "Hlobil",
+          "year": "2005",
+          "journal-title": "Journal of Occupational Rehabilitation"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0110|cit110",
+          "doi-asserted-by": "crossref",
+          "first-page": "1099",
+          "DOI": "10.1053/apmr.2001.23899",
+          "article-title": "Short-term outcomes of a back school program for chronic low back pain",
+          "volume": "82",
+          "author": "Hodselmans",
+          "year": "2001",
+          "journal-title": "Archives of Physical and Medical Rehabilitation"
+        },
+        {
+          "issue": "6",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0111|cit111",
+          "doi-asserted-by": "crossref",
+          "first-page": "501",
+          "DOI": "10.1111/j.1526-4637.2006.00238.x",
+          "article-title": "Impact of a functional restoration program on pain and health-related quality of life in patients with chronic low back pain",
+          "volume": "7",
+          "author": "Huge",
+          "year": "2006",
+          "journal-title": "Pain Medicine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0112|cit112",
+          "doi-asserted-by": "crossref",
+          "first-page": "273",
+          "DOI": "10.1016/j.pain.2005.03.005",
+          "article-title": "A 3-year follow-up of a multidisciplinary rehabilitation programme for back and neck pain",
+          "volume": "115",
+          "author": "Jensen",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "23",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0113|cit113",
+          "first-page": "1829",
+          "article-title": "[Effects of rehabilitation after seven years. Evaluation of two rehabilitation programs in Sweden]. [Swedish]",
+          "volume": "103",
+          "author": "Jensen",
+          "year": "2007",
+          "journal-title": "Lakartidningen"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0114|cit114",
+          "doi-asserted-by": "crossref",
+          "first-page": "202",
+          "DOI": "10.1016/j.pain.2008.12.015",
+          "article-title": "Cost effectiveness of two rehabilitation programmes for neck and back pain patients: A seven year follow-up",
+          "volume": "152",
+          "author": "Jensen",
+          "year": "2009",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "15",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0115|cit115",
+          "doi-asserted-by": "crossref",
+          "first-page": "1180",
+          "DOI": "10.1097/BRS.0b013e3181eba711",
+          "article-title": "One-year follow-up in employees sick-listed because of low back pain: randomized clinical trial comparing multidisciplinary and brief intervention",
+          "volume": "36",
+          "author": "Jensen",
+          "year": "2011",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0116|cit116",
+          "doi-asserted-by": "crossref",
+          "first-page": "156",
+          "DOI": "10.1186/1471-2474-13-156",
+          "article-title": "Sustainability of return to work in sick-listed employees with low-back pain. Two-year follow-up in a randomized clinical trial comparing multidisciplinary and brief intervention",
+          "volume": "13",
+          "author": "Jensen",
+          "year": "2012",
+          "journal-title": "BMC Musculoskeletal Disorders"
+        },
+        {
+          "issue": "13",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0117|cit117",
+          "doi-asserted-by": "crossref",
+          "first-page": "1059",
+          "DOI": "10.1097/BRS.0b013e31828ca0af",
+          "article-title": "Cost-effectiveness and cost-benefit analyses of a multidisciplinary intervention compared with a brief intervention to facilitate return to work in sick-listed patients with low back pain",
+          "volume": "38",
+          "author": "Jensen",
+          "year": "2013",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0118|cit118",
+          "first-page": "81",
+          "article-title": "Segmental mobility, disc height and patient-reported outcomes after surgery for degenerative disc disease: a prospective randomised trial comparing disc replacement and multidisciplinary rehabilitation",
+          "volume": "95B",
+          "author": "Johnsen",
+          "year": "2013",
+          "journal-title": "Bone & Joint Journal"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0119|cit119",
+          "doi-asserted-by": "crossref",
+          "first-page": "65",
+          "DOI": "10.1055/s-2005-915338",
+          "article-title": "Comparison of three outpatient therapy forms for treatment of chronic low back pain -- findings of a multicentre, cluster randomized study [German]",
+          "volume": "45",
+          "author": "Kainz",
+          "year": "2006",
+          "journal-title": "Rehabilitation"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0120|cit120",
+          "doi-asserted-by": "crossref",
+          "first-page": "267",
+          "DOI": "10.1055/s-2001-17415",
+          "article-title": "[\"Zest for life instead of strain of illness\" - implementation and evaluation of a programme activating chronic back pain patients in a rehabilitation clinic] [German]",
+          "volume": "40",
+          "author": "Kolip",
+          "year": "2001",
+          "journal-title": "Die Rehabilitation"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0121|cit121",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.3233/BMR-2010-0241",
+          "article-title": "Comparative efficacy of two multimodal treatments on male and female sub-groups with low back pain",
+          "volume": "23",
+          "author": "Kumar",
+          "year": "2010",
+          "journal-title": "Journal of Back and Musculoskeletal Rehabilitation"
+        },
+        {
+          "issue": "9718",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0122|cit122",
+          "doi-asserted-by": "crossref",
+          "first-page": "916",
+          "DOI": "10.1016/S0140-6736(09)62164-4",
+          "article-title": "Group cognitive behavioural treatment for low-back pain in primary care: a randomised controlled trial and cost-effectiveness analysis",
+          "volume": "75",
+          "author": "Lamb",
+          "year": "2010",
+          "journal-title": "Lancet"
+        },
+        {
+          "issue": "4",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0123|cit123",
+          "doi-asserted-by": "crossref",
+          "first-page": "270",
+          "DOI": "10.1016/S1529-9430(03)00028-7",
+          "article-title": "Multidisciplinary rehabilitation versus usual care for chronic low back pain in the community: effects on quality of life",
+          "volume": "3",
+          "author": "Lang",
+          "year": "2003",
+          "journal-title": "Spine Journal"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0124|cit124",
+          "doi-asserted-by": "crossref",
+          "first-page": "46",
+          "DOI": "10.1016/j.jotr.2012.12.002",
+          "article-title": "Managing psychosocial contributors in low back pain patients--a randomised controlled trial",
+          "volume": "17",
+          "author": "Lee",
+          "year": "2013",
+          "journal-title": "Journal of Orthopaedics, Trauma and Rehabilitation"
+        },
+        {
+          "issue": "7",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0125|cit125",
+          "first-page": "575",
+          "article-title": "Predictive factors of chronic low-back pain and evaluation of a multidisciplinary pain management program in a population still in activity. [French]",
+          "volume": "62",
+          "author": "Gall",
+          "year": "2001",
+          "journal-title": "Archives des Maladies Professionnelles et de Medecine du Travail"
+        },
+        {
+          "issue": "7",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0126|cit126",
+          "first-page": "996",
+          "article-title": "Functional recovery in low back pain: Efficacy of an early cognitive behavioral intervention",
+          "volume": "61",
+          "author": "Leon Mateos",
+          "year": "2009",
+          "journal-title": "Arthritis and Rheumatism (Arthritis Care and Research)"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0127|cit127",
+          "doi-asserted-by": "crossref",
+          "first-page": "172",
+          "DOI": "10.1186/1471-2474-9-172",
+          "article-title": "Subacute and chronic, non-specific back and neck pain: cognitive-behavioural rehabilitation versus primary care. A randomized controlled trial",
+          "volume": "9",
+          "author": "Lindell",
+          "year": "2008",
+          "journal-title": "BMC Musculoskeletal Disorders"
+        },
+        {
+          "issue": "21",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0128|cit128",
+          "doi-asserted-by": "crossref",
+          "first-page": "2825",
+          "DOI": "10.1097/00007632-200011010-00017",
+          "article-title": "Can chronic disability be prevented? A randomized trial of a cognitive-behavior intervention and two forms of information for patients with spinal pain",
+          "volume": "25",
+          "author": "Linton",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0129|cit129",
+          "first-page": "1",
+          "article-title": "Short- and long-term effects of a 12-week intensive functional restoration programme in individuals work-disabled by chronic spinal pain",
+          "volume": "40",
+          "author": "Ljungkvist",
+          "year": "2000",
+          "journal-title": "Scandinavian Journal of Rehabilitation Medicine. Supplement"
+        },
+        {
+          "issue": "12",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0130|cit130",
+          "doi-asserted-by": "crossref",
+          "first-page": "807",
+          "DOI": "10.1136/oem.59.12.807",
+          "article-title": "Cost-benefit and cost-effectiveness analysis of a disability prevention model for back pain management: a six year follow up study",
+          "volume": "59",
+          "author": "Loisel",
+          "year": "2002",
+          "journal-title": "Occupational and Environmental Medicine"
+        },
+        {
+          "issue": "9",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0131|cit131",
+          "doi-asserted-by": "crossref",
+          "first-page": "865",
+          "DOI": "10.1097/00007632-199905010-00006",
+          "article-title": "Active back school: prophylactic management for low back pain. A randomized, controlled, 1-year follow-up study",
+          "volume": "24",
+          "author": "Lønn",
+          "year": "1999",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "7",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0132|cit132",
+          "doi-asserted-by": "crossref",
+          "first-page": "772",
+          "DOI": "10.1093/rheumatology/40.7.772",
+          "article-title": "Comparison of three active therapies for chronic low back pain: results of a randomized clinical trial with one-year follow-up",
+          "volume": "40",
+          "author": "Mannion",
+          "year": "2001",
+          "journal-title": "Rheumatology"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0133|cit133",
+          "doi-asserted-by": "crossref",
+          "first-page": "1438",
+          "DOI": "10.1016/j.spinee.2013.06.101",
+          "article-title": "Comparison of spinal fusion and nonoperative treatment in patients with chronic low back pain: Long-term follow-up of three randomized controlled trials",
+          "volume": "11",
+          "author": "Mannion",
+          "year": "2013",
+          "journal-title": "Spine Journal"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0134|cit134",
+          "doi-asserted-by": "crossref",
+          "first-page": "45",
+          "DOI": "10.1177/003693300004500205",
+          "article-title": "Setting up a pain management programme. The Ayrshire experience",
+          "volume": "45",
+          "author": "Martin",
+          "year": "2000",
+          "journal-title": "Scottish Medical Journal"
+        },
+        {
+          "issue": "26",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0135|cit135",
+          "doi-asserted-by": "crossref",
+          "first-page": "2943",
+          "DOI": "10.1097/BRS.0b013e31815cda33",
+          "article-title": "The effects of lifestyle intervention for hypertension on low back pain: a randomized controlled trial",
+          "volume": "32",
+          "author": "Mattila",
+          "year": "2007",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0136|cit136",
+          "doi-asserted-by": "crossref",
+          "first-page": "67",
+          "DOI": "10.3233/BMR-2005-183-403",
+          "article-title": "Feasibility and results of a randomised pilot-study of a work rehabilitation programme",
+          "volume": "18",
+          "author": "Meyer",
+          "year": "2005",
+          "journal-title": "Journal of Back and Musculoskeletal Rehabilitation"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0137|cit137",
+          "doi-asserted-by": "crossref",
+          "first-page": "288",
+          "DOI": "10.1055/s-0029-1239551",
+          "article-title": "[Patients with chronic low back pain: the impact of psychosocial features]. [German]",
+          "volume": "48",
+          "author": "Mohr",
+          "year": "2009",
+          "journal-title": "Rehabilitation"
+        },
+        {
+          "issue": "20",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0138|cit138",
+          "doi-asserted-by": "crossref",
+          "first-page": "2309",
+          "DOI": "10.1097/01.BRS.0000085817.33211.3F",
+          "article-title": "Does early intervention with a light mobilization program reduce long-term sick leave for low back pain: a 3-year follow-up study",
+          "volume": "28",
+          "author": "Molde Hagen",
+          "year": "2003",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0139|cit139",
+          "first-page": "152",
+          "article-title": "Management options of chronic low back pain. A randomized blinded clinical trial",
+          "volume": "18",
+          "author": "Nazzal",
+          "year": "2013",
+          "journal-title": "Neurosciences"
+        },
+        {
+          "issue": "6",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0140|cit140",
+          "doi-asserted-by": "crossref",
+          "first-page": "824",
+          "DOI": "10.1016/j.pain.2013.02.009",
+          "article-title": "Self-management intervention for chronic pain in older adults: A randomised controlled trial",
+          "volume": "154",
+          "author": "Nicholas",
+          "year": "2013",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "10",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0141|cit141",
+          "doi-asserted-by": "crossref",
+          "first-page": "1109",
+          "DOI": "10.1097/01.brs.0000162569.00685.7b",
+          "article-title": "Cost-effectiveness of combined manipulation, stabilizing exercises, and physician consultation compared to physician consultation alone for chronic low back pain: a prospective randomized trial with 2-year follow-up",
+          "volume": "30",
+          "author": "Niemisto",
+          "year": "2005",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "12",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0142|cit142",
+          "doi-asserted-by": "crossref",
+          "first-page": "1336",
+          "DOI": "10.1097/BRS.0b013e3181a4e4d2",
+          "article-title": "A randomized study of back school in women with chronic low back pain. Quality of life at three, six, and twelve months follow-up",
+          "volume": "34",
+          "author": "Padua",
+          "year": "2009",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0143|cit143",
+          "first-page": "245",
+          "article-title": "Psychological features and outcomes of the Back School treatment in patients with chronic non-specific low back pain. A randomized controlled study",
+          "volume": "48",
+          "author": "Paolucci",
+          "year": "2012",
+          "journal-title": "European Journal of Physical and Rehabilitation Medicine"
+        },
+        {
+          "issue": "6",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0144|cit144",
+          "doi-asserted-by": "crossref",
+          "first-page": "402",
+          "DOI": "10.1016/S1529-9430(02)00462-X",
+          "article-title": "Comparison of short- and long-term outcomes for aggressive spine rehabilitation delivered two versus three times per week",
+          "volume": "2",
+          "author": "Rainville",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0145|cit145",
+          "doi-asserted-by": "crossref",
+          "first-page": "12",
+          "DOI": "10.1136/oem.2009.054312",
+          "article-title": "The effectiveness of two active interventions compared to self-care advice in employees with non-acute low back symptoms: a randomised, controlled trial with a 4-year follow-up in the occupational health setting",
+          "volume": "69",
+          "author": "Rantonen",
+          "year": "2012",
+          "journal-title": "Occupational and Environmental Medicine"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0146|cit146",
+          "doi-asserted-by": "crossref",
+          "first-page": "251",
+          "DOI": "10.1097/00007632-200001150-00018",
+          "article-title": "Coordination of primary health care for back pain. A randomized controlled trial",
+          "volume": "25",
+          "author": "Rossignol",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0147|cit147",
+          "doi-asserted-by": "crossref",
+          "first-page": "195",
+          "DOI": "10.1097/AJP.0b013e318250e544",
+          "article-title": "Improved quality of life, working ability, and patient satisfaction after a pretreatment multimodal assessment method in patients with mixed chronic muscular pain: a randomized-controlled study",
+          "volume": "29",
+          "author": "Rothman",
+          "year": "2013",
+          "journal-title": "Clinical Journal of Pain"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0148|cit148",
+          "doi-asserted-by": "crossref",
+          "first-page": "224",
+          "DOI": "10.2340/16501977-0650",
+          "article-title": "Effectiveness of back school for treatment of pain and functional disability in patients with chronic low back pain: a randomized controlled trial",
+          "volume": "43",
+          "author": "Sahin",
+          "year": "2011",
+          "journal-title": "Journal of Rehabilitation Medicine"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0149|cit149",
+          "doi-asserted-by": "crossref",
+          "first-page": "7",
+          "DOI": "10.4103/0974-8237.110117",
+          "article-title": "Management of low back pain in computer users: A multidisciplinary approach",
+          "volume": "3",
+          "author": "Shete",
+          "year": "2012",
+          "journal-title": "Journal of Craniovertebral Junction and Spine"
+        },
+        {
+          "issue": "4",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0150|cit150",
+          "doi-asserted-by": "crossref",
+          "first-page": "435",
+          "DOI": "10.2522/ptj.20110150",
+          "article-title": "Cognitive treatment of illness perceptions in patients with chronic low back pain: a randomized controlled trial",
+          "volume": "93",
+          "author": "Siemonsma",
+          "year": "2013",
+          "journal-title": "Physical Therapy"
+        },
+        {
+          "issue": "4",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0151|cit151",
+          "doi-asserted-by": "crossref",
+          "first-page": "341",
+          "DOI": "10.3233/WOR-2010-1088",
+          "article-title": "Two-year outcome of a multidisciplinary vocational rehabilitation programme focused on range of motion of the neck and back",
+          "volume": "37",
+          "author": "Sjostrom",
+          "year": "2010",
+          "journal-title": "Work"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0152|cit152",
+          "first-page": "143",
+          "article-title": "Culturally sensitive group therapy for Turkish patients suffering from chronic pain: A randomised controlled intervention trial",
+          "volume": "Nov",
+          "author": "Sleptsova",
+          "year": "2013",
+          "journal-title": "Swiss Medical Weekly"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0153|cit153",
+          "doi-asserted-by": "crossref",
+          "first-page": "212",
+          "DOI": "10.1186/1471-2474-11-212",
+          "article-title": "An educational approach based on a non-injury model compared with individual symptom-based physical training in chronic LBP. A pragmatic, randomised trial with a one-year follow-up",
+          "volume": "11",
+          "author": "Sorensen",
+          "year": "2010",
+          "journal-title": "BMC Musculoskeletal Disorders"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0154|cit154",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.7326/0003-4819-140-2-200401200-00007",
+          "article-title": "Graded activity for low back pain in occupational health care: a randomized, controlled trial",
+          "volume": "140",
+          "author": "Staal",
+          "year": "2004",
+          "journal-title": "Annals of Internal Medicine"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0155|cit155",
+          "doi-asserted-by": "crossref",
+          "first-page": "112",
+          "DOI": "10.1186/1471-2474-12-112",
+          "article-title": "Subgroup analyses on return to work in sick-listed employees with low back pain in a randomised trial comparing brief and multidisciplinary intervention",
+          "volume": "12",
+          "author": "Stapelfeldt",
+          "year": "2011",
+          "journal-title": "BMC Musculoskeletal Disorders"
+        },
+        {
+          "issue": "11",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0156|cit156",
+          "doi-asserted-by": "crossref",
+          "first-page": "718",
+          "DOI": "10.1136/oem.2005.021675",
+          "article-title": "The effectiveness of graded activity for low back pain in occupational healthcare",
+          "volume": "63",
+          "author": "Steenstra",
+          "year": "2006",
+          "journal-title": "Occupational and Environmental Medicine"
+        },
+        {
+          "issue": "6",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0157|cit157",
+          "doi-asserted-by": "crossref",
+          "first-page": "321",
+          "DOI": "10.1055/s-2001-18965",
+          "article-title": "[Reconditioning in groups: an effective programme for the rehabilitation of patients with low back pain?] [German]",
+          "volume": "40",
+          "author": "Stier",
+          "year": "2001",
+          "journal-title": "Rehabilitation"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0158|cit158",
+          "doi-asserted-by": "crossref",
+          "first-page": "132",
+          "DOI": "10.1080/16501970310010484",
+          "article-title": "Intensive group training versus cognitive intervention in sub-acute low back pain: short-term results of a single-blind randomized controlled trial",
+          "volume": "35",
+          "author": "Storheim",
+          "year": "2003",
+          "journal-title": "Journal of Rehabilitation Medicine"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0159|cit159",
+          "doi-asserted-by": "crossref",
+          "first-page": "12",
+          "DOI": "10.1080/11026480310015521",
+          "article-title": "Effects on sick-leave of a multidisciplinary rehabilitation programme for chronic low back, neck or shoulder pain: comparison with usual treatment",
+          "volume": "36",
+          "author": "Storro",
+          "year": "2004",
+          "journal-title": "Journal of Rehabilitation Medicine"
+        },
+        {
+          "issue": "15",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0160|cit160",
+          "doi-asserted-by": "crossref",
+          "first-page": "1639",
+          "DOI": "10.1097/01.brs.0000224528.75951.03",
+          "article-title": "Cost-effectiveness of two self-care interventions to reduce disability associated with back pain",
+          "volume": "31",
+          "author": "Strong",
+          "year": "2006",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0161|cit161",
+          "doi-asserted-by": "crossref",
+          "first-page": "33",
+          "DOI": "10.1186/1472-6882-9-33",
+          "article-title": "Exploring integrative medicine for back and neck pain - a pragmatic randomised clinical pilot trial",
+          "volume": "9",
+          "author": "Sundberg",
+          "year": "2009",
+          "journal-title": "BMC Complementary and Alternative Medicine"
+        },
+        {
+          "issue": "12",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0162|cit162",
+          "doi-asserted-by": "crossref",
+          "first-page": "2143",
+          "DOI": "10.1007/s00586-011-1810-x",
+          "article-title": "Long-term effects of a cognitive-behavioral training program for the management of depressive symptoms among patients in orthopedic inpatient rehabilitation of chronic low back pain: A 2-year follow-up",
+          "volume": "20",
+          "author": "Tlach",
+          "year": "2011",
+          "journal-title": "European Spine Journal"
+        },
+        {
+          "issue": "23",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0163|cit163",
+          "doi-asserted-by": "crossref",
+          "first-page": "2616",
+          "DOI": "10.1097/00007632-199812010-00017",
+          "article-title": "Efficiency and costs of medical exercise therapy, conventional physiotherapy, and self-exercise in patients with chronic low back pain - A pragmatic, randomized, single-blinded, controlled trial with 1-year follow-up",
+          "volume": "23",
+          "author": "Torstensen",
+          "year": "1998",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0164|cit164",
+          "first-page": "114",
+          "article-title": "Chronic back pain: What does biofeedback add to cognitive-behavioral treatment? A randomized controlled trial",
+          "volume": "9",
+          "author": "Trapp",
+          "year": "2009",
+          "journal-title": "Pain Practice"
+        },
+        {
+          "issue": "13",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0165|cit165",
+          "doi-asserted-by": "crossref",
+          "first-page": "1100",
+          "DOI": "10.1080/09638280802511047",
+          "article-title": "The effectiveness of a functional training programme for patients with chronic low back pain -- a pilot study",
+          "volume": "31",
+          "author": "Tsauo",
+          "year": "2009",
+          "journal-title": "Disability & Rehabilitation"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0166|cit166",
+          "doi-asserted-by": "crossref",
+          "first-page": "181",
+          "DOI": "10.1615/CritRevPhysRehabilMed.v10.i2.40",
+          "article-title": "Treatment of chronic pain patients: clinical outcomes, cost-effectiveness, and cost-benefits of multidisciplinary pain centers",
+          "volume": "10",
+          "author": "Turk",
+          "year": "1998",
+          "journal-title": "Critical Reviews in Physical and Rehabilitation Medicine"
+        },
+        {
+          "issue": "7479",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0167|cit167",
+          "doi-asserted-by": "crossref",
+          "first-page": "1381",
+          "DOI": "10.1136/bmj.38282.607859.AE",
+          "article-title": "United Kingdom back pain exercise and manipulation (UK BEAM) randomised trial: cost effectiveness of physical treatments for back pain in primary care",
+          "volume": "329",
+          "author": "Underwood",
+          "year": "2004",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0168|cit168",
+          "first-page": "217",
+          "article-title": "A participatory return-to-work program for temporary agency workers and unemployed workers sick-listed due to musculoskeletal disorders: a process evaluation alongside a randomized controlled trial",
+          "volume": "22",
+          "author": "Beurden",
+          "year": "2012",
+          "journal-title": "Journal of Occupational Rehabilitation"
+        },
+        {
+          "issue": "9",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0169|cit169",
+          "doi-asserted-by": "crossref",
+          "first-page": "1193",
+          "DOI": "10.1007/s00586-008-0718-6",
+          "article-title": "Intensive group training protocol versus guideline physiotherapy for patients with chronic low back pain: A randomised controlled trial",
+          "volume": "17",
+          "author": "Roer",
+          "year": "2008",
+          "journal-title": "European Spine Journal"
+        },
+        {
+          "issue": "9",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0170|cit170",
+          "doi-asserted-by": "crossref",
+          "first-page": "1517",
+          "DOI": "10.1007/s00586-010-1435-5",
+          "article-title": "Daily functioning and self-management in patients with chronic low back pain after an intensive cognitive behavioral programme for pain management",
+          "volume": "19",
+          "author": "Hooff",
+          "year": "2010",
+          "journal-title": "European Spine Journal"
+        },
+        {
+          "issue": "17",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0171|cit171",
+          "doi-asserted-by": "crossref",
+          "first-page": "1844",
+          "DOI": "10.1097/00007632-200209010-00006",
+          "article-title": "Early occupational health management of patients with back pain: a randomized controlled trial",
+          "volume": "27",
+          "author": "Verbeek",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0172|cit172",
+          "doi-asserted-by": "crossref",
+          "first-page": "313",
+          "DOI": "10.1007/s10926-011-9291-7",
+          "article-title": "A participatory return-to-work intervention for temporary agency workers and unemployed workers sick-listed due to musculoskeletal disorders: results of a randomized controlled trial",
+          "volume": "21",
+          "author": "Vermeulen",
+          "year": "2011",
+          "journal-title": "Journal of Occupational Rehabilitation"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0173|cit173",
+          "first-page": "44",
+          "article-title": "Horticultural therapy for patients with chronic musculoskeletal pain: results of a pilot study",
+          "volume": "18",
+          "author": "Verra",
+          "year": "2011",
+          "journal-title": "Alternative Therapies in Health and Medicine"
+        },
+        {
+          "issue": "6",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0174|cit174",
+          "doi-asserted-by": "crossref",
+          "first-page": "916",
+          "DOI": "10.1002/j.1532-2149.2012.00252.x",
+          "article-title": "Efficacy of classification-based cognitive functional therapy in patients with non-specific chronic low back pain: A randomized controlled trial",
+          "volume": "17",
+          "author": "Vibe Fersum",
+          "year": "2013",
+          "journal-title": "European Journal of Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0175|cit175",
+          "doi-asserted-by": "crossref",
+          "first-page": "95",
+          "DOI": "10.1111/j.2044-8260.1995.tb01443.x",
+          "article-title": "Behavioural rehabilitation of chronic low back pain: Comparison of an operant treatment, an operant-cognitive treatment and an operant-respondent treatment",
+          "volume": "34",
+          "author": "Vlaeyen",
+          "year": "1995",
+          "journal-title": "British Journal of Clinical Psychology"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0176|cit176",
+          "doi-asserted-by": "crossref",
+          "first-page": "176",
+          "DOI": "10.1016/j.apmr.2010.10.016",
+          "article-title": "Motivational enhancement therapy in addition to physical therapy improves motivational factors and treatment outcomes in people with low back pain: A randomized controlled trial",
+          "volume": "92",
+          "author": "Vong",
+          "year": "2011",
+          "journal-title": "Archives of Physical Medicine and Rehabilitation"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0177|cit177",
+          "doi-asserted-by": "crossref",
+          "first-page": "226",
+          "DOI": "10.1007/s00482-007-0527-6",
+          "article-title": "Rehabilitation of non-specific low back pain: Results of a multidisciplinary in-patient program. [German]",
+          "volume": "21",
+          "author": "Wagner",
+          "year": "2007",
+          "journal-title": "Schmerz"
+        },
+        {
+          "issue": "21",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0178|cit178",
+          "doi-asserted-by": "crossref",
+          "first-page": "2350",
+          "DOI": "10.1097/01.brs.0000143619.34308.b4",
+          "article-title": "Early intervention for the management of acute low back pain: A single-blind randomized controlled trial of biopsychosocial education, manual therapy, and exercise",
+          "volume": "29",
+          "author": "Wand",
+          "year": "2004",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "7",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0179|cit179",
+          "doi-asserted-by": "crossref",
+          "first-page": "629",
+          "DOI": "10.1097/AJP.0b013e31812e0060",
+          "article-title": "Change factors explaining reductions of \"interference\" in a multidisciplinary and an exercise prevention program for low back pain",
+          "volume": "23",
+          "author": "Wessels",
+          "year": "2007",
+          "journal-title": "Clinical Journal of Pain"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0180|cit180",
+          "doi-asserted-by": "crossref",
+          "first-page": "256",
+          "DOI": "10.1007/s10926-010-9238-4",
+          "article-title": "Early intervention options for acute low back pain patients: a randomized clinical trial with one-year follow-up outcomes",
+          "volume": "20",
+          "author": "Whitfill",
+          "year": "2010",
+          "journal-title": "Journal of Occupational Rehabilitation"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0181|cit181",
+          "doi-asserted-by": "crossref",
+          "first-page": "465",
+          "DOI": "10.1089/acm.2007.0796",
+          "article-title": "A comparison between chiropractic management and pain clinic management for chronic low-back pain in a national health service outpatient clinic",
+          "volume": "14",
+          "author": "Wilkey",
+          "year": "2008",
+          "journal-title": "Journal of Alternative and Complementary Medicine"
+        },
+        {
+          "issue": "9",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0182|cit182",
+          "doi-asserted-by": "crossref",
+          "first-page": "744",
+          "DOI": "10.1097/PHM.0b013e3181e72239",
+          "article-title": "The effect of back school integrated with core strengthening in patients with chronic low-back pain",
+          "volume": "89",
+          "author": "Yang",
+          "year": "2010",
+          "journal-title": "American Journal of Physical Medicine & Rehabilitation"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0183|cit183",
+          "doi-asserted-by": "crossref",
+          "first-page": "2346",
+          "DOI": "10.1093/rheumatology/keq245",
+          "article-title": "Low back pain symptoms show a similar patternof improvement following a wide range of primary care treatments: a systematic review of randomized clinical trials",
+          "volume": "49",
+          "author": "Artus",
+          "year": "2010",
+          "journal-title": "Rheumatology"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0184|cit184",
+          "doi-asserted-by": "crossref",
+          "first-page": "3829",
+          "DOI": "10.1136/bmj.b3829",
+          "article-title": "Prognosis for patients with chronic low back pain: inception cohort study",
+          "volume": "339",
+          "author": "Costa Lda",
+          "year": "2009",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "4",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0185|cit185",
+          "doi-asserted-by": "crossref",
+          "first-page": "211",
+          "DOI": "10.1016/S1836-9553(12)70122-4",
+          "article-title": "Clinical trial registration in physiotherapy journals: recommendations from the International Society of Physiotherapy Journal Editors",
+          "volume": "58",
+          "author": "Costa",
+          "year": "2012",
+          "journal-title": "Journal of Physiotherapy"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0186|cit186",
+          "doi-asserted-by": "crossref",
+          "first-page": "643",
+          "DOI": "10.1097/00007632-199403001-00002",
+          "article-title": "Does nonsurgical pain center treatment ofchronic pain return patients to work? A review and meta-analysis of the literature",
+          "volume": "19",
+          "author": "Cutler",
+          "year": "1994",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0187|cit187",
+          "doi-asserted-by": "crossref",
+          "first-page": "514",
+          "DOI": "10.1016/j.spinee.2010.03.032",
+          "article-title": "Synthesis of recommendations for the assessment and management of low back pain from recent clinical practice guidelines",
+          "volume": "10",
+          "author": "Dagenais",
+          "year": "2010",
+          "journal-title": "The Spine Journal"
+        },
+        {
+          "issue": "11",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0188|cit188",
+          "doi-asserted-by": "crossref",
+          "first-page": "1733",
+          "DOI": "10.1586/ern.10.115",
+          "article-title": "Fear reduction in patients with chronic pain: a learning theory perspective",
+          "volume": "10",
+          "author": "Hollander",
+          "year": "2010",
+          "journal-title": "Expert Reviews in Neurotherapy"
+        },
+        {
+          "issue": "1-2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0189|cit189",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.1016/j.pain.2004.09.012",
+          "article-title": "Core outcome measures for chronic pain clinical trials: IMMPACT recommendations",
+          "volume": "113",
+          "author": "Dworkin",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0190|cit190",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD004057.pub3",
+          "article-title": "Individual patient education for low back pain",
+          "author": "Engers",
+          "year": "2008",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "issue": "10",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0191|cit191",
+          "doi-asserted-by": "crossref",
+          "first-page": "1383",
+          "DOI": "10.2522/ptj.20090332",
+          "article-title": "Can we explain heterogeneity among randomized clinical trials of exercise for chronic back pain? A meta-regression analysis of randomized controlled trials",
+          "volume": "90",
+          "author": "Ferreira",
+          "year": "2010",
+          "journal-title": "Physical Therapy"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0192|cit192",
+          "doi-asserted-by": "crossref",
+          "first-page": "253",
+          "DOI": "10.1016/j.jclinepi.2011.06.018",
+          "article-title": "A critical review of methods used to determine the smallest worthwhile effect of interventions for low back pain",
+          "volume": "65",
+          "author": "Ferreira",
+          "year": "2012",
+          "journal-title": "Journal of Clinical Epidemiology"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0193|cit193",
+          "doi-asserted-by": "crossref",
+          "first-page": "221",
+          "DOI": "10.1016/0304-3959(92)90145-2",
+          "article-title": "Efficacy of multidisciplinary pain treatment centers: A meta-analytic review",
+          "volume": "48",
+          "author": "Flor",
+          "year": "1992",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0194|cit194",
+          "doi-asserted-by": "crossref",
+          "first-page": "108",
+          "DOI": "10.1186/1741-7015-9-108",
+          "article-title": "Barriers and progress in the treatment of low back pain",
+          "volume": "9",
+          "author": "Foster",
+          "year": "2011",
+          "journal-title": "BMC Medicine"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0195|cit195",
+          "doi-asserted-by": "crossref",
+          "first-page": "649",
+          "DOI": "10.1016/j.berh.2013.10.005",
+          "article-title": "Stratified models of care",
+          "volume": "27",
+          "author": "Foster",
+          "year": "2013",
+          "journal-title": "Best Practice & Research. Clinical Rheumatology"
+        },
+        {
+          "issue": "18",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0196|cit196",
+          "doi-asserted-by": "crossref",
+          "first-page": "1929",
+          "DOI": "10.1097/BRS.0b013e3181b1c99f",
+          "article-title": "Updated method guidelines for systematic reviews in the Cochrane Back Review Group",
+          "volume": "34",
+          "author": "Furlan",
+          "year": "2009",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0197|cit197",
+          "doi-asserted-by": "crossref",
+          "first-page": "1283",
+          "DOI": "10.1016/j.jclinepi.2011.01.012",
+          "article-title": "GRADE guidelines 6. Rating the quality of evidencedimprecision",
+          "volume": "64",
+          "author": "Guyatt",
+          "year": "2011",
+          "journal-title": "Journal of Clinical Epidemiology"
+        },
+        {
+          "issue": "7",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0198|cit198",
+          "doi-asserted-by": "crossref",
+          "first-page": "698",
+          "DOI": "10.2522/ptj.20080351",
+          "article-title": "A guide to interpretation of studies investigating subgroups of responders to physical therapy interventions",
+          "volume": "89",
+          "author": "Hancock",
+          "year": "2009",
+          "journal-title": "Physical Therapy"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0199|cit199",
+          "doi-asserted-by": "crossref",
+          "first-page": "776",
+          "DOI": "10.7326/0003-4819-142-9-200505030-00014",
+          "article-title": "Systematic review: Strategies for using exercise therapy to improve outcomes in chronic low back pain",
+          "volume": "142",
+          "author": "Hayden",
+          "year": "2005",
+          "journal-title": "Annals of Internal Medicine"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0200|cit200",
+          "doi-asserted-by": "crossref",
+          "first-page": "171",
+          "DOI": "10.1136/bmj.a171",
+          "article-title": "Prognosis in patients with recent onset low back pain in Australian primary care: inception cohort study",
+          "volume": "337",
+          "author": "Henschke",
+          "year": "2008",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "7",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0201|cit201",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD002014.pub3",
+          "article-title": "Behavioural treatment for chronic low-back pain",
+          "author": "Henschke",
+          "year": "2010",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0202|cit202",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD008325",
+          "article-title": "Back schools for acute and subacute non-specific low-back pain",
+          "author": "Heymans",
+          "year": "2010",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0203|cit203",
+          "unstructured": "Higgins JPT Green S (editors) Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 Updated March 2011"
+        },
+        {
+          "issue": "9802",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0204|cit204",
+          "doi-asserted-by": "crossref",
+          "first-page": "1560",
+          "DOI": "10.1016/S0140-6736(11)60937-9",
+          "article-title": "Comparison of stratified primary care management for low back pain with current best practice (STarT Back): a randomised controlled trial",
+          "volume": "378",
+          "author": "Hill",
+          "year": "2011",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0205|cit205",
+          "doi-asserted-by": "crossref",
+          "first-page": "181",
+          "DOI": "10.1016/j.berh.2009.11.003",
+          "article-title": "Treatment-based subgroups of low back pain: a guide to appraisal of research studies and a summary of current evidence",
+          "volume": "24",
+          "author": "Kamper",
+          "year": "2010",
+          "journal-title": "Best Practice & Research. Clinical Rheumatology"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0206|cit206",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD002193",
+          "article-title": "Multidisciplinary biopsychosocial rehabilitation for subacute low-back pain among working age adults",
+          "author": "Karjalainen",
+          "year": "2003",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0207|cit207",
+          "doi-asserted-by": "crossref",
+          "first-page": "2075",
+          "DOI": "10.1007/s00586-010-1502-y",
+          "article-title": "An updated overview of clinical guidelines for the managementof non-specific low back pain in primary care",
+          "volume": "19",
+          "author": "Koes",
+          "year": "2010",
+          "journal-title": "European Spine Journal"
+        },
+        {
+          "issue": "13",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0208|cit208",
+          "doi-asserted-by": "crossref",
+          "first-page": "1050",
+          "DOI": "10.1097/BRS.0b013e3181e70488",
+          "article-title": "The trend in total cost of back pain in the Netherlands in the period 2002 to 2007",
+          "volume": "36",
+          "author": "Lambeek",
+          "year": "2011",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0209|cit209",
+          "doi-asserted-by": "crossref",
+          "first-page": "700",
+          "DOI": "10.2522/ptj.20100330",
+          "article-title": "Impact of psychological factors in the experience of pain",
+          "volume": "91",
+          "author": "Linton",
+          "year": "2011",
+          "journal-title": "Physical Therapy"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0210|cit210",
+          "doi-asserted-by": "crossref",
+          "first-page": "520",
+          "DOI": "10.1093/rheumatology/ken470",
+          "article-title": "Analgesic effects of treatments for non-specific low back pain: a meta-analysis of placebo-controlled randomized trials",
+          "volume": "48",
+          "author": "Machado",
+          "year": "2009",
+          "journal-title": "Rheumatology"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0211|cit211",
+          "doi-asserted-by": "crossref",
+          "first-page": "23",
+          "DOI": "10.1053/berh.2001.0204",
+          "article-title": "The economic burden of low back pain:A review of studies published between 1996 and 2001",
+          "volume": "16",
+          "author": "Maetzel",
+          "year": "2002",
+          "journal-title": "Best Practice & Research. Clinical Rheumatology"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0212|cit212",
+          "doi-asserted-by": "crossref",
+          "first-page": "685",
+          "DOI": "10.1016/j.berh.2013.10.001",
+          "article-title": "Why and how back pain interventions work: What can we do to find out?",
+          "volume": "27",
+          "author": "Mansell",
+          "year": "2013",
+          "journal-title": "Best Practice & Research. Clinical Rheumatology"
+        },
+        {
+          "issue": "5",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0213|cit213",
+          "doi-asserted-by": "crossref",
+          "first-page": "737",
+          "DOI": "10.2522/ptj.20100224",
+          "article-title": "Early identification and management of psychological risk factors (\"yellow flags\") in patients with low back pain: a reappraisal",
+          "volume": "91",
+          "author": "Nicholas",
+          "year": "2011",
+          "journal-title": "Physical Therapy"
+        },
+        {
+          "issue": "3",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0214|cit214",
+          "doi-asserted-by": "crossref",
+          "first-page": "115",
+          "DOI": "10.2340/16501977-0297",
+          "article-title": "Multidisciplinary interventions: Review of studies of return to work after rehabilitation for low back pain",
+          "volume": "41",
+          "author": "Norlund",
+          "year": "2009",
+          "journal-title": "Journal of Rehabilitation Medicine"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0215|cit215",
+          "doi-asserted-by": "crossref",
+          "first-page": "349",
+          "DOI": "10.3233/WOR-2010-0995",
+          "article-title": "A systematic review of multidisciplinaryoutcomes in the management of chronic lowback pain",
+          "volume": "35",
+          "author": "Ravenek",
+          "year": "2010",
+          "journal-title": "Work"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0216|cit216",
+          "doi-asserted-by": "crossref",
+          "first-page": "2246",
+          "DOI": "10.1097/00007632-199710010-00009",
+          "article-title": "Chronic low back pain rehabilitation programs: a study of the optimum duration of treatment and a comparison of group and individual therapy",
+          "volume": "22",
+          "author": "Rose",
+          "year": "1997",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0217|cit217",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD008112.pub2",
+          "article-title": "Spinal manipulative therapy for chronic low-back pain",
+          "author": "Rubinstein",
+          "year": "2011",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "issue": "8",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0218|cit218",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD001822.pub3",
+          "article-title": "Physical conditioning as part of a return to work strategy to reduce sickness absence for workers with back pain",
+          "author": "Schaafsma",
+          "year": "2013",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+          "issue": "4",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0219|cit219",
+          "doi-asserted-by": "crossref",
+          "first-page": "261",
+          "DOI": "10.1016/j.jpain.2005.10.011",
+          "article-title": "Reduction of pain catastrophizing mediates the outcome of both physical and cognitive-behavioral treatment in chronic low back pain",
+          "volume": "7",
+          "author": "Smeets",
+          "year": "2006",
+          "journal-title": "The Journal of Pain"
+        },
+        {
+          "issue": "1",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0220|cit220",
+          "doi-asserted-by": "crossref",
+          "first-page": "71",
+          "DOI": "10.1016/j.ejpain.2008.02.008",
+          "article-title": "More is not always better: cost-effectiveness analysis of combined, single behavioral and single physical rehabilitation programs for chronic low back pain",
+          "volume": "13",
+          "author": "Smeets",
+          "year": "2009",
+          "journal-title": "European Journal of Pain"
+        },
+        {
+          "issue": "7",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0221|cit221",
+          "doi-asserted-by": "crossref",
+          "first-page": "813",
+          "DOI": "10.1097/01.brs.0000157414.47713.78",
+          "article-title": "A systematic review of sociodemographic, physical, and psychological predictors of multidisciplinary rehabilitation— or, back school treatment outcome in patients with chronic low back pain",
+          "volume": "30",
+          "author": "Hulst",
+          "year": "2005",
+          "journal-title": "Spine"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0222|cit222",
+          "doi-asserted-by": "crossref",
+          "first-page": "249",
+          "DOI": "10.1097/01.brs.0000251745.00674.08",
+          "article-title": "The long-term effect of multidisciplinary back training: A systematic review",
+          "volume": "32",
+          "author": "Geen",
+          "year": "2007",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0223|cit223",
+          "doi-asserted-by": "crossref",
+          "first-page": "102",
+          "DOI": "10.1007/s00586-013-2844-z",
+          "article-title": "Predictive factors for successful clinical outcome 1 year after an intensive combined physical and psychologicalprogramme for chronic low back pain",
+          "volume": "23",
+          "author": "Hooff",
+          "year": "2014",
+          "journal-title": "European Spine Journal"
+        },
+        {
+          "issue": "12",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0224|cit224",
+          "doi-asserted-by": "crossref",
+          "first-page": "1603",
+          "DOI": "10.2522/ptj.20130076",
+          "article-title": "Prognosis and Course of Disability in Patients With Chronic Nonspecific Low Back Pain: A 5- and 12-Month Follow-up Cohort Study",
+          "volume": "93",
+          "author": "Verkerk",
+          "year": "2013",
+          "journal-title": "Physical Therapy"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0225|cit225",
+          "doi-asserted-by": "crossref",
+          "first-page": "2163",
+          "DOI": "10.1016/S0140-6736(12)61729-2",
+          "article-title": "Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010",
+          "volume": "380",
+          "author": "Vos",
+          "year": "2012",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0226|cit226",
+          "volume-title": "The Back Pain Revolution",
+          "volume": "1",
+          "author": "Waddell",
+          "year": "2004"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0227|cit227",
+          "doi-asserted-by": "crossref",
+          "first-page": "179",
+          "DOI": "10.1016/j.pain.2013.10.006",
+          "article-title": "Dose or content? Effectiveness of pain rehabilitation programs forpatients with chronic low back pain: A systematic review",
+          "volume": "155",
+          "author": "Waterschoot",
+          "year": "2014",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1002/14651858.CD000963.pub3-BIB0228|cit228",
+          "doi-asserted-by": "crossref",
+          "first-page": "132",
+          "DOI": "10.1186/1745-6215-13-132",
+          "article-title": "Developing core outcome sets for clinical trials: issues to consider",
+          "volume": "13",
+          "author": "Williamson",
+          "year": "2012",
+          "journal-title": "Trials"
+        },
+        {
+          "issue": "2",
+          "key": "10.1002/14651858.CD000963.pub3-BIB0229|cit229",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/14651858.CD000963.pub2",
+          "article-title": "Multidisciplinary bio-psycho-social rehabilitation for chronic low-back pain",
+          "author": "Guzman",
+          "year": "2006",
+          "journal-title": "Cochrane Database of Systematic Reviews"
+        }
+      ],
+      "container-title": [
+        "Cochrane Database of Systematic Reviews"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/14651858.CD000963.pub3",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            5,
+            4
+          ]
+        ],
+        "date-time": "2025-05-04T12:46:00Z",
+        "timestamp": 1746362760000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://doi.wiley.com/10.1002/14651858.CD000963.pub3"
+        }
+      },
+      "subtitle": [],
+      "editor": [
+        {
+          "name": "Cochrane Back and Neck Group",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2014,
+            9,
+            2
+          ]
+        ]
+      },
+      "references-count": 229,
+      "journal-issue": {
+        "issue": "9",
+        "published-online": {
+          "date-parts": [
+            [
+              2014,
+              9
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1002/14651858.cd000963.pub3",
+      "relation": {},
+      "ISSN": [
+        "1465-1858"
+      ],
+      "issn-type": [
+        {
+          "type": "electronic",
+          "value": "1465-1858"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            9,
+            2
+          ]
+        ]
+      }
+    }
+  }
+}

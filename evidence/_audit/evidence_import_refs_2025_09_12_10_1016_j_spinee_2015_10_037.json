@@ -1,0 +1,824 @@
+{
+  "file": "evidence\\evidence_import_refs_2025_09_12_10_1016_j_spinee_2015_10_037.md",
+  "id": "evidence_import_refs_2025_09_12_10_1016_j_spinee_2015_10_037",
+  "doi": "10.1016/j.spinee.2015.10.037",
+  "pmid": null,
+  "checked_at": "2025-09-12",
+  "fetched_at": "2025-09-12T14:07:06.982940Z",
+  "sources": {
+    "crossref": {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            9
+          ]
+        ],
+        "date-time": "2025-09-09T20:35:37Z",
+        "timestamp": 1757450137676
+      },
+      "reference-count": 52,
+      "publisher": "Elsevier BV",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2016-01-01T00:00:00Z",
+            "timestamp": 1451606400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "clinicalkey.jp",
+          "clinicalkey.com",
+          "clinicalkey.es",
+          "clinicalkey.com.au",
+          "clinicalkey.fr",
+          "thespinejournalonline.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "The Spine Journal"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.spinee.2015.10.037",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2015,
+            11,
+            4
+          ]
+        ],
+        "date-time": "2015-11-04T01:46:42Z",
+        "timestamp": 1446601602000
+      },
+      "page": "105-116",
+      "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 201,
+      "title": [
+        "Symptoms of depression as a prognostic factor for low back pain: a systematic review"
+      ],
+      "prefix": "10.1016",
+      "volume": "16",
+      "author": [
+        {
+          "given": "Marina B.",
+          "family": "Pinheiro",
+          "sequence": "first",
+          "affiliation": []
+        },
+        {
+          "given": "Manuela L.",
+          "family": "Ferreira",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Kathryn",
+          "family": "Refshauge",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Christopher G.",
+          "family": "Maher",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Juan R.",
+          "family": "Ordoñana",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Tude B.",
+          "family": "Andrade",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Alexandros",
+          "family": "Tsathas",
+          "sequence": "additional",
+          "affiliation": []
+        },
+        {
+          "given": "Paulo H.",
+          "family": "Ferreira",
+          "sequence": "additional",
+          "affiliation": []
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0010",
+          "doi-asserted-by": "crossref",
+          "first-page": "323",
+          "DOI": "10.1136/bmj.327.7410.323",
+          "article-title": "Acute low back pain: systematic review of its prognosis",
+          "volume": "327",
+          "author": "Pengel",
+          "year": "2003",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "E613",
+          "DOI": "10.1503/cmaj.111271",
+          "article-title": "The prognosis of acute and persistent low-back pain: a meta-analysis",
+          "volume": "184",
+          "author": "da C Menezes Costa",
+          "year": "2012",
+          "journal-title": "CMAJ"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0020",
+          "doi-asserted-by": "crossref",
+          "first-page": "a171",
+          "DOI": "10.1136/bmj.a171",
+          "article-title": "Prognosis in patients with recent onset low back pain in Australian primary care: inception cohort study",
+          "volume": "337",
+          "author": "Henschke",
+          "year": "2008",
+          "journal-title": "Br Med J"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0025",
+          "doi-asserted-by": "crossref",
+          "first-page": "54",
+          "DOI": "10.1186/1471-2474-9-54",
+          "article-title": "An interdisciplinary clinical practice model for the management of low-back pain in primary care: the CLIP project",
+          "volume": "9",
+          "author": "Poitras",
+          "year": "2008",
+          "journal-title": "BMC Musculoskelet Disord"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0030",
+          "doi-asserted-by": "crossref",
+          "first-page": "167",
+          "DOI": "10.1016/j.berh.2009.12.005",
+          "article-title": "What is the prognosis of back pain?",
+          "volume": "24",
+          "author": "Hayden",
+          "year": "2010",
+          "journal-title": "Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0035",
+          "doi-asserted-by": "crossref",
+          "first-page": "545",
+          "DOI": "10.1053/berh.1999.0044",
+          "article-title": "Psychosocial approaches to the prevention of chronic pain: the low back paradigm",
+          "volume": "13",
+          "author": "Kendall",
+          "year": "1999",
+          "journal-title": "Baillieres Best Pract Res Clin Rheumatol"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "758",
+          "DOI": "10.1080/09638280110061744",
+          "article-title": "Determinants of chronic disability related to low back pain: towards an integrative biopsychosocial model",
+          "volume": "23",
+          "author": "Truchon",
+          "year": "2001",
+          "journal-title": "Disabil Rehabil"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0045",
+          "doi-asserted-by": "crossref",
+          "first-page": "2075",
+          "DOI": "10.1007/s00586-010-1502-y",
+          "article-title": "An updated overview of clinical guidelines for the management of non-specific low back pain in primary care",
+          "volume": "19",
+          "author": "Koes",
+          "year": "2010",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0050",
+          "doi-asserted-by": "crossref",
+          "first-page": "S169",
+          "DOI": "10.1007/s00586-006-1071-2",
+          "article-title": "Chapter 3. European guidelines for the management of acute nonspecific low back pain in primary care",
+          "volume": "15",
+          "author": "van Tulder",
+          "year": "2006",
+          "journal-title": "Eur Spine J"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0055",
+          "doi-asserted-by": "crossref",
+          "first-page": "12",
+          "DOI": "10.1093/fampra/cmq072",
+          "article-title": "Psychosocial risk factors for chronic low back pain in primary care-a systematic review",
+          "volume": "28",
+          "author": "Ramond",
+          "year": "2010",
+          "journal-title": "Fam Pract"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0060",
+          "doi-asserted-by": "crossref",
+          "first-page": "E109",
+          "DOI": "10.1097/00007632-200203010-00017",
+          "article-title": "A systematic review of psychological factors as predictors of chronicity/disability in prospective cohorts of low back pain",
+          "volume": "27",
+          "author": "Pincus",
+          "year": "2002",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0065",
+          "doi-asserted-by": "crossref",
+          "first-page": "1148",
+          "DOI": "10.1097/00007632-200005010-00017",
+          "article-title": "A review of psychological risk factors in back and neck pain",
+          "volume": "25",
+          "author": "Linton",
+          "year": "2000",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "1295",
+          "DOI": "10.1001/jama.2010.344",
+          "article-title": "Will this patient develop persistent disabling low back pain?",
+          "volume": "303",
+          "author": "Chou",
+          "year": "2010",
+          "journal-title": "J Am Med Assoc"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0075",
+          "doi-asserted-by": "crossref",
+          "first-page": "2163",
+          "DOI": "10.1016/S0140-6736(12)61729-2",
+          "article-title": "Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010",
+          "volume": "380",
+          "author": "Vos",
+          "year": "2012",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0080",
+          "doi-asserted-by": "crossref",
+          "first-page": "2433",
+          "DOI": "10.1001/archinte.163.20.2433",
+          "article-title": "Depression and pain comorbidity: a literature review",
+          "volume": "163",
+          "author": "Bair",
+          "year": "2003",
+          "journal-title": "Arch Intern Med"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0085",
+          "doi-asserted-by": "crossref",
+          "first-page": "587",
+          "DOI": "10.1007/s00296-013-2755-7",
+          "article-title": "Psychosocial, educational, and somatic factors in chronic nonspecific low back pain",
+          "volume": "33",
+          "author": "Vereckei",
+          "year": "2013",
+          "journal-title": "Rheumatol Int"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0090",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1016/0304-3959(92)90107-M",
+          "article-title": "The treatment of depression in chronic low back pain: review and recommendations",
+          "volume": "50",
+          "author": "Sullivan",
+          "year": "1992",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0095",
+          "doi-asserted-by": "crossref",
+          "first-page": "8",
+          "DOI": "10.1016/j.spinee.2007.10.005",
+          "article-title": "A systematic review of low back pain cost of illness studies in the United States and internationally",
+          "volume": "8",
+          "author": "Dagenais",
+          "year": "2008",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0100",
+          "doi-asserted-by": "crossref",
+          "first-page": "506",
+          "DOI": "10.1016/j.genhosppsych.2007.08.005",
+          "article-title": "Stepped care for affective disorders and musculoskeletal pain (SCAMP) study: design and practical implications of an intervention for comorbid pain and depression",
+          "volume": "29",
+          "author": "Kroenke",
+          "year": "2007",
+          "journal-title": "Gen Hosp Psychiatry"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0105",
+          "first-page": "17",
+          "article-title": "The economic burden of depression with painful symptoms",
+          "volume": "64",
+          "author": "Greenberg",
+          "year": "2003",
+          "journal-title": "J Clin Psychiatry"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0110",
+          "doi-asserted-by": "crossref",
+          "first-page": "79",
+          "DOI": "10.1016/j.jpsychores.2012.05.008",
+          "article-title": "Direct and indirect costs in persons with chronic back pain and comorbid mental disorders-a systematic review",
+          "volume": "73",
+          "author": "Baumeister",
+          "year": "2012",
+          "journal-title": "J Psychosom Res"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0115",
+          "doi-asserted-by": "crossref",
+          "first-page": "2008",
+          "DOI": "10.1001/jama.283.15.2008",
+          "article-title": "Meta-analysis of observational studies in epidemiology: a proposal for reporting. Meta-analysis of observational studies in epidemiology (MOOSE) group",
+          "volume": "283",
+          "author": "Stroup",
+          "year": "2000",
+          "journal-title": "JAMA"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0120",
+          "doi-asserted-by": "crossref",
+          "first-page": "224",
+          "DOI": "10.1136/bmj.323.7306.224",
+          "article-title": "Systematic reviews of evaluations of prognostic variables",
+          "volume": "323",
+          "author": "Altman",
+          "year": "2001",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0125",
+          "doi-asserted-by": "crossref",
+          "first-page": "806",
+          "DOI": "10.1136/bmj.39335.541782.AD",
+          "article-title": "Strengthening the reporting of observational studies in epidemiology (STROBE) statement: guidelines for reporting observational studies",
+          "volume": "335",
+          "author": "Von Elm",
+          "year": "2007",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0130",
+          "doi-asserted-by": "crossref",
+          "first-page": "1103",
+          "DOI": "10.1097/00007632-199306150-00023",
+          "article-title": "Predicting long-term disability in low back injured workers presenting to a spine consultant",
+          "volume": "18",
+          "author": "Lehmann",
+          "year": "1993",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0135",
+          "doi-asserted-by": "crossref",
+          "first-page": "2702",
+          "DOI": "10.1097/00007632-199512150-00011",
+          "article-title": "The dominant role of psychosocial risk factors in the development of chronic low back pain disability",
+          "volume": "20",
+          "author": "Gatchel",
+          "year": "1995",
+          "journal-title": "Spine"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0140",
+          "doi-asserted-by": "crossref",
+          "first-page": "92",
+          "DOI": "10.1097/00007632-200201010-00022",
+          "article-title": "Risk factors associated with the transition from acute to chronic occupational back pain",
+          "volume": "27",
+          "author": "Fransen",
+          "year": "2002",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0145",
+          "doi-asserted-by": "crossref",
+          "first-page": "162",
+          "DOI": "10.1016/j.pain.2005.06.002",
+          "article-title": "A longitudinal study on the predictive validity of the fear-avoidance model in low back pain",
+          "volume": "117",
+          "author": "Sieben",
+          "year": "2005",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0150",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.ejpain.2005.01.003",
+          "article-title": "Psycho-social factors and coping strategies as predictors of chronic evolution and quality of life in patients with low back pain: a prospective study",
+          "volume": "10",
+          "author": "Koleck",
+          "year": "2006",
+          "journal-title": "Eur J Pain"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0155",
+          "first-page": "4113",
+          "article-title": "Psychosocial predictors of pain chronicity in Navy servicemen. Dissertation Abstracts International: section B",
+          "volume": "67",
+          "author": "Patel",
+          "year": "2007",
+          "journal-title": "Sci Eng"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0160",
+          "doi-asserted-by": "crossref",
+          "first-page": "840",
+          "DOI": "10.1080/09638280802355163",
+          "article-title": "Acute low back pain: clinical course and prognostic factors",
+          "volume": "31",
+          "author": "Gurcay",
+          "year": "2009",
+          "journal-title": "Disabil Rehabil"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0165",
+          "doi-asserted-by": "crossref",
+          "first-page": "790",
+          "DOI": "10.1016/j.pain.2010.09.014",
+          "article-title": "Are prognostic indicators for poor outcome different for acute and chronic low back pain consulters in primary care?",
+          "volume": "151",
+          "author": "Grotle",
+          "year": "2010",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0170",
+          "doi-asserted-by": "crossref",
+          "first-page": "806",
+          "DOI": "10.1016/j.spinee.2011.11.012",
+          "article-title": "Predictors of short-term work-related disability among active duty US Navy personnel: a cohort study in patients with acute and subacute low back pain",
+          "volume": "12",
+          "author": "Hiebert",
+          "year": "2012",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0175",
+          "doi-asserted-by": "crossref",
+          "first-page": "288",
+          "DOI": "10.2486/indhealth.MS1335",
+          "article-title": "Predictors of sickness absence in patients with a new episode of low back pain in primary care",
+          "volume": "50",
+          "author": "Melloh",
+          "year": "2012",
+          "journal-title": "Ind Health"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0180",
+          "doi-asserted-by": "crossref",
+          "first-page": "541",
+          "DOI": "10.1007/s10926-012-9370-4",
+          "article-title": "Distressed, immobilized, or lacking employer support? A sub-classification of acute work-related low back pain",
+          "volume": "22",
+          "author": "Reme",
+          "year": "2012",
+          "journal-title": "J Occup Rehabil"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0185",
+          "doi-asserted-by": "crossref",
+          "first-page": "261",
+          "DOI": "10.1007/s00420-012-0761-9",
+          "article-title": "Prognostic occupational factors for persistent low back pain in primary care",
+          "volume": "86",
+          "author": "Melloh",
+          "year": "2013",
+          "journal-title": "Int Arch Occup Environ Health"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0190",
+          "doi-asserted-by": "crossref",
+          "first-page": "80",
+          "DOI": "10.1080/08964289.2013.779566",
+          "article-title": "Depression impacts the course of recovery in patients with acute low-back pain",
+          "volume": "39",
+          "author": "Melloh",
+          "year": "2013",
+          "journal-title": "Behav Med"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0195",
+          "doi-asserted-by": "crossref",
+          "first-page": "297",
+          "DOI": "10.3233/WOR-131672",
+          "article-title": "Who is likely to develop persistent low back pain? A longitudinal analysis of prognostic occupational factors",
+          "volume": "46",
+          "author": "Melloh",
+          "year": "2013",
+          "journal-title": "Work"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0200",
+          "doi-asserted-by": "crossref",
+          "first-page": "951",
+          "DOI": "10.1016/j.pain.2013.03.007",
+          "article-title": "Course and prognosis of older back pain patients in general practice: a prospective cohort study",
+          "volume": "154",
+          "author": "Scheele",
+          "year": "2013",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0205",
+          "doi-asserted-by": "crossref",
+          "first-page": "235",
+          "DOI": "10.1080/13548506.2013.780131",
+          "article-title": "Relationship between depressive symptoms and acute low back pain at first medical consultation, three and six weeks of primary care",
+          "volume": "19",
+          "author": "Elfering",
+          "year": "2014",
+          "journal-title": "Psychol Health Med"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0210",
+          "doi-asserted-by": "crossref",
+          "first-page": "4544",
+          "DOI": "10.1002/sim.2889",
+          "article-title": "Performance of the trim and fill method in the presence of publication bias and between-study heterogeneity",
+          "volume": "26",
+          "author": "Peters",
+          "year": "2007",
+          "journal-title": "Stat Med"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0215",
+          "doi-asserted-by": "crossref",
+          "first-page": "2639",
+          "DOI": "10.1016/j.spinee.2014.03.003",
+          "article-title": "Catastrophizing-a prognostic factor for outcome in patients with low back pain: a systematic review",
+          "volume": "14",
+          "author": "Wertli",
+          "year": "2014",
+          "journal-title": "Spine J"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0220",
+          "doi-asserted-by": "crossref",
+          "first-page": "552",
+          "DOI": "10.1016/j.jclinepi.2007.08.005",
+          "article-title": "Identifying phases of investigation helps planning, appraising, and applying the results of explanatory prognosis studies",
+          "volume": "61",
+          "author": "Hayden",
+          "year": "2008",
+          "journal-title": "J Clin Epidemiol"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0225",
+          "doi-asserted-by": "crossref",
+          "first-page": "116",
+          "DOI": "10.1097/00002508-199706000-00006",
+          "article-title": "Chronic pain-associated depression: antecedent or consequence of chronic pain? A review",
+          "volume": "13",
+          "author": "Fishbain",
+          "year": "1997",
+          "journal-title": "Clin J Pain"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0230",
+          "doi-asserted-by": "crossref",
+          "first-page": "969",
+          "DOI": "10.1176/appi.ajp.2008.08050721",
+          "article-title": "The evolution of the cognitive model of depression and its neurobiological correlates",
+          "volume": "165",
+          "author": "Beck",
+          "year": "2008",
+          "journal-title": "Am J Psychiatry"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0235",
+          "doi-asserted-by": "crossref",
+          "first-page": "79",
+          "DOI": "10.1111/j.1601-5215.2006.00130.x",
+          "article-title": "Depression and pain: an overview",
+          "volume": "18",
+          "author": "Williams",
+          "year": "2006",
+          "journal-title": "Acta Neuropsychiatr"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0240",
+          "doi-asserted-by": "crossref",
+          "first-page": "496",
+          "DOI": "10.1097/01.j.pain.0000460330.56256.25",
+          "article-title": "Genetics and the environment affect the relationship between depression and low back pain: a co-twin control study of Spanish twins",
+          "volume": "156",
+          "author": "Pinheiro",
+          "year": "2015",
+          "journal-title": "Pain"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0245",
+          "doi-asserted-by": "crossref",
+          "first-page": "1009",
+          "DOI": "10.1017/S0033291702005950",
+          "article-title": "Back-neck pain and symptoms of anxiety and depression: a population-based twin study",
+          "volume": "32",
+          "author": "Reichborn-Kjennerud",
+          "year": "2002",
+          "journal-title": "Psychol Med"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0250",
+          "doi-asserted-by": "crossref",
+          "first-page": "632",
+          "DOI": "10.1002/art.23563",
+          "article-title": "A primary care back pain screening tool: identifying patient subgroups for initial treatment",
+          "volume": "59",
+          "author": "Hill",
+          "year": "2008",
+          "journal-title": "Arthritis Rheum"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0255",
+          "doi-asserted-by": "crossref",
+          "first-page": "1560",
+          "DOI": "10.1016/S0140-6736(11)60937-9",
+          "article-title": "Comparison of stratified primary care management for low back pain with current best practice (STarT Back): a randomised controlled trial",
+          "volume": "378",
+          "author": "Hill",
+          "year": "2011",
+          "journal-title": "Lancet"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0260",
+          "doi-asserted-by": "crossref",
+          "first-page": "3100",
+          "DOI": "10.1097/00007632-200012150-00003",
+          "article-title": "Outcome assessments in the evaluation of treatment of spinal disorders: summary and general recommendations",
+          "volume": "25",
+          "author": "Bombardier",
+          "year": "2000",
+          "journal-title": "Spine (Phila Pa 1976)"
+        },
+        {
+          "key": "10.1016/j.spinee.2015.10.037_bib0265",
+          "doi-asserted-by": "crossref",
+          "first-page": "1175",
+          "DOI": "10.1016/j.spinee.2013.10.037",
+          "article-title": "What is the best screening test for depression in chronic spinal pain patients?",
+          "volume": "14",
+          "author": "Choi",
+          "year": "2014",
+          "journal-title": "Spine J"
+        }
+      ],
+      "container-title": [
+        "The Spine Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1529943015016228?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1529943015016228?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            9,
+            10
+          ]
+        ],
+        "date-time": "2020-09-10T21:53:21Z",
+        "timestamp": 1599774801000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1529943015016228"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            1
+          ]
+        ]
+      },
+      "references-count": 52,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1529943015016228"
+      ],
+      "URL": "https://doi.org/10.1016/j.spinee.2015.10.037",
+      "relation": {},
+      "ISSN": [
+        "1529-9430"
+      ],
+      "issn-type": [
+        {
+          "value": "1529-9430",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            1
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Symptoms of depression as a prognostic factor for low back pain: a systematic review",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "The Spine Journal",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.spinee.2015.10.037",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "Copyright © 2015 Elsevier Inc. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ]
+    }
+  }
+}
