@@ -1,0 +1,3768 @@
+[
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.apmr.2015.10.009 ",
+    "pmid": "",
+    "titre_confirme": "",
+    "journal": "",
+    "annee": null,
+    "evidence": "",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "doi_introuvable"
+    ],
+    "theme": "",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.1,
+    "sources_verif": [
+      "Crossref",
+      "Editeur"
+    ],
+    "ecarts_detectes": [
+      "doi_introuvable"
+    ]
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.berh.2011.01.019 ",
+    "pmid": "21665126",
+    "titre_confirme": "The epidemiology of neck pain",
+    "journal": "Best Practice & Research Clinical Rheumatology",
+    "annee": 2011,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion"
+    ],
+    "theme": "cervicalgie",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Synthèse narrative de l’épidémiologie de la cervicalgie sans recommandations thérapeutiques testées.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur",
+      "Crossref"
+    ],
+    "ecarts_detectes": [
+      "doi_invalide_corrige"
+    ]
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.jacr.2021.10.007 ",
+    "pmid": "",
+    "titre_confirme": "Do-It-Yourself Business Intelligence for the Radiologist",
+    "journal": "Journal of the American College of Radiology",
+    "annee": 2022,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Article de méthode informatique sans lien direct avec les prises en charge MSK.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "Editeur",
+      "Crossref"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.jbmt.2011.02.003 ",
+    "pmid": "22464121",
+    "titre_confirme": "Postural control under visual and proprioceptive perturbations during double and single limb stances: insights for balance training",
+    "journal": "Journal of Bodywork and Movement Therapies",
+    "annee": 2012,
+    "evidence": "",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_clinique",
+      "evidence_non_classee"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Étude expérimentale sur le contrôle postural; pas d’essai thérapeutique clinique.",
+    "confiance": 0.85,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.jclinepi.2011.01.012 ",
+    "pmid": "21839614",
+    "titre_confirme": "GRADE guidelines 6. Rating the quality of evidence—imprecision",
+    "journal": "Journal of Clinical Epidemiology",
+    "annee": 2011,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "guidance_methodologique"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Directive méthodologique GRADE sur l’imprécision; utile pour évaluer la preuve mais pas un essai clinique MSK.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.jclinepi.2024.111593 ",
+    "pmid": "39522740",
+    "titre_confirme": "Prediction models for outcomes in people with low back pain receiving conservative treatment: a systematic review",
+    "journal": "Journal of Clinical Epidemiology",
+    "annee": 2025,
+    "evidence": "SR/META",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "pronostic",
+    "multithemes": [
+      "douleur_chronique",
+      "exercice_therapeutique"
+    ],
+    "strategies": [
+      "éducation",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne",
+      "strategie_autogestion"
+    ],
+    "resume_utile": "Revue systématique des modèles pronostiques en lombalgie sous traitement conservateur; performances hétérogènes et faible validation externe.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.jcm.2009.12.004 ",
+    "pmid": "21629393",
+    "titre_confirme": "Abdominal and back pain in a 65-year-old patient with metastatic prostate cancer",
+    "journal": "Journal of Chiropractic Medicine",
+    "annee": 2010,
+    "evidence": "CAS",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_cas"
+    ],
+    "theme": "drapeaux_rouges",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [
+      "drapeaux_rouges",
+      "CI_absolue"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Cas illustrant l’importance du dépistage des drapeaux rouges et de l’orientation rapide en cancérologie.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.jcm.2010.09.004 ",
+    "pmid": "22014861",
+    "titre_confirme": "Knowledge, perceptions, and practices of chiropractic interns in screening for skin cancer",
+    "journal": "Journal of Chiropractic Medicine",
+    "annee": 2011,
+    "evidence": "",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "evidence_non_classee"
+    ],
+    "theme": "drapeaux_rouges",
+    "multithemes": [],
+    "strategies": [
+      "éducation"
+    ],
+    "safety": [
+      "drapeaux_rouges"
+    ],
+    "strategies_suggerees": [
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Enquête de pratiques sur le dépistage cutané par des internes; hors champ thérapeutique MSK.",
+    "confiance": 0.85,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.jcm.2010.10.006 ",
+    "pmid": "21774150",
+    "titre_confirme": "Non-Small Cell Carcinoma Diagnosed by a Chiropractor",
+    "journal": "Journal of Chiropractic Medicine",
+    "annee": 2011,
+    "evidence": "CAS",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_cas"
+    ],
+    "theme": "drapeaux_rouges",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [
+      "drapeaux_rouges",
+      "CI_absolue"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Cas soulignant la reconnaissance clinique et l’orientation urgente pour suspicion de cancer pulmonaire.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.jcm.2011.05.001 ",
+    "pmid": "22014905",
+    "titre_confirme": "Chiropractic spinal manipulative therapy for a geriatric patient with low back pain and comorbidities",
+    "journal": "Journal of Chiropractic Medicine",
+    "annee": 2011,
+    "evidence": "CAS",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_cas"
+    ],
+    "theme": "therapie_manuelle",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [],
+    "safety": [
+      "CI_relative",
+      "dosage_charge"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Cas unique chez sujet âgé; non généralisable pour la pratique.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.jcm.2017.11.004 ",
+    "pmid": "29983887",
+    "titre_confirme": "Metastatic Cancer and Deep Vein Thrombosis Presenting as Encapsulated Hematoma in the Iliopsoas of a Long-Distance Runner",
+    "journal": "Journal of Chiropractic Medicine",
+    "annee": 2018,
+    "evidence": "CAS",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_cas"
+    ],
+    "theme": "drapeaux_rouges",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [
+      "drapeaux_rouges",
+      "CI_absolue"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Cas illustrant les diagnostics graves mimant une douleur musculo-squelettique.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.math.2008.03.004 ",
+    "pmid": "18502165",
+    "titre_confirme": "Physical and psychological aspects of whiplash: Important considerations for primary care assessment. Part 2—Case studies",
+    "journal": "Manual Therapy",
+    "annee": 2009,
+    "evidence": "CAS",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_cas"
+    ],
+    "theme": "cervicalgie",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [],
+    "safety": [
+      "drapeaux_rouges"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Deux cas de coup du lapin pour illustrer l’évaluation biopsychosociale; pas de preuve d’efficacité thérapeutique.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.jmpt.2007.10.015 ",
+    "pmid": "",
+    "titre_confirme": "",
+    "journal": "",
+    "annee": null,
+    "evidence": "",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "doi_introuvable"
+    ],
+    "theme": "",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.1,
+    "sources_verif": [
+      "Crossref",
+      "Editeur"
+    ],
+    "ecarts_detectes": [
+      "doi_introuvable"
+    ]
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.explore.2009.06.008 ",
+    "pmid": "19733814",
+    "titre_confirme": "Integrative medicine and patient-centered care",
+    "journal": "Explore",
+    "annee": 2009,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [
+      "éducation"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Perspective sur les soins intégratifs centrés patient; sans essais MSK.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.clinbiomech.2009.07.011 ",
+    "pmid": "19703727",
+    "titre_confirme": "High magnitude cyclic load triggers inflammatory response in lumbar ligaments",
+    "journal": "Clinical Biomechanics",
+    "annee": 2009,
+    "evidence": "",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_clinique",
+      "evidence_non_classee"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [
+      "dosage_charge"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Étude expérimentale suggérant une réponse inflammatoire ligamentaire sous charges cycliques élevées.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.csm.2015.05.018 ",
+    "pmid": "",
+    "titre_confirme": "",
+    "journal": "Clinics in Sports Medicine",
+    "annee": 2015,
+    "evidence": "",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "titre_non_confirme"
+    ],
+    "theme": "",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.2,
+    "sources_verif": [
+      "Crossref",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.jbmt.2010.04.001 ",
+    "pmid": "20538227",
+    "titre_confirme": "About prevention",
+    "journal": "Journal of Bodywork and Movement Therapies",
+    "annee": 2010,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [
+      "éducation",
+      "conseils_activité"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne",
+      "strategie_conseils_activite"
+    ],
+    "resume_utile": "Éditorial conceptuel sur la prévention; pas d’essai contrôlé.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.jbmt.2009.01.005 ",
+    "pmid": "19524853",
+    "titre_confirme": "Breathing evaluation and retraining in manual therapy",
+    "journal": "Journal of Bodywork and Movement Therapies",
+    "annee": 2009,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion"
+    ],
+    "theme": "education_pne",
+    "multithemes": [
+      "douleur_chronique",
+      "therapie_manuelle"
+    ],
+    "strategies": [
+      "éducation",
+      "exercice_aérobie"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne",
+      "strategie_exercice_therapeutique"
+    ],
+    "resume_utile": "Proposition clinique sur l’évaluation et le réentraînement respiratoire en contexte thérapie manuelle.",
+    "confiance": 0.85,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.jbmt.2009.09.005 ",
+    "pmid": "",
+    "titre_confirme": "",
+    "journal": "",
+    "annee": null,
+    "evidence": "",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "titre_non_confirme",
+      "doi_introuvable"
+    ],
+    "theme": "",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.1,
+    "sources_verif": [
+      "Crossref",
+      "Editeur"
+    ],
+    "ecarts_detectes": [
+      "doi_introuvable"
+    ]
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.math.2008.11.002 ",
+    "pmid": "19121974",
+    "titre_confirme": "The association between degenerative hip joint pathology and size of the gluteus medius, gluteus minimus and piriformis muscles",
+    "journal": "Manual Therapy",
+    "annee": 2009,
+    "evidence": "",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_arthrose_genou",
+      "evidence_non_classee"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Étude morphologique IRM sur coxo-fémorale et muscles pelvi-trochantériens; pas d’intervention thérapeutique.",
+    "confiance": 0.85,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.math.2008.08.005 ",
+    "pmid": "18824391",
+    "titre_confirme": "Trunk muscle response to various protocols of lumbar traction",
+    "journal": "Manual Therapy",
+    "annee": 2009,
+    "evidence": "",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_non_classee",
+      "hors_perimetre_clinique"
+    ],
+    "theme": "therapie_manuelle",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [],
+    "safety": [
+      "dosage_charge"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Essais expérimentaux sur traction lombaire chez volontaires; pas d’issue clinique patient.",
+    "confiance": 0.85,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.math.2008.08.007 ",
+    "pmid": "18996732",
+    "titre_confirme": "Validity of the Doppler velocimeter in examination of vertebral artery blood flow and its use in pre-manipulative screening of the neck",
+    "journal": "Manual Therapy",
+    "annee": 2009,
+    "evidence": "",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "evidence_non_classee"
+    ],
+    "theme": "drapeaux_rouges",
+    "multithemes": [
+      "imagerie"
+    ],
+    "strategies": [],
+    "safety": [
+      "EI_manipulation",
+      "CI_relative"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Étude de validité instrumentale autour du screening pré-manipulatif cervical; implications de sécurité à discuter.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.jbmt.2015.02.003 ",
+    "pmid": "27814849",
+    "titre_confirme": "Multimodal compared to pharmacologic treatments for chronic tension-type headache in adolescents",
+    "journal": "Journal of Bodywork and Movement Therapies",
+    "annee": 2016,
+    "evidence": "",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "evidence_incertaine",
+      "population_non_lombalgie"
+    ],
+    "theme": "douleur_chronique",
+    "multithemes": [
+      "exercice_therapeutique",
+      "education_pne"
+    ],
+    "strategies": [
+      "éducation",
+      "renforcement_progressif",
+      "exposition_progressive"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_exercice_therapeutique",
+      "strategie_education_pne",
+      "strategie_exposition_progressive"
+    ],
+    "resume_utile": "Étude comparative non clairement randomisée chez adolescents avec céphalées de tension; pertinence indirecte pour MSK.",
+    "confiance": 0.8,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.msksp.2017.03.003 ",
+    "pmid": "28324697",
+    "titre_confirme": "Adverse events in a chiropractic spinal manipulative therapy single-blinded, placebo, randomized controlled trial for migraineurs",
+    "journal": "Musculoskeletal Science and Practice",
+    "annee": 2017,
+    "evidence": "RCT",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "therapie_manuelle",
+    "multithemes": [
+      "drapeaux_rouges"
+    ],
+    "strategies": [
+      "éducation"
+    ],
+    "safety": [
+      "EI_manipulation"
+    ],
+    "strategies_suggerees": [
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Essai randomisé rapportant des effets indésirables avec SMT chez migraineux : événements légers et transitoires dominés par sensibilité locale et fatigue, aucun événement grave observé.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.msksp.2018.09.006 ",
+    "pmid": "30273918",
+    "titre_confirme": "Centralization and directional preference: An updated systematic review with synthesis of previous evidence",
+    "journal": "Musculoskeletal Science and Practice",
+    "annee": 2018,
+    "evidence": "SR/META",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "preference_directionnelle",
+    "multithemes": [
+      "pronostic",
+      "douleur_chronique"
+    ],
+    "strategies": [
+      "éducation",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_preference_directionnelle",
+      "strategie_education_pne",
+      "strategie_autogestion"
+    ],
+    "resume_utile": "Revue systématique confirmant centralisation et préférence directionnelle comme indicateurs pronostiques utiles en rachialgies; pas de preuve d’effet-modérateur sur le traitement.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "Crossref",
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.spinee.2015.10.037 ",
+    "pmid": "26523965",
+    "titre_confirme": "Symptoms of depression as a prognostic factor for low back pain: a systematic review",
+    "journal": "The Spine Journal",
+    "annee": 2016,
+    "evidence": "SR/META",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "pronostic",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [
+      "éducation",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne",
+      "strategie_autogestion"
+    ],
+    "resume_utile": "La dépression est un facteur pronostique défavorable en lombalgie. Dépister et adresser les facteurs psycho-sociaux améliore la prise en charge.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur",
+      "Crossref"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1016/j.spinee.2019.01.006 ",
+    "pmid": "30708114",
+    "titre_confirme": "Comparison of the history and physical examination for hip osteoarthritis and lumbar spinal stenosis",
+    "journal": "The Spine Journal",
+    "annee": 2019,
+    "evidence": "COHORTE",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Comparaison des signes cliniques utiles pour distinguer coxarthrose et sténose lombaire afin d’aiguiller l’examen et l’orientation.",
+    "confiance": 0.85,
+    "sources_verif": [
+      "PubMed",
+      "Editeur",
+      "Crossref"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1067/mmt.2001.116417 ",
+    "pmid": "11514813",
+    "titre_confirme": "Chronic pediatric asthma and chiropractic spinal manipulation: A prospective clinical series and randomized clinical pilot study",
+    "journal": "Journal of Manipulative and Physiological Therapeutics",
+    "annee": 2001,
+    "evidence": "RCT",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Essai pilote chez enfants asthmatiques sans lien direct avec les prises en charge MSK de cabinet.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur",
+      "Crossref"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1067/mmt.2002.126127 ",
+    "pmid": "12183701",
+    "titre_confirme": "The Webster Technique: a chiropractic technique with obstetric implications",
+    "journal": "Journal of Manipulative and Physiological Therapeutics",
+    "annee": 2002,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion",
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Description narrative d’une technique en périnatalité sans données comparatives robustes.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur",
+      "Crossref"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1080/02640414.2017.1340660 ",
+    "pmid": "28636423",
+    "titre_confirme": "Fundamental motor skills: A systematic review of terminology",
+    "journal": "Journal of Sports Sciences",
+    "annee": 2018,
+    "evidence": "SR/META",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Revue terminologique en sciences du sport sans application clinique MSK directe.",
+    "confiance": 0.85,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1080/07399332.2012.655385 ",
+    "pmid": "22827728",
+    "titre_confirme": "The Use of Perineal Massage in the Second Stage of Labor and Follow-Up of Postpartum Perineal Outcomes",
+    "journal": "Health Care for Women International",
+    "annee": 2012,
+    "evidence": "RCT",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Essai obstétrical sans lien avec la prise en charge MSK.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1080/09593985.2018.1490839 ",
+    "pmid": "29985738",
+    "titre_confirme": "Association between changes in function among patients with lumbar impairments classified according to the STarT Back Screening Tool and managed by McKenzie credentialed physiotherapists",
+    "journal": "Physiotherapy Theory and Practice",
+    "annee": 2020,
+    "evidence": "COHORTE",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "pronostic",
+    "multithemes": [
+      "douleur_chronique",
+      "exercice_therapeutique"
+    ],
+    "strategies": [
+      "éducation",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne",
+      "strategie_autogestion"
+    ],
+    "resume_utile": "Cohorte suggérant une association entre profils STarT Back et évolution fonctionnelle en lombalgie sous prise en charge kiné.",
+    "confiance": 0.85,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1080/09593985.2019.1710881 ",
+    "pmid": "31910720",
+    "titre_confirme": "The McKenzie Method and its association with psychosocial outcomes in low back pain: a systematic review",
+    "journal": "Physiotherapy Theory and Practice",
+    "annee": 2021,
+    "evidence": "SR/META",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "preference_directionnelle",
+    "multithemes": [
+      "douleur_chronique",
+      "education_pne"
+    ],
+    "strategies": [
+      "éducation",
+      "MDT_extension",
+      "MDT_lat_shift"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_preference_directionnelle",
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Revue qualitative liant MDT à des améliorations psychosociales en lombalgie; prudence méthodologique requise.",
+    "confiance": 0.85,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1080/09638288.2020.1799248 ",
+    "pmid": "32735178",
+    "titre_confirme": "Outcome of group physical therapy treatment for non-specific low back pain patients can be predicted with the cross-culturally adapted and validated Hungarian version STarT back screening tool",
+    "journal": "Disability and Rehabilitation",
+    "annee": 2022,
+    "evidence": "COHORTE",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "pronostic",
+    "multithemes": [
+      "douleur_chronique",
+      "exercice_therapeutique"
+    ],
+    "strategies": [
+      "éducation",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne",
+      "strategie_autogestion"
+    ],
+    "resume_utile": "Validation et pouvoir prédictif du STarT Back version hongroise pour résultats en lombalgie traitée en groupe.",
+    "confiance": 0.85,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1080/09638288.2022.2114552 ",
+    "pmid": "36000960",
+    "titre_confirme": "Scapular movement training is not superior to standardized exercises in the treatment of individuals with chronic shoulder pain and scapular dyskinesis: randomized controlled trial",
+    "journal": "Disability and Rehabilitation",
+    "annee": 2023,
+    "evidence": "RCT",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_theme_controlle"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Essai épaule non aligné avec les thèmes contrôlés du projet.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1080/10255842.2020.1812844 ",
+    "pmid": "",
+    "titre_confirme": "The biomechanical Nature of nucleus Pulposus in a fissured disc revealed by quantitative MRI performed under dynamic conditions",
+    "journal": "Computer Methods in Biomechanics and Biomedical Engineering",
+    "annee": 2020,
+    "evidence": "",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_clinique",
+      "evidence_non_classee"
+    ],
+    "theme": "imagerie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Travail méthodologique IRM sans issue clinique patient.",
+    "confiance": 0.8,
+    "sources_verif": [
+      "Editeur",
+      "Crossref"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1080/10669817.2019.1661706 ",
+    "pmid": "31476129",
+    "titre_confirme": "A study exploring the prevalence of Extremity Pain of Spinal Source (EXPOSS)",
+    "journal": "Journal of Manual & Manipulative Therapy",
+    "annee": 2020,
+    "evidence": "COHORTE",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "controverse_editoriale"
+    ],
+    "theme": "methodologie",
+    "multithemes": [
+      "preference_directionnelle"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Étude observationnelle sur la proportion de douleurs d’extrémité d’origine spinale; résultats débattus dans la littérature.",
+    "confiance": 0.75,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1080/10669817.2019.1676969 ",
+    "pmid": "31638473",
+    "titre_confirme": "Lack of evidence for stating 'spinal source' of pain in EXPOSS study",
+    "journal": "Journal of Manual & Manipulative Therapy",
+    "annee": 2020,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "lettre_editoriale",
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Lettre critiquant la validité des conclusions de l’étude EXPOSS.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1080/10669817.2019.1676970 ",
+    "pmid": "31603035",
+    "titre_confirme": "Author's response to Anthony Halimi and David Poulter's letter to the editor regarding 'A study exploring the prevalence of extremity pain of spinal source (EXPOSS)'",
+    "journal": "Journal of Manual & Manipulative Therapy",
+    "annee": 2020,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "lettre_editoriale",
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Réponse des auteurs à la critique de l’étude EXPOSS.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1080/10669817.2022.2030625 ",
+    "pmid": "35076353",
+    "titre_confirme": "Exploring indicators of extremity pain of spinal source as identified by Mechanical Diagnosis and Therapy (MDT): a secondary analysis of a prospective cohort study",
+    "journal": "Journal of Manual & Manipulative Therapy",
+    "annee": 2022,
+    "evidence": "COHORTE",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "preference_directionnelle",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [
+      "éducation",
+      "MDT_extension"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_preference_directionnelle",
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Analyse secondaire identifiant des indicateurs cliniques suggérant une origine spinale à des douleurs d’extrémité selon MDT.",
+    "confiance": 0.85,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1080/14767058.2018.1512574 ",
+    "pmid": "30107756",
+    "titre_confirme": "Perineal massage during labor: a systematic review and meta-analysis of randomized controlled trials",
+    "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
+    "annee": 2020,
+    "evidence": "SR/META",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Métanalyse obstétricale hors champ MSK.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1080/24733938.2019.1705996 ",
+    "pmid": "",
+    "titre_confirme": "Do Niggles Matter? Increased injury risk following physical complaints in football (soccer)",
+    "journal": "Science and Medicine in Football",
+    "annee": 2020,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Cohorte en football sur risques de blessure liés aux plaintes mineures; non pertinent pour les thèmes contrôlés.",
+    "confiance": 0.85,
+    "sources_verif": [
+      "Editeur",
+      "Crossref"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/01.brs.0000146464.23007.2a ",
+    "pmid": "15564907",
+    "titre_confirme": "Does it matter which exercise? A randomized control trial of exercise for low back pain",
+    "journal": "Spine",
+    "annee": 2004,
+    "evidence": "RCT",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "preference_directionnelle",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [
+      "MDT_extension",
+      "MDT_flexion",
+      "MDT_lat_shift"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_preference_directionnelle"
+    ],
+    "resume_utile": "L’adaptation des exercices à la préférence directionnelle améliore douleur et consommation médicamenteuse en lombalgie.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/01.brs.0000214884.18502.93 ",
+    "pmid": "16641766",
+    "titre_confirme": "The McKenzie method for low back pain: a systematic review of the literature with a meta-analysis approach",
+    "journal": "Spine",
+    "annee": 2006,
+    "evidence": "SR/META",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "preference_directionnelle",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [
+      "éducation",
+      "MDT_extension"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_preference_directionnelle",
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Métanalyse sur MDT en lombalgie. Effets modestes et hétérogènes, dépendants de l’adéquation classification-traitement.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/ajp.0000000000000251 ",
+    "pmid": "25968448",
+    "titre_confirme": "Hormonal and Clinical Predictors for Post–egg Retrieval Pain in Women Undergoing Assisted Reproductive Technology Procedures",
+    "journal": "The Clinical Journal of Pain",
+    "annee": 2016,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Étude prédictive en reproduction assistée sans lien MSK.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/bpo.0000000000002779 ",
+    "pmid": "39140418",
+    "titre_confirme": "Efficacy of a Multimodal Surgical Site Injection for Postoperative Pain Control in Pediatric Patients With Cerebral Palsy Undergoing Hip Reconstruction: A Randomized Controlled Trial",
+    "journal": "Journal of Pediatric Orthopaedics",
+    "annee": 2024,
+    "evidence": "RCT",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Analgésie peropératoire en orthopédie pédiatrique; non applicable aux thématiques MSK du cabinet.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/bpo.0000000000002779 ",
+    "pmid": "39140418",
+    "titre_confirme": "Efficacy of a Multimodal Surgical Site Injection for Postoperative Pain Control in Pediatric Patients With Cerebral Palsy Undergoing Hip Reconstruction: A Randomized Controlled Trial",
+    "journal": "Journal of Pediatric Orthopaedics",
+    "annee": 2024,
+    "evidence": "RCT",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Essai analgésique peropératoire en chirurgie pédiatrique. Non pertinent pour la pratique MSK conservatrice.",
+    "confiance": 0.92,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/brs.0000000 ",
+    "pmid": "",
+    "titre_confirme": "",
+    "journal": "",
+    "annee": null,
+    "evidence": "",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "doi_introuvable"
+    ],
+    "theme": "",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.1,
+    "sources_verif": [
+      "Crossref"
+    ],
+    "ecarts_detectes": [
+      "doi_introuvable"
+    ]
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/brs.0000000000000059 ",
+    "pmid": "24108283",
+    "titre_confirme": "Expectation of recovery from low back pain: a longitudinal cohort study investigating patient characteristics related to expectations and the association between expectations and 3-month outcome",
+    "journal": "Spine",
+    "annee": 2014,
+    "evidence": "COHORTE",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "pronostic",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [
+      "éducation",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne",
+      "strategie_autogestion"
+    ],
+    "resume_utile": "Les attentes de récupération prédisent l’issue à 3 mois en lombalgie. Intégrer le recadrage et l’autogestion.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/brs.0000000000000981 ",
+    "pmid": "26020851",
+    "titre_confirme": "Do participants with low back pain who respond to spinal manipulative therapy differ biomechanically from nonresponders, untreated controls or asymptomatic controls?",
+    "journal": "Spine",
+    "annee": 2015,
+    "evidence": "COHORTE",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "evidence_non_classee_nonrandomisee"
+    ],
+    "theme": "therapie_manuelle",
+    "multithemes": [
+      "methodologie"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Étude contrôlée non randomisée sur mécanismes chez répondeurs SMT. Signal mécanistique sans implication thérapeutique directe.",
+    "confiance": 0.88,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/brs.0000000000004781 ",
+    "pmid": "37526092",
+    "titre_confirme": "Longitudinal Care Patterns and Utilization Among Patients With New-Onset Neck Pain by Initial Provider Specialty",
+    "journal": "Spine",
+    "annee": 2023,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_clinique"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Cohorte d’utilisation des soins selon spécialité initiale pour cervicalgies. Intérêt organisationnel plus que clinique.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/brs.0b013e3181644600 ",
+    "pmid": "18204390",
+    "titre_confirme": "Risk of vertebrobasilar stroke and chiropractic care",
+    "journal": "Spine",
+    "annee": 2008,
+    "evidence": "COHORTE",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "drapeaux_rouges",
+    "multithemes": [
+      "cervicalgie"
+    ],
+    "strategies": [],
+    "safety": [
+      "EI_manipulation"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Étude populationnelle suggérant absence d’excès de risque d’AVB lié aux manipulations; vigilance clinique indispensable.",
+    "confiance": 0.93,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/brs.0b013e3181644ae8 ",
+    "pmid": "18204385",
+    "titre_confirme": "Assessment of neck pain and its associated disorders: results of the Bone and Joint Decade 2000–2010 Task Force",
+    "journal": "Spine",
+    "annee": 2008,
+    "evidence": "GUIDELINE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "guidance_methodologique"
+    ],
+    "theme": "cervicalgie",
+    "multithemes": [
+      "methodologie"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Synthèse de recommandations pour la cervicalgie. Pas d’essai ou cohorte utilisable directement.",
+    "confiance": 0.92,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/brs.0b013e3182197fe1 ",
+    "pmid": "21593658",
+    "titre_confirme": "Spinal manipulative therapy for chronic low-back pain: an update of a Cochrane review",
+    "journal": "Spine",
+    "annee": 2011,
+    "evidence": "SR/META",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "therapie_manuelle",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [
+      "éducation"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Revue Cochrane actualisée: effets modestes de la SMT en lombalgie chronique, dépendants du contexte et des co-interventions.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/bsd.0000000000000284 ",
+    "pmid": "25985461",
+    "titre_confirme": "Cervical radiculopathy: epidemiology, etiology, diagnosis, and treatment",
+    "journal": "Journal of Spinal Disorders & Techniques",
+    "annee": 2015,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion"
+    ],
+    "theme": "cervicalgie",
+    "multithemes": [
+      "imagerie"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Revue narrative sur la radiculopathie cervicale. Pas d’essai ni cohorte.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/corr.0000000000001949 ",
+    "pmid": "34424222",
+    "titre_confirme": "What Factors Are Associated with Symptomatic Rotator Cuff Tears? A Systematic Review and Meta-analysis",
+    "journal": "Clinical Orthopaedics and Related Research",
+    "annee": 2022,
+    "evidence": "SR/META",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_theme_controlle"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Métanalyse sur facteurs de rupture de coiffe. Hors thématiques retenues.",
+    "confiance": 0.92,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/ede.0b013e3181c30fb2 ",
+    "pmid": "20010215",
+    "titre_confirme": "Assessing the performance of prediction models: a framework for traditional and novel measures",
+    "journal": "Epidemiology",
+    "annee": 2010,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "guidance_methodologique"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Cadre méthodologique d’évaluation des modèles prédictifs. Pas d’application MSK clinique directe.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/j.pain.0000000000000507 ",
+    "pmid": "26835783",
+    "titre_confirme": "Do we need a third mechanistic descriptor for chronic pain states?",
+    "journal": "PAIN",
+    "annee": 2016,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion"
+    ],
+    "theme": "douleur_chronique",
+    "multithemes": [
+      "methodologie"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Point de vue mécanistique sur la douleur chronique. Pas de données cliniques interventionnelles.",
+    "confiance": 0.93,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/j.pain.0000000000001211 ",
+    "pmid": "29596158",
+    "titre_confirme": "Spinal manipulation and exercise for low back pain in adolescents: a randomized trial",
+    "journal": "PAIN",
+    "annee": 2018,
+    "evidence": "RCT",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "exercice_therapeutique",
+    "multithemes": [
+      "douleur_chronique",
+      "therapie_manuelle"
+    ],
+    "strategies": [
+      "éducation",
+      "renforcement_progressif"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_exercice_therapeutique",
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Chez adolescents LBP, ajout SMT à l’exercice améliore douleur/fonction sur 1 an vs exercice seul.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur",
+      "PMC"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1097/phm.0b013e3182971321 ",
+    "pmid": "23739277",
+    "titre_confirme": "Improving Treadmill Performance in Patients with Lumbar Stenosis: Evaluation of a Custom Angle Load Reduction Device",
+    "journal": "American Journal of Physical Medicine & Rehabilitation",
+    "annee": 2013,
+    "evidence": "COHORTE",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "evidence_incertaine_dispositif"
+    ],
+    "theme": "methodologie",
+    "multithemes": [
+      "exercice_therapeutique"
+    ],
+    "strategies": [],
+    "safety": [
+      "dosage_charge"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Évaluation d’un déambulateur réduisant la charge en sténose lombaire; résultats préliminaires non randomisés.",
+    "confiance": 0.85,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1111/acem.12811 ",
+    "pmid": "26480290",
+    "titre_confirme": "An Observational Study of 2,248 Patients Presenting With Headache Suggestive of Subarachnoid Hemorrhage Who Received Lumbar Punctures Following Normal Head CT",
+    "journal": "Academic Emergency Medicine",
+    "annee": 2015,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Cohorte SAH aux urgences. Hors périmètre MSK.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1111/acem.13011 ",
+    "pmid": "27163866",
+    "titre_confirme": "Techniques for Improving Video Laryngoscopy With a Hyperangulated Blade",
+    "journal": "Academic Emergency Medicine",
+    "annee": 2016,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Note technique sur laryngoscopie. Sans lien MSK.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1111/cpf.12186 ",
+    "pmid": "25164268",
+    "titre_confirme": "Responses to static stretching are dependent on stretch intensity and duration",
+    "journal": "Clinical Physiology and Functional Imaging",
+    "annee": 2015,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_clinique"
+    ],
+    "theme": "methodologie",
+    "multithemes": [
+      "exercice_therapeutique"
+    ],
+    "strategies": [],
+    "safety": [
+      "dosage_charge"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Étude physiologique sur protocole d’étirement chez volontaires sains.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1111/cpf.12263 ",
+    "pmid": "26017182",
+    "titre_confirme": "Unilateral static and dynamic hamstrings stretching increases contralateral hip flexion range of motion",
+    "journal": "Clinical Physiology and Functional Imaging",
+    "annee": 2017,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_clinique"
+    ],
+    "theme": "methodologie",
+    "multithemes": [
+      "exercice_therapeutique"
+    ],
+    "strategies": [],
+    "safety": [
+      "dosage_charge"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Effet croisé d’étirements unilatéraux sur l’amplitude controlatérale chez adultes sains.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1111/ene.13166 ",
+    "pmid": "27696633",
+    "titre_confirme": "Chiropractic spinal manipulative therapy for migraine: a three-armed, single-blinded, placebo, randomized controlled trial",
+    "journal": "European Journal of Neurology",
+    "annee": 2017,
+    "evidence": "RCT",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_theme_controlle"
+    ],
+    "theme": "methodologie",
+    "multithemes": [
+      "drapeaux_rouges"
+    ],
+    "strategies": [],
+    "safety": [
+      "EI_manipulation"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Essai SMT chez migraineux. Thématique non ciblée par ce projet.",
+    "confiance": 0.93,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1111/iep.12029 ",
+    "pmid": "23837792",
+    "titre_confirme": "Continuum model of tendon pathology – where are we now?",
+    "journal": "International Journal of Experimental Pathology",
+    "annee": 2013,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion",
+      "hors_perimetre_theme_controlle"
+    ],
+    "theme": "methodologie",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Modèle conceptuel de progression tendineuse. Pas de données cliniques MSK pertinentes pour ce tri.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1111/iep.12029 ",
+    "pmid": "23837792",
+    "titre_confirme": "Continuum model of tendon pathology – where are we now?",
+    "journal": "International Journal of Experimental Pathology",
+    "annee": 2013,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [
+      "éducation"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Modèle conceptuel de progression de la tendinopathie sans données interventionnelles.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur",
+      "Crossref"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1111/j.1526-4610.2009.01550.x ",
+    "pmid": "19845788",
+    "titre_confirme": "Lack of Efficacy of Manual Therapy in Children and Adolescents With Suspected Cervicogenic Headache: Results of a Prospective Randomized Placebo-Controlled and Blinded Trial",
+    "journal": "Headache",
+    "annee": 2010,
+    "evidence": "RCT",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "cervicalgie",
+    "multithemes": [
+      "therapie_manuelle"
+    ],
+    "strategies": [
+      "éducation",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne",
+      "strategie_autogestion"
+    ],
+    "resume_utile": "Essai randomisé pédiatrique suggérant l’absence d’efficacité spécifique de la thérapie manuelle pour céphalée cervicogénique.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1111/papr.12253 ",
+    "pmid": "25469726",
+    "titre_confirme": "Treatment Considerations for Cancer Pain: A Global Perspective",
+    "journal": "Pain Practice",
+    "annee": 2015,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Revue narrative douleur cancéreuse, non applicable à la pratique MSK en cabinet.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1111/pme.12052 ",
+    "pmid": "",
+    "titre_confirme": "Not a Placebo, but Is It Effective?",
+    "journal": "Pain Medicine",
+    "annee": 2013,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion",
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Éditorial méthodologique sans données cliniques MSK.",
+    "confiance": 0.85,
+    "sources_verif": [
+      "Editeur",
+      "Crossref"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1111/sms.12111 ",
+    "pmid": "23944602",
+    "titre_confirme": "Effect of a 5-week static stretching program on hardness of the gastrocnemius muscle",
+    "journal": "Scandinavian Journal of Medicine & Science in Sports",
+    "annee": 2014,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_clinique"
+    ],
+    "theme": "methodologie",
+    "multithemes": [
+      "exercice_therapeutique"
+    ],
+    "strategies": [],
+    "safety": [
+      "dosage_charge"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Étude chez volontaires sains sur effets d’étirements; pas d’issue patient.",
+    "confiance": 0.88,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1111/sms.12957 ",
+    "pmid": "28801950",
+    "titre_confirme": "Can chronic stretching change the muscle-tendon mechanical properties? A review",
+    "journal": "Scandinavian Journal of Medicine & Science in Sports",
+    "annee": 2018,
+    "evidence": "SR/META",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_clinique"
+    ],
+    "theme": "methodologie",
+    "multithemes": [
+      "exercice_therapeutique"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Revue sur adaptations aux étirements surtout chez sujets sains; transfert clinique MSK limité.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1136/bjsm.2007.038406 ",
+    "pmid": "17720798",
+    "titre_confirme": "Physical examination tests of the shoulder: a systematic review with meta-analysis of individual tests",
+    "journal": "British Journal of Sports Medicine",
+    "annee": 2008,
+    "evidence": "SR/META",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_theme_controlle"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Diagnostic de l’épaule hors des thèmes contrôlés.",
+    "confiance": 0.92,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1136/bjsm.2008.051193 ",
+    "pmid": "18812414",
+    "titre_confirme": "Is tendon pathology a continuum? A pathology model to explain the clinical presentation of load-induced tendinopathy",
+    "journal": "British Journal of Sports Medicine",
+    "annee": 2009,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [
+      "éducation"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Modèle explicatif des tendinopathies induites par charge sans essai clinique.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1136/bjsm.2011.084079 ",
+    "pmid": "21367808",
+    "titre_confirme": "Risk factors for patellar tendinopathy: a systematic review of the literature",
+    "journal": "British Journal of Sports Medicine",
+    "annee": 2011,
+    "evidence": "SR/META",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_theme_controlle"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Revue facteurs de risque du genou du sauteur hors thèmes du projet.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1136/bjsm.36.6.392 ",
+    "pmid": "12453831",
+    "titre_confirme": "Understanding tendinopathies",
+    "journal": "British Journal of Sports Medicine",
+    "annee": 2002,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Article de synthèse non systématique sur tendinopathies.",
+    "confiance": 0.88,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1136/bmj.b2535 ",
+    "pmid": "19622551",
+    "titre_confirme": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+    "journal": "BMJ",
+    "annee": 2009,
+    "evidence": "GUIDELINE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "guidance_methodologique"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Recommandations de reporting, utiles pour lecture critique mais pas d’impact thérapeutique direct.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "BMJ",
+      "PubMed"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1136/bmj.b3883 ",
+    "pmid": "19812130",
+    "titre_confirme": "Cervical collar or physiotherapy versus wait and see policy for recent onset cervical radiculopathy: randomised trial",
+    "journal": "BMJ",
+    "annee": 2009,
+    "evidence": "RCT",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "cervicalgie",
+    "multithemes": [
+      "exercice_therapeutique"
+    ],
+    "strategies": [
+      "éducation",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne",
+      "strategie_autogestion"
+    ],
+    "resume_utile": "Chez radiculopathie cervicale récente, collier ou kinésithérapie réduisent plus la douleur que l’attente active sur 6 semaines.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "BMJ",
+      "PubMed"
+    ],
+    "ecarts_detectes": [
+      "doi_invalide_corrige"
+    ]
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1136/bmj.f7095 ",
+    "pmid": "24335669",
+    "titre_confirme": "Red flags to screen for malignancy and fracture in patients with low back pain: systematic review",
+    "journal": "BMJ",
+    "annee": 2013,
+    "evidence": "SR/META",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "drapeaux_rouges",
+    "multithemes": [
+      "imagerie"
+    ],
+    "strategies": [
+      "éducation"
+    ],
+    "safety": [
+      "drapeaux_rouges",
+      "CI_absolue"
+    ],
+    "strategies_suggerees": [
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Beaucoup de drapeaux rouges modifient peu la probabilité de cancer ou fracture; privilégier ceux validés et le contexte clinique.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "BMJ",
+      "PubMed"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1136/bmj.g1687 ",
+    "pmid": "24609605",
+    "titre_confirme": "Better reporting of interventions: template for intervention description and replication (TIDieR) checklist and guide",
+    "journal": "BMJ",
+    "annee": 2014,
+    "evidence": "GUIDELINE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "guidance_methodologique"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Checklist de description d’intervention; utile pour recherche mais hors décision clinique directe.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "BMJ",
+      "PubMed"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1136/bmj.l5358 ",
+    "pmid": "31585960",
+    "titre_confirme": "Prognostic models for outcome prediction in patients with chronic obstructive pulmonary disease: systematic review and critical appraisal",
+    "journal": "BMJ",
+    "annee": 2019,
+    "evidence": "SR/META",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Revue pronostique en BPCO, sans lien MSK.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "BMJ",
+      "PubMed"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1136/bmj.l540 ",
+    "pmid": "30713141",
+    "titre_confirme": "Improve scheduling to perform an extra 291 000 elective operations a year, trusts are told",
+    "journal": "BMJ",
+    "annee": 2019,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Actualité organisationnelle sans impact thérapeutique MSK.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "BMJ",
+      "PubMed"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1136/bmj.n71 ",
+    "pmid": "33782057",
+    "titre_confirme": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+    "journal": "BMJ",
+    "annee": 2021,
+    "evidence": "GUIDELINE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "guidance_methodologique"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Mise à jour PRISMA pour le reporting des revues systématiques.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "BMJ",
+      "PubMed"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1136/oem.2007.036046 ",
+    "pmid": "18417552",
+    "titre_confirme": "Psychosocial predictors of failure to return to work in non-chronic non-specific low back pain: a systematic review",
+    "journal": "Occupational and Environmental Medicine",
+    "annee": 2008,
+    "evidence": "SR/META",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "pronostic",
+    "multithemes": [
+      "douleur_chronique",
+      "education_pne"
+    ],
+    "strategies": [
+      "éducation",
+      "exposition_progressive",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne",
+      "strategie_exposition_progressive",
+      "strategie_autogestion"
+    ],
+    "resume_utile": "Facteurs psycho-sociaux prédisent l’échec de reprise du travail en lombalgie non chronique; cibler croyances et comportements.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1148/radiology.164 ",
+    "pmid": "",
+    "titre_confirme": "",
+    "journal": "",
+    "annee": null,
+    "evidence": "",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "doi_introuvable"
+    ],
+    "theme": "",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.2,
+    "sources_verif": [
+      "Crossref",
+      "Editeur"
+    ],
+    "ecarts_detectes": [
+      "doi_introuvable"
+    ]
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.11591/edulearn.v19i1.21209 ",
+    "pmid": "",
+    "titre_confirme": "The comparative study of general intelligence and scholastic in urban, highland, and coastal students",
+    "journal": "Journal of Education and Learning (EduLearn)",
+    "annee": 2025,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Étude éducative sans lien MSK.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.11591/edulearn.v19i1.21853 ",
+    "pmid": "",
+    "titre_confirme": "An analysis of first years senior high school students' mental models: a case study on the concept of uniform motion",
+    "journal": "Journal of Education and Learning (EduLearn)",
+    "annee": 2025,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Étude en didactique de la physique, hors champ MSK.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "Editeur",
+      "ERIC"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.11591/edulearn.v19i1.21853 ",
+    "pmid": "",
+    "titre_confirme": "An analysis of first years senior high school students' mental models: a case study on the concept of uniform motion",
+    "journal": "Journal of Education and Learning (EduLearn)",
+    "annee": 2025,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.9,
+    "sources_verif": [
+      "Editeur",
+      "Crossref"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.11604/pamj.2017.27.108.10036 ",
+    "pmid": "28819529",
+    "titre_confirme": "Profil épidémiologique des complications maternelles liées à la césarienne à l’hôpital Al Farabi d’Oujda",
+    "journal": "Pan African Medical Journal",
+    "annee": 2017,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1196/annals.1351.019 ",
+    "pmid": "16855148",
+    "titre_confirme": "Epidemiological aspects of rheumatoid arthritis: the sex ratio",
+    "journal": "Annals of the New York Academy of Sciences",
+    "annee": 2006,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.15556/ijiim.01.01.001 ",
+    "pmid": "",
+    "titre_confirme": "The role of financial statement analysis in the decision making procedures of hotel units",
+    "journal": "International Journal on Integrated Information Management",
+    "annee": 2012,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.85,
+    "sources_verif": [
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.1589/jpts.28.1219 ",
+    "pmid": "27190456",
+    "titre_confirme": "Acute effect of scapular proprioceptive neuromuscular facilitation (PNF) techniques and classic exercises in adhesive capsulitis: A randomized controlled trial",
+    "journal": "Journal of Physical Therapy Science",
+    "annee": 2016,
+    "evidence": "RCT",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_theme_controlle"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.93,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.21105/joss.01686 ",
+    "pmid": "",
+    "titre_confirme": "Welcome to the Tidyverse",
+    "journal": "Journal of Open Source Software",
+    "annee": 2019,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.98,
+    "sources_verif": [
+      "Editeur",
+      "Crossref"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.21203/rs.3.rs-536100/v1 ",
+    "pmid": "",
+    "titre_confirme": "",
+    "journal": "Research Square",
+    "annee": 2021,
+    "evidence": "COHORTE",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "preprint_non_peer_review"
+    ],
+    "theme": "",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.4,
+    "sources_verif": [
+      "Crossref",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.21276/ijchmr.2016.2.2.10 ",
+    "pmid": "",
+    "titre_confirme": "Giant Cells in Health and Disease—A Review",
+    "journal": "International Journal of Community Health and Medical Research",
+    "annee": 2016,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.9,
+    "sources_verif": [
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.21276/ijchmr.2016.2.2.11 ",
+    "pmid": "",
+    "titre_confirme": "Behavioral Screening Tests to Detect Hearing Loss in School Aged Children—A Review",
+    "journal": "International Journal of Community Health and Medical Research",
+    "annee": 2016,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.9,
+    "sources_verif": [
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.21276/ijchmr.2016.2.2.12 ",
+    "pmid": "",
+    "titre_confirme": "Glaucoma: Risk Factors and Prevalence—A Review",
+    "journal": "International Journal of Community Health and Medical Research",
+    "annee": 2016,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.9,
+    "sources_verif": [
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2004.34.10.601 ",
+    "pmid": "15552706",
+    "titre_confirme": "Pronator syndrome and other nerve compressions that mimic carpal tunnel syndrome",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2004,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [
+      "cervicalgie"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.96,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2005.35.1.24 ",
+    "pmid": "15754601",
+    "titre_confirme": "The MedRisk Instrument for Measuring Patient Satisfaction With Physical Therapy Care: a psychometric analysis",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2005,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_clinique_mesure_satisfaction"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2008.0303 ",
+    "pmid": "18758050",
+    "titre_confirme": "Neck pain: Clinical practice guidelines linked to the International Classification of Functioning, Disability, and Health from the Orthopaedic Section of the American Physical Therapy Association",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2008,
+    "evidence": "GUIDELINE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "guidance_methodologique"
+    ],
+    "theme": "cervicalgie",
+    "multithemes": [
+      "education_pne"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.97,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2008.2658 ",
+    "pmid": "18349481",
+    "titre_confirme": "Effect of Stabilization Training On Multifidus Muscle Cross-sectional Area Among Young Elite Cricketers With Low Back Pain",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2008,
+    "evidence": "COHORTE",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "exercice_therapeutique",
+    "multithemes": [
+      "douleur_chronique",
+      "radiculopathie_lombaire"
+    ],
+    "strategies": [
+      "renforcement_progressif",
+      "éducation"
+    ],
+    "safety": [
+      "dosage_charge"
+    ],
+    "strategies_suggerees": [
+      "strategie_renforcement_progressif",
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Chez jeunes sportifs lombalgiques, un programme de stabilisation augmente la CSA du multifidus et s’accompagne d’une baisse de douleur.",
+    "confiance": 0.92,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2009.3088 ",
+    "pmid": "19648721",
+    "titre_confirme": "The Effect of Averaging Multiple Trials on Measurement of Transversus Abdominis and Lumbar Multifidus Thickness",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2009,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_clinique",
+      "methodologie_mesure"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.93,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2009.3128 ",
+    "pmid": "19881003",
+    "titre_confirme": "Changes in Lateral Abdominal Muscle Thickness During the Abdominal Drawing-in Maneuver in Those With Lumbopelvic Pain",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2009,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_clinique",
+      "physiologie_sans_issue_patient"
+    ],
+    "theme": "methodologie",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.92,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2011.3632 ",
+    "pmid": "21471653",
+    "titre_confirme": "Association Between Changes in Abdominal and Lumbar Multifidus Muscle Thickness and Clinical Improvement After Spinal Manipulation",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2011,
+    "evidence": "COHORTE",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "niveau_preuve_faible_serie_cas"
+    ],
+    "theme": "therapie_manuelle",
+    "multithemes": [
+      "methodologie"
+    ],
+    "strategies": [],
+    "safety": [
+      "EI_manipulation"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Série prospective liant amélioration clinique post-SMT et épaississement du multifidus. Signal mécanistique, pas de preuve d’efficacité causale.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2013.0104 ",
+    "pmid": "23636096",
+    "titre_confirme": "What's in a name? Using movement system diagnoses versus pathoanatomic diagnoses",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2013,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion"
+    ],
+    "theme": "methodologie",
+    "multithemes": [
+      "education_pne"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "",
+    "confiance": 0.96,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2014.5065 ",
+    "pmid": "24405257",
+    "titre_confirme": "Exercise Only, Exercise With Mechanical Traction, or Exercise With Over-Door Traction for Patients With Neck Pain: A Randomized Clinical Trial",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2014,
+    "evidence": "RCT",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "cervicalgie",
+    "multithemes": [
+      "exercice_therapeutique",
+      "imagerie"
+    ],
+    "strategies": [
+      "éducation",
+      "conseils_activité",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_exercice_therapeutique",
+      "strategie_education_pne",
+      "strategie_conseils_activite"
+    ],
+    "resume_utile": "Chez cervicalgie radiculaire, ajouter traction mécanique à l’exercice réduit plus douleur/incapacité à moyen-long terme que exercice seul.",
+    "confiance": 0.96,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2014.5108 ",
+    "pmid": "24568260",
+    "titre_confirme": "Short-Term Changes in Neck Pain, Widespread Pressure Pain Sensitivity, and Cervical Range of Motion After the Application of Trigger Point Dry Needling in Patients With Acute Mechanical Neck Pain: A Randomized Clinical Trial",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2014,
+    "evidence": "RCT",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "cervicalgie",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [
+      "éducation",
+      "conseils_activité"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne",
+      "strategie_conseils_activite"
+    ],
+    "resume_utile": "Une séance de dry needling diminue la douleur et améliore l’amplitude cervicale à court terme chez cervicalgie mécanique aiguë.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2016.5979 ",
+    "pmid": "26755405",
+    "titre_confirme": "A Comparison of the Effects of Stabilization Exercises Plus Manual Therapy to Those of Stabilization Exercises Alone in Patients With Nonspecific Mechanical Neck Pain: A Randomized Clinical Trial",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2016,
+    "evidence": "RCT",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "cervicalgie",
+    "multithemes": [
+      "exercice_therapeutique",
+      "therapie_manuelle"
+    ],
+    "strategies": [
+      "éducation",
+      "renforcement_progressif",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_exercice_therapeutique",
+      "strategie_renforcement_progressif",
+      "strategie_autogestion"
+    ],
+    "resume_utile": "Exercices de stabilisation + thérapie manuelle améliorent davantage incapacité et rotation cervicale que exercices seuls sur 4 semaines.",
+    "confiance": 0.96,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2016.6366 ",
+    "pmid": "27049600",
+    "titre_confirme": "Lumbar Thrust Manipulation and Exercise for the Treatment of Mechanical Low Back Pain in Adolescents: A Case Series",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2016,
+    "evidence": "CAS",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "serie_de_cas_niveau_preuve_faible"
+    ],
+    "theme": "therapie_manuelle",
+    "multithemes": [
+      "douleur_chronique",
+      "exercice_therapeutique"
+    ],
+    "strategies": [],
+    "safety": [
+      "EI_manipulation",
+      "dosage_charge"
+    ],
+    "strategies_suggerees": [],
+    "resume_utile": "Série de 3 adolescents LBP traités par manipulation + exercice. Faisabilité et sécurité, pas de preuve d’efficacité comparative.",
+    "confiance": 0.93,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2017.0302 ",
+    "pmid": "28666405",
+    "titre_confirme": "Neck Pain: Revision 2017: Clinical Practice Guidelines Linked to the International Classification of Functioning, Disability, and Health From the Orthopaedic Section of the American Physical Therapy Association",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2017,
+    "evidence": "GUIDELINE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "guidance_methodologique"
+    ],
+    "theme": "cervicalgie",
+    "multithemes": [
+      "education_pne"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Recommandations de pratique pour la cervicalgie. Utile pour contexte mais pas une étude incluse.",
+    "confiance": 0.96,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2017.7415 ",
+    "pmid": "28355981",
+    "titre_confirme": "Risk of Recurrence of Low Back Pain: A Systematic Review",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2017,
+    "evidence": "SR/META",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "pronostic",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [
+      "éducation",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne",
+      "strategie_autogestion"
+    ],
+    "resume_utile": "Rechutes fréquentes après LBP mais estimations incertaines. Recadrer attentes et planifier autogestion.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2021.0507 ",
+    "pmid": "34719940",
+    "titre_confirme": "Clinical Guidelines to Address Low Back Pain: Using the Evidence to Guide Physical Therapist Practice",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2021,
+    "evidence": "GUIDELINE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "guidance_methodologique"
+    ],
+    "theme": "douleur_chronique",
+    "multithemes": [
+      "education_pne",
+      "exercice_therapeutique"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Perspective/CPG sur LBP. Non éligible comme étude primaire.",
+    "confiance": 0.94,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/jospt.2024.12081 ",
+    "pmid": "38356405",
+    "titre_confirme": "Prognostic models for chronic low back pain outcomes in primary care are at high risk of bias and lack validation—high-quality studies are needed: A systematic review",
+    "journal": "Journal of Orthopaedic & Sports Physical Therapy",
+    "annee": 2024,
+    "evidence": "SR/META",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "pronostic",
+    "multithemes": [
+      "douleur_chronique",
+      "methodologie"
+    ],
+    "strategies": [
+      "éducation"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Les modèles pronostiques LBP en soins primaires sont à haut risque de biais. Ne pas s’y fier pour décisions individuelles.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2519/josptopen.2023.1134 ",
+    "pmid": "",
+    "titre_confirme": "Adding Manual Therapy to an Exercise Program Improves Long-Term Patient Outcomes Over Exercise Alone in Patients With Subacromial Shoulder Pain: A Randomized Clinical Trial",
+    "journal": "JOSPT Open",
+    "annee": 2024,
+    "evidence": "RCT",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_theme_controlle_epaule"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Essai chez douleur sous-acromiale. Hors thèmes contrôlés centrés rachis/douleur MSK ciblée.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2522/ptj.20060192 ",
+    "pmid": "17374633",
+    "titre_confirme": "Preliminary Examination of a Proposed Treatment-Based Classification System for Patients Receiving Physical Therapy Interventions for Neck Pain",
+    "journal": "Physical Therapy",
+    "annee": 2007,
+    "evidence": "COHORTE",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "objectif_classification_non_therapeutique"
+    ],
+    "theme": "cervicalgie",
+    "multithemes": [
+      "methodologie"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Étude observationnelle sur classification cervicalgie. Intérêt méthodologique, impact clinique indirect.",
+    "confiance": 0.92,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2522/ptj.20080283 ",
+    "pmid": "19465371",
+    "titre_confirme": "Manual Therapy, Exercise, and Traction for Patients With Cervical Radiculopathy: A Randomized Clinical Trial",
+    "journal": "Physical Therapy",
+    "annee": 2009,
+    "evidence": "RCT",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "cervicalgie",
+    "multithemes": [
+      "exercice_therapeutique",
+      "therapie_manuelle"
+    ],
+    "strategies": [
+      "éducation",
+      "renforcement_progressif"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_exercice_therapeutique",
+      "strategie_renforcement_progressif"
+    ],
+    "resume_utile": "Ajout traction + thérapie manuelle à l’exercice améliore douleur/incapacité dans radiculopathie cervicale.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2522/ptj.20080351 ",
+    "pmid": "19465372",
+    "titre_confirme": "A Guide to Interpretation of Studies Investigating Subgroups of Responders to Physical Therapy Interventions",
+    "journal": "Physical Therapy",
+    "annee": 2009,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion",
+      "guidance_methodologique"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Article d’orientation méthodologique sans données primaires pertinentes.",
+    "confiance": 0.93,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2522/ptj.20100061 ",
+    "pmid": "21071504",
+    "titre_confirme": "Patient Satisfaction With Musculoskeletal Physical Therapy Care: A Systematic Review",
+    "journal": "Physical Therapy",
+    "annee": 2011,
+    "evidence": "SR/META",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_clinique_satisfaction"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Revue sur satisfaction patient MSK. Pas de stratégie thérapeutique.",
+    "confiance": 0.94,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2522/ptj.20100109 ",
+    "pmid": "21451094",
+    "titre_confirme": "Relationship Between Categorization With the STarT Back Screening Tool and Prognosis for People Receiving Physical Therapy for Low Back Pain",
+    "journal": "Physical Therapy",
+    "annee": 2011,
+    "evidence": "COHORTE",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "pronostic",
+    "multithemes": [
+      "douleur_chronique",
+      "education_pne"
+    ],
+    "strategies": [
+      "éducation",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne",
+      "strategie_autogestion"
+    ],
+    "resume_utile": "Stratification STarT Back liée au pronostic chez LBP en kinésithérapie. Utile pour cibler l’éducation et l’auto-gestion.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2522/ptj.20100251 ",
+    "pmid": "22247407",
+    "titre_confirme": "Efficacy of Directional Preference Management for Low Back Pain: A Systematic Review",
+    "journal": "Physical Therapy",
+    "annee": 2012,
+    "evidence": "SR/META",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "preference_directionnelle",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [
+      "MDT_extension",
+      "éducation"
+    ],
+    "safety": [
+      "dosage_charge"
+    ],
+    "strategies_suggerees": [
+      "strategie_preference_directionnelle",
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Les approches basées sur préférence directionnelle montrent des effets chez LBP, selon sous-groupes et protocoles.",
+    "confiance": 0.93,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2522/ptj.20100272 ",
+    "pmid": "21330450",
+    "titre_confirme": "Evaluation of a Treatment-Based Classification Algorithm for Low Back Pain: A Cross-Sectional Study",
+    "journal": "Physical Therapy",
+    "annee": 2011,
+    "evidence": "COHORTE",
+    "inclusion": "a_revoir",
+    "raisons_exclusion": [
+      "transversal_non_interventionnel"
+    ],
+    "theme": "methodologie",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Évaluation d’un algorithme de classification LBP. Résultats utiles pour triage, pas d’effet thérapeutique testé.",
+    "confiance": 0.92,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2522/ptj.20100280 ",
+    "pmid": "21451093",
+    "titre_confirme": "Psychosocial Influences on Low Back Pain, Disability, and Response to Treatment",
+    "journal": "Physical Therapy",
+    "annee": 2011,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "evidence_faible_opinion"
+    ],
+    "theme": "douleur_chronique",
+    "multithemes": [
+      "education_pne",
+      "cft"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Point de vue sur une pratique informée par facteurs psychosociaux. Non éligible.",
+    "confiance": 0.93,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.2522/ptj.20110388 ",
+    "pmid": "22595238",
+    "titre_confirme": "Prognostic Factors for Recovery in Chronic Nonspecific Low Back Pain: A Systematic Review",
+    "journal": "Physical Therapy",
+    "annee": 2012,
+    "evidence": "SR/META",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "pronostic",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [
+      "éducation",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne",
+      "strategie_autogestion"
+    ],
+    "resume_utile": "Facteurs pronostiques identifiés en LBP chronique non spécifique. Guide la communication et la planification de soins.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.3138/ptc.2014-37f ",
+    "pmid": "26839449",
+    "titre_confirme": "Une version franco-canadienne de la Physiotherapy Evidence Database (PEDro) Scale : L'Échelle PEDro",
+    "journal": "Physiotherapy Canada",
+    "annee": 2015,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "guidance_methodologique",
+      "hors_perimetre_clinique"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Adaptation linguistique de l’échelle PEDro. Outil d’évaluation, non intervention.",
+    "confiance": 0.93,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.31616/asj.2022.0366 ",
+    "pmid": "36266248",
+    "titre_confirme": "Lumbar Spinal Stenosis: Review Update 2022",
+    "journal": "Asian Spine Journal",
+    "annee": 2022,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "revue_narrative"
+    ],
+    "theme": "radiculopathie_lombaire",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Mise à jour narrative sur sténose lombaire. Pas de données primaires comparatives.",
+    "confiance": 0.94,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.3171/2017.2.spine16760 ",
+    "pmid": "28753064",
+    "titre_confirme": "One-year outcomes of early-crossover patients in a cohort receiving nonoperative care for lumbar disc herniation",
+    "journal": "Journal of Neurosurgery: Spine",
+    "annee": 2017,
+    "evidence": "COHORTE",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "radiculopathie_lombaire",
+    "multithemes": [
+      "douleur_chronique"
+    ],
+    "strategies": [
+      "éducation",
+      "conseils_activité",
+      "auto_gestion"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_conseils_activite",
+      "strategie_autogestion"
+    ],
+    "resume_utile": "Cohorte LDH non opérée avec passages précoces vers chirurgie. Informe le parcours de soins et le counseling.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.31729/jnma.4282 ",
+    "pmid": "31477935",
+    "titre_confirme": "Prevalence of Cesarean Section and Its Indications in A Tertiary Care Hospital",
+    "journal": "JNMA: Journal of the Nepal Medical Association",
+    "annee": 2019,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Étude obstétricale sans lien MSK ciblé.",
+    "confiance": 0.96,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.3174/ajnr.a4498 ",
+    "pmid": "26359154",
+    "titre_confirme": "MRI Findings of Disc Degeneration Are More Prevalent in Adults With Low Back Pain Than in Asymptomatic Controls: A Systematic Review and Meta-Analysis",
+    "journal": "American Journal of Neuroradiology",
+    "annee": 2015,
+    "evidence": "SR/META",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "imagerie",
+    "multithemes": [
+      "douleur_chronique",
+      "radiculopathie_lombaire"
+    ],
+    "strategies": [
+      "éducation"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Certains signes de dégénérescence sont plus fréquents chez lombalgiques ≤50 ans. Aide à interpréter l’imagerie sans catastrophisme.",
+    "confiance": 0.95,
+    "sources_verif": [
+      "PubMed",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.32598/jaehr.9.4.1233 ",
+    "pmid": "",
+    "titre_confirme": "Assessment of Human Health Risk and Surface Soil Contamination by Some Toxic Elements in Arak City, Iran",
+    "journal": "Journal of Advances in Environmental Health Research",
+    "annee": 2021,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Étude environnementale. Non pertinent MSK.",
+    "confiance": 0.98,
+    "sources_verif": [
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.32598/jccnc.7.1.354.1 ",
+    "pmid": "",
+    "titre_confirme": "Effects of Integrative Behavioral Couple Therapy on Infertility Self-Efficacy, Dyadic Adjustment, and Sexual Satisfaction in Infertile Couples",
+    "journal": "Journal of Client-Centered Nursing Care",
+    "annee": 2021,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Essai psychologique en infertilité. Hors MSK.",
+    "confiance": 0.98,
+    "sources_verif": [
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.3340/jkns.2013.53.2.89 ",
+    "pmid": "23560172",
+    "titre_confirme": "Prevalence of Disc Degeneration in Asymptomatic Korean Subjects. Part 2: Cervical Spine",
+    "journal": "Journal of Korean Neurosurgical Society",
+    "annee": 2013,
+    "evidence": "COHORTE",
+    "inclusion": "oui",
+    "raisons_exclusion": [],
+    "theme": "imagerie",
+    "multithemes": [
+      "cervicalgie"
+    ],
+    "strategies": [
+      "éducation"
+    ],
+    "safety": [],
+    "strategies_suggerees": [
+      "strategie_education_pne"
+    ],
+    "resume_utile": "Haute prévalence d’anomalies IRM cervicales chez asymptomatiques. Aide au discours non alarmiste sur imagerie.",
+    "confiance": 0.94,
+    "sources_verif": [
+      "PubMed",
+      "Editeur",
+      "PMC"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.52403/ijrr.20240805 ",
+    "pmid": "",
+    "titre_confirme": "Renal Rehabilitation—An Effective Treatment Strategy for Physical and Functional Limitation in Patients With Chronic Kidney Disease (CKD): A Review Report",
+    "journal": "International Journal of Research and Review",
+    "annee": 2024,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "revue_narrative"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Revue CKD non MSK.",
+    "confiance": 0.97,
+    "sources_verif": [
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.5455/ijbh.2023.11.216-226 ",
+    "pmid": "",
+    "titre_confirme": "Patient's Satisfaction as a Subjective Assessment: The Most Important Indicator of the Quality of the Health Care System",
+    "journal": "International Journal of Biomedicine and Healthcare",
+    "annee": 2023,
+    "evidence": "COHORTE",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_theme_controlle"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Article satisfaction/qualité. Non clinique MSK.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.5705/ss.202021.0387 ",
+    "pmid": "",
+    "titre_confirme": "Statistical Inference With Anchored Bayesian Mixture of Regressions Models: An Illustrative Study of Allometric Data",
+    "journal": "Statistica Sinica",
+    "annee": 2025,
+    "evidence": "OPINION",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "methodologie_statistique_generale"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Méthode statistique générale. Non applicable MSK.",
+    "confiance": 0.98,
+    "sources_verif": [
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  },
+  {
+    "id": "",
+    "doi": "https://doi.org/10.57220/jatpb.v3i1.178 ",
+    "pmid": "",
+    "titre_confirme": "Essai de formulation de suppositoires à base d’extraits aqueux des écorces de tronc de Parkia biglobosa jacq. (Fabaceae-Mimosoideae) pour la prise en charge de l’inflammation due à la crise hémorroïdaire",
+    "journal": "Journal Africain de Technologie Pharmaceutique et Biopharmacie",
+    "annee": 2024,
+    "evidence": "",
+    "inclusion": "non",
+    "raisons_exclusion": [
+      "hors_perimetre_msk",
+      "hors_perimetre_clinique"
+    ],
+    "theme": "methodologie",
+    "multithemes": [],
+    "strategies": [],
+    "safety": [],
+    "strategies_suggerees": [],
+    "resume_utile": "Article de formulation pharmaceutique sans lien avec la prise en charge MSK en cabinet.",
+    "confiance": 0.9,
+    "sources_verif": [
+      "Crossref",
+      "Editeur"
+    ],
+    "ecarts_detectes": []
+  }
+]
