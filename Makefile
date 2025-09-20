@@ -24,7 +24,7 @@ triage:
 	python tools/map2annotations.py tmp/xref.csv knowledge_items_clean.yaml --output items/annotations.yaml
 	python tools/json2yaml_rules.py docs/triage_pack_2025-09-13/core/decision_rules.json items/annotations.yaml --output items/decision_rules.yaml
 	python scripts/merge2codex.py --allow annotation --allow decision_rule items/annotations.yaml items/decision_rules.yaml
+	python scripts/etl_graph.py
 	pytest
 	python scripts/check_orphans.py
-	python scripts/etl_graph.py
 	python scripts/build_index.py

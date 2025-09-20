@@ -25,6 +25,7 @@ def test_annotation_volume():
         assert entry["tag"]
         assert entry["snippet"]
         assert entry["source_file"]
+    assert any(a.get("evidence_id") for a in annotations), "evidence_id manquant"
 
 
 def test_rules_cover_all_tags():
@@ -34,7 +35,9 @@ def test_rules_cover_all_tags():
     linked = set()
     for rule in rules:
         linked.update(rule["linked_annotations"])
-    assert linked.issuperset({entry["id"] for entry in annotations})
+    for entry in annotations:
+        ref = entry.get("evidence_id") or entry["id"]
+        assert ref in linked
     covered_tags = set()
     for rule in rules:
         covered_tags.update(rule["condition"]["any_tags"])
@@ -46,3 +49,9 @@ def test_merge_output_present():
     payload = json.loads((ROOT / "graph" / "knowledge.json").read_text(encoding="utf-8"))
     assert "annotation" in payload and len(payload["annotation"]) == 2925
     assert "decision_rule" in payload and len(payload["decision_rule"]) >= 5
+
+
+def test_graph_contains_renvoi_edge():
+    graph = json.loads((ROOT / "graph" / "export.json").read_text(encoding="utf-8"))
+    edges = graph.get("edges") or []
+    assert any(edge.get("type") == "RENVOI" for edge in edges), "RENVOI edge manquante"
