@@ -23,18 +23,32 @@ def load_front_matter(md_path: Path):
 valid_evid = set()
 valid_strat = set()
 
+def iter_evidence_payloads(evdir: Path):
+    for path in evdir.rglob("*.md"):
+        data = load_front_matter(path)
+        if data:
+            yield path, data
+    for path in evdir.rglob("*.json"):
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            continue
+        if isinstance(data, dict):
+            yield path, data
+
+
 # Evidence nodes (only statut: valide)
 evdir = ROOT/"evidence"
-for p in evdir.rglob("*.md") if evdir.exists() else []:
-    fm = load_front_matter(p)
-    if not fm or fm.get("statut") != "valide":
-        continue
-    evid_id = fm.get("id", p.stem)
-    if evid_id in node_ids:
-        continue
-    nodes.append({"id": evid_id, "kind": "Evidence", "path": str(p)})
-    node_ids.add(evid_id)
-    valid_evid.add(evid_id)
+if evdir.exists():
+    for path, payload in iter_evidence_payloads(evdir):
+        if payload.get("statut") != "valide":
+            continue
+        evid_id = str(payload.get("id") or path.stem)
+        if not evid_id or evid_id in node_ids:
+            continue
+        nodes.append({"id": evid_id, "kind": "Evidence", "path": str(path)})
+        node_ids.add(evid_id)
+        valid_evid.add(evid_id)
 
 # Strategie nodes (only statut: valide)
 sdir = ROOT/"strategies"

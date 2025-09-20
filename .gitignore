@@ -181,3 +181,6 @@ cython_debug/
 .cursorindexingignore
 # Triage intermediate artifacts
 tmp/
+graph/export.json
+graph/knowledge.json
+index/index.json

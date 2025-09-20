@@ -14,19 +14,23 @@ RULES_PATH = ROOT / "items" / "decision_rules.yaml"
 THRESHOLD = 0.05
 
 
-def load_annotations(path: Path) -> Set[str]:
+def load_annotations(path: Path) -> Dict[str, str | None]:
     if not path.exists():
         raise FileNotFoundError(f"Missing annotations file: {path}")
     data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
     entries = data.get("annotations") or data.get("annotation") or []
-    identifiers = {
-        str(entry.get("id"))
-        for entry in entries
-        if isinstance(entry, dict) and entry.get("id")
-    }
-    if not identifiers:
+    annotations: Dict[str, str | None] = {}
+    for entry in entries:
+        if not isinstance(entry, dict):
+            continue
+        identifier = entry.get("id")
+        if not identifier:
+            continue
+        evidence_id = entry.get("evidence_id")
+        annotations[str(identifier)] = str(evidence_id) if evidence_id else None
+    if not annotations:
         raise ValueError("No annotations found; cannot compute orphan ratio")
-    return identifiers
+    return annotations
 
 
 def load_rules(path: Path) -> List[Dict[str, object]]:
@@ -46,11 +50,16 @@ def compute_orphans() -> int:
         refs = rule.get("linked_annotations", [])
         if isinstance(refs, list):
             linked.update(str(ref) for ref in refs)
-    orphans = annotations - linked
+    covered: Set[str] = set()
+    for ann_id, evidence_id in annotations.items():
+        reference = evidence_id or ann_id
+        if reference in linked:
+            covered.add(ann_id)
+    orphans = set(annotations) - covered
 
     total = len(annotations)
     ratio = len(orphans) / total
-    linked_count = len(linked & annotations)
+    linked_count = len(covered)
     print(
         "annotations="
         f"{total} linked={linked_count} orphans={len(orphans)} ratio={ratio:.4f}"

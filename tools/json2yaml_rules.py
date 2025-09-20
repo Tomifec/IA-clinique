@@ -30,8 +30,11 @@ def map_tag_to_annotations(annotations: Dict[str, Dict[str, object]]) -> Dict[st
     mapping: Dict[str, Set[str]] = defaultdict(set)
     for identifier, entry in annotations.items():
         tag = entry.get("tag")
-        if isinstance(tag, str) and tag:
-            mapping[tag].add(identifier)
+        if not isinstance(tag, str) or not tag:
+            continue
+        evidence_id = entry.get("evidence_id")
+        ref = evidence_id if isinstance(evidence_id, str) and evidence_id else identifier
+        mapping[tag].add(str(ref))
     return mapping
 
 

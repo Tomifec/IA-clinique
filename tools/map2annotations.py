@@ -5,9 +5,10 @@ from __future__ import annotations
 
 import argparse
 import csv
+import unicodedata
 import uuid
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, Iterable, List, Mapping, Sequence
 
 import yaml
 
@@ -50,7 +51,92 @@ def coerce_int(value: str | None) -> int | None:
         return None
 
 
-def build_annotation(row: Dict[str, str]) -> Dict[str, object]:
+def slugify(value: str | None) -> str | None:
+    if not value:
+        return None
+    normalised = unicodedata.normalize("NFKD", value)
+    ascii_text = normalised.encode("ascii", "ignore").decode("ascii")
+    cleaned = "".join(ch if ch.isalnum() else "_" for ch in ascii_text.lower())
+    slug = "_".join(part for part in cleaned.split("_") if part)
+    return slug or None
+
+
+def iter_knowledge_items(raw: object) -> Iterable[Mapping[str, object]]:
+    if isinstance(raw, Mapping):
+        items = raw.get("items")
+        if isinstance(items, list):
+            for entry in items:
+                if isinstance(entry, Mapping):
+                    yield entry
+        else:
+            for entry in raw.values():
+                if isinstance(entry, Mapping):
+                    yield entry
+    elif isinstance(raw, list):
+        for entry in raw:
+            if isinstance(entry, Mapping):
+                yield entry
+
+
+def build_knowledge_index(path: Path) -> Dict[str, set[str]]:
+    data = yaml.safe_load(path.read_text(encoding="utf-8"))
+    index: Dict[str, set[str]] = {}
+    for item in iter_knowledge_items(data):
+        identifier = str(item.get("id") or "").strip()
+        if not identifier:
+            continue
+        candidates = {identifier}
+        title = item.get("title")
+        if isinstance(title, str):
+            candidates.add(title)
+        doi = item.get("doi")
+        if isinstance(doi, str):
+            candidates.add(doi)
+        translations = item.get("translations")
+        if isinstance(translations, list):
+            for entry in translations:
+                if isinstance(entry, Mapping):
+                    translated = entry.get("title")
+                    if isinstance(translated, str):
+                        candidates.add(translated)
+        for candidate in candidates:
+            slug = slugify(candidate)
+            if not slug:
+                continue
+            bucket = index.setdefault(slug, set())
+            bucket.add(identifier)
+    return index
+
+
+def resolve_evidence_id(row: Mapping[str, str], index: Mapping[str, Sequence[str]]) -> str | None:
+    source = row.get("source_file", "")
+    base = Path(source).stem
+    slug = slugify(base)
+    if not slug:
+        return None
+    direct = index.get(slug)
+    if direct:
+        if len(direct) == 1:
+            return next(iter(direct))
+    best_id: str | None = None
+    best_score: int | None = None
+    for key, identifiers in index.items():
+        if slug not in key and key not in slug:
+            continue
+        for identifier in identifiers:
+            score = abs(len(key) - len(slug))
+            if best_score is None or score < best_score:
+                best_score = score
+                best_id = identifier
+            elif score == best_score and identifier != best_id:
+                best_id = None
+    return best_id
+
+
+def build_annotation(
+    row: Dict[str, str],
+    knowledge_index: Mapping[str, Sequence[str]],
+) -> Dict[str, object]:
     data: Dict[str, object] = {
         "id": generate_id(row),
         "type": "clinical_snippet",
@@ -64,6 +150,9 @@ def build_annotation(row: Dict[str, str]) -> Dict[str, object]:
         data["page"] = page
     if line is not None:
         data["line"] = line
+    evidence_id = resolve_evidence_id(row, knowledge_index)
+    if evidence_id:
+        data["evidence_id"] = evidence_id
     return data
 
 
@@ -86,8 +175,10 @@ def main() -> int:
     if not args.knowledge_items.exists():
         raise FileNotFoundError(f"Knowledge items file not found: {args.knowledge_items}")
 
+    knowledge_index = build_knowledge_index(args.knowledge_items)
+
     rows = load_rows(args.csv_path)
-    annotations = [build_annotation(row) for row in rows]
+    annotations = [build_annotation(row, knowledge_index) for row in rows]
 
     payload = {"annotations": annotations}
     text = yaml.safe_dump(payload, allow_unicode=True, sort_keys=False)
