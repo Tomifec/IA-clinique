@@ -1,0 +1,12 @@
+annotation:
+  required: [id, type, tag, snippet, source_file]
+  optional: [evidence_id, page, line]
+
+decision_rule:
+  required: [id, type, category, condition, action]
+  properties:
+    condition:
+      any_tags: []
+      all_tags: []
+      unless_tags: []
+    linked_annotations: []

@@ -1,5 +1,7 @@
 # IA Clinique - Guide rapide (local)
 
+[![CI](https://github.com/IA-Clinique/IA-clinique/actions/workflows/github_actions_codex_ci.yml/badge.svg)](https://github.com/IA-Clinique/IA-clinique/actions/workflows/github_actions_codex_ci.yml)
+
 Référence détaillée: `docs/plan_hybride_graphe_multi-agents_guide.md`
 
 Ce dépôt fournit un pipeline local et déterministe (offline) pour valider des fiches Markdown (Evidence/Stratégies/Safety), construire un graphe et un index, et des outils "agents en ligne" (hors scripts/) pour la curation (DOI/PMID, statuts de rétractation, snapshots d'audit).
@@ -15,7 +17,7 @@ Ce dépôt fournit un pipeline local et déterministe (offline) pour valider des
 - Gate evidence (offline): `python scripts/verify_evidence_stub.py`
 - Graphe: `python scripts/etl_graph.py`
 - Index: `python scripts/build_index.py`
-- Makefile: `make validate`, `make verify`, `make graph`, `make index`, `make all`
+- Makefile: `make validate`, `make verify`, `make graph`, `make index`, `make all`, `make triage`
 
 Notes:
 - Le graphe et l'index n'incluent que les fichiers avec `statut: valide`.
