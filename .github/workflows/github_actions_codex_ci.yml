@@ -1,0 +1,26 @@
+name: Codex CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Lint (Ruff)
+        run: ruff check .
+      - name: Pytest
+        run: pytest --maxfail=1 --disable-warnings -q
+      - name: Check orphan annotations
+        run: python scripts/check_orphans.py

@@ -1,0 +1,24 @@
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+exclude = [
+  "artifacts",
+  "docs",
+  "ia_clinique_files.zip",
+  "logs",
+  "tools/agents_online",
+  "tools/codex_integration",
+  "tools/local_ci",
+]
+include = [
+  "scripts/check_orphans.py",
+  "scripts/merge2codex.py",
+  "scripts/etl_graph.py",
+  "tools/extract_snippets.py",
+  "tools/json2yaml_rules.py",
+  "tools/map2annotations.py",
+  "tests/test_triage_pipeline.py",
+]
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
